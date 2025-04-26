@@ -48,3 +48,6 @@ python code/main.py --analyze --top_n 5 # Analyze only first 5 files
 - This script currently uses OpenAI's API with the `response_format={"type": "json_object"}` parameter to ensure proper JSON formatting
 - You can swap other OpenAI models but they need to support the JSON response format option
 - It's possible to adapt this for other providers (Anthropic, etc.) with some modifications to the `Analyzer` class
+
+## Work in Progress
+- **enum_example.py**: Script demonstrating how to constrain LLM responses to a predefined set of values (e.g., submitter types). This approach has the model return only allowed values from an enumeration.
