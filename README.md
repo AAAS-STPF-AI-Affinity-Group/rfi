@@ -35,16 +35,24 @@ python code/main.py --analyze
 ```
 Runs OpenAI analysis on text files (requires `.env` with API key).
 
+### Generate HTML Report
+```
+python code/main.py --make_html
+```
+Generates an interactive HTML dashboard from analysis results.
+
 ### Other Options
 ```
 python code/main.py --download_only    # Just download and extract PDFs
 python code/main.py --process_only     # Just convert PDFs to text
 python code/main.py --analyze --top_n 5 # Analyze only first 5 files
+python code/main.py --make_html --json_file path/to/analysis.json # Generate HTML from specific JSON file
 ```
 
 ## Notes
 - The `raw_data` folder is not included in the repo due to file size
 - Analysis results are saved as JSON in the `processed_data` folder
+- HTML reports are saved in the `html_reports` folder
 - This script currently uses OpenAI's API with the `response_format={"type": "json_object"}` parameter to ensure proper JSON formatting
 - You can swap other OpenAI models but they need to support the JSON response format option
 - It's possible to adapt this for other providers (Anthropic, etc.) with some modifications to the `Analyzer` class
