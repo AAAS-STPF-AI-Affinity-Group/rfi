@@ -83,17 +83,30 @@ For each of the test cases, we will ask the following questions:
 
 1. On a 1-5 scale, where 1 is "very worried" and 5 is "very enthusiastic", how would you rate the submission's sentiment towards AI adoption?
 2. Tag the repository with whether it deals with the following:
+  - Application and Use in the Private Sector
+  - Application and Use in the Public Sector
+  - Biosecurity
+  - Cybersecurity
+  - Data Centers
   - Data Privacy and Security
+  - Energy Consumption and Efficiency
+  - Environmental Concerns
+  - Export Controls
   - Ethical AI Frameworks and Bias Mitigation
-  - Workforce Development and Education
-  - Need for Computing Infrastructure
-  - Specific Regulatory Approaches (e.g., sector-specific vs. broad)
-  - International Collaboration and Standards
-  - Research and Development Funding Priorities
+  - Explainability and Assurance of AI Model Outputs
+  - Hardware and Chips
   - Impact on Small Businesses
-  - National Security Implications
+  - Innovation and Competition
   - Intellectual Property Issues
-  - Increasing Government Efficiency
+  - International Collaboration and Standards
+  - Job Displacement
+  - Model Development
+  - National Security and Defense
+  - Open Source Development
+  - Procurement
+  - Research and Development Funding Priorities
+  - Specific Regulatory Approaches (e.g., sector-specific vs. broad)
+  - Workforce Development and Education
 3. If there are any topics not given in #2, identify them and add them to the list
 4. For each topic cluster, summarize key arguments, proposals, and concerns raised within that theme across all relevant responses.
 5. Provide 5 keywords that best encapsulate the submission's main ideas.
