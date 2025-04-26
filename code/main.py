@@ -156,7 +156,7 @@ For each text you receive, please extract the following fields:
   - Impact on Small Businesses
   - Innovation and Competition
   - Intellectual Property Issues
-  - International Collaboration and Standards
+  - International Collaboration
   - Job Displacement
   - Model Development
   - National Security and Defense
@@ -164,6 +164,7 @@ For each text you receive, please extract the following fields:
   - Procurement
   - Research and Development Funding Priorities
   - Specific Regulatory Approaches (e.g., sector-specific vs. broad)
+  - Technical and Safety Standards
   - Workforce Development and Education
 - additional_themes: List any important themes discussed that aren't covered by the main_topics list.
 - keywords: Provide 5 keywords that best encapsulate the submission's main ideas.
