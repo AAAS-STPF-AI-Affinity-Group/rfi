@@ -180,7 +180,7 @@ Return ONLY a JSON object matching this structure."""
         return result    
 
 def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
-    """Analyze text files and save structured results incrementally with progress bar."""
+    """Analyze text files and save structured results incrementally with progress bar. Automatically generates HTML."""
     create_directory(processed_data_dir)
     
     analyzer = Analyzer()
@@ -192,7 +192,6 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     output_filename = os.path.join(processed_data_dir, f"analyzed_{timestamp}.json")
 
-    # Load existing partial results if restarting
     if os.path.exists(output_filename):
         with open(output_filename, 'r', encoding='utf-8') as f:
             results = json.load(f)
@@ -200,7 +199,6 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
     else:
         results = {}
 
-    # Setup progress bar
     with tqdm(total=len(txt_files), desc="Analyzing texts") as pbar:
         for idx, txt_file in enumerate(txt_files):
             if txt_file in results:
@@ -216,10 +214,7 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
                 results[txt_file] = analysis
             except Exception as e:
                 print(f"Failed to analyze {txt_file}: {e}")
-                # Still count this file as "done" even if it errors
-                pass
 
-            # Save progress after every batch_size files
             if (idx + 1) % batch_size == 0 or idx == len(txt_files) - 1:
                 with open(output_filename, 'w', encoding='utf-8') as f:
                     json.dump(results, f, indent=2)
@@ -228,41 +223,40 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
             pbar.update(1)
 
     print(f"Analysis complete. Final results saved to {output_filename}")
+
+    # === AUTO GENERATE HTML REPORT ===
+    repo_dir = os.getcwd()
+    html_output_dir = os.path.join(repo_dir, 'html_reports')
+    create_directory(html_output_dir)
+    make_html(output_filename, html_output_dir)
+    # === === ===
+
     return output_filename
 
 
+
 def make_html(json_file_path, output_dir):
-    """Generate HTML report from analyzed data."""
+    """Generate a flexible HTML report from analyzed data."""
     create_directory(output_dir)
     
     print(f"Reading analysis from: {json_file_path}")
     with open(json_file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    
-    # Convert to pandas DataFrame for easier manipulation
+
+    # Flatten data into a list of dicts
     records = []
     for filename, analysis in data.items():
-        record = {
-            'filename': filename,
-            'submitter_type': analysis.get('submitter_type', 'Unknown'),
-            'summary': analysis.get('summary', ''),
-            'themes': ', '.join(analysis.get('themes', [])),
-            'keywords': ', '.join(analysis.get('keywords', [])),
-            'interesting_quotes': '<br>'.join(analysis.get('interesting_quotes', []))
-        }
+        record = {'filename': filename}
+        record.update(analysis)
         records.append(record)
-    
+
     df = pd.DataFrame(records)
-    
-    # Calculate summary statistics
-    submitter_counts = df['submitter_type'].value_counts().to_dict()
-    
-    # We're not using theme counts anymore, so we can remove this section
-    
-    # Convert DataFrame to JSON for JavaScript
+
+    fields = df.columns.tolist()  # <- auto detect the fields
+
     json_data = df.to_json(orient='records')
-    
-    # Create HTML with Jinja2 template
+
+    # Simple HTML template with dynamic fields
     template_str = '''
     <!DOCTYPE html>
     <html lang="en">
@@ -271,187 +265,58 @@ def make_html(json_file_path, output_dir):
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Public Comments Analysis</title>
         <script src="https://cdn.tailwindcss.com"></script>
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
-        <style>
-            .hidden {
-                display: none;
-            }
-        </style>
     </head>
     <body class="bg-gray-100 p-6">
         <div class="container mx-auto">
-            <h1 class="text-3xl font-bold mb-6 text-center">Public Comments Analysis Dashboard</h1>
-            
-            <!-- Summary statistics -->
-            <div class="mb-8">
-                <div class="bg-white p-6 rounded-lg shadow">
-                    <h2 class="text-xl font-semibold mb-4">Submitter Types</h2>
-                    <canvas id="submitterChart"></canvas>
-                </div>
-            </div>
-            
-            <!-- Filters -->
-            <div class="bg-white p-6 rounded-lg shadow mb-8">
-                <h2 class="text-xl font-semibold mb-4">Filters</h2>
-                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                    <div>
-                        <label class="block text-sm font-medium text-gray-700">Submitter Type</label>
-                        <select id="submitterFilter" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
-                            <option value="">All</option>
-                        </select>
-                    </div>
-                    <div>
-                        <label class="block text-sm font-medium text-gray-700">Theme</label>
-                        <input type="text" id="themeFilter" placeholder="Filter by theme" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
-                    </div>
-                    <div>
-                        <label class="block text-sm font-medium text-gray-700">Keyword</label>
-                        <input type="text" id="keywordFilter" placeholder="Filter by keyword" class="mt-1 block w-full p-2 border border-gray-300 rounded-md">
-                    </div>
-                </div>
-            </div>
-            
-            <!-- Data Table -->
-            <div class="bg-white p-6 rounded-lg shadow">
-                <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-xl font-semibold">Data Table</h2>
-                    <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                        Download as CSV
-                    </button>
-                </div>
-                <div class="overflow-x-auto">
-                    <table id="dataTable" class="min-w-full bg-white">
-                        <thead>
-                            <tr>
-                                <th class="py-2 px-4 border-b border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Filename</th>
-                                <th class="py-2 px-4 border-b border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Submitter Type</th>
-                                <th class="py-2 px-4 border-b border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Summary</th>
-                                <th class="py-2 px-4 border-b border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Themes</th>
-                                <th class="py-2 px-4 border-b border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">Keywords</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <!-- Data rows will be inserted here by JavaScript -->
-                        </tbody>
-                    </table>
-                </div>
+            <h1 class="text-3xl font-bold mb-6 text-center">Public Comments Analysis</h1>
+
+            <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-4 rounded">
+                Download CSV
+            </button>
+
+            <div class="overflow-x-auto">
+                <table id="dataTable" class="min-w-full bg-white">
+                    <thead>
+                        <tr>
+                            {% for field in fields %}
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">{{ field }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Rows injected by JavaScript -->
+                    </tbody>
+                </table>
             </div>
         </div>
-        
+
         <script>
-            // Data from backend
             const analysisData = {{ json_data|safe }};
-            const submitterCounts = {{ submitter_counts|tojson }};
-            
-            // Initialize charts
+            const fields = {{ fields|tojson }};
+
             document.addEventListener('DOMContentLoaded', function() {
-                // Submitter Chart
-                const submitterCtx = document.getElementById('submitterChart').getContext('2d');
-                const submitterChart = new Chart(submitterCtx, {
-                    type: 'bar',
-                    data: {
-                        labels: Object.keys(submitterCounts),
-                        datasets: [{
-                            label: 'Number of Submissions',
-                            data: Object.values(submitterCounts),
-                            backgroundColor: '#4299E1'
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        plugins: {
-                            legend: {
-                                display: false
-                            }
-                        },
-                        scales: {
-                            y: {
-                                beginAtZero: true,
-                                ticks: {
-                                    precision: 0
-                                }
-                            }
-                        }
-                    }
-                });
-                
-                // Populate submitter filter
-                const submitterFilter = document.getElementById('submitterFilter');
-                const submitterTypes = [...new Set(analysisData.map(item => item.submitter_type))];
-                submitterTypes.forEach(type => {
-                    const option = document.createElement('option');
-                    option.value = type;
-                    option.textContent = type;
-                    submitterFilter.appendChild(option);
-                });
-                
-                // Populate data table
                 populateTable(analysisData);
-                
-                // Event listeners for filters
-                document.getElementById('submitterFilter').addEventListener('change', filterData);
-                document.getElementById('themeFilter').addEventListener('input', filterData);
-                document.getElementById('keywordFilter').addEventListener('input', filterData);
-                
-                // Download CSV
+
                 document.getElementById('downloadCsv').addEventListener('click', downloadCsv);
             });
-            
+
             function populateTable(data) {
                 const tbody = document.querySelector('#dataTable tbody');
                 tbody.innerHTML = '';
-                
+
                 data.forEach(item => {
                     const row = document.createElement('tr');
                     row.className = 'hover:bg-gray-50';
-                    
-                    row.innerHTML = `
-                        <td class="py-2 px-4 border-b border-gray-200">${item.filename}</td>
-                        <td class="py-2 px-4 border-b border-gray-200">${item.submitter_type}</td>
-                        <td class="py-2 px-4 border-b border-gray-200">${item.summary}</td>
-                        <td class="py-2 px-4 border-b border-gray-200">${item.themes}</td>
-                        <td class="py-2 px-4 border-b border-gray-200">${item.keywords}</td>
-                    `;
-                    
+                    row.innerHTML = fields.map(field =>
+                        `<td class="py-2 px-4 border-b">${item[field] !== undefined ? item[field] : ''}</td>`
+                    ).join('');
                     tbody.appendChild(row);
                 });
             }
-            
-            function filterData() {
-                const submitterType = document.getElementById('submitterFilter').value;
-                const themeText = document.getElementById('themeFilter').value.toLowerCase();
-                const keywordText = document.getElementById('keywordFilter').value.toLowerCase();
-                
-                const filteredData = analysisData.filter(item => {
-                    const matchesSubmitter = !submitterType || item.submitter_type === submitterType;
-                    const matchesTheme = !themeText || item.themes.toLowerCase().includes(themeText);
-                    const matchesKeyword = !keywordText || item.keywords.toLowerCase().includes(keywordText);
-                    
-                    return matchesSubmitter && matchesTheme && matchesKeyword;
-                });
-                
-                populateTable(filteredData);
-            }
-            
+
             function downloadCsv() {
-                // Get visible data
-                const visibleRows = Array.from(document.querySelectorAll('#dataTable tbody tr')).filter(row => !row.classList.contains('hidden'));
-                const visibleData = visibleRows.map(row => {
-                    const cells = Array.from(row.cells);
-                    return {
-                        filename: cells[0].textContent,
-                        submitter_type: cells[1].textContent,
-                        summary: cells[2].textContent,
-                        themes: cells[3].textContent,
-                        keywords: cells[4].textContent
-                    };
-                });
-                
-                // Convert to CSV
-                const csv = Papa.unparse(visibleData);
-                
-                // Create download link
+                const csv = Papa.unparse(analysisData);
                 const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
                 const url = URL.createObjectURL(blob);
                 const link = document.createElement('a');
@@ -466,25 +331,202 @@ def make_html(json_file_path, output_dir):
     </body>
     </html>
     '''
-    
-    # Create Jinja2 environment and template
+
     env = jinja2.Environment()
-    # Add the tojson filter
     env.filters['tojson'] = lambda obj: json.dumps(obj)
     template = env.from_string(template_str)
-    
-    # Render HTML
+
     html_content = template.render(
         json_data=json_data,
-        submitter_counts=submitter_counts
+        fields=fields
     )
-    
-    # Save HTML to file
+
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     html_file_path = os.path.join(output_dir, f"report_{timestamp}.html")
     with open(html_file_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
-    
+
+    print(f"HTML report generated: {html_file_path}")
+    return html_file_path
+
+def make_html(json_file_path, output_dir):
+    """Generate a flexible HTML report from analyzed data, with per-column search and submitter chart."""
+    import os
+    import json
+    import pandas as pd
+    import jinja2
+    from datetime import datetime
+
+    create_directory(output_dir)
+
+    print(f"Reading analysis from: {json_file_path}")
+    with open(json_file_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    # Flatten records
+    records = []
+    for filename, analysis in data.items():
+        record = {'filename': filename}
+        record.update(analysis)
+        records.append(record)
+
+    df = pd.DataFrame(records)
+    fields = df.columns.tolist()
+    json_data = df.to_json(orient='records')
+    submitter_counts = df['submitter_type'].value_counts().to_dict()
+
+    template_str = '''
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Public Comments Analysis</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    </head>
+    <body class="bg-gray-100 p-6">
+        <div class="container mx-auto">
+            <h1 class="text-3xl font-bold mb-6 text-center">Public Comments Analysis</h1>
+
+            <!-- Submitter Types Chart -->
+            <div class="bg-white p-6 rounded-lg shadow mb-8">
+                <h2 class="text-xl font-semibold mb-4">Submitter Types</h2>
+                <canvas id="submitterChart"></canvas>
+            </div>
+
+            <!-- Data Table with per-column search -->
+            <div class="bg-white p-6 rounded-lg shadow">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-semibold">Data Table</h2>
+                    <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Download CSV
+                    </button>
+                </div>
+                <div class="overflow-x-auto">
+                    <table id="dataTable" class="min-w-full bg-white">
+                        <thead>
+                            <tr>
+                                {% for field in fields %}
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    {{ field }}<br>
+                                    <input type="text" data-field="{{ field }}" class="columnSearch mt-1 p-1 border rounded w-full text-xs" placeholder="Search...">
+                                </th>
+                                {% endfor %}
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Rows injected by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            const analysisData = {{ json_data|safe }};
+            const submitterCounts = {{ submitter_counts|tojson }};
+            const fields = {{ fields|tojson }};
+
+            document.addEventListener('DOMContentLoaded', function() {
+                populateTable(analysisData);
+
+                // Set up per-column search
+                document.querySelectorAll('.columnSearch').forEach(input => {
+                    input.addEventListener('input', filterTable);
+                });
+
+                // Submitter Type Bar Chart
+                const submitterCtx = document.getElementById('submitterChart').getContext('2d');
+                new Chart(submitterCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: Object.keys(submitterCounts),
+                        datasets: [{
+                            label: 'Number of Submissions',
+                            data: Object.values(submitterCounts),
+                            backgroundColor: '#4299E1'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: { legend: { display: false } },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                ticks: { precision: 0 }
+                            }
+                        }
+                    }
+                });
+
+                document.getElementById('downloadCsv').addEventListener('click', downloadCsv);
+            });
+
+            function filterTable() {
+                const filters = {};
+                document.querySelectorAll('.columnSearch').forEach(input => {
+                    const field = input.dataset.field;
+                    const value = input.value.trim().toLowerCase();
+                    if (value) filters[field] = value;
+                });
+
+                const filteredData = analysisData.filter(item => {
+                    return Object.entries(filters).every(([field, searchValue]) => {
+                        return (String(item[field] || '').toLowerCase().includes(searchValue));
+                    });
+                });
+
+                populateTable(filteredData);
+            }
+
+            function populateTable(data) {
+                const tbody = document.querySelector('#dataTable tbody');
+                tbody.innerHTML = '';
+
+                data.forEach(item => {
+                    const row = document.createElement('tr');
+                    row.className = 'hover:bg-gray-50';
+                    row.innerHTML = fields.map(field =>
+                        `<td class="py-2 px-4 border-b">${item[field] !== undefined ? item[field] : ''}</td>`
+                    ).join('');
+                    tbody.appendChild(row);
+                });
+            }
+
+            function downloadCsv() {
+                const csv = Papa.unparse(analysisData);
+                const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+                const url = URL.createObjectURL(blob);
+                const link = document.createElement('a');
+                link.setAttribute('href', url);
+                link.setAttribute('download', 'public_comments_analysis.csv');
+                link.style.visibility = 'hidden';
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            }
+        </script>
+    </body>
+    </html>
+    '''
+
+    env = jinja2.Environment()
+    env.filters['tojson'] = lambda obj: json.dumps(obj)
+    template = env.from_string(template_str)
+
+    html_content = template.render(
+        json_data=json_data,
+        submitter_counts=submitter_counts,
+        fields=fields
+    )
+
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    html_file_path = os.path.join(output_dir, f"report_{timestamp}.html")
+    with open(html_file_path, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+
     print(f"HTML report generated: {html_file_path}")
     return html_file_path
 
