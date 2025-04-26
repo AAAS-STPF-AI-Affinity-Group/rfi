@@ -117,7 +117,7 @@ def download_and_extract(raw_data_dir):
     # Move files from subfolder to raw_data_dir and delete the subfolder
     move_files_from_subfolder(raw_data_dir)
     
-    
+
 class Analyzer:
     """LLM-based analyzer for extracting information from text files."""
     def __init__(self, model="gpt-4o-mini", api_base="https://api.openai.com/v1/chat/completions", api_key=None):
@@ -129,11 +129,32 @@ class Analyzer:
         return """You are an assistant that reads public comments submitted to the government.
 For each text you receive, please extract the following fields:
 
-- themes: A list of main themes discussed.
-- keywords: A list of important keywords.
 - summary: A short paragraph summarizing the main points.
 - submitter_type: The type of submitter (e.g., individual, company, advocacy group, etc.). If unclear, guess based on context.
 - interesting_quotes: A list of up to 3 interesting direct quotes from the text.
+- sentiment_rating: On a 1-5 scale, rate the submission's sentiment towards AI adoption, where:
+  - 1 = very worried
+  - 2 = somewhat worried
+  - 3 = neutral
+  - 4 = somewhat enthusiastic
+  - 5 = very enthusiastic
+  - NA = not applicable (if the submission doesn't express a clear sentiment about AI adoption)
+- sentiment_rationale: A brief explanation (1-2 sentences) supporting the sentiment rating assigned.
+- main_topics: A list of topics discussed in the submission. Include ONLY those that apply from this list:
+  - Data Privacy and Security
+  - Ethical AI Frameworks and Bias Mitigation
+  - Workforce Development and Education
+  - Need for Computing Infrastructure
+  - Specific Regulatory Approaches
+  - International Collaboration and Standards
+  - Research and Development Funding Priorities
+  - Impact on Small Businesses
+  - National Security Implications
+  - Intellectual Property Issues
+  - Increasing Government Efficiency
+- additional_themes: List any important themes discussed that aren't covered by the main_topics list.
+- keywords: Provide 5 keywords that best encapsulate the submission's main ideas.
+- policy_suggestions: A list of actionable policy suggestions mentioned in the text (e.g., "Implement mandatory model audits" or "Fund AI literacy programs").
 
 Return ONLY a JSON object matching this structure."""
 
@@ -155,7 +176,8 @@ Return ONLY a JSON object matching this structure."""
         response = requests.post(self.api_base, headers=headers, json=payload)
         response.raise_for_status()
         data = response.json()
-        return json.loads(data["choices"][0]["message"]["content"])
+        result = json.loads(data["choices"][0]["message"]["content"])
+        return result    
 
 def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
     """Analyze text files and save structured results incrementally with progress bar."""

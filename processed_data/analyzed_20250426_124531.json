@@ -1,0 +1,338 @@
+{
+  "1Day-Sooner-RFI-2025.txt": {
+    "summary": "The submission from 1Day Sooner expresses strong support for the development of an AI Action Plan by the White House Office of Science and Technology Policy (OSTP). It offers several recommendations aimed at enhancing the integration of AI within the Department of Health and Human Services (HHS), particularly the FDA, emphasizing the need for an AI Corps to provide specialized expertise, improve data readiness, and foster AI adoption to streamline healthcare processes and improve patient outcomes.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "AI stands poised to not only revolutionize healthcare but also transform every aspect of HHS.",
+      "This moment represents a critical opportunity for the Administration to affirm its commitment to advancing AI capabilities.",
+      "By building staff confidence in the capabilities of AI, these workshops would lay the groundwork for broader, more effective AI integration."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission is enthusiastic about the potential benefits of AI in healthcare and supports the government's initiatives, indicating a hopeful outlook towards AI adoption.",
+    "main_topics": [
+      "Workforce Development and Education",
+      "Specific Regulatory Approaches",
+      "Data Privacy and Security"
+    ],
+    "additional_themes": [
+      "Collaboration and engagement with AI experts",
+      "Enhancing regulatory efficiency"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "Health and Human Services",
+      "FDA",
+      "workforce development",
+      "regulatory processes"
+    ],
+    "policy_suggestions": [
+      "Establish an AI Corps within HHS",
+      "Prioritize data readiness for AI integration at the FDA",
+      "Conduct an FDA Reviewer Benchmark Test",
+      "Publish a report on AI procurement guidelines",
+      "Foster AI adoption through targeted reviewer engagement"
+    ]
+  },
+  "3C-AI-RFI-2025.txt": {
+    "summary": "The Connected Commerce Council (3C) emphasizes the importance of AI adoption for small businesses, advocating for policies that enhance their access to AI-powered tools. They call for promoting AI literacy and training, avoiding overly burdensome regulations, and establishing a comprehensive federal AI privacy framework. The submission argues that these steps are crucial for small businesses to compete effectively and benefit from AI's potential without facing prohibitive costs and legal risks.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "AI is a game-changer for America\u2019s 33.2 million small businesses.",
+      "Policymakers should support access to AI-powered tools by investing in small business-focused AI literacy and training programs.",
+      "A federal standard that provides a smart alternative to overly restrictive European AI privacy laws is critical to maintaining and enhancing America\u2019s leadership in AI innovation and adoption."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission displays enthusiasm for AI adoption among small businesses, encouraging supportive policies and training rather than expressing worries or concerns.",
+    "main_topics": [
+      "Workforce Development and Education",
+      "Specific Regulatory Approaches",
+      "Data Privacy and Security"
+    ],
+    "additional_themes": [
+      "Small Business Support",
+      "Innovation and Competitiveness"
+    ],
+    "keywords": [
+      "AI adoption",
+      "small businesses",
+      "regulation",
+      "training",
+      "privacy framework"
+    ],
+    "policy_suggestions": [
+      "Promote AI literacy and training for small businesses.",
+      "Avoid overly burdensome regulations that disproportionately impact small businesses.",
+      "Establish a federal AI privacy framework to avoid a patchwork of state laws."
+    ]
+  },
+  "A-King-RFI-2025.txt": {
+    "summary": "A. King, a student at Purdue University, submits input for the AI Action Plan, emphasizing the need for consumer protection, transparency, and ethical governance in AI development. He expresses concern over deregulation, which he believes could increase risks such as discrimination and privacy violations. Furthermore, he advocates for mandatory risk assessments, diverse training datasets, and establishing a government advisory board on AI ethics to ensure responsible AI deployment while maintaining U.S. leadership in innovation.",
+    "submitter_type": "individual",
+    "interesting_quotes": [
+      "The revocation of the Biden-Harris AI Executive Order 14110 removes critical consumer protections.",
+      "AI\u2019s rapid expansion into surveillance, deepfake technology, and autonomous decision-making raises serious ethical concerns that cannot be ignored.",
+      "A federal AI oversight task force should be created with the authority to adapt regulations in real time as the technology evolves."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses significant concerns about the risks associated with decreasing regulatory oversight, indicating a somewhat worried sentiment towards AI adoption.",
+    "main_topics": [
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Specific Regulatory Approaches"
+    ],
+    "additional_themes": [
+      "Consumer Protection",
+      "Transparency",
+      "Public-Private Collaboration"
+    ],
+    "keywords": [
+      "consumer protection",
+      "regulation",
+      "AI ethics",
+      "transparency",
+      "bias mitigation"
+    ],
+    "policy_suggestions": [
+      "Establish clear liability and accountability structures for AI developers and deployers.",
+      "Require mandatory risk assessments for high-impact AI applications.",
+      "Implement stronger data privacy protections to prevent exploitation of personal data."
+    ]
+  },
+  "AAAI-AI-RFI-2025.txt": {
+    "summary": "The Association for the Advancement of Artificial Intelligence (AAAI) submitted a response to the AI Action Plan RFI, emphasizing the importance of fundamental AI research, secure development standards, and international collaboration. They advocate for increased federal investment in AI R&D, the establishment of secure AI development standards through NIST, and leading international collaborations to maintain US leadership in AI innovation. The submission includes actionable policy suggestions aimed at fostering innovation, ensuring safety, and enhancing international partnerships in AI development.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "Fundamental AI research is necessary for future innovation as advancements and emerging technology development invariably rely on a comprehensive understanding of fundamental principles.",
+      "Robust support must be provided for innovation across the full spectrum of AI R&D, as fundamental AI research is critical to the creation and deployment of AI systems that provide revolutionary and trustworthy societal solutions.",
+      "Global partnerships will be key in making viable technological advancements and fortifying national security through shared technological capabilities."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses strong support for AI adoption, highlighting the need for increased funding, innovation, and collaboration, which reflects an enthusiastic view towards the future of AI technologies.",
+    "main_topics": [
+      "Research and Development Funding Priorities",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "International Collaboration and Standards"
+    ],
+    "additional_themes": [
+      "National Security Implications",
+      "Increasing Government Efficiency"
+    ],
+    "keywords": [
+      "fundamental research",
+      "AI standards",
+      "international collaboration",
+      "federal investment",
+      "technological innovation"
+    ],
+    "policy_suggestions": [
+      "Include increasing federal investment in AI R&D in the President\u2019s Budget Request each year.",
+      "Support the NSF NAIRR and publicize the benefits it brings to the U.S. economy.",
+      "Establish a national award to incentivize and recognize AI technology advances.",
+      "Request funding for graduate student research fellowships.",
+      "Request increased funding in the NIST AI Safety Institute and grow its workforce by 10% each year.",
+      "Solicit input from industry, academia, non-profits, and international collaborators to inform standards development."
+    ]
+  },
+  "AABA-RFI-2025.txt": {
+    "summary": "The Association for the Advancement of Business AI (AABA) responds to the National Science Foundation's RFI on AI development, emphasizing the need for an AI Action Plan that prioritizes national competitiveness and security while integrating ethical considerations. AABA criticizes the previous Executive Order for its lack of specific funding commitments and regulatory focus that hinders innovation. They outline priority policy recommendations including data sovereignty, standards-based resilience, adaptive governance, and national security integration, positing that the US must maintain its technological edge against adversarial powers through dual-use AI technologies and flexible regulatory frameworks that foster innovation while addressing ethical considerations.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "AI is not just another industry, it is the foundation of military superiority, economic resilience, and societal stability.",
+      "Ethics must evolve dynamically to support mission success, rather than becoming an obstacle to progress.",
+      "The nation that controls the 'rules of AI ethics' will not just set the standard for responsible AI but also shape how AI is developed, deployed, and governed worldwide."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for AI adoption, advocating for strategic investments and policies that enhance the US's competitive position while acknowledging the importance of ethical considerations without allowing them to impede progress.",
+    "main_topics": [
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "National Security Implications",
+      "Specific Regulatory Approaches"
+    ],
+    "additional_themes": [
+      "International Collaboration and Standards",
+      "Workforce Development and Education"
+    ],
+    "keywords": [
+      "AI development",
+      "national security",
+      "data sovereignty",
+      "ethical considerations",
+      "regulatory flexibility"
+    ],
+    "policy_suggestions": [
+      "Establish federal tax incentives for businesses investing in on-premise AI infrastructure.",
+      "Direct NIST to establish open interoperability standards for AI model exchange.",
+      "Implement 18-to-24-month review cycles for all AI regulations to ensure adaptability."
+    ]
+  },
+  "AAN-AI-RFI-2025.txt": {
+    "summary": "The American Academy of Nursing emphasizes the importance of incorporating ethical considerations, workforce implications, and the necessity for accurate data in the development of the AI Action Plan. While acknowledging that AI can improve healthcare delivery by reducing clinician burden and enhancing patient treatment, they express concerns regarding access, safety, and the potential for AI to undermine patient-provider relationships. The Academy advocates for increased investment in AI research and the establishment of data standards to ensure effective AI implementation in healthcare.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "AI has the potential to disrupt and transform health care.",
+      "The critical thinking and clinical judgment of nurses cannot be replaced by AI nor can it replace the human connection that is central to the nurse-patient relationship.",
+      "It will be critical to continue development of these standards."
+    ],
+    "sentiment_rating": 3,
+    "sentiment_rationale": "The Academy's comments reflect a cautious approach to AI adoption, recognizing potential benefits but also highlighting significant concerns about ethics, patient safety, and the human aspect of healthcare.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Impact on Small Businesses",
+      "Workforce Development and Education",
+      "Data Privacy and Security"
+    ],
+    "additional_themes": [
+      "Patient safety",
+      "Investment in healthcare research",
+      "Importance of human connections in nursing"
+    ],
+    "keywords": [
+      "AI in healthcare",
+      "ethical considerations",
+      "nursing workforce",
+      "data standards",
+      "patient safety"
+    ],
+    "policy_suggestions": [
+      "Consider ethical issues associated with AI in developing the Action Plan.",
+      "Reduce regulatory and redundancy burdens while balancing patient privacy protections.",
+      "Invest in AI research and post-market surveillance."
+    ]
+  },
+  "AANA-RFI-2025.txt": {
+    "summary": "The American Association of Nurse Anesthesiology (AANA) emphasizes the importance of prioritizing patient safety as AI technology evolves in healthcare. They assert that AI should enhance the role of Certified Registered Nurse Anesthetists (CRNAs) rather than replace their expertise. The AANA provides several recommendations for the integration of AI in anesthesia, including the necessity for robust patient safety standards, human oversight, transparency, consideration of bias, regulatory safeguards, and interdisciplinary collaboration.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "AI should enhance CRNAs\u2019 ability to deliver safe, high-quality care rather than replace their extensive knowledge and expertise.",
+      "AI tools must be designed to function under the direct supervision of CRNAs and other healthcare professionals.",
+      "As AI continues to shape the future of healthcare, it is imperative that its deployment prioritizes patient safety."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a generally positive view of AI's potential to improve patient safety, while highlighting necessary precautions, indicating an enthusiastic yet cautious approach to AI adoption in healthcare.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education",
+      "Specific Regulatory Approaches",
+      "Increasing Government Efficiency"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI integration",
+      "patient safety",
+      "CRNA expertise",
+      "regulatory safeguards",
+      "healthcare"
+    ],
+    "policy_suggestions": [
+      "AI as a supportive tool, not a replacement",
+      "Robust patient safety standards for AI systems",
+      "Human oversight and decision-making in AI implementation",
+      "Ensure transparency and explainability in AI processes",
+      "Establish regulatory safeguards and accountability for AI in anesthesia care",
+      "Include CRNAs in interdisciplinary collaboration for AI discussions"
+    ]
+  },
+  "AAP-AI-RFI-2025.txt": {
+    "summary": "The American Academy of Pediatrics (AAP) provides comprehensive recommendations for the development of an AI Action Plan aimed at ensuring the health and safety of children. They emphasize the importance of cybersecurity, data privacy, and the need for pediatric-specific guidelines in AI applications. The AAP urges the need for transparency in AI tools used in healthcare, rigorous evaluation of AI educational tools, and workforce training in AI literacy for pediatric professionals.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "AI should be used to enhance, not replace, pediatric clinical decision-making.",
+      "A framework for the development of AI must account for the developmental stage of young people.",
+      "The Academy recommends establishing standard pre-procurement specific questions around products and systems to help determine whether they incorporate any type of AI."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic view towards AI adoption, highlighting the potential benefits of AI in pediatric healthcare while emphasizing careful regulation and oversight to mitigate risks.",
+    "main_topics": [
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education",
+      "Specific Regulatory Approaches"
+    ],
+    "additional_themes": [
+      "Pediatric considerations in AI",
+      "Transparency in AI usage",
+      "Independent oversight and accountability"
+    ],
+    "keywords": [
+      "pediatrics",
+      "AI ethics",
+      "data privacy",
+      "cybersecurity",
+      "regulation"
+    ],
+    "policy_suggestions": [
+      "Create specific guidelines for AI model development.",
+      "Implement rigorous evaluation for AI educational tools.",
+      "Integrate AI literacy training for pediatric healthcare professionals."
+    ]
+  },
+  "AAU-AI-RFI-2025.txt": {
+    "summary": "The Association of American Universities (AAU) emphasizes the transformative potential of AI in scientific research. They advocate for a robust AI Action Plan focused on accelerating AI for discovery, enhancing computational access, advancing research and development, and strengthening workforce training and policies. By harnessing AI effectively, they believe the U.S. can maintain its leadership in science and innovation.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "We stand at an inflection point for science and society, with new and emerging AI tools promising to fundamentally transform scientific research.",
+      "This moment offers tremendous opportunity to gear federal policy toward AI-enabled science for U.S. leadership.",
+      "If successful, these tools will accelerate the pace of experimentation and discovery, catalyze the search for cures, and open new pathways for scientific inquiry."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses a very enthusiastic sentiment towards AI adoption, focusing on its potential to drive scientific discovery and economic growth.",
+    "main_topics": [
+      "Workforce Development and Education",
+      "Need for Computing Infrastructure",
+      "Research and Development Funding Priorities"
+    ],
+    "additional_themes": [
+      "Collaboration between academia and industry",
+      "Importance of ethical and transparent research practices",
+      "Investment in energy-efficient AI techniques"
+    ],
+    "keywords": [
+      "AI",
+      "scientific research",
+      "innovation",
+      "collaboration",
+      "education"
+    ],
+    "policy_suggestions": [
+      "Build support for public compute in the FY 2026 Budget Request.",
+      "Initiate an assessment to take stock of current investments and identify needs.",
+      "Support AI training and education in the FY 2026 Budget Request."
+    ]
+  },
+  "ABA-AI-RFI-2025.txt": {
+    "summary": "The American Bankers Association (ABA) provides inputs on the AI Action Plan, emphasizing the need for a consistent policy framework to support AI innovation in the financial sector while ensuring risk management. They stress the importance of existing standards in the banking industry that can guide AI implementation across sectors and advocate for flexible legislation and regulation that fosters innovation without overly burdensome restrictions. The ABAs suggestions aim to enhance trust, accountability, and collaboration between the government and the banking industry in leveraging AI technologies responsibly.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "Castles cannot be built on quicksand; dominance can only result from order.",
+      "Banks can serve as an exemplar for responsible innovation of AI.",
+      "Momentum is building for legislative action; if Congress does not act, the states will (and some have already)."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a positive outlook towards AI adoption, emphasizing the potential benefits while advocating for a regulatory framework that enables innovation and risk management.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education",
+      "Specific Regulatory Approaches",
+      "Impact on Small Businesses",
+      "Increasing Government Efficiency"
+    ],
+    "additional_themes": [
+      "Collaboration between sectors",
+      "Transparency in AI usage",
+      "Trust in AI technologies"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "risk management",
+      "banking standards",
+      "innovation",
+      "regulatory framework"
+    ],
+    "policy_suggestions": [
+      "Congress must pass comprehensive laws establishing an AI risk management framework.",
+      "Agencies should identify clear regulatory outcomes and objectives.",
+      "Encourage the development of voluntary strategies for managing AI-related risk."
+    ]
+  }
+}
