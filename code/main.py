@@ -10,6 +10,7 @@ import datetime
 import json
 import jinja2
 import pandas as pd
+from tqdm import tqdm
 
 load_dotenv()
 
@@ -151,42 +152,62 @@ Return ONLY a JSON object matching this structure."""
             "response_format": {"type": "json_object"}
         }
 
-        response = requests.post(self.api_base, headers=headers, json=payload, verify=False)
+        response = requests.post(self.api_base, headers=headers, json=payload)
         response.raise_for_status()
         data = response.json()
         return json.loads(data["choices"][0]["message"]["content"])
 
-def analyze_texts(text_dir, processed_data_dir, top_n=None):
-    """Analyze text files and save structured results."""
+def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
+    """Analyze text files and save structured results incrementally with progress bar."""
     create_directory(processed_data_dir)
     
     analyzer = Analyzer()
     txt_files = [f for f in os.listdir(text_dir) if f.lower().endswith('.txt')]
-    txt_files.sort()  # Optional: sort alphabetically
+    txt_files.sort()
     if top_n:
         txt_files = txt_files[:top_n]
 
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     output_filename = os.path.join(processed_data_dir, f"analyzed_{timestamp}.json")
-    
-    results = {}
-    for txt_file in txt_files:
-        file_path = os.path.join(text_dir, txt_file)
-        with open(file_path, 'r', encoding='utf-8') as f:
-            text = f.read()
 
-        print(f"Analyzing: {txt_file}")
-        try:
-            analysis = analyzer.analyze(text)
-            results[txt_file] = analysis
-        except Exception as e:
-            print(f"Failed to analyze {txt_file}: {e}")
+    # Load existing partial results if restarting
+    if os.path.exists(output_filename):
+        with open(output_filename, 'r', encoding='utf-8') as f:
+            results = json.load(f)
+        print(f"Resuming from existing file with {len(results)} items.")
+    else:
+        results = {}
 
-    with open(output_filename, 'w', encoding='utf-8') as f:
-        json.dump(results, f, indent=2)
+    # Setup progress bar
+    with tqdm(total=len(txt_files), desc="Analyzing texts") as pbar:
+        for idx, txt_file in enumerate(txt_files):
+            if txt_file in results:
+                pbar.update(1)
+                continue
 
-    print(f"Analysis complete. Results saved to {output_filename}")
+            file_path = os.path.join(text_dir, txt_file)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                text = f.read()
+
+            try:
+                analysis = analyzer.analyze(text)
+                results[txt_file] = analysis
+            except Exception as e:
+                print(f"Failed to analyze {txt_file}: {e}")
+                # Still count this file as "done" even if it errors
+                pass
+
+            # Save progress after every batch_size files
+            if (idx + 1) % batch_size == 0 or idx == len(txt_files) - 1:
+                with open(output_filename, 'w', encoding='utf-8') as f:
+                    json.dump(results, f, indent=2)
+                print(f"Saved progress after {idx+1} files.")
+
+            pbar.update(1)
+
+    print(f"Analysis complete. Final results saved to {output_filename}")
     return output_filename
+
 
 def make_html(json_file_path, output_dir):
     """Generate HTML report from analyzed data."""
