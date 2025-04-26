@@ -141,17 +141,30 @@ For each text you receive, please extract the following fields:
   - NA = not applicable (if the submission doesn't express a clear sentiment about AI adoption)
 - sentiment_rationale: A brief explanation (1-2 sentences) supporting the sentiment rating assigned.
 - main_topics: A list of topics discussed in the submission. Include ONLY those that apply from this list:
+  - Application and Use in the Private Sector
+  - Application and Use in the Public Sector
+  - Biosecurity
+  - Cybersecurity
+  - Data Centers
   - Data Privacy and Security
+  - Energy Consumption and Efficiency
+  - Environmental Concerns
+  - Export Controls
   - Ethical AI Frameworks and Bias Mitigation
-  - Workforce Development and Education
-  - Need for Computing Infrastructure
-  - Specific Regulatory Approaches
-  - International Collaboration and Standards
-  - Research and Development Funding Priorities
+  - Explainability and Assurance of AI Model Outputs
+  - Hardware and Chips
   - Impact on Small Businesses
-  - National Security Implications
+  - Innovation and Competition
   - Intellectual Property Issues
-  - Increasing Government Efficiency
+  - International Collaboration and Standards
+  - Job Displacement
+  - Model Development
+  - National Security and Defense
+  - Open Source Development
+  - Procurement
+  - Research and Development Funding Priorities
+  - Specific Regulatory Approaches (e.g., sector-specific vs. broad)
+  - Workforce Development and Education
 - additional_themes: List any important themes discussed that aren't covered by the main_topics list.
 - keywords: Provide 5 keywords that best encapsulate the submission's main ideas.
 - policy_suggestions: A list of actionable policy suggestions mentioned in the text (e.g., "Implement mandatory model audits" or "Fund AI literacy programs").
