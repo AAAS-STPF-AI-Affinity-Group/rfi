@@ -1,0 +1,233 @@
+{
+  "1Day-Sooner-RFI-2025.txt": {
+    "summary": "1Day Sooner, a non-profit focused on advancing medical innovation, provides detailed recommendations to the White House Office of Science and Technology Policy for the AI Action Plan, with a focus on the Department of Health and Human Services (HHS) and the Food and Drug Administration (FDA). They propose establishing an AI Corps within HHS to embed AI expertise across agencies to accelerate adoption, and recommend strengthening the FDA's regulatory capacity by prioritizing data readiness, conducting benchmark tests of AI-assisted reviews, publishing reports on AI procurement guidelines, and engaging reviewers through AI training. The goal is to safely integrate AI to enhance healthcare outcomes, innovation, and regulatory efficiency while maintaining high standards and data security.",
+    "submitter_type": "advocacy group",
+    "interesting_quotes": [
+      "AI stands poised to not only revolutionize healthcare but also transform every aspect of HHS, offering unmatched opportunities to enhance patient outcomes, streamline administrative functions, bolster safety surveillance, and drive biomedical innovation.",
+      "An AI Corps should be created to provide specialized expertise across the Department\u2019s ten agencies.",
+      "A formal benchmark test... should evaluate how AI-assisted reviews compare to those conducted by human reviewers."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses strong enthusiasm for AI adoption, emphasizing its transformative potential in healthcare and offering concrete policy recommendations to accelerate and optimize AI integration within federal health agencies.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "Innovation and Competition",
+      "Workforce Development and Education",
+      "Technical and Safety Standards"
+    ],
+    "additional_themes": [
+      "Healthcare and Biomedical Innovation",
+      "Regulatory Process Improvement",
+      "AI Integration Strategy"
+    ],
+    "keywords": [
+      "AI Corps",
+      "FDA regulatory capacity",
+      "data readiness",
+      "workforce development",
+      "AI adoption in healthcare"
+    ],
+    "policy_suggestions": [
+      "Establish an AI Corps within HHS to embed AI expertise across agencies",
+      "Prioritize organizing FDA internal data systems for AI readiness with robust access controls",
+      "Conduct formal benchmark tests comparing AI-assisted reviews to human reviews",
+      "Publish a report on AI procurement guidelines and accessibility at the FDA",
+      "Implement structured AI workshops and training sessions for FDA reviewers to build AI competency"
+    ]
+  },
+  "3C-AI-RFI-2025.txt": {
+    "summary": "The Connected Commerce Council (3C) urges the National Science Foundation and the Office of Science & Technology Policy to develop an AI action plan that prioritizes small businesses' access to and adoption of AI tools. They emphasize the significant benefits AI can bring to small businesses in terms of efficiency, growth, and competitiveness. 3C recommends policies focused on AI literacy and training programs, avoiding overly burdensome regulations that disproportionately affect small businesses, and establishing a comprehensive federal AI privacy framework to prevent a complex patchwork of state laws. They advocate for balanced data and copyright regulations that promote innovation while protecting privacy.",
+    "submitter_type": "advocacy group (nonprofit)",
+    "interesting_quotes": [
+      "AI is a game-changer for America\u2019s 33.2 million small businesses.",
+      "We particularly caution against a \u201cone-size-fits-all\u201d regulatory approach that treats all AI applications as high-risk.",
+      "A federal standard that provides a smart alternative to overly restrictive European AI privacy laws is critical to maintaining and enhancing America\u2019s leadership in AI innovation and adoption."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission strongly supports AI adoption among small businesses and encourages policies to enhance access, training, and sensible regulation, demonstrating a very enthusiastic stance towards AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Innovation and Competition",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Small Business Advocacy",
+      "Federal vs State Regulatory Coordination",
+      "Copyright and Data Use Policy"
+    ],
+    "keywords": [
+      "small businesses",
+      "AI adoption",
+      "AI literacy",
+      "federal AI privacy framework",
+      "balanced regulation"
+    ],
+    "policy_suggestions": [
+      "Promote AI literacy and training programs targeting small businesses",
+      "Avoid overly burdensome, one-size-fits-all AI regulations",
+      "Focus regulatory efforts on high-risk AI applications in sensitive sectors",
+      "Develop a comprehensive federal AI privacy framework to preempt state-level patchwork regulations",
+      "Adopt balanced copyright policies with fair use and text- and data-mining exemptions"
+    ]
+  },
+  "A-King-RFI-2025.txt": {
+    "summary": "A. King, a graduate student in AI Policy and Management, urges the OSTP and NITRD to prioritize consumer protection, transparency, and ethical governance in the AI Action Plan. The submission warns against deregulation that removes safeguards and increases risks such as bias, discrimination, misinformation, privacy violations, and harmful AI deployment. It calls for clear liability, mandatory risk assessments for high-impact AI use, third-party audits, diverse training datasets, stronger privacy protections, and a government advisory board on AI ethics. The author recommends smart, adaptive policies with agile federal oversight and international alignment to ensure responsible and ethical AI leadership.",
+    "submitter_type": "individual (student)",
+    "interesting_quotes": [
+      "While deregulation can foster rapid AI advancement, a lack of safeguards exposes consumers to risks such as discrimination, misinformation, fraud, and privacy violations.",
+      "AI systems inherently reflect the biases present in their training data. Without proper governance, oversight, and transparency, we risk embedding structural discrimination and reinforcing societal inequalities.",
+      "The U.S. should pursue smart, adaptive AI policies that allow for agility without sacrificing oversight."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission is somewhat enthusiastic about AI's potential for innovation and growth but emphasizes the need for strong regulatory safeguards and ethical governance to ensure responsible adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Data Privacy and Security",
+      "Explainability and Assurance of AI Model Outputs",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)",
+      "Workforce Development and Education",
+      "Innovation and Competition",
+      "National Security and Defense"
+    ],
+    "additional_themes": [
+      "Consumer Protection",
+      "Public-Private Collaboration",
+      "Adaptive and Agile AI Policymaking"
+    ],
+    "keywords": [
+      "consumer protection",
+      "AI ethics",
+      "bias mitigation",
+      "transparency",
+      "regulatory oversight"
+    ],
+    "policy_suggestions": [
+      "Establish clear liability and accountability structures for AI developers and deployers",
+      "Mandate risk assessments for high-impact AI applications",
+      "Require AI decision-making to be auditable with bias detection and correction mechanisms",
+      "Mandate diverse and representative training datasets",
+      "Encourage third-party AI audits",
+      "Implement stronger data privacy protections to prevent exploitation of personal data",
+      "Require ethical AI impact assessments before deployment in public sector or critical infrastructure",
+      "Create a government advisory board on AI ethics",
+      "Form a federal AI oversight task force with authority to adapt regulations in real time",
+      "Promote public-private collaboration for responsible AI development",
+      "Align AI policy with international best practices to avoid regulatory fragmentation"
+    ]
+  },
+  "AAAI-AI-RFI-2025.txt": {
+    "summary": "The Association for the Advancement of Artificial Intelligence (AAAI) submits recommendations to inform the U.S. federal AI Action Plan. The AAAI emphasizes sustaining and increasing federal investment in fundamental AI research to enable future breakthroughs and maintain U.S. leadership. It advocates for creating secure AI development standards through institutions like NIST to ensure trustworthy and safe AI systems. The association also highlights the importance of international collaboration on AI research and standards to enhance innovation, national security, and uphold democratic values. The submission details the critical role of past federally funded research in foundational AI innovations and calls for continued support across research, education, industry partnerships, and international cooperation.",
+    "submitter_type": "Advocacy group / Scientific society",
+    "interesting_quotes": [
+      "Fundamental AI research is necessary for future innovation as advancements and emerging technology development invariably rely on a comprehensive understanding of fundamental principles.",
+      "The National AI Research Institutes are a critical component of our nation's AI innovation, infrastructure, technology, education and partnerships ecosystem.",
+      "International collaboration expands access to a broader range of experts who can work together to innovate AI systems."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The AAAI strongly supports AI adoption and innovation, emphasizing increased federal funding for research, the creation of secure standards, and international collaboration, reflecting a very enthusiastic stance toward AI development.",
+    "main_topics": [
+      "Innovation and Competition",
+      "Application and Use in the Public Sector",
+      "Research and Development Funding Priorities",
+      "Technical and Safety Standards",
+      "International Collaboration",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "AI policy recommendations",
+      "Public-private partnerships",
+      "Recognition and incentives for AI innovation"
+    ],
+    "keywords": [
+      "federal funding",
+      "fundamental AI research",
+      "AI safety standards",
+      "international collaboration",
+      "national AI leadership"
+    ],
+    "policy_suggestions": [
+      "Increase federal investment in AI R&D in the President\u2019s Budget Request each year.",
+      "Support and publicize the benefits of NSF National AI Research Institutes (NAIRR).",
+      "Establish a national award to incentivize and recognize AI technology advances.",
+      "Request funding for graduate student research fellowships to attract top AI talent.",
+      "Request funding for university-industry partnerships to enhance real-world impact.",
+      "Increase funding and grow workforce at NIST AI Safety Institute by 10% annually.",
+      "Solicit multi-sector input for developing secure AI standards balancing security and feasibility.",
+      "Convene periodic international expert meetings to address AI technological challenges.",
+      "Incentivize and encourage open-source releases of AI advances and datasets."
+    ]
+  },
+  "AABA-RFI-2025.txt": {
+    "summary": "The Association for the Advancement of Business AI (AABA) submits detailed recommendations for a U.S. AI Action Plan focused on positioning AI as a strategic national asset. It calls for increased AI research funding, innovation acceleration over regulation, expanding AI computing infrastructure, and retaining top talent. Key policy proposals include establishing a data sovereignty framework with tax incentives for on-premise AI, standards-based resilience for interoperability and security, adaptive governance with scheduled reviews and sector-specific regulation, and strong national security integration emphasizing dual-use technologies and public-private intelligence sharing. AABA stresses prioritizing U.S. AI leadership in strategic domains like quantum computing, autonomous systems, and AGI, adopting a pragmatic and flexible regulatory approach that balances ethics with competitiveness, and leveraging ethical AI as a geopolitical soft power tool.",
+    "submitter_type": "Advocacy group",
+    "interesting_quotes": [
+      "AI is not just another industry, it is the foundation of military superiority, economic resilience, and societal stability.",
+      "Ethical AI should not be seen as a constraint \u2014 it is a geopolitical tool.",
+      "The choice is clear \u2014 either we lead with strength, or we become subject to the AI-driven realities dictated by others."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission is very enthusiastic about adopting AI, emphasizing strong U.S. leadership, innovation acceleration, and strategic investment to maintain global competitiveness and national security.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "Energy Consumption and Efficiency",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Innovation and Competition",
+      "International Collaboration",
+      "Job Displacement",
+      "Model Development",
+      "National Security and Defense",
+      "Open Source Development",
+      "Procurement",
+      "Research and Development Funding Priorities",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)",
+      "Technical and Safety Standards",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Data Sovereignty",
+      "Adaptive Governance",
+      "Dual-Use AI Technologies",
+      "Geopolitical Strategic Leadership",
+      "Regulatory Sandboxes",
+      "Public-Private Partnerships",
+      "National AI Reserve Corps",
+      "Counter-Adversarial AI"
+    ],
+    "keywords": [
+      "national competitiveness",
+      "data sovereignty",
+      "adaptive governance",
+      "national security",
+      "strategic AI investment"
+    ],
+    "policy_suggestions": [
+      "Establish federal tax incentives for on-premise AI infrastructure investments",
+      "Create a national certification program for sovereign AI solutions",
+      "Develop a tiered classification system for business data with control requirements",
+      "Fund research on lightweight, efficient on-premise AI models",
+      "Establish procurement preferences for sovereignty-preserving AI solutions",
+      "Direct NIST to establish open interoperability standards for AI model exchange",
+      "Create safe harbor provisions for businesses adopting recognized AI standards",
+      "Fund open-source reference implementations for AI security and governance controls",
+      "Implement baseline requirements for model versioning and change management",
+      "Develop testing frameworks for AI system resilience against adversarial attacks",
+      "Mandate 18-to-24-month review cycles for all AI regulations and policies",
+      "Establish innovation sandboxes to allow controlled AI testing with regulatory flexibility",
+      "Adopt sector-specific AI governance approaches tailored to industry risks",
+      "Scale implementation guidelines based on organization size and AI impact",
+      "Establish a public-private oversight committee to evaluate regulatory effectiveness",
+      "Create dual-use AI development programs benefiting defense and commercial sectors",
+      "Establish secure, bidirectional threat intelligence exchanges between business and government",
+      "Fund intelligence programs monitoring international AI developments",
+      "Provide targeted investment in strategic AI domains such as quantum AI and AGI safety",
+      "Establish a National AI Reserve Corps of experts for rapid deployment during emergencies",
+      "Adopt an adaptive ethics framework that aligns ethical AI principles with strategic objectives",
+      "Maintain a dynamic, flexible regulatory environment differentiated by AI risk levels"
+    ]
+  }
+}

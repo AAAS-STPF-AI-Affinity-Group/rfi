@@ -11,6 +11,7 @@ import json
 import jinja2
 import pandas as pd
 from tqdm import tqdm
+from google import genai
 
 load_dotenv()
 
@@ -124,7 +125,7 @@ class Analyzer:
         self.model = model
         self.api_base = api_base
         self.api_key = api_key or os.environ.get("OPENAI_API_KEY")
-
+    
     def get_system_prompt(self):
         return """You are an assistant that reads public comments submitted to the government.
 For each text you receive, please extract the following fields:
@@ -156,7 +157,7 @@ For each text you receive, please extract the following fields:
   - Impact on Small Businesses
   - Innovation and Competition
   - Intellectual Property Issues
-  - International Collaboration and Standards
+  - International Collaboration
   - Job Displacement
   - Model Development
   - National Security and Defense
@@ -164,6 +165,7 @@ For each text you receive, please extract the following fields:
   - Procurement
   - Research and Development Funding Priorities
   - Specific Regulatory Approaches (e.g., sector-specific vs. broad)
+  - Technical and Safety Standards
   - Workforce Development and Education
 - additional_themes: List any important themes discussed that aren't covered by the main_topics list.
 - keywords: Provide 5 keywords that best encapsulate the submission's main ideas.
@@ -172,31 +174,42 @@ For each text you receive, please extract the following fields:
 Return ONLY a JSON object matching this structure."""
 
     def analyze(self, text):
-        headers = {
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {self.api_key}"
-        }
+        if self.model == "gpt-4o-mini" or self.model=="gpt-4.1-mini":
+            headers = {
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {self.api_key}"
+            }
 
-        payload = {
-            "model": self.model,
-            "messages": [
-                {"role": "system", "content": self.get_system_prompt()},
-                {"role": "user", "content": text}
-            ],
-            "response_format": {"type": "json_object"}
-        }
+            payload = {
+                "model": self.model,
+                "messages": [
+                    {"role": "system", "content": self.get_system_prompt()},
+                    {"role": "user", "content": text}
+                ],
+                "response_format": {"type": "json_object"}
+            }
 
-        response = requests.post(self.api_base, headers=headers, json=payload)
-        response.raise_for_status()
-        data = response.json()
-        result = json.loads(data["choices"][0]["message"]["content"])
+            response = requests.post(self.api_base, headers=headers, json=payload)
+            response.raise_for_status()
+            data = response.json()
+            result = json.loads(data["choices"][0]["message"]["content"])
+        elif self.model == "gemini-2.5-flash-preview-04-17":
+            client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+            response = client.models.generate_content(
+                model='gemini-2.5-flash-preview-04-17',
+                contents=self.get_system_prompt() + "\n" + text,
+                config={
+                    "response_mime_type": "application/json",
+                },
+            )
+            result = response.text
         return result    
 
-def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10):
+def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model="gpt-4o-mini"):
     """Analyze text files and save structured results incrementally with progress bar. Automatically generates HTML."""
     create_directory(processed_data_dir)
     
-    analyzer = Analyzer()
+    analyzer = Analyzer(model=model)
     txt_files = [f for f in os.listdir(text_dir) if f.lower().endswith('.txt')]
     txt_files.sort()
     if top_n:
@@ -553,6 +566,7 @@ def main():
     parser.add_argument('--top_n', type=int, default=None, help='Analyze only the top N .txt files')
     parser.add_argument('--make_html', action='store_true', help='Generate HTML report from analysis')
     parser.add_argument('--json_file', type=str, help='Path to JSON file for HTML generation (if not using --analyze)')
+    parser.add_argument('--model', type=str, default='gpt-4o-mini', choices=['gpt-4o-mini', 'gemini-2.5-flash-preview-04-17', 'gpt-4.1-mini'], help='Specify the AI model to use for analysis')
     args = parser.parse_args()
     
     repo_dir = os.getcwd()
@@ -577,7 +591,7 @@ def main():
         process_pdfs(raw_data_dir, text_dir)
 
     if args.analyze:
-        json_file_path = analyze_texts(text_dir, processed_data_dir, top_n=args.top_n)
+        json_file_path = analyze_texts(text_dir, processed_data_dir, top_n=args.top_n, model=args.model)
         
     if args.make_html:
         # If json_file is specified, use that, otherwise use the one from analyze_texts

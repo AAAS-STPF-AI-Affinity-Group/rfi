@@ -98,7 +98,7 @@ For each of the test cases, we will ask the following questions:
   - Impact on Small Businesses
   - Innovation and Competition
   - Intellectual Property Issues
-  - International Collaboration and Standards
+  - International Collaboration
   - Job Displacement
   - Model Development
   - National Security and Defense
@@ -106,6 +106,7 @@ For each of the test cases, we will ask the following questions:
   - Procurement
   - Research and Development Funding Priorities
   - Specific Regulatory Approaches (e.g., sector-specific vs. broad)
+  - Technical and Safety Standards
   - Workforce Development and Education
 3. If there are any topics not given in #2, identify them and add them to the list
 4. For each topic cluster, summarize key arguments, proposals, and concerns raised within that theme across all relevant responses.
