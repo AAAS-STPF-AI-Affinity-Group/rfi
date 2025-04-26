@@ -1,0 +1,93 @@
+AI Action Plan 
+Attn: Faisal D'Souza, NCO (National Coordination Office)  
+2415 Eisenhower Avenue Alexandria, VA 22314  
+Dear Mr. D'Souza and Colleagues,  
+We appreciate the opportunity to provide input on the development of the AI Action Plan. Our 
+comments below highlight critical areas we believe are essential to include in the US AI Action Plan, 
+to avoid falling behind, to enhance America's AI leadership, and to balance innovation, risk 
+reduction,  and strategic interests.  
+Trustworthiness and Internal Alignment  As AI agents take on increasingly significant roles —from 
+financial transactions to critical infrastructure —trustworthiness and internal alignment (aligned with 
+human intent) become paramount. We must ensure that AI systems can reliably execute user -
+intended goals. For instance, can we trust an AI agent to move money in and out of a bank account 
+without error? Clearly communicating the reliability of a model will be critical to broad adoption of AI 
+technology by consumers and business -to-business,  which is necessary to establish and maintain 
+leadership. Research in internal alignment (for example,  Utility Engineering ) demonstrates both 
+progress and remaining challenges in this domain. The Wall Street Journal recently reported on the 
+challenges of getting a Chatbot to say "I don't know" instead of hallucinating (making up) an incorrect 
+answer. We recommend that the AI Action Plan prioritize the development of  tests and metrics 
+standards to evaluate the internal alignment and trustworthiness of AI systems.  
+Metrics and Benchmark Standards Reliable benchmarks like Harmbench, which showed OpenAI's 
+o1-preview model resisting 77% of attacks versus DeepSeek R1 failing completely, underscore the 
+need for standardized metrics. These metrics must emphasize accuracy and trustworthiness to 
+reliably compare AI capabilities, incent leadership level  responsible scaling, and reduce AI 
+exploitation risks.  
+Threats, Risks and Capabilities from Open- Source Fine- Tuning Rapid proliferation of open-
+source models necessitates monitoring and managing potential threats and risks, particularly in 
+cybersecurity, chemical, biological, and other sensitive domains. Advancing capabilities in open-
+source models allows for custom fi ne-tuning of such models to increase opportunities for misuse. 
+Implementing metrics to track these risks, and leveraging training methods such as  Anthropic's 
+Constitutional AI  and OpenAI's deliberative alignment , can significantly reduce the chance of harmful 
+misuse,  which could undermine US leadership due to lost trust.  
+Standards, Liability Clarification, and International Cooperation Clear liability frameworks are 
+critical for responsible AI adoption without excessive regulation. Strict liability with liability waivers 
+(sometimes called safe harbors) for trust enhancing, risk reducing actions, such as above can 
+accelerate leading development without burdensome regulation.  Frameworks similar to those used 
+for autonomous vehicle liability can improve transparency and risk communication. Aligning 
+expectations will also allow for 3rd party companies to thrive by providing review and evaluation 
+services in a common way to an actively evolving industry. Additionally, we strongly advocate US -led 
+global standardization efforts, collaborating as needed with international partners like the EU to 
+ensure broad, consistent adoption of robust AI practices.  
+
+
+Infrastructure, Hardware Resilience, and Strategic Supply Chains Addressing compute 
+shortages, such as those encountered during ChatGPT- 4.5 deployment, highlights a need for robust, 
+scalable infrastructure.  We urge inclusion of policies that support robust, scalable, and energy -
+efficient AI infrastructure. Additionally , ensuring hardware resilience is vital, given potential impacts of 
+transient hardware faults on model reliability. Securing access to advanced semiconductor 
+manufacturing, domestically (Intel's upcoming 1.8nm process, AMD's energy -efficient initiatives) a nd 
+internationally (e.g., TSMC's $100B US investment and Taiwan- based 2nm process), is critical to 
+maintaining AI leadership. Continued support for Taiwan, including freedom of navigation and 
+ensuring Taiwan does not fall under adversarial control, remains  strategically essential to US AI 
+leadership.  
+Responsible Scaling and Coordination Promoting the current practice of AI development 
+companies publishing " responsible scaling policies " to encourage coordination among developers, 
+users, and evaluators is critical. Standardized communication of risks and capabilities reduces 
+national security risks and strategic risks and supports US leadership via wider adoption of 
+trustworthy AI.  
+Data Integrity and Protection Against Data Poisoning High-quality, secure training data is 
+foundational to AI reliability. Protecting training data integrity from adversarial poisoning —particularly 
+from foreign threats —is critical. Partnerships with specialized data integrity evaluation companies like 
+Scale  AI could enhance data verification standards. Additionally, anonymization techniques should be 
+emphasized to safeguard privacy (e.g., in medical datasets).  
+Strategic Alignment with US Interests We recommend clearly aligning AI development goals with 
+US strategic interests to ensure dedicated and urgent attention from policymakers. Guidelines should 
+highlight the importance of ensuring American AI systems are secure and aligned with democratic 
+values. Policies must actively counter adversarial AI use and foreign efforts to dominate the field, to 
+maintain US technological sovereignty and leadership.  
+In conclusion, we believe that the above areas are essential for an AI Action Plan that  maximizes US 
+AI leadership —one that advances innovation and human flourishing while ensuring robust 
+trustworthiness, security, and accountability. By addressing internal alignment, establishing common 
+benchmarks, clarifying standards, and reinforcing infrastructure resilience, the United States can 
+maintain and grow its leadership in AI and promote broad, responsible adoption across the economy.  
+This document is approved for public dissemination. The document contains no business -proprietary 
+or confidential information. Document contents may be reused by the government in developing the 
+AI Action Plan and associated documents without attribution. 
+Sincerely,  
+Steve Kommrusch 
+Director of Research and Senior AI Scientist  
+Leela AI  
+Henry Minsky  
+Co-founder and CTO  
+Leela AI  
+
+
+John Diamant  
+Retired Distinguished Technologist , Software Assurance and Secure Development Chief 
+Technologist  
+Formerly with Hewlett -Packard  
+Dan Yee  
+Retired Senior Member of Technical Staff in silicon design  
+Formerly with Advanced Micro Devices  
+
+

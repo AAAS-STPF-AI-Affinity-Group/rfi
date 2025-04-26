@@ -1,0 +1,675 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-jta0-686e
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-2312
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Patrick DeMicco  
+General Comment
+See attached file
+Attachments
+The Role and Possible Challenges Artificial Intelligence Poses to the Authentication and Reliability of Digital Evidence
+
+
+1 Re: Request for Information on the Development of an “AI Action Plan” 
+Submitted to: Networking and Information Technology Research and Development (NITRD) 
+National Coordination Office (NCO), National Science Foundation. (
+Submitted By: Patrick DeMicco, 
+Date: March 15, 2025  
+I.STATEMENT OF INTEREST
+As a third -year law student at the University of Akron School of Law studying Artificial 
+Intelligence Law and Policy, I appreciate the opportunity to provide input on the 
+development of the AI Action Plan. My growing expertise in artificial intelligence la w and 
+policy informs this response which addresses the role and possible challenges artificial 
+intelligence poses to the authentication and reliability of digital evidence.  
+II.INTRODUCTION : DIGITAL  FORENSICS  AND  ARTIFICIAL  INTELLIGENCE
+IN LEGAL  PROCEEDINGS  
+As AI develops and becomes more integrated into various aspects of life, the legal 
+landscape surrounding it remains largely unexplored. Since AI is still a somewhat new topic, 
+there is a lack of case law that properly addresses its complexities. As a resul t, lawmakers find 
+themselves navigating uncharted territory. They must rely on current laws and guidelines while 
+they wait for the creation of new legislation specifically designed for AI. The dynamic character 
+of AI poses a range of obstacles and opportun ities, making it necessary for the legal system to 
+adapt as it attempts to keep up.  
+III. EXAMINING LEGAL PRECEDENT : LANDMARK  CASES  SHAPING  THE
+ADMISSIBILITY  OF EXPERT  EVIDENCE  
+Few cases in legal history have had as big of an impact on evidence admissibility  as Frye 
+v. United States , 293 F. 1013 (D.C. Cir. 1923) . Previously , there had been  a “sporting  theory” in
+law with the consensus  being that courts should let each side have equal opportunity to present
+their experts and have the judge act as the “umpire”.1 In Frye, the court held that the standard for
+the admissibility of expert evidence is that it must have gained general acceptance in that
+scientific community .2 Frye, with its decision issued over a century ago, continues to resonate in
+law to this day, influencing the modern standards by which expert testimon y is evaluated .
+IV. EXPLORING AUTHENTICATION : NAVIGATING  DIGITAL  FORENSICS  IN
+LEGAL  CONTEXTS  AND  ASSESSING  THE  RELIABILITY  OF DIGITAL  
+EVIDENCE  
+A.Case Studies: Digital Forensics in Legal Proceedings
+As digital forensics continues to gain importance in the legal world, its impact on cases 
+that involve electronic evidence becomes clearer . The us e of digital evidence in court has been 
+1 Alfredo Garcia, The Compulsory Process Clause and the "Sporting Theory of Justice": The Supreme Court Evens the 
+Score , 28 DUQ. L. REV. 619 (1990).
+2 Frye , 293 F.  at 1014  
+
+
+2 influenced by key cases  which have chang ed the field of digital forensics in law , such as defining 
+how expert testimony is to be used, the reliability of digital evidence, and more.  
+Social media is a relatively new thing. Forty years ago, there was no Facebook, there was 
+no Twitter, there was no Snapchat. Even twenty years ago, early social media such as blogs were 
+still new. But i n the modern era, social media is commonplace.  Due to this, there have been 
+many court cases where social media plays a crucial role in the legal proceedings.   
+In re K.B. , 238 Cal. App. 4th 989, 190 Cal. Rptr. 3d 287 (2015)  is a case that highlights 
+how courts may go about authenticating social media evidence.  Officer Ochoa  was the 
+“Instagram officer” for the San Francisco  Police D epartment, tasked with scrolli ng through 
+Instagram to track and monitor individuals.3 Officer Ochoa, who was already familiar with 
+appellant from prior investigations, saw appellant  posing with firearms on Instagram.4 Officer 
+Ochoa knew appellant was a wanted felon on probation and was prohibited from possessing 
+firearms, so he and his partner decided to perform a probation search.5 The officers went to the 
+address of appellant and saw the same surroundings as in the Instagram photos.6 The officers 
+found appellant with firearms and arrested him.7 
+Appellant’s cell phones were seized,  and the officers found the photos they had seen on 
+Instagram.8 Officer Ochoa took pictures of each photo on appellant’s phone.9 The officers then 
+conducted a Cellebrite search, which is a type of software commonly used to retrieve  
+information from cellphones.10 Once a Cellebrite search is performed, an officer can push a 
+button and a report is printed that contains all the cell phone’s information such as “photographs; 
+incoming, outgoing, and missed calls; text messages; app information; and e -mails .”11 Included 
+in appellant’s Cellebrite report were the same incriminating photos that the officers had seen 
+earlier and taken pictures of.12 
+At trial, over defense counsel’s objections, the court admitted into evidence the pictures 
+taken by Officer Ochoa  and the Cellebrite report containing the same photographs.13 Appellant 
+did not testify and rested on the state of the evidence and  was sentenced to complete an eight -
+month program at a juvenile center.14 Appellant appealed , arguing that admission of the evidence 
+was improper due to improper authentication as there was no testimony that established the 
+photos were actually what they depicted .15 
+On appeal, the appellate court held that the admission of the evidence had been proper.16 
+It elaborated that the general rule for authentication of a photo or video is by showing that it is “a 
+3 Id. 
+4 Id. 
+5 Id. 
+6 Id. 
+7 Id. 
+8 Id. 
+9 Id. 
+10 Id. 
+11 Id. 
+12 Id. 
+13 Id. 
+14 Id. 
+15 Id. 
+16 Id. 
+
+
+3 fair and accurate representation of the scene depicted ” and reasoned that the foundation for 
+admitting the photos in this case had been properly laid by the investigating officers.17 
+This case emphasizes how crucial strict authentication protocols are for the admissibility  
+of digital evidence. Officer Ochoa’s in-depth  documentation and use of the Cellebrite program 
+led to appellant raising c oncerns about the reliability of the incriminating photographs shown 
+during trial.18 The decision by the appellate court  to uphold the evidence’s admissibility  is 
+consistent  with the ever-changing  standards  needed to address  the challenges posed by  digital 
+investigations.19 
+With the advancement  of technology , the ability to enhance videos also emerged . This 
+technological tool  offer s users  the ability to provide better clarity  to low -resolution images . 
+However, this brings up an interesting question – is an enhanced video considered a different 
+piece of evidence under evidentiary standards? This was the question in State v. Melendez , 291 
+Conn. 693, 970 A.2d 64 (2009) .  
+Melendez involved a sting operation, with the Drug Enforcement Agency (DEA) setting 
+up a sting on a known drug operation .20 The DEA had informant wear a device that captured 
+both audio and visual and enter a restaurant, where he was to buy narcotics from anyone selling 
+them.21 After entering the restaurant’s bathroom, informant encountered defendant, whom he 
+knew to be a drug dealer.22 Defendant sold informant narcotics, and informant immediately left 
+and met with the DEA, where they got a positive identification of  cocaine as well as a positive 
+identification  of defendant’s identity.23 Two weeks later, informant did the same thing and again 
+caught defendant on video selling him narcotics.24 
+Based on informant’s identification of defendant, defendant was arrested and charged.25 
+After viewing the incriminating videos d uring a pre -trial hearing , defendant refused a plea and 
+decided to go to trial.26 At trial, there were  enhanced versions of the incriminating videos, with 
+some slowed to ten percent of normal speed.27 
+Defendant argued that because the DVD contained video of the two transactions that 
+could be seen more clearly and definitively than the images on the videotapes that he had 
+viewed, the DVD “effectively constituted new evidence that the state previously had not made 
+available to the defendant. ”28 Defendant argued that if he had received these versions earlier, he 
+would have taken the plea for a lesser sentence and thus the state should renew that offer .29 
+17 In re K.B. , 190 Cal. Rptr. 3d at 289  (quoting People v. Goldsmith , 59 Cal. 4th 258, 172 Cal. Rptr. 3d 637, 326 P.3d 
+239 (2014))
+18 In re K.B. , 190 Cal. Rptr. 3d at 289  
+19 Id. 
+20 Id. 
+21 Id. 
+22 Id. 
+23 Id. 
+24 Id. 
+25 Id. 
+26 Id. 
+27 Id. 
+28 Id. 
+29 Id. 
+
+
+   
+ 
+ 4  
+ The trial court denied defendant’s motion for a renewed offer, stating that he did not meet 
+his burden of establishing that the state should renew their offer.30 It reasoned that defendant had 
+“previously had been afforded the opportunity to review the same videotape that the state had 
+used to make the [enhanced] DVD, and that the videotape and DVD depict exactly the same 
+transactions.”31 The court ultimately allowed the state to introduce the DVD into evidence 
+through the DEA agent who had set up the videotape to be enhanced , with that agent testifying 
+that the DVD footage was the exact same as the original tapes’ footage except more clear .32 
+On appeal, defendant argued that admission  of the DVD was improper because the state 
+failed to lay the proper foundation for its introduction into evidence.33 The appellate court 
+ultimately held that the DVD’s introduction into evidence was proper.34 It reasoned that although 
+it agree s with defendant that the trial court should not have admitted the portions of the DVD 
+with the enhanced footage, it was not  improper for the court to admit the footage as it “ merely 
+represented an exact copy of the footage from the original eight millimeter videotape ” and that 
+its admission was “harmless beyond a reasonable doubt.”35 The court elaborated that defendant 
+cannot prove that he was harmed by the modified footage’s admission into evidenc e since the 
+clips shown to the jury contained the exact same images as the original clips.36 The appellate 
+court ultimately affirmed the conviction.37 
+Melendez provides an interesting point of discussion regarding images being admitted 
+into evidence .38 In these types of cases , where enhanced images are admitted but are basically 
+identical to the original images, any potential error in admitting the enhanced images may not 
+result in harm to the defendant.39 This highlights a subtle aspect of evidence admission by 
+highlighting the fact that, despite any enhancements, the core content of the evidence is unaltered  
+and thus there is almost never any harm to defendant.  
+Authentication is the main  issue  in many cases involving digital forensics.  Investigations 
+involving the use of digital forensics can be severely  compromised by  faulty authentication. 
+Thus, proper authentication is key for a case to go smoothly. One method of authenticating 
+evidence is with expert testimony, where qualified experts examine and verify the authenticity of 
+digital evidence . One case that highlights how crucial expert testimony can be in the 
+authenticati on of evidence is Lamb v. State . 246 So. 3d 400 (Fla. Dist. Ct. App. 2018) . 
+In Lamb , defendant was involved in multiple car jackings .40 The first victim was s itting  in 
+his car outside a Jupiter hotel at around 10:00 pm when a man with a gun came up to him and 
+forcibly removed him from the vehicle.41 The first victim’s car, phone, watch, wallet, and cash  – 
+including money  from Cuba  – were taken by the carjacker’s  accomplice.42 A similar incident 
+ 
+30 Id. 
+31 Id. 
+32 Id. 
+33 Id. 
+34 Id. 
+35 Id. 
+36 Id. 
+37 Id. 
+38 291 Conn. 693, 970 A.2d 64  
+39 Id. 
+40 Id. 
+41 Id. at 403 
+42 Id. 
+
+
+5 happened in Greenacres at around one in the morning.43 Two attackers, one of whom had a silver 
+gun, robbed the second victim of his possessions and car .44 The second victim saw a car that 
+looked like the first one drive by, and the drivers spoke to each other before the car took off.45 
+The second victim was unable to make out the identity of the driver or whether there were any 
+other people in the car.46 
+Both victims' cars were found in the same area in a city between Jupiter and 
+Greenacres.47 The phones of the first victim and second victim were discovered in the first 
+victim’s vehicle , but the cash, wallet, and watch were gone .48 
+The investigation of the first carjackings was conducted  by a Jupiter police detective 
+while the second one was conducted by a Palm Beach County sheriff’s detective.49 Because of 
+the similarities between the two cases, the detectives ended up working together.50 When brought 
+in by detectives, both victims identified the codefendants, but did not identify  defendant.51 The 
+detectives  found connection s among  the codefendants, who all lived in the same area where the 
+cars were found.52 When a codefendant’s phone was searche d, detectives found pictures of him 
+with a silver gun that matched the one used during the carjackings.53 Police arrested a nother 
+codefendant with a similar gun.54 Additionally, a Facebook video show ing both stolen cars was 
+discovered by the Jupiter police department on defendant’s phone.55 Prior to trial, investigators 
+showed the first victim the Facebook video.56 
+During the trial, the state showed the Facebook video to the first victim, who identified 
+defendant, and later to a detective, who also identified defendant.57 The trial court admitted this 
+testimony despite challenges raised regarding the best evidence rule.  The video , posted shortly 
+after the second carjacking, showed defendant driving victim’s car and wearing victim’s watch.58 
+A co -defendant was also present in the video.59 
+The state then moved to admit the Facebook video.60 Defendant objected, and then  a 
+sidebar  occurred.61 At the sidebar , defense counsel cited lack of authentication for the Facebook 
+video allegedly extracted  by the Jupiter Police Department.62 Defense emphasized that the 
+sheriff’s detective, who testified, did not extract the video but simply viewed it.63 The state 
+43 Id. 
+44 Id. 
+45 Id. at 403 -404 
+46 Id. at 404 
+47 Id. 
+48 Id. 
+49 Id. 
+50 Id. 
+51 Id. 
+52 Id. 
+53 Id. 
+54 Id. 
+55 Id. 
+56 Id. 
+57 Id. 
+58 Id. 
+59 Id. 
+60 Id. 
+61 Id. at 404 -405 
+62 Id. at 405 
+63 Id. 
+
+
+6 argued that the video was self -authenticating because  it showed defendant saying it is “live” and 
+that it lines up with the timing of the carjackings.64 The court questioned the method of 
+extraction, insisting that someone must testify to having downloaded it from Facebook for proper 
+authentication .65 
+After the sidebar, the court sustained defendant’s objection based on lack of 
+authentication.66 The state tried to authenticate the video through a forensic examiner , who 
+testified about his experience and methodology.67 Despite objections about the examiner’s 
+classification as a witness and concerns about the lack of testimony from someone present during 
+the recording, the court ruled the video was sufficiently authenticated based on its content and 
+the examiner’s testimony.68 The court admitted the video into evidence along with a screenshot 
+of codefendant’s Facebook page. In the end, defendant was found guilty of grand theft of a 
+vehicle and watch during the first carjacking but  was acquitted of charges related to the second 
+carjacking.69 
+On appeal, defendant’s arguments related mainly to what the Facebook video revealed.70 
+Defendant alleged that the trial court erred on four points; failure to recognize a discovery 
+violat ion regarding the digital forensic examiner, admission of the Facebook video without 
+proper authentication, overruling objections to witness identifications in the video, and denial  of 
+the motion for judgment of acquittal based on lack of proof of intent in the carjackings.71 
+Regarding the alleged lack of authentication of the Facebook video, the court held that 
+the state met the low threshold required to authe nticate the Facebook video since  the examiner 
+confirmed the p resence of the video on a codefendant’s page, showing defendant driving the 
+stolen vehicles.72 The video’s authenticity was further supported by the testimonies from the 
+victim and the Jupiter detective confirming defendant’s appearance and actions in the video.73 
+Based on th is evidence, the appellate court concluded that the state had made a prima facie 
+showing of the video’s authenticity for the purpose of admission into evidence, which would 
+allow the jury to ultimately decide how much weight it should be given.74 
+Defendant brought up Santana v. State , a case in which there was an issue regarding 
+audio authentication , suggesting that "authentication should be made by the technician who 
+operated the recording device or a person with knowledge of the conversation that was 
+recorded."75 However, the appellate court distinguished Santana from the matter at hand by 
+stating that the issue in Santana was an audio recording which could have been altered without 
+detection but here, the Facebook video “provides an unbroken visual recording of the defendant 
+for an extended period.”76 
+64 Id. 
+65 Id. 
+66 Id. 
+67 Id. 
+68 Id. at 406 
+69 Id. at 407 
+70 Id. 
+71 Id. 
+72 Id. at 408 
+73 Id. 
+74 Id. at 409 
+75 Lamb , 246 So. 3d at 409 (quoting Santana v. State , 191 So. 3d 946 (Fla. Dist. Ct. App. 2016))  
+76 Lamb , 246 So. 3d at 409 (quoting Santana v. State , 191 So. 3d 947 (Fla. Dist. Ct. App. 2016))  
+
+
+7 In the end, the appellate court held that the district court did not abuse its discretion in 
+admitting the video into evidence over defendant's objection alleging that it was not properly 
+authenticated.77 Finding no validity in any of defendant’s arguments , the appellate court affirmed 
+his convictions.78 
+V.DECODING  THE ROLE OF AI : EXAMINING  ITS IMPACT  ON
+AUTHENTICATION , RELIABILITY , AND LEGAL PRECEDENTS IN DIGITAL 
+FORENSICS  
+A.Case Studies: AI
+Although AI is a relatively new technological development, it has already started to make 
+its mark in some legal proceedings. This can be seen through emerging caselaw, such as c ourts 
+ruling that AI cannot be considered the inventor of something.79 
+With AI’s increasing prevalence  in legal proceedings , one thing worth considering  is how 
+the Confrontation Clause will factor into cases that involve AI -generated reports . If an AI 
+program generates a report, how does one confront those against him? Can one confront AI? If 
+so, h ow does that work?  Is it possible for one to confront an AI program?  
+It has generally been held that AI generated reports are not subject to the Confrontation  
+Clause.80 In Weeden , appellant blocked victim’s vehicle from exiting her driveway and 
+approached the driver door carrying a gun.81 Victim was eventually  able to drive  off with her 
+daughter and escape , but not before appellant fired his gun at the car, hitting it twice .82 Appellant 
+was charged with one count each of “aggravated assault, person not to possess a firearm, 
+carrying a firearm without a license, and propulsion of missiles into an occupied vehicle, and 
+three counts of recklessly endangering another person. ”83 At trial, both victims testified as well 
+as a detective, who testified for the Commonwealth detailing the Bureau's use of a gunfire 
+detection program, "ShotSpotter."84 
+The detective testified that ShotSpotter is a program designed with the aim of “detecting, 
+triangulating, and pinpointing the location of any loud [noises]” within the city’s limits.85 The 
+program uses sensors throughout the city to detect these noises.86 The detective  testified that 
+when the program detects a loud noise, it automatically documents it and sends it to a human 
+operator in California whose  job is to determine whether the noise was a gunshot.87 If the 
+operator determines that the noise was a gunshot, they will send the data back to the Bureau and 
+officers will be dispatched to that location within seconds.88 According to the detective, the 
+human operators receive hundreds of hours of training “to be able to recognize the difference 
+between . . . pattern[s] and . . . sound[s]” of gunshots, to the point that they can discern the 
+77 Lamb , 246 So. 3d at 409  
+78 Id. at 413 
+79 See Thaler v. Vidal,  43 F.4th 1207 (Fed. Cir. 2022); holding that under Patent Act, 35 U.S.C.S. § 100(f) only humans 
+can be inventors).
+80 Commonwealth v. Weeden , 304 A.3d 333 (Pa. 2023)  
+81 304 A.3d at 335  
+82 Id. 
+83 Id. 
+84 Id. at 336 
+85 Id. 
+86 Id. 
+87 Id. 
+88 Id. 
+
+
+   
+ 
+ 8  
+ difference between a firecracker and a gunshot.89 The detective acknowledged that the system 
+and its operators are not foolproof, but that the ShotSpotter system is “very accurate” in detecting 
+the presence of gunfire.90 
+The Commonwealth then proffered into evidence, via the detective, a "ShotSpotter 
+Investigative Lead Summary,’ which is automatically generated by ShotSpotter and provides the 
+date, time, and location of the suspected gunshot.91 The detective added that after the summary is 
+automatically generated, “updates may be added by the ShotSpotter operators to depict 
+information obtained by the responding police officers.”92 
+Relating to the case, the detective testified that officers were dispatched to appellant’s 
+location after ShotSpotter detected possible gunfire in that location.93 In support of his case, 
+appellant testified that he had supported the victim financially during their relationship and that 
+she was unemployed at the time of the shooting.94 Appellant also presented testimony from 
+multiple witnesses who attested that appellant was with them the ev ening of the shooting 
+“playing video games and eating soup” and that he did not leave until the following morning.95 
+Ultimately, appellant was found guilty on all charges.96 Appellant appealed, arguing that 
+the court “violated his right to confrontation under the state and federal constitutions by 
+admitting the Summary into evidence, as, in his view, the Summary was testimonial in nature, 
+such that he should have been afforde d the opportunity to cross -examine the declarant who 
+created it.”97 Appellant maintained that his cross -examination of the detective did not suffice 
+because the detective had no role in generating the report.98 The trial court held that appellant 
+deserved no relief on his const itutional challenge, as he failed to specify an exact person that he 
+wanted to confront.99 It further held that the creator of the Summary may not be subject to cross -
+examination because the Summary is computer -generated.100 
+On appeal, the main issue was whether the ShotSpotter Summary is testimonial in nature 
+and therefore subject to the protections afforded under the Confrontation Clause.101 Appellant 
+maintained that the Summary was testimonial as it was, in his view, offered "to prove the precise 
+time and location of the alleged shooting incident.”102 Appellant also a rgued that the creation of 
+the Summary contained a large human component due to the provision that stated it is reviewed 
+by a human.103 Appellant highlighted the detective’s testimony where he stated that the reports 
+generally are reviewed by a human operator, but that he was unsure if that process occurred in 
+this case.104 Nonetheless, appellant asserted that he deserved the right to confront the human 
+ 
+89 Id. 
+90 Id. 
+91 Id. 
+92 Id. 
+93 Id. at 336 -37 
+94 Id. at 338 
+95 Id. 
+96 Id. 
+97 Id. 
+98 Id. 
+99 Id. 
+100 Id. 
+101 Id. at 339 
+102 Id. at 340 
+103 Id. 
+104 Id. 
+
+
+9 operator for ShotSpotter that worked on this case, as well as any forensic engineer that may have 
+reviewed the data.105 Again, appellant argued that his cross -examination of the detective did not 
+suffice because “he had no role in creating the [Summary] and thus could not speak to its 
+reliability."106 
+The appellate court ultimately held that the Summary was non -testimonial in nature given 
+the fact that the ShotSpotter system “recorded the data in an effort to assist law enforcement in 
+responding to an ongoing emergency.”107 It reasoned that the data in the Summary was  not 
+generated with the primary purpose to establish or prove past events relevant to a later criminal 
+prosecution, but rather it was  “created to aid law enforcement in combating a particular instance 
+of gun violence and, more specifically, to permit the Bureau to immediately dispatch officers to 
+the . . . location to investigate and discern whether shots had been fired.”108 Thus, the admission 
+of the report did not violate the Confrontation Clause  or Crawford , and the court rejected 
+appellant’s evidentiary challenges to the Summary.109 
+Weeden highlights an interesting subsection of AI and its uses , that being the 
+admissibility of AI-generated data and reports.110 The case highlights the fact that these types of 
+reports are typically not considered hearsay because they are automatically generated by a 
+program rather than being asserted b y a person.111 It is also worth noting that reports such as the 
+ShotSpotter Summary are not subject to the Confrontation C lause for the same reason; it was 
+generated by a system rather than a person112113 
+AI is constantly evolving and improving. Given its rapid development and capabilities, it 
+is no surprise that AI has been used to calculate people’s reactions to things. This was the topic 
+of Bertuccelli v. Universal City Studios LLC , No. 19 -1304, 2020 U.S. Dist. LEXIS 195295 (E.D. 
+La. Oct. 21, 2020).  
+Bertuccelli involved using AI to calculate people’s reactions to two similar masks.114 In 
+2009, plaintiffs created King Cake Baby (“KCB”) and licensed its image for use as the mascot of 
+the New Orleans Pelicans .115 In 2017, the film “ Happy Death Day” released in theatres, in which 
+a serial killer wears a cartoon baby mask that bears a noticeable resemblance to plaintiff’s 
+KCB.116 Plaintiffs argue that defendant’s film  and its sequel infringe on their KCB  copyright . 117
+Defendants moved to exclude  any opinion testimony by plaintiff’s experts  – Mr. Berger 
+105 Id. 
+106 Id. 
+107 Id. at 350 
+108 Id. at 351 
+109 Weeden , 304 A.3d at 351; see Crawford v. Washington, 541 U.S. 36, 124 S. Ct. 1354 (2004); holding that 
+testimonial statements of witnesses not present at trial admissible only where declarant unavailable and defendant had prior 
+opportunity for cross -examination
+110 304 A.3d at 350 -51 
+111 Id. at 356 -57
+113 Weeden , 304 A.3d at 350 -51; see People v. H.K. , 2020 NY Slip Op 20232, 69 Misc. 3d 774, 130 N.Y.S.3d 890 
+(Crim Ct.); holding AI used as tool to assist analyst in interpretation of data and was not working independently; defendant’ s 
+right to confrontation was not violated as analyst was responsible for  the AI results, so analyst could be cross -examined 
+114 Id. 
+115 Id. at *2 
+116 Id. 
+117 Id. 
+
+
+   
+ 
+ 10  
+ and Dr. Griffor – as inadmissible under the Federal Rules of Evidence and Daubert .118 In 
+addition to alleging that the experts’ testimony is inconsistent with the court’s history of proving 
+“substantial similarity” in copyright cases, defendants also argue d that the testimony is unreliable 
+and that neither witness is qualified to opine on issues related to copyright infringement.119 
+The court held that both experts were qualified to testify as experts.120 It found that Mr. 
+Berger’s expertise in evaluating intellectual property perception and conducting trademark 
+surveys established him as a credible witness.121 Regarding Dr. Griffor, the court held that he is a 
+recognized expert in facial recognition technology, being the Associate Director for Cyber -
+Physical Systems at the National Institute of Standards and Technology (NIST) in Washington, 
+DC and with qualifications from the Massachusetts Institute of Technology and the University of 
+Oslo .122  
+The court ultimately  denied the motion to exclude  the testimony .123 However, it did note 
+that plaintiffs were free to explore their concerns  with the experts  on cross -examination.124 
+Bertuccelli is an interesting case, as one of the court ’s holdings was  that Dr. Griffor was a 
+qualified expert , citing his conduction of AI -assisted facial recognition analysis as “reliable 
+methodology. ”125 The case highlights a common concern regarding expert witnesses, which is 
+their competence. Because expert witnesses can have a big impact on how cases turn out, there is 
+often concern about their qualifications when testifying in court. One aspect of this concern 
+centers on the credentials and experience of the expert. Expert witnesses are usual ly requi red by 
+the courts to have specific knowledge, expertise, training, experience, or education related to the 
+subject matter of their testimony.  
+Another important factor is the reliability of the expert’s methods. Courts frequently 
+assess whether the expert’s methods have been appropriately applied to the case at hand, and 
+whether they are generally accepted within the relevant field. Preserving the integrity of the trial 
+process requires making sure that the expert’s opinions are founded on reliable scientific or 
+technical principles.  
+In Bertuccelli , the court found that both experts had sufficient credentials and experience 
+to deem them qualified.126 It also found that both experts’ methodologies were reliable and 
+credible.127 This is noteworthy because of how new AI is ; considering it has just become widely 
+available in recent years , a court holding that one’s methods of using AI are reliable and credible 
+may provide insight into what credentials AI experts should strive to have . This case may set 
+precedent for future instances where courts  must decide whether AI experts are qualified.  
+B. Navigating a New Frontier: AI’s Impact on the Legal Landscape  
+1. AI Deepfakes  
+ 
+118 Id.; Daubert , 43 F.3d at 1311  
+119 Id. at *3 
+120 Id. at *5 
+121 Id. 
+122 Id. at *5 -*6 
+123 Id. 
+124 Id. 
+125 Bertuccelli , No. 19 -1304, 2020 U.S. Dist. LEXIS 195295 at *6  
+126 Id. 
+127 Id. at *5 
+
+
+   
+ 
+ 11  
+ One area of AI that is concerning  are deepfakes. A deepfake is an image or recording that 
+“has been convincingly altered and manipulated to misrepresent someone as doing or saying 
+something that was not actually done or said ”.128 Deepfakes have been a round for years, but up 
+until recently one would have to manually edit something themselves  to make one . Thanks to AI, 
+deepfakes are now created faster and look more realistic.  
+Deepfakes are not limited to visuals, as there exists technology that can create audio 
+deepfakes too. Using AI, audio deepfake technology analyzes audio data and identifies patterns 
+and traits of a target voice, which it then replicates to produce a clone that programmers can use  
+via text -to-speech  to say whatever they want.129 Audio deepfakes pose significant concerns in a 
+legal context due to the potenti al for them to distort the truth. Due to the ability of these 
+advanced technologies to create convincing audio recordings of people saying things they never 
+did, it can be difficult to tell what is real and what is fake . There are already documented 
+incidents involving audio deepfakes, such as a Baltimore school principal being accused of 
+making racist remarks that he never actually said.130 Additionally, the rapper Drake made 
+headlines recently after he used AI to sound like Tupac on a new song.131 
+In a legal context, a udio deepfakes could be used to fabricate false confessions, 
+impersonate people, and manipulate audio recordings of phone calls , just to name a few possible 
+uses of concern. The potential misinformation caused by audio deepfakes could lead to an 
+undermining of the trustworthiness of legal proceedings.  
+The ability of deepfaked photos , videos , and audio  to deceive and manipulate evidence 
+poses  significant evidentiary dangers . The loss of confidence in visual evidence is one of the 
+main concerns, since deepfakes can realistically change people’s appearances and behaviors, 
+making it difficult to distinguish real content from fake, deepfaked content. This same loss of 
+confidence would occur in audio evidence due to the ability of audio deepfakes to mimic a 
+person’s voice, thus undermin ing the reliability of recorded audio in legal proceedings . 
+One aspect of this concern is the fact that deepfakes can be used to fabricate  events and 
+give false alibis. With deepfakes, criminals  could fabricate convincing but entirely fake scenarios 
+that may be used as evidence in court by superimposing people’s faces onto bodies or fabricating 
+false recordings . These deepfakes  could be weaponized to frame innocent people as well as 
+ 
+128 Deepfake definition & meaning, MERRIAM -WEBSTER , https://www.merriam -webster.com/dictionary/deepfake  (last 
+visited Apr 15, 2024).  
+129 Audio deepfakes: Cutting -edge tech with cutting -edge risks, BRADLEY , 
+https://www.bradley.com/insights/publications/2024/01/audio -deepfakes -cutting -edge -tech-with-cutting -edge -risks  (last visited 
+Apr 14, 2024).  
+130 Lauren Leffer, AI AUDIO DEEPFAKES ARE QUICKLY OUTPACING DETECTION  SCIENTIFIC AMERICAN  (2024), 
+https://www.scientificamerican.com/article/ai -audio -deepfakes -are-quickly -outpacing -detection/  (last visited Apr 14, 2024).  
+131 Bill Donahue, TUPAC SHAKUR ’S ESTATE THREATENS TO SUE DRAKE OVER DISS TRACK FEATURING AI-GENERATED 
+TUPAC VOICE BILLBOARD  (2024), https://www.billboard.com/pro/tupac -shakur -estate -drake -diss-track -ai-generated -voice/  (last 
+visited Apr 25, 2024)  
+
+
+   
+ 
+ 12  
+ exonerate guilty people. Th rough the m anipulati on of  evidence, perpetrators c ould falsely 
+exonerate or incriminate whoever they want.  
+Additionally, deepfakes would lead to an increase in doubt o f the authenticity of 
+legitimate  evidence. Picture this: you are a defense attorney , and you submit a legitimate video 
+of your client at home the night he allegedly  committed a robbery. Your client was relaxing with 
+family and decided to snap a photo of him and his mom. The opposing side may reject this  photo  
+as a deepfake, raising questions about its legitimacy and reliability even though it accurately 
+depicts what happened.  This could lead to your client being unfairly discredited and wrongly 
+convicted, despite presenting genuine evidence that supports his innocence. The mere existence 
+of deepfake technology will lead to skepticism and uncertainty when it comes to legal 
+proceedings, which will make it increasingly difficult to trust the authenticity of evidence. The 
+integrity of the entire legal system would be  at risk because of this erosion of trust, which 
+threatens the core value s of justice and fairness.  
+Even outside of a legal context, deepfakes pose significant concerns. With manipulated 
+content, individuals may find themselves depicted in defam atory situatio ns without their 
+knowledge or consent. This could cause significant damage to their reputation and may even 
+have legal repercussions.  Defamatory instances of deepfakes have  already happened with 
+revenge porn made with AI deepfake technology, as well as child porn made with the same 
+technology.132 
+2. Legislative Responses to Address  AI Risks  
+Given that AI comprises a wide range of technologies and applications in different areas, 
+a diverse range of regulations suited to the various contexts in which AI functions are required. 
+While some bills attempting to regulate AI have already been passed,  others are still in the 
+legislative process.  
+To combat concerns related to AI, m any states have started to propose new legislation . 
+New York introduced  a bill  with the aim of amending  the law and criminalizing  the unlawful 
+publication , dissemination, and access  of sex ually explicit depiction s of individual s and 
+“establishing offenses involving sexually explicit digital alterations .”133 The law would make 
+committing these actions a class E felony .134 It is noted in the bill’s justification section that as 
+more advanced technology becomes available, child pornographers can circumvent the law and 
+generate child porn using AI.135 It noted that these digitally manipulated images lead to the 
+“same reputational harm caused by conventional forms of child pornography” but that they are 
+not criminally prohibited in New York.”136 This bill aims to allow courts to finally punish those 
+who have been able to create child porn using AI and avoid facing punishment.137 As of April 
+14, 2024 , this bill had not yet been passed.138 
+ 
+132 Alexis Santiago, COMMENT: The Internet Never Forgets: A Federal Solution to the Dissemination of 
+Nonconsensual Pornography , 43 Seattle U. L. Rev 1273 -98 (2020).  
+  Legis. Bill Hist. NY A.B. 7519  
+134 Id. 
+135 Id. 
+136 Id. 
+137 Id. 
+138 Id. 
+
+
+13 At a national level, there was a bill introduced in the House which aims to “protect 
+national security against the threats posed by deepfake technology.”139 It also aims to provide 
+legal recourse to those who have been victims of harmful deepfakes .140 Currently, it also has not 
+yet been passed.141 
+3.Exploring Non -Legislative Approaches to Address AI Risks
+There are other avenues besides legislation that can hopefully counteract the dangers 
+posed by AI. One possible solution  to address these concerns regarding AI and authentication is 
+to create special jury instructions that address the issue , specifically when it comes to AI -
+generated evidence . Pennsylvania  courts recently proposed jury instructions to address 
+computer -generated anima tion evidence .142 The jury instructions explain that a computer -
+generated animation will be presented as evidence, and that animation was created by a specific 
+artist based on information provided to them by one of the parties .143 The instructions also state 
+that the animation does not contain any conclusions or calculations made by the computer 
+itself.144 In the instructions, it is emphasized that the animation represents that party’s 
+recollection of events and is not perfectly representing what happened.145 The jury is reminded 
+that they are free to accept or reject any part of the animation, just as they can with other 
+evidence.146 The instruction s state  that to assess the animation, t he jury should consider the 
+credibility of the information that the artist relied on as well as their skill, experience, and 
+education.147 
+AI technology frequently uses complex data analysis techniques and algorithms.  The 
+ordinary juror is not likely to fully understand the AI evidence they are being shown.  By giving 
+the jury brief and straightforward explanations of AI evidence, the judge would help ensure that 
+jurors understand the nature and significance of the evidence presented.  
+The jury would be given instructions by the judge to assess the authenticity of the AI 
+evidence by taking into account many things, such as origin and reliability of the data used to 
+feed the AI, the qualifications and experience of those in charge of cre ating and applying the AI, 
+as well as any known restrictions related to the AI employed in the case.  Regarding the weight of 
+the evidence, the judge would indicate that the jury is free to accept or reject any part of the AI 
+evidence submitted by either par ty. Giving the jury these instructions at the beginning of the trial 
+may help frame what they should be on the lookout for, helping them ultimately form a better 
+verdict.  
+We have already seen in Bertuccelli how the court considered the qualifications of 
+plaintiff’s experts when determining that they were qualified .148 This consideration of experts’ 
+qualifications is a small step to better results in legal proceedings involving AI. If a court were to 
+apply jury instructions like I propose, there may be an even better  handling of AI evidence in the 
+  H.R. 5586; 118 H.R. 5586  
+140 Id. 
+141 Id. 
+142 Pa. SSJI (Civ) 3.90  
+143 Id. 
+144 Id. 
+145 Id. 
+146 Id. 
+147 Id. 
+148 Bertuccelli , No. 19 -1304, 2020 U.S. Dist. LEXIS 195295 at *5 -*6 
+
+
+14 future. These instructions would help inform the jury on how to view the evidence  and the 
+weight to give it , likely leading to better results.  
+Changes to the Federal Rules of Civil Procedure may be necessary, especially when it 
+comes to discovery rules. As AI systems generate documents, communications, and legal 
+analyses, the scope of what’s discoverable may need to be clarified. Courts will have to decide 
+whether AI -generated outputs are subject to discovery, as well as if the underlying algorithms or 
+training data sh ould be discoverable. This may be especially important in cases where possible 
+bias or decision -making processes are at issue.  
+Additionally, there are many people who believe that there is no need for a law aimed 
+specifically at AI, as almost every situation where AI may arise would already be covered under 
+an existing law. For example, issues with AI when it comes to appropriatin g someone’s likeness 
+would already be covered under the right of publicity, which is a state-law tort designed “to 
+prevent unauthorized uses of a person’s identity that typically involve appropriations of a 
+person’s name, likeness, or voice .”149 This means that in cases involving the use of AI to 
+replicate a celebrity’s voice or image without their consent, that celebrity would have the ability 
+to take legal action under this right of publicity.  
+VI. Taking the Next Step: Safeguarding Legal Integrity in the Era of AI
+Ultimately, my  investigation into the complex area where AI meets legal proceedings  has 
+been both informative and unsettling. Although AI can be very helpful in various aspects of life, 
+the possible  risks that it poses to the credibility of evidence cannot be ignored. I am unsure where 
+exactly AI will lead us in legal proceedings in the future, but we cannot hope to reduce the risks 
+posed by AI without first considering the dangers discussed in this paper. Adopting a myopic 
+attitude towards the dangers of AI will get us nowhere; w e must be proactive and take steps to 
+address these risks.  
+To protect the justice and truth that our legal system is built on, courts must implement 
+rules that guarantee the responsible use of AI.  New legislation must also be passed to combat the 
+dangers posed by AI. As we stand on the brink of a future in which AI will be every where, w e 
+are faced with the important duty of upholding the legal system’s integrity in an age of rapid 
+technological advancement.  
+149 state-law tort designed to prevent unauthorized uses of a person’s identity that typically involve appropriations of a person’s 
+name, likeness, or voice  
+
+

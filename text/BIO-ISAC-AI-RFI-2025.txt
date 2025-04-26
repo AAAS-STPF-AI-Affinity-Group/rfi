@@ -1,0 +1,159 @@
+{"\ufeffMarch 15, 2025 \nNational Science Foundation \nNetworking and Information 
+Technology Research and Development \nNational Coordination Office \nAttn: Faisal 
+D'Souza \n2415 Eisenhower Avenue \nAlexandria, VA 22314\ nVia email: ostp -ai-
+rﬁ@nitrd.gov \n\nConsiderations for the AI Action Plan | Docket No. 2025 -02305   \n\nThe 
+Bioeconomy Information Sharing and Analysis Center (BIO -ISAC) and its members support 
+the efforts to collect information and insights from stakeholders on current and future 
+practices and m ethodologies for the responsible development and use of artiﬁcial 
+intelligence (AI) models. We welcome this opportunity to provide expertise and thank you 
+for your leadership in this work. \nWe ask you to prioritize cyberbiosecurity, particularly 
+with regards to data and AI model integrity, testing, and maintenance. \nBIO -ISAC (isac.bio), 
+a non-proﬁt organization, addresses threats unique to the bioeconomy and enables 
+coordination among stakeholders to facilitate a safe, secure industry. BIO -ISAC provides 
+two -way sharing of information between and among public and private partners serving as 
+the central resource for gathering information on threats impacting the bioeconomy, including artiﬁcial intelligence model design and safeguarding, helping spur the development and evaluation of defensive tools to address these issues.  
+\n\nCyberbiosecurity is safety and security in AI. \nCyberbiosecurity. Understanding the 
+unique challenges, features, impacts, and opportunities in cybersecurity operations as it 
+connects to traditionally -labeled biosecurity protections helps deﬁne the appropriate level 
+of risk, protective measures, and urgency as it relates to AI dialogues. Cyberbiosecurity is 
+safety and security when working with AI. Cyberbiosecurity is not the creatio n of a new ﬁeld 
+of work and regulations. Cyberbiosecurity, sometimes called digital biosecurity, recognizes the responsibility and mandate to fulﬁll both the cybersecurity and biosecurity 
+requirements and move standards and recommendations to requirement s when 
+cybersecurity activities take place connected to biology products and biosecurity activities 
+take place connected to digital environments. A primary source, Understanding the Cyberbiosecurity Threat1 is available via the American Foreign Policy Coun cil.    
+\nEnforceability. As is well documented, many cybersecurity and security standards exist 
+in the United States without regulatory requirement and enforceability. The future state for AI safety and security must detail speciﬁc actions as requirement s, this should include 
+parameters for research, manufacturing, and equipment maintenance concerns as well as data inclusion, storage, generation and transmission protections and cybersecurity. 
+Deﬁning inclusion criteria broadly at the user level will eliminate confusion and/or misuse 
+of any exemption clauses. \nVulnerabilities. BIO -ISAC has ﬁrst -hand experience with a 
+history of submissions of vulnerabilities that go unaddressed for not meeting current critical infrastructure boundaries and other metrics for coordinated response across the 
+United States Government. These vulnerabilities meet the NIST deﬁnition of vulnerability 
+(Weakness in an information system, system security procedures, internal controls, or 
+
+
+implementation that could be exploited or triggered by a threat source. A condition that 
+enables a threat event to occur. NISTIR 8286). Without acceptance as a vulnerability by agencies, spreading alerts for remediation and defense do not occur at the nati onal level. 
+This is particularly critical when considering AI tools and their volume of data sharing. Recognizing pathways for vulnerability remediation (especially beyond those that are software -speciﬁc or labeled to individual critical infrastructures) is imperative to achieving 
+truly secure operations with AI. \nWith speciﬁc regard to AI models connected to biology, it 
+is important to prioritize the immediate remediation of any vulnerabilities or weaknesses 
+that allow adversaries to modify any data use d, model training infrastructure, and/or model 
+weights themselves. Without such integrity, the resulting medical, agricultural, and other 
+critical bio -products could become untrustworthy and have the potential to harm 
+signiﬁcant numbers. These openings in instrument manufacturing and device connectivity 
+further impact the ability for threat actors to steal the intellectual property, algorithm 
+models, and data of American businesses. This impacts our national economy and the 
+ability to access everyday items , from apples to vaccines. The current coordinated 
+disclosure paths and cybersecurity efforts in the United States are not working to meet the needs of bio -connected industry, nor are they protecting our national investments to keep 
+the American public safe and our industries and products secure. \nTo advance with AI, we 
+must resolve the pathways for vulnerability mitigation.  \n\ nWith AI, data becomes 
+knowledge. \nData is Information. Considering information as a component of data in 
+these transactions is essential to resolving this feasible gap. We must regulate the security 
+practices for sensitive data, as well as the information derived from such data.\ nData 
+Integrity. Data that is anonymized, pseudonymized, de -identiﬁed, or encrypted is sensitive 
+data, proven to have reidentiﬁcation likelihood through minimal efforts. Language on data 
+integrity and security is imperative to the goals of data protection as part of AI safety and should see sensitive data hygiene and practices included in this work. Anony mization, de -
+identiﬁcation and encryption should be considered a basic requirement and technical 
+requirements should be included. BIO -ISAC has coordinated several responsible 
+disclosures of threats in this domain caused by the lack of requirements, not st andards, in 
+this space. Continuing this conversation without an emphasis on data integrity and security 
+puts American data at risk, particularly through AI. This ﬁeld is evolving extremely rapidly, and protective measures have to include the awareness that adversaries are actively 
+collecting data now to decrypt it later, when their technical means improve. The nature of 
+this data is such that even years later decryption poses major threats to the privacy and security of the American public. \ nGenomic Data. Genomes/genomic data are an 
+especially concerning piece of sensitive or PII/PHI data as this data generally spends a substantial part of a lifecycle in the analysis phase and, as such, are unencrypted for 
+nontrivial amounts of time. Homomorphic encryption (HE) is still very new in the - omics 
+
+
+space and many papers show HE can be applied to -omics analysis through HE genomic 
+analysis tools. Still, there is not a commonly used HE tool(s) for - omics analysis. Most 
+traditional bioinformatics analysis tools are not maintained and do not go through 
+traditional processes (such as SCRUM) to maintain validity and security that sits ahead of 
+the industry capabilities and demands. Knowing this, it is expected to assume that 
+genomic data is unencrypted for substantial amounts of time while being analyzed by  
+software of dubious trustworthiness with regard to security. While requiring encryption at rest and during transit is the traditional way to protect sensitive data, this is not necessarily 
+sufficient for genomic data which can easily spend days to weeks t o even upwards of a 
+month being processed by various analysis algorithms while unencrypted. This effort for 
+security standards in data transactions should target a future where encrypted or otherwise better -protected analysis is the norm. \nBIO -ISAC actively participates with NIST 
+on genomic data privacy and cybersecurity standards, and BIO -ISAC self -funded genomic 
+data integrity and data categorization discussions to support the secure use of these data. These publications are available at isac.bio/genomicdata. Action reﬂecting encryption concerns and requirements for genomic data would be valuable, as well as efforts to further advance research on genomic data risks, abuse, and security needs when used as a component of AI models. \nData Leakage through AI Model Training. While AI is, and will 
+continue to be, critical to American innovation and competitiveness in the sector, it is vital to recognize that AI offers additional challenges in the security and safety of data pass -
+through transactions. AI takes data as an input (training data) to develop a model that has 
+utility. Training data exﬁltration from AI models has been demonstrated by academics4, highlighting a new set of risks that must be taken into account. Limiting how the 
+information in an AI mode l is accessed can be, depending on the AI, a technical 
+impossibility. This is demonstrated with the current state of chat -bots, in which people are 
+able to extract sensitive information used to train the chat -bot model.2,3 The information is 
+held within the model and there is no functional method to guarantee that data and information will not leak or face exposure. \ nThe data we generate today is extremely 
+valuable when used to train AI. Datasets from multiple sources are used and the combined 
+information is what results in a valuable AI tool. If a foreign entity seeks to build AI using 
+sensitive data from the U.S., any use of that AI constitutes an example of the foreign entity having access to information from the data used to train that AI. \nSensitive data, when 
+modiﬁed, can also still contain sensitive information. The training of AI on data is a form of data modiﬁcation. The use of that AI is a form of accessing the modiﬁed information. We have evidence that sensitive information is routinely, uninte ntionally, and in an 
+uncontrollable manner shared via ChatGPT.4 \nIf a foreign entity that enters an agreement 
+that states not to share sensitive content can, instead, build AI systems with that data or 
+material, they would then have an AI system that conta ins the extractable information of 
+
+
+that sensitive data. From this effort, it is still unclear how an entity would both support an 
+AI system built from sensitive data and assure the U.S. that such an AI system will not be accessed by threat actors. Controls and policies must be designed and implemented to 
+reﬂect this risk and secure AI models. \n\nUnderstand the tools, devices and users. \nData 
+and Device Lifecycle Management. This effort must include evaluation of and guidance for the data generation itself, data storage, data transmission, and introduction of new data to any model. It also must include the consideration of cybersecurity training and requirements for the devices and instruments connected to those models and those 
+equipment used to store or transmit the model and its data. BIO -ISAC has published 
+several tools addressing device needs in these environments, including, Fortifying the 
+Bioeconomy, to deﬁne the importance of shared responsibility in device security, and the Biosecurity Evaluation Questionnaire, to support teams during security -focused decision 
+making on new instrument acquisition. These materials are available at isac.bio/device. 
+Publications on zero -trust, secure -by-design model network architectures will also be 
+available soon. Each set of tools would be adaptable in safe, secure AI 
+deployment. \nMedia Sanitization. NIST media disposal guidelines (800 -88)5 are not always 
+enforceable and many vendors have complicated steps to access the media storage components to do this effectively. These devices are currently connected to AI models. 
+NIST 800-88 needs to be a requirement for those handling data and instruments connected 
+to AI models. BIO -ISAC created the Device Disposal Guide, and offers support for secure 
+instrument disposal at isac.bio/device.\ nKnow your Designer. Similar to ongoing efforts to 
+know your customer in the synthetic DNA and other areas, an effort similar to OSINT/Web analytics work to know who is involved and building your AI model would strengthen safety. 
+This would create a system of model provenance to identify organizations looking to use 
+data needed for the construction of these models and offer a reputation score with security and defense as the core goals. This would also offer a support guide for cybersecurity training, biosecurity training, and background check requirements for those interested in 
+this work. BIO -ISAC has this training program. \n\nTrusted, ethical testing of AI is needed. 
+\nEthical Model/Tool Research. Though often used as a term to demonstrate an evaluation 
+is for research purposes, ethical red teaming is only possible when consent for the research from all involved parties, including any data sets and equipment, and permission to access to the algorithms and networks themselves, has been granted. In the case of 
+operationalizing safety in AI and in AI development, testing, and use, the highest standards 
+for ethical red teaming must be required. \ nThis environment demands expectations for 
+background screening of all participants, information sharing through secure and trusted 
+sources prior to public distribution of any ﬁndings, and secure -by-design and preventive 
+measures for the evaluation of the study efforts, materials, and technologies in use or 
+created in the process. Any effort pursuing red teaming would beneﬁt from an AI pe er 
+
+
+review and approval process, similar to an Institutional Review Board (IRB), to ensure safe, 
+ethical protocols are advanced. \nTrusted Test Environment(s). Ethical red teaming 
+requires access to a safe, secure and high-trust environment for conducting full -scale 
+evaluations to assess and resolve issues with AI models and AI -connected research. At this 
+time, the United States has very limited facilities able to offer this environment, with only one site active in full -scale cyberbiosecurity countermeasure evaluation. The community 
+and members at BIO -ISAC lead much of this work, often as the sole provider of this level of 
+evaluation. \nWithin a trusted test environment, efforts such as fuzzing deliver volumes of 
+iterative attacks purposefully engineered to perf orm as a threat actor to create a report on 
+what happens during an attack, informing stronger secure -by-design processes and new 
+protections. This would present signiﬁcant action needs for the use of AI.\ nImportantly, 
+this work often produces greater understanding of the risks and threats within the deployment of an AI tool in certain environments and allows for discovering any potential 
+risk of byproduct errors in the methods and models created. This test range activity keeps 
+America safe and deﬁnes our defense posturing. The pathways for reporting and resolving those ﬁndings, in and outside of the U.S. Government, and for sharing that information responsibly, are unclear and lack defensive strategies protecting against misuse. BIO -ISAC 
+holds much of this research and leads in information sharing. \nRestrict Materials. Similar 
+to credentialed biosafety laboratories (BSL -3, BSL -2, etc.), the deployment of AI tools and 
+their use on, in, or connected to speciﬁc processes should be restricted. This may requi re 
+recategorizing select agents and other research materials in dual use inventories, particularly for studies leveraging AI or where nondescript synthetic DNA synthesis may result. \nRelease Research Restrictions. At this time, the work of AI as it connec ts to 
+biology and those instruments is restricted by the critical infrastructure boundaries. Leveraged as exclusion criteria, all funding that ﬁrst prioritizes critical infrastructure creates a barrier to the mobilization of federal funding for advanced-l evel AI research (and 
+cybersecurity testing) as it pertains to our most vulnerable organic materials and most -
+often consumed products. This boundary means the country is excluding those FFRDCs, National Labs, UARCs and others from requesting grant funding to research topics operating in the ﬁeld (across multiple critical infrastructures), including biology -connected 
+AI. This means our country \u2019s best scientists are not able to pursue our most -needed 
+research. \n\nBIO -ISAC members have, to -date, mobilized internal funds to keep America, 
+and its economic investments in AI, safe and secure. They have conducted urgent research, examined equipment and networks, monitored and remediated threats, provided government agencies and leaders with hands -on experienc es and education sessions, 
+developed tools and trusted test environments, and created awareness and training programs for frontline workers and our nation \u2019s next generation of scientists. 
+Together, we serve the conversations and work we must do as a nation to help the most 
+
+
+urgent needs of our stakeholders in the ﬁeld. \nWe are available to brief on this research 
+and ﬁndings. \nAs a country, we \u2019ve placed signiﬁcant demands on the advancement 
+of AI and must act now to defend it. Thank you for pursuing this important wo rk to create 
+safe futures for AI. \n\n\nSincerely,\n\ nS. Whitney Zatzkin \nBioeconomy Information 
+Sharing and Analysis Center \nisac.bio \n\n\n\n\nThis document is approved for public 
+dissemination. The document contains no business-proprietary or conﬁdentia l 
+information. Document contents may be reused by the government in developing the AI 
+Action Plan and associated documents without attribution.": null}  
+
+

@@ -1,0 +1,211 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-zt3l-qbtn
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-6390
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  OpenMined Foundation
+General Comment
+See attached file(s)
+Attachments
+OpenMined
+
+
+ RFI on the Development of an AI Action Plan 
+ March 15, 2025 
+ To: the Networking and Information Technology Research and Development (NITRD) 
+ National Coor dination Oﬃ ce (NCO), on behalf of the Oﬃce of Science and Technology 
+ Policy (OSTP) 
+ Thank y ou for opening up this RFI and for taking the time to review this response. I am 
+ writing on behalf of OpenMined, a non-pr oﬁt foundation of 17,000+ community 
+ members with signiﬁcant experience facilitating  structured  access  to proprietary AI 
+ systems and their corr esponding components. For the past 7 years, we have developed 
+ freely available open-source software infrastructure  for this purpose and deployed it 
+ with v arious government, industry, and civil society partners. 
+ American AI L eadership is at Risk 
+ For years, the United States of America has held the top position in the global 
+ leaderboar d for AI innovation, outpacing the world in machine learning model 
+ development, frontier AI research, and private investment.  The United States'  1
+ dominance in these key areas indicates a position of strength, but the People’s Republic 
+ of China (PRC ) is working arduously to close this gap and has succeeded in shortening 
+ the United States' lead.  
+ In 2015, the PRC announced a national strategic plan and industrial policy -  Made in  
+ China 2025  - to turn China into a manufacturing powerhouse,  mak e the country 
+ self-r eliant, achieve technological leadership, supply chain dominance, and global 
+ economic supr emacy.  An analysis  , published in April  2024 in a Hong Kong-based 
+ newspaper , concluded that 86% of the objectives China outlined in their plan had been 
+ 1  The Stanford Institute for Human-Centered AI (HAI) created the Global and National AI Vibrancy Rankings 
+ tool which provides a comprehensive global ranking of countries for each year from 2017 to 2023, along  
+ with detailed metric-speci ﬁc comparisons to see how each country performs relative to others.  See 
+ https://hai.stanford.edu/ai-index/global-vibrancy-tool  . 
+ 1  of  6 
+
+
+ achieved.  A September 2024 report from then-Senator Marco Rubio found that China 2
+ had r eached, or is near reaching, the technological cutting edge in most of the sectors it 
+ has tar geted.  The r eport goes on to say, “If Xi Jinping were a fund manager, he would 3
+ have every reason to be pleased with the performance of this portfolio.” 
+ In 2017, China augmented its national industrial plans with the r elease of its  AI 
+ Development Plan  , a blueprint char ting the country's  approach to developing AI and 
+ sect oral applications. The stated goal of the plan was to make China the world’s primary 
+ AI inno vation center by 2030. Given China’s previous performance on national plans, as 
+ well as its r ecent rise in AI research output, presence at top-tier AI conferences, AI 
+ patent origins, and pr oduction of STEM graduates, China is poised to achieve this goal. 
+ A key factor in China’s ability to achieve this goal and the United States' potential to 
+ cede its dominance is an o verlooked technical property of modern AI systems. While it 
+ might seem that the r elationship between low-level algorithmic properties and high-level 
+ geopolitical consequences would be distant, in this case the implication is pr ofound. 
+ The supply chain for AI capability consists of thr ee critical resources: data, compute, 
+ and algorithms - with human talent driving algorithmic de velopment. This triad creates a 
+ crucial bottleneck in AI capability within any nation. T oday, an AI model’s capability is 
+ currently constrained by the amount of these resources that a single organization can 
+ acquir e. For example, in the United States, GPT-4.5, Claude 3.7, and Gemini 2.0 are all 
+ constr ained by the amount of these resources that OpenAI, Anthropic, and Google 
+ DeepMind, r espectively, can acquire. This constraint exists because AI models are 
+ currently architected to be  a singular bundled artifact  - trained by a single entity despite 
+ drawing resources from many places. This technical property creates a dire trap that 
+ pushes democr atic nations, like the United States, toward increasingly anti-democratic 
+ measur es. We can observe this trap through one of the emerging bottlenecks on the 
+ above-mentioned resources: data. 
+ Many companies in democr atic nations have already exhausted their supply of publicly 
+ available training data  . Unlik e nations that can  simply nationaliz e private data from 4
+ their citiz ens and corporations, democratic nations face a fundamental constraint: they 
+ cannot match this r esource advantage without violating civil liberties. While China can 
+ 4  OpenAI’s former chief scientist, Ilya Sutskever, announced during his test of time 
+ award speech at NeurIPS 2024 that, ”We’ve achieved peak data and there’ll be no more”.  See  generally 
+ “  OpenAI cofounder Ilya Sutskever says the way AI is  built is about to change  ”.  3  See  “The World China Made “Made In China 2025” Nine  Years Later”.  2  See generally  “  Ten years on, the relative success  of Beijing's Made in China 2025 plan  ”. 
+ 2 
+
+
+ compel Baidu, ByteDance, Alibaba, Tencent, and SenseTime, among other private ﬁrms 
+ and its 1.4 billion citizens to share data under their Data Security Law  , the United States  5
+ must respect the 4th Amendment and other privacy and property laws, ceding 
+ leadership in access t o this key resource to China. 
+ This bottleneck r eveals how the current AI race leads to an inevitable paradox: to 
+ maintain dominance in building and deplo ying the world’s most powerful AI models, 
+ democr atic societies, like the United States, would need to become less democratic. 
+ They would need to compel their citizens and businesses to relax individual property 
+ rights (e.g. cop yright), and to surrender their private data to train competitive models, all 
+ in the name of national security and economic competitiv eness. 
+ The technical r eality here creates an impossible choice for the United States: either lose 
+ the AI r ace or win it by becoming more like what we seek to defeat. A nation whose 
+ bedr ock values are individual liberty, free markets, and democratic accountability cannot 
+ simultaneously build the most capable AI (which r equires nationalizing data and 
+ compute r esources). 
+ This tr ap is particularly insidious because it emerges not from any single policy choice, 
+ but fr om the inherent nature of AI systems as centralized artifacts requiring centralized 
+ contr ol. Understanding that these systems fundamentally aggregate data, compute, and 
+ algorithmic capabilities int o central models reveals why their development inevitably 
+ pushes t oward centralization of power. Democratic nations pursuing this path will ﬁ nd 
+ themselves inexorably drawn toward increasingly anti-democratic measures, not 
+ because any one desires this outcome, but because the technical architecture itself 
+ demands it. This is not mer ely a moral dilemma - it is a fundamental strategic reality 
+ that emer ges directly from the technical constraints. 
+ The United States cannot win an AI r ace that requires us to abandon democracy itself. 
+ Rewrite the Rules of the AI Race 
+ Instead of leaning into their advantages, democratic societies have been competing in a 
+ race that ampliﬁ es their strategic weakness. This weakness stems not from having 
+ fewer of these key AI resources but from bundling them into centralized models. 
+ Curr ently, an American AI model can only be as powerful as the data, compute, and 
+ 5  While this is a hypothetical scenario, the PRC arguably has these powers under the Data Security Law.  See 
+ https://digichina.stanford.edu/work/translation-data-security-law-of-the-peoples-republic-of-china/ 
+ 3 
+
+
+ talent that a single company can amass. A Chinese model can only leverage what its 
+ government can command. But there exists a third way - one that could harness the 
+ distributed r esources of the entire free market for information while preserving 
+ individual agency and democr atic values. 
+ Consider a new distributed infr astructure with an interoperable protocol layer enabling 
+ contr olled data collaborations across organizations. This infrastructure would preserve 
+ data under its original owner 's control through source-speciﬁ c partitioning rather than 
+ centralized merging, enabling data owners to selectively participate in speciﬁ c AI 
+ predictions while maintaining governance over their information. Like traditional AI 
+ models, such an infr astructure would facilitate rapid knowledge synthesis, but in this 
+ new par adigm AI models would combine distributed information only when needed and 
+ while pr eserving source attribution throughout computation. AI models leveraging such 
+ a distributed infr astructure for training, instead of a centralized one, would be far more 
+ power ful than any single model leveraging resources from a single company or 
+ government, because, in such a distributed infrastructure, models can leverage 
+ resources from anyone participating in the global network. 
+ Fortunately, this third way is not merely a theoretical possibility. Recent breakthroughs 
+ across multiple ﬁ elds - from cryptography to distributed systems to network theory - 
+ offer concrete tools to build such a distributed infrastructure. Advances in 
+ privacy-enhancing technologies (PETs) also offer concrete solutions to develop the 
+ necessar y protocol layer to power the distributed information system. Such an 
+ infrastructure would allow the United States to redeﬁ ne the rules of the AI race and 
+ compete in an environment where we make full use of our inherent advantages. 
+ Securing American L eadership in AI 
+ The infrastructure and protocol mentioned above are still in the early stages of research 
+ and de velopment, going through proof-of-function pilot projects. The end-to-end 
+ ecosystem envisioned does not y et exist, but most of the individual pieces of 
+ technology necessar y to power such an ecosystem do exist and are ready for further 
+ testing.  
+ A central component of the AI Action Plan should prioritize funding the research, 
+ infrastructure development, and testing required to support this distributed 
+ infrastructure as a core feature of strengthening the United States’ national AI capability 
+ and maintaining its competitiv e edge in AI innovation. Such testing should be 
+ 4 
+
+
+ concretized in technical standards after successful demonstrations of the end-to-end 
+ system are complete. Through bold investments like these, the Trump Administration 
+ can sustain and enhance America 's global AI dominance to promote human ﬂ ourishing, 
+ national security and economic prosperity for the nation for decades to come. 
+ China 's desire to be the world’s primary AI innovation center by 2030 only works if AI 
+ resources cannot be easily shared amongst a group wider than a corporation or nation. 
+ History has taught time and time again that free networks beat nations. Case in point, 
+ befor e the internet, the USSR deployed massive resources to catch up with the United 
+ States’ dominance in mainfr ame computing. In response, the United States changed the 
+ rules of the game and star ted networking their computers together through a series of 
+ pilots acr oss organizations around the country in a program that changed the world: the 
+ Advanced Research Projects Agency Network, better known as ARPANET. The DOD 
+ established ARP ANET, which developed a new technology, which later became the 
+ TCP/IP protocol we know and use today. ARPANET’s creation was motivated, in part, to 
+ allow ARP A-sponsored researchers at various corporate and academic institutions to 
+ utiliz e computers provided by ARPA to communicate with each other and, in part, to 
+ distribute new softwar e quickly. In short, the creators wanted to enable resource sharing 
+ between r emote computers. 
+ Access t o ARPANET was expanded through an NSF-funded project called NSFNET 
+ which was a pr ogram of coordinated, evolving projects to promote research and 
+ education networking in the United States. The pr ogram created several nationwide 
+ computer networks in suppor t of these initiatives, initially aiming to create an academic 
+ research network to facilitate access for researchers to NSF-funded supercomputing 
+ centers, but thr ough further public funding and private industry partnerships, NSFNET 
+ developed into the backbone of the modern Internet. 
+ The technological adv ancements and practical applications achieved through the 
+ ARPANET project under the DOD and the NSFNET project under the NSF resulted in 
+ American technological dominance — not b y building the biggest computer, but by 
+ networking the entir e world's computers in a free and democratic web — the Internet. 
+ Today, we can do the same with AI. China can force its 1.4 billion people to share their 
+ data with their national AI pr ojects, but they can't force the world's other 6.6 billion 
+ people t o trust it or use it. By establishing the standard protocol for trusted AI 
+ collabor ation, America can once again turn its democratic values into technological 
+ advantage. Just as the open protocols of the Internet unleashed a wave of innovation 
+ that left closed national networks behind, America can build the pr otocol that will make 
+ 5 
+
+
+ centralized AI obsolete and carry on the centuries-long trend toward greater freedom  
+ and democracy around the world through superior technologies.  
+ The window for action is now. China is betting everything on size. We need to change  
+ the game before they realize they're playing the wrong one. Just as ARPANET  
+ transformed computing from a race for bigger machines into a democratic network that  
+ changed the world, America needs to transform the AI race from a contest of size into a  
+ collaboration that ampli ﬁes human potential. The future of intelligence is network ed, not  
+ centralized. Let's build it.  
+ Warmly,  
+ Lacey Strahm  
+ Head of Policy, OpenMined  
+ 
+ 6 
+
+

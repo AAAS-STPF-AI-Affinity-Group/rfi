@@ -1,0 +1,171 @@
+ 1  
+Keysight  Technologies  Response to Request for Information on the 
+Development of an Artiﬁcial Intelligence (AI) Action Plan  
+ 
+Keysight is a leading multinational technology provider. Keysight develops solutions that 
+accelerate innovation to connect and secure the world. Keysight supports mission critical 
+solutions with design, emulation, complete testing, manufacturing, optimizat ion and 
+network security monitoring in high growth industries.  
+ 
+Keysight is partnered with 10/10 top automotive companies, 90% of technology 
+companies, 95% of top mobile operators, 25/25 top semiconductor companies, 90% top 
+aerospace and defense contractors with over 30,000 top customers in over 100 countries.  
+ 
+With its vast knowledge of industries, markets, customers and over 15,000 employees and 
+over 2,000  patents/pending  patent applications , Keysight’s experience informs its business 
+strategy to drive customer success.  
+AI is a transformative force with the potential to address complex business and global 
+challenges. Ensuring the continued advancement of AI capabilities is essential to U.S. 
+economic growth and national security.   
+This document makes recommendations below in response to “Request for Information on 
+the Development of an Artiﬁcial Intelligence (AI) Action Plan.  
+• Facilitate Rapid AI Adoption  – Ensure policies encourage LLM/AI model development with 
+scalable testing and minimal restrictions.  
+• Strengthen AI Infrastructure  – Validate cloud and on -prem AI systems for high -usage reliability 
+and secure deployment.  
+• Enhance AI Security & National Defense  – Monitor AI access to sensitive data, classiﬁed 
+systems, and operational networks to prevent security threats.  
+• Implement Robust AI Risk Mitigation  – Establish safeguards against data exﬁltration, model 
+poisoning, and unauthorized AI use in government and private sectors.  
+  
+
+
+2 Focus Areas  
+1. Encouraging AI Adoption
+a. U.S. companies are rapidly integrating LLMs,  ML, SLMs, and agentic AI technologies to
+enhance eJiciency and maintain global leadership.
+b. Policies should facilitate the rapid development of internal LLMs and AI applications, 
+incorporating scalable testing of user workﬂows.
+2. Enhancing AI Infrastructure for Scalable Deployment
+a. Policies should support the validation of cloud and on -premises AI infrastructure to
+ensure reliability under high -usage conditions.
+b. AI models must be production -ready with conﬁdence in their performance, security,
+and eJiciency.
+3. Strengthening AI Security & National Defense
+a. AI is being weaponized to exploit vulnerabilities, automate cyberattacks, and undermine
+existing security frameworks. This requires improvements in automated responses
+given the speed of these AI augmented cyber weapon systems.
+b. AI strengthens cybersecurity by enhancing threat detection, decision -making, and risk
+identiﬁcation . AI-driven cybersecurity solutions should be leveraged to protect national
+interests while mitigating adversarial AI threats.
+c. Policies should support comprehensive monitoring of AI use across networks,
+particularly where access to sensitive data, classiﬁed information, and operational or
+weapons systems could pose national security risks.
+4. Mitigating AI -Driven Risks & Ensuring Secure AI Use
+a. Both controlled and open -source AI models are susceptible to manipulation, data
+extraction, and intellectual property theft.
+b. AI systems must include safeguards to prevent unauthorized access and leakage of
+conﬁdential information.
+c. Policies should ensure seamless monitoring and visibility into AI use within government 
+agencies and the private sector.
+To maintain U.S. leadership in AI, policies should prioritize innovation, security, and responsible 
+development while ensuring AI infrastructure and applications are scalable, secure, and resistant 
+to adversarial threats. Additionally, AI security policies  must safeguard national security interests 
+by monitoring AI's role in accessing sensitive data and operational systems.   
+
+
+ 3 Recommended AI Actions  
+1. Continuous AI Application Development  
+To support key innovations and adoption of AI in the public and private sector, it is critical 
+that rapid progress is made with frontier models of AI. Being able to develop, validate, and 
+continue the iterative process is critical and necessary for the US to keep and gain on its 
+competitive advantage.  
+It is critical to optimize the speed of creating and automating test -case creation to cover 
+various AI ﬁrst use -case journeys for an improved UX ﬂow, ﬁnding defects and ultimately 
+improving time to market.  
+Policies should be put in place that assist in the rapid development o f internal LLM or AI 
+model application s with an integrated process to rapidly test the user workﬂow at scale.  
+• Leverage AI & Digital Twin Testing  – Enhance test coverage, user experience, and QA 
+eJiciency.  
+• Automate Cross -Platform Testing  – Ensure compatibility across all devices and platforms.  
+• Validate AI Application Interfaces  – Monitor performance (TPS, CPS) and detect UI errors.  
+• Optimize for Speed & Security  – Use a fast, secure, and user -friendly testing solution.  
+ 
+2. AI Infrastructure Validation  And Security Hardening  
+To support high -performance AI frontier models and applications, advanced infrastructure 
+is a key competitive advantage. Cutting -edge data center technologies —including 
+compute, DPU, GPU, storage, and networking —are essential. Optimizing costs, e`iciency,  
+and operations enables the U.S. private and public sectors to drive innovation while 
+minimizing operational expenses.  
+ 
+Continuously monitor, assess, and validate the performance and security posture of the AI 
+infrastructure by implementing automated testing, and rigorous security audits. Use high 
+performance benchmark solutions to gain e`iciency, with regular checks on se curity 
+protocols to mitigate emerging threats.   
+ 
+Policies should be put in place that assist in validating Cloud and on -premises AI 
+infrastructure that can handle high usage and be brought int o production with conﬁdence.  
+ 
+• Deploy Flexible TraQic Agents  – Use containers, VMs, Kubernetes, or cloud (AWS, GCP , 
+Azure) for scalable testing.  
+• Simulate Real AI & Application Workloads  – Validate performance under real -world 
+conditions.  
+
+
+ 4 • Test Training Workload Performance  – Measure TPS, CPS, throughput, and IP scale.  
+• Assess Security & Attack Mitigation  – Simulate cyber threats and malicious AI prompts to 
+strengthen defenses.  
+3.Monitoring AI Operations
+Network Visibility is crucial for maintaining operational excellence, optimizing network, 
+application and user experience, ensuring compliance of data at rest and data in motion 
+and importantly, maintaining security against nation -state and cyberattacks.  
+With the rise of ransomware and AI -generated advanced persistent threats (APT), network 
+visibility has an ever -increasing importance in delivering enhanced security, compliance, 
+incidence response, deep forensics and for operational insights.  
+There is a need to promote collaboration between regulatory agencies, private sector 
+cybersecurity professionals, AI infrastructure operators and AI architects and developers to 
+help establish safeguards to mitigate evolving AI -based risks and AI -targeted attacks.  
+Policies should be put in place that allow seamless network monitoring  and visibility into 
+the use of AI in government agencies and private sector to prevent malicious use, including 
+data exﬁltration or model poisoning or ways to circumvent guardrails on AI to perform tasks 
+that would otherwise not be authorized.  
+• Enable Visibility into the  Use of AI  – Monitor critical network segments with unauthorized 
+use of AI  or use of AI in unintended domains.  
+• Leverage Deep Packet Inspection (DPI)  – Ensure detailed data analysis for detecting and 
+ﬁltering GenAI applications.  
+• Enhance Detection Across TraQic Types  – Apply ﬁltering to both encrypted and cleartext 
+traJic, with advanced options for cleartext.  
+• Implement Decryption Capabilities  – Gain visibility into GenAI application layers, crucial 
+for analyzing encrypted traJic.  
+• Use Session -Aware Detection  – Gain better accuracy over traditional packet -based 
+ﬁltering.  
+• Perform Deep Packet Inspection (DPI)  – Analyze multiple protocol headers and payloads, 
+including encrypted traJic (SSL, TLS, QUIC).  
+• Leverage Application Signatures  – Enable high -performance real -time detection and 
+ﬁltering.  
+• Utilize Dynamic & Static Signatures  – Apply both for ﬂexible ﬁltering and metadata 
+generation.  
+
+
+ 5 Sample Architecture of AI Development, Infrastructure and Monitoring  
+This includes continuous development, user acceptance testing for private AI platforms and 
+applications . Further, the ability to stress test complete AI infrastructure such as compute, storage 
+and networking I/O capabilities in the cloud or on -premises.  
+Operational network visibility is required to monitor the use of generative AI, use of Agentic AI for 
+deep network and business automations and implementation of defense in depth in support of 
+maintaining security threats monitoring to detect and respond in real -time.  
+ 
+ 
+ 
+Remarks and Recommendation  
+Implementing these recommendations will not only strengthen the U.S. AI ecosystem, but 
+it will also drive signiﬁcant economic beneﬁts.  
+By accelerating AI development, optimizing AI infrastructure, and enhancing security for AI 
+applications through network visibility, both the public and private sectors will beneﬁt from 
+leading -edge innovations while reducing operational costs.  
+A streamlined, secure, and high -performing AI landscape will attract investments, enhance 
+global competitiveness, and advance new market opportunities.  
+Furthermore, proactive policies that support AI -driven advancements can promote 
+economic growth, ensuring that the U.S. remains at the forefront of the AI revolution in the 
+new digital economy.  
+
+
+ 6 Keysight Contact And Use in Public Dissemination  
+ 
+This document is approved for public dissemination. The document contains no business -
+proprietary or conﬁdential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+Contact: Taranjeet Singh, Keysight Technologies  
+ 
+
+

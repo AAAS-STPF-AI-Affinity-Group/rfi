@@ -1,0 +1,422 @@
+1 Tennessee Tech University: Action Plan for Artificial Intelligence Education, 
+Workforce Development, Research, and Infrastructure Needs  
+Response to the Request for Information (RFI) on the Development of an AI Action Plan  
+Submitted to: The Networking and Information Technology Research and Development 
+(NITRD) National Coordination Office  
+Submitted by : 
+Machine Intelligence and Data Science (MInDS) Center  and 
+Advanced Scalable Computing, Extreme Networks & Data (ASCEND) Center  
+Tennessee Tec h University  
+Cookeville, Tennessee  
+Prepared in Collaboration with : 
+Dr. William Eberle  
+Dr. Amr Hilal  
+Dr. Allen MacKenzie  
+Dr. Jesse Roberts  
+Dr. Anthony Skjellum  
+Dr. Douglas Talbert  
+Date: March 15, 2025  
+
+
+   
+ 
+  2 
+ EXECUTIVE SUMMARY  
+Tennessee Tech University (TnTech) submits this response to the National Science Foundation’s 
+(NSF) Request for Information on the Development of Artificial Intelligence (AI) with a focus on 
+education, workforce development, and research. Recognizing the transformative i mpact of AI, 
+we propose targeted initiatives to bolster the nation’s AI workforce and research capabilities, 
+emphasizing interdisciplinary collaboration, real -world application, and responsible AI 
+innovation.  
+To strengthen the AI workforce, we recommend th e following initiatives:  
+• Scholarship for Service Program for AI: Modeled after successful CyberCorps programs, 
+a dedicated scholarship program would incentivize AI education and service 
+commitments.  
+• Industry and Government -Endorsed AI Certificates: Establishing a certification 
+framework ensures workforce readiness and alignment with industry needs.  
+• AI-Integrated Education: Transforming education in every field by integrating AI to 
+enhance problem -solving and adaptability . 
+• Academia -Indus try Collaboration: Encouraging stronger ties between academic 
+institutions and the private sector to facilitate experiential learning opportunities.  
+To strengthen and enhance national research priorities , we recommend the following : 
+• Responsible and Trustwo rthy AI: Government -backed incentives should promote 
+research in AI fairness, transparency, and security, ensuring ethical AI deployment.  
+• AI for Critical Infrastructure: Advancing AI applications in cybersecurity, emergency 
+services, energy, agriculture, h ealthcare, manufacturing, and water management is 
+essential for national resilience and economic growth.  
+• Exploration and Application of Recent Advances: The utility of large language models 
+and foundation models is yet to be understood broadly. Numerous tr ansformative 
+applications are likely still undiscovered.  Funding and governance should encourage 
+rapid but safe development of applications that utilize these  recently developed  
+methods  to competitively advantage the nation.   
+ 
+TnTech’s initiatives align wi th the nation’s goals of advancing AI education and research while 
+addressing critical workforce shortages. By supporting AI -Corps, rural AI education, workforce 
+certification, and responsible AI research, we contribute to a robust AI ecosystem that serves  
+the nation’s needs. TnTech’s interdisciplinary research teams are leading efforts in AI fairness, 
+uncertainty quantification, secure AI, and applied AI solutions for critical infrastructure.  
+
+
+3 INTRODUCTION  
+Artificial Intelligence (AI) has been acknowledged  as being of strategic importance to the 
+nation’s future economy and security. With the rapid adoption and integration of AI throughout 
+our lives at work and beyond coupled with the global competition for AI supremacy, it is vital 
+that the US government wo rk with academia and industry to establish priorities, policies, and 
+programs to continue and expand the track record of American success in advancing AI and to 
+further secure our position as a leader in AI innovation . 
+The rapid advancement of artificial intelligence (AI) is transforming industries, national security, 
+and economic competitiveness, necessitating a strategic investment in AI education and 
+workforce development, research, and high -performance computing (HPC) infrastructure. To 
+main tain leadership in this critical domain, there is an urgent need to cultivate a highly skilled 
+workforce by integrating AI -focused curricula, hands -on training, and interdisciplinary research 
+opportunities, particularly for educationally and economically d isadvantaged populations. 
+Additionally, advancing AI research requires access to cutting -edge computational resources, 
+robust data infrastructure, and collaboration across academia, industry, and government. 
+Strengthening HPC capabilities is essential to s upport complex AI models, enhance simulation 
+and analytics, and accelerate innovation. This response to the RFI addresses Tennessee Tech’s 
+capabilities for establishing “U.S. policy for sustaining and enhancing America’s AI dominance” 
+through best practice s and opportunities in AI education, research, and infrastructure 
+development to inform policies and investments that will drive sustained progress in AI and its 
+applications throughout the nation, starting in Tennessee and the South . 
+EDUCATION AND WORKFO RCE DEVELOPMENT  
+To strengthen our nation’s AI workforce, we suggest four policies/initiatives:  
+1.Implement a Scholarship for Service program for AI ;
+2.Encourage the development of industry and government -endorsed AI certificates ;
+3.Support interdisciplinary AI education efforts;  and
+4.Incentivize more interaction between academia and industry.
+In support of these initiatives , TnTech has started implementing several key educational and 
+workforce development programs.  
+AI-Corps  
+Starting in the Fall of 2023, TnTech began  piloting an AI -Corps program focusing on workforce 
+development in Artificial Intelligence by enhancing the educational, service, and research 
+experiences of undergraduate and graduate students. This program  is informed by TnTech’ s 
+
+
+   
+ 
+  4 
+ highly successful CyberCorps SFS program ( https://www.tntech.edu/ceroc/education/sfs/ ) and 
+seeks to enhance both the curricula for TnTech’s CS concentration in Data Science and Artificial 
+Intelligence (DSAI) and provide additional experiential learning outside of the classroom.  
+With the goal of increasing the number of qualified students entering the artificial intelligence 
+workforce, the objectives of the TnTech AI -Corps program are to:  
+1. Expan d and improve the campus’s learning experiences in artificial intelligence;  
+2. Enhance AI -Corps scholars’ knowledge and skills through a program that values 
+participation in education, research, and service;  
+3. Provide AI -Corps scholars with real -world experienc es through summer internships; and  
+4. Assess the performance of an SFS -like program that integrates education, research, and 
+service in artificial intelligence.  
+A key component of an effective artificial intelligence program that can produce ready -to-work 
+graduates is a continuous sustainable culture to engage students in hands -on AI practices 
+outside of the classroom. AI -Corps scholars work with a faculty mentor to develop an annual 
+professional development plan that is reviewed periodically throughout the y ear, including such 
+things as anticipated courses, research plans, and service activities.  
+Under the auspices of TnTech’s new Machine Intelligence and Data Science (MInDS) Center 
+[www.tntech.edu/minds ), with the financial support of TnTech and the Cybersecurity Education 
+Research and Outreach Center (CEROC) ( https://www.tntech.edu/ceroc/ ), this pilot program 
+currently supports 3 undergraduate students and 1 graduat e student, and all of the AI -Corps 
+students have:  
+✓ Organized and participated in multiple outreach events, including introducing AI to students 
+from multiple high schools and hosting hackathons;  
+✓ Participated  in a group artificial intelligence research proje ct; 
+✓ Attended an AI conference where they were able to meet leading researchers in the field, 
+and 
+✓ Procured summer internships in the field of AI at four different major corporations in the 
+U.S. 
+Our goal for this pilot is to provide a proof of concept  that demonstrates the effectiveness of an 
+AI workforce development strategy and a supporting infrastructure that is informed by our 
+existing cybersecurity workforce development programs. The AI -Corps scholars are already 
+showing a level of experience and maturity that will position them well in the AI workforce. We 
+feel that this pilot, coupled with our CyberCorps and DoD Cyber Service Academy (CSA) track 
+record, uniquely establishes Tennessee Tech as being at the forefront of AI workforce 
+development and future scholarship for service programs.  We believe that expanding similar 
+programs throughout the region and the nation can help to create a workforce capable of 
+sustaining and enhancing America’s AI dominance.  
+
+
+   
+ 
+  5 
+ AI and Data Science Education and Workforce Development in Rural Communities  
+The existing landscape of AI workforce development faces significant challenges and gaps that 
+hinder its capacity to meet the demands of a rapidly evolving digital economy. One prominent 
+challenge is the shortage of individ uals with specialized skills in AI, including proficiency in 
+programming languages, statistical analysis, and machine learning algorithms [ 1]. This shortage 
+is exacerbated by the fact that the field of AI is constantly evolving, necessitating ongoing 
+train ing to keep pace with technological advancements and emerging best practices [ 2]. 
+Bridging these gaps requires collaborative efforts among educational institutions, industry 
+stakeholders, and policymakers to facilitate lifelong learning opportunities for A I professionals 
+[3]. We are proposing an approach that will demonstrate an AI workforce development 
+approach that bridges some of the gaps between academia and rural communities.  
+Rural regions often benefit from community -academic partnerships. Tennessee T ech (TnTech) 
+is located in the rural Upper Cumberland region, where one county is considered economically 
+distressed, six are considered economically at -risk, and in contiguous counties, there are three 
+more distressed counties. Currently, TnTech is involv ed in a Grand Challenge called Rural 
+Reimagined , whose purpose is to transform rural living through harnessing science, technology, 
+and economic development ( https://www.tntech.edu/grand -challenge/ ). The overall goal of 
+this program is to establish a project -based framework that improves both the recruitment of 
+students into AI as a career as well as the education of students and rural communit ies about 
+the potential benefits of AI. The main objecti ves of this program involve the following:  
+1. Establish sustainable community -academic partnerships that provide students access to 
+relevant, real -world AI projects that will assess the AI readiness of both students and rural 
+organizations.  
+2. Develop reproducible curricula, modules, and assessment tools that improve AI workforce 
+development by providing students with foundational AI knowledge  regardless of their field 
+of study . 
+3. Diversify the experiences of students from underserved rural commun ities through the 
+incorporation of real -world, locally impactful projects across multiple disciplines and high 
+schools.  
+Our approach provides an educational framework, including courses, modules, and projects, 
+and their benefit to the students and the rura l community. We assess our approach to learning 
+AI and the overall impact of providing an AI workforce ready to tackle problems in rural 
+communities.  
+Data Science and Artificial Intelligence Career Readiness Certificate  
+The growing demand for expertise in data science and artificial intelligence (AI) across 
+industries underscores the need for a specialized certificate program that equips students of all 
+backgrounds with essential skills in this rapidly evolving field. As organizations increasingly rely 
+on d ata-driven decision -making and AI -powered solutions, there is a critical shortage of 
+qualified individuals who can develop, implement, and ethically manage these technologies. A 
+
+
+6 certificate program in data science and AI can provide structured, hands -on tr aining in key 
+areas such as machine learning, data analytics, and computational modeling, ensuring that 
+participants gain both theoretical knowledge and practical experience. This certificate will be 
+particularly valuable for individuals seeking to enhance  their current expertise to meet 
+workforce demands. By offering a focused curriculum tailored to industry needs, this certificate 
+will help bridge the skills gap and create a pipeline of talent ready to tackle real -world 
+challenges in AI and data science.  
+Currently, TnTech employs a Gold and Purple Career Readiness Certificate, based mostly on the 
+National Association of Colleges and Employers (NACE) Career Competencies, for both 
+underclassmen and upperclassmen. The program is designed to help students ide ntify where 
+their skills are being developed and how to better communicate those skills to employers. This 
+semester, TnTech is rolling out a Data Science and Artificial Intelligence Career Readiness 
+certificate that requires a student to complete tasks in 4 areas:  
+✓Data Science Skill Building
+✓Artificial Intelligence Skill Building
+✓Field Experience in AI and Data Science
+✓Extramural Activities in AI and Data Science
+To further support the efficacy of this certificate, as well as other certificates in artificia l 
+intelligence across this nation, there need to be government and/or industry -managed  
+accreditation mechanisms that will allow for easy and fast approvals of certificates. Doing so 
+will make it easier for institutions to be on the forefront of educating t he next generation of AI 
+workforce development.  
+Graduate CS Education to Align Soft and Technical Skill Development with Industry AI 
+Workforce Needs  
+Graduate computer science students today face a myriad of challenges as they prepare to enter 
+the workforce , particularly in an industry characterized by rapid technological advancements 
+and evolving skill requirements. One notable challenge lies in the ever -widening gap between 
+the theoretical knowledge imparted in academic programs and the practical skills th at 
+employers demand. This disconnection often results in graduates lacking the necessary 
+storytelling experience and industry -specific competencies, leaving them ill -equipped to 
+navigate real -world scenarios effectively [ 4]. Additionally, the fast -paced na ture of the field 
+necessitates continuous learning and adaptation, as well as a demand for interdisciplinary skills, 
+such as communication and teamwork [ 5]. Addressing these challenges requires a holistic 
+approach that integrates practical experiences, fosters collaboration between academia and 
+industry, and emphasizes developing industry -relevant technical and soft skills among graduate 
+students.  
+A typical graduate computer science education consists of courses, seminars, projects , and/or 
+research. The majority of Master’s degree  graduates in computer science do not continue in 
+academia, opting instead to go into industry [ 6].  However, most institutions provide a more 
+
+
+7 research -focused education, in which topics and material are aligned wit h faculty research 
+agendas, are more theoretical, or focus purely on technical skills. For this effort, TnTech is 
+developing an industry -focused, real -world use-inspired project experience in artificial 
+intelligence, with a focus on teamwork and soft skill s, with the goal of producing candidates 
+who are more workforce -ready. With the guidance of industry and communication educators, 
+we are leveraging an existing industry engagement with our undergraduate program capstone 
+course and piloting a new Master’s l evel concentration that provides practical and industry -
+relevant AI learning experiences. The main objectives of this program are:  
+1.Creating a new graduate -level course in Professionalism in Artificial Intelligence for Industry.
+This new graduate -level cour se introduces students to soft skills including teamwork,
+communication, and mentoring, as well as project management and ethics as it pertains to
+AI project work.
+2.Modifying the Project Component of the non -thesis option exposes students to more soft
+and t echnical skills opportunities. This provides the student with AI expertise, as well as
+experience acting as mentors to undergraduate students on their senior capstone project.
+3.Adding more soft skills experiences to existing AI courses. In addition to the n ew course and
+working on undergraduate capstone teams, students in this concentration are required to
+continue to work on their communication skills as part of other activities.
+RESEARCH  
+Regarding research, we suggest the following two policies /programs : 
+1.Incentivize the development of techniques that promote and support responsible and
+trustworthy AI, including large language models and other generative AI ;
+2.Promote innovation at the intersection of AI and critical infrastructure ; and
+3.Fund and govern the  safe development of applications that utilize recently developed AI
+methods to competitively advantage the nation
+Researchers at Tennessee Tech are working in all of these areas.  
+Responsible and Trustworthy AI  
+We need a solid understanding of what it means for AI to be both responsible and trustworthy  
+and how those aspects impact human -AI interaction.  Research ers at Tennessee Tech work in at 
+least four areas related to this area : eXplainable AI  (XAI), uncertaint y quantification (UQ) for 
+machine learning models, model fairness, and secure AI.  
+A shared understanding of the importance of responsible and trustworthy AI is vital to the 
+adoption of AI, especially in areas of critical infrastructure.  Furthermore, we ne ed a robust set 
+of tools and techniques to assess AI along these two dimensions and to enable improvements in 
+these areas.  
+
+
+   
+ 
+  8 
+ We have multiple efforts in these important areas , including the following:  
+• Understanding the impact of model fairness and explainab ility on model trust  in 
+healthcare ,  
+• Supporting s ecure and autonomous vehicle operations in a zero -trust environment,  
+• Understanding the role of UQ in determining where a model is strong or weak,  
+• Developing a model for improving policies related t o the management of complex 
+machine learning models,  
+• Understanding and mitigating model trust issues caused by model compression,  and 
+• Developing models for responsible use of generative AI in fields such as software 
+development.  
+It is important for the go vernment to define issues of responsible and trustworthy AI as 
+national priorities and allocate funding to support work in these areas.  
+Interdisciplinary research combining AI and critical infrastructure  
+Developing safe, impactful, and novel ways to apply AI to support critical infrastructure is of 
+vital imp ortance to our nation. Such applications could improve this infrastructure through 
+improving its security, providing additional i nsight into its design and operation , and improving 
+its efficiency  and eff ectiveness .  
+Numerous researchers at Tennessee Tech are actively pursuing innovative  applications of AI to 
+support critical infrastructure.  
+• Cybersecurity : Cybersecurity continues to be a critical  component for the safety and 
+security  of both public and private sector assets. AI is key to the effectiveness of 
+cybersecurity. This is a large and active area of work among faculty in both our Machine 
+Intelligence and Data Science (MInDS) Center and our  Cybersecurity Education, 
+Research , and Outreach Center (CEROC).  
+• Emergency Services : Time -critical decision -making is a challenge continually faced by 
+emergency service personnel. Investing in how to best bring AI-driven decision support 
+in such environmen ts is an important and challenging task. In research funded by NIH , 
+we are looking at helping first responders make more accurate decisions through the 
+use of trustworthy machine learning tools.  
+• Energy : From smart grids to electric vehicles to power grid s ecurity, AI has rapidly 
+become a vital component of the power infrastructure that our country depends on. 
+University researchers are pursuing  multiple projects at the intersection of AI and 
+energy systems. Through our Center for Energy Systems Research (CE SR), we have done 
+significant  work in smart grid research. Additionally, we have recently received funding 
+from NSF for a n NSF Research Traineeship (NRT) grant for graduate students working to 
+combine energy, AI, and cybersecurity.  
+• Food and Agriculture : Intelligent monitoring and management of crops can increase the 
+availability of food, i mprove its quality, and decrease its cost.  At Tennessee Tech, 
+agriculture faculty a re partnering with CS faculty to work in the area of smart farming.  
+
+
+   
+ 
+  9 
+ • Healthcare : Skyrocketing costs and the ever -increasing complexity of healthcare and 
+healthcare delivery necessitate  the adoption of AI to support healthcare  providers.  
+Researchers across campus are working on projects like applying AI to develop better 
+joint replaceme nts and studying how to apply AI to provide just -in-adaptive decision 
+support for college students struggling with anxiety and depression.  
+• Manufacturing : Manufacturing is another area that is benefiting greatly from the 
+application of AI to improve its pro cesses. Multiple researchers in our College of 
+Engineering are working through our Center for Manufacturing Research (CMR) to 
+advance the field of smart manufacturing, i ncluding efforts to make it more secure, 
+more automated, and more efficient and effecti ve. 
+• Water : Additionally,  the management of water, both in support of human life and in 
+protecting humans from disasters such as floods, can benefit from the use of AI.  Faculty 
+in our Center for the Management, Utilization , and Protection of Water Resources  are 
+working to apply AI to better manage and monitor water by applying machine learning 
+to cha llenging problems such as flood prediction.  
+• Practical and Impactful LLM Applications:  A research team focuses on understanding 
+and applying large language models.  In concert with researchers at the University of 
+North Carolina in Asheville , the team is studying the application of LLMs to the 
+preservation of the Cherokee  language. They are developing LLM -based adaptive 
+assistants through game environ ments. Finally, they are developing an LLM browser 
+extension to make the internet more accessible to those affected by the digital divide. In 
+addition to these efforts, they are working to fundamentally understand the cognition of 
+LLMs. The team’s overarch ing belief is that the broad utility of LLMs is still largely 
+unrealized, and they hope to change that.   
+ 
+ARTIFICIAL INTELLIGENCE INFRASTRUCTURE  
+Investing in research and development programs to enhance high -performance computing 
+(HPC) support for AI is es sential. While efforts in this area existed prior to the establishment of 
+Tennessee Tech’s Advanced Scalable Computing, Extreme Networks & Data (ASCEND) Center, 
+the Center is significantly amplifying and advancing these initiatives. ASCEND is addressing 
+critical challenges in HPC by conducting cutting -edge research in scalable systems and network 
+architectures tailored for AI workloads.  
+• Better Algorithms for AI : HPC research at the boundaries of energy, efficiency, 
+programming models, new architectures, an d better algorithms for AI are essential to 
+the national interest.  
+• Open Science : While resources at the Exascale level will be invested in nationally by 
+NSF, DOE, and others to support open science, resources at multi -Petascale at regional 
+and state levels  are also needed with research in computer science, systems, algorithms, 
+and methods to enhance AI emphasized, rather than just production applications based 
+on AI.  
+• Multidisciplinary Research : Multidisciplinary research in advanced computer 
+architectures t hat go beyond exascale and go beyond current CPU+GPU models is 
+
+
+10 needed.   These investments in design and prototyping, likely in conjunction with  NSF, 
+DOE, and DOD, are needed to drive beyond Exascale and to begin to pay attention to 
+the extreme energy costs  of AI currently.  
+•Investments in Testbeds : Investments in AI that bridge HPC/Supercomputer with Cloud,
+Edge, and AI are important  to enabling optimization of the use of AI in contexts relevant
+to people, critical infrastructure protection,  and experimental  automation.   These
+investments should include regional and local  testbeds.
+•Access to HPC and Cloud : In order to support the combined goals of workforce
+development, education, research, and outreach, it is important for there to be broad
+access to signifi cant AI resources at the HPC and Cloud level across institutions of higher
+learning.   These have to be free or inexpensive to use and access in order to enable
+deep and broad use in classrooms  and other training and learning contexts.
+•Hardware Standards : The current dominance of a few vendors (e.g., NVIDIA) in the AI
+hardware space has displaced important standards for scalable computing and
+programming with vendor -specific approaches.   Investments in national and
+international standards that transcend vend ors and vendor -lock will be important to
+achieving performance portable, open science applications, and open -source software
+of enduring value to drive modeling and simulation infused with AI, as well as AI
+applications that are stand -alone .
+ASCEND  is exploring AI -assisted programming techniques to optimize parallel computing, 
+ultimately improving efficiency and performance. By fostering innovation at the intersection of 
+AI and HPC, ASCEND is positioning Tennessee Tech as a leader in this rapidly ev olving field.  
+TENNESSEE TECH UNIVERSITY - BACKGROUND  
+Tennessee Technological University (Tennessee Tech), located in Cookeville, Tennessee, is a 
+leader in engineering and technology education. Within the university, the MInDS Center  is the 
+primary leader driving campus -wide innovation in artificial intelligence (AI).  
+Tennessee Tech has established itself as a hub for AI initiatives through its commitment to 
+cutting -edge research, investment in state -of-the-art infrastructure, and strong partnerships 
+with government and industry. The university's research programs and facilities provide an 
+ideal environment for groundbreaking work in AI, machine learning, and computational 
+sciences. This includes the Machine Intelligence and Data Science ( MInDS) Center.  
+Tennessee Tech plays a vital role in workforce development, equipping graduates with the 
+expertise needed to address industry demands in AI. The university fosters strong 
+collaborations with federal agencies, defense organizations, and priva te-sector technology 
+leaders to ensure that its research aligns with national and global priorities.  
+•Industry Partnerships : Tennessee Tech collaborates with key industry stakeholders,
+offering opportunities for research commercialization, internships, and cooperative
+projects that provide students and researchers with valuable industry experience.
+
+
+   
+ 
+  11 
+ • Research Computing Infrastructure : The university’s High -Performance Computing 
+facility  includes advanced computational clusters such as Impulse and Warp 1. These  
+resources support a wide range of research initiatives in AI, computational biology, and 
+data -driven engineering applications.  
+With its strong use-inspired research foundation, advanced computing infrastructure, and deep 
+connections with industry and gove rnment agencies, Tennessee Tech is well -positioned to be a 
+national leader in AI initiatives. The university’s commitment to interdisciplinary collaboration 
+and workforce development ensures that it remains at the forefront of AI advancements, 
+driving inno vation and shaping the future of intelligent computing systems.  
+ 
+REFERENCES  
+1. Coulthart, Stephen, et al. "Data -science literacy for future security and intelligence 
+professionals." Journal of Policing, Intelligence and Counter Terrorism 19.1 (2024): 40 -
+60. 
+2. Data Science for Undergraduates: Opportunities and Options. Washington, D.C: The 
+National Academies Press. https://doi.org/10.17226/25104  
+3. Kamalov, F.; Santandreu Calonge, D.; Gurrib, I. New Era of Artificial  Intelligence in 
+Education: Towards a Sustainable Multifaceted Revolution. Sustainability 2023, 15, 
+12451. https://doi.org/10.3390/su151612451 . 
+4. Medium, “Soft Skills for Data Scientists: The Human Side of Data Science,” December 3, 
+2023. https://baotramduong.medium.com/soft -skills -for-data -scientists -the-human -
+side-of-data -scienc e-1d1d396bbbf2 . 
+5. Dangelo, M. (2023) “Needed AI skills facing unknown regulations and advancements,” 
+December 6, 2023, https://www.thomsonreuters.com/en -us/posts/technology/needed -
+ai-skills/ . 
+6. Davenport, T. H., and Ronanki, R. (2018). Artificial intelligence for the real world. 
+Harvard Business Review, 96(1), 108 -116.  
+ 
+
+

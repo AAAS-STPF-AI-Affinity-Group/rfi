@@ -1,0 +1,26 @@
+From: tony zigelman
+To: ostp-ai-rfi
+Subject: [External] Comments regarding AI action plan
+Date: Saturday, March 15, 2025 11:39:30 PM
+CAUTION: This email originated from outside your organization. Exercise caution when opening
+attachments or clicking links, especially from unknown senders.
+Hello,
+It is my understanding that AI models compress training data down to a matrix that they then
+use to generate responses. Those responses, for some queries and some training data, mayreproduce the contents of the training data.
+This is not ok.This is a clear violation of copyright law. You are not allowed to make a thing
+that has a chance -- any chance -- of intentionally reproducing someone else's copyrightedwork.
+Should you doubt the validity of my claims, I would ask you to investigate OpenAI's
+implementation of a secondary layer on ChatGPT that checks to see if their AI model isdumping large quantities of copyrighted text to the user and stops the response mid-way if itdetects said copyrighted text. This suggests to me that modern AI models do, in fact, have theability (and the propensity!) to distribute copyrighted work.
+It is my belief that the government should strongly investigate one or both of the following
+stances:
+  AI models should be treated as compressed data, and that all of their training data
+should be considered to be in their data, and/or all AI-generated data should immediately enterthe public domain.
+ 
+AI is directly responsible for a loss of American jobs, American productivity, and in a handfulof cases, American lives. it is astoundingly good at generating things that *look* correct butaren't. We do not need to protect American AI interests. We should instead be looking toprotect American
+ intellectual work and prohibit the use of AI for tasks where it purports to
+present factual information.
+If you have any questions, please do not hesitate to get in touch.Tony Zigelman
+All e-mails to and from this account are for NITRD official use only and subject to certain disclosure
+requirements.If you have received this e-mail in error, we ask that you notify the sender and delete it immediately.
+
+

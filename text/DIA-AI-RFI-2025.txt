@@ -1,0 +1,359 @@
+Defense Industry Advisors, LLC  
+& 
+Pryon Incorporated 
+ 
+ 
+ 
+March 15th, 2025 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+America’s AI Dominance: Efficient, Secure, and Sovereign 
+ 
+Recommendations for the Artificial Intelligence Action Plan  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government 
+in developing the AI Action Plan and associated documents without attribution 
+ 
+ 
+ 
+ 
+ 
+Prepared For: 
+ 
+Faisal D'Souza 
+NCO 
+2415 Eisenhower Avenue, Alexandria, VA 22314 USA 
+Telephone: 202-459-9674 
+
+
+ 
+ 2 Paper Outline 
+ 
+I. Executive Summary 
+II. Application and Use 
+III. Energy Consumption and Efficiency 
+IV. Open-Source Development 
+V. Cybersecurity 
+VI. Data Privacy and Lifecycle Security 
+VII. Risks, Regulation, and Governance 
+VIII. Policy Recommendations 
+IX. Conclusion 
+X. References 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 3 I. Executive Summary 
+i. Overview  
+Artificial intelligence stands as a cornerstone of American leadership in the 21st century, promising to enhance human flourishing, economic competitiveness, and national security as 
+outlined in Executive Order 14179 (January 23, 2025). The Trump Administration’s revocation 
+of burdensome regulations under EO 14110 and its call for an AI Action Plan signal a pivotal 
+shift toward unleashing private sector innovation. This white paper responds to the Office of 
+Science and Technology Policy’s (OSTP) solicitation by addressing critical AI policy topics and proposing actionable policies to solidify U.S. dominance, guided by economic and security 
+imperatives. Current AI challenges, such as resource-intensive models, security vulnerabilities, 
+and workforce inefficiencies, demand solutions that are compute -efficient, secure, and scalable. 
+The recommendations herein reflect a vision for responsible AI that empowers federal agen cies 
+and the private sector alike, ensuring America leads without ideological overreach, engineered 
+social agendas, or unnecessary bureaucracy.  
+ ii. Respondents  
+This white paper is submitted jointly by Pryon Inc. and Defense Industry Advisors, two 
+organizations uniquely equipped to inform the AI Action Plan under Executive Order 14179.  
+ Pryon Inc., a leader in AI-driven knowledge management, delivers a scalable, SOC 2 -compliant 
+Retrieval-Augmented Generation (RAG) Suite that empowers federal agencies with efficient, secure, and adaptable solutions. By providing natural language answers wi th attribution from 
+over one million documents, Pryon reduces knowledge friction, enhances workforce productivity, and leverages existing infrastructure, making it a proven partner for federal 
+innovation, as evidenced by deployments with the Air Force, IRS -CI, and intelligence 
+communities.   
+Defense Industry Advisors (DIA) is a Certified Veteran-Owned Business with over 75 years of 
+combined experience in government acquisitions, DoD manufacturing, and operational 
+execution. DIA is already working to improve government efficiency by developing AI 
+algorithms that aim to streamline acquisition and diversify the industrial base.  
+ 
+Together, Pryon and Defense Industry Advisors offer a trusted blend of cutting -edge AI 
+technology and deep defense market insight, positioning them as authoritative voices to shape America’s AI leadership strategy. 
+ 
+iii. Policy Recommendations  
+The following policies align with the president’s ‘National Artificial Intelligence Research and Development Strategic Plan’ as well as the White House’s ‘Blueprint for an AI Bill of Rights’.  
+– Accelerate workforce efficiency with rapid -deployment AI.  
+– Mandate compute-efficient AI standards for sustainability.  
+– Enhance open-source utility with secure hybrid frameworks.  
+– Strengthen cybersecurity with sovereign AI deployments.  
+– Safeguard data privacy with pretrained, no -training AI.  
+– Streamline governance with flexible, transparent standards.  
+
+ 
+ 4 II. Application and Use 
+Federal agencies and private enterprises increasingly rely on AI to streamline operations and 
+enhance decision-making, yet many solutions fail to integrate seamlessly with existing 
+workflows or adapt to dynamic needs. Knowledge friction, delays in accessing critical 
+information, plagues workforces, particularly as employee turnover rises and documentation 
+sprawls across decentralized systems. Existing AI applications often prioritize novelty over 
+practicality, leaving users with tools that are slow to deploy or misaligned with real-world 
+demands, risking the safe and effective systems  principle from the Blueprint for an AI Bill of 
+Rights. 
+ 
+The future lies in AI systems that deliver immediate, attributable answers from trusted sources, 
+reducing onboarding time and augmenting human capabilities. Such tools should span data silos, 
+integrate with platforms like SharePoint or ServiceNow, and supp ort multimodal content e.g., 
+handwritten notes, embedded images , to maximize utility across sectors. These systems must 
+provide Notice and Explanation, clear documentation of their function and impact, ensuring 
+users understand how automation affects them. This approach aligns with the Select Committee 
+on Artificial Intelligence’s Strategy 2, human-AI collaboration, and Strategy 7, workforce 
+readiness, while meeting the Blueprint’s call for unified access to critical resources. 
+ III. Energy Consumption and Efficiency 
+The AI boom has driven an insatiable demand for compute power, straining energy resources 
+and inflating costs. Traditional large language models (LLMs), with their massive parameter 
+counts, consume excessive energy for training and inference, posing sustai nability challenges for 
+data centers and edge deployments alike. This inefficiency hampers scalability and burdens federal budgets, undermining economic competitiveness and risking unsafe outcomes contrary to 
+a safe and effective systems principle. 
+ 
+Lightweight, compute-efficient AI models that achieve high accuracy with minimal resource 
+demands are essential. Solutions that reduce LLM size by orders of magnitude, while 
+maintaining performance and undergoing pre-deployment testing offer a path to sustainable 
+innovation. This approach aligns with the Select Committee’s Strategy 1 , long-term investment 
+in responsible AI, and EO 14179’s barrier-removal ethos, ensuring systems are both effective and environmentally responsible. 
+ 
+IV. Open-Source Development 
+Open-source AI has fueled rapid advancements, but it often comes with trade -offs: lack of 
+enterprise-grade security, inconsistent performance, and reliance on fragmented toolsets requiring extensive customization. Federal adoption lags as open -source solutions struggle to 
+meet stringent compliance needs e.g., IL5/IL6, leaving agencies dependent on costly bespoke development. 
+ 
+A hybrid approach, combining open-source flexibility with proprietary optimizations, can 
+accelerate deployment while ensuring reliability. Pretrained, no -training-required models that 
+integrate with existing infrastructure and undergo independent evaluatio n bridge this gap. This 
+aligns with the Select Committee’s Strategy 8 , public-private partnerships, and the Blueprint’s 
+emphasis on proactive risk mitigation, transitioning innovations into practical, safe use.  
+
+ 
+ 5 V. Cybersecurity 
+AI systems remain vulnerable to adversarial attacks, data breaches, and supply chain risks, 
+particularly when reliant on external APIs or cloud -hosted models. Federal cybersecurity 
+standards (e.g., NIST 800-53) demand robust protections, yet many commercial offerings fall short, exposing sensitive operations to exploitation. The proliferation of generative AI amplifies 
+risks like hallucination and misinformation . 
+ Secure AI must operate within firewalls, eliminate external dependencies, and incorporate role -
+based access controls (RBAC). Systems designed for on-premises or air-gapped deployment, with pre-vetted connectors and continuous monitoring can meet these need s. This approach 
+aligns with the Select Committee’s Strategy 4 , safety and security, and EO 14179’s national 
+security focus, ensuring AI safeguards civil liberties and critical operations.  
+ VI. Data Privacy and Lifecycle Security 
+Data privacy concerns loom large as AI systems ingest vast datasets, often training on customer 
+data and risking leakage or reverse-engineering. Lifecycle security, from development to 
+deployment, is inconsistent, with many solutions lacking granular acces s controls or auditability. 
+This erodes trust and compliance with federal mandates, conflicting with the Blueprint’s Data 
+Privacy principle, which demands built-in protections and user agency. 
+ 
+AI platforms that never train on customer data, maintain read -only access to repositories, and log 
+every transaction for governance offer a solution. Such systems, designed with privacy -by-
+default features and enhanced protections for sensitive domains e.g ., health, education, ensure 
+privacy and security throughout their lifecycle. This aligns with the Select Committee’s Strategy 3, ethical and legal implications , and EO 14179’s emphasis on sovereignty. 
+ VII. Risks, Regulation, and Governance 
+The National Institute of Standards and Technology’s Artificial Intelligence Risk Management 
+Framework (AI RMF 1.0) highlights that AI’s rapid evolution outpaces regulatory frameworks, 
+leading to inconsistent standards. Risks like bias, hallucination, and unintended outputs persist, 
+while overregulation, such as the repealed EO 14110, stifles innovation. Governance str uggles to 
+balance accountability with agility, particularly in federal contexts requiring transparency and compliance, echoing the Blueprint’s call for Algorithmic Discrimination Protections  and Human 
+Alternatives, Consideration, and Fallback . 
+ 
+Flexible, risk-mitigating AI frameworks that ground responses in authoritative content, provide 
+dashboards for usage oversight, and ensure human escalation options can address these 
+challenges. Lightweight regulation that encourages innovation while enforcing security  and 
+accuracy via proactive disparity testing and plain language reporting  aligns with the Select 
+Committee’s Strategy 6, standards and benchmarks, and EO 14179’s deregulatory stance. 
+ 
+VIII. Policy Recommendations 
+The following policy actions address the current state of AI and position the U.S. as the global 
+leader, integrating the Blueprint for an AI Bill of Rights  to ensure responsible innovation: 
+1. Accelerate Workforce Efficiency with Rapid -Deployment AI 
+o Action: Establish a federal AI adoption program to deploy lightweight, pretrained AI 
+
+ 
+ 6 tools across 50% of agencies by 2026, prioritizing solutions that integrate with existing 
+systems and deliver attributable answers in under two weeks, with clear  Notice and 
+Explanation documentation. 
+o Rationale: Knowledge friction hampers productivity; transparent, efficient AI augments 
+human work, supporting Strategy 2, EO 14179’s competitiveness goal, and the 
+Blueprint’s user-awareness principle. 
+o Impact: Reduces onboarding burdens and enhances decision-making, mirroring federal successes. 
+o Proposed Policies in Action :   Empower employees with an AI chatbot, such as ‘The Pryon 
+Chatbot’, that is directly connected with relevant content to: answer inquiries on expense policies, 
+auto- develop daily intel briefing memos, or address IT issues and submit helpdesk tickets.  
+ 
+ 
+Figure:  Pryon AI Chatbot on Air Force Digital Transformation Office site : 
+https://dafdto.com/  
+ 
+2. Mandate Compute-Efficient AI Standards for Sustainability 
+o Action: Require federal AI procurements to prioritize models with at least 90% reduced 
+compute footprints by 2027, funding R&D to achieve this through public-private 
+collaboration, with pre-deployment testing per Safe and Effective Systems . 
+o Rationale: Energy-intensive LLMs strain infrastructure; efficient, tested alternatives align 
+with Strategy 1, EO 14179’s innovation focus, and the Blueprint’s safety mandate.  
+o Impact: Lowers TCO and scales AI sustainably. 
+o Proposed Policies in Action : “Eco- scaling" techniques offer various methods to optimize energy 
+consumption during ingestion, inference, and model training processes. For example, when 
+training natural language processing models, Pryon's generative AI platform consumes up to 70% 
+less energy compared to traditional m odel training approaches. Additionally, end -to-end platform 
+solutions  are more efficient and cost effective as compared to integrating multiple, disparate 
+components.  
+ 
+3. Enhance Open-Source Utility with Secure Hybrid Frameworks 
+o Action: Launch an AI Innovation Hub to blend open-source flexibility with enterprise-
+grade security features , e.g., no-training models, IL6/IL7 compliance, by 2026, ensuring 
+
+
+ 
+ 7 independent evaluation per the Blueprint.  
+o Rationale: Open-source lacks federal readiness; hybrid systems support Strategy 8, EO 
+14179’s private sector empowerment, and Safe and Effective Systems. 
+o Impact: Speeds innovation with reliability. 
+o Proposed Policies in Action :  Agencies are advised to utilize retrieval -augmented- generative 
+(RAG) A I solutions , like Pryon AI, which leverage closed -source  LLMs with source attribution 
+for improved accuracy but also provide the flexibility to connect to open- domain LLMs when 
+stringent regulatory compliance is not required.  
+ 
+ 
+Figure:  Pryon ingestion, retrieval, and generative engines  utilizing local LLM and 
+attributions to content source.   
+4. Strengthen Cybersecurity with Sovereign AI Deployments 
+o Action: Mandate that AI systems handling sensitive data operate on -premises or air-
+gapped, with no external API reliance, achieving IL6 compliance by 2026, and continuous monitoring per the Blueprint. 
+o Rationale: Vulnerabilities threaten security; self -contained AI aligns with Strategy 4, EO 
+14179’s security priority, and Data Privacy. 
+o Impact: Protects critical operations. 
+o Proposed Policies in Action :  On-Premise AI deployment, preferably air -gapped, with read -only, 
+connections which respect the inherent user permissions to content, is recommended tor IL -6+ 
+compliance.  
+ 
+  
+Figure:  Pryon secure deployment options 
+
+
+ 
+ 8  
+ 
+Figure:  Pryon On-Premise Architecture with core capabilities, engines, utilities, 
+storage, and databases  
+ 
+5. Safeguard Data Privacy with Pretrained, No-Training AI 
+o Action: Require federal AI tools to use pretrained models that avoid customer data 
+training, enforcing RBAC and audit logs by 2025, with privacy -by-design safeguards per 
+the Blueprint. 
+o Rationale: Privacy breaches undermine trust; lifecycle -secure AI supports Strategy 3, EO 
+14179’s sovereignty focus, and Data Privacy. 
+o Impact: Builds confidence in AI use. 
+o Proposed Policies in Action :   An SOC 2 Compliant solution, which does not use customer data 
+to train its underlying LLM , like Pryon, mitigates risk of customer data leak s.   
+ 
+ 
+Figure:  Pryon safeguards at Platform, Collection, and Document levels which inherit 
+user access rights.  
+ 
+6. Streamline Governance with Flexible, Transparent Standards 
+o Action: Develop a lightweight AI governance framework by 2025 that incentivizes 
+accuracy (e.g., 95%+ retrieval rates), transparency (e.g., source attribution), and human 
+fallback options, incorporating Algorithmic Discrimination Protections  and Human 
+
+
+ 
+ 9 Alternatives. 
+o Rationale: Overregulation hampers progress; balanced governance aligns with Strategy 6, 
+EO 14179’s deregulatory approach, and the Blueprint’s equity and accountability 
+principles. 
+o Impact: Ensures accountability while fostering adoption.  
+o Proposed Policies in Action :    Scalable out -of-the-box COTS solutions  that deliver high accuracy 
+retrieval with source attribution, can be rapidly deployed, reducing the time to value while 
+meeting accountability standards.  
+ 
+ 
+ 
+IX. Conclusion 
+The AI Action Plan must seize the moment to cement America’s leadership by addressing 
+inefficiencies, vulnerabilities, and regulatory missteps in today’s AI landscape. By prioritizing 
+workforce-enhancing, compute-efficient, and secure solutions  the U.S. can lead responsibly, 
+empowering its people, economy, and defenses. These recommendations offer a roadmap to a future where AI is powerful, practical, and protective of public rights, aligning with the National 
+AI R&D Strategic Plan, EO 14179’s bold vision, and the Blueprint’s principles of safety, equity, 
+privacy, transparency, and human oversight. 
+ 
+Pryon and Defense Industry Advisors (DIA) are uniquely positioned to drive this transformation. 
+Pryon’s RAG suite delivers secure, high-accuracy knowledge retrieval, reducing friction and 
+aligning with Notice and Explanation and Safe and Effective Systems . DIA’s expertise ensures 
+federal readiness, supporting Human Alternatives in critical processes. Together, they offer a scalable, security-first approach that meets the AI Action Plan’s objectives and the Blueprint’s 
+protective framework, ensuring U.S. global AI leadership. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 10 X. References 
+U.S. Government. (2025). Executive Order 14179—Removing Barriers to American 
+Leadership in Artificial Intelligence(DCPD-202500170). National Archives and Records 
+Administration. https://www.govinfo.gov/content/pkg/DCPD-202500170/pdf/DCPD-
+202500170.pdf 
+ 
+National Science and Technology Council. (2023).  National artificial intelligence research and 
+development strategic plan: 2023 update. Networking and Information Technology Research and Development Program. https://www.nitrd.gov/pubs/National-Artificial-Intelligence-
+Research-and-Development-Strategic-Plan -2023-Update.pdf 
+ National Institute of Standards and Technology (NIST) Report: 
+National Institute of Standards and Technology. (Year).  AI 100-1: Title of the document. U.S. 
+Department of Commerce. https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf  
+AI Bill of Rights (White House OSTP): 
+White House Office of Science and Technology Policy. (Year).  Blueprint for an AI Bill of 
+Rights. The White House. https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/  
+Executive Order on AI Infrastructure (Biden Administration):  
+White House. (2025, January 14). Executive order on advancing United States leadership in artificial intelligence infrastructure. The White 
+House. https://bidenwhitehouse.archives.gov/briefing -room/presidential-
+actions/2025/01/14/executive-order-on-advancing-united-states -leadership-in-artificial-
+intelligence-infrastructure/ 
+ 
+

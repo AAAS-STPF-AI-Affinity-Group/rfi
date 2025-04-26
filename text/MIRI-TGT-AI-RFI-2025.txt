@@ -1,0 +1,502 @@
+David Abecassis, Peter Barnett, Aaron Scher, Malo Bourgon 
+Technical Governance Team  
+Machine Intelligence Research Institute  
+Berkeley CA  
+March 14, 2025 
+Networking and Inf ormation T echnology Research and Development (NITRD) National 
+Coordination Office (NCO), National Science Foundation 
+Re: Developmen t of an AI Action Plan. Request for input. 
+The Machine Intelligence Research Institute (MIRI) is a nonprofit based in Berkeley, California, 
+founded in 2000. For over two decades, MIRI has worked to understand and prepare for the critical 
+challenges that humanity will face as it transitions to a world with artificial superintelligence. Our 
+technical and philosophical work helped found the field of AI alignment, and our researchers 
+originated many of the theories and concepts central to today’s discussions of AGI. 
+In our view, the field of AI is on a course to build AI systems that can substantially surpass humanity in 
+all strategically relevant activities (often referred to as “artificial superintelligence”), with little to no 
+understanding of how they function or ability to robustly steer and control their behavior. The 
+development of such systems will ultimately lead to a loss of control, likely leading to human 
+extinction. To avoid this risk, we believe it will be necessary to put in place coordinated global checks 
+on AI development, capable of enabling, enforcing, and verifying restrictions on the development of 
+superintelligent AI systems, until such a time as humanity’s understanding of the relevant systems is 
+sufficient to ensure they can be developed safely. As the global leader in AI, we believe the U.S. has the 
+unique ability and responsibility to work with the international community to develop this capability, 
+which we refer to as the oﬀ-switch (for a lack of a better succinct and nuanced term). 
+In this comment, we provide recommendations for the AI Action Plan covering expanding state 
+capacity, maintaining America’s AI leadership, coordinating with China to ensure global stability, and 
+restricting the release of dangerous AI models. While these recommendations are motivated primarily 
+by our focus on the risk of loss of control, we believe their value does not hinge on agreement with our 
+views. These measures would strengthen U.S. AI governance capacity and provide crucial flexibility for 
+policymakers across a spectrum of potential risk scenarios. 
+1 of 15 
+
+
+1. Our Perspective
+The default consequence of artificial superintelligence is human extinction. 
+The timeline to ASI is highly uncertain, but probably not long. MIRI would not be surprised if ASI 
+is developed during the present administration. It could arrive quickly following the development of 
+AI systems which can automate AI research, which could plausibly happen by 2027. 
+AI labs are aggressively rolling out systems they don’t understand. Deep learning techniques result in 
+systems where, even though AI developers see what goes in and what comes out, they can’t tell you 
+why these systems make a given decision. 
+Developers appear far from able to give ASIs goals of the developer’s choosing. The field seems very 
+unlikely to find a robust solution to this problem in time to apply it to ASI. 
+An ASI with unintended goals would be very likely to cause our extinction. Unless it has goals of the 
+developer’s choosing, ASI will put our planet to uses incompatible with our continued survival. This 
+extreme outcome doesn’t require any malice, resentment, or misunderstanding, only a vastly superior 
+intelligence in pursuit of its own goals. 
+These concerns are shared by many experts who similarly believe advanced AI could threaten human 
+extinction.  
+This is not a case where we just need the “right” people to build it before the “wrong” people do. 
+Therefore, we believe humanity, led by the United States, must be prepared to take a different 
+approach: halting frontier AI development, since our survival likely depends on delaying the creation 
+of ASI, as soon as we can for as long as necessary. Such a halt would be a coordinated moratorium on 
+dangerous AI, potentially lasting decades. It would need to be collectively enforced globally by nations 
+who share an understanding of the risks and a willingness to cooperate to protect against them. 
+1.1 The Off-Switch At the present time, there is not sufficient consensus or political will to implement a halt to frontier AI 
+development. Given this reality, our focus is on advocating that the world retain the ability to halt 
+development should this change. We believe nations should begin building this capacity now—what 
+we call an oﬀ-switch—before it’s too late to implement effectively.  
+Building the off-switch entails establishing the technical, legal, and institutional infrastructure required 
+to implement global checks on AI development, capable of enabling, enforcing, and verifying 
+restrictions on the training, deployment, and proliferation of AI systems, up to and including the 
+2 of 15 
+
+
+ability to impose a halt on progress towards ASI. 
+A comprehensive off-switch would serve multiple functions: it would include emergency response 
+protocols for acute risks (such as shutting down rogue autonomous systems), while also enabling 
+longer-term policy and technical solutions to implement precisely targeted, durable, reversible 
+restrictions on AI activities of concern as needed.  
+We want to emphasize that America’s technological leadership and an off-switch are complementary 
+goals. The off-switch represents strategic optionality—preserving the ability to halt dangerous AI 
+development if and when risks become unacceptable, while maintaining innovation leadership. This 
+capacity would also address a broader set of national security concerns beyond loss of control, 
+including preventing increasingly capable AI systems from being misused by malicious or incautious 
+actors. The solutions needed to monitor, evaluate, and if necessary enforce restrictions on frontier AI 
+development will be critical to allow America to address risks from terrorism, proliferation of 
+dangerous capabilities, and unauthorized use. 
+Building this comprehensive governance capacity now serves American interests regardless of one’s 
+assessment of extinction risk, as it provides policymakers with flexible options for responding to a wide 
+range of AI development scenarios across varying timescales and risk profiles. 
+1.2 Other Risks 
+Beyond human extinction, our policy recommendations are responsive to two additional risks which 
+threaten American national security: human misuse and geopolitical destabilization. Human misuse is 
+when bad actors use AI systems to accomplish tasks they would not be able to otherwise, and includes 
+scenarios such as terrorists developing novel pathogens. Geopolitical destabilization is the risk of 
+tension, conflict, and war brought about by the impacts of AI on areas of strategic significance to the 
+United States and its rivals, including warfare, cyberoperations, human persuasion, and intelligence 
+gathering and analysis. The imagined impacts on these areas are so large that the expectation itself 
+could lead to preemptive escalation. In particular, we should be prepared for those powers which 
+expect to lose the race to ASI to attempt to upset the race before it can be completed. Any complete 
+strategy needs to address this difficult dynamic. 
+Human misuse and geopolitical destabilization threaten widespread and severe damage to human 
+well-being, potentially on a global scale. We expect these consequences earlier than ASI, and they are 
+more salient to many than the threat of extinction. Fortunately, the policy required to address these 
+threats overlaps with the policy required to address the threat of human extinction. Furthermore, our 
+policy recommendations promote America’s AI leadership and protect American innovation, as these 3 of 15 
+
+
+are critical advantages which must be safeguarded by the U.S. government and key to the creation of an 
+effective off-switch. Foremost among these is the need to expand the capacity of the executive branch to 
+reason about the complex issues involving AI development. 
+2. Recommendation: Expand State Capacity for AI Strategy
+Create the National AI Strategy Office to expand U.S. government state capacity to keep pace with AI 
+development, and to coordinate between agencies on these pillars: 
+●Awareness: assessing current and future AI capabilities
+●Readiness: preparing for anticipated effects of AI systems
+●Emergency planning: establishing protocols to respond to urgent AI threats
+For simplicity, we’ll discuss these state capacities as if they were to all be housed under the National AI 
+Strategy Office. However, we are relatively agnostic about whether these powers and responsibilities 
+should be under this new office, given to an existing agency, or some form of interagency coordinating 
+body. The current U.S. AI Safety Institute (AISI) has developed expertise in evaluating AI models, but 
+the scope of its responsibilities would need to be expanded to satisfy the critical capacities below. 
+The U.S. government must be able to keep pace with new AI technology. It is essential that within the 
+government there is expertise to understand, monitor, and respond to new developments. As AI 
+systems become increasingly capable and potentially surpass human-level intelligence within the next 
+four years, the federal government must develop institutional knowledge and technical expertise to 
+ensure America maintains its technological leadership. The government must enhance in-house 
+capacity for understanding AI development. 
+Such measures have historical precedent. In the last 80 years, the United States has established 
+sophisticated institutional frameworks to manage nuclear technology’s immense potential and risks, 
+including the Department of Energy’s National Nuclear Security Administration, the Defense Threat 
+Reduction Agency, and specialized units within STRATCOM. Similarly, the government now must 
+establish specialized entities with deep technical understanding of AI systems. 
+Centrally, the government must develop the capacity to monitor, evaluate and, if necessary, intervene 
+in the development of advanced AI systems as they become increasingly powerful and autonomous. 
+To effectively govern advanced AI development, the federal government must establish capacity across 
+three essential pillars: awareness to accurately assess current and future AI capabilities; readiness to 
+develop proactive policies in response to AI developments; and emergency planning to prepare 
+coordinated responses for high-stakes scenarios. 4 of 15 
+
+
+2.1 Awareness 
+The first pillar, awareness, requires the government to develop the capacity for understanding the 
+current state of AI and forecasting future developments. The proposed National AI Strategy Office 
+should function as the central hub for gathering and analyzing critical information about AI 
+capabilities and distributing it to relevant government agencies. To build effective awareness, this office 
+should: 
+1.Develop deep technical expertise with frontier AI models, including their capabilities,
+limitations, and potential national security implications. This expertise would enable the
+government to evaluate and understand claims about AI capabilities. The office should
+establish strong working relationships with AI developers to facilitate information sharing
+about emerging capabilities and risks. The office may leverage expertise from the private sector
+to conduct evaluations.2.Establish robust evaluation frameworks by expanding initiatives like the AISI to
+comprehensively assess the capabilities of advanced AI models. This should include assessment
+of capabilities relevant to national security, such as has been established with the Testing Risks
+of AI for National Security (TRAINS) Taskforce. AI systems may also disrupt and automate
+human employment; capabilities here should be tracked so they can be appropriately managed.3.Monitor international AI developments through coordination with intelligence agencies and
+diplomatic channels, ensuring the U.S. maintains accurate awareness of capabilities being
+developed by both allies and adversaries.4.Forecast future AI capabilities before they materialize, enabling proactive rather than reactive
+policy development. This would include tracking key metrics like compute usage, model size,
+and performance improvements across public and private research.5.Establish transparency requirements for AI developers to ensure visibility into frontier AI
+progress. These should include the reporting of training of frontier AI systems, disclosure of
+safety evaluation results, and comprehensive tracking of compute clusters and data centers
+involved in AI development. Tracking the location, capacity, and security of these physical
+computing resources is essential for understanding the AI development landscape. This
+reporting is very unlikely to be burdensome to AI developers; current reporting requirementscan take about one person-day to complete.
+6.Implement a whistleblower hotline and whistleblower protections, modeled after the
+Nuclear Regulatory Commission’s whistleblower hotline, allowing AI researchers to report
+concerns without fear of retaliation. This system would target concerns relevant to the risks
+we’ve described: the irresponsible development of AI systems with dangerous dual-use
+capabilities or technical safety issues relevant to the control of powerful AI systems.
+5 of 15 
+
+
+2.2 Readiness 
+The second pillar, readiness, focuses on preparing for the effect of AI systems, rather than responding 
+to crises after they occur. While awareness provides the foundation for understanding current and 
+future AI capabilities, readiness involves developing concrete protocols to manage these capabilities. 
+1.Conduct threat modeling based on current and forecasted AI capabilities. This would include
+analyzing potential security vulnerabilities, weaponization pathways, economic disruption
+scenarios, and other large-scale risks from AI.2.Develop scenario planning frameworks that anticipate potential challenges before they
+become emergencies. This includes working with various actors to identify interventions,
+governance mechanisms, and coordination protocols for managing emerging AI risks. The goal
+should be to identify inflection points where policy action is necessary, and implement
+responses before crises occur.3.Provide research and policy recommendations to the government on critical issues including:
+a.The security and public safety implications of publicly releasing AI model weights.
+If AI model capabilities continue to increase, it will no longer be acceptable to release
+their weights, due to concerns about misuse by malicious actors or empowering state
+adversaries. Current models likely fall below this threshold.b.Appropriate timing for implementing enhanced security measures based on
+capability forecasts. Security measures may be required to prevent the theft of AI
+model weights and other important IP. The Office could provide policy
+recommendations about when the implementation of these measures needs to start,
+based on forecasts of AI model capabilities and forecasts of implementation times.c.Red-lines for AI development. Are there AI capabilities which are too dangerous to
+develop? For example, advanced AI systems may enable the development of new
+WMDs, such as novel pathogens, and access to such systems should be restricted.d.How to monitor and address the safety and security of AI research within AI
+companies. This research may become increasingly automated, and it is essential that
+humans still have control, oversight, and understanding.
+2.3 Emergency Planning 
+The third pillar is emergency planning. Despite the efforts at awareness and readiness, unforeseen and 
+urgent scenarios involving advanced AI systems may still arise. The government must have protocols in 
+place to respond rapidly to novel threats and contain potential harms. To build effective emergency 
+planning capacity, the National AI Strategy Office should: 
+1.Develop comprehensive emergency response protocols for AI-related crises including
+6 of 15 
+
+
+malicious use, rogue autonomous system malfunctions, and the leakage/theft of AI model 
+weights. These protocols should define clear lines of authority, communication channels, and 
+response procedures that can be activated immediately when needed. 
+2.Coordinate cross-agency responses for AI-enabled threats, particularly in high-risk domains
+such as biological security, cybersecurity, and critical infrastructure protection.
+3.Establish shutdown protocols for AI systems that present acute dangers. This includes
+developing technical mechanisms to safely turn off AI systems (e.g., shutting down a compute
+cluster), legal frameworks to authorize such interventions, and coordination procedures with
+private operators of AI infrastructure.
+3. Recommendation: Maintain America’s AI Leadership
+Recommendations: 
+●Expand AI chip export controls to ensure U.S. leadership in AI.
+●Improve security for AI model weights and algorithmic secrets to prevent theft by adversaries.
+●Fund work into verification mechanisms to enable better governance of global AI activities.
+3.1 Export Controls 
+A key component of ensuring America’s lead in AI is strengthening existing export controls on AI 
+chips, especially preventing their export to U.S. adversaries. Export controls contribute to an AI 
+off-switch by centralizing compute to the US and its allies, likely making it easier to implement 
+temporary controls on AI development. The Diffusion Framework and existing export control policy 
+are positive steps in this direction, but more is needed. We have specific recommendations for 
+improving the Diffusion Framework, which we will address in an upcoming comment to BIS; they 
+include lowering company and country compute allocations and expanding the definition of AI chips 
+(current definitions do little to limit U.S. adversaries’ access to inference-viable AI chips). We discuss 
+other recommendations here. 
+3.1.1 Expand export controls to other key manufacturing components and countries 
+Current export controls may have gaps that allow China to continue building advanced semiconductor 
+manufacturing capacity. Components critical for EUV lithography are produced by two German 
+companies, optical systems from Carl Zeiss and high-power lasers from TRUMPF. These German 
+manufacturers continue substantial sales to China, potentially accelerating China’s ability to develop 
+domestic EUV capacity. The Zeiss 2023/2024 Annual Report states that they are seeing a growth in 
+Semiconductor Manufacturing Technology due to “effects such as the strong demand for equipment 
+for the manufacture of semiconductors in China”.  7 of 15 
+
+
+It’s unclear to us if these companies currently supply China with equipment for advanced AI chip 
+production, but they both have the potential to, and are likely not prevented by existing European 
+export controls. To ensure America’s AI advantage, export controls should be expanded to cover 
+equipment or components which are used for sub-10nm or EUV processes. The U.S. should work 
+with Germany to implement export license requirements for this equipment (such as from 
+TRUMPF or Zeiss), similar to existing restrictions on ASML’s EUV machines from the Netherlands. 
+This licensing process should include rigorous end-use verification and post-shipment monitoring to 
+prevent diversion to restricted entities. 
+3.1.2 Chip registry 
+Chinese entities are reportedly smuggling thousands of AI chips in violation of U.S. export controls. 
+To remedy this issue, we suggest the implementation of a registry for advanced AI chips in order to 
+track chips from their fabrication (e.g., by TSMC) to their final data centers, and regular audits of data 
+centers to ensure chips remain where they should be. Previous work has suggested various 
+implementation details of such a registry, such as being run by BIS and involving random sampling to 
+decrease costs. These registries should cover all advanced AI chips sold globally, including those 
+residing in U.S. data centers. Ongoing audits or inspections may be crucial to ensure chips are not 
+removed from their designated data center without notice, and reselling of chips would have to be 
+tracked in the registry.  
+3.1.3 Security for AI model weights and algorithmic secrets 
+Beyond restricting access to large numbers of AI chips, effective export controls also require securing 
+frontier AI model weights and key algorithmic secrets, as these are complementary to compute. 
+Algorithmic progress internal to AI labs is moving at a staggering rate. AI systems require orders of 
+magnitude less compute to train than they would have just a few years ago. For this reason, strategies to 
+regulate hardware directly will be substantially weakened in the case that algorithmic secrets (including 
+model architectures, training algorithms, optimizations, hyperparameters, and more) are not properly 
+secured. Techniques to secure these details are under-researched, and we do not have more specific 
+comments at this time. However, we expect some precedent for these measures exists in other fields, 
+such as securing nuclear secrets. 
+Security for both model weights and algorithmic secrets could be incentivized through numerous 
+approaches. For example, the U.S. government could provide tax incentives to encourage companies to 
+invest in better security or could offer government procurement contracts predicated on meeting 
+particular security standards.  
+The importance of securing model weights and algorithmic secrets is not obvious to all. Some argue 8 of 15 
+
+
+that external innovation such as DeepSeek’s V3 and R1 models shows the futility of effort here. We 
+believe this is not the case as U.S. companies enjoy a compute advantage which they will use to produce 
+the most capable models, and algorithmic progress is likely to be a major driver of AI capabilities 
+progress in the future. We may elaborate on these arguments in upcoming work. 
+3.2 Governing AI Activities Globally with Verification Mechanisms 
+Frontier AI development (i.e., the largest AI training runs) should be kept in the United States and our 
+close allies. Serving AI models to customers, on the other hand, should be a global endeavor supported 
+by data centers around the world. However, such activities come with risks such as AI chips being 
+smuggled to U.S. adversaries or AI models being misused for harmful activities. Fortunately, new 
+mechanisms are being explored which could enable the U.S., in coordination with its allies, to govern 
+AI activities globally in a light-touch manner.  
+We have previously written in depth about the mechanisms that could be used to verify compliance for 
+international AI agreements. These mechanisms could serve many useful roles, including domestic and 
+international governance of AI activities. For example, they could help ensure export-controlled chips 
+stay where they are supposed to be, assist in evaluation of models for extreme risks, and ensure 
+compliance with a bilateral US-China agreement. We highlight a few of these methods for which 
+research and development must begin early. We encourage agencies such as the National Science 
+Foundation and Defense Advanced Research Projects Agency to fund research on these AI verification 
+mechanisms. 
+FlexHEG Mechanisms. Recently, researchers have conceptualized Flexible Hardware Enabled 
+Guarantee (FlexHEG) mechanisms, which could allow the governance of AI development in a precise 
+and privacy preserving manner. These mechanisms would operate at the level of AI chips themselves 
+(i.e., GPUs) or the server layer and would enable secure execution of governance functions. For 
+example, one implementation involves a secondary computer chip connected to the main AI chip and 
+placed in an enclosure to prevent tampering. This secondary chip enables various governance functions 
+including, for example, verifying the truth of a developer’s model capability evaluations, tracking the 
+total amount of operations (i.e., FLOPs) used to train an AI model, ensuring a company is serving the 
+correct model to users rather than a fraudulent model, and much more. Importantly, FlexHEG 
+mechanisms would be privacy-preserving (not leaking sensitive information to regulators). Currently, 
+FlexHEGs are a conceptual framework with early prototypes, rather than a technical solution that 
+could be implemented at scale. Further work can be funded to develop these mechanisms, including 
+improving their security and scalability.  
+Privacy-preserving inference monitoring. When serving AI models to customers, AI developers often 9 of 15 
+
+
+run secondary monitors on the inputs and outputs of AI models in order to detect misuse or harmful 
+behaviors. For example, these classifiers might aim to detect Child Sexual Abuse Material (CSAM) or 
+AI models being used to generate propaganda by U.S. adversaries. Similar monitors could be applied in 
+an international context to allow light-touch monitoring of AI inference. Optimistically, technology 
+development here could enable privacy-preserving monitoring that focuses only on the most extreme 
+risks (e.g., development of biological weapons) without being a major concern for sovereignty and 
+privacy. There are numerous political details to such monitoring that would need to be determined on 
+a case-by-case basis, and funding early technical work could enable better options for 
+privacy-preserving monitoring.  
+Inference-only AI chips. AI chips (e.g., GPUs, TPUs) are relatively general purpose, being capable of 
+carrying out many kinds of AI workloads. In the future, it may be necessary to monitor or restrict what 
+operations AI chips can do. Concretely, the Diffusion Framework aims to keep frontier AI 
+development in the U.S. and close allies, while allowing much of the world to carry out AI inference 
+and smaller-scale AI training. Ideally, specific AI chips could help implement such a goal via being 
+capable of inference but not training. Such chips could then be sold at scale without concern about 
+them being reappropriated for training. Currently, many chips that are marketed for inference (e.g., 
+Amazon’s Inferentia) can still be used for training very effectively. Therefore, more work is needed to 
+both define and build inference-only chips. Inference-only chips could be a win-win, empowering the 
+global community to benefit from AI advancements without posing risks to U.S. leadership or 
+national security. Unfortunately, inference itself might eventually pose these risks, rather than just 
+training, so this approach may not work in perpetuity.  
+4. Recommendation: Coordinate With China to Ensure Stability
+Recommendations: ●Develop intelligence capabilities for AI
+●Coordinate with China
+●Anticipate diplomatic needs should we end up in a confrontation
+●Reinforce communication channels and build trust incrementally
+4.1 Develop intelligence capabilities for AI 
+To ensure its own ability to respond appropriately to developments, the U.S. government should invest 
+in the zero-trust verification mechanisms required to maintain intelligence over foreign efforts to 
+develop frontier AI. This includes many complex activities such as satellite imagery, signals intelligence, 
+and cyber intelligence. The applicability of zero-trust mechanisms should be clear, given the 
+10 of 15 
+
+
+deteriorating relationship between the U.S. and China, in particular. They can also be a key 
+component of other efforts, such as appraising the effectiveness of export controls. 
+4.2 Coordinate with China 
+Furthermore, the U.S. should begin the conversation with China to coordinate on which zero-trust 
+verification mechanisms are redlined and which are not. As China will likewise rely on its own 
+capabilities to assess the state of American AI developers, it is crucial that we develop a mutual 
+understanding of which mechanisms will be acceptable and which will not. 
+Consider the ABM treaty of 1972, which, in Article XII, codified the use of satellite surveillance 
+between the U.S. and the U.S.S.R. It further prohibited deliberate concealment measures that would 
+impede verification. It may be important to identify and coordinate which surveillance techniques 
+applicable to AI development will not be impeded as we approach strategically significant AI. 
+It is important that China not feel great uncertainty about the state of American AI progress, as 
+America holds a position of leadership in frontier AI development. China will likely be attuned to the 
+key AI risks we highlight, including human extinction. As an example, Wen Gao is director of a major 
+Chinese AI lab and dean at Peking University. He has influence in technical and political circles in 
+China, serves on high-level advisory bodies for the government, and led the Politburo in a collective 
+study session on AI. In a 2021 paper he raised concerns about how AGI has the potential to, through 
+recursive self-improvement, lead to an intelligence explosion and catastrophe. 
+In addition to these risks, China has reason to worry about the strategic consequences of advanced AI. 
+Anthropic CEO Dario Amodei has been explicit about his intention to have the fruits of AI 
+development help “U.S. and its allies … take a commanding and long-lasting lead on the global stage.” 
+To be clear, his implication is that this lead is not just in AI but across all endeavors. As attractive as 
+that outcome is for America, it will be gravely concerning for China. 
+We should expect China to use its intelligence gathering capabilities to monitor the progress of leading 
+American AI labs and to use that intelligence to guide its actions. If the intelligence is poor, the actions 
+will be more severe and unpredictable. Thus we come to the perhaps counterintuitive result: we 
+advocate against policies which undermine China’s ability to accurately monitor American AI 
+progress. A relevant distinction can be made between concealing these activities from intelligence 
+gathering (undesirable) vs. securing the fruits from theft or sabotage (desirable). 
+Another historical parallel is the 1992 Treaty on Open Skies, which the U.S., Russia, and 32 other 
+countries entered into to facilitate mutual intelligence gathering on military forces and activities. By 
+allowing countries to openly surveil each other, this treaty aimed to prevent misunderstandings and 11 of 15 
+
+
+limit tensions. 
+4.3 Anticipate diplomatic needs 
+If and when China takes action on AI risk, what form will it take, and how can the U.S. best prepare? 
+We should prepare for China to approach the U.S. to seek a diplomatic resolution to their concerns. 
+If China is most concerned with human extinction or misuse risks, the U.S. government may need to 
+provide assurances. Doing this requires that leading AI companies have invested in the appropriate 
+research or security techniques, so we recommend the U.S. government support those activities, 
+through subsidy or incentive. Assurances will also require the U.S. government’s own tracking of the 
+situation through expanded state capacity. 
+On the other hand, what if China is most concerned about losing the race to strategically decisive AI? 
+The most desirable solution is the ability to make credible commitments for benefit sharing. That is, 
+perhaps the U.S. can allay these fears through promises and use of a suite of international relations 
+credibility tools. That said, the actual durability of credible commitments in the face of a looming 
+decisive strategic advantage is an unresolved question. 
+Ultimately, it may be necessary for both parties to halt AI development for at least long enough for 
+risks and fears to be addressed. We expect mutual independent validation mechanisms to play a 
+substantial role in an AI development halt, extending the significance of coordination on this topic. 
+4.4 Reinforce Communication Channels and Build Trust Incrementally 
+In an emergency, it could be useful to have a reliable and direct channel of communication. While a 
+US-China presidential-level hotline exists, China has an inconsistent history of answering it. See this 
+report for a more thorough discussion. We recommend effort to resolve the cause of this, for its broad 
+potential to be useful in domains including but not limited to AI. Additional channels of 
+communication between the U.S. and China should be developed or reinforced. These include cabinet 
+or staff-level links, military-to-military crisis channels, and Track II (or citizen) dialogues. 
+Trust can be built incrementally, and small commitments which are satisfied can lead to larger 
+commitments. We should seek areas where cooperation is possible today that might enable cooperation 
+on more critical issues in the future. This could include, for example, coordinated efforts to block the 
+release of open weight models beyond a level of dangerous capabilities by companies in either country 
+as we discuss in the next section. 
+5. Recommendation: Restrict Proliferation of Dangerous AI Models
+12 of 15 
+
+
+Recommendations: 
+●Pilot “differential access” programs allowing early access to AI models for security and
+preparedness.
+●Conduct ongoing assessment of risks and benefits of open source AI to enable future
+recommendations.
+●For now, prohibit the open release of AI models that would score “High” on the OpenAI
+Preparedness Framework at any point in their development cycle.
+Open sourcing in AI development commonly refers to the release of model weights, but could also 
+include research insights and, less commonly, the actual code (and data) required to recreate the model. 
+Open sourcing has benefits such as enabling better third-party testing, supporting the broader research 
+ecosystem, and making it easier for companies to build on AI products.  
+However, open sourcing also poses risks. One specific risk from open sourcing AI design information 
+or AI model weights is enabling rogue actors to accomplish extremely dangerous tasks, such as creating 
+novel biological weapons. This stems from the field’s lack of robust techniques for preventing the 
+misuse of the capabilities such models offer. While AIs are not currently able to enable such threats, 
+model evaluations and forecasting indicate that AI systems may be sufficiently capable in the next four 
+years, exacerbating threats to U.S. national security. 
+A second specific risk is the proliferation of AI models that can accelerate AI research among 
+less-resourced (and therefore less-detectable) actors. The proliferation of such systems, if they are 
+developed in the future, would make it effectively impossible to enforce basic AI regulations or 
+implement a global off-switch, even if there were imminent risk of catastrophic harm. Besides model 
+weights, it may be desirable to eventually limit the release of other key AI insights, such as model 
+architectures, training algorithms, hyperparameters, datasets and RL environments. 
+It is likely feasible to prevent (or at least significantly limit) the proactive release of critical AI 
+intellectual property, including model weights, research insights, and code. There is precedent for 
+restricting the release of harmful information in other domains, such as nuclear security and weapons 
+development. We encourage exploring the application of this precedent to protect AI secrets. These AI 
+secrets could be critical to U.S. national security due to risks from rogue actors and U.S. adversaries.  
+We offer three specific suggestions to reduce risks from open source AI systems: 
+Pilot “differential access” programs starting in 2025. Such programs could involve structured access 
+and staged release, for instance releasing a private API for specific defensive actors, then a public API, 
+and finally open release of model weights, depending on the risks. These programs should allow early 13 of 15 
+
+
+access to frontier AI models for organizations working on critical security and preparedness. For 
+example, they could include cybersecurity teams at major tech companies (such as Google’s Project 
+Naptime), nuclear security experts in DoE, and biological security experts across government. As AI 
+systems get more powerful, it could be crucial that defenders have more time with such systems in 
+order to detect and remedy vulnerabilities, before such AI systems are widely available to attackers. 
+Because advanced AI capabilities could be developed soon, it may be crucial to start an early access 
+program in 2025 so the relevant actors have time to adopt such a system into their work and resolve any 
+difficulties. Applying differential access to AI is the topic of forthcoming work from Shaun Ee and 
+collaborators, and it has been discussed previously. 
+One potential way to facilitate differential access is through the National AI Research Resource 
+(NAIRR). The NAIRR could include secure compute infrastructure (i.e., one or more high security 
+AI data centers) that allows for third-party use and testing without posing major security risks. For 
+instance, AI developers could give their models to the NAIRR for hosting, and NAIRR could then 
+provide access to these models for vetted researchers, without incurring risks from publicly releasing AI 
+model weights. However, NAIRR needs more funding in order to be effective. 
+The National AI Strategy Office (described above) should conduct ongoing evaluation of the risks 
+and benefits of open-source in the AI space. This Office should make regular recommendations and 
+provide expert guidance to other parts of government about this topic. Its mandate should include the 
+release of model weights, algorithmic secrets (e.g., model architectures, training algorithms, 
+hyperparameters), and data (e.g., RL environments, high quality reasoning datasets, datasets pertaining 
+to dual-use capabilities such as biosecurity and cybersecurity). The Office should be primarily focused 
+on technical details and should work closely with chemical, biological, radiological, and nuclear 
+(CBRN) and cyber experts in order to understand AI model capabilities. The Office would need 
+substantial technical expertise. 
+Before full guidance has been developed, implement interim rules to avoid catastrophic outcomes 
+from open weight model release. While specifics are being developed, default to prohibiting the open 
+release of models that would score High on any category in OpenAI’s preparedness framework 
+(Cybersecurity, CBRN threats, Persuasion, Model autonomy). This capability level corresponds 
+approximately to a human expert in the relevant domain (i.e., 90th percentile among relevant 
+professionals). Concretely, such a model may be capable of helping an expert to engineer a novel 
+CBRN threat vector, enabling someone with only basic training to create a serious chemical or 
+biological weapon, or generating persuasive content comparable to a national-level influence agent. As 
+of writing, the Deep Research system developed by OpenAI is likely the closest publicly known system 
+to this threshold, scoring Medium in all four categories.  14 of 15 
+
+
+We think it is likely that the first AI system to pass a High threshold will be developed in 2025 and 
+that there would be an open release of such a model in 2026, barring intervention. This evaluation 
+should be carried out as a form of pre-deployment testing by an independent body, such as the 
+National AI Strategy Office and/or the US AISI, with relevant expertise. This judgment should be 
+based on the highest scoring version of a model and should not take into account “mitigations” by the 
+developer. Principally, this is because all known mitigation strategies can be easily removed for 
+open-weight models. If there is substantial progress in research on mitigations, it may become possible 
+to robustly mitigate risk from otherwise-dangerous models whose weights are released, but current 
+methods are not sufficient. Because of the rapidly changing landscape, the authority to prohibit open 
+release of such models should rest with the executive branch, informed by the work of these 
+independent bodies. 
+Conclusion 
+The risks posed by advanced AI systems—specifically human extinction, misuse, and geopolitical 
+destabilization—demand urgent, coordinated action. The United States must lead a globally 
+coordinated effort to build and maintain an off-switch for AI development while simultaneously 
+securing its technological lead. By expanding state capacity for AI strategy, maintaining America’s AI 
+leadership, coordinating with China to ensure stability, and restricting the proliferation of dangerous 
+AI models, the U.S. can be better prepared for the complex challenges ahead. These recommendations 
+serve both immediate policy objectives and preserve critical options for the future. As AI systems 
+approach and potentially surpass human-level intelligence within the next few years, the actions we 
+take today will determine whether this transformative technology serves humanity’s interests or 
+threatens our existence. We urge the administration to act decisively while the window of opportunity 
+remains open, implementing and further building upon these recommendations to ensure AI 
+development proceeds in a manner that is secure and beneficial to all Americans. 
+— 
+This document is approved for public dissemination. The document contains no business-proprietary 
+or confidential information. Document contents may be reused by the government in developing the 
+AI Action Plan and associated documents without attribution. 
+15 of 15 
+
+

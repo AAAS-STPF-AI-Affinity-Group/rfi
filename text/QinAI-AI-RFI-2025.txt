@@ -1,0 +1,244 @@
+1 Queer in AI | e:  | w: www.queerinai.com  
+Response to the National Science 
+Foundation's Request for Information on the 
+Development of an Artificial Intelligence 
+Action Plan  
+*THIS DOCUMENT IS APPROVED FOR PUBLIC DISSEMINATION
+Queer in AI submits this document in response to the National Science Foundation’s 
+(NSF) Request for Information (RFI) on the development of an artificial intelligence (AI) 
+action plan.  
+Queer in AI is a part of oSTEM, a 501(c)(3) non-profit professional association for queer 
+people in Science, Technology, Engineering, Mathematics (STEM) fields. Queer in AI 
+was established by queer scientists working in artificial intelligence and machine 
+learning (AI/ML) with the mission to make the AI community a safe and inclusive place 
+that welcomes, supports, and values queer people. A crucial part of our mission is to 
+raise awareness of queer issues in the general AI community and to encourage and 
+highlight research on these problems. We are made up of scientists and experts 
+working directly on AI across industry, academia, and civil society.  
+We have deep collective knowledge on how to incorporate safe, privacy -preserving, 
+secure, assurable processes throughout the AI lifecycle. We maintain a belief that safe, 
+inclusive frameworks must be developed in tandem with AI systems. AI innovation 
+shouldn’t be at the expense of harm (psychological, physical, and institutional, or 
+individual). We welcome the opportunity to submit these comments.  
+We present a set of action items we believe essential to the development of an AI action 
+plan. They are summarized as follows: 
+1.Increase broad participation in AI development from non-technical andmarginalized communities. Increased participation encourages robust AI
+development practices.
+2.Encourage explicit consent practices when gathering and using personaldata in AI development. Privacy and security concerns towards AI systems are
+multifold and affect communities differently.
+
+
+Response to the National Science Foundation’s Request for Information on the Development of an Artificial Intelligence Action Plan  
+Queer in AI | e:  | w: www.queerinai.com  2  3.Avoid using AI towards tasks that are pseudo-scientific or ambiguously
+defined. AI systems may encourage legitimacy towards ill-defined end tasks
+resulting in harm or misuse.
+4.Limit the use of AI in law enforcement, weapons development, andimmigration. Bias and uncertainty caused at different levels (i.e., dataset
+curation, task description, model architecture and behavior) are present in AI
+systems designed for narrow and large end tasks. These areas are considered
+high-risk and insufficient regulation or research knowledge exists to prevent
+model harm or misuse.
+1.Encourage broad participation especially from non-technical communities.
+We continue to ask for increased engagement with queer people. Feedback from queerpeople at all stages of the AI lifecycle can highlight concerns in AI systems and aids in
+more robust design
+1. Queer experiences vary by individual and community; this diversity
+is essential for robust AI systems. Queer people are affected throughout the AI lifecycle,
+be it erasure through binary language in collected data, treatment as outliers during
+training, or surveillance through deployed systems. Queer people represent over 7% of
+the US population2 and have faced long, painful histories of exclusion from and
+targeting by science and technology3,4.
+We encourage involving impacted communities in AI governance and development. We 
+suggest first steps for incorporating broad participation5: 
+1.Government and private sector use of AI systems may benefit from due process.
+Due process by individuals or democratic mechanisms increases safety and
+accountability over decisions made by AI systems. Due process rights encourage
+autonomy by giving marginalized groups pathways to challenge harm from AI
+systems (i.e., AI decisions, privacy-infringing data curation). We encourage
+procedural frameworks for addressing safety and security of marginalized
+groups. These frameworks should offer mechanisms for feedback and pathways
+to challenge potential harms caused by AI decisions.
+2.Risk management frameworks (RMF) such as the National Institute of Standardsand Technology AI Risk Management Framework (NIST RMF) still serve as a
+strong framework to minimize harm across different  risk levels. We believe that
+risk should be assessed by external parties and the public through mechanisms
+such as requests for comment (RFC). RMFs can work in tandem with rights-
+based data governance approaches to encourage participation from non-
+technical communities. Public-private participation in AI governance  may also
+benefit from feedback at different levels (e.g., agency level).
+
+
+Response to the National Science Foundation’s Request for Information on the Development of an Artificial Intelligence Action Plan  
+Queer in AI | e:  | w: www.queerinai.com  3  We believe it’s beneficial to: 
+● Require AI developers to engage with queer communities when designing and
+developing AI tools and consult them about how they are impacted and
+represented. It is important to also financially and psychologically support
+marginalized communities when involving them in participatory design for AI6.
+● Provide developers, evaluators, users, and the general public with AI education
+materials, with an emphasis on the specific harms faced by queer people (e.g.,
+outing, misgendering, erasure).
+● Consider targeted outreach to communities not heard from during RFI and
+Request for Comment (RFC) periods.
+2.Privacy Needs vary. Privacy considerations should be made throughout the AIlifecycle
+Privacy needs vary by marginalized community and individual. Doxxing or outing of queer individuals and anti-queer legislation may necessitate those queer perspectives 
+be protected (e.g., noised, anonymized). The harms included here are not exhaustive and are frequently evolving. 
+Respecting consent and privacy while diversifying AI data sources is critical. We need 
+to improve training data curation practices to be more queer-inclusive. AI learns to reproduce and amplify patterns in large amounts of training data. Many AI technologies are trained on language, image, audio, and video data that are scraped from the internet; however, the internet is filled with homophobic, transphobic, racist, sexist, and abusive content, which manifests in training datasets, like LAION
+7. AI should only ever 
+be trained on data that was obtained with affirmative and meaningful opt-in consent. In particular, queer data subjects should be informed of the specific harms that they may experience due to the inclusion of their writing, images, audio, or video in AI training datasets. For example, dataset search tools and AI memorization of training data can cause queer individuals to have their visibility heightened or be outed, threatening their privacy, safety, and employment. Furthermore, there should be clear, easy, and effective mechanisms for opting out of including one’s data in a dataset at any time, and consent needs to be re-obtained every time the terms of data usage change. Moreover, 
+contextual and effective privacy-preservation measures need to be employed to protect 
+queer data. “Making AI more inclusive” is not sufficient justification for bypassing consensual and privacy-protecting data practices (e.g., via scraping posts/images from social media). We support meaningful consent practices by providing information that is in the interest of affected groups
+6. 
+Surveillance. We consider surveillance from the stance that it can exploit consent 
+norms and invade individual privacy. Before 20238, US Airport scanners and 
+Transportation Security Association (TSA) officers operated heavily on binary cisgender 
+
+
+Response to the National Science Foundation’s Request for Information on the Development of an Artificial Intelligence Action Plan  
+Queer in AI | e:  | w: www.queerinai.com  4  characteristics. Many accounts voiced concern from airport scanners flagging a high 
+number of trans people and subjecting them to higher rates of privacy invasion9. We 
+support safeguards within the US government (e.g., Fair Information Practice Principles), and would like similar safeguards for public-private partnerships. Public-
+private partnerships operate under ill-defined security regulation that blurs and expands the surveillance capacity of government agencies. Surveillance capabilities are 
+dependent on the kinds and quantity of information collected across government 
+agencies and the private sector alike.  
+AI can facilitate surveillance practices in cases where technology is shared (e.g., shared 
+household computers or networks). AI targeted ads can unsafely disclose sexual 
+orientation or gender identity to a larger audience. 
+We encourage frameworks that encourage safe AI development with respect to 
+marginalized populations. We highlight the following practices: 
+1.Informed Consent encourages Autonomy
+1.1. End-users should perform consent within the context of their beliefs,
+needs, goals, and desires
+10. This is often at odds with simplicity in the 
+information presented. 
+2.Encourage Transparent Development and Deployment Practices
+2.1. Cases of copyright infringement and harm by AI systems are hard to
+legislate due to the opacity of AI systems. Datasets used to train systems 
+and development practices may be proprietary. Models may be inherently 
+opaque in how they reach a decision.  
+2.2. Opaque AI systems are often harder to trust or justify due to their inability 
+to show cause-effect relationships 
+3.Encourage responsible, risk-aware Terms of Use Agreements like Responsible
+AI Licenses
+4.Involve transparent use frameworks such as Data and Society’s Algorithmic
+Impact Assessment.
+5.AI systems should avoid pseudo-scientific or ambiguous task descriptions
+Government agencies should redlight the use of AI systems that make pseudo -scientific
+predictions. We specifically highlight the use of emotion detection11 and gender
+recognition systems which are fundamentally flawed and further surveil and infringe on
+the civil rights of queer people. Furthermore, AI has given a dangerous veneer oflegitimacy to physiognomy and phrenology, including using computer vision to identifyqueer people
+12,13 and infer gender from faces14,15,16.
+
+
+Response to the National Science Foundation’s Request for Information on the Development of an Artificial Intelligence Action Plan  
+Queer in AI | e:  | w: www.queerinai.com  5  6.Limit the use of AI in Law Enforcement, Immigration, and Weapons
+Development
+We are against the use of AI tools by law enforcement. Current AI applications in law enforcement range from notetaking to predictive policing
+17 and transcription of prisoner 
+calls18. Furthermore, any AI systems that are used by law enforcement must be 
+stringently audited. We encourage algorithmic auditing and mechanisms that work to limit aggressive surveillance to the queer community. AI systems in this area must be careful not to further historical social harms. There are long histories of data and surveillance being used by law enforcement
+17 to harm queer people, such as Plaxico v. 
+Michael (1999)19 and the practice of “fairy shaking” by DC police where vehicle license 
+data was used to extort queer people20,21. 
+We support the following practices: 
+1. Internal Auditing22
+1.1. Internal auditing should involve product developers, internal audit teams,
+management, and other stakeholders before deployment of a product (i.e., AI 
+system). 
+1.2. The scope of the audit should consider product requirements, discussion of 
+core AI principles (e.g., robustness, security, privacy, fairness, etc.), an 
+ethical review of the end use case(s), and review of the social impact of the AI 
+system. Risk analysis should be performed with consideration of ethical 
+implications. 
+2. External Auditing and Third-Party Oversight23
+2.1. The scope of the audit should consider which threats to address (e.g., which
+demographic groups may be most affected by a product (i.e., AI system)
+2.2. External auditors should consider factors beyond benchmark performance. It
+is necessary to consider the whole of the AI development process in auditing (e.g., predatory data gathering practices, test design, documentation, 
+guardrails, etc. must all bear weight in addition to final model performance). 
+2.3. Minimize over-reliance on benchmarks. Benchmarks show a limited view of 
+the system and must be used in tandem with previously mentioned artifacts 
+(e.g., documentation, test design, etc.) to paint a clear picture.  
+2.4. Consider how privacy, group representation, group fairness, and 
+intersectionality are handled throughout the AI development lifecycle in 
+addition to the final system. 
+Respectfully, 
+The Organizers of Queer in AI 
+
+
+Response to the National Science Foundation’s Request for Information on the Development of an Artificial Intelligence Action Plan  
+Queer in AI | e:  | w: www.queerinai.com  6 Endnotes 
+1 QueerInAI, Organizers of, Nathan Dennler, Anaelia Ovalle, Ashwin Singh, Luca 
+Soldaini, Arjun Subramonian, Huy Tu, et al. “Bound by the Bounty: 
+Collaboratively Shaping Evaluation Processes for Queer AI Harms.” arXiv, July 
+25, 2023.  https://doi.org/10.48550/arXiv.2307.10223. 
+2 Inc, Gallup. “LGBTQ+ Identification in U.S. Now at 7.6%.” Gallup.com, March 13, 
+2024.  https://news.gallup.com/poll/611864/lgbtq-identification.aspx. 
+3 Sarah Schulman. 2021. Let the Record Show: A Political History of ACT UP New 
+York, 1987-1993. Farrar, Straus and Giroux 
+4 Jack Drescher. 2015. Out of DSM: Depathologizing homosexuality. Behavioral 
+sciences 5, 4 (2015), 565–575 
+5 Kaminski, Margot E., Voices In, Voices Out: Impacted Stakeholders and the 
+Governance of AI (May 21, 2024). 71 UCLA Law Review Discourse 176 (2024), 
+U of Colorado Law Legal Studies Research Paper No. 24-37, Available at SSRN: 
+https://ssrn.com/abstract=4954775 or http://dx.doi.org/10.2139/ssrn.4954775  
+6 Birhane, Abeba, William Isaac, Vinodkumar Prabhakaran, Mark Díaz, Madeleine 
+Clare Elish, Iason Gabriel, and Shakir Mohamed. “Power to the People? 
+Opportunities and Challenges for Participatory AI.” arXiv, September 15, 2022.  
+https://doi.org/10.48550/arXiv.2209.07572. 
+7 Thiel, David. “Identifying and Eliminating CSAM in Generative ML Training Data 
+and Models,” 2023. https://doi.org/10.25740/kh752sm9123. 
+8 Medina, “When Transgender Travelers Walk Into Scanners, Invasive Searches 
+Sometimes Wait on the Other Side.” 
+9 Dorn et al., “Non-Binary Gender Expression in Online Interactions.” 
+https://arxiv.org/abs/2303.04837 
+10 Barocas, Solon, and Helen Nissenbaum. “Big Data’s End Run around Anonymity 
+and Consent.” In Privacy, Big Data, and the Public Good, edited by Julia Lane, 
+Victoria Stodden, Stefan Bender, and Helen Nissenbaum, 1st ed., 44–75. 
+Cambridge University Press, 2014. 
+https://doi.org/10.1017/CBO9781107590205.004. 
+11 Brookings. “Why President Biden Should Ban Affective Computing in Federal 
+Law Enforcement.” Accessed November 27, 2024. 
+https://www.brookings.edu/articles/why-president-biden-should-ban-affective-
+computing-in-federal-law-enforcement/. 
+12 “Do Algorithms Reveal Sexual Orientation or Just Expose Our Stereotypes? | by 
+Blaise Aguera y Arcas | Medium.” Accessed November 27, 2024. 
+https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-
+expose-our-stereotypes-d998fafdf477 . 
+
+
+Response to the National Science Foundation’s Request for Information on the Development of an Artificial Intelligence Action Plan  
+Queer in AI | e:  | w: www.queerinai.com  7 13 “‘Physiognomic Artificial Intelligence’ by Luke Stark and Jevan Hutson.” 
+Accessed November 27, 2024. https://ir.lawnet.fordham.edu/iplj/vol32/iss4/2/. 
+14 Keyes, Os. “The Misgendering Machines: Trans/HCI Implications of Automatic 
+Gender Recognition.” Proc. ACM Hum.-Comput. Interact. 2, no. CSCW 
+(November 1, 2018): 88:1-88:22. https://doi.org/10.1145/3274357. 
+15 “Gender Recognition or Gender Reductionism? | Proceedings of the 2018 CHI 
+Conference on Human Factors in Computing Systems.” Accessed November 27, 
+2024.  https://cmci.colorado.edu/idlab/assets/bibliography/pdf/Hamidi2018.pdf . 
+16 Scheuerman, Morgan Klaus, Madeleine Pape, and Alex Hanna. “Auto-
+Essentialization: Gender in Automated Facial Analysis as Extended Colonial Project.” Big Data & Society 8, no. 2 (July 2021): 20539517211053712. 54 
+17 NAACP. (2024, February 15). Artificial intelligence in Predictive Policing issue 
+brief. https://naacp.org/resources/artificial-intelligence-predictive-policing-issue-
+brief 
+18 Reuters (online). D. Sherfinski et al. 2021. U.S. prisons mull AI to analyze inmate 
+phone calls. https://www.reuters.com/article/world/us-prisons-mull-ai-to-analyze-
+inmate-phone-calls-idUSKBN2FA0ON/ 
+19 “PLAXICO v. MICHAEL (1999) | FindLaw.” Accessed November 27, 2024. 
+https://caselaw.findlaw.com/court/ms-supreme-court/1166556.html. 
+20 Queerinai, Organizers Of, Anaelia Ovalle, Arjun Subramonian, Ashwin Singh, 
+Claas Voelcker, Danica J. Sutherland, Davide Locatelli, et al. “Queer In AI: A 
+Case Study in Community-Led Participatory AI.” In 2023 ACM Conference on 
+Fairness, Accountability, and Transparency , 1882 –95. Chicago IL USA: ACM, 
+2023.  https://doi.org/10.1145/3593013.3594134. 
+21 Organizers of Queer in AI, et al. “Rebuilding Trust: Queer in AI Approach to 
+Artificial Intelligence Risk Management.,” 2021. https://docs.google.com/document/d/19dUjAQ_6Dh-p3Db6TA1izOgfY9ZymJmvUuNnnY3fvz 
+22 Raji, Inioluwa Deborah, Andrew Smart, Rebecca N. White, Margaret Mitchell, 
+Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron, and Parker 
+Barnes. “Closing the AI Accountability Gap: Defining an End-to-End Framework 
+for Internal Algorithmic Auditing.” In Proceedings of the 2020 Conference on 
+Fairness, Accountability, and Transparency , 33–44. Barcelona Spain: ACM, 
+2020.  https://doi.org/10.1145/3351095.3372873. 
+23 Raji, Inioluwa Deborah, Timnit Gebru, Margaret Mitchell, Joy Buolamwini, 
+Joonseok Lee, and Emily Denton. “Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing.” In Proceedings of the AAAI/ACM 
+Conference on AI, Ethics, and Society, 145 –51. New York NY USA: ACM, 2020. 
+https://doi.org/10.1145/3375627.3375820. 
+
+

@@ -1,0 +1,128 @@
+Comments on the Development of an Artificial Intelligence (AI) 
+Action Plan 
+March 15, 2025 
+The Hacking Policy Council (“HPC”) submits the following comments in response to the 
+Office of Science and Technology Policy (OSTP) and Networking and Information 
+Technology Research and Development (NITRD) National Coordination Office (NCO)’s 
+Request for Information (“RFI”) on the Development of an Artificial Intelligence (AI) 
+Action Plan.1 We thank OSTP and NCO for the opportunity to provide input towards this 
+important proposal.  
+HPC is a group of industry experts dedicated to creating a more favorable legal, policy, 
+and business environment for vulnerability management and disclosure, good faith 
+security research, penetration testing, bug bounty programs, and independent repair for 
+security.2 Many of our members are deeply involved in AI system deployment, testing, 
+and red teaming.  
+HPC’s comments focus on the critical role of AI testing and red teaming. Even as we 
+use AI to drive innovation in cybersecurity, we also recognize that its evolution 
+introduces significant risks, particularly in cybersecurity and broader security domains. 
+Given the growing reliance on AI technologies across industries, it is essential to 
+prioritize AI security and resilience. A comprehensive AI strategy must include testing AI 
+vulnerabilities early in development and throughout their lifecycle to ensure public safety 
+and mitigate potential threats. It is imperative that these risks be understood and 
+addressed to safeguard against unintended consequences. 
+As the White House works to define its priorities around AI, below are our 
+recommendations: 
+2 Hacking Policy Council, https://hackingpolicycouncil.org.1 Office of Science and Technology Policy (OSTP) and Networking and Information Technology Research and 
+Development (NITRD) National Coordination Office (NCO), Request for Information, Development on an Artificial 
+Intelligence (AI) Action Plan, Feb. 6, 2025, 
+https://www.federalregister.gov/documents/2025/02/06/2025-02305/request-for-information-on-the-development-of-an
+-artificial-intelligence-ai-action-plan
+1 
+
+
+1.Encourage red-teaming to evaluate cybersecurity and security risks
+Given that the Trump administration's priority is to strengthen the U.S. AI leadership and 
+competitiveness, particularly in comparison to other nations such as the People’s 
+Republic of China, we believe it is crucial for the government to actively promote and 
+support the adoption of AI red-teaming practices. By rigorously testing AI systems, 
+red-teaming helps to identify vulnerabilities and weaknesses, ensuring the security and 
+resilience of AI technologies. 
+In cybersecurity, red-teaming typically involves simulating adversarial attacks to expose 
+system vulnerabilities and improve defensive strategies.3 However, as AI technologies 
+become increasingly integrated into different sectors, it is important to recognize that AI 
+red-teaming can go beyond traditional adversarial testing. It should address both 
+adversarial and non-adversarial risks, evaluating a wider range of potential threats. This 
+will help identify and mitigate risks that may not stem from direct attacks but still pose 
+serious threats to public safety, national security, and societal well-being. For example, aside from cybersecurity risks, red-teaming could assess unintended 
+outputs and wider security concerns, such as chemical, biological, radiological, and 
+nuclear (CBRN) threats. These areas represent critical infrastructure where AI could 
+have profound and potentially dangerous consequences if misused or poorly 
+implemented. Testing systems in these domains could help prevent hazardous chemical 
+releases, biological terrorism or pandemics, and nuclear incidents.  Given the diverse nature of AI testing and the range of associated risks, we urge the 
+development of a nuanced framework that pushes for the adoption of these practices, 
+but also distinguishes between different types of AI testing. This framework should 
+provide clarity on when and how each type of testing should be employed to effectively 
+manage these risks. 
+2.Advocate and establish secure communication channels for reporting
+AI-related vulnerabilities.
+Much like vulnerability disclosure policies (VDPs) for security vulnerabilities, AI 
+developers should be equipped with structured processes for receiving, analyzing, and 
+addressing AI-related vulnerabilities. We strongly encourage the government to 
+advocate for and establish secure communication channels dedicated to the 
+3 Hacking Policy Council, Comments to Request for Information Related to NIST's Assignments Under the Executive 
+Order Concerning Artificial Intelligence, Feb 2. 2024, 
+https://assets-global.website-files.com/62715f02a51b614ce64867fd/65c53257140b8d81b6f27422_Hacking%20Policy
+%20Council%20-%20comments%20to%20NIST%20re%20AI%20red%20teaming%20-%2020240202.pdf  
+2 
+
+
+responsible disclosure of AI vulnerabilities. These channels will ensure that 
+vulnerabilities are identified and remediated in a timely and efficient manner, reducing 
+the risks to public safety and national security.  
+However, we’d like to note that it may be helpful to have different processes for AI 
+cybersecurity disclosures and disclosures for other unintended weaknesses. 
+Disclosures related to CBRN or other risks will require different mitigations than those 
+for traditional security vulnerabilities and may involve different expert teams and 
+resources.  
+3.Provide clear protections for external researchers conducting AI-related
+research.
+To further promote responsible AI research, the government should establish clear legal 
+protections for external researchers conducting AI-related testing. These protections will 
+ensure that independent researchers are shielded from potential legal risks while 
+performing both AI-related research. By providing these safeguards, the government 
+can encourage more widespread engagement from the research community. 
+In particular, we urge the government to update the Computer Fraud and Abuse Act 
+(CFAA) to extend protections for good faith security research to good faith AI research. 
+While the Department of Justice announced its intent to support this, no substantial 
+action has been taken. We encourage this administration to follow through on this 
+important initiative, ensuring that researchers conducting responsible AI testing are 
+clearly protected under the law.  4.Ensure results of red-teaming are sensitive and place appropriate
+protections in place.
+Finally, HPC strongly supports reducing regulatory burdens and believes that the 
+mandatory reporting of physical and cybersecurity protections, as well as AI 
+red-teaming test results, should not be required. As mentioned in previous comments4 
+to the Department of Commerce’s Bureau of Industry & Security (BIS), we believe that 
+the detailed reporting of red-team testing outcomes could inadvertently create 
+significant security risks, particularly for dual-use foundation models and the 
+organizations developing them.5 
+5 Hacking Policy Council, Comments to BIS on the Establishment of Reporting Requirements for the Development of 
+Advanced Artificial Intelligence Models and Computing Clusters, Oct. 10, 2024, 4 Hacking Policy Council, Comments to BIS on the Establishment of Reporting Requirements for the Development of 
+Advanced Artificial Intelligence Models and Computing Clusters, Oct. 10, 2024, 
+https://cdn.prod.website-files.com/660ab0cd271a25abeb800453/670e9bb356f840554f037131_Hacking%20Policy%2
+0Council%20-%20Comments%20to%20BIS%20re%20reporting%20requirements%20for%20advanced%20AI%20-%
+2020240924.pdf  
+3 
+
+
+Overly detailed reports have the potential to expose unmitigated vulnerabilities, testing 
+methods, or approaches that could be exploited to disable, manipulate, or compromise 
+the integrity of AI systems. If such sensitive information were to be accessed by 
+unauthorized parties, it could provide malicious actors with a clear blueprint for targeting 
+these systems. Therefore, it is critical that results from red-teaming exercises be 
+handled with the utmost discretion, ensuring that only necessary information is shared 
+with relevant stakeholders, and that sensitive findings are protected to prevent them 
+from being misused.6 
+*  *  *  
+Thank you for the opportunity to provide input to the AI Action Plan. If we can be of 
+additional assistance, please contact Heather West, at  and Tanvi 
+Chopra, at 
+6 Hacking Policy Council, Comments to NIST on Managing Misuse Risk for Dual-Use Foundation Models, Sept. 9, 
+2024, 
+http://cdn.prod.website-files.com/660ab0cd271a25abeb800453/66e08a055a60774fbf66e0ce_HPC%20Comments%2
+0to%20NIST%20on%20Managing%20Misuse%20Risk%20for%20Dual%20Use%20Foundation%20Models%
+pdf  https://cdn.prod.website-files.com/660ab0cd271a25abeb800453/670e9bb356f840554f037131_Hacking%20Policy%2
+0Council%20-%20Comments%20to%20BIS%20re%20reporting%20requirements%20for%20advanced%20AI%20-%
+2020240924.pdf  
+4 
+
+

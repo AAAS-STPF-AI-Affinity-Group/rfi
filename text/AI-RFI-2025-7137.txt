@@ -1,0 +1,612 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8b-0re7-fpm l
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-7137
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Nam e: Will Rinehart
+Em ail:  
+General Comment
+See attached file(s)
+Attachments
+Com m ents on the Trum p AI Action Plan
+
+
+Comments  for the Development of an Artificial Intelligence (AI) 
+Action Plan  
+By Will Rinehart, Brent Orrell , and John Bailey1 
+Executive Summary  
+The United States stands at a critical juncture in AI policy where measured, strategic governance 
+is essential for maintaining technological leadership. Overregulation risks stifling innovation, 
+while a fragmented state-by-state approach creates compliance burdens that disproportionately 
+impact smaller companies. Rather than rushing new regulations, we should leverage existing 
+legal frameworks, and implement targeted, evidence-based interventions only where clearly necessary. This balanced approach ensures America will lead in AI development. 
+This document presents six key focus areas with specific action items listed at the end of each 
+section. They include:  
+1. "The risk of getting AI governance wrong," which emphasizes strategic patience in
+regulation;
+2. "Use AI to reform government" advocates applying AI to streamline regulatory
+frameworks;
+3. "Lead on AI governance" underscores the importance of supporting open-source AI
+development and funding AI standard setting;
+4. "Chart the evolving impact on employment and skills" recommends targeted workforce
+preparation without premature intervention;
+5. "Encourage data center build out" addresses infrastructure barriers to AI deployment; and
+6. "Strengthen supply chains and secure critical minerals" outlines steps to ensure access to
+essential components for AI hardware manufacturing.
+The risk of getting AI governance wrong  
+It’s commonly said that the government is doing nothing on AI, which is creating a gulf in governance. The government runs slow and AI businesses are running fast. But the pacing 
+problem feared by many needs its proper reframing. Applying statutes for every new innovation 
+brings with it the risk of getting governance wrong.  
+1 The American Enterprise Institute (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does 
+not take institutional positions on any issues. The views expressed in this regulatory comment are those of the 
+authors. This document is approved for public dissemination. The document contains no business -proprietary or 
+confidential information. Document contents may be reused by the government in developing the AI Action Plan 
+and associated documents without attribution. 
+
+
+ 2 Europe’s experience with the AI Act underscores the pitfalls of moving first with sweeping 
+measures. Proposed in 2021 and passed in 2024, Europe’s AI Act “is the first-ever legal 
+framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally.”
+2 Yet, the AI Act’s scope and complexity has made compliance a headache. 
+OpenAI, for example, delayed the release of its Sora model, which can create videos from text, 
+due to the complexities of the rules in Europe.3 Bird, one of the Netherlands’ most prominent 
+tech startups, plans to move most of its operations out of Europe in part because of the rules. 
+“The AI Act, financing, compensation, taxes, employment law — starting and running a 
+company [in Europe] is hard,” said Bird co-founder and CEO Robert Vis.4 Pieter Garicano, a 
+European tech analyst said it simply, “The rules are bad.”5  
+The costs are real if you care to look. By the European Commission’s own telling, becoming 
+fully compliant with AI rules might mean 30 percent.6 The speed of AI adoption also plays a role 
+in economic outcomes, as studies indicate that rapid adopters could expect a 122% increase in economic value by 2023, while laggards risk losing about 23% of cash flows.
+7 The effects are 
+already visible. When Italy briefly banned ChatGPT, stocks in affected sectors dropped nearly 
+9%, and smaller players felt it more acutely than the big incumbents.8  
+Rather than legislating in panic, there’s wisdom in waiting. A key idea from finance, that of the 
+real option, captures this strategic patience. Formally speaking, a real option is a firm’s right, but 
+not the obligation, to undertake certain business opportunities or investments. Real options force 
+an important shift in understanding by assigning a value to the flexibility in the face of 
+uncertainty.   
+As Rinehart (2025) wrote before,    
+Regulators possess a regulatory real option. They can act now or hold their authority in 
+reserve for future use when there is new information. A new regulation’s total value, 
+therefore, includes both its immediate net benefits and the value of preserving future 
+regulatory flexibility. Just as businesses use real options to manage uncertainty in fast-
+changing markets, regulators should think strategically about their option to wait.9  
+In nascent markets and with new technologies, the best response to a widening pace gap is often 
+to wait, rather than rushing to close the gap with potentially premature regulation. Office of 
+Management and Budget (OMB) guidance during the previous Trump Administration 
+ 
+2 AI Act . Shaping Europe’s digital future. (2025).  https://digital -strategy.ec.europa.eu/en/policies/regulatory -
+framework -ai.   
+3 Sora is here . OpenAI. (2024). https://openai.com/index/sora -is-here.    
+4 Geschwindt, S. (2025 ). Dutch Unicorn Bird flees “overregulated” eu for “global hubs” - and a meditation retreat . 
+TNW | Ecosystems. https://thenextweb.com/news/dutch -unicorn- bird- leaving -eu-due-to-ai-regulations  
+5 Garicano, P. (2024, October 30). The strange kafka world of the EU AI act . The Strange Kafka World of the EU AI 
+Act. https://www.siliconcontinent.com/p/the -strange -kafka -world -of-the-eu   
+6 Impact assessment of the regulation on artificial intelligence . Shaping Europe’s digital future. (2021). 
+https://digital -strategy.ec.europa.eu/en/library/impact -assessment- regulation -artificial -intelligence. 
+7 Ibid. 
+8 Bertomeu, J., Lin, Y., Liu, Y., & Ni, Z. (2023 ). What are the costs of delayed technology adoption? evidence from 
+Italy’s ban of chatgpt . SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452670 .   
+9 Rinehart, W. (2025). The value of waiting: What finance theory can teach us about the value of not passing AI 
+Bills. American Enterprise Institute. https://www.aei.org/technology- and-innovation/the -value- of-waiting -what -
+finance -theory -can-teach -us-about- the-value- of-not-passing- ai-bills/ . 
+
+
+ 3 recognized exactly this tension, pointing out that “Federal agencies must avoid regulatory or 
+non-regulatory actions that needlessly hamper AI innovation and growth.” 10 Continuing Director 
+Vought explained that “Where AI entails risk, agencies should consider the potential benefits and costs of employing AI, when compared to the systems AI has been designed to complement or 
+replace.”  
+A measured response isn’t the same as inaction. Agencies at every level retain ample power to 
+protect consumers and police bad actors. The Emerging Technology Observatory’s AGORA 
+database, which is a comprehensive collection of AI-relevant governance documents, has 
+counted up 188 laws, regulations, and standards at the federal level that currently apply to AI.
+11 
+And this doesn’t include algorithmic discrimination cases that have been decided in the courts, 
+the Federal Trade Commission’s open investigation into AI companies, or state level consumer 
+protection authority. An explicit statute is just one means of governance and is often the least 
+efficient in dynamic industries.  
+The real threat to American AI innovation is likely to come from the states, where over 1,000 
+bills have been proposed. Last Spring, Colorado became the first legislature to pass a 
+comprehensive AI bill. But when it reached Gov. Jared Polis’ desk, he reluctantly signed the bill, 
+while also delivering a searing critique of it: 
+I am concerned about the impact this law may have on an industry that is fueling critical 
+technological advancements across our state for consumers and enterprises alike. 
+Government regulation that is applied at the state level in a patchwork across the country 
+can have the effect to tamper innovation and deter competition in an open market.12 
+Colorado’s AI bill is unique in that applies a new general duty of care for developers and 
+deployers of AI. The goal is to protect individuals from algorithmic discrimination, which 
+Colorado defines as any differential “treatment or impact” resulting from the use of an artificial 
+intelligence system.  
+A duty of care is well -established concept, to be sure, but it is typically applied in professions 
+where specialized skill or trust is paramount. Physicians and other healthcare providers owe a 
+duty of care to their patients. Lawyers have a duty of care to their clients. An accountant 
+preparing financial statements or an auditor reviewing a company’s books must perform to the 
+standard expected of professionals. In these fields, professionals have legal obligations to act 
+with the caution and competence reasonably expected of their role, to avoid harming those they serve.  
+AI systems do pose harms but it is not the same harm that comes with dying on the operating 
+table, losing a court case, or being defrauded by an accountant. Indeed, there is a deep 
+uncertainty over harms in AI systems, as Rinehart (2023) explained.
+13 
+ 
+10 Vought, R. T. (2020). Memorandum for the Heads of Executive Departments and Agencies . Internet Archive. 
+https://www.whitehouse.gov/wp- content/uploads/2023/11/AI- in-Government -Memo -draft-for-public- review.pdf .   
+11 Emerging Technology Observatory. ( 2025).  AGORA. 
+https://agora.eto.tech/?authority_tags=us_federal&activity=Enacted .   
+12 Polis, J. (2024). Signing statement . Davis Wright Tremaine. https://www.dwt.com/ -/media/files/blogs/artificial-
+intelligence- law-advisor/2024/05/sb24205 -signing -statement.pdf .   
+13 Rinehart, W . (2023 ). Public interest comment for the National Telecommunications and Information 
+Administration (NTIA) on the intersection of privacy, equity, and civil rights . The CGO. 
+
+
+ 4 The Department of Justice (DOJ) along with the Federal Trade Commission (FTC) should 
+review bias and fairness initiatives, including proposals to require extensive bias audits, 
+algorithmic impact assessments, and broad new anti-discrimination regulations. The leading edge 
+of data science and economics suggests that these efforts are likely to have serious problems in 
+practice. Meanwhile the Office of Information and Regulatory Affairs (OIRA) could conduct a 
+cost-benefit analysis of existing AI rules, ensuring that the regulatory burden is properly weighed 
+against innovation benefits. The DOJ, the FTC, and OIRA would be critical in establishing a firm grounding, ensuring they are evidence-based and narrowly tailored.  
+This work should be done in conjunction with the creation of an AI Agency Playbook, which 
+will help establish agency jurisdiction over particular AI uses and chart relevant court cases that 
+would define the scope of government reach on AI. Enforcement of existing anti-discrimination and consumer protection laws should be the primary means of addressing AI-related bias. These 
+laws already provide robust tools to combat discriminatory outcomes, whether caused by humans 
+or AI. Agencies like the DOJ, the Equal Employment Opportunity Commission (EEOC), and the 
+Consumer Financial Protection Bureau (CFPB) can issue clarifying guidance on how these laws 
+apply to AI-driven decisions, plugging any gaps, rather than crafting entirely new regulatory 
+regimes. As the AGORA database shows, there is already an extensive regulatory regime in place.  
+As part of this effort, the president should establish an interagency council to coordinate AI 
+governance activities, prevent duplicative efforts, and ensure consistent approaches across 
+agencies.  
+The White House would do well to push back against a tangle of conflicting state rules that make 
+cutting-edge AI too costly or risk-laden to develop and deploy. Nothing in this debate suggests 
+we should ignore legitimate harms or postpone enforcement until crises force our hand. But the 
+best approach to AI’s pacing problem is often to wait, study the landscape, and apply existing tools before we clamp down with new laws. 
+ 
+Action items  
+● Reissue the 2020 OMB memo on “Guidance for Regulation of Artificial Intelligence 
+Applications.”  
+● Direct the Department of Justice along with the Federal Trade Commission to review bias 
+and fairness initiatives, including proposals to require extensive bias audits, algorithmic 
+impact assessments, and broad new anti-discrimination regulations. Call on the states to 
+hold off regulating bias issues while the review is underway.  
+● Formalize an AI Agency Playbook, clarifying agency jurisdiction over particular AI uses 
+and relevant court cases that would define the scope of government reach. As part of this 
+effort, the president should establish an interagency council to coordinate AI governance 
+activities, prevent duplicative efforts, and ensure consistent approaches across agencies.  
+ 
+https://www.thecgo.org/research/public -interest- comment -for-the-national -telecommunications- and-information -
+administration -ntia-on-the-intersection -of-privacy -equity- and-civil-rights/ .  
+
+
+5 ● Direct the Office of Information and Regulatory Affairs (OIRA) to conduct a cost-benefit
+analysis of existing AI rules, ensuring that the regulatory burden is properly weighed
+against innovation benefits.
+Use AI to reform government  
+The federal regulatory code has grown exponentially over recent decades, creating a complex 
+landscape that imposes substantial costs on businesses, individuals, and government itself. This 
+accumulation has led to administrative bloat where a gradual expansion of rules, requirements, 
+and procedures has made for an impenetrable regulatory environment. AI offers unprecedented 
+capabilities to address this challenge through systematic analysis, interpretation, and simplification of regulatory frameworks. 
+Modern large language models (LLMs) and associated AI technologies have demonstrated 
+remarkable capabilities in processing, analyzing, and extracting insights from vast bodies of text. 
+These capabilities are particularly well-suited to the challenge of regulatory reform, where the 
+sheer volume of text has historically made comprehensive analysis prohibitively expensive or 
+time-consuming for human reviewers. 
+As Rinehart (2023) explained, there are very real benefits that could come with turning AI on 
+government, “Using AI to turn law into code will mean that the true impact of government will 
+be understandable and accessible. Everyone knows that the burden imposed by regulation is 
+colossal but the exact costs are hard to quantify.”
+14  
+This translation process, which entails converting regulatory language into computational 
+models, will enable several critical transformations. First, it will allow for precise quantification 
+of regulatory impacts, including compliance costs, paperwork burdens, and economic effects. 
+Second, it will facilitate detection of contradictions, redundancies, and inefficiencies across the 
+regulatory landscape. Third, it will create opportunities for innovative approaches to regulatory 
+design and enforcement. 
+Precedent already exists. During the Trump Administration, the Department of Health and 
+Human Services (HHS) launched a broad internal modernization effort called ReImagine HHS. 
+ReImagine HHS encompassed many sub-initiatives, covering everything from acquisition reform 
+to HR modernization, but the single most interesting project was an unnamed initiate to use 
+textual analysis and AI tools to streamline processes and trim administrative burden. As a result, 
+HHS cleared a bunch of regulations from the book. The Administration should continue this 
+work by having other agencies do the same.  
+The application of AI to regulatory reform represents a paradigm shift in governance efficiency, 
+offering what may be our best opportunity to address regulatory accumulation in generations. By leveraging AI to identify overlapping mandates, conflicting requirements, and outdated 
+provisions, agencies can prioritize meaningful updates while eliminating unnecessary barriers to 
+innovation. This technology-enabled approach to regulatory improvement aligns with principles 
+14 Rinehart, W. (2023 ). Let’s use AI to clean up government . Fox News. https://www.foxnews.com/opinion/lets- ai-
+clean- government .  
+
+
+ 6 of good governance by enhancing transparency, reducing compliance burdens, and improving 
+regulatory outcomes. Importantly, this is not about wholesale deregulation but rather about 
+creating smarter, more effective regulatory frameworks that achieve their intended policy goals 
+with minimal friction.15 As agencies begin pilot programs to evaluate these AI-powered 
+approaches, policymakers should establish clear metrics for success and ensure these initiatives receive adequate funding and high-level support to drive meaningful systemic improvements in 
+our regulatory ecosystem. 
+Part of this transformation will require that the Administration be a leading adopter of AI 
+systems to improve governance and services. By using AI in federal operations (with appropriate 
+safeguards), the government can spur demand for domestic AI solutions and demonstrate 
+confidence in American technology. While EO 14110 mandated a plethora of reports and 
+guidelines for agencies, it arguably made agencies more cautious in using AI. Under clear 
+guidance, however, agencies should confidently implement AI where it can lawfully and ethically deliver better results for the public. 
+Long ago Congress recognized the importance of properly structuring and publishing data by 
+passing the OPEN Government Data Act. But the Biden Administration dragged its feet and only 
+finalized guidance in the last days of occupying the White House. This Administration needs to complete the work that has long been in the public interest by fully implementing the reforms.
+16 
+Opening PACER (Public Access to Court Electronic Records) data represents an opportunity for 
+AI-powered legal innovation. By removing the current paywall and accessibility barriers to 
+federal court records, developers could train specialized legal AI models on millions of case 
+documents, briefs, and judicial decisions. These models would democratize the law, enabling 
+better document analysis, precedent identification, and outcome prediction. Public interest 
+organizations would gain capabilities previously exclusive to well-resourced institutions, while 
+researchers could develop tools to identify systemic patterns in judicial decision-making, 
+procedural inefficiencies, and access-to-justice gaps. The combination of comprehensive PACER 
+data with modern AI techniques would create a fertile ecosystem for legal technology startups, 
+academic research, and civic-minded applications that make the justice system more transparent, 
+efficient, and equitable for all Americans. 
+To revolutionize regulatory cost estimation, OIRA should pilot a project that uses AI simulations 
+to standardize how agencies model compliance burdens across diverse businesses. This 
+framework would integrate a centralized repository of actual compliance data to train and 
+validate AI models, and would develop standardized "business personas" representing different 
+industries and organizational sizes. By implementing formal tracking of post-implementation 
+costs and developing industry-specific AI models, the government would create powerful 
+feedback loops that continuously improve estimation accuracy. This data-driven approach could 
+help augment subjective guesswork with empirically grounded projections, helping policymakers understand the true economic impact of proposed regulations before they take effect. 
+ 
+ 
+15 Bailey, J. (2023). Chatgov: Harnessing the power of AI for Better Government Service Delivery . American 
+Enterprise Institute. https://www.aei.org/technology- and-innovation/chatgov -harnessing -the-power -of-ai-for-better -
+government -service -delivery/ .   
+16 Alder, M. (2025 ). White House finalizes Open Government Data Act guidance, restarts CDO Council . FedScoop. 
+https://fedscoop.com/white -house- open- government -data- act-restarts- cdo-council/ .   
+
+
+ 7 Action items  
+• Launch an AI cleanup effort to additional agencies with high regulatory output, such as 
+the Environmental Protection Agency, Department of Labor, and Department of 
+Transportation, to demonstrate scalability across different regulatory domains. 
+• Review OMB memos M-25-05 and M-25-06, and implement the reforms laid out in the 
+Open Government Data Act. 
+• Work with Congress to unlock PACER, allowing for broader access to court documents. 
+• Direct OIRA to develop an AI-powered regulatory cost estimation framework that uses 
+standardized business personas, actual compliance data, and continuous feedback loops to 
+provide empirically grounded impact projections. 
+ 
+Lead on AI governance  
+Open-source AI development is a cornerstone of American AI leadership. The federal government should actively support and not inhibit open-source AI initiatives. Open-source 
+models and tools enhance transparency by allowing public inspection of algorithms and data, and 
+they spur competition by empowering startups and researchers (not just tech giants) to drive 
+innovation. Indeed, experts observe that open-source technologies “are the bedrock for 
+grassroots innovation in AI” and help “promote a diverse AI ecosystem,” as has been the case in other tech sectors.
+17 
+It would be strategically disastrous for the U.S. to constrain open-source AI just as foreign 
+competitors double down. As policy analyst Adam Thierer explained, “Open-source AI is poised 
+to play a crucial role in how countries achieve competitive advantage in advanced computational 
+capabilities, and it would be dangerous for the U.S. government to restrict the nation’s open-
+source capabilities while others advance their own.”18 
+Open-source AI democratizes access to cutting-edge technology, ensuring that innovation is not 
+restricted to a select few organizations with vast resources. This approach will help accelerate the 
+pace of AI advancement through collaborative problem-solving, adoption, and rapid remediation of security vulnerabilities.
+19  
+Beyond economic and innovation benefits, open-source AI could strengthen America's global 
+technological diplomacy. As nations navigate complex AI governance challenges, the U.S. can 
+leverage its leadership in open-source communities to help establish international norms that 
+reflect democratic values of transparency, accountability, and shared prosperity. As such, the 
+Administration’s strategic approach should focus on targeted safeguards for truly sensitive 
+ 
+17 Thierer, A. (2024, March 28). Policymakers should let open source play a role in the AI Revolution . R Street 
+Institute. https://www.rstreet.org/commentary/policymakers -should -let-open- source -play-a- role-in-the-ai-
+revolution/ .   
+18 Ibid.  
+19 Bailey, J. (2024). Open AI models: A step toward innovation or a threat to security? . American Enterprise 
+Institute. https://www.aei.org/technology- and-innovation/open -ai-models -a-step-toward -innovation- or-a-threat- to-
+security/.  
+
+
+ 8 applications while maintaining the vibrant open-source ecosystem that has positioned America at 
+the forefront of AI development. 
+To support these goals, the administration should prioritize funding for the U.S. AI Safety 
+Institute (AISI) and reform it to work within the National Institute of Standards and Technology 
+(NIST). NIST is already a respected scientific institution focused on standard settings. By 
+continuing to invest in this institution, the Administration could help properly guide advanced AI development and promote responsible AI adoption across the government. 
+A reformed AISI would also allow federal safe harbor legislation to be pursued. As noted in an 
+earlier section, state AI legislation could seriously derail innovation. A safe harbor would shield companies from regulatory uncertainty and potential litigation provided they adhere to rigorous 
+safety standards developed by NIST. The administration would be able to leverage existing 
+expertise while developing evidence-based standards for model evaluation, safety testing, and 
+responsible deployment. A safe harbor would create clear guidelines for developers without 
+stifling innovation, and would particularly benefit open-source initiatives that might otherwise 
+lack resources for complex compliance. This balanced framework would position the United 
+States to lead globally in both AI innovation and responsible governance, sending a powerful 
+signal that America embraces technological progress while taking safety seriously through standards-based oversight rather than restrictive regulation. 
+Finally, the rapid development and global proliferation of AI models underscore the critical need 
+for a robust evaluation mechanism not only for domestic but also for foreign-created AI systems. 
+The recent emergence of advanced foreign models like DeepSeek and Manus has demonstrated 
+clearly that American policymakers cannot afford to overlook technologies developed abroad. 
+Models originating in jurisdictions with differing regulatory standards or strategic intentions 
+present unique risks when integrated into U.S. companies, critical infrastructure, and sensitive 
+governmental operations. It is essential that the U.S. maintain a trusted, centralized evaluation 
+capability to comprehensively assess these foreign AI systems and assess their risks. A robust 
+AISI could track international AI developments, proactively engage with AI creators, and 
+rigorously test foreign models before they become widely embedded in American enterprises and 
+infrastructure systems. This approach ensures transparency and due diligence, guarding against 
+scenarios where foreign entities inadvertently, or intentionally, embed security weaknesses or 
+biases into foundational technologies used within critical U.S. sectors. 
+ 
+Action items  
+● Avoid export controls or licensing requirements that target open-source AI models or 
+their weights. Make a clear statement that the Administration will not sign a bill that 
+overly restricts open-source AI models or their weights.  
+● Fund and reform the AI Safety Institute while also opening up dialogue with Congress to 
+establish a national safe harbor for compliant AI systems, protecting innovation from fragmented state regulations while ensuring responsible development. 
+ 
+
+
+ 9 Char t the evolving impact on employment and skills 
+Much is not yet known about the effects AI may have on workers, jobs and skills. In a recent 
+report, “The Age of Uncertainty,” AEI reviewed labor market projections from a wide variety of 
+institutions and sources dividing the recent history of AI employment-impact estimates into three periods over the past 15 years:
+20 
+• Early Predictions (Circa 2010–2016): Initial studies, such as those by Frey and Osborne 
+(2013), estimated that up to 47 percent of U.S. jobs were at high risk of automation. These projections primarily targeted routine physical and cognitive tasks.
+21 
+• Revised Assessments (Circa 2016–2022): Subsequent research presented a more nuanced view. Arntz, Gregory, and Zierahn (2016) estimated that only about 9 percent of jobs in developed countries were automatable with existing technologies. This period also sa w 
+AI complementing human labor, especially in nonroutine tasks requiring advanced cognitive skills and creativity.
+22 
+• Current Perspectives (2022–Present): The advent of generative AI has shifted the focus of potential disemployment effects toward white-collar professions. However, empirical studies to date have generally found minimal aggregate employment effects across skill 
+and education levels. 
+As these constantly evolving forecasts show, our understanding of the possible effects of AI on 
+U.S. labor markets remains very fluid and uncertain. Under conditions of high uncertainty, 
+strong and immediate interventions –whether to halt technological deployments to ‘protect’ jobs 
+or to launch major government programs for workforce adjustment – are inadvisable. There is 
+simply too much we do not yet know about how AI will reshape labor market conditions or the 
+potential needs of workers in adjusting to an AI-infused economy. 
+With these uncertainties in mind, it is also important to recognize the risks of ignoring potential 
+employment-related effects. As we saw during the 1990s and early-2000s, the failure to prepare 
+for automation impacts can cause workers, businesses, government, and education to fall behind 
+the curve of technology-driven displacement and unemployment. This experience underscores 
+the need to take proactive steps now to better understand the potential AI job effects and develop 
+resources and policies to support worker adjustment. 
+These steps, discussed in greater depth below include: encouraging AI literacy throughout the 
+nation’s educational and training systems; making targeted tax code adjustments to incentivize 
+business investment in upskilling programs; improving forecasts for how emerging technology 
+may affect skill demands; and designing (but not yet implementing) policies and programs that could be used to support workers negatively affected by AI-related automation.   
+The federal and state governments, in cooperation with educational institutions at all levels, 
+should encourage the redesign of educational approaches to build AI competency among U.S. 
+ 
+20 Orrell, B., & Veldran, D. (2024). The age of uncertainty —and opportunity: Work in the age of AI . American 
+Enterprise Institute. https://www.aei.org/research -products/report/the- age-of-uncertainty- and-opportunity -work -in-
+the-age-of-ai/.   
+21 Frey, C. B., & Osborne, M. (2013). The future of employment: How susceptible are jobs to computerisation? . 
+Oxford Martin School. https://www.oxfordmartin.ox.ac.uk/publications/the- future -of-employment .  
+22 Arntz, M., Gregory, T., & Zierahn, U. (2016). The risk of automation for jobs in OECD countries . Organisation 
+for Economic Co -operation and Development. https://www.oecd.org/en/publications/the -risk-of-automation- for-
+jobs- in-oecd-countries_5jlz9h56dvq7 -en.html .   
+
+
+ 10 students and workers. As a new, general-purpose technology AI will become an unavoidable 
+economic and workplace reality for all Americans. As the technology advances into the economy 
+of goods and services, where 80 percent of Americans find employment, the ability to interact 
+with and use AI in the completion of job tasks will become a sine qua non of successful labor 
+force participation. Not everyone needs to be an expert in AI, but we do need to aim at increasing familiarity with the fundamentals of AI systems, principles, and operations as a foundation for 
+ongoing employment and upskilling needs. 
+In the face of radical uncertainty, non-cognitive skills (also known as soft or durable skills) will 
+become increasingly critical from two different angles. As reflected in surveys of employers, 
+these skills are in chronic short supply impairing the productivity of workers who have difficulty 
+in navigating work environments and relationships. Second, noncognitive skills make up the 
+interpersonal dimension of learning and serve to foster the flexibility and curiosity workers need 
+to remain active learners and adapt to technological change.  Since noncognitive skills are rooted 
+in early childhood experiences and develop slowly over time, investments in child well-being, 
+family stability and early learning are important building blocks for a future workforce that can adjust and adapt to ongoing technological shifts. 
+To avoid repeating the recent experience of automation and trade-related unemployment, 
+Congress and the administration should design policies to facilitate transitions for AI-displaced 
+workers. Such policies should be formulated with the objective of improving flexibility in the 
+labor force and in government systems that provide resources and support to workers in need of 
+retraining. Such policies include: strengthening state and regional labor market information 
+systems to create “headlight” analyses estimating the impact of new technology on skill 
+demands; increasing tax incentives for business-driven reskilling initiatives; reform and 
+expansion of federally-funded Individual Training Accounts, and enhanced retraining and 
+unemployment support for workers affected by automation. 
+ 
+Action items  
+● Work with state and regional labor market information systems to create “headlight” 
+analyses estimating the impact of new technology on skill demands. 
+● Run a randomized pilot program that offers a tax rebate for business-driven reskilling initiatives. 
+● Reform and expansion of federally-funded Individual Training Accounts. 
+● Direct the Department of Labor to properly study retraining and unemployment support 
+for workers affected by automation. 
+ 
+Encourage data center build out  
+Data centers are critical to AI deployment, but building them is a complex, multi-year process 
+often prolonged by regulatory and logistical hurdles. Industry studies and government reports 
+
+
+ 11 show that developing a large data center typically takes on the order of 3 to 6 years from site 
+selection to operation.23 
+But it didn’t use to be this way. Just a few years ago most data centers could be built in 1 to 3 
+years.24 Since COVID, these timelines have lengthened significantly, as booming demand for 
+digital infrastructure has run up against bottlenecks in permitting, environmental review, grid interconnection, local zoning, and supporting infrastructure. Access to power has become a 
+binding constraint. 
+Modern AI demands staggering computational resources, which in turn require enormous energy 
+supplies. As the adoption of AI expands, U.S. data centers and training clusters will draw 
+increasingly more power from the grid. According to a report released last December by the 
+Department of Energy, data centers consumed about 4.4% of total U.S. electricity in 2023 and 
+are expected to consume approximately 6.7 to 12% of total U.S. electricity by 2028. From 2014 
+to 2023, data center electricity usage climbed from 58 TWh to 176 TWh. By 2028, DOE 
+suspects data centers will be consuming between 325 TWh and 580 TWh.
+25 The wide range 
+belies the fundamental uncertainty with growth projections. 
+But there aren’t many near term good solutions to getting more energy online. Coal fired power 
+plants are being retired and there are no near-term plans to bring new coal capacity online. Just 
+this year, 8.1 GW of coal-fired capacity will retire.26 Meanwhile, the cost of gas-fired generation 
+has more than doubled over the last five years due to the limited supply of gas turbines, a constrained supply chain and much higher engineering, procurement, and construction costs.
+27 
+GE Vernova, the world’s largest manufacturer of gas turbines, is reportedly booked out to 2035.
+28 All the while, solar is booming across the US not because its costs are falling but because 
+the cost of everything else is rising and has supply chain delays.  
+Nuclear power represents one of the few reliable carbon-free energy sources that could meet the 
+growing demand, yet regulatory barriers continue to hamper its deployment. However, the states 
+of Texas and Utah, in conjunction with Last Energy, an upstart in the nuclear energy space, have 
+initiated a legal action that could change this landscape.29 This lawsuit represents a significant 
+ 
+23 Vincent, M. (2025, January 15). President Biden’s Executive Order on AI Data Center Construction: Summary 
+and commentary . Data Center Frontier. https://www.datacenterfrontier.com/machine -
+learning/article/55261235/president -bidens -executive- order -on-ai-data- center -construction -summary -and-
+commentary.   
+24 Obando, S. (2023 ). Data Center building boom shows cracks . Construction Dive. 
+https://www.constructiondive.com/news/psmj -survey -data- center -construction/699469/.   
+25 Department of Energy. (2024). DOE releases new report evaluating increase in electricity demand from data 
+centers . Energy.gov. https://www.energy.gov/articles/doe -releases -new-report- evaluating- increase -electricity -
+demand- data- centers .   
+26 U.S. Energy Information Administration (EIA). (2025). Planned retirements of U.S. coal -fired electric -generating 
+capacity to increase in 2025 . https://www.eia.gov/todayinenergy/detail.php?id=64604.   
+27 March 2025 investor presentation . NextEra Energy. (2025). 
+https://www.investor.nexteraenergy.com/~/media/Files/N/NEE -IR/news- and-events/events- and-
+presentations/2024/03- 14-24/March%202024%20Presentation%20vF.pdf .   
+28 Der Task Force. (2025). GE Vernova reportedly doesn’t need a single gas turbine order from a utility for the next 
+10 years and they’d still be sold out selling to data centers.  X. 
+https://x.com/DER_Task_Force/status/1853858948085858547 .   
+29 Texas, Utah and Small Modular Reactor (“SMR”) developer launch lawsuit alleging “unlawful” regulatory 
+regime . King & Spalding. (2025). https://www.kslaw.com/news -and-insights/texas -utah- and-small- modular -reactor -
+smr-developer -launch -lawsuit- alleging- unlawful -regulatory -regime .  
+
+
+ 12 development in the ongoing debate about the appropriate regulatory frameworks for advanced 
+nuclear technologies. 
+The litigation centers on a compelling legal argument: the U.S. Nuclear Regulatory Commission 
+(NRC) has exceeded its statutory authority by imposing full licensing requirements on low-
+power reactors that present minimal safety risks. The Plaintiffs are right about the legal limits of 
+the NRC and about the safety of new reactor designs. They utilize such small quantities of 
+nuclear material that they cannot, even under worst-case scenario analyses, release significant 
+radioactivity that would threaten public health or safety. By taking licensing out of the hands of 
+the NRC, states could step up and provide more tailored, risk-informed regimes that would better 
+serve both safety objectives and energy innovation goals. The Administration should support 
+Texas, Utah, and Last Energy in their suit. 
+Permitting delays extend well beyond data center deployment, creating economy-wide 
+innovation bottlenecks. As such, the Administration should champion permitting reform modeled 
+after the successful Prescription Drug User Fee Act (PDUFA). The PDUFA model, implemented 
+in 1992, fundamentally changed how the FDA reviews drug applications by “mandating FDA 
+performance goals in reviewing and acting on drug applications within specified time periods, in 
+return for levying fees on drug manufacturers' submissions.” 30 This created a virtuous cycle 
+where industry funding enhanced agency capacity, resulting in faster reviews without compromising safety standards. Research has demonstrated that “PDUFA raised the private 
+surplus of producers, and thus innovative returns, by about $7 to $11 billion,” while 
+simultaneously benefiting patients through faster access to new treatments.
+31  
+PDUFA exemplifies how user-fee funding models can significantly enhance regulatory 
+efficiency while strengthening, rather than weakening, public interest protections. This 
+successful approach extends beyond pharmaceutical regulation. As Dr. James Broughel recently 
+documented, the Louisiana Department of Environmental Quality (LDEQ) has implemented an 
+innovative Expedited Permit Program that allows applicants to fund overtime costs for agency 
+staff or contractors, thereby accelerating the processing of environmental permits, modifications, 
+licenses, registrations, and variances. 32 This market-based solution addresses resource 
+constraints while maintaining regulatory standards, demonstrating that similar fee-based acceleration mechanisms can be effective across diverse regulatory domains. The Administration should look to implement this regime in a wide range of permitting scenarios.  
+ 
+Action items  
+• Direct the Department of Justice to support Texas, Utah, and Last Energy in their 
+litigation against the NRC to enable state-based regulatory frameworks for low-power nuclear reactors that present minimal safety risks. 
+ 
+30 Philipson, T. , B., Berndt, E., Gottschalk, A., & Sun, E. ( 2008). Cost -benefit analysis of the FDA: The case of the 
+prescription drug user fee acts . Journal of Public Economics. https://ideas.repec.org/a/eee/pubeco/v92y2008i5 -
+6p1306- 1325.html .  
+31 Ibid. 
+32 Broughel, J. (2024). Mardi Gras for Permits. Competitive Enterprise Institute. https://cei.org/wp -
+content/uploads/2024/04/Fast_Track_ -_Lessons_from_Pennsylvanias_environmental_permitting_reforms_0424.pdf   
+
+
+13 •Champion PDUFA-style user-fee permitting legislation, allowing applicants to fund
+expedited reviews while maintaining current standards.
+Strengthen  supply chains and secure c ritical m inerals 
+While President Trump decried the $52.7 billion in CHIPS Act semiconductor incentives in his 
+address before Congress, the Administration needs to get the job done where the Biden 
+Administration didn’t. 
+The Biden Administration was downright sluggish in getting money out the door. Even in the 
+final days of the previous Administration, over two years after the bill was signed, only $33 
+billion of the $36 billion had been awarded for CHIPS.33 Meanwhile, semiconductor and 
+electronics companies have committed to nearly $450 billion in private investments for new facilities and production, in part spurred on by the 25% investment tax credit. That credit was 
+only finalized last October and it will sunset in 2027. The clock is ticking.   
+The Administration must streamline CHIPS Act implementation by eliminating what journalist 
+Ezra Klein aptly termed "everything-bagel liberalism.”
+ 34 These are the burdensome ancillary 
+requirements like child care and housing mandates that have needlessly complicated the application process for semiconductor manufacturers. These extraneous conditions have 
+significantly delayed critical fab construction without meaningfully advancing semiconductor 
+competitiveness. Moving forward, CHIPS funding should be laser-focused on its essential 
+purpose: rapidly establishing fabrication plants and packaging/test facilities on American soil. 
+This may require waiving or revising grant criteria that don't directly contribute to semiconductor 
+capacity or national security objectives. With global semiconductor firms making crucial facility 
+location decisions right now, America cannot afford further bureaucratic delays that jeopardize our technological leadership and national security interests. 
+To enhance public-private coordination to expedite construction and ramp-up of new fabs, the 
+Administration should fully fund the CHIPS Program Office to identify any regulatory or 
+permitting hurdles facing the awarded projects (e.g., delays in environmental permits or skilled construction labor shortages) and work with relevant authorities to resolve them.  
+Just as important, the Administration should not lose sight of the “R&D” side of the CHIPS and 
+Science Act. Keeping a pipeline of next-generation chip technology is as important as current 
+manufacturing. To that end, the Administration should full fund the National Semiconductor 
+Technology Center (NSTC) and National Advanced Packaging Manufacturing Program, which 
+are meant to facilitate cutting-edge research consortia. This would also mean supporting the 
+Department of Defense’s Microelectronics Commons program to ensure defense needs for 
+specialty chips (e.g., radiation-hardened, photonic AI chips) are met domestically.  
+Despite legitimate concerns about the CHIPS Act's scope and implementation at the time of its 
+signing, pragmatic leadership requires acknowledging that the funding has been appropriated, 
+33 Department of Commerce announces chips incentives award with Hemlock Semiconductor to help secure U.S. 
+production capacity of semiconductor -grade polysilicon. U.S. Department of Commerce. (2025, January 7). 
+https://www.commerce.gov/news/press -releases/2025/01/department -commerce- announces -chips- incentives- award-
+hemlock.  
+34 Klein, E. (2023 ). The problem with everything -bagel liberalism . The New York Times. 
+https://www.nytimes.com/2023/04/02/opinion/democrats -liberalism.html .  
+
+
+ 14 companies have made strategic investments based on these commitments, and states have 
+supplemented federal incentives with their own. The Trump Administration has an opportunity 
+to transform this initiative by cutting bureaucratic red tape while preserving its core mission of 
+semiconductor independence. Success will be measured not by dollars awarded but by new 
+domestic production capacity online, advanced fabrication capabilities secured, and America's 
+technological edge restored in this critical industry. The Trump Administration needs to get the 
+job done. 
+AI hardware depends not just on silicon chips, but also on a range of critical minerals and rare 
+earth elements. Rare earths such as neodymium, dysprosium, and terbium are crucial for high-
+performance electric motors, advanced sensors, and other components; elements like gallium and 
+indium are vital for semiconductor compounds and high-speed electronics. The United States’ 
+ability to lead in AI and high-tech manufacturing will be undermined if we remain dependent on 
+foreign sources, especially when some adversarial nations dominate these supply chains. China, 
+for example, has a near-monopoly on certain rare earth processing and recently demonstrated its 
+willingness to weaponize that dominance (e.g., imposing export embargoes on gallium and 
+germanium in 2024). To remove barriers to American AI leadership, we must ensure secure 
+access to these critical inputs through domestic production or stable allies. 
+President Trump was right to issue an Executive Order targeting rare earths on his first day in 
+office. And yet, cuts threaten progress made in surveying rare earths.35 Better geologic 
+intelligence will guide private sector mining ventures to viable resources, reducing exploration risk. The Administration should ensure the U.S. Geological Survey's Earth Mapping Resources 
+Initiative (Earth MRI) has proper funding. This investment represents a force multiplier for 
+private sector development. Furthermore, strengthening partnerships among federal agencies, 
+state geological surveys, and mining companies will accelerate the transition from geological 
+discovery to production. With China controlling approximately 85% of global rare earth 
+processing capacity, enhancing our geological intelligence capabilities is not merely an economic 
+priority but a national security imperative that requires immediate attention and sustained commitment. 
+The Administration should also consider dedicating funds to research alternative separation 
+methods for rare earth separation. Rare earth elements (REEs) are traditionally separated using 
+acid-intensive hydrometallurgical processes (e.g. strong acid leaching followed by multi-stage 
+solvent extraction). These conventional methods are effective but raise serious environmental 
+and economic concerns – large volumes of hazardous waste, high energy/water use, and costly multi-step processing. 
+ 
+Action items  
+• Streamline CHIPS Act implementation by eliminating unnecessary requirements, fully 
+fund the CHIPS Program Office to resolve regulatory hurdles, and support R&D 
+initiatives including the National Semiconductor Technology Center to ensure America 
+maintains technological leadership. 
+ 
+35 Northey, H. (2024, September 18).  “Funding Cliff” looms for us scientists hunting critical minerals . E&E News 
+by POLITICO. https://www.eenews.net/articles/funding -cliff-looms- for-us-scientists -hunting -critical -minerals/ .   
+ 
+
+
+ 15 • Restore funding for the U.S. Geological Survey's Earth Mapping Resources Initiative to 
+improve rare earth mineral intelligence, strengthen public-private partnerships for mineral 
+exploration. 
+• Invest in research for alternative, environmentally-friendly rare earth separation methods to reduce dependence on China's near-monopoly on critical mineral processing. 
+
+

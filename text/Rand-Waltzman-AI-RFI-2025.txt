@@ -1,0 +1,201 @@
+A New Age Of Deception In W arfare
+By Rand W altzman
+A ground -based missile defense system using machine learning to identify and intercept 
+incoming threats isdeployed to protect a strategic base. The system relie s on radar signatures to 
+classify objects as friendly , hostile, or non -threatening. Adversaries launch a coordinated attack 
+by releasing a swarm of small drones programmed to emit radar signals that mimick incoming 
+missiles. The defense system, overwhelmed by the sheer number of targets, prioritize sthe 
+drones, exp ending itsmissile interceptors. Amid the confusion, a genuine missile strike 
+penetrate sthe base’ s defenses, causing significant damage. 
+While the scenario above is fictional, it represents a pl ausible future scenario. It helps to 
+highlight how even sophisticated systems can be overwhelmed and rendered ineffective 
+through deliberate deception, and underscor esthe critical need for robust validation 
+mechanisms and human oversight. As we stand on t he brink of a new technological era, the 
+integration of machine learning and artificial intelligence into military systems introduces not 
+only promise but also profound risks.
+Behind this realization is a stark reality . Deception, an ancient tactic in war fare, is evolving. 
+Where humans were once the primary targets of such operations, the rise of intelligent 
+machines opens a new battlefield: deceiving technology itself . Unlike traditional cyberattacks, 
+which often rely on breaching a system's defenses to a ccess its internal data or software, 
+deceiving machine learning systems requires no such intrusion. Instead, adversaries can 
+manipulate these systems by exposing them to carefully crafted inputs through external 
+sensors, such as cameras, microphones, or ra dar systems. 
+This approach mimics the way humans can be deceived —not by tampering with the brain 
+directly but by presenting misleading or false information to the senses. For example, altering a 
+stop sign’ s appearance to confuse an autonomous vehicle int o misidentifying it as a speed limit 
+sign relies entirely on manipulating what the vehicle "sees." This kind of attack exploits the 
+system’ s reliance on patterns and inputs, demonstrating how deception has transcended its 
+historical focus on human percepti on to target the very tools designed to assist us.
+LEARNING BY EXAMPLE
+The ability to learn by example is one of the most powerful and mysterious forces driving 
+intelligence, both in humans and machines. Think of how children learn to recognize a letter o r 
+an animal. By being exposed to enough examples —whether it ’s the letter “B” or a cat —they 
+effortlessly develop the ability to identify new instances of that letter or animal. This seemingly 
+magical process stems from the brain’ s natural tendency to find p atterns. It identifies the 
+essential qualities of “cat -ness” or “B -ness, ” allowing the child to categorize experiences 
+unconsciously and automatically . However , while this process feels intuitive, explaining it 
+remains one of the great mysteries of intelli gence. The issue isn’t forgetting which examples 
+contributed to learning ; it’s losing track entirely of which inputs shaped the knowledge in the 
+
+
+first place. What remains are judgments, disconnected from their origins, forming the bedrock 
+of human cognitio n without a clear roadmap of how they were constructed.
+Deep learning, one of the most transformative forms of artificial intelligence, operates much like 
+human cognition because it was inspired by this very mechanism of learning by example. Just as 
+child ren learn through exposure, deep learning systems are trained using labeled examples of 
+what they are expected to recognize. Over time, these systems develop neural networks 
+capable of identifying new , unseen data. For instance, a machine shown enough pict ures of cats 
+can learn to recognize cats it has never encountered before. Y et, just like human intelligence, 
+the process by which deep learning systems make decisions is shrouded in opacity . Once 
+trained, the system retains no record of the inputs it learn ed from or how those inputs informed 
+its decision -making. This lack of transparency in both human and machine cognition 
+underscores a shared trait :an inability to explain the logic behind decisions.
+This opacity in deep learning is known as the “black bo x problem, ” and it presents significant 
+challenges. The fundamental issue lies in our inability to understand how a system arrives at its 
+conclusions. This becomes particularly problematic when deep learning systems produce 
+undesirable outcomes. For exampl e, if an autonomous vehicle fails to stop for a pedestrian and 
+causes an accident, diagnosing the error is an immense challenge. Did the system misinterpret 
+the pedestrian’ s presence? W as the situation too novel for the system to handle? Without 
+insight in to the system’ s “thought process, ” identifying and addressing the root cause becomes 
+nearly impossible.
+Even if retraining the system with new scenarios could improve performance, the complexity of 
+real-world conditions makes it impossible to anticipate e very potential one. Consider scenarios 
+such as sunny weather with light fog, salt -streaked roads after a winter storm, or countless 
+other variations. These infinite permutations make it exceedingly difficult to ensure that a 
+system has seen and learned fro m every possible condition it might encounter . As a result, 
+questions about the robustness and reliability of deep learning systems remain unresolved. But 
+it is worse than that.
+THE DAWN OF MACHINE -TARGETED DECEPTION
+Deception has always played a critical role in warfare, from feigned retreats in ancient battles to 
+disinformation campaigns during the Cold W ar. But as warfare becomes increasingly reliant on 
+AI and machine learning, malicious actors are adapting their strategies to exploit these systems.
+Rapid advances in machine learning have brought about technologies capable of analyzing vast 
+amounts of data, classifying information, and even making decisions autonomously . In military 
+applications, these technologies could be embedded in decision support systems, targeting 
+algorithms, and logistics planning. Y et, as reliance on machine learning grows, so do the 
+associated vulnerabilities. Unlike humans, m achine learning systems can be manipulated 
+through carefully crafted inputs. These inputs may deceive the system into misinterpreting its 
+environment, leading to catastrophic outcomes —like friendly fire or misdirected troop 
+deployments.
+
+
+Machine learning systems, while transformative, remain vulnerable to creative forms of 
+manipulation that exploit their r eliance on external inputs. For example, facial recognition 
+systems used for security can be deceived by adversaries wearing carefully crafted masks or 
+applying specific patterns of makeup. These subtle changes can confuse the system into 
+misidentifying in dividuals or failing to recognize them entirely , compromising secure facilities or 
+sensitive operations. Autonomous drones that rely on GPS signals for navigation can be misled 
+by spoofed location data. An adversary could trick the drone into believing it is on course while 
+redirecting it to a location where it could be captured or destroyed. Natural language processing 
+(NLP) systems, which generate or analyze human -like text, are similarly susceptible to 
+manipulation. 
+Operational decision- making algorithms, such as those used in route planning, are another 
+vulnerable target. By injecting false traffic or weather data, adversaries could trick the system 
+into recommending inefficient or even hazardous routes, delaying the transport of troops or 
+supplies in a combat zone. Predictive maintenance systems, which use machine learning to 
+identify equipment failures before they occur , could be manipulated by falsifying sensor data. 
+This might lead to premature equipment replacements, unnecessary downtime or , worse,
+failures at critical moments. Environmental monitoring systems, designed to detect chemical or 
+biological threats, could be deceived through the introduction of benign substances that mimic 
+the signatures of dangerous agents, prompting unnecessary evacuat ions or diverting resources 
+away from actual threats. These diverse examples illustrate how adversaries can exploit 
+machine learning systems ,not by breaking into them directly but by subtly corrupting the 
+information these systems rely on, making deceptio n a widespread and versatile threat. 
+Compounding these risks is the opaque nature of machine learning. While engineers can 
+program a system to learn specific tasks, they cannot fully understand how the system arrives at 
+its conclusions. This lack of transparency makes it nearly impossible to predict how the system 
+might respond to novel or malicious inputs.
+Mitigation strategies, though essential, remain underdeveloped. Basic measures, such as 
+requiring human oversight and implementing manual overrid e mechanisms, provide some 
+safeguards. However , these are not sufficient for the increasingly complex and autonomous 
+systems now being developed. More sophisticated methods —like continuous testing, operator 
+training, and formal system verification— are crit ical to addressing these vulnerabilities.
+IMPLICA TIONS FOR MILIT ARY OPERA TIONS
+The Pentagon has embraced machine learning as a cornerstone of future military operations. 
+Since the establishment of the Algorithmic W arfare Cross Functional T eam (also known as 
+Project Maven) in 2017, the Department of Defense has sought to harness AI for tasks like 
+analyzing intelligence data, monitoring threats, and automating decision cycles. This vision is 
+enticing, promising to maintain the U.S. military's technological e dge in the face of growing 
+competition from adversaries like China and Russia.
+
+
+However , the adoption of machine learning also intensifies the arms race between attackers 
+and defenders. Adversaries are actively developing methods to exploit AI vulnerabilit ies, 
+creating a dynamic in which every new capability brings new risks. The challenge lies in 
+balancing the benefits of automation with the risks of deception. As the military becomes more 
+dependent on these systems, the stakes of a successful attack on ma chine learning capabilities 
+grow exponentially .
+The vulnerabilities in machine learning echo earlier challenges faced in the realm of 
+cybersecurity . Historical events like the 1988 Morris W orm and the subsequent creation of the 
+Computer Emergency Response Team (CERT) highlight how slow responses to emerging threats 
+can have far -reaching consequences. Similarly , the establishment of the Forum of Incident 
+Response and Security T eams (FIRST) in 1990 demonstrated the need for global coordination in 
+addressing cyber threats.
+Despite decades of progress in cybersecurity , adversaries remain highly effective at exploiting 
+vulnerabilities. The 2019 Secretary of the Navy Cyber Security Readiness Review noted that 
+countries like China and Russia are conducting large -scale, strategic operations to achieve their 
+objectives. The lessons learned from combating cyber threats must now be applied to machine 
+learning systems, which face a similarly urgent and evolving threat landscape.
+To address the escalating risks posed b y machine learning vulnerabilities, a proactive and 
+comprehensive strategy is essential. The first step is to acknowledge a critical lesson from the 
+past: treating security as an afterthought is a dangerous mistake. Machine learning systems 
+must be designe d with security as a core principle, embedded into their development and 
+deployment processes from the outset. This approach ensures that vulnerabilities are mitigated 
+before they can be exploited, rather than patched in response to an inevitable failure.
+The "black box" nature of machine learning systems presents a profound challenge, demanding 
+significant investment in research to address fundamental questions about their security . 
+Understanding how to safeguard these systems in sensitive applications an d ensure their safe, 
+reliable operation is not just a technical necessity but a critical step in building trust in the 
+technologies shaping our future.
+Collaboration is another cornerstone of this effort. Existing organizations like FIRST must evolve 
+to include expertise specific to the complexities of machine learning security . Equally important 
+is fostering partnerships among the private sector , academia, and government to create a 
+unified front. These sectors bring complementary strengths, and their coo peration is vital to 
+addressing the multifaceted challenges that machine learning vulnerabilities present. Without 
+such collaboration, the gaps in our defenses will only widen.
+Proactive defensive measures are critical to staying ahead of adversaries. Red teaming exercises, 
+in which systems are subjected to simulated adversarial attacks, can uncover weaknesses that 
+might otherwise go unnoticed. Confidential reporting mechanisms must also be established to 
+
+
+enable rapid responses to vulnerabilities as they a re discovered. These measures not only fortify 
+individual systems but contribute to a culture of vigilance and adaptability .
+Finally , integrating security into hardware is an essential layer of defense. Machine learning -
+specific hardware should be designe d to include features such as activity audits and 
+mechanisms to prevent unauthorized access. These innovations protect systems at their most 
+fundamental level, ensuring that even if software defenses fail, the hardware remains resilient.
+Together , these s trategies form the foundation of a robust defense against the vulnerabilities 
+inherent in machine learning. As these technologies continue to shape critical systems in 
+society , the question is not whether we can protect them, but whether we are willing to 
+prioritize the effort required to do so.
+A CALL TO ACTION
+The rise of machine learning represents both an opportunity and a challenge. While these 
+technologies promise to revolutionize military operations, they also create unprecedented 
+vulnerabilities. T he U.S. cannot afford to approach this new frontier with complacency . 
+Proactive measures, informed by lessons from cybersecurity , are essential to securing machine 
+learning systems. Organizations like the National Institute of Standards and T echnology (NIS T) 
+must play a central role in establishing enforceable standards for AI reliability and safety . 
+Simultaneously , investment in research and development must prioritize security alongside 
+innovation.
+By embracing a "whole -of-nation" approach —uniting industry , academia, and government —the 
+U.S. can mitigate the risks of machine learning while reaping its benefits. The alternative is a 
+future where vulnerabilities outpace capabilities, undermining the promise of these 
+transformative technologies.
+The ag e of machine -targeted deception is here. As machine learning systems take on 
+increasingly vital roles in military operations, they become prime targets for adversaries seeking 
+to exploit their weaknesses. The consequences of failing to address these vulner abilities are 
+dire, ranging from battlefield losses to a loss of trust in critical systems.
+Recognizing and mitigating these risks is not just a technological challenge but a national 
+imperative. A new age of deception demands a new level of vigilance, in novation, and 
+cooperation. The sooner we act, the better prepared we will be to face the challenges ahead.
+Rand Waltzman has over 40 years of experience working in AI. This includes two terms as an AI 
+Program Manager at DARP A. The first term managing the DARP A Image Understanding 
+Program ended in 1991. The second term managing the Social Media in Strategic 
+Communications program and the Anomaly Detection at Multiple Scales insider threat detection
+
+
+program ended in 2015. He is currently Adjunct Senior Information Scientist at the RAND 
+Corporation studying the next generation of manipulation, influence and deception in Virtual 
+and Augmented Reality environments.
+
+

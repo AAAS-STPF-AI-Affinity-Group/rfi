@@ -1,0 +1,372 @@
+Introduction
+Artificial Intelligence (AI) has the potential to revolutionize industries, improve lives, and solve
+some of the world’s most pressing challenges. However, as AI systems become increasinglyintegrated into our daily lives, the ethical implications of their development and deploymentcannot be ignored. At the heart of this debate lies a critical question: How do we ensure that AItechnologies respect individual privacy, promote fairness, and earn public trust?
+Today, many AI systems are trained on vast amounts of data—often collected without explicit
+consent, shrouded in secrecy, or tainted by biases. From dark patterns that manipulate usersinto sharing personal information, to the use of proprietary datasets that lack transparency, thecurrent practices of data collection and preprocessing raise serious ethical concerns. Thesepractices not only undermine individual autonomy but also perpetuate discrimination, erodepublic trust, and hinder the equitable development of AI technologies.
+This proposal outlines a roadmap for ethical AI development, grounded in the principles of
+transparency, fairness, and software freedom. By prioritizing open source practices, enforcingstricter data privacy regulations, and ensuring public accountability, we can build AI systems thatare not only innovative but also aligned with societal values. From data minimization and explicitconsent to bias mitigation and open source audits, these measures are designed to protectindividual rights, foster public trust, and create a more equitable AI ecosystem.
+The time to act is now. As AI continues to evolve at an unprecedented pace, we must ensure
+that its development is guided by ethical principles and public input. This proposal is a call toaction for policymakers, developers, and stakeholders to embrace open source transparency,prioritize user autonomy, and build AI systems that truly serve the public good. Together, we canshape a future where AI technologies are not only powerful but also ethical, accountable, andtrustworthy.
+Explicit Consent for Personal Data
+Problem Statement :
+Currently, many platforms and applications useopt-in by defaultmechanisms for data
+collection, requiring users to navigate complex settings to opt out. This approach places theburden on individuals to protect their privacy, often leading to unintentional data sharing.Additionally, personal data is frequently collected without explicit, granular consent , leaving
+users unaware of how their information is being used, stored, or shared.
+Proposal :
+To address these issues, we propose the following measures:
+●Opt-Out by Default : Data collection should be opt-out by default , requiring users to
+explicitly consent before any data is collected. This shift ensures that users actively
+choose to share their data, rather than being passively enrolled.
+
+
+●Granular Consent : Users should have the ability to choose what types of data are
+collected (e.g., location, browsing history) and for what purposes (e.g., improving
+services, targeted advertising). This granular approach empowers users to make
+informed decisions about their privacy.
+●Transparency and Control : Companies must clearly explain how data will be used,
+stored, and shared, using plain language that is accessible to all users. Additionally,users should have the right to withdraw consent easily at any time, with their data
+being promptly deleted upon request.
+Justification :
+Granular consent aligns with the principle of respect for autonomy , ensuring that users retain
+control over their personal information. For example, the California Consumer Privacy Act
+(CCPA) grants users the right to know what data is being collected and to opt out of its sale,
+setting a precedent for user-centric data practices. By implementing similar measures globally,we can ensure that AI systems respect user privacy while maintaining transparency and
+accountability . This approach not only protects individuals but also builds public trust in AI
+technologies, fostering a more ethical and sustainable digital ecosystem.
+Addressing Dark Patterns in Data Collection
+Problem Statement :
+Many companies employ dark patterns —deceptive design tactics that manipulate users into
+consenting to data collection or making choices that compromise their privacy. These practices
+often involve complex, confusing interfaces that make it difficult for users to opt out of datasharing, undermining their autonomy and eroding trust in technology. For example, a study bytheNorwegian Consumer Council found that popular apps use dark patterns to nudge users
+into sharing data without fully understanding the implications.
+Proposal :
+To combat dark patterns and protect user autonomy, we propose the following measures:
+●Notification and Enforcement : Companies using dark patterns should be formally
+notified and required to change their practices. If they fail to comply, they should face
+clear penalties , such as fines proportional to their revenue or restrictions on data
+collection activities.
+●Stricter Regulation Enforcement : Strengthen the enforcement of existing regulations
+like the General Data Protection Regulation (GDPR) . This includes mandating
+transparent and user-friendly consent mechanisms, as well as conducting regular auditsto ensure compliance.
+●Opt-Out by Default : Data collection should be opt-out by default , requiring users to
+explicitly consent before any data is collected. This shift ensures that users activelychoose to share their data, rather than being passively enrolled through deceptivedesigns.
+
+
+Justification :
+Dark patterns exploit user behavior and undermine respect for autonomy , leading to a loss of
+trust in technology. By addressing these practices through stricter enforcement and penalties,
+we can protect user rights and promote transparency in data collection. For instance, the
+Norwegian Consumer Council’s findings highlight how dark patterns are used to manipulateusers, emphasizing the need for regulatory action. Implementing these measures will not onlysafeguard user privacy but also foster public trust in AI systems, ensuring that technologicalprogress aligns with ethical principles.
+Avoiding Healthcare Data
+Problem Statement :
+Healthcare data is among the most sensitive types of personal information, yet it is often used in
+AI training without explicit consent, especially when it is publicly available or obtained throughleaks. This practice poses significant risks, including privacy violations, discrimination, and lossof trust in AI systems. For example, the 2017 Equifax breach exposed the personal information
+of 147 million people, demonstrating the severe consequences of mishandling sensitive data.
+Proposal :
+To address these concerns, we propose the following measures:
+●Explicit Consent Requirement : Healthcare data, even if publicly available or obtained
+through leaks, should not be used for training AI models without explicit consent from
+the individuals involved. This ensures that individuals retain control over their sensitive
+information.
+●Ethical Guidelines for AI Developers : Establish and promote ethical guidelines that
+discourage the use of healthcare data without proper consent or anonymization. Theseguidelines should emphasize the importance of respecting patient privacy and autonomy.
+●Encourage Ethically Sourced Datasets : Support the creation and use of ethically
+sourced healthcare datasets that are collected with informed consent and robust
+privacy protections.
+Justification :
+The misuse of healthcare data can lead to severe privacy violations and discrimination,undermining public trust in AI systems. By requiring explicit consent and promoting ethicalguidelines, we ensure that AI development aligns with principles of fairness andrespect for
+autonomy . For instance, the Equifax breach highlighted the risks of mishandling sensitive data,
+underscoring the need for stricter safeguards. This approach not only protects individuals’ rightsbut also encourages the development of AI systems that are both innovative and ethical,fostering a more trustworthy digital ecosystem.
+Proprietary Data and Open Licenses
+Problem Statement :
+Proprietary data, often protected by copyright, patents, or trade secrets, is frequently used in AI
+
+
+training without explicit consent or proper attribution. This practice raises ethical and legal
+concerns, as it can undermine the rights of original creators and hinder transparency in AIdevelopment. Additionally, reliance on proprietary data limits collaboration and innovation, asaccess to such data is often restricted.
+Proposal :
+To address these issues, we propose the following measures:
+●Explicit Consent or Anonymization : Proprietary data should only be used with explicit
+consent from the original creators or after thorough anonymization to protect sensitive
+information.
+●Promote Open Licenses : Whenever possible, proprietary data should be replaced or
+supplemented with openly licensed data , such as Creative Commons or MIT License.
+Open licenses promote transparency, collaboration, and innovation by allowing
+unrestricted access and use of data.
+●Incentivize Open Data Practices : Provide incentives, such as tax breaks orgrants , to
+encourage organizations to release data under open licenses. This approach fosters amore equitable and innovative AI ecosystem.
+Justification :
+Open licenses have proven to be highly effective in promoting transparency and collaboration.For example, Wikipedia andLinux demonstrate the success of open data and open-source
+models, which have driven innovation and widespread adoption. While some companies willresist this shift due to concerns about losing competitive advantages, the long-termbenefits—such as accelerated research, reduced duplication of effort, and increased publictrust—outweigh the short-term costs. By adopting open licenses, we ensure accountability , as
+openly licensed data can be audited and verified by the public. This approach aligns with ethicalprinciples of fairness and transparency, creating a more inclusive and innovative AI landscape.
+Mitigating Flawed Content
+Problem Statement :
+AI models are often trained on vast amounts of data from the internet, which can include harmful
+or misleading content such as hate speech, misinformation, and biased information. When suchflawed content is used in training, it can lead to AI systems that perpetuate stereotypes,discrimination, and other harmful outcomes. This undermines the fairness and reliability of AItechnologies, eroding public trust. Worse, proprietary systems often lack transparency, making itimpossible to scrutinize how data is filtered or how biases are addressed.
+Proposal :
+To address these issues, we propose the following measures:
+●Content Filtering : Implement preprocessing steps to filter out harmful or misleading
+content, such as hate speech and misinformation, before it is used to train AI models.
+
+
+●Bias Mitigation Techniques : Use advanced techniques like bias detection algorithms
+andadversarial training to identify and mitigate biases in training data. These methods
+help ensure that AI systems are fair and equitable.
+●Open Source and Transparency : AI systems must be open source by default,
+allowing the public to inspect, modify, and verify the data filtering and preprocessing
+steps. Proprietary systems, which operate as "black boxes," are inherently untrustworthyand should be discouraged. Open source ensures that AI development is transparent,accountable, and aligned with the principles of software freedom .
+Justification :
+Flawed or biased content in training data can lead to AI systems that perpetuate harm, such asreinforcing stereotypes or spreading misinformation. For example, AI models trained on biaseddatasets have been shown to produce discriminatory outcomes in hiring, lending, and lawenforcement. By implementing content filtering and bias mitigation techniques, we can ensurethat AI systems are fair, accurate, and ethical . However, without open source principles ,
+these efforts are meaningless. Proprietary systems lack transparency, making it impossible toverify whether harmful content or biases have been adequately addressed. Open source is notjust a preference—it is a necessity for building trustworthy AI systems. It empowers users,researchers, and developers to collaborate, scrutinize, and improve AI technologies, ensuringthey serve the public good rather than corporate interests. This approach not only protects usersfrom harm but also builds public trust in AI technologies, promoting transparency ,
+accountability , and software freedom .
+Ethical Principles for Data Collection
+Data MinimizationProblem Statement:
+Many AI systems collect excessive amounts of data, far beyond what is necessary for theirfunctionality. This overcollection increases the risk of privacy violations, data breaches, andmisuse, as seen in the Facebook-Cambridge Analytica scandal, where personal data wasexploited for political manipulation. Such practices erode public trust and highlight the need forstricter data handling standards.
+Proposal:
+●Collect Only What’s Necessary: AI systems should adhere to the principle of data
+minimization, collecting only the data that is absolutely essential for their operation.
+●Open Source Audits: The data collection processes of AI systems should be opensource, allowing independent audits to verify compliance with data minimizationprinciples. Proprietary systems, which operate in secrecy, cannot be trusted toself-regulate.
+Justification:Data minimization reduces the risk of privacy violations and builds public trust by ensuring that
+
+
+AI systems are not hoarding unnecessary information. The Facebook-Cambridge Analytica
+scandal demonstrated how excessive data collection can be weaponized, underscoring theneed for stricter controls. By making data collection processes open source, we ensuretransparency and accountability, allowing the public to verify that companies are adhering toethical standards. This approach aligns with respect for autonomy and software freedom,empowering users to take control of their data.
+Data SovereigntyProblem Statement:
+Users often have no control over where their data is stored or processed, leaving themvulnerable to violations of local data protection laws (e.g., GDPR’s restrictions on data transferoutside the EU). This lack of control undermines trust and exposes users to risks associatedwith data mismanagement.
+Proposal:
+●User Control Over Data Location: Users should have the right to specify geographic
+restrictions for their data, ensuring compliance with local laws and protecting theirprivacy.
+●Open Source Infrastructure: The infrastructure used for data storage and processingshould be open source, allowing users and regulators to verify that data sovereigntyrequirements are being met. Proprietary systems, which obscure their operations, cannotbe trusted to respect user preferences.
+Justification:Data sovereignty ensures compliance with local laws and gives users greater control over theirpersonal information, aligning with respect for autonomy. However, without open sourceinfrastructure, users have no way to verify whether their data is being handled as promised. Byembracing open source, we can build a transparent and accountable system that respects userrights and fosters trust in AI technologies.
+Third-Party Data Sharing
+Problem Statement:
+Many apps and platforms share user data with third parties without explicit consent, leading toprivacy violations and loss of control over personal information. The TikTok data-sharingcontroversy is a prime example of how unregulated third-party data sharing can compromiseuser privacy.
+Proposal:
+●Explicit Consent for Third-Party Sharing: Stricter regulations should require explicit user
+consent before data is shared with third parties.
+
+
+●Open Source Transparency: The mechanisms for third-party data sharing should be
+open source, allowing users and auditors to verify that data is being shared ethically andwith proper consent. Proprietary systems, which operate behind closed doors, cannot betrusted to prioritize user privacy.
+Justification:Requiring explicit consent ensures that users are fully aware of how their data is being used andshared, fostering transparency and accountability. However, without open source transparency,users have no way to verify whether their consent is being respected. By making theseprocesses open source, we can ensure that third-party data sharing is conducted ethically andin alignment with user preferences.
+Ethical Use of Publicly Available Data
+Problem Statement:
+Just because data is publicly available does not mean it is ethical to use it. Data obtainedthrough leaks, breaches, or unethical scraping can perpetuate harm and undermine trust in AIsystems. For example, using leaked healthcare data to train AI models violates individuals’rights and exposes them to discrimination.
+Proposal:
+●Ethical Guidelines for Public Data: Establish clear ethical guidelines prohibiting the use
+of data obtained through leaks, breaches, or unethical means.
+●Open Source Data Audits: The datasets used to train AI systems should be open source,allowing the public to verify that they were obtained ethically and with proper consent.Proprietary datasets, which lack transparency, cannot be trusted to adhere to ethicalstandards.
+Justification:Using unethical data undermines fairness and respect for autonomy, eroding public trust in AIsystems. By adhering to ethical guidelines and making datasets open source, we ensure that AIdevelopment aligns with societal values and respects individuals’ rights. Open sourcetransparency is essential for holding companies accountable and ensuring that AI technologiesare developed responsibly.
+Data Preprocessing
+1. Privacy ConcernsProblem Statement :
+Even anonymized data can sometimes be reverse-engineered to identify individuals, posing
+significant privacy risks. For example, researchers have demonstrated that de-anonymization
+attacks can re-identify individuals in supposedly anonymized datasets by cross-referencing with
+
+
+other data sources. Additionally, if preprocessing is not carefully managed, it can introduce or
+amplify biases. For instance, tokenization techniques that disproportionately represent certaingroups can lead to biased AI models that perpetuate discrimination.
+Proposal :
+●Stronger Anonymization Techniques : Use advanced methods like differential
+privacy , which adds mathematical noise to data to prevent re-identification while
+preserving its utility for analysis.
+●Bias Audits : Conduct regular audits during preprocessing to identify and mitigate
+potential biases. For example, ensure that tokenization and normalization techniques do
+not disproportionately affect certain demographics.
+○Public Accessibility of Audit Results : The results of these bias audits should
+be made publicly accessible so that individuals, researchers, and policymakers
+can review them. This transparency will help build trust in AI systems and ensurethey are fair and equitable.
+●Open Source Preprocessing Tools : The tools and algorithms used for preprocessing
+should be open source , allowing the public to scrutinize and verify that privacy and
+fairness standards are being upheld. Proprietary tools, which operate as "black boxes,"cannot be trusted to prioritize ethical considerations.
+Justification :
+Anonymization and bias mitigation are critical for protecting privacy and ensuring fairness in AIsystems. However, without open source tools , there is no way to verify whether these
+measures are being implemented effectively. By making preprocessing tools and audit resultspublicly accessible, we ensure transparency and accountability, fostering public trust in AItechnologies. This approach aligns with the principles of software freedom andrespect for
+autonomy , empowering users to take control of their data.
+2. Accessibility
+Problem Statement :
+While preprocessing techniques (e.g., normalization, tokenization) are generally non-sensitive
+and can be shared publicly, the datasets themselves often contain sensitive or personalinformation that must remain private. This creates a tension between transparency and privacy,as users and researchers need to know what data is being used to train AI systems withoutcompromising individuals’ privacy.
+Proposal :
+●Transparency Without Compromising Privacy : Instead of sharing raw datasets,
+provide detailed documentation about the data sources, collection methods, and
+preprocessing steps. This documentation should include:
+
+
+○Data Descriptions : What types of data are included (e.g., text, images,
+demographic information)?
+○Collection Context : How and why was the data collected?
+○Preprocessing Steps : What transformations were applied to the data (e.g.,
+tokenization, normalization)?
+○Bias Mitigation : What steps were taken to ensure fairness and reduce bias?
+●Publicly Share Metadata : While the raw data will be made to remain private, metadata
+(e.g., dataset size, geographic distribution, demographic breakdowns) can be shared to
+provide transparency without risking privacy violations.
+●Third-Party Audits : Allow independent auditors to review datasets and preprocessing
+steps to ensure compliance with ethical and legal standards. The results of these auditsshould be open source , allowing the public to verify that data is being handled
+responsibly.
+Justification :
+Transparency about data usage is essential for building trust in AI systems. However, sharingraw datasets can pose significant privacy risks. By providing detailed documentation andmetadata, we strike a balance between transparency and privacy. Additionally, open source
+audits ensure that companies are held accountable for their data practices, fostering a culture
+of responsibility and trust. This approach aligns with the principles of software freedom and
+transparency , ensuring that AI development is ethical and equitable.
+C. Model Architecture
+Problem Statement :
+The design and structure of AI models (e.g., neural networks, decision trees) play a critical role
+in determining their functionality and impact. However, many organizations keep their modelarchitectures proprietary , operating as "black boxes" that lack transparency and accountability.
+While open-source architectures promote collaboration and innovation, they are sometimescriticized for being exploited for malicious purposes.
+Proposal :
+●Open Source by Default : Model architectures should be open source by default,
+allowing researchers, developers, and the public to inspect, modify, and improve them.
+Proprietary models, which operate in secrecy, cannot be trusted to prioritize ethicalconsiderations or public interest.
+●Transparency and Accountability : Open-source architectures like TensorFlow and
+PyTorch have demonstrated the power of collaboration and transparency in driving
+innovation. These models should serve as the standard, not the exception.
+●Mitigating Malicious Use : While open-source models can be exploited, the benefits of
+transparency and collective oversight far outweigh the risks. Malicious use can bemitigated through ethical guidelines ,community moderation , and legal frameworks .
+
+
+Justification :
+Proprietary model architectures undermine transparency andaccountability , making it
+impossible to verify whether they are fair, unbiased, or ethical. Open-source architectures, on
+the other hand, empower the public to scrutinize and improve AI systems, ensuring they alignwith societal values. The success of open-source projects like Linux andWikipedia
+demonstrates the power of collective innovation. By embracing open source, we can build AIsystems that are not only cutting-edge but also ethical, transparent, and trustworthy .
+D. Training Process
+Problem Statement :
+The training process, where AI models learn patterns from preprocessed data, often involves
+sensitive information (e.g., medical records) and requires significant computational resources.However, this process is frequently shrouded in secrecy, with proprietary models trained onprivate datasets. This lack of transparency raises concerns about privacy violations ,bias
+amplification , and equity in access to resources .
+Proposal :
+●Open Source Training Methodologies : The algorithms, hyperparameters, and
+methodologies used in training should be open source , allowing researchers to replicate
+and verify the process. Proprietary training methods, which lack transparency, cannot betrusted to prioritize fairness or privacy.
+●Publicly Share Non-Sensitive Data : While the training data itself may need to remain
+private, metadata andaggregated insights should be shared publicly to ensure
+transparency.
+●Equitable Access to Resources : The computational resources required for training are
+often concentrated in the hands of a few organizations, creating a barrier to entry forsmaller players. We must advocate for open access to cloud resources andpublicly
+funded AI research to level the playing field.
+Justification :
+Training AI models on sensitive data without transparency risks privacy violations andbias
+amplification , as seen in cases where models memorized and later revealed private
+information. By making training methodologies open source , we ensure that the process is
+transparent, reproducible, and accountable. Additionally, equitable access to resources fostersinnovation and prevents the monopolization of AI development by a few powerful entities. Thisapproach aligns with the principles of software freedom andfairness , ensuring that AI benefits
+everyone, not just a privileged few.
+Model Deployment
+
+
+Problem Statement :
+The deployment of AI models—making them available for use in apps, websites, or
+devices—often lacks transparency. Proprietary models are deployed as "black boxes," withusers having no insight into how decisions are made. This opacity can lead to distrust ,privacy
+violations , and harmful outcomes .
+Proposal :
+●Open Source Deployment : The deployment process, including APIs and interfaces,
+should be open source , allowing users to understand how the model works and verify
+its fairness. Proprietary deployment methods, which obscure decision-makingprocesses, cannot be trusted to prioritize user rights.
+●Explainable AI : Deployed models should provide explainable outputs , allowing users
+to understand how decisions are made and challenge them if necessary.
+●Public Documentation : Detailed documentation about the model’s functionality,
+limitations, and potential biases should be made publicly accessible.
+Justification :
+Deploying AI models as "black boxes" undermines transparency andaccountability , eroding
+public trust. For example, opaque AI systems in hiring or lending have been shown toperpetuate discrimination. By embracing open source deployment andexplainable AI , we
+ensure that users can trust and understand the systems they interact with. This approach alignswith the principles of software freedom andrespect for autonomy , empowering users to take
+control of their interactions with AI technologies.
+F. Model Outputs
+Problem Statement :
+The outputs generated by AI models—such as recommendations, classifications, or
+decisions—can have significant real-world consequences. However, these outputs are oftenbiased ,inexplicable , orprivacy-invasive , perpetuating discrimination and inequality.
+Proprietary models, which lack transparency, exacerbate these issues by making it impossibleto scrutinize or challenge their outputs.
+Proposal :
+●Open Source Outputs : The mechanisms behind AI outputs should be open source ,
+allowing users and researchers to understand how decisions are made and verify their
+fairness.
+●Explainable and Interpretable Outputs : AI systems should provide clear,
+interpretable explanations for their outputs, ensuring that users can understand and
+challenge decisions.
+
+
+●Bias Audits : Regular audits of model outputs should be conducted to identify and
+mitigate biases. The results of these audits should be publicly accessible , fostering
+transparency and accountability.
+Justification :
+Biased or inexplicable AI outputs can perpetuate discrimination and harm marginalized groups,
+as seen in cases where AI systems denied loans or job opportunities based on flawed data. Bymaking outputs open source andexplainable , we ensure that AI systems are fair, transparent,
+and accountable. This approach aligns with the principles of software freedom andfairness ,
+ensuring that AI technologies serve the public good rather than perpetuating harm.
+Policymakers and Third-Party Audits
+1. Conflict of Interest in PolicymakingProblem Statement :
+Policymaking in AI regulation is often influenced by individuals or organizations with vested
+interests, leading to decisions that prioritize profit over public good. This undermines public trustand results in policies that fail to address the ethical challenges of AI development.
+Proposal :
+●No Conflict of Interest : The policymaking team should be composed of individuals who
+do not stand to benefit financially or professionally from the decisions they make. This
+ensures that policies are designed to serve the public interest, not private agendas.
+●Transparent Selection Process : The selection of policymakers should be open and
+transparent , with clear criteria to prevent conflicts of interest. The public should have
+the opportunity to scrutinize and provide input on the selection process.
+●Independent Oversight : Establish an independent oversight body to monitor the
+policymaking process and ensure compliance with ethical standards.
+Justification :
+Public trust in AI regulation depends on the integrity and impartiality of policymakers. Whenindividuals with conflicts of interest are involved, policies risk being skewed in favor of corporateprofits rather than public welfare. By ensuring a conflict-free policymaking process , we can
+build trust and create regulations that truly prioritize ethical AI development.
+2. Third-Party Audits
+Problem Statement :
+Without independent oversight, companies may cut corners in data collection, preprocessing,
+
+
+and model development, leading to privacy violations, biased outcomes, and unethical
+practices. Proprietary systems, which operate in secrecy, are particularly prone to such issues.
+Proposal :
+●Mandatory Third-Party Audits : Require independent auditors to review datasets,
+preprocessing steps, and model development processes to ensure compliance with
+ethical and legal standards.
+○Public Accessibility of Audit Results : The results of these audits should be
+made publicly accessible , allowing individuals, researchers, and policymakers
+to verify that AI systems are being developed responsibly.
+○Accountability for Auditors : Auditors should be held accountable for their
+findings, with penalties for negligence or collusion with companies.
+●Open Source Auditing Tools : The tools and methodologies used for audits should be
+open source , ensuring transparency and allowing the public to scrutinize the auditing
+process.
+Justification :
+Third-party audits are essential for ensuring accountability and transparency in AI development.However, without open source tools andpublicly accessible results , audits can become
+performative rather than substantive. By mandating independent audits and making their resultstransparent, we can hold companies accountable and build public trust in AI systems.
+Tech Companies and Social Media Platforms
+1. Prohibition on Using Platform Data for AI TrainingProblem Statement :
+Tech companies that own social media platforms often use the data collected from their users to
+train proprietary AI models. This practice raises serious ethical concerns, as users are rarelyaware of how their data is being used, and consent is often obtained through dark patterns .
+Proposal :
+●Clear Separation of Data Usage : Tech companies should be prohibited from using data
+collected from their social media platforms to train AI models without explicit, informed
+consent .
+●Penalties for Dark Patterns : Companies that use dark patterns to manipulate users into
+sharing data should face significant penalties , including fines proportional to their
+revenue and restrictions on data collection activities.
+●Transparency in Data Usage : Companies must clearly disclose how user data is being
+used, stored, and shared, with plain-language explanations that are accessible to allusers.
+
+
+Justification :
+Using platform data for AI training without explicit consent violates user autonomy and
+undermines public trust. Dark patterns, which manipulate users into sharing data, exacerbate
+this issue by exploiting behavioral psychology. By enforcing strict penalties and requiringtransparency, we can ensure that tech companies prioritize user rights over profits.
+2. Ethical Use of Social Media Data
+Problem Statement :
+Social media platforms collect vast amounts of personal data, often without users fully
+understanding how it will be used. This data is frequently used to train AI models, leading toprivacy violations and biased outcomes.
+Proposal :
+●Ethical Guidelines for Data Usage : Establish clear ethical guidelines prohibiting the
+use of social media data for AI training without explicit consent androbust
+anonymization .
+●Open Source Audits : The datasets used to train AI models should be open source ,
+allowing independent auditors to verify that they were obtained ethically and with proper
+consent.
+●Public Accountability : Companies should be required to publish annual transparency
+reports detailing how user data is used, including any AI training activities.
+Justification :
+The misuse of social media data for AI training undermines privacy andfairness , eroding
+public trust in both tech companies and AI technologies. By enforcing ethical guidelines andrequiring open source audits , we can ensure that AI development aligns with societal values
+and respects user rights.
+
+

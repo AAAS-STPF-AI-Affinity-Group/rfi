@@ -1,0 +1,31 @@
+From: Owen Biesel
+To: ostp-ai-rfi
+Subject: [External] AI Action Plan
+Date: Saturday, March 15, 2025 10:57:54 PM
+CAUTION: This email originated from outside your organization. Exercise caution when opening
+attachments or clicking links, especially from unknown senders.
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the governmentin developing the AI Action Plan and associated documents without attribution.
+I am a mathematician, university professor, and U.S. citizen. I absolutely object to the idea
+that the U.S. should remove barriers to "sustaining and enhancing America's AI dominance."The U.S. has an opportunity to improve quality of life for its citizens by tightening regulationson AI, not by loosening them. We need stricter controls around energy usage, training dataselection, model transparency, and consumer pricing models.
+In looking to the future of our nation's relationship with AI, one of the biggest factors we
+should be considering is how much it is worsening our impact on climate change. Training andrunning larger and larger models consumes vast quantities of energy -- so vast, that AIdatacenters are bidding up the cost of renewable energy, making it less affordable forAmerican households and leading coal and other fossil fuel plants to stay open past theiroriginally scheduled shutdowns. Restrictions on energy usage per user request (includingtraining costs amortized over the period between model updates) would help ensure that U.S.AI companies don't make needlessly energy-inefficient models with hidden environmentalcosts for American people.
+Another area where lack of regulation is currently hampering AI's progress is in the lack of
+transparency around data sets. There is no reliable benchmark to compare model performanceon various tasks, because the overwhelming majority of AI products have no reason todisclose their training sets. We would have a much better sense of which models are trueimprovements, and which methods yield better updates, if we were able to compare modelswhile sure that they were not trained on the question-answer pairs that we are also using toevaluate them. (This is a fundamental principle of machine learning: that the data sets used totrain, fine-tune, and ultimately test the performance of computer models must be kept separateor the models will underperform in new situations. It is also a principle that AI companieshave no interest in following, as secretly testing on their training data inflates their test scores.)Being more open about training sets would also encourage AI companies to use smaller,higher-quality data sets, rather than using too-broad training sets and then having to hope thatthe lower-quality outputs can be (expensively) fine-tuned away, with no guarantees.
+Generative AI companies would also better benefit the U.S. by being forced to have their
+outputs point to the original sources that most contributed to them. This is a major technicaldifficulty for current models: they are primarily trained on human creative work that is then"forgotten" except in how they update the model weights. (Large language models only retainon the order of a single bit of information per sample text, but only on average: many similartexts may make no difference at all to the model, but a highly unique passage may be retainedalmost word-for-word and appear in output as if it is generated on the fly.) However, if theU.S. develops AI models that can reliably point users toward the original information that
+
+
+informs their output, it would be beneficial in two ways: first, users would be better able to
+evaluate the context and trustworthiness of the information; and second, to avoid "model
+collapse," updates to AI models depend on the continued existence of human creative workthat serves as training data, and pointing back to that original human work helps to show theimportance of continuing to employ human creators.
+We also need to step up enforcement of regulation around AI corporations' predatory pricing
+activities. OpenAI loses billions of dollars on ChatGPT every year, even as it advertises thatits productivity gains will save employers money (presumably by laying off their staff orreducing wages for less-skilled work). But the only way these facts can be reconciled is ifOpenAI plans to dramatically raise prices after subscribing companies no longer have accessto the skilled labor they have let go. The result will be more expensive products for consumerswith reduced wages: not a recipe for American flourishing. 
+AI spokespeople will tell you that they need regulations removed in order to allow for
+innovation and progress. In fact, regulations are not impeding progress; they make it possible,and more regulation would let America lead the way on the world AI stage.
+Sincerely,
+Owen BieselAssociate Professor of MathematicsSouthern Connecticut State UniversityNew Haven, CT
+All e-mails to and from this account are for NITRD official use only and subject to certain disclosure
+requirements.If you have received this e-mail in error, we ask that you notify the sender and delete it immediately.
+
+

@@ -1,0 +1,817 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-sedv-kbnv
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-3147
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Inform ation Technology Industry Council
+General Comment
+Please find attached com m ents from  the Inform ation Technology Industry Council (ITI).
+Attachments
+ITI Response to OSTP AI Action Plan FINAL
+ITI Response to OSTP AI Action Plan FINAL v2
+
+
+Promoting Innovation Worldwide
+ITI Comments to OSTP RFI on an AI Action Plan  
+Executive Summary  
+The Information Technology Industry Council (ITI) welcomes the opportunity to provide 
+feedback to the Office of Science and Technology Policy (OSTP) on an AI Action Plan. Representing the world’s leading technology companies, ITI advocates for policies that foster innovation, strengthen national security, and enhance public trust. Below we summarize our key recommendations to support responsible AI development and maintain U. S. leadership in AI technology: 
+Innovation & Inv estment : The Trump Administration should expand access to federal 
+datasets, finalize CHIPS Act awards, and extend tax credits for chip design. Codifying the National AI Research Resource and streamlining energy infrastructure permitting will be essential. Supporting open-source AI while addressing security risks, strengthening STEM education, and improving high-skilled immigration pathways will reinforce U.S. leadership.  
+Nat ional & Economic Security : To balance national security and global competitiveness, 
+the Administration should implement risk-based export controls for  advanced AI models. 
+Withdrawing the BIS IFR on AI Diffusion and  commencing a new rulemaking process will 
+protect national security withou t undermining U.S. and technological leadership. AI should 
+also be used to strengthen cybersecurity across federal agencies and critical infrastructure, while trade agreements should secure market access for U.S. AI technologies.  
+Fostering Public Trust : Building trust in AI requires maintaining the functions of NIST’s AI 
+Safety Institute for model testing and fostering voluntary public-private partnerships. The Administration should promote industry adoption of the AI Risk Management Framework and international standards , while working to advance preemptive privacy legislation.  
+Federal Procurement & Government  Adoptio n: To modernize government technology, 
+the Administration should prioritize commercial AI solutions, standardize procurement, and streamline acquisition. Investing in AI workforce development and accelerating authorization pathways for emerging technologies will help agencies maximize AI’s benefits. 
+International Collaboration : Globally, the Administration should lead AI safety efforts 
+through the International Network of AI Safety Institutes and engage in multilateral forums 
+like the OECD, G7, and G20. Strengthening U.S. leadership in ISO/IEC standards work and 
+expanding AI capacity-building in developing nations will advance democratic AI principles and reinforce U.S. influence in AI governance.  
+ITI stands  ready to collaborate with the Administration to develop an AI Action Plan that 
+fosters innovation, safeguards U.S. interests, and cements America’s AI leadership. 
+
+
+2 
+March 15, 2025 
+Re: ITI Response to Office of Science and Technology Policy  Request for 
+Information on the Development of an Artificial Intelligence (AI) Action 
+Plan  
+Dear Mr. D’Souza, 
+The Information Technology Industry Council (ITI) welcomes the opportunity to provide 
+feedback to the Office of Science and Technology Policy at the White House on the development of an AI Action Plan.
+1 
+ITI represents the world’s leading information and communications technology (ICT) companies. We promote innovation worldwide, serving as the ICT industry’s premier advocate and thought leader in the United States and around the globe. ITI’s membership comprises leading innovative companies from all corners of the technology sector, including hardware, software, digital services, semiconductor, network equipment, and other internet and technology -enabled companies that rely on ICT to evolve their 
+businesses. Artificial Intelligence is a priority technology area for our member companies, who are both developing and using the technology to evolve their businesses. 
+ITI is committed to fostering the responsible development and deployment of AI across the 
+entire AI value chain, which includes developers, deployers, integrators, and end users . 
+We have been actively engaged in shaping AI policy around the world. In 2021, we issued a set of Global AI Policy Recommendations, aimed at helping governments facilitate an environment that supports AI while simultaneously recognizing that there are challenges that need to be addressed as the uptake of AI grows around the world.
+2 In 2022, we also 
+published our Global Policy Principles for Enabling Transparency of AI Systems,3  in which 
+we underscore that transparency is a critical part of developing and deploying accountable and trustworthy AI systems and supporting adoption of AI systems in the wider economy, while avoiding unintended outcomes or other harmful impact. We have also actively worked to inform the efforts of the National Institute of Standards and Technology (NIST)
+4 
+to create an AI Risk Management Framework (RMF) and have consistently contributed to the debate in the EU on its AI Act. We released our AI Accountability  Framework in July 
+2024, which in addition to outlining the key roles of different actor s in the AI value chain, 
+1 This document is approved for public dissemination. The document contains no business -proprietary or 
+conﬁdential information. Document contents may be reused by the government in developing the AI Action 
+Plan and associated documents without attribution.  
+2 Our complete Global AI Policy Recommenda tions are available here: 
+https://www.i tic.org/documents/ar tiﬁcial -intelligence/ITI_GlobalAIPrinciples_032321_v3.pdf  
+3 Our complete Policy Principles for Enabling AI Transparency of AI Systems are available here: 
+https://www.i tic.org/documents/ar tiﬁcialintelligence/ITIsPolicyPrinciplesforEnablingTransparencyofAISystem
+s 2022.pdf  
+4 See ITI response to RFI on AI RMF  here:   
+
+
+3 
+demonstrates practices we believe are key to advancing the responsible development and 
+deployment of AI systems.5  
+We encourage OSTP to think through AI priorities through the lens that we lay out in our Global AI Policy Recommendations, and which we believe remain relevant today: innovation and investment; facilitating public trust in and understanding of the technology; and  international collaboration.
+6 We have also added a specific section on upholding U.S. 
+national and economic security. We organize our response along these lines.  
+I. Innovation and Investment
+We appreciate that the Trump Administration has made clear it will take a pro-growth, pro-worker approach to U.S. AI policy. To support such an approach, it is critical that the Administration develop a holistic framework to support both innovation and investment in the technology, from empowering the American workforce to promoting increased access to federal datasets, AI infrastructure, and compute. Below, we offer a series of suggestions that the Trump Administration should consider in the development of its AI Action Plan:  
+Access to Data, Infrastructure, and Compute 
+The Trump Administration should:  
+Support policies that support increased access to federal data, infrastructure, and 
+compute. Data is foundational to AI innovation as one major component of AI systems. By leveraging large and diverse datasets and increased computing power and ingenuity, AI developers and other stakeholders will be able to innovate and find solutions to meet the needs of individuals and society in unprecedented ways. More available data means more inputs with which to train algorithms, resulting in higher quality AI offerings. As such, the Administration should prioritize efforts to make more federal datasets available in machine -readable formats , leveraging privacy -preserving techniques.  
+Promote the voluntary adoption of existing internationally accepted industry-driven standards regarding data governance and data quality, and enable the development of 
+new internationally accepted industry-driven standards for data quality. In addition to 
+making government data available in machine-readable formats, governments may also be 
+able to curate widely available data as labeled, diverse, representative, quality data for the purposes of training corresponding AI.  
+Establish opportunities and resources for companies of all sizes to partner with 
+federal research centers focused on AI R&D, including the  National AI Research 
+Resource (NAIRR) -- a shared national research infrastructure that provides AI researchers, small business owners, and students with greater access to the compute resources, data, and tools needed to develop safe and trustworthy AI. The NAIRR serves as an instrumental 
+5 https://www.itic.org/documents/artiﬁcial -intelligence/AIFIAIAccountabilityFrameworkFinal.pdf  
+6 Our complete Global AI Policy Recommendations are available here: 
+https://www.itic.org/documents/artiﬁcial -intelligence/ITI_GlobalAIPrinciples_032321_v3.pdf  
+
+
+4 
+resource that will benefit critical sectors of the U.S. economy by enabling companies 
+integrate AI  solutions into their business applications, and therefore the Trump 
+Administration should call on Congress to advance legislation that would codify the NAIRR. Specifically, ITI supports the bipartisan, bicameral CREATE AI Act, which would establish the NAIRR under the direction of the National Science Foundation.
+7 If authorized, 
+the NAIRR could provide AI testbeds, open-source models, and high-powered computational tools, all adhering to existing open standards, to academics, researchers, 
+and small-and-medium-sized enterprises, which can in turn accelerate the pace of AI research and development, supporting American innovation. 
+Create an enabling environment for AI adoption and uptake.  While computing power 
+and data access are vital for U.S. AI leadership, widespread economic gains require 
+creating a supportive environment for smaller enterprises and individuals to leverage AI effectively. The Administration should focus on accelerating adoption by identifying sector-
+specific barriers, establishing innovation ecosystems that connect businesses of all sizes 
+with research institutions, facilitating partnerships between SMEs and AI solution 
+providers, and offering financial incentives such as grants and tax benefits. These coordinated efforts will help overcome the significant adoption challenges faced by smaller organizations, including limited understanding of specialized AI applications, difficult ies integrating trust frameworks, financial constraints, and restricted access to 
+knowledge networks.  
+Prioritize incentives for AI chips to be manufactured and designed in the United States. Semiconductors are essential for the development of AI technology, particularly 
+advanced chips (logic and memory), and we encourage the Administration to continue to prioritize incentives for the development of advanced and legacy chips in the United States 
+to bolster US national security and remain at the leading edge of AI development . This 
+includ es finalizing awards under the incentives program of the CHIPS and Science Act of 
+2022 (CHIPS Act). The CHIPS Act also provided an investment tax credit (ITC) of 25% for 
+qualified investments in facilities that manufacture semiconductors or semiconductor 
+manufacturing equipment. As a part of this, we encourage the Administration to consider extending credits to chip design, as it is a crucial R&D activity that impacts the value and function of a semiconductor device. U.S. policymakers should do everything they can to incentivize even more industry investment in chip R&D and design by expanding and extending the ITC for these investments. It is precisely because of these investments in R&D and chip design that the U.S. chip industry has led the world in advances in chip design. Complementary investments in the broader ecosystem for AI servers and PCs  
+manufactured in the US are also important to maintaining our country’s leadership.
+  
+Prioritize investments in the U.S. Government’s infrastructure to support the 
+advancement of AI research and development. As the U.S. private sector spearheads 
+cutting -edge AI innovations, the federal government must play a pivotal role in steering 
+these advancements to enhance national security, economic security, accelerate 
+7 https://www.congress.gov/bill/118th -congress/house -bill/5077  
+
+
+5 
+scientific progress and transform the mission of federal agencies including the 
+Department of Energy and Department of Defense. These agencies already have the 
+facilities, a world -class scientific workforce, and data, however, lack the advanced 
+computing resources needed to support the development of frontier AI models critical to 
+ensuring the United States remains the global superpower in AI. This approach maximizes 
+efficiency, safeguards taxpayer dollars, and accelerates AI innovation.  
+Energy and Infrastructure 
+With both the public and private sector developing and adopting emerging technologies, 
+including AI, the demand for energy to power this nascent technology will continue to  
+increase. Existing infrastructure likely will not support this increased demand long term. To 
+meet this surge in demand and maintain the U.S. position as the global leader in AI, the Administration must plan for and invest in solutions that support the development of reliable and resilient infrastructure responsible for powering the modern technologies needed to bolster U.S. economic and national security. The Trump Administration should 
+take steps to enact policies that strengthen the electrical grid, remove regulatory 
+barriers to siting and permitting, and promote an all -of-the-above energy strategy that 
+encourages and enables innovations in the efficient generation,  distribution, and use 
+of power. 
+Federal permitting processes are unnecessarily burdensome and have blocked or delayed 
+new energy projects across the U.S. The Administration should work with Congress to streamline permitting processes to accelerate critically needed upgrades to U.S. energy 
+infrastructure, especially for projects that modernize the aging U.S. electric grid and facilitate the deployment of advanced nuclear, including small modular reactors. The Administration should expedite the processes that enable efficient energy development and use, distribution, and interregional transmission line siting, facilitate critical mineral access, and reform the laws that allow projects to be derailed or delayed by potentially frivolous lawsuits. We also encourage the Administration to adopt a long-
+term strategy for ensuring a sufficient energy supply to meet the government’s growing power needs.  
+The Administration should also support policies that enable the efficient operation of 
+the data center itself  (i.e. the demand side) by leveraging existing technology, including 
+workload management to dynamically allocate computing resources, advanced virtualization technologies, hardware optimization, energy-aware software design, smart power management, purpose-built cooling systems, and AI-driven cooling management. Furthermore, to promote innovation in data center operations, appropriate hardware and software systems should allow for interoperability.    
+It should also keep in mind the critical role that connectivity infrastructure plays in 
+supporting AI development and deployment. Robust network infrastructure, including 
+optical fiber, fiber optic cable, wireless, and connectivity products, is essential to manage 
+increased data flows from the training and deployment of AI, as is high-speed, low-latency 
+
+
+6 
+internet access so that all U.S. businesses and individuals can access and leverage AI-
+enabled tools. 
+The Trump Administration can advance a dynamic, innovative AI ecosystem by 
+encouraging a diverse technological landscape that includes both open-source and 
+proprietary  solutions, while  supporting  standards that ensure hardware and software 
+interoperability. This approach will foster innovation and  accelerat e the adoption of AI 
+solutions . A competitive and flexible AI infrastructure environment will strengthen U.S. 
+leadership in AI. Additionally, as a buyer and investor in AI infrastructure, the federal government can strategically support technologies that best meet its needs while encouraging continued innovation across various sectors.  
+Finally, the Trump administration should consider adopting policies that support 
+diverse AI deployment models, including distributed computing approaches . These 
+alternative computing architectures can enable processing closer to data sources, 
+potentially reducing centralized infrastructure demands while optimizing resource use. As 
+computing capabilities advance, various deployment models offer different bene fits in 
+speed, security, and efficiency that could serve commercial entities, sensitive sectors like healthcare and defense, and the national security and intelligence communities. 
+Open-Source AI 
+Open models present opportunities, advancing innovation and competition. These models 
+allow a wider swath of businesses and researchers to participate in research and 
+development and leverage AI for creative and unique applications. Further, open-source foundation models have become a cornerstone of generative AI innovation. At the same time, open models may introduce marginal risk, depending on which component parts of foundation models are made open. We encourage the Administration to leverage NTIA’s report on Dual-Use Foundation Models with Widely Available Model Weights in informing any future policy approaches.
+8 In particular, the Administration should consider 
+enacting policies that support continued innovation, while also advancing discussions around what appropriate transparency,  security and safety practices look 
+like in this context.  
+Intellectual Property & Copyright 
+The protection of intellectual property is crucial to both the development of 
+groundbreaking AI models, and for protecting rightsholders and the creative ecos ystem. A 
+balanced approach is therefore necessary to achieve these dual aims of enabling AI developers to legally access publicly available data, including content available on the open web, while putting in place safeguards to comply with relevant privacy or copyright legal frameworks. Although we recognize that there are ongoing legal cases being litigated  
+in the United States, we encourage the Administration to consider the following: 
+The Administration should therefore support a copyright framework that balances the 
+rights of  rightsholders while maintaining the longstanding  fair use doctrine. Further, as 
+8 https://www.ntia.gov/programs -and -initiatives/artiﬁcial -intelligence/open -model -weights -report  
+
+
+7 
+referenced above, we support increasing access to government-held or government-
+supported data to bolster AI development, especially if shifting global copyright policies limit developers’ access to training data. The Administration should likewise push back on efforts by foreign governments to apply their domestic copyright regimes extraterritorially. 
+Preemption  
+The technology industry is increasingly concerned about the growing number of state 
+legislative proposals to regulate AI.  There is a risk that a tidal wave of state legislative 
+activity could undermine the Administration’s state d goals of avoiding the overregulation 
+of AI and promoting technological preeminence. At least three states have passed AI 
+legislation, and more than 700 bills have been introduced in 2025 so far. To ensure that the 
+U.S. remains a global leader in AI, it is critical that the Administration work with Congress to explore opportunities to develop a unified, risk -based standard for AI 
+development and deployment  that pre -empts state level regulation. In particular, the 
+Administration should clarify if and where existing legal regimes address risks that are of 
+concern to policymakers, encourage further adoption of the AI RMF, and build upon critical 
+guidance issued under the first Trump Administration (M-21-06 Guidance for Regulation of AI Applications).  
+We further discuss the key role of a preemptive privacy framework on p. 11. Workforce and Talent 
+The U.S. should take steps to produce sufficient STEM and AI talent to supply the 
+United States market. AI is highly valuable to U.S. commercial endeavors, to U.S. national security, and to society, so specialists in AI R&D are valuable scientists and technologists. However, the demand for such specialists far outweighs the current supply. Efforts to improve STEM education at all levels, promote STEM professions, and continuing to attract and retain international talent are especially important.   
+To address the AI workforce shortage, policymakers should focus on initiatives that 
+support AI education and reskilling programs, incentivize companies to invest in AI talent development, and facilitate collaboration between academia, industry, and governm ent to 
+create a robust AI talent pipeline. Such efforts should include:  
+•Investing in AI education and training programs:  Policymakers should support
+accessible AI courses at various levels, from introductory to advanced, acrosseducational institutions. Further, the Administration should support  developmentof AI curriculum for K-12 education to build foundational understanding of AIconcepts. This includes encouraging online learning platforms and M assive Online
+Open Course s to provide readily available AI training options.
+•Supporting reskilling and upskilling initiatives:  Policymakers should  support
+workforce retraining programs to equip existing workers with necessary AI skills totransition into AI -related roles. This includes encouraging employers to offer
+internal training programs to upskill their workforce in AI applications relevant to
+their industry.
+
+
+8 
+•Industry -academia partnerships:  Foster collaborations between universities and
+companies to develop practical AI research projects and internship opportunities
+for students.  Establish research centers focused on emerging AI technologies and
+talent development.
+•Tax incentives and grants:  Offer tax breaks to companies that invest in AI research
+and development, including employee training in AI skills. Provide grants to startupsand small businesses to support their AI development efforts and hiring of AI talent.
+•Skill-gap analysis and workforce planning: Conduct regular assessments toidentify current and future AI skill needs across industries to inform policydecisions.  Collaborate with industry leaders to develop standardized AI
+competency frameworks. Promote and support AI products that can help enhanceand supplement knowledge gaps within the current workforce.
+• H-1B Visa Program Reforms: ITI has long advocated for high -skilled immigration
+reforms that supplement and augment the talented U.S. workforce needed forcontinued U.S. leadership on technology innovation and further business and job
+creation. ITI will continue to advocate for H -1B visa program reforms that ensure
+that the number of available H-1B visas  adjust  to meet market demands, support
+U.S. economic and nati onal security interests, and promote additional protections
+for nonimmigrant employees such as H-1B portability.
+II. Upholding U.S. National and Economic Security
+We appreciate that there are national security  concerns related to the proliferation of 
+advanced AI chips and the most advanced AI models, and that more broadly, there are 
+concerns about the potential misuse risks of advanced AI models. At the same time, in order to maintain U.S. technological leadership, the United States must ensure that 
+policies are appropriately calibrated so as not to cede this leadership position to adversarial nations all too willing to step in. 
+Export Controls 
+Adopt targeted, risk -based AI export controls to protect national s ecurity and 
+maintain U.S. competitiveness. The Trump Administration should ensure that export 
+controls are targeted and risk-based in order to prevent adversarial uses that pose national  
+security risks while preserving U.S. leadership and global competitiveness. Such an approach should protect U.S.-developed IP against state-sponsored industrial espionage and theft, while promoting the broad deployment of U.S.-developed compute, models and other infrastructure . In particular, export controls focused on AI model weights and 
+compute power should be targeted based on risk ensuring that allies can still rely on U.S. 
+suppliers and access U.S.-produced goods and services. We encourage the Trump Administration, and BIS in particular, to withdraw  the Interim Final Rule (IFR) on a 
+Framework for AI Diffusion and open a new, deliberative rulemaking process with 
+
+
+9 
+stakeholders  to protect national security without undermining U.S. companies’ of all sizes 
+ability to compete globally.9 
+ AI & Cybersecurity  
+Prioritize the use of AI for cybersecurity purposes. The Trump Administration should 
+highlight the key role that AI can play in improving cybersecurity efforts. Indeed, AI systems 
+can be used to support threat modeling, security risk management, and cyber defense strategies.  
+Advance  policies that support AI-driven cybersecurity for critical infrastructure. AI 
+should be integrated into federal and critical infrastructure cybersecurity operations to 
+provide automated, adaptive, and scalable security solutions. AI can help detect system misconfigurations, unauthorized access attempts, and cyber vulnerabilities in cloud-based environments, ensuring that government agencies and private sector organizations can quickly respond to evolving threats. Investment in automated security incident 
+response and self-healing AI systems will strengthen national cybersecurity preparedness. 
+Encourage the adoption of techniques that improve AI security. While AI and 
+automation enrich the overall security posture of organizations, AI applications and models themselves must be secured. A commitment to embedding security and risk management into the AI development life cycle and a secure-by-design approach are vital to managing and deploying secure AI tools.
+ The Administration should support 
+cryptography and secure AI model training techniques, such as data encryption and secure multi-party computation, should be prioritized to protect AI systems from adversarial attacks. As well, it should deploy and support AI threat detection capabilities to counter the rising use of AI in cyberattacks, including new attack vectors and deepfake phishing schemes that pose emerging national security risks.  Further, regulatory frameworks should avoid overly restrictive measures that could stifle industry efforts to develop robust AI-driven security solutions. Supporting internationally accepted, industry-driven security 
+standards can enhance  consistency in AI safety, security, and risk management. 
+Assess the reliability and security of advanced AI models developed by adversarial nations.  Ensuring the trustworthiness of open-source AI models originating from countries of concern should be an Administration priority. CISA, in coordination with the U.S. AI Safety Institute or a successor body, should be directed to investigate the reliability, security, and data flows  of advanced AI models from foreign adversaries. Testing results 
+should be shared through threat intelligence channels so that U.S. companies can accurately assess the risk of leveraging such models. 
+9 While all of our members believe the rule should be reviewed/reconsidered through a deliberative process, 
+some believe the Administration can use the existing rule as a starting point and modify it, while others prefer 
+withdrawal of the rule in its entirety and starting afresh . We look forwa rd to providing further 
+recomm endations  about the rule  through the open  Commerce/BIS proceeding.  
+
+
+10 
+Trade Policy 
+Pursuing trade fairness secures U.S. exporters’ access to foreign markets and encourages 
+investment in the United States. ITI encourages the Trump Administration  to negotiate 
+robust, binding commitments that facilitate trade through new bilateral and multilateral market access agreements  and establish an open operating environment 
+that enable s the broadest range of U.S. companies to compete overseas on an even 
+playing field, particularly for critical technologies such as AI. During President Trump’s first term, the United States Trade Representative (USTR) set the platinum-standard for digital trade commitments through negotiation of the United States-Mexico-Canada Agreement (USMCA) and the U.S.-Japan Digital Trade Agreement. 
+Securing market access allows U.S. exports to reach a global marketplace, further 
+diversifies supply chains, and increases U.S. exports. Trade commitments should aim to reduce tariffs and non -tariff barriers on U.S. exports, promote acceptance of international 
+certification and conformity assessments over requirements to conduct country-unique 
+reviews, and counter local content requirements. 
+The government should carefully consider any new tariffs or other restrictions to trade to 
+avoid actions that would harm the domestic economy or undermine global competitiveness of firms operating in the U.S., such as tariffs on technology products and inputs essential to development and deployment of AI.  
+III. Facilitating Public Trust in AI Technology
+The Trump Administration, in its AI Action Plan, should continue to highlight the important role that public trust plays in adoption of AI technology . In particular, we encourage the 
+Trump Administration to build upon AI efforts undertaken during its first term, especially as outlined in OMB memo M-21-06. We were also very supportive of efforts under the first Administration to advance the National AI Initia tive Act, including the National Institute of 
+Standards and Technology’s development of the AI Risk Management Framework 1.0. 
+Therefore, the Administration should: 
+Support the ongoing AI work of the National Institute of Standards and Technology 
+(NIST), including that being undertaken at the U.S. AI Safety Institute. Consistent with the letter we sent to Secretary Lutnick on March 13, 2024, we encourage the Trump 
+Administration to continue to support the work taking place at NIST.
+10  
+•Maintain core functions of the NIST U.S. AI Safety Institute, prioritizing working
+with industry to advance efforts focused on identifying and managing nationalsecurity risks. NIST has played a critical role in the international conversation on AI
+safety and its core work should continue. In particular, we recommend that theTrump Administration prioritize activities focused on evaluating, testing, andmanaging risks presented by dual-use found ation models specific to cybersecurity,
+biological and chemical weapons, and system autonomy. The AISIs’ testing and
+10 Read ITI and CTA ’s letter here : 
+
+
+11 
+evaluation capabilities of the most powerful AI models have been particularly 
+impactful in helping developers test their models for national security risks, ensuring that identified risks are mitigated before being placed on the market. Companies’ agreements with the AISI have been entirely voluntary and members have found that this type of collaboration exemplifies the best of public-private partnership. 
+•As a part of this, we encourage the Administration to continue to partner with AI
+labs to jointly research national -security related risk s associated with frontier
+AI models .
+•Prioritize investment in additional research aimed at measuring AI risk.Measuring AI risk remains somewhat challenging because of a current lack ofindustry consensus on robust and verifiable methods that can be applied todifferent AI systems and the differing impacts in various industry sectors. Also,because of the evolving nature of AI we are still learning about risks, their likelihoodof occurrence, the potential severity, and how to measure them. Guidance aroundwhat to do in an instance where it may not be possible to measure an AI riskadequately would be helpful.
+Encourage the adoption of international standards and best practices, as well as the AI Risk Management Framework, which can help to manage risks associated with AI systems . Voluntary international technical standards play a crucial role in fostering 
+alignment, interoperability, and trust in AI systems. An example of this is ISO/IEC 42001, which provides a management system for organizations in managing AI risks and opportunities associated with AI. These standards serve as invaluable tools in supporting the development, deployment and use of AI, along with structured processes and 
+guidance for risk management and governance. By establishing such benchmarks, they 
+facilitate innovation and technological advancement, balanced with governance practices for organizations .  
+Consider roles and responsibil ities of stakeholders across the AI value chai n. There 
+are multiple stakeholders in the AI value chain that each play a role in the development and deployment of AI in a responsible manner. In thinking through appropriate AI policy approaches, the Administration should  ensure it is  consider ing the range of  actors. 
+Responsibilities should be allocated  based on a stakeholder’s role and function in the AI 
+value chain. In particular, the Administration should keep in mind that risk management is a shared responsibility. While we believe that all organizations in the value chain should adopt practices focused on driving accountability, specific tools, mechanisms, practices, or obligations should be scoped based on the level of risk posed and relevant context. 
+Prioritize the passage of comprehensive, preemptive federal privacy legislation  to 
+provide a unified, national framework for responsible data business practices . A 
+comprehensive, risk-based federal privacy legislation  would  help support a strong U.S. AI 
+ecosystem. A clear and flexible national privacy standard would simplify and strengthen 
+data management practices across the economy and provide a firmer foundation to advance trustworthy AI.  
+
+
+12 
+IV. Procurement & Federal Adoption
+ITI appreciates that this Administration recognizes the potential of AI to enhance 
+government efficiency, improve citizen service delivery, reduce waste, and bolster U.S. 
+technological leadership in an increasingly competitive global landscape. To accomplish these goals, we encourage this Administration’s action plan to foster an innovation -
+friendly environment that promotes robust competition in the federal marketplace. We were supportive of the first Administration’s approach outlined in Executive Order 13859, Maintaining American Leadership in Artificial Intelligence, which encouraged federal agencies to reduce barriers to government acquisition and use of AI. Below, we offer a few recommendations for this Administration to consider as it looks to leverage the benefits of AI to modernize the government’s technology infrastructure: 
+Prioritize the acquisition of commercial AI solutions using commercial purchasing 
+authorities, terms, and conditions. Government acquisition processes must be 
+modernized to match the pace of technological change and enable more efficient procurement of commercial AI solutions. While the government has a diverse set of tools in place for purchasing commercial technology, emerging technologies — such as AI — will require the right blend of traditional and non-traditional procurement strategies. The administration should encourage federal agencies to use the tools already at their disposal to make great contracting decisions, which includes policies and procedures outlined in FAR Part 12 through FAR Part 15, as well as tools such as the Commercial Solutions Opening (CSO) authorities and procedures and Other Transaction Authority (OTA) procurements.  
+Furthermore, the Administration should encourage the use of commercial licensing terms 
+of service for IT, in harmonization with existing terms used across U.S. federal public sector commercial contracting. Agency leadership should encourage the adoption of standard commercial terms for AI and GenAI procurement as much as possible.
+11 For 
+instance, existing technology contracts include a Customer Agreement and Service Terms, which have standard IP clauses that may already apply to AI services used across the 
+government. Using industry-standard terms, conditions, and pricing models that support 
+the private sector’s ability to innovate will accelerate acquisition timelines and place new and innovative capabilities in the hands of the federal workforce more quickly. The current lengthy (often 12-18 months) federal acquisition process does not match the speed of AI innovation as solutions are frequently outdated or even “end of l ife” by the time they are 
+finally procured and deployed.  
+Ensure the federal government has the appropriate resources to attract, train, 
+empower and retain a skilled AI workforce. Modern government operations require a skilled, technology -savvy workforce capable of managing complex technology 
+procurements and implementations. With the rapid pace at which new AI products and 
+11 See FAR 12 .213.  
+
+
+13 
+services are entering the market, the federal government must invest in its human capital 
+and tools to support them (from recruitment to retention) to ensure that the government is well-versed in the latest technological innovations that can transform an agencies’ mission. 
+If the U.S. government is to fully leverage the benefits of this nascent  technology, federal 
+agencies will require a technology -focused workforce that can modernize an agencies’ 
+data environment to allow data to scale, make more efficient use of AI/ML investments, 
+and provide a better understanding of risks associated with various AI models and 
+datasets. This means encouraging civilian, defense, and intelligence agencies to focus on 
+data ontologies, application programming interfaces (API), and fine grain access controls. The U.S. national security and defense community needs reliable AI that provides trusted and relevant, answers to mission-specific questions. The Administration must prioritize data investment to coincide with AI tool procurement and deployment across government. 
+Establish an accelerated process for authorizing emerging technology capabilities to 
+be adopted and used by the government. AI innovation is occurring at an unprecedented 
+rate. To benefit from these private sector innovations, the government needs sufficient agility to capture new technologies and access cutting-edge AI capabilities as they are made available to the commercial marketplace, while maintaining the necessary rigor in ensuring these tools are secure. With the urgent need to update and modernize the government’s technology infrastructure, we encourage the administration to develop accelerated certification and authorization pathways for emerging technologies, like AI, designed to reduce deployment timelines and ensure an agency can use the most effective  
+and efficient  tool for enhancing its mission.  
+Adopt the NIST AI RMF, together with international standards,  across federal agencies 
+as a common framework for evaluating and mitigating AI risk, including the creation of use-case profiles. We urge the government to fully adopt the NIST AI RMF’s flexible 
+approach to evaluating and mitigating risk, rather than the more prescriptive approach outlined in last year’s Office of Management and Budget (OMB) memorandum, M-24-10, which focused on broad categories of “rights-impacting” and “safety-impacting” AI and included an expansive list of use cases and/or sectors captured by those categories. With President Trump’s Executive Order 14179, Removing Barriers to American Leadership in Artificial Intelligence, requiring OMB to review and update M-24-10 to align with this 
+Administration’s action plan, we strongly encourage OMB to consider scoping guidance to “high-risk” applications, as opposed to  “rights-impacting” or “safety-impacting.”
+12  As it 
+12 In July 2024, ITI published our AI Accountability Framework , which included deﬁnitions for a set of key 
+terms commonly used throughout the AI ecosystem. ITI deﬁnes “high -risk” to mean “an AI system that is 
+speciﬁcally designed for or deployed to make decisions that have a legal or similarly signiﬁcant  
+impact on a person’s fundamental human rights, safety, or fair access to basic services (such as housing, 
+employment, lending, education, healthcare, criminal justice, or insurance).  
+https://www.itic.org/documents/artiﬁcial -intelligence/AIFIAIAccountabilityFrameworkFinal.pdf   
+
+
+14 
+currently stands, OMB is defining virtually all applications as high-risk and therefore 
+making it difficult or impossible for federal agencies to adopt AI tools. 
+Finally, the Administration should prioritize cybersecurity as a key element in federal 
+procurement policy , particularly as it r elate s to the purchase of AI-enabled products and 
+services. AI tools can introduce new attack vectors , embolden new actors that previously 
+did not have the technical capability to launch attacks and create unseen vulnerabilities. 
+As such, agencies should consider including contractual terms to ensure that vendors can demonstrate advanced security protection for their AI products and services.  
+V. International Collaboration
+The United States should prioritize international collaboration as a part of it s overall 
+strategy. AI is a borderless technology, and there is a plethora of activity ongoing in different multilateral and bilateral fora to address key questions, challenges, and opportunities related to AI. In order to promote a U.S. vision of AI, it is critical that the Administration take a leadership role in conversations  on AI governance  taking place 
+internationally . Particularly as the European Union, Brazil, Singapore, Canada, and the 
+United Kingdom evolve  their own approaches to AI governance , it is more important than 
+ever that the United States cooperate and work with partners to ensure that said approaches are interoperable and/or aligned to the extent possible .  
+In seeking to achieve that goal , we recommend that the Trump Administration do the 
+following:  
+Retain Chair position of the International Network of AI Safety Institutes. At the November Convening of the International Network of AI Safety Institutes, the United States took on the role of the inaugural Chair. As noted above, we encourage the Administration 
+to maintain the core functionality of the AI Safety Institute, and as a part of that, retain the Chair position within the International Network to drive discussions forward on key themes 
+emerging in the global conversations around advancing AI safety and security research, 
+particularly as they pertain to testing and risk assessments for frontier AI models. 
+Prioritize engagement in multilateral efforts and forums. 
+The United States should 
+prioritize engagement in multilateral bodies like the OECD, G7, and G20 to agree on 
+common foundational pri nciples for AI governance and ensure regulatory interoperability 
+that supports economic growth and innovation.  It should also evaluate how bilateral 
+dialogues might be scaled to be of relevance globally .  In so doing, it should consider how 
+efforts such as this might be expanded to include more robust private sector participation.  
+Support the development of voluntary, consensus-based international standards, 
+such as those developed in ISO/IEC. As we outline earlier in our response, technical 
+standards play a critical role in fostering innovation and engendering public trust in AI technology. Importantly, U.S. technical experts should be at the forefront of informing efforts to develop technical standards and best practices. This process will help drive an open and competitive AI market in the U.S. and overseas. Because the field of AI standards 
+
+
+15 
+continues to evolve, it is all the more important that the USG continues to support U.S.  
+industry leadership in international standards development efforts, specifically ISO-
+IEC/JTC 1/SC 42, where standards are being developed on many aspects of AI. We strongly encourage the Administration to ensure that NIST and other USG experts is appropriately resourced to engage together with the private sector with JTC 1/ SC 42, including to help 
+ensure that the AI RMF and U.S. government practices remain aligned with international standards that are in the process of being developed and that NIST’s research can help inform industry-led international standards development activities as appropriate.  
+Support AI capacity-building efforts in third-countries. In order to support the 
+Administration’s vision of promoting democratic, U.S.-developed AI, it should consider 
+supporting key capacity-building programs in low- and middle-income countries. This helps to promote a U.S. vision of AI governance. ITI was very supportive of the Digital Connectivity and Cybersecurity Partnership Program (DCCP), for example, and would encourage the Administration to consider whether similar programs can be introduced. 
+*** 
+ITI appreciates the opportunity to provide feedback to OSTP as it works to develop an AI Action Plan. We believe that the United States has the opportunity to lead the world in the responsible development and deployment of AI and are committed to working w ith the 
+government, other stakeholders, and the international community to ensure that all can reap the benefits of AI while mitigating potential risks. We look forward to continuing our engagement with OSTP and other U.S. policymakers as the Administration wor ks to 
+develop the AI Action Plan and lay out a vision for U.S. AI policy moving forward . Please 
+reach out to Courtney Lang  (  Vice President  of Policy, with questions. 
+
+
+Promoting Innovation Worldwide
+ITI Comments to OSTP RFI on an AI Action Plan  
+Executive Summary  
+The Information Technology Industry Council (ITI) welcomes the opportunity to provide 
+feedback to the Office of Science and Technology Policy (OSTP) on an AI Action Plan. Representing the world’s leading technology companies, ITI advocates for policies that foster innovation, strengthen national security, and enhance public trust. Below we summarize our key recommendations to support responsible AI development and maintain U. S. leadership in AI technology: 
+Innovation & Inv estment : The Trump Administration should expand access to federal 
+datasets, finalize CHIPS Act awards, and extend tax credits for chip design. Codifying the National AI Research Resource and streamlining energy infrastructure permitting will be essential. Supporting open-source AI while addressing security risks, strengthening STEM education, and improving high-skilled immigration pathways will reinforce U.S. leadership.  
+Nat ional & Economic Security : To balance national security and global competitiveness, 
+the Administration should implement risk-based export controls for  advanced AI models. 
+Withdrawing the BIS IFR on AI Diffusion and  commencing a new rulemaking process will 
+protect national security withou t undermining U.S. and technological leadership. AI should 
+also be used to strengthen cybersecurity across federal agencies and critical infrastructure, while trade agreements should secure market access for U.S. AI technologies.  
+Fostering Public Trust : Building trust in AI requires maintaining the functions of NIST’s AI 
+Safety Institute for model testing and fostering voluntary public-private partnerships. The Administration should promote industry adoption of the AI Risk Management Framework and international standards , while working to advance preemptive privacy legislation.  
+Federal Procurement & Government  Adoptio n: To modernize government technology, 
+the Administration should prioritize commercial AI solutions, standardize procurement, and streamline acquisition. Investing in AI workforce development and accelerating authorization pathways for emerging technologies will help agencies maximize AI’s benefits. 
+International Collaboration : Globally, the Administration should lead AI safety efforts 
+through the International Network of AI Safety Institutes and engage in multilateral forums 
+like the OECD, G7, and G20. Strengthening U.S. leadership in ISO/IEC standards work and 
+expanding AI capacity-building in developing nations will advance democratic AI principles and reinforce U.S. influence in AI governance.  
+ITI stands  ready to collaborate with the Administration to develop an AI Action Plan that 
+fosters innovation, safeguards U.S. interests, and cements America’s AI leadership. 
+
+
+2 
+March 15, 2025 
+Re: ITI Response to Office of Science and Technology Policy  Request for 
+Information on the Development of an Artificial Intelligence (AI) Action 
+Plan  
+Dear Mr. D’Souza, 
+The Information Technology Industry Council (ITI) welcomes the opportunity to provide 
+feedback to the Office of Science and Technology Policy at the White House on the development of an AI Action Plan.
+1 
+ITI represents the world’s leading information and communications technology (ICT) companies. We promote innovation worldwide, serving as the ICT industry’s premier advocate and thought leader in the United States and around the globe. ITI’s membership comprises leading innovative companies from all corners of the technology sector, including hardware, software, digital services, semiconductor, network equipment, and other internet and technology -enabled companies that rely on ICT to evolve their 
+businesses. Artificial Intelligence is a priority technology area for our member companies, who are both developing and using the technology to evolve their businesses. 
+ITI is committed to fostering the responsible development and deployment of AI across the 
+entire AI value chain, which includes developers, deployers, integrators, and end users . 
+We have been actively engaged in shaping AI policy around the world. In 2021, we issued a set of Global AI Policy Recommendations, aimed at helping governments facilitate an environment that supports AI while simultaneously recognizing that there are challenges that need to be addressed as the uptake of AI grows around the world.
+2 In 2022, we also 
+published our Global Policy Principles for Enabling Transparency of AI Systems,3  in which 
+we underscore that transparency is a critical part of developing and deploying accountable and trustworthy AI systems and supporting adoption of AI systems in the wider economy, while avoiding unintended outcomes or other harmful impact. We have also actively worked to inform the efforts of the National Institute of Standards and Technology (NIST)
+4 
+to create an AI Risk Management Framework (RMF) and have consistently contributed to the debate in the EU on its AI Act. We released our AI Accountability  Framework in July 
+2024, which in addition to outlining the key roles of different actor s in the AI value chain, 
+1 This document is approved for public dissemination. The document contains no business -proprietary or 
+conﬁdential information. Document contents may be reused by the government in developing the AI Action 
+Plan and associated documents without attribution.  
+2 Our complete Global AI Policy Recommenda tions are available here: 
+https://www.i tic.org/documents/ar tiﬁcial -intelligence/ITI_GlobalAIPrinciples_032321_v3.pdf  
+3 Our complete Policy Principles for Enabling AI Transparency of AI Systems are available here: 
+https://www.i tic.org/documents/ar tiﬁcialintelligence/ITIsPolicyPrinciplesforEnablingTransparencyofAISystem
+s 2022.pdf  
+4 See ITI response to RFI on AI RMF  here:   
+
+
+3 
+demonstrates practices we believe are key to advancing the responsible development and 
+deployment of AI systems.5  
+We encourage OSTP to think through AI priorities through the lens that we lay out in our Global AI Policy Recommendations, and which we believe remain relevant today: innovation and investment; facilitating public trust in and understanding of the technology; and  international collaboration.
+6 We have also added a specific section on upholding U.S. 
+national and economic security. We organize our response along these lines.  
+I. Innovation and Investment
+We appreciate that the Trump Administration has made clear it will take a pro-growth, pro-worker approach to U.S. AI policy. To support such an approach, it is critical that the Administration develop a holistic framework to support both innovation and investment in the technology, from empowering the American workforce to promoting increased access to federal datasets, AI infrastructure, and compute. Below, we offer a series of suggestions that the Trump Administration should consider in the development of its AI Action Plan:  
+Access to Data, Infrastructure, and Compute 
+The Trump Administration should:  
+Support policies that support increased access to federal data, infrastructure, and 
+compute. Data is foundational to AI innovation as one major component of AI systems. By leveraging large and diverse datasets and increased computing power and ingenuity, AI developers and other stakeholders will be able to innovate and find solutions to meet the needs of individuals and society in unprecedented ways. More available data means more inputs with which to train algorithms, resulting in higher quality AI offerings. As such, the Administration should prioritize efforts to make more federal datasets available in machine -readable formats , leveraging privacy -preserving techniques.  
+Promote the voluntary adoption of existing internationally accepted industry-driven standards regarding data governance and data quality, and enable the development of 
+new internationally accepted industry-driven standards for data quality. In addition to 
+making government data available in machine-readable formats, governments may also be 
+able to curate widely available data as labeled, diverse, representative, quality data for the purposes of training corresponding AI.  
+Establish opportunities and resources for companies of all sizes to partner with 
+federal research centers focused on AI R&D, including the  National AI Research 
+Resource (NAIRR) -- a shared national research infrastructure that provides AI researchers, small business owners, and students with greater access to the compute resources, data, and tools needed to develop safe and trustworthy AI. The NAIRR serves as an instrumental 
+5 https://www.itic.org/documents/artiﬁcial -intelligence/AIFIAIAccountabilityFrameworkFinal.pdf  
+6 Our complete Global AI Policy Recommendations are available here: 
+https://www.itic.org/documents/artiﬁcial -intelligence/ITI_GlobalAIPrinciples_032321_v3.pdf  
+
+
+4 
+resource that will benefit critical sectors of the U.S. economy by enabling companies 
+integrate AI  solutions into their business applications, and therefore the Trump 
+Administration should call on Congress to advance legislation that would codify the NAIRR. Specifically, ITI supports the bipartisan, bicameral CREATE AI Act, which would establish the NAIRR under the direction of the National Science Foundation.
+7 If authorized, 
+the NAIRR could provide AI testbeds, open-source models, and high-powered computational tools, all adhering to existing open standards, to academics, researchers, 
+and small-and-medium-sized enterprises, which can in turn accelerate the pace of AI research and development, supporting American innovation. 
+Create an enabling environment for AI adoption and uptake.  While computing power 
+and data access are vital for U.S. AI leadership, widespread economic gains require 
+creating a supportive environment for smaller enterprises and individuals to leverage AI effectively. The Administration should focus on accelerating adoption by identifying sector-
+specific barriers, establishing innovation ecosystems that connect businesses of all sizes 
+with research institutions, facilitating partnerships between SMEs and AI solution 
+providers, and offering financial incentives such as grants and tax benefits. These coordinated efforts will help overcome the significant adoption challenges faced by smaller organizations, including limited understanding of specialized AI applications, difficult ies integrating trust frameworks, financial constraints, and restricted access to 
+knowledge networks.  
+Prioritize incentives for AI chips to be manufactured and designed in the United States. Semiconductors are essential for the development of AI technology, particularly 
+advanced chips (logic and memory), and we encourage the Administration to continue to prioritize incentives for the development of advanced and legacy chips in the United States 
+to bolster US national security and remain at the leading edge of AI development . This 
+includ es finalizing awards under the incentives program of the CHIPS and Science Act of 
+2022 (CHIPS Act). The CHIPS Act also provided an investment tax credit (ITC) of 25% for 
+qualified investments in facilities that manufacture semiconductors or semiconductor 
+manufacturing equipment. As a part of this, we encourage the Administration to consider extending credits to chip design, as it is a crucial R&D activity that impacts the value and function of a semiconductor device. U.S. policymakers should do everything they can to incentivize even more industry investment in chip R&D and design by expanding and extending the ITC for these investments. It is precisely because of these investments in R&D and chip design that the U.S. chip industry has led the world in advances in chip design. Complementary investments in the broader ecosystem for AI servers and PCs  
+manufactured in the US are also important to maintaining our country’s leadership.
+  
+Prioritize investments in the U.S. Government’s infrastructure to support the 
+advancement of AI research and development. As the U.S. private sector spearheads 
+cutting -edge AI innovations, the federal government must play a pivotal role in steering 
+these advancements to enhance national security, economic security, accelerate 
+7 https://www.congress.gov/bill/118th -congress/house -bill/5077  
+
+
+5 
+scientific progress and transform the mission of federal agencies including the 
+Department of Energy and Department of Defense. These agencies already have the 
+facilities, a world -class scientific workforce, and data, however, lack the advanced 
+computing resources needed to support the development of frontier AI models critical to 
+ensuring the United States remains the global superpower in AI. This approach maximizes 
+efficiency, safeguards taxpayer dollars, and accelerates AI innovation.  
+Energy and Infrastructure 
+With both the public and private sector developing and adopting emerging technologies, 
+including AI, the demand for energy to power this nascent technology will continue to  
+increase. Existing infrastructure likely will not support this increased demand long term. To 
+meet this surge in demand and maintain the U.S. position as the global leader in AI, the Administration must plan for and invest in solutions that support the development of reliable and resilient infrastructure responsible for powering the modern technologies needed to bolster U.S. economic and national security. The Trump Administration should 
+take steps to enact policies that strengthen the electrical grid, remove regulatory 
+barriers to siting and permitting, and promote an all -of-the-above energy strategy that 
+encourages and enables innovations in the efficient generation,  distribution, and use 
+of power. 
+Federal permitting processes are unnecessarily burdensome and have blocked or delayed 
+new energy projects across the U.S. The Administration should work with Congress to streamline permitting processes to accelerate critically needed upgrades to U.S. energy 
+infrastructure, especially for projects that modernize the aging U.S. electric grid and facilitate the deployment of advanced nuclear, including small modular reactors. The Administration should expedite the processes that enable efficient energy development and use, distribution, and interregional transmission line siting, facilitate critical mineral access, and reform the laws that allow projects to be derailed or delayed by potentially frivolous lawsuits. We also encourage the Administration to adopt a long-
+term strategy for ensuring a sufficient energy supply to meet the government’s growing power needs.  
+The Administration should also support policies that enable the efficient operation of 
+the data center itself  (i.e. the demand side) by leveraging existing technology, including 
+workload management to dynamically allocate computing resources, advanced virtualization technologies, hardware optimization, energy-aware software design, smart power management, purpose-built cooling systems, and AI-driven cooling management. Furthermore, to promote innovation in data center operations, appropriate hardware and software systems should allow for interoperability.    
+It should also keep in mind the critical role that connectivity infrastructure plays in 
+supporting AI development and deployment. Robust network infrastructure, including 
+optical fiber, fiber optic cable, wireless, and connectivity products, is essential to manage 
+increased data flows from the training and deployment of AI, as is high-speed, low-latency 
+
+
+6 
+internet access so that all U.S. businesses and individuals can access and leverage AI-
+enabled tools. 
+The Trump Administration can advance a dynamic, innovative AI ecosystem by 
+encouraging a diverse technological landscape that includes both open-source and 
+proprietary  solutions, while  supporting  standards that ensure hardware and software 
+interoperability. This approach will foster innovation and  accelerat e the adoption of AI 
+solutions . A competitive and flexible AI infrastructure environment will strengthen U.S. 
+leadership in AI. Additionally, as a buyer and investor in AI infrastructure, the federal government can strategically support technologies that best meet its needs while encouraging continued innovation across various sectors.  
+Finally, the Trump administration should consider adopting policies that support 
+diverse AI deployment models, including distributed computing approaches . These 
+alternative computing architectures can enable processing closer to data sources, 
+potentially reducing centralized infrastructure demands while optimizing resource use. As 
+computing capabilities advance, various deployment models offer different bene fits in 
+speed, security, and efficiency that could serve commercial entities, sensitive sectors like healthcare and defense, and the national security and intelligence communities. 
+Open-Source AI 
+Open models present opportunities, advancing innovation and competition. These models 
+allow a wider swath of businesses and researchers to participate in research and 
+development and leverage AI for creative and unique applications. Further, open-source foundation models have become a cornerstone of generative AI innovation. At the same time, open models may introduce marginal risk, depending on which component parts of foundation models are made open. We encourage the Administration to leverage NTIA’s report on Dual-Use Foundation Models with Widely Available Model Weights in informing any future policy approaches.
+8 In particular, the Administration should consider 
+enacting policies that support continued innovation, while also advancing discussions around what appropriate transparency,  security and safety practices look 
+like in this context.  
+Intellectual Property & Copyright 
+The protection of intellectual property is crucial to both the development of 
+groundbreaking AI models, and for protecting rightsholders and the creative ecos ystem. A 
+balanced approach is therefore necessary to achieve these dual aims of enabling AI developers to legally access publicly available data, including content available on the open web, while putting in place safeguards to comply with relevant privacy or copyright legal frameworks. Although we recognize that there are ongoing legal cases being litigated  
+in the United States, we encourage the Administration to support a copyright framework 
+that balances the rights of  rightsholders while maintaining the longstanding  fair use 
+doctrine. Further, as referenced above, we support increasing access to government-held 
+8 https://www.ntia.gov/programs -and -initiatives/artiﬁcial -intelligence/open -model -weights -report  
+
+
+7 
+or government-supported data to bolster AI development, especially if shifting global 
+copyright policies limit developers’ access to training data. The Administration should likewise push back on efforts by foreign governments to apply their domestic copyright regimes extraterritorially. 
+Preemption  
+The technology industry is increasingly concerned about the growing number of state 
+legislative proposals to regulate AI.  There is a risk that a tidal wave of state legislative 
+activity could undermine the Administration’s state d goals of avoiding the overregulation 
+of AI and promoting technological preeminence. At least three states have passed AI 
+legislation, and more than 700 bills have been introduced in 2025 so far. To ensure that the 
+U.S. remains a global leader in AI, it is critical that the Administration work with Congress to explore opportunities to develop a unified, risk -based standard for AI 
+development and deployment  that pre -empts state level regulation. In particular, the 
+Administration should clarify if and where existing legal regimes address risks that are of 
+concern to policymakers, encourage further adoption of the AI RMF, and build upon critical 
+guidance issued under the first Trump Administration (M-21-06 Guidance for Regulation of AI Applications).  
+We further discuss the key role of a preemptive privacy framework on p. 11. Workforce and Talent 
+The U.S. should take steps to produce sufficient STEM and AI talent to supply the 
+United States market. AI is highly valuable to U.S. commercial endeavors, to U.S. national security, and to society, so specialists in AI R&D are valuable scientists and technologists. However, the demand for such specialists far outweighs the current supply. Efforts to improve STEM education at all levels, promote STEM professions, and continuing to attract and retain international talent are especially important.   
+To address the AI workforce shortage, policymakers should focus on initiatives that 
+support AI education and reskilling programs, incentivize companies to invest in AI talent development, and facilitate collaboration between academia, industry, and governm ent to 
+create a robust AI talent pipeline. Such efforts should include:  
+•Investing in AI education and training programs:  Policymakers should support
+accessible AI courses at various levels, from introductory to advanced, acrosseducational institutions. Further, the Administration should support  developmentof AI curriculum for K-12 education to build foundational understanding of AIconcepts. This includes encouraging online learning platforms and M assive Online
+Open Course s to provide readily available AI training options.
+•Supporting reskilling and upskilling initiatives:  Policymakers should  support
+workforce retraining programs to equip existing workers with necessary AI skills totransition into AI -related roles. This includes encouraging employers to offer
+internal training programs to upskill their workforce in AI applications relevant to
+their industry.
+
+
+8 
+•Industry -academia partnerships:  Foster collaborations between universities and
+companies to develop practical AI research projects and internship opportunities
+for students.  Establish research centers focused on emerging AI technologies and
+talent development.
+•Tax incentives and grants:  Offer tax breaks to companies that invest in AI research
+and development, including employee training in AI skills. Provide grants to startupsand small businesses to support their AI development efforts and hiring of AI talent.
+•Skill-gap analysis and workforce planning: Conduct regular assessments toidentify current and future AI skill needs across industries to inform policydecisions.  Collaborate with industry leaders to develop standardized AI
+competency frameworks. Promote and support AI products that can help enhanceand supplement knowledge gaps within the current workforce.
+• H-1B Visa Program Reforms: ITI has long advocated for high -skilled immigration
+reforms that supplement and augment the talented U.S. workforce needed forcontinued U.S. leadership on technology innovation and further business and job
+creation. ITI will continue to advocate for H -1B visa program reforms that ensure
+that the number of available H-1B visas  adjust  to meet market demands, support
+U.S. economic and nati onal security interests, and promote additional protections
+for nonimmigrant employees such as H-1B portability.
+II. Upholding U.S. National and Economic Security
+We appreciate that there are national security  concerns related to the proliferation of 
+advanced AI chips and the most advanced AI models, and that more broadly, there are 
+concerns about the potential misuse risks of advanced AI models. At the same time, in order to maintain U.S. technological leadership, the United States must ensure that 
+policies are appropriately calibrated so as not to cede this leadership position to adversarial nations all too willing to step in. 
+Export Controls 
+Adopt targeted, risk -based AI export controls to protect national s ecurity and 
+maintain U.S. competitiveness. The Trump Administration should ensure that export 
+controls are targeted and risk-based in order to prevent adversarial uses that pose national  
+security risks while preserving U.S. leadership and global competitiveness. Such an approach should protect U.S.-developed IP against state-sponsored industrial espionage and theft, while promoting the broad deployment of U.S.-developed compute, models and other infrastructure . In particular, export controls focused on AI model weights and 
+compute power should be targeted based on risk ensuring that allies can still rely on U.S. 
+suppliers and access U.S.-produced goods and services. We encourage the Trump Administration, and BIS in particular, to withdraw  the Interim Final Rule (IFR) on a 
+Framework for AI Diffusion and open a new, deliberative rulemaking process with 
+
+
+9 
+stakeholders  to protect national security without undermining U.S. companies’ of all sizes 
+ability to compete globally.9 
+ AI & Cybersecurity  
+Prioritize the use of AI for cybersecurity purposes. The Trump Administration should 
+highlight the key role that AI can play in improving cybersecurity efforts. Indeed, AI systems 
+can be used to support threat modeling, security risk management, and cyber defense strategies.  
+Advance  policies that support AI-driven cybersecurity for critical infrastructure. AI 
+should be integrated into federal and critical infrastructure cybersecurity operations to 
+provide automated, adaptive, and scalable security solutions. AI can help detect system misconfigurations, unauthorized access attempts, and cyber vulnerabilities in cloud-based environments, ensuring that government agencies and private sector organizations can quickly respond to evolving threats. Investment in automated security incident 
+response and self-healing AI systems will strengthen national cybersecurity preparedness. 
+Encourage the adoption of techniques that improve AI security. While AI and 
+automation enrich the overall security posture of organizations, AI applications and models themselves must be secured. A commitment to embedding security and risk management into the AI development life cycle and a secure-by-design approach are vital to managing and deploying secure AI tools.
+ The Administration should support 
+cryptography and secure AI model training techniques, such as data encryption and secure multi-party computation, should be prioritized to protect AI systems from adversarial attacks. As well, it should deploy and support AI threat detection capabilities to counter the rising use of AI in cyberattacks, including new attack vectors and deepfake phishing schemes that pose emerging national security risks.  Further, regulatory frameworks should avoid overly restrictive measures that could stifle industry efforts to develop robust AI-driven security solutions. Supporting internationally accepted, industry-driven security 
+standards can enhance  consistency in AI safety, security, and risk management. 
+Assess the reliability and security of advanced AI models developed by adversarial nations.  Ensuring the trustworthiness of open-source AI models originating from countries of concern should be an Administration priority. CISA, in coordination with the U.S. AI Safety Institute or a successor body, should be directed to investigate the reliability, security, and data flows  of advanced AI models from foreign adversaries. Testing results 
+should be shared through threat intelligence channels so that U.S. companies can accurately assess the risk of leveraging such models. 
+9 While all of our members believe the rule should be reviewed/reconsidered through a deliberative process, 
+some believe the Administration can use the existing rule as a starting point and modify it, while others prefer 
+withdrawal of the rule in its entirety and starting afresh . We look forwa rd to providing further 
+recomm endations  about the rule  through the open  Commerce/BIS proceeding.  
+
+
+10 
+Trade Policy 
+Pursuing trade fairness secures U.S. exporters’ access to foreign markets and encourages 
+investment in the United States. ITI encourages the Trump Administration  to negotiate 
+robust, binding commitments that facilitate trade through new bilateral and multilateral market access agreements  and establish an open operating environment 
+that enable s the broadest range of U.S. companies to compete overseas on an even 
+playing field, particularly for critical technologies such as AI. During President Trump’s first term, the United States Trade Representative (USTR) set the platinum-standard for digital trade commitments through negotiation of the United States-Mexico-Canada Agreement (USMCA) and the U.S.-Japan Digital Trade Agreement. 
+Securing market access allows U.S. exports to reach a global marketplace, further 
+diversifies supply chains, and increases U.S. exports. Trade commitments should aim to reduce tariffs and non -tariff barriers on U.S. exports, promote acceptance of international 
+certification and conformity assessments over requirements to conduct country-unique 
+reviews, and counter local content requirements. 
+The government should carefully consider any new tariffs or other restrictions to trade to 
+avoid actions that would harm the domestic economy or undermine global competitiveness of firms operating in the U.S., such as tariffs on technology products and inputs essential to development and deployment of AI.  
+III. Facilitating Public Trust in AI Technology
+The Trump Administration, in its AI Action Plan, should continue to highlight the important role that public trust plays in adoption of AI technology . In particular, we encourage the 
+Trump Administration to build upon AI efforts undertaken during its first term, especially as outlined in OMB memo M-21-06. We were also very supportive of efforts under the first Administration to advance the National AI Initia tive Act, including the National Institute of 
+Standards and Technology’s development of the AI Risk Management Framework 1.0. 
+Therefore, the Administration should: 
+Support the ongoing AI work of the National Institute of Standards and Technology 
+(NIST), including that being undertaken at the U.S. AI Safety Institute. Consistent with the letter we sent to Secretary Lutnick on March 13, 2024, we encourage the Trump 
+Administration to continue to support the work taking place at NIST.
+10  
+•Maintain core functions of the NIST U.S. AI Safety Institute, prioritizing working
+with industry to advance efforts focused on identifying and managing nationalsecurity risks. NIST has played a critical role in the international conversation on AI
+safety and its core work should continue. In particular, we recommend that theTrump Administration prioritize activities focused on evaluating, testing, andmanaging risks presented by dual-use found ation models specific to cybersecurity,
+10 Read ITI and CTA ’s letter here : https://www.itic.org/documents/artiﬁcial -
+intelligence/CTAITINISTAILetterFINALcopy.pdf    
+
+
+11 
+biological and chemical weapons, and system autonomy. The AISIs’ testing and 
+evaluation capabilities of the most powerful AI models have been particularly impactful in helping developers test their models for national security risks, ensuring that identified risks are mitigated before being placed on the market. Companies’ agreements with the AISI have been entirely voluntary and members have found that this type of collaboration exemplifies the best of public-private partnership. 
+•As a part of this, we encourage the Administration to continue to partner with AI
+labs to jointly research national -security related risk s associated with frontier
+AI models .
+•Prioritize investment in additional research aimed at measuring AI risk.Measuring AI risk remains somewhat challenging because of a current lack ofindustry consensus on robust and verifiable methods that can be applied todifferent AI systems and the differing impacts in various industry sectors. Also,because of the evolving nature of AI we are still learning about risks, their likelihoodof occurrence, the potential severity, and how to measure them. Guidance aroundwhat to do in an instance where it may not be possible to measure an AI riskadequately would be helpful.
+Encourage the adoption of international standards and best practices, as well as the AI Risk Management Framework, which can help to manage risks associated with AI systems . Voluntary international technical standards play a crucial role in fostering 
+alignment, interoperability, and trust in AI systems. An example of this is ISO/IEC 42001, which provides a management system for organizations in managing AI risks and opportunities associated with AI. These standards serve as invaluable tools in supporting 
+the development, deployment and use of AI, along with structured processes and 
+guidance for risk management and governance. By establishing such benchmarks, they facilitate innovation and technological advancement, balanced with governance practices for organizations .  
+Consider roles and responsibil ities of stakeholders across the AI value chai n. There 
+are multiple stakeholders in the AI value chain that each play a role in the development and deployment of AI in a responsible manner. In thinking through appropriate AI policy approaches, the Administration should  ensure it is  consider ing the range of  actors. 
+Responsibilities should be allocated  based on a stakeholder’s role and function in the AI 
+value chain. In particular, the Administration should keep in mind that risk management is a shared responsibility. While we believe that all organizations in the value chain should adopt practices focused on driving accountability, specific tools, mechanisms, practices, or obligations should be scoped based on the level of risk posed and relevant context. 
+Prioritize the passage of comprehensive, preemptive federal privacy legislation  to 
+provide a unified, national framework for responsible data business practices . A 
+comprehensive, risk-based federal privacy legislation  would  help support a strong U.S. AI 
+ecosystem. A clear and flexible national privacy standard would simplify and strengthen 
+
+
+12 
+data management practices across the economy and provide a firmer foundation to 
+advance trustworthy AI.  
+IV. Procurement & Federal Adoption
+ITI appreciates that this Administration recognizes the potential of AI to enhance government efficiency, improve citizen service delivery, reduce waste, and bolster U.S. technological leadership in an increasingly competitive global landscape. To accomplish these goals, we encourage this Administration’s action plan to foster an innovation -
+friendly environment that promotes robust competition in the federal marketplace. We were supportive of the first Administration’s approach outlined in Executive Order 13859, Maintaining American Leadership in Artificial Intelligence, which encouraged federal agencies to reduce barriers to government acquisition and use of AI. Below, we offer a few recommendations for this Administration to consider as it looks to leverage the benefits of AI to modernize the government’s technology infrastructure: 
+Prioritize the acquisition of commercial AI solutions using commercial purchasing 
+authorities, terms, and conditions. Government acquisition processes must be 
+modernized to match the pace of technological change and enable more efficient procurement of commercial AI solutions. While the government has a diverse set of tools in place for purchasing commercial technology, emerging technologies — such as AI — will require the right blend of traditional and non-traditional procurement strategies. The administration should encourage federal agencies to use the tools already at their disposal to make great contracting decisions, which includes policies and procedures outlined in FAR Part 12 through FAR Part 15, as well as tools such as the Commercial Solutions Opening (CSO) authorities and procedures and Other Transaction Authority (OTA) procurements.  
+Furthermore, the Administration should encourage the use of commercial licensing terms 
+of service for IT, in harmonization with existing terms used across U.S. federal public sector commercial contracting. Agency leadership should encourage the adoption of standard commercial terms for AI and GenAI procurement as much as possible.
+11 For 
+instance, existing technology contracts include a Customer Agreement and Service Terms, which have standard IP clauses that may already apply to AI services used across the government. Using industry-standard terms, conditions, and pricing models that support the private sector’s ability to innovate will accelerate acquisition timelines and place new and innovative capabilities in the hands of the federal workforce more quickly. The current lengthy (often 12-18 months) federal acquisition process does not match the speed of AI innovation as solutions are frequently outdated or even “end of l ife” by the time they are 
+finally procured and deployed.  
+Ensure the federal government has the appropriate resources to attract, train, 
+empower and retain a skilled AI workforce. Modern government operations require a 
+11 See FAR 12 .213.  
+
+
+13 
+skilled, technology -savvy workforce capable of managing complex technology 
+procurements and implementations. With the rapid pace at which new AI products and 
+services are entering the market, the federal government must invest in its human capital and tool s to support them (from recruitment to retention) to ensure that the government is 
+well-versed in the latest technological innovations that can transform an agencies’ mission. 
+If the U.S. government is to fully leverage the benefits of this nascent  technology, federal 
+agencies will require a technology -focused workforce that can modernize an agencies’ 
+data environment to allow data to scale, make more efficient use of AI/ML investments, 
+and provide a better understanding of risks associated with various AI models and 
+datasets. This means encouraging civilian, defense, and intelligence agencies to focus on 
+data ontologies, application programming interfaces (API), and fine grain access controls. The U.S. national security and defense community needs reliable AI that provides trusted and relevant, answers to mission-specific questions. The Administration must prioritize 
+data investment to coincide with AI tool procurement and deployment across government. 
+Establish an accelerated process for authorizing emerging technology capabilities to 
+be adopted and used by the government. AI innovation is occurring at an unprecedented 
+rate. To benefit from these private sector innovations, the government needs sufficient agility to capture new technologies and access cutting-edge AI capabilities as they are made available to the commercial marketplace, while maintaining the necessary rigor in ensuring these tools are secure. With the urgent need to update and modernize the government’s technology infrastructure, we encourage the administration to develop accelerated certification and authorization pathways for emerging technologies, like AI, designed to reduce deployment timelines and ensure an agency can use the most effective  
+and efficient  tool for enhancing its mission.  
+Adopt the NIST AI RMF, together with international standards,  across federal agencies 
+as a common framework for evaluating and mitigating AI risk, including the creation of use-case profiles. We urge the government to fully adopt the NIST AI RMF’s flexible 
+approach to evaluating and mitigating risk, rather than the more prescriptive approach outlined in last year’s Office of Management and Budget (OMB) memorandum, M-24-10, which focused on broad categories of “rights-impacting” and “safety-impacting” AI and included an expansive list of use cases and/or sectors captured by those categories. With President Trump’s Executive Order 14179, Removing Barriers to American Leadership in Artificial Intelligence, requiring OMB to review and update M-24-10 to align with this 
+Administration’s action plan, we strongly encourage OMB to consider scoping guidance to “high-risk” applications, as opposed to  “rights-impacting” or “safety-impacting.”
+12  As it 
+12 In July 2024, ITI published our AI Accountability Framework , which included deﬁnitions for a set of key 
+terms commonly used throughout the AI ecosystem. ITI deﬁnes “high -risk” to mean “an AI system that is 
+speciﬁcally designed for or deployed to make decisions that have a legal or similarly signiﬁcant  
+
+
+14 
+currently stands, OMB is defining virtually all applications as high-risk and therefore 
+making it difficult or impossible for federal agencies to adopt AI tools. 
+Finally, the Administration should prioritize cybersecurity as a key element in federal 
+procurement policy , particularly as it r elate s to the purchase of AI-enabled products and 
+services. AI tools can introduce new attack vectors , embolden new actors that previously 
+did not have the technical capability to launch attacks and create unseen vulnerabilities. 
+As such, agencies should consider including contractual terms to ensure that vendors can demonstrate advanced security protection for their AI products and services.  
+V. International Collaboration
+The United States should prioritize international collaboration as a part of it s overall 
+strategy. AI is a borderless technology, and there is a plethora of activity ongoing in different multilateral and bilateral fora to address key questions, challenges, and opportunities related to AI. In order to promote a U.S. vision of AI, it is critical that the Administration take a leadership role in conversations  on AI governance  taking place 
+internationally . Particularly as the European Union, Brazil, Singapore, Canada, and the 
+United Kingdom evolve  their own approaches to AI governance , it is more important than 
+ever that the United States cooperate and work with partners to ensure that said approaches are interoperable and/or aligned to the extent possible .  
+In seeking to achieve that goal , we recommend that the Trump Administration do the 
+following:  
+Retain Chair position of the International Network of AI Safety Institutes. At the November Convening of the International Network of AI Safety Institutes, the United States took on the role of the inaugural Chair. As noted above, we encourage the Administration 
+to maintain the core functionality of the AI Safety Institute, and as a part of that, retain the Chair position within the International Network to drive discussions forward on key themes 
+emerging in the global conversations around advancing AI safety and security research, 
+particularly as they pertain to testing and risk assessments for frontier AI models. 
+Prioritize engagement in multilateral efforts and forums. 
+The United States should 
+prioritize engagement in multilateral bodies like the OECD, G7, and G20 to agree on 
+common foundational pri nciples for AI governance and ensure regulatory interoperability 
+that supports economic growth and innovation.  It should also evaluate how bilateral 
+dialogues might be scaled to be of relevance globally .  In so doing, it should consider how 
+efforts such as this might be expanded to include more robust private sector participation.  
+impact on a person’s fundamental human rights, safety, or fair access to basic services (such as housing, 
+employment, lending, education, healthcare, criminal justice, or insurance).  
+https://www.itic.org/documents/artiﬁcial -intelligence/AIFIAIAccountabilityFrameworkFinal.pdf   
+
+
+15 
+Support the development of voluntary, consensus-based international standards, 
+such as those developed in ISO/IEC. As we outline earlier in our response, technical 
+standards play a critical role in fostering innovation and engendering public trust in AI technology. Importantly, U.S. technical experts should be at the forefront of informing efforts to develop technical standards and best practices. This process will help drive an open and competitive AI market in the U.S. and overseas. Because the field of AI standards continues to evolve, it is all the more important that the USG continues to support U.S.  
+industry leadership in international standards development efforts, specifically ISO-IEC/JTC 1/SC 42, where standards are being developed on many aspects of AI. We strongly encourage the Administration to ensure that NIST and other USG experts is appropriately resourced to engage together with the private sector with JTC 1/ SC 42, including to help 
+ensure that the AI RMF and U.S. government practices remain aligned with international standards that are in the process of being developed and that NIST’s research can help inform industry-led international standards development activities as appropriate.  
+Support AI capacity-building efforts in third-countries. In order to support the 
+Administration’s vision of promoting democratic, U.S.-developed AI, it should consider 
+supporting key capacity-building programs in low- and middle-income countries. This helps to promote a U.S. vision of AI governance. ITI was very supportive of the Digital Connectivity and Cybersecurity Partnership Program (DCCP), for example, and would encourage the Administration to consider whether similar programs can be introduced. 
+*** 
+ITI appreciates the opportunity to provide feedback to OSTP as it works to develop an AI Action Plan. We believe that the United States has the opportunity to lead the world in the responsible development and deployment of AI and are committed to working w ith the 
+government, other stakeholders, and the international community to ensure that all can reap the benefits of AI while mitigating potential risks. We look forward to continuing our engagement with OSTP and other U.S. policymakers as the Administration wor ks to 
+develop the AI Action Plan and lay out a vision for U.S. AI policy moving forward . Please 
+reach out to Courtney Lang  (  Vice President  of Policy, with questions. 
+
+

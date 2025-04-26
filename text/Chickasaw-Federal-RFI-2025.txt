@@ -1,0 +1,455 @@
+National  Science Foundation  (NSF) 
+Networking and Information  Technology Research and Development (NITRD)  
+National Coordination Office (NCO)  
+DEVELOPMENT  OF AN ARTIFICIAL INTELLIGENCE (AI) 
+ACTION PLAN  
+Request for Information ( RFI) Response  
+March 15, 2025  
+2025- 02305 (90 FR 9088)  
+Submitte d to: 
+Faisal D'Souza 
+ostp-a i-rfi@nitrd.govSubmitte d by : 
+Peter H arrell, S enior D irector o f Business  Development 
+Chickasaw Federal 
+
+
+TABLE OF CONTENTS  
+1 Introduction  ............................................................................................................................................. 1
+2 Key Areas for  AI Development and Governance  ..................................................................................... 1
+2.1 Hardware and Inf rastructure  ............................................................................................................. 1
+2.1.1 Long- Term Semiconductor Strategies  ........................................................................................ 1
+2.1.2 Modernizing D ata Centers and Smart Energy Usage  ................................................................ 1
+2.2 Model Developmen t and Assurance  ................................................................................................. 2
+2.2.1 Explainabi lity and Accountability  ................................................................................................ 2
+2.3 Data Governanc e ............................................................................................................................. 2
+2.3.1 Tiered Da ta Classification  .......................................................................................................... 2
+2.3.2 Standardiz ed Governance Protocols  .......................................................................................... 2
+2.3.3 Public Tr ust Through Transparency  ........................................................................................... 3
+2.4 Data Privac y and Security  ................................................................................................................ 3
+2.4.1 Lifecycle  Privacy Impact Assessments (PIAs) ............................................................................ 3
+2.4.2 AI-Focused Sec urity Culture ...................................................................................................... 3
+2.4.3 Advanced Pri vacy Tools  ............................................................................................................. 3
+3 Regulatory and Gov ernance Suggestions  ............................................................................................... 3
+3.1 Flexible and A daptive AI Regulations  ............................................................................................... 4
+3.2 Recommendati ons for AI Safety Standards and Technical Compliance  ........................................... 4
+3.2.1 Baseline A uditing and Certification  ............................................................................................. 4
+3.2.2 Explainabi lity and Accountability Requirements  ......................................................................... 4
+3.2.3 Technical C ompliance Tools  ...................................................................................................... 5
+4 Workforce and E ducation Development  .................................................................................................. 5
+4.1 Expanding AI  Training Programs  ...................................................................................................... 5
+4.2 Addressing AI’s Impact on Workforce Displacement  ........................................................................ 5
+4.3 Partnerships  with Educational Institutions  ........................................................................................ 6
+5 Public -Privat e Collaboration  .................................................................................................................... 6
+5.1 Strengtheni ng Partnerships Between Government, Academia, and Industry  ................................... 7
+5.2 Incentives  for Responsible Open- Source AI Development  ............................................................... 7
+5.3 Societal Im pacts  – Transparency and Reducing Harm  ..................................................................... 7
+6 National Securi ty and Defense ................................................................................................................ 8
+6.1 Recommendati ons for AI Use in National Security Applications  ....................................................... 8
+
+
+6.2 Enhancing Critical Infrastructure Security: Grid and Medicine Security  ............................................ 9
+7 International  Collaboration  .................................................................................................................... 10
+7.1 Engaging wit h International AI Research Communities  .................................................................. 10
+7.2 Developing Col laborative Regulatory Approaches  ......................................................................... 10
+8 Research and Dev elopment Priorities  ................................................................................................... 11
+8.1 Reauthorizing Key Funding Programs: SBIR and STTR  ................................................................ 11
+8.2 Sustaining F oundational AI Research ............................................................................................. 12
+8.2.1 Aligning P ublic Sector Procurement with Innovation  ................................................................ 12
+9 Ethical Cons iderations  .......................................................................................................................... 12
+9.1 Emphasizing  Responsible, Safe, Secure, and Transparent AI Deployments  ................................. 12
+9.2 Recommendati ons for Human- Centric AI Applications  ................................................................... 13
+9.3 Suggestions  for Mitigating AI -Enabled Threats  ............................................................................... 13
+10 Conclusion  ............................................................................................................................................ 13
+10.1 Contractin g Options  ........................................................................................................................ 13
+
+
+1 INTRODUCTION  
+This response is provided in reply to the National Science Foundation (NSF) Request for 
+Information (RFI) on the Development of an Artificial Intelligence (AI) Action Plan, Document Control Number 2025–02305, published in the Federal Register on February 6, 2025. The 
+purpose of this response is to provide NSF input from an industry stakeholder on the priority 
+policy actions needed to sustain and enhance America’s AI leadership to align with President 
+Trump’s Executive Order (EO) 14179. Chickasaw  Federal, in partnership with U.S. federal 
+agencies, champions a comprehensive strategy to strengthen America’s AI capabilities. This strategy emphasizes establishing resilient hardware and infrastructure, promoting trustworthy model development, implementing consistent data governance practices, and integrating robust privacy and security measures. This integrated approach —which spans expanding domestic 
+semiconductor production, modernizing data centers, ensuring continuous oversight of AI reliability and fairness , unifying data management across agencies, and designing systems to 
+safeguard personal data—embodies a bold, forward-looking strategy crafted for the current administration. It drives innovation, secures supply chains, and fosters unprecedented interagency collaboration to propel both economic prosperity and societal well-being. 
+2 KEY AREAS FOR AI DEVELOPMENT AND GOVERNANCE  
+2.1 Hardware and Infrastructure  
+Expanding AI usage in high-stakes government operations demands predictable semiconductor supplies, high- performance data centers, and an agile energy grid. Recent efforts have spurred 
+domestic chip manufacturing growth; now, we propose an innovative strategy with pioneering measures designed to further enhance production capabilities and build an unbreakable supply chain. 
+2.1.1 Long- Term Semiconductor Strategies  
+We propose a completely new roadmap for semiconductor fabrication —one that establishes a 
+comprehensive support framework covering fab construction, modernization, and breakthrough packaging innovations. This forward -thinking strategy is designed to launch domestic chip 
+manufacturing into the next era. Introducing a tiered program covering fab construction, modernization, and advanced packaging can propel both state-of-the- art nodes (critical for 
+advanced AI and national defense) and mature nodes (essential for automotive, aerospace, and critical infrastructure).  Implementing Regional Innovation Hubs, forming consortia among 
+foundries, suppliers, and research institutes, reduces overhead while building local specialized workforces. Such arrangements drive knowledge sharing, lower the cost differential with offshore sites, and spark innovation across the broader microelectronics ecosystem. Finally, promoting a focus on advanced packaging. Wire-bonding limits the power and efficiency of 
+chips reliant on next- generation AI workloads. Grants or special tax credits can help labs and 
+suppliers develop 2.5D or 3D packaging capabilities. Coordinating with the National Semiconductor Technology Center ensures that these packaging breakthroughs transition smoothly from re search to commercial viability.  
+2.1.2 Modernizing Data Centers  and Smart Energy Usage  
+Massive compute demands for AI training and inference raise concerns about economic demands, cost increases , energy spikes, and resource allocation. Advanced cooling methods, 
+such as liquid cooling, and heat reuse, and on- site renewable integration can significantly cut 
+
+
+high-performance computing (HPC) operational costs, saving taxpayer dollars. Additionally, 
+coordinating large-scale AI tasks during off-peak hours reduces energy expenses and grid strain, yielding substantial cost savings for mission- critical agencies. Emphasizing dynamic power 
+management boosts efficiency, ensuring reliable, cost- effective HPC performance and financial 
+sustainability for AI initiatives.  
+2.2 Model Development and Assurance  
+2.2.1 Explainability and Accountability  
+Complex AI systems can act like “black boxes,” especially large -scale neural networks. 
+Government procurements for high-stakes or sensitive AI solutions should require 
+interpretability features , such as model cards or partial transparency in learned representations. 
+This approach integrates accountability from a project’s inception, aligning solutions with national values. 
+Using automated drift management, automated workflows can periodically re- check fairness, 
+accuracy, and error rates. If performance falls below acceptable thresholds, the AI can 
+automatically revert to a prior version or pause usage until revalidation confirms compliance with established tolerances . 
+Implementation of c ollaborative vulnerability disclosure should be prioritized. Attack surfaces 
+expand with advanced AI. A safe-harbor bug bounty or vulnerability disclosure program invites researchers to report exploitable flaws  such as data inversion, membership inference, or 
+malicious fine -tuning, before adversaries capitalize on them.  
+2.3 Data Governance  
+2.3.1 Tiered Data Classification  
+Creating well -defined categories of data (public vs. restricted) ensures researchers have free rein 
+with nonsensitive information while sensitive or personally identifiable data remains highly protected. This arrangement accelerates AI experimentation on open datasets without endangering private details. 
+Fields like healthcare, finance, or defense, however, may hold data too sensitive to centralize. 
+Federated or split -learning architectures allow models to train on distributed data clusters without 
+transferring raw records. By adopting advanced cryptographic techniques, such as secure multiparty computation , organizations can glean aggregated insights while maintaining strict 
+local controls. 
+Data lineage logs are especially valuable when multiple departments share or refine the same 
+dataset. Agencies should unify naming, versioning, and transformation protocols so that each step in the data pipeline leaves a documented metadata trail, simplifying audits and ensuring a 
+chain of custody. 
+2.3.2 Standardized Governance Protocols  
+Divergent data structures and inconsistent annotation hamper collaborative AI projects. Ensuring 
+cross-agency consistency  requires introduction of a universal data taxonomy and standardized 
+approaches to labeling or cleansing fosters synergy. Common frameworks for data classification or usage ensure that agencies can pool or combine datasets swiftly.  
+By embedding checks or governance gates into data pipelines, agencies can automatically halt 
+suspicious merges or large exports. If a project attempts to merge “restricted” fields with “open” 
+
+
+fields, the pipeline might pause and notify designated data governance officers to review the 
+request. 
+2.3.3 Public Trust Through Transparency  
+Routine oversight review by a panel of experts from different realms (policy, ethics, security) 
+can confirm that data usage remains aligned with initial goals. If expansions or new use cases surface, the board can require updated risk and privacy assessments. 
+Even if internal data transformations remain proprietary for security reasons, agencies can 
+publish simplified outlines , or open summaries, of how data is used for AI modeling. Plainly 
+communicating the nature of the data, its intended purpose, and its storage safeguards helps maintain public trust and counters misinformation. 
+2.4 Data Privacy and Security 
+2.4.1 Lifecycle Privacy Impact Assessments (PIAs)  
+An initial PIA may not suffice for dynamic AI projects, which evolve as new data streams and tasks appear. Setting triggers (e.g., doubling dataset size or changing model scope) can prompt a mandatory event -based PIA reevaluation and update, flagging expansions that might put 
+additional privacy at risk. 
+Additionally, i n areas like public benefits or healthcare analytics, quick -reference privacy 
+statements ease public concerns and highlight the limitations on data usage. Agency websites or 
+user interfaces can reflect these plain -language summaries , ensuring clarity. 
+2.4.2 AI-Focused Security Culture  
+Traditional IT security teams must adapt to AI -specific threats, which can include membership 
+inference or data poisoning. Employing dedicated AI cyber specialists who actively monitor 
+training logs, test resilience to adversarial inputs, and track suspicious usage ensures a robust defensive posture. 
+Borrowing from the Federal Risk and Authorization Management Program (FedRAMP), 
+agencies can implement iterative approvals for AI systems. Substantial changes , like new 
+datasets or significant model architecture updates , trigger partial re -assessment to verify 
+encryption, logs, and identity access remain optimal. 
+2.4.3 Advanced Privacy Tools  
+By systematically inserting noise into outputs, differential privacy allows population- level 
+insights without pinpointing individuals. This approach can help agencies manage large- scale 
+analyses (e.g., demographic patterns) while minimizing personal identi fication risks.  
+In many prototyping phases, real data can be replaced with synthetic datasets that preserve 
+statistical features but remove personal details. Teams can develop or stress -test AI solutions 
+without exposure to sensitive records, significantly lowering risk if data is leaked or misused. 
+3 REGULATORY AND GOVERNANCE SUGGESTIONS  
+Effective AI governance depends on nimble, well-coordinated regulations that can keep pace with rapidly evolving technological frontiers. Although discrete rules or frameworks may exist 
+for individual use cases, in this section, we propose flexible and adaptive regulatory mechanisms, and recommend AI safety benchmarks for technical compliance. 
+
+
+3.1 Flexible and Adaptive AI Regulations  
+A static, one- size-fits-all approach to AI regulation often lags behind industry developments or 
+fails to account for the diversity of AI use cases. Instead, a risk- tiered system can match 
+regulatory intensity to the potential societal impact or the severity of harm that an AI application 
+could cause.  AI solutions with minimal public risk , like internal data analytics , would receive 
+lighter oversight. Conversely, high- stakes or mission -critical systems (e.g., those impacting 
+financial stability or public health) would be subject to more stringent evaluation. Regulators can draw inspiration from existing models in the finance sector, where capital requirements or stress 
+tests vary by institutional complexity. 
+Agencies can establish sandboxes in which AI developers and end users collaborate under 
+monitored conditions, refining solutions without incurring full regulatory obligations prematurely. This is especially useful for startups that aim to test novel AI concepts without navigating a labyrinth of compliance laws upfront. Once a system matures and demonstrates basic safety thresholds, it can transition out of the sandbox. By convening data scientists, sociologists, and ethicists, the government can shape advan ced metrics that capture issues like 
+misinformation risk or domain shift. Results from sandbox trials can then be shared (with anonymized details) across agencies to cultivate a consistent standard of model quality. 
+Finally, because AI can evolve or shift in scope, initial regulations might lose relevance over 
+time. Including “sunset clauses” in new rules triggers regular reviews or reauthorizations, ideally every two to three years, thus preventing stagnant oversight. When improvements are needed, regulators can issue iteratively updated guidance or rules consistent with the original legislative 
+intent. 
+3.2 Recommendations for AI Safety Standards and Technical Compliance  
+Standards for AI safety protect against issues like algorithmic bias, emergent malicious behavior, or system fragility under adversarial attacks. Agencies and industry can work together to define domain-specific minimum safety criteria , often referencing guidelines like the National Institute 
+for Standards and Technology ( NIST) AI Risk Management Framework
+1 for cross-industry best 
+practices.  
+3.2.1 Baseline Auditing and Certification  
+Each model should undergo a standard suite of minimum adversarial, fairness, and reliability 
+testing protocols before deployment. Regulators could adapt and expand processes similar to software security certification, requiring a publicly verifiable record of test outcomes. 
+To promote independence, government-approved or accredited third party AI auditors can verify 
+whether the model meets a recognized compliance tier. Industries such as aviation already rely on external certification for safety -critical components, and AI systems with life -or-death 
+implications warrant a parallel structure.  
+3.2.2 Explainability and Accountability Requirements  
+Especially in enforcement actions or public- facing decision -making (e.g., sentencing 
+recommendations, health insurance eligibility), agencies should require interpretable or partially 
+1 NIST AI Risk Management Framework (AI RMF 1.0) . Developed by the National Institute of Standards and Technology in 
+January 2023, this voluntary framework addresses the identification, assessment, and mitigation of AI -related risks across four 
+core functions: Map, Measure, Manage, and Govern.  
+
+
+interpretable AI outputs and solutions. If a black box model is deemed unavoidable, a robust 
+post-hoc explanation pipeline must be present. 
+Developers should maintain records of training data sources, identified constraints, deployment 
+contexts, and previous versions. This model lifecycle documentation enables regulators to track modifications over time, supporting accountability if disparitie s arise or performance shifts.  
+3.2.3 Technical Compliance Tools  
+Automated systems that flag policy violations , like potential bias in training data or 
+vulnerabilities to injection attacks , reduce the cost of manual checks. Government agencies can 
+sponsor open-source projects that build these compliance tools to standardize usage across multiple vendors in a “compliance- as-code” approach.  
+For recurring issues, regulators can provide recommended risk mitigation  playbooks or a 
+timeline for corrections. Agencies can share anonymized case studies, offering real -world 
+examples of how violations were detected and resolved.  
+4 WORKFORCE AND EDUCATION DEVELOPMENT  
+A well-prepared, forward -thinking workforce underpins the successful deployment of AI. 
+Advanced AI demands a combination of theoretical knowledge ( data structures, algorithmic 
+complexity ) and hands-on proficiency in coding frameworks. By expanding training programs, 
+proactively addressing job displacement, and forming strategic partnerships with academic institutions, the United States can build a pipeline of AI talent. Roles such as Responsible AI Official, AI Policy Advisor, and AI Compliance Officer will also play a critical part, ensuring ethical oversight and consistent governance across agencies and industries. 
+4.1 Expanding AI Training Programs  
+This initiative champions  the development of a state-of-the-art workforce , uniquely equipped to 
+master advanced semiconductor processes  and next-generation AI technologies, laying the 
+foundation for sustained innovation and technological leadership. This imperative extends to AI skill sets as well. Federal legislators could offer extended grants, tax credits, or direct funding for 
+state and local community colleges and workforce boards to expand AI- related certificate 
+programs. Such programs would emphasize both theoretical underpinnings, like algorithmic complexity , and practical skills in coding frameworks such as Python, PyTorch, or TensorFlow. 
+Many government employees already manage tasks ripe for AI augmentation , like resource 
+allocation or data-heavy investigations. Short-term boot camps and micro- credentials can 
+incorporate training on model oversight, interpretability basics, and risk assessment for roles like Responsible AI Official or AI Policy Advisor. These specialists can then lead or advise on agency-wide AI projects with consistent governance, upskilling the existing workforce. Building 
+a foundation of AI-literate professionals, both within and outside the public sector, gives agencies the agility to deploy AI responsibly. Over time, these training initiatives can feed directly into specialized roles that ensure AI remains ethically aligned with national interests.  
+4.2 Addressing AI’s Impact on Workforce Displacement  
+While AI may drive new high-tech jobs in software development, advanced analytics, or data engineering, it also risks partially automating certain routine or repetitive tasks. Agencies and companies that plan accordingly can reduce negative effects on work ers and communities, 
+shifting AI’s image from a job disruptor to a productivity multiplier.  
+
+
+Federal agencies might implement ethical automation guidelines, requiring workforce impact 
+assessments from organizations implementing large-scale AI systems, detailing how potential 
+job displacement will be mitigated. Firms that invest in retraining at-risk employees could receive procurement advantages or tax incentives, demon strating a commitment to maintaining 
+workforce stability . 
+Employees whose tasks are partially automated can often retrain and redeploy, pivoting to roles such as data preparation, model supervision, or compliance. Offering structured pathways, like short coding courses or AI fundamentals training, helps them transition smoothly. A forklift operator or administrative assistant could become proficient in data labeling or quality assurance (QA) testing, harnessing existing domain knowledge. 
+Proactive measures to address displacement not only alleviate social and economic anxieties but also encourage a cooperative spirit in which management and labor collaborate to unlock AI-driven efficiencies.  
+4.3 Partnerships with Educational Institutions 
+Colleges and universities remain central to advancing AI research and cultivating new talent, bridging the gap between theoretical insight and real-world application. 
+Agencies can award grants to encourage collaborative research and training, pair ing academic 
+labs with public sector projects , whether to develop AI for national security, public health, or 
+environmental management. Graduate students and professors then gain hands- on experience 
+using HPC resources to solve pressing challenges. 
+Government- backed apprenticeship and internship programs can place students in HPC labs or 
+federal AI initiatives for 6 –12 months. Participants acquire practical skills in algorithm design, 
+data governance, and AI compliance, while host organizations benefit from a cost- effective talent 
+pipeline. Universities can act as hubs for hackathons, workshops, and job fairs that assemble stakeholders, 
+such as tech firms, government agencies, and nonprofits, to exchange ideas and discover new 
+collaborations. Data centers or HPC clusters run in conjunction with academic partners can further catalyze research breakthroughs. Building the local ecosystem decentralizes costs and requirements, creating efficiencies for the total system.  
+Through these educational collaborations, the workforce gains specialized skills, ranging from deep learning engineering to AI policy analysis, closing the gap between emerging AI technologies and operational readiness in government and business. By expanding training pathways, preparing for displacement, and fostering robust educational alliances, the United States can develop the human capital necessary for effective. Long-term prosperity and global competitiveness hinge on a well- trained workforce ready to manage both the promises and 
+pitfalls of an AI -driven future. 
+5 PUBLIC-PRIVATE COLLABORATION  
+Effective A I implementation requires more than isolated innovation by individual agencies or 
+private firms. By fostering robust partnerships that span government, academia, and industry, the United States can combine diverse expertise and ensure AI development remains  transparent, 
+ethical, and aligned with national goals. Such collaborations not only streamline research and development (R&D) but also help shape standards that minimize potential harms. 
+
+
+5.1 Strengthening Partnerships Between Government, Academia, and Industry  
+Large-scale AI initiatives , spanning healthcare analytics, disaster relief, and advanced national 
+security use cases , demand HPC resources, specialized datasets, and domain-specific knowledge. 
+No single stakeholder holds all these elements, so synergy is key. 
+Agencies can issue co -funded grants connecting government labs with academic AI hubs and 
+private tech firms  to promote joint R&D and co-innovation. Through these grants, HPC clusters 
+and curated datasets are shared, as recommended by the National AI Research Resource 
+(NAIRR) Task Force2. Researchers focusing on  disease modeling can combine domain 
+knowledge with advanced HPC capabilities, accelerating breakthroughs across multiple sectors. 
+A formal consortium dedicated to knowledge sharing and standardization, including federal 
+institutions, academia, and private- sector experts , could release open technical guidelines or 
+“best practice” frameworks for safe, interpretable AI, drawing upon the IBM AI Ethics Board’s recommendations
+3. This approach reduces redundancy: HPC optimization guides, data 
+annotation protocols, and security patch processes can be standardized and reused. 
+Academic prototypes seldom achieve widespread use without a conduit to real- world application. 
+Co-innovation pacts with major AI developers expedite testing, validation, and scaling of 
+advanced prototypes into robust public services or commercial products, assisting in technology 
+transfer. The Department of State Enterprise AI Strategy4, for instance, highlights how research 
+insights can be integrated into operational agencies for immediate impact.  
+5.2 Incentives for Responsible Open -Source AI Development  
+Open-source AI libraries (e.g., TensorFlow or PyTorch) form the backbone of modern machine 
+learning, yet their sustainability and security depend on community support and transparent governance. In order to establish dedicated funding streams, agencies might provide competitive grants or bounties for critical open-source AI projects, ensuring stable code maintenance, frequent security audits, and high-quality documentation. The Department of Homeland Security’s GenAI Playbook
+5 indicates the importance of robust open- source infrastructure for 
+rapidly deploying secure solutions in emergent scenarios. 
+Additionally, Government and private partners can jointly organize “bug bash” or code review 
+events, scrutinizing critical open-source repositories for vulnerabilities. This approach parallels broader bug bounty systems but focuses specifically on AI frameworks. 
+5.3 Societal Impacts – Transparency and Reducing Harm  
+The rapid expansion of generative AI and other advanced models comes with risks of bias, disinformation, or misuse. Close collaboration between agencies, research labs, and industry can minimize these negative externalities.  
+2 NAIRR-TF -Final-Report-2023. National AI Research Resource Task Force, detailing strategies for democratizing AI research 
+with shared computational resources and data.  
+3 Foundation Models: Opportunities, Risks and Mitigations (IBM AI Ethics Board) . Explores governance models for advanced AI 
+systems, emphasizing accountability, safety, and fairness.  
+4 Department -of-State-Enterprise -Artificial-Intelligence-Strategy (2023) . Provides frameworks for AI adoption across diplomatic 
+missions, including bridging research insights and frontline operations.  
+5 DHS Playbook for Public Sector Generative Artificial Intelligence Deployment (2024) . Describes how open -source AI solutions 
+can be integrated securely within homeland security use cases  
+
+
+Government agencies using AI to automate public services could collaborate with civic 
+organizations to test how the models communicate decisions to end users in the interest of transparency in public institutions. For instance, an AI- based benefits eligibility tool might 
+incorporate user-friendly explanations that allow recipients to understand, and appeal, automated determinations.  
+Partnerships focusing on the detection of deepfakes or misinformation can unite HPC operators, social media platforms, and academic experts in natural language processing, mitigating potential harm. The NIST Generative AI guidance
+6 recommends such proactive measures, which 
+help preempt malicious use of AI-generated content or synthetic media. 
+Various organizations, from the Department of Defense to private research labs, have developed 
+AI ethics codes. Government -led roundtables could unify these codes into more formal 
+guidelines, making them a prerequisite for HPC resource usage or certain public  sector contracts. 
+Over time, consistent ethical baselines can reduce confusion and ensure a uniform standard of safety. 
+Close collaboration underpins the entire AI ecosystem, blending the experimentation of private industry with the oversight capabilities of government and the deep research expertise of academia. Shared resources, best practices, and data accelerate innovat ion while discouraging 
+siloed, duplicative efforts. Ensuring strong public- private partnerships also facilitates the 
+deployment of responsible open-source solutions, supports HPC expansions, and mitigates risks associated with misinformation or unintended outcomes. Ultimately, these alliances create an environment in which AI can advance national goals, strengthen U.S. competitiveness, and uphold public confidence in the evolving technological landscape.    
+6 NATIONAL SECURITY AND DEFENSE  
+A well-designed AI  strategy can strengthen the nation’s defensive posture and protect vital 
+interests. Ensuring that these deployments remain secure, accountable, and aligned with core values is paramount. Policymakers and defense leaders must balance the need for rapid innovation with rigorous oversight, preventing misuse or unintended outcomes that could erode public trust or compromise safety. 
+6.1 Recommendations for AI Use in National Security Applications  
+Agencies should prioritize AI tools that address critical mission areas, such as threat detection, battlefield autonomy, and secure logistics. AI-driven sensor fusion can consolidate diverse intelligence inputs , ranging from satellite imagery to cyber traffic , to support real- time decision -
+making. In line with initiatives outlined by the Artificial Intelligence Rapid Capabilities Cell, defense leaders are encouraged to deploy rapid pilot programs in agile 90-day increments using dedicated digital “sandboxes.” These pilots validate new warfighting applications, including generative AI (GenAI) models for command and control, logistics, and cyber operations.
+7 
+Systems used in national security require robust and stringent predeployment review, validation, and testing. “Red team” exercises , featuring penetration testing and simulated adversarial attacks, 
+6 NIST AI 600 -1: Generative Artificial Intelligence Profile (National Institute of Standards and Technology, 2024) . Recommends 
+best practices for designing, deploying, and monitoring generative AI systems to mitigate potential harms.  
+7 2024-12 CDAO Artificial Intelligence Rapid Capabilities Cell Document – This document  details the implementation of rapid 
+pilot programs in dedicated “sandbox” environments designed to test and validate AI applications in warfighting and enterpris e 
+management over 90 -day cycles. 
+
+
+can uncover vulnerabilities such as data poisoning or model inversion. Field trials under 
+near-operational conditions further confirm system resilience and reliability. Best practices from 
+the JCDC AI Cybersecurity Collaboration Playbook recommend incorporating coordinated cybersecurity assessments and voluntary information-sharing protocols to promptly identify and remediate vulnerabilities. Enhanced coordination among multiagency partners facilitates continuous monitoring and rapid incident reporting in response to emerging threats.
+8 
+Even with sophisticated automation, human judgment must remain central in critical decision -
+making for oversight and accountability. Commanders and policymakers should retain- ultimate decision authority, while advanced analytics and simulation tools serve in advisory roles. Establishing formal positions, such as AI Mission Officer , ensures operational transparency, 
+rigorous evaluation of AI outputs, and effective management of emergent ethical dilemmas.
+9 
+AI systems depend on robust hardware, software, and data infrastructures. Secure and 
+strengthened supply chain safeguards, including tamperproof chips, cryptographic modules, and increased domestic sourcing of critical microelectronics , minimize the risk of malicious 
+backdoors or unauthorized access. Updated export controls that restrict the distribution of dual- u-se technologies to adversarial nations further protect the integrity of advanced algorithms. Lessons from domestic manufacturing challenges underscore the importance of resilient supply chains that support both AI capability and national security interes ts.
+10 
+6.2 Enhancing Critical Infrastructure Security: Grid and Medicine Security  
+Advanced AI applications are not limited to traditional defense operations; they can also fortify other critical sectors. For example, AI‑driven monitoring systems can analyze real‑time data across power generation, transmission, and distribution networks to detect anomalies, predict equipment failures, and enable rapid responses to both cyber and physical attacks, thereby strengthening grid security. Similarly, AI can bolster medicine security by verifying the authenticity of pharmaceuticals, forecasting supply disruptions, and optimizing the distribution of essential drugs, ensuring the integrity and availability of medical supplies during crises. 
+By integrating measures such as rapid and agile AI pilot programs, comprehensive cybersecurity 
+collaboration and proactive vulnerability disclosure, robust human oversight, secure supply chain 
+and export control practices, and specialized applications for grid and medicine security, national security organizations can harness AI’s potential for efficiency, precision, and predictive insight while mitigating inherent risks. Ongoing collaboration among federal defense agencies, research institutions, and indus try partners will ensure that emerging technologies align with strategic 
+objectives, uphold ethical standards, and enhance the readiness of U.S. forces and critical infrastructure in an increasingly complex global landscape. 
+8 JCDC AI Cybersecurity Collaboration Playbook  – Emphasizes coordinated information sharing, red team exercises, and 
+enhanced operational collaboration to rapidly identify, validate, and remediate vulnerabilities in AI systems.  
+9 2024-12 CDAO Artificial Intelligence Rapid Capabilities Cell Document (Supplementary Section)  – In addition to outlining 
+pilot programs, this document recommends the establishment of formal oversight roles , such as AI Mission Officer , to maintain 
+transparency, ensure accountability, and manage ethical considerations in AI deployment for national security purposes  
+10 Section 9904 Report – Final, December 2023 – Issued by the U.S. Department of Commerce’s Bureau of Industry and Security 
+-Emphasizes the need for secure, resilient supply chains and export control measures to safeguard critical technologies from
+unauthorized access and adversarial use.
+
+
+7 INTERNATIONAL COLLABORATION  
+AI thrives in an interconnected world, where research breakthroughs, innovative datasets, and 
+advanced H PC resources are often shared across borders. By strategically engaging international 
+AI research communities, aligning, or at least coordinating, regulatory frameworks, and leveraging existing U.S. legislation, the nation can amplify AI’s benefits while mitigating global risks. Such collaborative efforts not only accelerate technical progress but also uphold ethical and democratic principles, establishin g a novel international framework that not only positions 
+our domestic efforts at the forefront of semiconductor and AI innovation but also pioneers 
+collaborative models for global technological advancement. 
+7.1 Engaging with International AI Research Communities 
+Robust AI solutions demand specialized datasets, cutting-edge technology, and diverse expertise that single nations or agencies may not possess in isolation. International engagement provides a mechanism to unify these resources: 
+Federal agencies could expand co‑funding arrangements for large‑scale AI research, pooling 
+resources with allied nations to establish joint research and funding programs. For instance, HPC‑based cancer research modeling might pair American high‑performance computing architecture with international cancer research data to deliver more accurate global insights. Existing legislation, such as the National AI Initiative Act and various science and technology agreements, provides legal frameworks to facilitate these cooperative ventures.  
+The Department of Energy’s (DOE)  strategic Memorandum of Understanding ( MOU) with 
+Norway
+11 exemplifies how formal agreements can delineate shared objectives, ethical guidelines, 
+and data-sharing protocols. This MOU focused on AI applications in science, energy, and health, outlining a bilateral working group to coordinate actions, manage HPC resources, and respect privacy by design. By codifying responsibilities and enumerating fields of cooperative work, MOUs enable governments to align academic labs, research institutions, and private entities toward mutually beneficial outcomes. 
+In addition to structured MOUs, more informal channels such as scholar exchanges, joint 
+hackathons, or domain-specific workshops, further enrich cross -border collaborations through 
+academic and industry exchanges . Encouraging international fellowships or visiting 
+professorships expands research horizons, fosters trust, and builds personal networks that can later scale into more formal partnerships.  
+7.2 Developing Collaborative Regulatory Approaches  
+AI technologies cross national boundaries, impacting issues from cybersecurity to consumer data protection. Aligning aspects of regulation with trusted partners can streamline compliance for multinational tech firms while reinforcing shared values like fairness, accountability, and transparency.  
+U.S. regulators can selectively integrate compatible features into domestic guidelines to classify AI systems by potential harm and impose stricter rules on high-risk deployments. Underpinned 
+11 Memorandum of Understanding Between the Department of Energy of the United States of America and the Royal Ministry of 
+Education and Research of the Kingdom of Norway on Collaboration on Artificial Intelligence and Its Applications to Science, 
+Climate, Ene rgy, and Health (2023) . Outlines common goals and an organizational structure for bilateral research, data sharing, 
+and HPC usage.  
+
+
+by existing legislation such as the Export Administration Regulations (EAR), these guidelines 
+should be updated to address specific AI capabilities, algorithms, and model weights. In cases where advanced AI may bolster adversarial nations’ strategic programs, stricter export restrictions or licensing procedures would be essential. Additionally, clear guidelines from agencies like the Bureau of Industry and Security (BIS) would reduce uncertainty among open-source AI developers, enabling innovation while safeguarding sensitive technologies by targeting only high-risk outputs and minimizing burdens on low-risk exports. 
+Regulators should also adapt existing U.S. f rameworks . Statutes like the National Defense 
+Authorization Act (NDAA) already govern elements of technology sharing. Building from these 
+foundations, federal agencies can introduce specialized provisions for AI that detail best practices in data governance, security  patching, and HPC usage. Such modifications ensure that 
+existing policy tools become more AI-aware, thus covering the unique contours of international AI collaboration. 
+By forging alliances with overseas research communities, deploying MOUs like the DOE–
+Norway agreement, and aligning key regulatory elements, the U.S. can balance technical advancement with broad ethical commitments. This globally coordinated stance bolsters both national security and economic dynamism, positioning the nation as a constructive AI leader ready to harness the technology’s potential while upholding democratic values across international borders. 
+8 RESEARCH AND DEVELOPMENT PRIORITIES  
+Robust R&D  investments are the bedrock of ongoing AI success. By prioritizing smaller -scale 
+innovators through targeted programs, fortifying long- term grants for fundamental research, and 
+amplifying advanced AI solutions through public sector procurement, the United States can 
+sustain its global technology leadership. A deliberate approach ensures breakthroughs in HPC, algorithmic theory, and domain-specific innovation, balanced by responsible governance and ethical considerations.  
+8.1 Reauthorizing Key Funding Programs: SBIR and STTR  
+At the forefront of U.S. innovation are the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs, which channel federal R&D resources toward agile startups and help transition academic research into commercial solutions. These programs have a proven record of spawning highly impactful technologies across sectors, including AI. For them to remain a cornerstone of national competitiveness, SBIR and STTR, often reauthorized incrementally, should be made permanent fixtures of the federal R&D ecosystem. Stable, ongoing funding and an assurance of continuity will attract more applicants, provide enough runway for iterative development, and reduce administrative overhead for both government agencies and small businesses.  
+Agencies could offer earmarked calls for AI proposals, encouraging breakthroughs in HPC optimization, advanced neural architectures, or specialized applications (e.g., health analytics, autonomous systems), to establish priority funding streams for these AI projects. By filtering these projects through SBIR and STTR, the government aligns flexible, high-impact funding with a fertile environment for risk -taking entrepreneurs. 
+
+
+8.2 Sustaining Foundational AI Research  
+Alongside SBIR and STTR’s small-scale focus, large grant programs remain critical for pushing 
+scientific frontiers. AI subfields such as quantum-inspired algorithms or neuromorphic computing require extensive exploration before reaching commercial viability. Agencies like the NSF or the DOE should offer longer-term grants that support high-risk, high- reward AI research. 
+This extended funding model gives universities, labs, and consortia space to cultivate novel theories and systematically test them on HPC s ystems. 
+Additionally, complex AI questions, like fairness under dynamic conditions or robust adversarial defense, demand input from mathematicians, ethicists, cognitive scientists, and cybersecurity experts. Supporting cross- and inter-disciplinary lab clusters accelerates knowledge sharing, bridging the gap between theoretical breakthroughs and field deployment. 
+8.2.1 Aligning Public  Sector Procurement with Innovation 
+Agencies themselves wield immense influence on AI trends through the solutions they procure. 
+By channeling government demand toward next- generation methods, agencies stimulate 
+industrial growth, validate research outcomes, and enhance mission performance. Rapid, small-scale pilot efforts can reveal how an AI solution handles real data, user feedback, or integrated HPC usage. If piloted prototypes meet or exceed performance thresholds , and pass ethical or 
+security checks , the awarding body can scale them to full production. Simplified solicitation 
+processes and flexible contract vehicles encourage smaller companies (often SBIR and STTR recipients) to bid, intensifying competition and driving innovation. Government can also embed fairness, interpretability, and security benchmarks into contract requirements, reinforcing best practices industry -wide. 
+By reauthorizing SBIR and STTR as permanent programs, nurturing ambitious AI research, and leveraging public sector procurement, the nation invests in a dynamic AI ecosystem that rewards creativity, addresses strategic needs, and sustains a global competitive edge.  
+9 ETHICAL CONSIDERATIONS  
+Grounding AI innovation in robust ethical frameworks, the United States can uphold democratic ideals, protect civil liberties, and drive international leadership in safe and transparent technology. 
+9.1 Emphasizing Responsible, Safe, Secure, and Transparent AI Deployments  
+Building AI solutions that are not only high-performing but also explainable and secure requires systemic approaches to oversight and testing. Using adversarial red -teaming, continual stress 
+tests identify loopholes susceptible to data poisoning or manipulation. The Department of 
+Homeland Security ( DHS) Playbook for Public Sector Generative AI Deployment underscores 
+that early detection of adversarial tactics helps fortify HPC clusters and maintain trust in public services.
+12 Additionally, regular compliance audits are critical to maintaining a modernized AI 
+ecosystem. Federal guidelines should require routine revalidation of AI models. The NIST AI 
+12 DHS Playbook for Public Sector Generative Artificial Intelligence Deployment (2024) . Emphasizes early detection of 
+adversarial vulnerabilities, red -teaming, and HPC security for GenAI in mission-critical applications.  
+
+
+Risk Management Framework (AI RMF 1.0) advises auditing for changes in data distribution 
+and alignment with fairness, privacy, and security requirements.13 
+9.2 Recommendations for Human -Centric AI Applications  
+Ethical AI must augment rather than displace human judgment, especially in domains with life-altering outcomes. In areas like defense and immigration, final decisions should rest with properly trained officials through Human- in-the-Loop (HITL) protocols, with AI assisting in 
+sifting large datasets or running predictive analytics. Such an approach respects the principle of human agency while leveraging automation’s efficiency. Additionally, user -focused design  
+through built-in explainability or visual dashboards equip frontline workers with quick insights into how or why a system arrived at a decision. These design elements improve adoption, reduce confusion, and allow human operators to swiftly identify anomalies. 
+9.3 Suggestions for Mitigating AI -Enabled Threats  
+From deepfake disinformation to weaponized data manipulation, AI’s potency can easily be exploited by hostile actors. Addressing these threats proactively sustains the integrity of digital systems and public confidence in agency- driven AI. To enable collaborative t hreat detection, 
+agencies, research labs, and private firms can co -develop detection algorithms to spot suspicious 
+content or malicious code. Public-private alliances like those proposed in the DHS GenAI Playbook can expedite knowledge sharing and unify countermeasures. Additionally, using a tiered approach to model risk classification and  subjecting high-risk models (e.g., generative 
+systems that produce credible impersonations) to stricter testing and continuous oversight drastically increases threat mitigation and helps flag and regulate tools with the greatest potential 
+for harm. 
+10 CONCLUSION  
+In summary, the recommendations presented in this paper recommend  a forward -thinking, 
+balanced approach to AI development that marries innovation with transparency, ethical integrity, and robust security measures to help usher in a golden age of American AI innovation. 
+We stress the importance of comprehensive governance, proactive risk management, and ongoing enhancements in data privacy and system transparency. CHC  is dedicated to 
+maintaining a strong, enduring partnership with the U.S. Government and other stakeholders, ensuring that our collaborative efforts continue to shape a trustworthy AI ecosystem. By working together, we can drive long-term economic growth, fortify national security, and enhance societal well -being while honoring our shared values. Our commitment is not only to the present 
+but also to future generations, as we strive to uphold the principles of responsibility and mutual respect in all AI initiatives.  
+10.1 Contracting Options  
+Should NSF wish to engage our services in implementing any of the suggestions in this plan, CHC suggests that NSF consider a direct  award procurement to provide efficient and cost-
+effective support to implementing EO 14179 and establishing America as a global leader in AI. Our team’s 8(a) status offers NSF a sole source procurement method that is expedient in meeting 
+emerging program requirements in the rapidly shifting technological landscape of AI. Pursuant 
+13 NIST AI Risk Management Framework (AI RMF 1.0) . Released January 2023, outlines best practices for “Map, Measure, 
+Manage, and Govern” in AI risk oversight.  
+
+
+to the direct award provisions in 13 CFR 124.506(b), direct award contracts can be awarded up 
+to $25 million in contract value, without requiring justification & approval (J&A). This direct 
+award option presents value- added advantages, such as significantly reduced procurement time, 
+reduced resource drain, and reduced total cost to the U.S. G overnment and taxpayer . This 
+procurement method also allows NSF  to directly negotiate with our firm all contract features, 
+costs, and bill rates when applicable.  
+To further benefit NSF, we recommend establishment of an Indefinite Delivery/Indefinite Quantity (ID/IQ) contract with CHC, allowing the government to establish fair market rates without committing to expenditure of taxpayer funding until the need is defined. Once NSF has 
+formed its plan  through incorporation of comment and feedback from this RFI and other sources, 
+task orders (TO) can be issued rapidly on the ID/IQ to allow CHC to assist in thought leadership and implementation , even further reducing time to impact for advancing U.S. AI leadership. 
+These advantages allow our team to deliver complex solutions to our customers in pursuit of true best-value balance between features and cost. This  procurement avenue provides rapid solutions 
+to emerging AI program requirements and allows for  negotiation of contract features 
+advantageous to NSF objectives  in the AI space. 
+
+

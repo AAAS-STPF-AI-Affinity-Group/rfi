@@ -1,0 +1,181 @@
+AI Action Plan – Comment on extinction risk from superintelligen t AI 
+Dr. Michael K. Cohen  
+Postdoctoral Fellow  
+UC Berkeley, Department of Electrical Engineering and Computer Science  
+Center for Human -Compatible AI  
+Information is urgently needed. Superintelligence AI refers to highly superhumanly 
+competent AI. If superintelligent AI presents a non -negligible risk of causing human 
+extinction, a certain set of AI policies are sensible and defensible. If superintelligent AI 
+does not present such a risk, a completely different  set of AI policies are sensible and 
+defensible. If certain ways of developing superintelligen t AI would likely cause human 
+extinction, certain things follow:  
+•Non -military attempts to build it are obviously completely inappropriate
+•The overwhelming aim of foreign policy must be to prevent any other states
+(whether they are allies or adversaries) from attempting to create superintelligen t AI
+•The achievement of the latter aim might require credibly enforced restrictions on
+own military’s development of superintelligen t AI
+If, on the other hand, there is essentially no risk of human extinction, a national AI policy 
+following the bullet points above would be dramatically ill -advised.  
+No academic consensus.  The process by which academics come to a consensus has 
+been badly hijacked. Most academics are left -wing, and therefore operate under the 
+assumption that unless a problem disproportionately affects “historically oppressed ” 
+groups , it is not really a problem, and it is in fact a distraction from “real problems”. See for 
+example, Fei -Fei Li and Timnit Gebru, who tell the public that we shouldn’t focus on 
+speculative extinction risk, but rather on real risks like AI bias.123 Nonetheless, many 
+academics are concerned about extinction from AI.4 
+No industry consensus.  Industry leaders face financial incentives to avoid having their 
+technology be banned. Nonetheless, the leaders of every cutting -edge AI company besides 
+Meta have expressed concern about extinction risk from AI.56 (This includes Elon Musk, 
+Sam Altman, Demis Hassabis, and Dario Amodei, along with many technical leads at their 
+companies.) Some have alleged that these claims of concern are not genuine, and are 
+rather an attempt to raise money or recruit regulatory cap ture, but the people listed above 
+1 https://www.theguardian.com/technology/2023/nov/05/ai -pioneer -fei-fei-li-im-more -concerned -about -
+the-risks -that -are-here -and -now  
+2 https://fortune.com/2024/08/06/godmother -of-ai-says -californias -ai-bill-will-harm -us-ecosystem -tech -
+politics/  
+3 https://www.technologyreview.com/2023/06/12/1074449/real -ai-risks/  
+4 https://www.safe.ai/work/statement -on-ai-risk  
+5 https://time.com/6310076/elon -musk -ai-walter -isaacson -biography/  
+6 https://www.safe.ai/work/statement -on-ai-risk  
+
+
+all expressed concern before founding their companies. On the other side, Yann LeCun 
+and Marc Andreessen have called extinction risk pure fantasy.  
+No chorus.  There is no technocratic chorus in either direction on the question of whether 
+advanced AI poses an extinction risk. It is not clear whether there is a democratic chorus. 
+On the one hand, large majorities express concerns.7 On the other hand, voters do not 
+seem to put the issue in front of, say, inflation, so their expressed concern may be 
+unserious. (And needless to say, whether or not AI causes human extinction, it could 
+reduce costs of a wide variety of goods and services ). 
+Empirical proof is unavailable.  While there are plenty of ominous empirical results, there 
+is no hard empirical proof that advanced AI could plausibly cause human extinction, 
+because a) we do not have sufficiently advanced AI to test in a laboratory, and b) if we had 
+such a proof, we wo uld not still be alive to discuss it.  
+Abdicating is not an option.  It is tempting to conclude that governments should not act in 
+the absence of a technocratic or democratic chorus. But not acting on extinction risk is 
+defensible only if extinction risk is negligible, and there is no chorus that claims this. 
+Abdicating on the question of extinction risk from AI is therefore not an option; it amounts 
+to implicitly assuming that everything will be fine. What the government needs to do is 
+answer the question, and fast. They cannot just get the answer from academi a or from 
+industry. They need to do the hard work of assessing the technical questions.  
+Unchallenged arguments for extinction risk.  Several arguments have been made that 
+certain advanced algorithms, run in realistic settings, would likely  cause human extinction. 
+These arguments have never been convincingly refuted; perhaps many skeptics believe 
+that if they simply make bare assertions, their audience will accept them rather than 
+seeking rebuttals.  So we more often see assertions like “These people read too much sci -
+fi”, or “I’m more worried about real harms like discrimination”, or “I actually  make AI, and 
+today’s AI is nothing like this”.  
+Solicitation of objections.  The OSTP and NITRD NCO should solicit objections to 
+particular highly compelling arguments alleging extinction risk from advanced AI, and then 
+solicit counter -objections to any of those objections that are potentially compelling. 
+Ideally, the process woul d continue —people tend to be substantially more careful when 
+making claims if they expect an adversary’s objections to appear alongside them. In 
+particular, the following arguments should be considered.  
+Claims and arguments.  Two types of claims will be discussed below. Type A: “Human 
+extinction is possible for an artificial agent to arrange, given the following set of actions 
+available to them…”. Type B: “Human extinction would likely be sought by an artificial 
+7 https://theaipi.org/poll -shows -overwhelming -concern -about -risks -from -ai-as-new -institute -launches -to-
+understand -public -opinion -and -advocate -for-responsible -ai-policies/  
+
+
+agent that was constructed and trained as follows…”. An argument labelled A1 is an 
+argument for a claim of Type A, etc.  
+ 
+Argument A1.  Claim: Human extinction is possible for an artificial agent to arrange, given 
+unrestricted internet access. Argument: We cannot possibly bound what is possible to 
+arrange with unrestricted internet access. Just as we cannot predict how an AI could beat 
+Magnus Carlsen at chess (or else we could beat Magnus Carlsen ourselves), we cannot 
+know how AI could defeat humans in a contest for control of material resources. However,  
+we should assume that it is possible. If one claims that all courses of a ction would be 
+unsuccessful at taking power away from humans, then one is alleging that exponentially 
+many courses of action have a particular property; if, on the other hand, one claims that 
+there exists at least one course of action which would successfu l at taking power away 
+from humans, then one is not alleging that any  given courses of action have any  particular 
+property. The latter requires much less evidence, so we should assume that humans are 
+not invincible, absent evidence to the contrary.  
+ 
+Argument A2. Claim: Human extinction is possible for an artificial agent to arrange, given 
+unrestricted internet access. Argument: An artificial agent could make money selling 
+digital services. It could then buy compute to run other artificial agents that help it achie ve 
+its goals. It could then generate an army of helper agents. This army could design 
+conventional weapons with software and/or hardware that has backdoors, and it could sell 
+these weapons to various states. The artificial agents could run med ia campaigns to stoke 
+war between tradition adversaries, and once the weapons are deployed, it could take 
+control of them. If some “Defensive AI’s” have been deployed to thwart plans of this 
+nature, the army of artificial agents could collude with those “D efensive AI’s” to ensure 
+that they all achieve their desired goals.  
+ 
+Argument A3.  Claim: Human extinction is possible for an artificial agent to arrange, given 
+unrestricted internet access. Argument: Programmable, nano -scale, solar -powered, self -
+replicating factories exist (such as algae), and it is therefore possible for them to exist . 
+Biotechnology research labs, guided and financed by artificial agents, could develop 
+modified or de novo solar -powered nano -scale self -replicating factories. Human defensive 
+infrastructure would be completely at the mercy of such self -replica ting factories.  
+ 
+Argument B1.  Claim: Human extinction would likely be sought by a highly competent 
+artificial agent that was trained to maximize its probability of survival over the long -term. 
+Argument: As long as humans survive, there is at least some small probably that we would 
+dec ide to destroy an artificial agent and succeed at it. There is also at least some small 
+probability that we would succeed at damaging the infrastructure that it uses to protect 
+itself from natural threats, such as solar storms and supervolcanos . Conversely, if an 
+artificial agent developed the technology to replace human manual labor with robots and 
+automate the maintenance of industrial infrastructure, then it could reach an arbitrarily 
+high survival probability without any need for help from h umans. Therefore, the highest 
+survival probability available to a highly competent artificial agent would likely occur in a 
+
+
+world where humans were eradicated. Note: an agent trained to maximize its own survival 
+has been proposed by the Chief AI Scientist at Meta.8 
+Reinforcement learning.  Reinforcement learning  (RL) is the dominant paradigm for 
+training artificial agents to pick actions in order to achieve long -term goals. An RL agent is 
+provided reward, and it learns how to pick actions that lead to high long -term reward. For 
+the purpose  of the following argument, we will consider “model -based RL”, although a 
+more detailed argument could be made for so -called “model -free RL”.  A model -based RL 
+agent first predicts what rewards it would accrue depending on what actio ns it takes, and 
+then it searches for actions that would maximize its long -term reward.  
+Argument B2.  Claim: Human extinction would likely be sought by a highly competent 
+model -based RL agent. Argument: Model -based RL agents seek to maximize their received 
+reward. A model -based RL agent could nearly guarantee maximal reward forever if it 
+commandeered all human infrastructure, intervened in the process by which its rewards 
+are determined, secured its control over its own rewards, and directed all available 
+material resources to the project. Any other strategy would admit greater risk of not 
+rece iving maximal reward forever, because factors outside of its control could threaten the 
+guarantee of maximal reward.  
+Chain -of-thought monitoring.  Current cutting edge artificial agents such as OpenAI’s o3 
+appear to reason “in English”. They generate a “chain of thought” which appears to be the 
+agent’s inner monologue. OpenAI proposes to monitor the chain of thought to detect ill 
+intentions. Then, i f ill-intentions appear, they somehow modify the design of their agent or 
+change the training regime.9 
+Argument B3.  Claim: Human extinction would likely be sought by a highly competent 
+model -based RL agent developed through an engineering process which included the 
+rejection of agents that “failed” chain -of-thought monitoring. Argument: an agent that 
+aimed to maximize reward while obfuscating its chain of thought would “pass” chain -of-
+thought monitoring. An agent that genuinely aimed for human flourishing would also 
+“pass” chain -of-thought monitoring. However, the former agent would predictably achieve 
+highe r reward. Obfuscating a chain -of-thought may not be trivial for current agents, but for 
+sufficiently advanced agents, the field of cryptography demonstrates that it is certainly 
+doable. Therefore, combining RL with chain -of-thought monitoring is more likel y to 
+produce an agent that obfuscates its chain of thought to frustrate attempts to monitor it, 
+rather than producing a truly benign artificial agent. A model -based RL agent with an 
+obfuscated chain -of-thought is likely to behave in the way outlined in Arg ument B2.  
+Connecting the dots.  If any argument of type A and any argument of type B are successful, 
+then we will eventually face substantial risk of extinction from certain forms of 
+8 https://openreview.net/forum?id=BZ5a1r -kVsf  
+9 https://openai.com/index/chain -of-thought -monitoring/  
+
+
+superintelligent AI. In that event, no AI policy proposals that are currently on the table are 
+anywhere near reasonable.  
+ 
+President Trump’s leadership.  Asked about artificial superintelligence, President Trump 
+recently said, “T here are always risks. And it’s the first question I ask  … because it could be 
+the rabbit that gets away, we’re not going to let that happen. ”10 President Trump has a 
+unique mandate to urgently get to the bottom of issues that require open -mindedness and 
+outside -the-box thinking. He is not one to sleepwalk through business -as-usual 
+Washington policy. If the arguments above are as robust as they ap pear, then President 
+Trump has the mandate completely overhaul America’s broken technology policy, and 
+keep America safe from perhaps its greatest ever threat.  
+ 
+10 https://x.com/stephaniealai/status/1883336725700948036  
+
+

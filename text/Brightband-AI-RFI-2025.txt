@@ -1,0 +1,279 @@
+To: Faisal D’Souza, NCO 
+Office of Science and Technology Policy 
+Executive Office of the President 
+2415 Eisenhower Avenue 
+Alexandria, VA 22314 2120 Fillmore St. #1007 
+San Francisco, CA 94115 
+www.brightband.com  
+Re: Request for Information (RFI) on Development of an AI Action Plan - 3/15/25 
+Summary  
+Brightband strongly supports OSTP’s efforts to plan America’s leadership in AI. 
+Weather forecasting is critical for national security, a stronger economy, and more 
+competitive military. Europe’s weather forecasting model has become the most accurate 
+global standard. AI for Weather Prediction (AIWP) is the biggest step forward in 
+forecasting since satellites and supercomputers in the 1960s. China1 is planning an 
+operational AIWP forecasting system and Europe already has one. The USA does not 
+yet have an operational AIWP model, and needs one soon to lead in AI and Weather. 
+To ensure America achieves global leadership in AI for Weather Prediction the 
+administration should support an “AIWP Moonshot”: 
+1.NOAA should deliver an operational AIWP model for global medium-term
+forecasting, with performance competitive to ECMWF’s AIFS, by July 4, 2026.
+2.NOAA should source the latest AIWP/data technology from private industry
+partners via acquisition, licensing, or co-development.
+3.NOAA, NASA, DoD, DoE, and other agencies should coordinate and leverage
+the USA’s unparalleled Earth Observation capabilities to provide the world’s
+leading real-time datastream of weather observations for AIWP modeling.
+About Brightband 
+Brightband is a leading AI weather forecasting model developer, an American startup, 
+founded by a team of serial entrepreneurs in the AI and weather space. Brightband is 
+the first private company to develop a global, operational weather modeling system 
+forecasting directly from weather observations. Brightband is helping NOAA accelerate 
+AIWP by re-processing weather observation datasets to be ready for the cloud and AI. Opportunity 
+USA GDP fluctuates by >3% annually due to weather (almost $1Trillion)2. ⅓ of the USA 
+economy is weather dependent3. Extreme weather caused $396Billion of damage in the 
+3 Table 2, Opportunities and priorities in a new era for weather and climate services (Dutton, 2002) 2 US economic sensitivity to weather variability (Lazo et al, 2011) 1 Bloomberg, China's AI Weather Forecasting Goals Face National Security Test, 2025 
+1 
+
+
+USA in 20174. Weather forecasting is crucial for the military, national security, farmers, 
+supply chain operations, space leadership, and saving lives amid disasters. 
+As a global superpower fielding a military with global reach, the United States relies on 
+having the fastest and most reliable weather forecasts as a critical pillar of safeguarding 
+its national security. Our military history demonstrates weather forecasting's strategic 
+importance. Fog helped conceal Washington's troops during the evacuation of Brooklyn 
+and a nor'easter prevented the Royal Navy from entering the East River. President 
+Eisenhower's decision to delay D-Day due to bad weather saved thousands of Allied 
+lives and helped secure victory in World War II. Advanced forecasting of the 
+unpredictable weather in the mountains helped save countless lives in Afghanistan. It 
+was critical to predict sandstorms and heat in the Middle East. Weather significantly 
+impacts modern military operations, affecting every aspect from planning and logistics 
+to execution and outcomes, and can be leveraged for tactical advantage, such as 
+influencing enemy behavior or delaying/canceling operations. From making logistics and 
+operations resilient despite tropical cyclones in the Pacific to pinpointing when cloud 
+decks will break for aerial reconnaissance and support, sustained improvement in 
+weather forecasting through innovation and AI leadership is key to American military 
+competitiveness and national security. Today the US Air Force – who are the primary 
+provider of weather forecast data in support of the American warfighter – has built its 
+current NWP capabilities on top of the UK Met Office’s modeling infrastructure, the 
+Unified Model. Weather is also key to promoting America’s prosperity and commercial competitiveness. 
+It is the most commonly cited external factor affecting changes in financial results, 
+according to filed reports. The United States has 900 million acres of farm land that face 
+a unique variety of weather extremes. Weather forecasting is key to optimizing 
+agricultural productivity. Farmers need to know when to buy seeds, plant, fertilize, 
+irrigate, and harvest, informed by predictions of sunshine, rain, frost, wind etc. to 
+maximize efficiency. Energy infrastructure safety and efficiency are dependent on 
+weather. Winds or temperature extremes can cause infrastructure to fail, wildfires or 
+blackouts. Energy efficiency planning is largely informed by weather. Solar and wind 
+generation depend on weather predictions, and energy demand varies with the 
+heating/cooling required based on temperature changes. America’s supply chain and 
+transportation safety and efficiency rely on aviation plotting safe trajectories through 
+predicted clouds, ice, wind and weather hazards, trucks avoiding icy roads, and ships 
+steering clear of big waves. America’s retailers rely on weather forecasting to know 
+whether to sell hot apple pie or ice cream. For timing safe space launches, where 4 NCEI, U.S. Billion-Dollar Weather and Climate Disasters, 2025 
+2 
+
+
+America is the world leader, it is critical to have reliable forecasts of temperature and 
+wind extremes, or lightning conditions. 
+AI can reduce losses due to weather disasters. In September 2024 Helene rapidly 
+intensified to a Category 4 hurricane and left a path of destruction 500 miles long across 
+Florida, Georgia, North Carolina, South Carolina, Virginia, and Tennessee, killing >230 
+people, causing over $50Billion of damage. Historical improvements in forecasting just 
+from 2007-2020, which enable earlier and more targeted predictions and preparations, 
+are estimated to reduce each hurricane’s cost by 19% on average, about $5 billion per 
+hurricane.5 We need further weather forecasting improvements to track hurricanes’ 
+paths and intensity earlier and more accurately, to save lives and avoid damage to 
+unprepared assets. AI has shown it can predict hurricane paths more accurately, 
+forecasting that Hurricane Beryl would hit Texas not Mexico (as traditional NWP models 
+predicted) 4 days out6, providing valuable extra time to prepare to save lives and reduce 
+damage. AI Weather Prediction (AIWP) 
+AI has brought a revolution in weather, and AI Weather Prediction (AIWP) is now faster, 
+cheaper and more accurate than the traditional physics-based Numerical Weather 
+Prediction. It is the biggest improvement in weather forecasting since satellites and 
+supercomputers in the 1960s. The core of traditional weather forecasting is a 
+technology called “numerical weather prediction” (NWP), which forms the foundation of 
+nearly all weather products and services provided by both the government and private 
+companies. Continuously developed since the 1950s, NWP models encode the physical 
+and fluid dynamical equations which describe how our atmosphere works, and 
+numerically solve them to predict how the weather will evolve. There has been steady 
+progress in improving forecast skill such that today’s 4-day forecast is as accurate as 
+the next-day forecast 30 years ago7. These improvements in forecast skill translate into 
+hundreds of billions of dollars saved annually through improved industry resilience to 
+hazardous weather, and value for national security interests operating globally. Still, we 
+want to make better decisions from weather predictions which are more accurate, more 
+confident, and provide skill at longer lead times. For example, uncertainty in hurricane 
+intensity and track on the Florida coast can restrict the window available for local 
+governments to mobilize evacuations and prepare their emergency responses to just 
+1-2 days ahead of landfall, which makes large evacuations challenging.7 Our World in Data, Weather forecasts have become much more accurate; we now need to make them 
+available to everyone, 2024 6 New York Times, Artificial Intelligence Gives Weather Forecasters a New Edge, 2024 5 Molin and Rudik, The Social Value of Hurricane Forecasts, 2023 
+3 
+
+
+NWP utilizes “data assimilation” (DA) to process observations from satellites, aircraft, 
+weather balloons, and ground observation stations into a comprehensive state of the 
+atmosphere. In addition to launching its own observation platforms and leveraging ones 
+operated by other federal agencies (in particular, NASA and the DoD), NOAA acquires 
+data for assimilation from private vendors through a Commercial Data Program8 (CDP). 
+Over the past few years, tens of millions of dollars has been invested by NOAA into 
+American companies to commercialize and deploy satellites and other platforms for 
+weather observation, creating jobs across the country, and invigorating a competitive 
+commercial weather observation industry. USA contributes ~25% of the meteorological satellite data that is shared by countries 
+globally through the World Meteorological Organization (WMO), 3% of globally-shared 
+land surface meteorological observations and 12% of upper air radiosonde profiles9. All 
+countries rely on sharing others’ observations to know what weather is coming over the 
+horizon. Not all of these data are leveraged for traditional NWP-based forecasting. For 
+example, many satellite photos have clouds in them, and most of these are rejected for 
+use by traditional DA and NWP. In contrast, the AI community is rapidly developing new 
+techniques which will benefit from these observations and use them more efficiently. In 
+addition, the USA has large and innovative commercial observation and data 
+technology industries. American leadership in observational data availability and 
+capability can drive AIWP leadership. One important way that NWP and DA are employed is to create historical replays of the 
+weather called “reanalysis” – large (a few petabytes), 3D “video-like” datasets of dozens 
+of important weather variables through the depth of the atmosphere. While NOAA has 
+produced such datasets in the past, the most commonly used such dataset available 
+today is the ECMWF Reanalysis v5 (ERA5). Reanalysis datasets are invaluable for 
+calibrating weather forecast models; they are widely employed by the private sector to 
+develop statistical or AI-based corrections to improve forecast skill, alongside real-world 
+observations. But ERA5 highlights a concerning trend in the weather modeling world: 
+that the costs to produce and run NWP systems as we chase ever-increasing forecast 
+skill and model resolution are steeply, exponentially, and unsustainably increasing10. 
+On top of its immense business and research value, ERA5 produced an unintended 
+win. By compressing decades worth of details about the atmosphere into a video-like 
+format, it presented to the AI community a unique dataset ideally suited for building a 
+new type of AI-based weather forecast model. Previously, AI models had been used in 
+limited ways for “nowcasting” or extrapolation of radar and satellite imagery. They 
+10 ECMWF, What next for supercomputing in weather forecasting?, 2016 9 Phys.org, US 'vital' for forecasting global weather extremes: UN, 2025 8 NOAA Office of Space Commerce, NOAA Commercial Data Program 
+4 
+
+
+ 
+lacked an adequate training dataset to tackle NWP-like weather forecasting. ERA5 – 
+which provided a high-quality and complete replay of the atmosphere – simplified the 
+forecast problem into an AI engineering one: Given the last two “frames” of weather, can 
+we predict the next one? Rolling this process forward in time by feeding the model’s 
+predictions of the next timestep back into itself produces a forecast. 
+ 
+Between 2018 and 2021, a few meteorologist-led efforts produced proofs of concept 
+that AI models trained on ERA5 could emulate NWP forecasts. But in 2022, efforts from 
+outside the weather community – by experienced AI model developers and AI research 
+teams at large tech companies – started producing significant research advances. By 
+2023, AIWP research models achieved (and sometimes outperformed) forecast skill of 
+comparable, best-in-class NWP systems operated by NOAA and ECMWF. This 
+technology has proliferated, with a vibrant commercial ecosystem building new AIWP 
+research models. Almost all of these AIWP models rely on European re-analysis data - 
+the ERA5 dataset. The leading operational AIWP model available today is ECMWF’s 
+AIFS. 
+ 
+AIWP promises not only a new way to forecast the weather, but also opens a new 
+frontier for improving forecast accuracy. AIWP models are up to 10,000x faster to run 
+inference (produce a forecast) while consuming a trivial amount of resources – one 
+commodity GPU, rather than a large-scale High Performance Computing (HPC) 
+super-computer system using tens of thousands of cores. With these tools, forecasters 
+anticipating a devastating tropical cyclone blow to Florida can simulate hundreds or 
+thousands of weather scenarios in just minutes, for about the price of a cup of coffee. 
+And although training these models for this sort of task is costly, it is still several orders 
+of magnitude cheaper than doing so for frontier Large Language Models (LLMs) and 
+applications such as ChatGPT or DeepSeek. 
+ 
+The next evolution in AIWP is forecasting directly from “raw” weather observations, 
+bypassing traditional NWP and DA systems altogether. This will leverage orders of 
+magnitude more observational data than traditional NWP, which only uses a small 
+subset of data that has been assimilated with expensive DA. Such an AIWP system – 
+powered by the federal government’s datastream of weather observations – will forecast 
+faster and more frequently, providing more rapid updates to emerging hazardous 
+weather scenarios and serving both public safety and efficient business operations 
+Furthermore, this innovation will open up NOAA’s massive, petascale archive of 
+historical weather data for training direct modeling applications. Forecasting directly 
+from observations will bring unprecedented accuracy and utility – a vital tool for securing 
+economic resilience in the face of extreme weather domestically and around the globe. 
+ 5 
+
+
+Recommendations 
+Through its AI Action Plan, the White House should coordinate an “AI Weather 
+Prediction Moonshot” centered around two key areas - AIWP modeling and supporting 
+observations data. The goal is American global weather forecasting leadership, with a 
+new capability to produce the most accurate forecasts for the oceans and atmosphere 
+anywhere in the world. 
+1.NOAA should deliver an operational AIWP model for global medium-term
+forecasting, with performance competitive to the ECMWF’s AIFS, by July 4th
+2026.a.Europe’s AI forecasting model went operational in February 2025
+(ECMWF’s AIFS) after a year-and-a-half of development by a team of ~ 15
+people, iterating on leading technology from the private sector (Google
+DeepMind’s Graphcast).b.China has a number of AIWP models and the China Meteorological
+Administration is moving to put them in operation: Pangu-Weather and
+Zhiji weather (Huawei), Baguan (Alibaba), FuXi (Shanghai Academy of
+Artificial Intelligence for Science).c.American technology companies have produced a variety of leading AIWP
+models, including GraphCast / GenCast (Google DeepMind), Aurora
+(Microsoft), and FourCastNet / StormCast (NVIDIA). A vibrant technology
+startup community is regularly producing competitive research models.d.Within NOAA, efforts with limited resources are underway to attempt to
+build internal AIWP capacity for both global (GraphCast-GFS) and
+regional (WoFSCast) applications for early evaluation, but these are only
+small efforts to develop limited new in-house capabilities, likely to take
+years not months.
+2.NOAA should source the latest AIWP/data technology from private industry
+partners via acquisition, licensing, or co-development.
+a.Establish a new NOAA AI Strategic Plan to achieve leadership in AIWP.
+NOAA’s pre-AIWP AI Strategic Plan expires in 2025. Efforts in AIWP need
+to accelerate to catch up with Europe and China, and benefit from the
+latest technology in private companies.b.Increase efficiency of AIWP modeling activities across the federal
+government by centralizing them in a single line office within NOAA. There
+are currently multiple AIWP R&D projects across the DoD, DOE, NOAA,
+and NASA, which fragments resources.c.Contract AIWP development from the private sector. The staggering pace
+of AIWP development is extremely difficult to replicate within federal
+6 
+
+
+agencies. Instead, NOAA and stakeholders/partners should prioritize 
+working with the leading AIWP technology players, many of whom exist 
+outside of the traditional “weather enterprise.” These players are likely 
+better resourced for agile technology development, but more importantly 
+bring in critical AI expertise and leadership poorly represented in the 
+meteorology community. d.Use new types of public-private partnerships for developing AIWP
+technology. Traditional collaboration mechanisms (Small Business
+Innovation Research grants and Collaborative Research and Development
+Agreements - SBIRs and CRADAs) provide insufficient incentives for
+private companies to quickly build AIWP models in collaboration with
+NOAA. NOAA needs to be able to quickly allocate $Tens-of-Millions in
+budget to private partners developing the latest AI and data technologies.
+The Commercial Data Program (CDP) has shown some success here,
+aligning timescales, funding, and IP ownership with the needs of private
+technology companies, to drive innovation.3.NOAA, NASA, DoD, DoE, and other agencies should coordinate and leverage
+the USA’s unparalleled Earth Observation capabilities to provide the world’s
+leading real-time datastream of weather observations for AIWP modeling.-As AIWP moves to forecasting directly from observations, the quantity,
+quality, and real-time availability of weather observation data will become
+a key competitive advantage for both training models as well as deploying
+and running them operationally-The USA produces leading observational datasets and systems, and
+invests in an increasingly innovative commercial observation industry
+through NOAA’s CDP. These datasets should be built to directly support
+the development of AIWP technology.-NOAA and other agencies should deliver the lowest-latency, most reliable
+datastream of weather observations for AIWP innovation by continuing to
+convert datasets to analysis-ready/cloud-optimized and AI-ready formats
+and by bolstering capabilities to disseminate data in real-time, rather than
+tied to the operational forecast modeling cycle.
+Conclusion 
+Becoming the global leader in AI for weather forecasting is a key pillar of enhancing 
+America's broader AI leadership. Being the global leader in AI weather would further 
+enhance our leadership in agriculture, energy, logistics, space, and in military theaters 
+around the world. 
+7 
+
+
+ 
+The key to establishing and sustaining this leadership is to support vibrant public-private 
+collaborations, closely working with a highly efficient and AI mission-driven NOAA. In 
+addition to bolstering its modeling capabilities with AI, NOAA should deliver and make 
+available the leading real-time operational weather observation data pipeline, which will 
+drive further investment in novel and impactful forecast models by their private-sector 
+counterparts. NOAA should contract with one or more American companies to build and 
+deliver an operational and best-in-class global medium-term AI Weather Prediction 
+Model (with competitive results to ECMWF’s AIFS model) in 12 months. When technology moves very fast in an area, as it is in AI Weather, it is important to tap 
+leading-edge AI talent, often in startups and tech companies, or risk being left behind. 
+ 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution. 
+8 
+
+

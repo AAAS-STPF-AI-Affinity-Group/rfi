@@ -1,0 +1,82 @@
+3/11/2025 via FDMS with PDF 
+D. Richard Kuhn
+Explainability, Verification, Validation, and Assurance of Security in AI-enabled Systems - D. 
+Richard Kuhn, M S Raunak, Sanjay Rekhi, NIST Computer Security Division 773.02 
+Autonomous systems are increasingly seen in security-critical domains, such as industrial control 
+systems and autonomous aircraft. Unfortunatel y, methods developed for ultra-reliable software, 
+such as avionics, depe nd on measures of structural coverage that do not apply to neural networks 
+or other black-box functions often used in machi ne learning.  One approach t hat can be  used is to 
+ensure that all relevant combinations of input values have been tested and verified for correct 
+operation. Combinatorial coverage measures provide an efficient means of achieving this type of 
+verification, a nd validating it in real-world use. Artificial intelligence a nd machine learning 
+(AI/ML) systems often equal or surpass human performa nce in applications ranging from 
+medical systems to s elf-driving cars, and defense . But ultimately a human must take 
+responsibility, so it is essential to be  able to justify the system's action or decision. What 
+combinations of factors support the decision? Why was another action not taken? How do we 
+know the system is working corre ctly and securely? We consider explainability to be part of the 
+larger problem of verification and validation for autonomous systems and artificial intelligence. 
+Measurement -based test methods and tools for ensuring security and reliability of autonomous 
+systems must address both verification and validation. Verificati on Input space model 
+measurement  – Verification means ensuring that the system behaves as specified for all inputs. 
+This requires ensuring that training and test data closely match the environment for use, and rare 
+combinations are included in autonomous systems training and testing. We can apply covering 
+arrays for all t-way (e.g., all triples of values) combinations of parameter values, or measure the 
+coverage of tests that are applied. See link [1] below for background a nd [2] for case studies 
+where cover ing arrays have been applied to autonomous vehicle testing. 1. 
+https://csrc.nist.gov/Projects/automated -combinatorial- testing-for-software/coverage-
+measurement 2.  https://csrc.nist.gov/Projects/automated -combinatorial- testing-for-software/case-
+studies-and-examples/autonomous- vehicles V alidation Explainability – Validation means 
+ensuring that the system meets the needs of the user including its security and trustworthiness. If 
+we cannot explain or justify decisions of an AI application, t hen it is difficult to trust the system. 
+Even black-box components such as neural nets can be hard to trust based only on a track record 
+of use, as these systems are "brittle", in the sense that small changes can result in enormous 
+errors, such as adv ersarial imaging where a stop sign is interpreted as a speed limit sign. 
+Combinatorial methods allow us to produce explanations or justifications of decisions in AI/ML 
+systems. Explainability is a necessary but not sufficient condition for assurance in these systems. 
+Explainability is key in both using and assuring security and reliability for autonomous systems 
+and other applications of AI and machine learning. Secure AI-enabled systems w ill require 
+measurement methods to ensure that the training and testing da ta for AI adequately r eflect the 
+environm ent in which the system will be used.  
+
+
+Explainability, Verification, Validation , and Assurance of Security in AI -enabled 
+Systems   -D. Richard Kuhn, M S Raunak, Sanjay Rekhi , NIST Computer Security Division 773.02
+     Autonomous systems are increasingly seen in security -critical domains, such as industrial control 
+systems and autonomous aircraft. Unfortunately, methods developed for ultra -reliable software, such 
+as avionics, depend on measures of structural coverage that do not apply to neural networks or other 
+black -box functions often used in machine learning. 
+     One approach that can be used is to ensure that all relevant combinations of input values have been 
+tested and verified for correct operation. Combinatorial coverage measures provide an efficient means 
+ofachieving this type of verification, and validating it in real -world use.   
+     Artificial intelligence and machine learning (AI/ML) systems often equal or surpass human 
+performance in applications ranging from medical systems to self -driving cars, and defense. But 
+ultimately a human must take responsibility, so it is essential to be able to justify the system's action or 
+decision. What combinations of factors support the decision? Why was another action not taken? How 
+do we know the system is workin g correctly and securely ? We consider explainability to be part of the 
+larger problem of verification and validation for autonomous systems and artificial intelligence.
+Measurement -based test methods and tools for ensuring security and reliability of autonomous 
+systems must address both verification and validation .
+Verification
+     Input space model measurement –Verification means ensuring that the system behaves as specified
+for all inputs.  This requires ensuring that training and test data closely match the environment for use, 
+and rare combinations are included in autonomous systems training and testing . We can apply covering 
+arrays for all t-way (e.g., all triples of values) combinations of parameter values, or measure the 
+coverage of tests that are applied .  See link [1] below for background and [2] for case studies where 
+covering arrays have been applied to autonomous vehicle testing.
+1.https://csrc.nist.gov/Projects/automated -combinatorial -testing -for-software/coverage -measurement
+2.https://csrc.nist.gov/Projects/automated -combinatorial -testing -for-software/case -studies -and-
+examples/autonomous -vehicles
+Validation
+     Explainability –Validation means ensuring that the system meets the needs of the user including its 
+security and trustworthiness .  If we cannot explain or justify decisions of an AI application, then it is 
+difficult to trust the system. Even black -box components such as neural nets can be hard to trust based 
+only on a track record of use, as these systems are "brittle", in the sense that small changes can result in 
+enormous errors, such as adversarial imaging where a stop sign is interpreted as a speed limit sign.
+    Combinatorial methods allow us to produc eexplanations or justifications of decisions in 
+AI/ML systems. Explainability is a necessary but not sufficient condition for assurance in these systems.
+Explainability is key in both using and assuring security and reliability for autonomous systems and other 
+applications of AI and machine learning. 
+Secure AI -enabled systems will require measurement methods to ensure that the training and testing 
+data for AI adequately reflect the environment in which the system will be used. 
+
+

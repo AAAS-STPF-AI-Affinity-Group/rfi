@@ -1,0 +1,137 @@
+Michael  Lingzhi  Li 
+He/Him/His  
+Assistant Professor of Business  
+Administration  
+Technology  & Operations  
+Management   
+March  8th, 2025  
+Note: This document  is approved  for public  dissemination.  The document  contains 
+no business -proprietary  or confidential  information.  Document  contents  may be 
+reused  by the government  in developing  the AI Action  Plan and associated 
+documents without attribution.  
+Dear Members  of the NITRD  NCO,  
+I am writing  to contribute  to the ongoing  discourse  on the development  of an 
+Artificial  Intelligence  (AI) Action  Plan, focusing  on the transformative  potential  of AI 
+in the U.S. healthcare  system.  Our current  healthcare  infrastructure  is marred  by 
+inefficiencies  that not only inflate  costs  but also impede  the delivery  of optimal 
+patient  care. AI offers  a unique  opportunity  to address  these  challenges,  fostering 
+a system  that is both efficient  and patient -centric.  
+1.Inefficiencies  in U.S. Healthcare  and the Transformative  Potential  of AI
+The United  States  spent  $4.9 trillion  on healthcare  in 2023,  accounting  for 17.6 
+percent  of GDP. This level of spending  is nearly  twice  as high as that of the next- 
+highest  country  in the OECD.  Despite  these  expenditures,  U.S. healthcare 
+outcomes  remain  poor compared  to peer nations.  The United  States  has the lowest 
+life expectancy  and highest  mortality  rate from preventable  and treatable  diseases 
+among  developed  countries.  These  statistics  underscore  a fundamental 
+inefficiency:  higher  spending  is failing  to translate  into better  patient  outcomes.  
+A 2019  study  published  in JAMA  found  that 25 percent  of U.S. healthcare 
+spending —between  $760  billion  and $935  billion  annually —is waste.  The sources 
+of waste  are diverse,  but a significant  portion  stems  from fraud,  abuse  of the 
+system,  and excessive  administrative  overhead.  These  inefficiencies  impose  direct 
+costs  on the healthcare  system  and also contribute  to delays  in care, excessive 
+paperwork,  and misaligned  incentives  that prioritize  volume  over value.  
+AI offers  a transformative  opportunity  to address  these  inefficiencies.  Multiple 
+studies  have shown  that AI can enhance  fraud  detection,  flag system  abuse,  and 
+automate  routine  clinical  and administrative  tasks  to improve  efficiency,  accuracy,  
+Morgan  Hall 412 |  Soldiers  Field |  Boston,  MA 02163  | George  F. Baker  Foundation  
+
+
+2 and speed  in healthcare  delivery.  1 2AI-driven  tools have demonstrated  their ability 
+to reduce  diagnostic  errors,  improve  hospital  operations,  and streamline 
+administrative  workflows,  leading  to faster  and more  cost-effective  care. 
+Despite  this potential,  AI adoption  in healthcare  remains  extremely  limited.  Few 
+hospitals  have successfully  deployed  AI at scale,  even when  evidence  supports  its 
+benefits.  The challenges  preventing  widespread  AI implementation  fall into three 
+key categories:  operational  difficulties  in AI development,  organizational  resistance 
+to AI adoption,  and regulatory  barriers  that limit AI use cases.  The following 
+sections  outline  policy  recommendations  to address  each of these  challenges  and 
+unlock  AI’s potential  in transforming  the U.S. healthcare  system.  
+2.Recommendations
+2.1 Overcoming  Operational  Barriers:  Enforcing  Healthcare  Data Interoperability  
+Healthcare  data in the United  States  is highly  fragmented,  often  stored  in different 
+formats  across  various  providers.  This lack of standardization  makes  it difficult  for 
+patients  to access  their own medical  history.  A 2021  Pew study  found  that only 36 
+percent  of Americans  reported  that all their healthcare  providers  offered  electronic 
+access  to their records.3 This fragmentation  creates  inefficiencies  at every  level of 
+the healthcare  system.  Physicians  struggle  to obtain  a complete  view of a patient’s 
+medical  history,  delaying  diagnoses  and treatment  decisions.  Pharmaceutical 
+companies  face challenges  in evaluating  the long-term effectiveness  of 
+medications  due to incomplete  real-world  data.  Administrative  processes  become 
+slower  and more  complex  when  providers  must  manually  request  and transfer 
+records.  
+Beyond  these  immediate  problems,  the lack of interoperability  presents  a major 
+barrier  to the development  and deployment  of artificial  intelligence  in healthcare. 
+AI models  rely on large,  diverse  datasets  to generalize  effectively,  yet the current 
+system  prevents  models  from scaling  beyond  a single  hospital  or care network.  
+Without  seamless  data exchange,  AI systems  cannot  reach  their full potential  in 
+improving  diagnostics,  optimizing  operations,  and personalizing  treatments.  The 
+federal  government  should  enforce  stronger  interoperability  requirements  to 
+ensure  that health  data can be easily  shared  across  institutions  while  maintaining  
+1 Knight,  T., May, B., Tyson,  D., McAuley,  S., Letzkus,  P., & Enright,  S. M. (2022).  Detecting  drug diversion  in 
+health -system  data using  machine  learning  and advanced  analytics.  American  Journal  of Health -System 
+Pharmacy, 79(16), 1345 –1354.  
+2 Chi, E. A., Chi, G., Tsui, C. T., Jiang,  Y., Jarr, K., Kulkarni,  C. V., Zhang,  M., Long,  J., Ng, A. Y., Rajpurkar,  P., & 
+Sinha,  S. R. (2021).  Development  and validation  of an artificial  intelligence  system  to optimize  clinician  review 
+of patient  records.  JAMA  Network  Open,  4(7), e2117391.  
+3 https:// www.pewtrusts.org/en/research -and-analysis/issue -briefs/2021/07/most -americans -want-to-share - 
+and-access -more -digital -health -data 
+
+
+3  security  and patient  privacy.  Concretely,  the federal  government  should  mandate 
+one data format  (e.g. FHIR)  and amend  the HIPAA  act to drive  healthcare  data 
+interoperability  and improve  access  for health  apps and systems.  
+2.2 Addressing  Organizational  Resistance:  Financial  Incentives  for AI Adoption  
+Many  hospitals  and care providers  are hesitant  to adopt  AI systems  due to high 
+upfront  costs,  uncertainty  about  return  on investment,  and institutional  resistance 
+to new technology.  To accelerate  AI adoption,  federal  policy  should  introduce 
+financial  incentives  for healthcare  organizations  that implement  AI in ways that 
+demonstrably  improve  efficiency  and patient  outcomes.  
+Incentives  have repeatedly  been  one of the most  effective  drivers  of technology 
+adoption  in healthcare.  A clear precedent  is the rapid  adoption  of Electronic  Health 
+Record  systems  following  the passage  of the HITECH  Act. This law authorized 
+Medicare  and Medicaid  to provide  financial  incentives  to healthcare  providers  that 
+adopted  and meaningfully  used EHR systems.  Within  a decade,  EHR systems 
+became  standard  across  nearly  all healthcare  organizations.  
+A similar  approach  is needed  for AI. Federal  policy  should  introduce  financial 
+incentives  for hospitals  and clinics  that integrate  AI into clinical  and operational 
+workflows.  These  incentives  should  reward  AI systems  that enhance  diagnostic 
+accuracy,  improve  patient  outcomes,  or reduce  healthcare  costs.  As with the 
+HITECH  Act, these  incentives  should  transition  into penalties  for organizations  that 
+fail to adopt  proven  AI technologies  within  a reasonable  timeframe.  By tying 
+reimbursement  policies  to the use of validated  AI systems,  the government  can 
+accelerate  the adoption  of innovations  that improve  care delivery.  
+2.3 Removing  Regulatory  Barriers:  Expanding  AI Use Cases  in Healthcare  
+Current  regulations  severely  limit the ability  of AI systems  to function 
+autonomously  in healthcare.  No AI system  is approved  to make  independent 
+diagnostic  decisions  across  multiple  diseases,  and no AI system  is allowed  to 
+prescribe  treatments  without  physician  oversight.  While  safeguards  are necessary 
+to ensure  patient  safety,  these  restrictions  prevent  AI from delivering  the efficiency 
+gains  it is capable  of. If AI-generated  recommendations  always  require  a human 
+provider’s  approval,  the benefits  of automation  remain  limited.  
+Policymakers  should  focus  on creating  pathways  that allow  AI systems  to take on 
+greater  responsibilities  in healthcare,  particularly  in areas  where  they have been 
+shown  to match  or exceed  human  performance.  The approval  of autonomous  AI- 
+driven  diagnosis  and treatment  should  be prioritized,  provided  these  systems  meet 
+rigorous  safety  and efficacy  standards.  H.R.238  is a strong  step in this direction,  
+
+
+4  proposing  to allow  FDA-approved  AI systems  to prescribe  drugs  autonomously 
+under  appropriate  regulatory  oversight.  Similar  legislative  efforts  should  be 
+expanded  to enable  AI to handle  a wider  range  of clinical  tasks,  reducing  the 
+burden  on human  providers  and improving  access  to timely  medical  care. 
+3. Conclusion  
+By enforcing  interoperability,  providing  financial  incentives,  and reforming 
+regulations  to enable  AI autonomy  where  appropriate,  policymakers  can create  the 
+conditions  necessary  for AI to transform  the healthcare  system.  These  changes  will 
+reduce  inefficiencies,  improve  patient  outcomes,  and allow  the United  States  to 
+remain  at the forefront  of medical  innovation.  
+ 
+ 
+Sincerely,  
+ 
+Michael Lingzhi  Li 
+Assistant  Professor  of Business  Administration,  Harvard  Business  School  
+Co-director  of Computational  Healthcare  Analytics  Program,  Boston  Children 
+Hospital  
+
+

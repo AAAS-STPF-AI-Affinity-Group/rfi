@@ -1,0 +1,177 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-9d04-anlq
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1458
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Hazel AI Technologies, Inc.
+General Comment
+See attached file(s)
+Attachments
+Hazel NSF RFI Developm ent of AI Action Plan
+
+
+1 
+March 10, 2025  
+Faisal D’Souza  
+National Coordination Office  
+2415 Eisenhower Avenue  
+Alexandria, VA 22314  
+Re: Hazel Comments on Development of an Artificial Intelligence ( AI) Action Plan 
+Dear Mr. D’Souza:  
+Hazel AI Technologies, Inc. appreciates the opportunity to provide our comments on the request 
+for information on the Development of an Artificial Intelligence (AI) Action Plan (“Plan”) by the 
+Networking and Information Technology Research and Development (NITRD) National 
+Coordination Office (NCO).  
+As founders of Hazel, an AI -powered procurement solution for government, we commend 
+President Trump’s Executive Order 14179 that the United States should enhance American’s AI 
+dominance in order to promote human flourishing, economic competitiveness, and n ational 
+security.  Hazel believes that the application and use of AI in the public sector can improve 
+government operations while saving employee time and taxpayer money.  Hazel’s AI platform 
+provides a leading example of the benefits available to taxpayers.   Hazel users save time by 
+cutting procurement time by 90% and money, and are also able to work with suppliers that 
+otherwise would not be part of the procurement process, expanding vendor access by 10x. This 
+brings new small businesses into the fold, furt hering the economic benefit for AI in the US.   
+Hazel was founded in 2024 to modernize and streamline government and public sector 
+purchasing. By automating key procurement processes including solicitation, drafting, vendor 
+identification, compliance management and contract optimization, Hazel accelerat es decision -
+making while ensuring full regulatory compliance.  The company’s proprietary AI technology 
+simplifies complex procurement workflows, reduces costs and enhances vendor diversity by 
+making supplier data more actionable.  Hazel’s team has deep exp ertise in AI, software, 
+government, and acquisitions and is relentless in our delivery of cutting -edge solutions to 
+government partners. The broader Hazel team leverages prior experience from companies 
+including Palantir, Boston Consulting Group (BCG), Loc kheed Martin, Peraton, MITRE, 
+SpaceX, and two founded and exited startups where they supported U.S. Army, Navy, Air Force, 
+Space Force, USIC, state utility entities, and private companies in acquisition and sustainment 
+
+
+2 
+support.  Hazel partners with federal, state and local agencies including educational institutions 
+and defense organizations to drive smarter, faster and more accountable procurement.  
+Within 6 months, the team rapidly deployed the Hazel AI Acquisitions and Contracting Platform 
+and its underlying specialized AI agents. These agents enable government procurement clients to 
+draft compliant, full scope solicitation, RFP, RFI, market researc h, and acquisitions justification 
+documents in hours instead of months.  They also manage clients’ entire acquisitions pipeline 
+and reduce the time from requirements definition to procurement by weeks.  Hazel has also built 
+complementary AI -enabled modules  to turbocharge existing acquisitions pipeline tasks. The 
+cornerstone of Hazel's approach is our proprietary acquisitions -specific, fine -tuned LLM that 
+enables advanced, low -touch procurement task execution for government clients across the 
+United States.  
+Hazel platform incorporates several distinct AI-powered capabilities. Hazel leverages state of the 
+art natural language processing (NLP) models for its large language models (LLMs) needs. 
+Hazel’s LLMs process user queries for acquisitions needs and analyze relevant documents. Hazel 
+also uses optical character r ecognition (OCR) tools to parse documents to derive full context and 
+structure. OCR makes historical data in any format highly valuable for LLM -powered content 
+generation.  Additionally, Hazel employs  varied AI approaches for acquiring market research by 
+matching vendors to requirements and enriching vendor data through AI -powered web -scraping. 
+Hazel has a proprietary methodology for collecting and documenting vendor capabilities by 
+combining datasets from federal government, local government, and commercial industry. 
+Systems of record (e.g., SAM.gov), websites, and other databases are trawled at regular intervals 
+by AI agents, summarized & analyzed via a series of NLP techniques, and then labeled with AI 
+agents (e.g., NAICS codes). This methodology has allowed Hazel to identify >10M potential 
+vendors.  
+Based on Hazel’s experience, below are our recommendations of core concepts to be 
+incorporated in the AI Action Plan:  
+1)Apply existing technology frameworks.  AI may be transformative, but it is not without
+precedent. In many cases, government can evaluate AI applications within existing
+technology frameworks in order to govern implementation, rather than creating new
+frameworks. Encouraging the use of industry frameworks such as NIST AI Risk
+Management Framework (RMF) and best practices will promote innovation. Companies
+will already be familiar with existing conditions so they continue to build and operate in
+the environme nt they know and will allow the government to adopt and use new
+technologies faster working in the current structure.
+
+
+3 
+2)Differentiate between productivity tools and decision -making tools.  AI regulations
+should focus on mitigating known risks and protecting against malicious activities rather
+than preventing a specific modality.  In this case, the concerning activity relating to AI is
+decision -making, and particularly, the making of consequ ential decisions.  AI regulation
+should not address productivity tools without decision -making capabilities.  When
+business cases are highly complex, it makes sense that the task should not  be entirely
+delegated to AI.  However, Hazel provides an example of a productivity tool; it assists,
+but does not replace, human decision making. Hazel believes it’s important to distinguish
+that, with current AI, there remain pitfalls to using the technology to replace human
+decision -making.
+3)Start with easy low -hanging fruit .  For AI to ensure there are no unintended
+consequences, government should start with use cases that best suit AI’s strengths. Hazel
+believes that procurement provides one example of functionality where AI can safely add
+short term benefits with minimal r isk.  Other examples include AI cameras for traffic
+control to enhance public safety and infrastructure or AI -powered tools to improve
+government transparency, like the transcription of public government meetings. Once the
+benefits of use cases like these have been proven, government can develop additional
+guardrails for more challenging
+4)Incorporate Modular Open Systems Architecture (MOSA) principles.   MOSA
+principles will be crucial to meet government agencies’ requirements for scalability,
+security and interoperability.  For example, Hazel leverages a microservices -based
+containerized architecture to ensure systems are highly adaptable to evolving miss ion
+requirements, capable of integrating seamlessly with existing systems, and scalable to
+support growing operational demands. Additionally, solutions should be designed to
+support diverse  cyber environments including unclassified, classified and airgapped
+operations, ensuring functionality across the full spectrum of use cases. Hazel's baseline
+software architecture is segmented into three distinct layers: data, model, and application.
+Each layer is self -contained, allowing independent improvements, updates, and scaling
+without affecting the other layers. This segmentation enables Hazel to handle complex
+procurement tasks efficiently, such as integrating structured and unstructured solicita tion
+data, generating justifications for selected regulation clauses, and exporting selected
+clauses seamlessly to external contract writing systems.
+5)Prioritize sustainment and lifecycle management.  Lifecycle management is a
+cornerstone approach to AI system design.  Hazel’s strategy includes proactive system
+
+
+4 
+and module updates, long -term technical support and comprehensive training programs to 
+ensure user readiness and adoption. This approach emphasizes lifecycle management by 
+continuously monitoring performance, integrating user feedback and evolving 
+capabili ties to align with emerging requirements.  
+6)Support Public -private partnerships.  The human capital currently producing AI is
+exclusively in the private sector.  Public -private partnerships will enable the government
+to work hand in hand with AI developers to create technology that follows important
+regulations while not stifling innova tion. In particular, this can be extremely beneficial to
+small businesses, like Hazel.  Partnerships between the federal government and the
+private sector will increase shared learnings, improve AI implementation, acce ss and
+mitigate risks while helping small businesses grow.
+7)Federal Guidance to Preempt State Regulations. As we’ve seen with data privacy
+laws, there is currently a patchwork of regulations that vary state -by-state.  In order to
+promote innovation, it would be ideal for the federal government to offer guidance that
+would preempt state regulations so that the c ountry as a whole continues to move forward
+with AI.
+8)Streamlined Federal IT Procurement. Government utilization of AI can improve
+access to important services for taxpayers, save time and money in government and bring
+additional data into important decisions.  In order to improve the use of AI in the public
+sector, there needs to be more flexi bility in procurement vehicles.
+We understand that some have raised concerns with AI’ s application in the public sector, but 
+with the right guidance in place, AI’s innovation and competition will ultimately help our 
+economy and businesses, while making government functions like procurement more efficient, 
+effective, and innovative.  
+We believe it is important to look at AI as an opportunity for small businesses across the country 
+to grow American prosperity through the use of innovative AI.  Instead of regulations and 
+government agencies limiting growth or having larger legacy players  fight over their slice of pie, 
+we should be focused on growing the pie as a whole and AI innovation is the tool while small 
+businesses are the vehicle to get us there. The AI Action Plan should give consideration to the 
+potential implications any proposed  regulatory policies would have on small businesses and 
+ensure that the AI Action Plan supports our technology ecosystem.  
+
+
+5 
+Thank you for the opportunity to share our perspectives around AI. We hope our 
+recommendations are taken into consideration during the development of the AI Action Plan. 
+Please feel free to reach out with any questions and we look forward to continuing to work with 
+the United States government.   
+Sincerely,  
+August Chen and Elton Lossner  
+Co-Founders  
+Hazel AI Technologies, Inc.  
+This document is approved for public dissemination.  The document contains no business -
+proprietary or confidential information.  Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution . 
+
+

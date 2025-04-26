@@ -1,0 +1,280 @@
+1 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  REQUEST FOR INFORMATION ON THE 
+DEVELOPMENT OF AN ARTIFICIAL 
+INTELLIGENCE (AI) ACTION PLAN  
+Federal Register Notice :  90 FR 9088  
+Agency: Networking And Information Technology 
+Research And Development (NITRD) National 
+Coordination Office (NCO), National Science Foundation 
+(NSF)  
+Crew Training International, Inc.  
+
+
+2 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  TABLE OF CONTENTS  
+1 COMPLIANCE AND REGULATORY OVERSIGHT  ................................ ..................... 4
+1.1 MANDATE HUMAN OVERSIGHT IN AI-ASSISTED EVALUATIONS  ................................ ...... 4
+1.2 ESTABLISH AN AI COMPLIANCE FRAMEWORK FOR FEDERAL PROCUREMENT  .................  4
+1.3 IMPLEMENT PRE-AWARD AI CERTIFICATION REQUIREMENTS  ................................ .........  4
+2 TRANSPARENCY AND EXPLAINABILITY  ................................ ................................ ...4
+2.1 REQUIRE AI-GENERATED DECISION JUSTIFICATIONS  ................................ ......................  4
+2.2 MANDATE ALGORITHMIC TRANSPARENCY AND DISCLOSURE  ................................ .........  5
+2.3 STANDARDIZE AI REVIEW DOCUMENTATION FOR DEBRIEFINGS  ................................ ..... 5
+3 DATA SECURITY AND CONFIDENTIALITY  ................................ ................................ 5
+3.1 RESTRICT AI MODEL ACCESS AND DATA HANDLING  ................................ ......................  5
+3.2 PROHIBIT FOREIGN -OWNED AI IN FEDERAL PROCUREMENT  ................................ ...........  5
+3.3 REQUIRE END-TO-END ENCRYPTION FOR AI-PROCESSED PROPOSAL DATA ....................  5
+4 BID PROTESTS AND LEGAL CHALLENGES  ................................ ............................... 5
+4.1 ESTABLISH A DEDICATED AI PROTEST REVIEW PROCESS  ................................ ................  5
+4.2 ENSURE OFFEROR ACCESS TO AI SCORING CRITERIA  ................................ ......................  5
+4.3 MANDATE REGULAR BIAS AUDITS OF AI PROCUREMENT MODELS  ................................ . 6
+5 HUMAN OVERSIGHT AND ACCOUNTABILITY  ................................ ......................... 6
+5.1 REQUIRE HUMAN SIGN-OFF ON AI-ASSISTED EVALUATION SCORES  ..............................  6
+5.2 ESTABLISH AI EVALUATION OVERSIGHT BOARDS ................................ ...........................  6
+5.3 IMPLEMENT AN AI DECISION APPEALS PROCESS  ................................ .............................  6
+6 INACCURACIES AND MISINTERPRETATION  ................................ ............................ 6
+6.1 REQUIRE DUAL-LAYER REVIEW FOR AI-ASSESSED PROPOSALS  ................................ ..... 6
+6.2 STANDARDIZE PROPOSAL FORMATTING FOR AI READABILITY  ................................ ........  6
+6.3 TRAIN AI ON HISTORICAL EVALUATIONS FOR CONTEXT AWARENESS  ............................  6
+7 IV. IMPLEMENTATION AND COMPLIANCE  ................................ .............................. 7
+7.1 OVERSIGHT AND ENFORCEMENT  ................................ ................................ ......................  7
+7.2 COMPLIANCE REPORTING  ................................ ................................ ................................  7
+7.3 CONTINUOUS IMPROVEMENT  ................................ ................................ ...........................  7
+8 ENHANCING FAIR COMPETITION AND LEVELING THE PLAYING FIELD  ......8
+9 ENCOURAGING INNOVATION WITHOUT OVERREGULATION  .......................... 8
+10 REDUCING RISK OF BID PROTESTS AND INCREASING PREDICTABILITY  ....8
+
+
+3 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  11 PROTECTING  PROPRIETARY AND SENSITIVE BUSINESS DATA  ........................ 9
+12 ENCOURAGING COLLABORATION BETWEEN INDUSTRY AND 
+GOVERNMENT  ................................ ................................ ................................ ............................ 9
+
+
+4 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  POLICY FRAMEWORK FOR AI -ASSISTED FEDERAL PROPOSAL 
+EVALUATION  
+Issued by: [Federal Agency or Office, e.g., Office of Federal Procurement Policy (OFPP)]  
+Effective Date: [Insert Date]  
+Applicable To: All Federal Agencies Using  AI in Procurement  
+I. Purpose
+This policy establishes guidelines for the responsible use of Artificial Intelligence (AI) in 
+reviewing, evaluating, and scoring federal proposal submissions. It ensures compliance with the 
+Federal Acquisition Regulation (FAR), maintains transparency and f airness, protects sensitive 
+data, and upholds the integrity of the procurement process.  
+II. Scope
+These policies apply to all federal agencies, acquisition officials, and contractors involved in AI -
+assisted evaluations of competitive procurements.  
+III.Policy Directives
+1 Compliance and Regulatory Oversight  
+1.1 Mandate Human Oversight in AI -Assisted Evaluations  
+Policy:  AI may assist in proposal evaluation, but final scoring and award decisions must be 
+reviewed and approved by a human evaluator.  
+Implementing Entity:  Office of Federal Procurement Policy (OFPP) in coordination with agency 
+procurement officials.  
+1.2 Establish an AI Compliance Framework for Federal Procurement  
+Policy:  Agencies must develop an AI governance framework that aligns with FAR, the 
+Procurement Integrity Act, and agency -specific procurement policies.  
+Implementing Entity:  General Services Administration (GSA), in collaboration with agency 
+acquisition leadership.  
+1.3 Implement Pre -Award AI Certification Requirements  
+Policy:  Before AI is used in procurement evaluations, it must be certified for compliance with 
+transparency, bias mitigation, and explainability standards.  
+Implementing Entity:  National Institute of Standards and Technology (NIST), in consultation 
+with GSA and OFPP.  
+2 Transparency and Explainability  
+2.1 Require AI -Generated Decision Justifications  
+Policy:  AI systems must provide human -readable justifications for scores, directly tied to 
+solicitation evaluation criteria.  
+Implementing Entity:  Agency procurement officials, with oversight from OFPP.  
+
+
+5 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  2.2 Mandate Algorithmic Transparency and Disclosure  
+Policy:  AI vendors must disclose model logic, training data sources, and scoring methodologies 
+before deployment.  
+Implementing Entity:  GSA’s AI Acquisition Policy Office, with enforcement by agency 
+procurement teams.  
+2.3 Standardize AI Review Documentation for Debriefings  
+Policy:  AI-generated assessments must include clear references to proposal content, ensuring 
+transparency in debriefings and bid protests.  
+Implementing Entity:  Agency Contracting Officers, under the guidance of OFPP.  
+3 Data Security and Confidentiality  
+3.1 Restrict AI Model Access and Data Handling  
+Policy:  AI systems handling proposal data must comply with Federal Information Security 
+Modernization Act (FISMA) standards, using role -based access controls.  
+Implementing Entity:  Agency Chief Information Security Officers (CISOs) and Federal Risk and 
+Authorization Management Program (FedRAMP).  
+3.2 Prohibit Foreign -Owned AI in Federal Procurement  
+Policy:  AI systems used for source selection must be developed, deployed, and maintained on 
+U.S.-based infrastructure.
+Implementing Entity:  Cybersecurity and Infrastructure Security Agency (CISA) and Department 
+of Defense (DoD) for classified procurements.  
+3.3 Require End -to-End Encryption for AI -Processed Proposal Data  
+Policy:  Agencies must enforce data encryption protocols when AI handles sensitive proposal 
+information.  
+Implementing Entity:  NIST and agency procurement security teams.  
+4 Bid Protests and Legal Challenges  
+4.1 Establish a Dedicated AI Protest Review Process  
+Policy:  GAO will create an AI -specific bid protest process to address concerns about AI -assisted 
+evaluations.  
+Implementing Entity:  Government Accountability Office (GAO) and agency contracting offices.  
+4.2 Ensure Offeror Access to AI Scoring Criteria  
+Policy:  Prior to submission, offerors must receive an overview of how AI will be used in the 
+evaluation process.  
+
+
+6 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  Implementing Entity:  Agency Contracting Officers, in compliance with FAR debriefing 
+requirements.  
+4.3 Mandate Regular Bias Audits of AI Procurement Models  
+Policy:  AI models must undergo independent audits for bias and fairness on an annual basis.  
+Implementing Entity:  NIST and OFPP, with agency reporting requirements.  
+5 Human Oversight and Accountability  
+5.1 Require Human Sign -Off on AI -Assisted Evaluation Scores  
+Policy:  No award determination may be based solely on AI -generated scores; final decisions must 
+be reviewed and signed by a human evaluator.  
+Implementing Entity:  Agency Source Selection Officials (SSOs), under OFPP oversight.  
+5.2 Establish AI Evaluation Oversight Boards  
+Policy:  Agencies using AI for procurement must create an AI Evaluation Oversight Board to 
+review AI -assisted decision -making.  
+Implementing Entity:  Each agency’s Office of Acquisition Policy, in coordination with OFPP.  
+5.3 Implement an AI Decision Appeals Process  
+Policy:  Offerors must have the ability to appeal AI -generated evaluation outcomes through an 
+established review process.  
+Implementing Entity:  Agency Contracting Officers, with oversight from GAO.  
+6 Inaccuracies and Misinterpretation  
+6.1 Require Dual -Layer Review for AI -Assessed Proposals  
+Policy:  AI may perform an initial review, but human evaluators must verify key findings before 
+final scoring.  
+Implementing Entity:  Agency Source Selection Officials, in compliance with FAR Part 15.  
+6.2 Standardize Proposal Formatting for AI Readability  
+Policy:  Agencies must provide offerors with standardized proposal templates to improve AI 
+processing accuracy.  
+Implementing Entity:  OFPP and GSA’s AI Acquisition Office.  
+6.3 Train AI on Historical Evaluations for Context Awareness  
+Policy:  AI models must be trained using anonymized historical proposal evaluations  to improve 
+assessment accuracy.  
+Implementing Entity:  NIST, in coordination with agency procurement officials.  
+
+
+7 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  7 IV. Implementation and Compliance
+7.1 Oversight and Enforcement  
+The Office of Federal Procurement Policy (OFPP) will oversee AI integration in federal 
+procurement and ensure compliance with this policy.  
+Agency Chief Procurement Officers (CPOs) must certify annually that AI -assisted evaluations 
+follow these guidelines.  
+NIST and GSA will establish an AI evaluation framework to support responsible AI procurement 
+practices.  
+7.2 Compliance Reporting  
+Agencies must submit an annual AI Use Report detailing compliance measures, AI impact on 
+evaluations, and audit findings.  
+GAO will conduct periodic reviews to assess adherence to AI procurement policies.  
+7.3 Continuous Improvement  
+This policy will be reviewed and updated every two years to align with technological 
+advancements and legal developments.  
+CONCLUSION  
+The responsible integration of AI in federal procurement can enhance efficiency, but it must be 
+implemented with strong governance, transparency, and human oversight. These policies ensure 
+that AI supports, rather than replaces, human judgment, while uphol ding federal procurement 
+integrity.  
+
+
+8 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  AI PROCUREMENT POLICIES: BALANCING INNOVATION AND 
+FAIRNESS WITHOUT BURDENING INDUSTRY  
+The integration of Artificial Intelligence (AI) in federal procurement evaluations represents a 
+significant opportunity for industry stakeholders, streamlining processes, reducing administrative 
+overhead, and increasing efficiency. However, as with any tec hnological advancement, concerns 
+may arise regarding additional regulatory requirements and the potential burden on contractors. 
+The policies outlined in this framework are designed to facilitate innovation, ensure fair 
+competition, and enhance transparenc y—without imposing unnecessary constraints on industry 
+partners.  
+8 Enhancing Fair Competition and Leveling the Playing Field  
+Far from being restrictive, these policies create a more predictable and equitable procurement 
+environment for all offerors, including small businesses and non -traditional contractors. By 
+requiring AI -driven evaluations to be transparent and explainable, b usinesses gain better insight 
+into how their proposals are assessed. This reduces ambiguity and ensures companies are 
+competing on a clear, well -defined basis rather than an opaque, AI -driven process that could favor 
+incumbents or larger firms.  
+•How This Helps Industry:  Offerors receive greater visibility into AI scoring criteria,
+enabling them to tailor their proposals more effectively and reduce unnecessary bid protests.
+•Why It’s Not a Burden:  Transparency requirements do not require extra effort from
+industry; instead, they ensure that agencies using AI provide clear guidance on evaluation
+methodologies, making it easier for businesses to align with expectations.
+9 Encouraging Innovation Without Overregulation  
+AI has the potential to streamline federal proposal evaluations, making the process faster and more 
+efficient. These policies ensure that agencies use AI as a tool to assist human evaluators —not as a 
+rigid, inflexible decision -making system. By requiring h uman oversight and final approval, the 
+policy preserves the ability of offerors to showcase innovation, unique approaches, and qualitative 
+differentiators that AI alone might overlook.  
+•How This Helps Industry:  Businesses that bring cutting -edge solutions or novel technical
+approaches  will not be at a disadvantage due to AI misinterpretation of complex
+methodologies.
+•Why It’s Not a Burden:  No additional reporting or certification is required from
+contractors; instead, federal agencies bear the responsibility of ensuring AI does not
+introduce bias or unfair exclusions.
+10 Reducing Risk of Bid Protests and Increasing Predictability  
+Bid protests are costly, time -consuming, and disruptive for both agencies and contractors. The 
+policies outlined, including mandated AI bias audits, explainable AI, and clear scoring 
+methodologies, help reduce the risk of protests by ensuring evaluations a re conducted in a fair and 
+defensible manner.  
+
+
+9 
+This document is approved  for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  •How This Helps Industry:  A transparent AI evaluation process reduces uncertainty and
+frustration, making procurement outcomes more predictable and reducing unnecessary legal
+costs.
+•Why It’s Not a Burden:  Contractors do not need to take any additional steps; instead, they
+benefit from agencies ensuring AI -driven decisions are clear, well -documented, and easily
+able to be challenged  if errors occur.
+11 Protecting Proprietary and Sensitive Business Data  
+One of the primary concerns of industry stakeholders is data security. AI systems processing 
+proprietary proposal data must comply with the highest security standards, including encryption, 
+access controls, and U.S. -based infrastructure. These safeguards e nsure that contractor -sensitive 
+information is not exposed to unauthorized access, foreign adversaries, or unvetted AI algorithms.  
+•How This Helps Industry:  Contractors gain peace of mind knowing their sensitive proposal
+information is not at risk of unauthorized AI processing or foreign data exposure.
+•Why It’s Not a Burden:  The security requirements apply only to government agencies using
+AI for evaluations, not to industry partners submitting proposals.
+12 Encouraging Collaboration Between Industry and Government  
+The policies explicitly support a collaborative approach between agencies and industry in refining 
+AI-assisted evaluations. By requiring AI protest transparency, access to scoring methodologies, 
+and human review, industry has a stronger voice in shaping ho w AI is used in federal procurement.  
+•How This Helps Industry:  Businesses can engage in policy discussions, influence AI
+evaluation processes, and ensure their concerns are addressed before new AI technologies
+become widely adopted in federal acquisitions.
+•Why It’s Not a Burden:  Contractors are not required to modify their proposals, adjust
+pricing, or take on additional compliance burdens —instead, these policies ensure AI usage
+enhances fairness, not complicates proposal submissions.
+CONCLUSION: A SMART, INDUSTRY -FRIENDLY APPROACH TO AI 
+IN FEDERA L PROCUREMENT  
+These AI procurement policies are designed to enhance fairness, transparency, and efficiency —
+without adding regulatory burden or complexity for industry stakeholders. Rather than imposing 
+new compliance requirements on businesses, the policies place the re sponsibility squarely on 
+federal agencies to ensure that AI is used responsibly.  
+By promoting clear evaluation criteria, human oversight, data security, and fair competition, this 
+framework protects industry interests while allowing AI to improve the speed and accuracy of 
+federal procurement evaluations. These  policies increase trust in AI -assisted procurement, reduce 
+bid protests, and ensure that innovation is recognized —not overlooked —by automated systems.  
+
+

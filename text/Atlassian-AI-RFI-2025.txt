@@ -1,0 +1,116 @@
+ March 15, 2025 
+ Atlassian appreciates the opportunity to share our perspectives to inform the forthcoming US 
+ Artificial Intelligence Action Plan (the “Plan”).  1  Atlassian  is an enterprise software company 
+ committed to helping teams work smarter and faster. Guided by our mission — to unleash the 
+ potential of every team — Atlassian delivers software solutions that drive productivity for 
+ organizations of all sizes. Today, over 300,000 enterprise teams globally utilize Atlassian 
+ products to enhance their collaboration, including 80% of Fortune 500 companies. 
+ Atlassian has over one million monthly active users of our AI products.  In this capacity, 
+ Atlassian plays the role of an AI “integrator” in that we combine, facilitate access to, and 
+ integrate AI models developed by third parties into our AI products. Indeed, our AI strategy has 
+ been built on a belief in multiple models from day one. This strategy allows us to swiftly realize 
+ the benefits of improvements in performance and costs of foundation models. In turn, we pass 
+ these benefits to our customers through results that are higher quality, faster, and lower cost.  
+ Our Responsible Tech practices have helped us prepare for a complex regulatory 
+ environment  .  Our approach to AI is rooted in our  Responsible  Technology Principles  , the 
+ framework we use internally to ensure we’re being thoughtful about our development and use of 
+ new technology. Our Principles were heavily informed by, and designed to align with, a number 
+ of similar principles embedded in policy and regulatory frameworks globally. But they are also 
+ uniquely Atlassian. We drew on our  company mission  and values  as well as our commitments to 
+ our customers, employees, and stakeholders. 
+ In 2024, we published our  No BS Guide to Responsible  Tech Reviews  , which describes our 
+ learnings from applying our template across Atlassian. By open-sourcing our principles, 
+ template, and sharing our lessons, we aim to encourage feedback and collaboration across 
+ stakeholder communities about the impacts of technology, and especially AI. 
+ Our four recommendations reflect our role as a global technology provider.  Like many 
+ other software companies, we face a constantly changing regulatory landscape. We are 
+ headquartered in Sydney, Australia and we have nearly 4,000 employees in the United States, 
+ which also is our largest market by revenue. In addition to national policies and legislation 
+ concerning AI emerging in Asia-Pacific and Europe’s unfolding regulatory scheme under the AI 
+ Act, our operating environment is shaped by an increasing volume of regulatory determinations 
+ from relevant domains (e.g., privacy) and legislative bodies (e.g., US states) that address AI. 
+ We believe the Plan presents an opportunity to impact international policy trends by presenting 
+ new ideas about: (1) actors in the AI value chain; (2) support for multi-model AI; (3) government 
+ procurement and use of AI; and (4) international partnerships to collaborate with like-minded 
+ partners on advancing AI adoption. 
+ Recommendation 1: Enable policy frameworks that recognize the role of AI integrators in 
+ the AI value chain.  The Plan should acknowledge the role that AI integrators play in bridging 
+ between foundation model providers, who sit at the top of the AI value chain and offer an 
+ increasingly commoditized product, and AI system deployers, who represent the last mile in 
+ 1  This  document  is  approved  for  public  dissemination.  The  document  contains  no  business-proprietary  or  confidential  information. 
+ Document  contents  may  be  reused  by  the  government  in  developing  the  AI  Action  Plan  and  associated  documents  without 
+ attribution. 
+ 1 
+
+
+ delivering AI to their end users. Current policymaking processes focus mostly on whether an 
+ entity is a “developer” or a “deployer” of AI. However, many of the companies leading AI 
+ innovation, including ours, often do not develop their own AI models or have a direct relationship 
+ with the end-user consumer. Instead, these companies commonly occupy the role of an AI 
+ “integrator” – companies that combine, facilitate access to, and integrate AI models into 
+ products and services. 
+ For the United States to reach its full potential in AI innovation, it is important that the Plan 
+ enables policy frameworks that expand on the developer-deployer framing. Indeed, AI systems 
+ are developed, integrated, combined, and deployed through a complex value chain in which 
+ multiple entities may make decisions that impact the safety or risk of the system. Accordingly, 
+ the Plan should recognize the unique role of integrators, and how US federal policy can enable 
+ the growth and thriving of this critical middle space in the AI value chain. One such area is the 
+ marketplace for foundation models, which serve as a core component of AI products that many 
+ integrators have brought to market. 
+ Recommendation 2: Encourage growth in the marketplace for foundation models.  The 
+ Plan should promote growth at the top of the AI value chain to ensure that AI integrators can 
+ choose from a broad range of performant foundation models and access reliable information 
+ about them. Atlassian relies on a multi-model strategy to deliver the best AI experience for our 
+ customers, and we leverage leading open source and proprietary models from different 
+ providers. We believe the industry will go through an explosion of new, cheaper, smaller 
+ foundation models. As such, our R&D investment is directed towards building our AI gateway to 
+ rapidly test, deploy, and productionize multiple models from multiple providers. This strategic 
+ approach allows us to swiftly realize the benefits of improvements in performance and costs of 
+ foundational models. In turn, we pass these benefits to our customers through results that are 
+ higher quality, faster, and lower cost. 
+ As an AI integrator, the federal government’s engagement in AI model evaluation provides 
+ valuable information to enable our assessment of models. For example, the National Institute of 
+ Standards and Technology (NIST) plays an especially important role as a trusted authority on AI 
+ evaluation, including evaluations conducted in partnership with other national standards 
+ authorities. Likewise, NIST has served a central role in providing guidance and standards to 
+ support IT deployment across the federal enterprise. The Plan should reinforce NIST’s 
+ continued role in these areas, as well as its broader contributions to the AI research community. 
+ Recommendation 3: Facilitate AI adoption by government agencies by clarifying AI 
+ procurement and use policies.  Government procurement  and deployment of AI products 
+ should be a key priority for the Plan. The revision of OMB Memoranda M-24-10 and M-24-18 
+ pursuant to Executive Order 14179 should reorient US government IT policy to facilitate broad 
+ adoption of AI. Given that the road to AI often runs through cloud services, a key corollary of this 
+ initiative should be reform of the FedRAMP authorization process to allow for expedited review 
+ of AI products so that they can be brought online to enhance FedRAMP authorized services, at 
+ least at the Low and Moderate levels.  
+ The Plan should also position the US federal government to lead by example in its use of AI. 
+ Building on Executive Order 13960, the Plan should include a mechanism or process that 
+ enables the White House and the interagency policymaking process to understand and gain 
+ insight from years of data about agency-level utilization of AI. Additionally, consistent with the 
+ recently-enacted  SHARE IT Act  , the Plan should take into account that federal agencies 
+ 2 
+
+
+ involved in AI development will share their source code across agencies using code 
+ repositories, unlocking opportunities for government efficiency. 
+ Recommendation 4: Invest in international partnerships to collaborate with like-minded 
+ partners and advance AI adoption.  International collaboration  on AI is a critical concern for 
+ Atlassian because of our global footprint. Today, our AI teams span countries and timezones, 
+ with core engineering work done in US and Australia. We believe strongly in the US-Australia 
+ partnership, given Australia’s role as a major non-NATO ally, a partner to the US in the Quad 
+ and through AUKUS, and signatory to a free trade agreement with the US. Indeed, our company 
+ history – an Australian startup that grew into a US-domiciled, NASDAQ-listed company with 
+ thousands of employees across the US – is a testament to the power of US-Australia 
+ collaboration. 
+ The Plan should advance the interoperability of policy and legal frameworks that enable 
+ companies to compete globally and reduce unnecessary compliance. Achieving this outcome 
+ depends on strong collaboration – both bilateral and multilateral – to shape globally 
+ interoperable approaches to AI risk management. For example, multilateral institutions continue 
+ their ongoing projects to develop governance frameworks for AI, including the G7 and the 
+ United Nations. The Plan should maintain a seat at the table in these dialogues with an eye 
+ towards mitigating burdensome requirements that limit innovation. The Plan should further 
+ promote the NIST AI Risk Management Framework in these forums, which would serve as a 
+ foundation for consistent, predictable benchmarks that ease implementation of AI governance. 
+ 3 
+
+

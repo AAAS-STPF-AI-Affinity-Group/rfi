@@ -1,0 +1,444 @@
+Ryan T. Miller  
+Vice President & Senior Counsel  
+Innovation Policy  
+(
+1 
+March 14, 2025 
+Suzanne H. Plimpton  
+Reports Clearance Officer  
+National Science Foundation  
+Via ostp-ai-rfi@nitrd.gov  
+Re: ABA Comment Letter responding to Request for Information on the Development of 
+an Artificial Intelligence (AI) Action Plan  
+Dear Ms. Plimpton, 
+The American Bankers Association1 (ABA) appreciates the opportunity to provide input from 
+the financial services industry into the  Development of an Artificial Intelligence (AI) Action 
+Plan (“Plan”).2 This Plan, as directed by President  Trump’s  Executive Order issued on January 
+23, 2025, will define the priority policy actions needed to sustain and enhance America's AI 
+dominance, and to ensure that unnecessarily burdensome requirements do not hamper private 
+sector AI innovation.3 We hope these comments are helpful in formulating the Plan and look 
+forward to working with the policymakers tasked under it on more specific deliverables.   
+The world has been captivated by the reality and promise of generative AI since its public 
+unveiling in late 2022. It has powered investment, fueled dreams, and inspired new ways of 
+thinking. It has the potential to improve the daily lives of individual Am ericans even while 
+impacting geopolitics on the grandest scale. Currently, the leading AI developers call the United 
+States of America home. But if US leadership in the field of AI is to be preserved, it will be 
+necessary for the federal government to fost er an environment of trust and consistency. Without 
+meaningful standards to channel efforts in a constructive manner, companies scrambling for 
+dominance would be so many “crabs in a bucket” seeking an edge over competitors.  
+Such an arrangement simply will not work given the interconnectedness of the AI ecosystem, in 
+which Big Tech companies develop large language models (LLMs), downstream companies 
+deploy these LLMs for particular use cases, and end users (agents or customers  of the deployer) 
+utilize these applications. The reliance of companies on third party entities in this arrangement is 
+clear, driving home the need for baseline standards and due diligence. Complicating the picture 
+1 The American Bankers Association is the voice of the nation’s  $24.1  trillion banking industry, which is composed 
+of small, regional and large banks that together employ approximately  2.1 million people, safeguard  $19.2  trillion 
+in deposits and extend  $12.7  trillion in loans .  
+2 https://www.federalregister.gov/documents/2025/02/06/2025 -02305/request -for-information -on-the-development -
+of-an-artificial -intelligence -ai-action -plan  
+3 https://www.federalregister.gov/documents/2025/01/31/2025 -02172/removing -barriers -to-american -leadership -in-
+artificial -intelligence   
+
+ 
+2 
+ 
+even further is the fact that many LLM developers train their models by screen scraping data, 
+potentially in contravention of website terms of service. This behavior can throttle internet 
+performance and could, in time, disincentivize content creation.  
+ 
+But where to find these standards? Fortunately for the AI ecosystem, they already exist. Banks 
+are a model for how other industries can explore AI -enabled use cases in a fruitful and 
+sustainable  manner. The compliance requirements, model risk management expectations, and 
+supervision by specialized regulators has resulted in an environment of trust and responsible 
+innovation , a prerequisite for prosperity . Accordingly, the financial services sector can be a 
+leader  to encourage the proliferation of these feat ures. The framework under which banks 
+operate can, with some clarifications and adjustments, effectively manage risk without 
+endangering American dominance. We urge policymakers  to extend  similar standards to 
+nonbank participants  in the AI ecosystem, and we  look forward to collaborating  with the 
+Administration, agencies, Congress, and other stakeholders to ensure that outcome.  
+ 
+To that end, this document contains a number of high -level policy recommendations. These are:  
+ 
+1. Congress must pass comprehensive laws establishing an AI risk management framework 
+with strong preemptions of state requirements and which do not create duplicative or 
+inconsistent obligations  for banks . 
+ 
+2. Agencies should identify clear regulatory outcomes and objectives, while enabling 
+regulated entities the ability to deploy effective risk management techniques based on 
+common sense  and best practices . Agencies must have perspective on the entire AI 
+ecosystem rather than merely isolating the regulated entities, using existing authorities to 
+address risks wherever they arise. Additionally, regulators must be transparent about the 
+ways they utilize AI th emselves.  
+ 
+3. The Federal Reserve (Fed), the Office of the Comptroller of the Currency (OCC), and the 
+Federal Deposit Insurance Corporation (FDIC) should update model risk management 
+guidance, subject to a notice and comment period. Moreover, field examiners must be 
+trained not to focus on granular matters such as LLM’s code but rather on the inputs, 
+outputs, and outcomes of models.   
+ 
+4. Policymakers should encourage adoption of voluntary standards and frameworks where 
+possible in order to encourage cross -sector collaboration. For example, this could include 
+model cards to allow for explainability without divulging confidential commercial 
+information, or certifications to help demonstrate sufficient maturity of policies and 
+procedures.  
+ 
+
+ 
+3 
+ 
+These recommendations will be explored in additional detail below.  
+ 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+ 
+Introduction  
+ 
+Financial institutions have a long history of deploying and controlling risk related to novel 
+technologies , and this includes both the t raditional and generative iterations of the AI spectrum. 
+Moreover, banks’ use of AI is subject to a strong foundation of compliance to manage attendant 
+risks. This foundation includes: three lines of internal risk -management defense s; application of 
+technology -neutral  laws, regulations, and guidance; and validation of the effectiveness of the 
+framework through regular exami nations by the bank regulatory agencies.  
+ 
+The following comments are based on discussions with ABA’s AI Working Group, which is an 
+interdisciplinary body of data scientists, technologists, compliance, legal, risk, security, audit, 
+and human resources experts representing banks of all sizes. This group routinely comes together 
+to formulate policy positions as well as to discuss operational best practices. Our comments are 
+also informed by the work of the Financial Services Sector Coordinating Council's R&D 
+Committee , which the ABA co -chairs .4  
+ 
+Our comments are organized into four sections: (I) Current State of AI Regulation; (II) How 
+Banks Use AI; (III) Risk Management of AI; and (IV) Recommendations for Policymakers.  
+ 
+I. Current State of AI Regulation   
+AI is an umbrella term for various enabling technologies and is not a standalone program, 
+product, or service. Rather, it is embedded into various bank operations , including security and 
+products and services provided to customers.  While it is useful to attach definitions to AI for 
+purposes of framing the discussion, ABA strongly believes that  any requirements should be 
+rooted in use cases  and the resultant risks presented, not in the technology that helps deliver 
+them.  
+There is a complex overlay of applicable laws, regulations, and supervisory guidance that is 
+relevant to AI usage  by banks . The most important of these are model risk management 
+ 
+4 The FSSCC R&D committee convened a series of meetings with financial sector experts to explore the role of AI 
+in cybersecurity and fraud, which resulted in a six page report that the US Treasury included in its March 2024 paper 
+on AI and cybersecurity. Se e, Appendix , https://home.treasury.gov/system/files/136/Managing -Artificial -
+Intelligence -Specific -Cybersecurity -Risks -In-The-Financial -Services -Sector.pdf  
+
+ 
+4 
+ 
+expectations issued by the Fed, OCC, and FDIC.5 The guidance applies to models, which are 
+defined as:  
+a quantitative method, system, or approach that applies statistical, economic, financial, or 
+mathematical theories, techniques, and assumptions to process input data into quantitative 
+estimates. A model consists of three components: an information input component, which 
+delivers assumptions and data to the model; a processing component, which transforms 
+inputs into estimates; and a reporting component, which translates the estimates into 
+useful business i nformation…The definition of model also covers quanti tative approaches 
+whose inputs are partially or wholly qualitative or based on expert judgment, provided 
+that the output is quantitative in nature.”6  
+Further, even “more qualitative approaches used by banking organizations — i.e., those not 
+defined as models according to this guidance —should also be subject to a rigorous control 
+process.”7 Thus, treatment is scaled based on the use case and risk appetite. In 2021, the Federal 
+Reserve, the OCC, and the FDIC issued interagency guidance addressing model risk 
+management to support Bank Secrecy Act/Anti -Money Laundering and Office of Foreign Assets 
+Control Complia nce (BSA/AML and OFAC).8 
+Banks of all sizes use third -party sources to develop AI models, and the challenges associated 
+with managing the risk posed by these models are universal across the banking industry. 
+Accordingly, the interagency guidance issued by the Fed, the OCC, and the FDIC on third -party 
+risk management  is a crucial tool in conducting due diligence.9  
+During the prior Administration, several agencies released materials regarding AI .10 Although 
+these materials did not purport to create new policy, entities subject to the agencies’ jurisdiction 
+carefully monitor such activity in order to divine regulatory attitudes. A more open process that 
+ 
+5 SR 11 -7, OCC Bulletin 2011 -12, and FIL -22-2017, respectively. The OCC also released a booklet for its 
+examiners to use as an aid when supervising banks’ model risk management programs; see 
+https://www.occ.treas.gov/publications -and-resources/publications/comptrollers -handbook/files/model -risk-
+management/index -model -risk-management.html .  
+6 SR 11 -7, page 3.  
+7 Id.  
+8 SR 21 -8, OCC Bulletin 2021 -19, and FIL -27-2021, respectively.  
+9 Guidance on Third -Party Relationships: Risk Management, 
+https://www.federalregister.gov/documents/2023/06/09/2023 -12340/interagency -guidance -on-third -party -
+relationships -risk-management .  
+10 See, e.g., Joint Statement on Enforcement Efforts Against Discrimination and Bias in Automated Systems, 
+https://files.consumerfinance.gov/f/documents/cfpb_joint -statement -enforcement -against -discrimination -bias-
+automated -systems_2023 -04.pdf ; CFPB, Advisory on chatbots in consumer finance, 
+https://www.consumerfinance.gov/data -research/research -reports/chatbots -in-consumer -finance/chatbots -in-
+consumer -finance/ ; CFPB, Circular 2023 -03, “Adverse action notification requirements and the proper use of the 
+CFPB’s sample forms provided in regulation B,” 
+https://files.consumerfinance.gov/f/documents/cfpb_adverse_action_notice_circular_2023 -09.pdf .     
+
+ 
+5 
+ 
+gathers and considers industry feedback would lead to superior outcomes —a process 
+exemplified by this RFI.  
+II. How Banks Use AI  
+Banks have a long history of using traditional AI within the risk management framework 
+outlined above. “Traditional AI ” can be thought of as a system designed to respond to a 
+particular set of inputs. It “learns” from the data and makes decisions or recommendations based 
+upon the data, but does not create anything new. Traditional AI is generally predictable and has 
+been vetted through years of usage and supervisory feedback.  
+Generative AI  can be thought of as a form of AI that can create something new from prompts it 
+receives. Generative AI models are “trained” on a set of data and learn the underlying patterns to 
+generate new data that mirrors the training set. This can include images, mu sic, and computer 
+code, among other things.   
+Generative applications are still in the nascent phase; the re is much more work to be done to 
+fully understand and trust the technology , as well as the r egulators’ attitudes towards it. Banks 
+are paying particular attention to agentic AI, which acts as an assistant to employees who in turn 
+function as a “human in the loop” control. B anks are proceeding very cautiously with generative 
+AI, particularly with regard to customer -facing applications.  
+Examples of AI Use Cases  
+Banks are using traditional and generative forms of AI in the following ways (use cases utilize 
+the traditional form of AI unless otherwise noted) :  
+• Cybersecurity - AI is used to detect and respond to potential cyberattacks more quickly 
+and efficiently than human intelligence could accomplish alone.  AI-based network 
+security software can monitor incoming and outgoing network traffic to identify 
+suspicious patterns to aid security analysts in their initial classification by reducing the 
+number of false positives. Banks may also utilize generative AI to  pinpoint malicious 
+code as well as aide internal developers in identifying vulnerabilities in their own code.  
+ 
+• Fraud Prevention  - AI models using predictive analytics help banks proactively find 
+anomalies in transactions and identify outliers that do not conform with customers’ past 
+patterns or payment activity.  AI models not only improve the performance of fraud 
+detection capabilities, but also help catch fraudulent activity before it impacts customers.  
+ 
+• Lending - Banks use AI across lending processes to help identify accounts that can be 
+approved for credit, as well as loan amounts and pricing. AI assists banks with evaluation 
+
+ 
+6 
+ 
+of creditworthiness and improves efficiency in decision -making.  It can also provid e 
+metrics around key life indicators such as attrition rates for mortgages.  
+ 
+• Customer Service - AI assists banks with learning how customers interact with their 
+products and services. In addition, AI can perform sentiment analysis to gain insight into 
+satisfaction  levels . This data can be used to better understand customer interactions and 
+how to improve them. Generative AI ’s ability to summarize conversations with contact 
+center personnel may also be used to help representatives grasp the backstory when 
+customers have to re -engage on the same issue with a different individual and ca n 
+streamline the process of finding answers to customer inquiries.  
+ 
+• Chatbots - Chatbots powered by traditional AI are commonly used and can respond with 
+static responses to certain keywords. Customers gravitate towards these channels due to 
+ease of use and preference for self -service.  In fact, in certain circumstances (such as to 
+obtain a routing number) m any customers may prefer to  interact with a chatbot rather 
+than a human. Thus, routine questions could be handled by the chatbot, with referral to 
+human beings for more complex issues. Moreover, they can also be leveraged f or 
+simulations to train employees on how to deal with complaints or other eventualities. 
+Generative AI may further expand chatbot capabilities.  
+ 
+• Marketing - Traditional and generative AI may help automate the creation of various 
+types of marketing content, including ad copy, social media posts, image/video 
+generation, and product descriptions. AI can personalize content to optimize its 
+relevance. Personalization must be balanced with privacy principles that protect personal 
+information , respect consent , and comply with legal requirements .  
+ 
+• Back Office - Code generation, regulatory reporting, internal document/knowledge 
+management, and agentic tools for compliance and audit functions are promising use 
+cases for generative AI.  
+ 
+III. Risk Management of AI  
+A material feature of generative AI  to bear in mind is its prompt -based nature, which lowers the 
+barrier to access and expands the pool of potential users.  This attribute makes it even more 
+important to stand up effective AI governance.  
+On a broad scale, b anks are undergoing a paradigm shift characterized by the breakdown of silos 
+in favor of enterprise -wide functions . We expect this movement will continue. As part of this 
+transition, banks are building interdisciplinary teams to identify, assess, and mitigate risks 
+stemming from particular use cases. These cross -functional groups allow for superior risk 
+awareness and mitigation versus compartmentalized approaches.   
+
+ 
+7 
+ 
+ABA members have been using AI technologies for years, while being subject to supervision and 
+regulation. Their existing and mature governance frameworks are already mitigating AI -specific 
+risks. They do not require a separate process for evaluating AI applications; rather, they ensure 
+the existing  risk management framework has the necessary personnel/controls to flag  the 
+inherent risk associated with AI -enabled use cases.  
+ 
+Further, ABA members are confident that banks will be able to adapt their existing risk 
+management and governance frameworks to mitigate risks associated with increased use of 
+emerging AI technologies. This is testament to the three lines of defense structure used by banks , 
+coupled with agency supervision.  
+ 
+Three Lines of Defense  
+ 
+The “three lines of defense” refers to the division of roles and responsibilities within a bank in 
+order to identify, assess, and mitigate risks. Among other sources, this expectation is provided in 
+the model risk management guidance, SR 11 -7:11  
+ 
+• The first line are business units, which are generally responsible for the risk associated 
+with their business strategies. They are ultimately accountable for the risk and 
+performance within the framework set by bank policies and procedures, and are 
+respon sible for ensuring processes are properly developed, used, and evaluated.  
+ 
+• The second line is the control function. The responsibilities include risk measurement, 
+limits, and monitoring. Other responsibilities include managing the independent 
+validation and review process to ensure that effective challenge takes place. Control st aff 
+should have the authority to restrict business operations and order corrective action. 
+Control work can exercise judgment in order to prioritize risk treatment .  
+ 
+• The third line is the bank's internal audit function. The third line's role is not to duplicate 
+risk management activities but to evaluate whether risk management is comprehensive, 
+rigorous, and effective. They should be independent and document findings. The third 
+line should possess expertise but should not be directly involved in the first or second line 
+of work. The third line should also verify that acceptable policies are in place, owners 
+and control groups comply with those policies, validation work is conducted properly, 
+and appropriate degrees of effective challenge is being carried out.  
+ 
+Examples of Risks  
+ 
+Some examples of the risks  stemming from AI usage  that financial institutions mitigate through 
+the governance framework are:  
+ 
+ 
+11 SR 11 -7, see pp. 18 -19.   
+
+ 
+8 
+ 
+• Cybersecurity and Fraud - banks must identify vulnerabilities in their own systems caused 
+by AI (such as potential data leakage or backdoors). They must also defend against 
+increasingly sophisticated AI usage by bad actors.  
+ 
+• Privacy and Data Governance - the training data must be of sufficient quality to ensure 
+good model performance, and moreover usage of the data must be permissible under 
+applicable law and terms of service. Banks seeking to leverage customer data must 
+consider whether there is suffici ent disclosure and transparency around AI processes.   
+ 
+• Bias and Fair Lending - Financial institutions are committed to ensuring that credit 
+decisions are made in a fair and non -discriminatory manner. Banks utilize a rigorous 
+validation process for models and conduct a statistical analysis to assess performance in 
+meeting their business needs. An exhaustive compliance review is a crucial step prior to 
+deployment.  
+ 
+• Third -Party Risk Management - Given that vendors are an essential element of the AI 
+ecosystem, banks have to conduct proper due diligence to understand how third parties 
+deliver AI -enabled services, as well as how AI affects the third parties’ own operations. 
+Banks must then negotiat e contractual provisions to mitigate risk and delineate 
+responsibilities. Banks must be able to understand and explain third -party solutions in 
+order to inform their customers and satisfy regulatory expectations.  
+ 
+• Illicit Finance  - Many banks use AI and machine learning technologies as part of their 
+risk-based approach to BSA and sanctions compliance. In order to adopt an effective risk -
+based approach, banks must have an accurate understanding of the actual risks associated 
+with t heir business practices. Banks also need refined and accurate models to avoid 
+expending unnecessary resources investigating false positives; while ensuring they do not 
+miss important red flags. In addition, generative AI can be used by bad a ctors to create 
+realistic IDs, such as fraudulent passports , when attempting to open accounts online .  
+ 
+The risk management framework used by banks is able to address these and other issues; 
+nonbanks and other ecosystem participants would benefit from it as well.  
+ 
+IV. Recommendations for Policy makers  
+ 
+ABA makes the following recommendations for inclusion in the Plan:   
+ 
+ 
+ 
+
+ 
+9 
+ 
+A. Legislation  
+Congress must assert its leadership over this issue. Momentum is building for legislative action; 
+if Congress does not act, the states will (and some have already). This patchwork of requirements 
+would be burdensome to national companies and have adverse c onsequences to American 
+dominance in this space.  
+Instead, Congress must pass comprehensive laws establishing an AI risk management framework 
+with strong preemptions . These laws should create baseline standards that are not duplicative or 
+inconsistent with the  model risk management obligations of banks .  
+Moreover, such a law should take a different path than laws such as the EU AI Act12 or the 
+vetoed California bill SB 1047,13 which are overly prescriptive and accordingly may discourage 
+innovative practices such as fine -tuning existing LLMs. Instead, a flexible risk -based framework 
+adapted from that used by banks would be far more effective at both achieving dominance and 
+mitig ating potential harm.  
+B. Regulation  
+Regulators should identify clear regulatory outcomes and objectives, while enabling regulated 
+entities the ability to deploy effective risk management techniques based on common sense and 
+best practices.   
+Requirements of banks to examine and monitor third -party AI algorithms, training data, or 
+performance are not possible without third party cooperation. Any rulemaking related to AI 
+should leverage existing authorities to focus on third -party nonbank AI models, tools, and 
+platforms to impose the same obligations directly on such third parties and to require such 
+providers to furnish sufficient credible, reliable information if used by financial institutions or in 
+the financial services market.  
+At the same time, r egulation of AI outside of federally regulated financial institutions needs to be 
+strengthened. Far from being an impediment, this oversight would bolster innovation by creating 
+a culture of trust and consistency that allows companies to experiment with confidence. 
+Dominance is achieved on a level playing field; not when government tips the scales in  a 
+particular stakeholder’s direction.  
+Finally, governmental agencies must be transparent about their own use of AI, especially the 
+ways in which it is brought to bear on regulated entities.  
+C. Supervision  
+ABA encourages updates to model risk management guidance to be more reflective of bank 
+operations and to make applicability to AI usage more obvious. Existing model risk guidance 
+ 
+12 https://eur -lex.europa.eu/legal -content/EN/TXT/?uri=CELEX%3A32024R1689 .  
+13 https://legiscan.com/CA/bill/SB1047/2023 .  
+
+ 
+10 
+ 
+from the prudential agencies14 establishes standards for the use of third -party models used by 
+banks, but banks may not have the ability to fully oversee all AI that third parties use to provide 
+services.  Updated guidance should clearly delineate the responsibilities when banks use third -
+party AI. However, overly prescriptive safeguards or prohibitions on the use of AI could become 
+a barrier to valuable use cases if banks do not have appropriate flexibility to test and adapt new 
+AI tools.   
+Critically, however, such updates must be developed through a notice and comment period to 
+ensure that the proposed clarifications reflect the current state of technology, industry practice, 
+consumer interests, etc.   
+In addition, many ABA members report that field examiners often stymie innovation efforts by 
+needlessly focusing on granular matters (such as explaining the finer points of computer code) 
+rather than areas of true risk (such as a model’s inputs, outputs, a nd outcomes). Field examiners 
+should be responsible for implementing an agency’s policy, not making their own. This is 
+especially true because field examiners exercise outsize power on how banks are able to function 
+and adapt to their markets. Improper sup ervisory practices hurt the banking industry (often 
+disproportionately affecting community banks) and drive potential customers into the arms of 
+underregulated fintechs.  
+D. Other  
+The Plan should encourage the development of voluntary strategies for managing AI -related risk. 
+One example would be a standardized disclosure template (model cards) shared for validation 
+exercises which would not require the sharing of confidential commer cial information. Another 
+example are industry certifications to provide evidence of compliance for a baseline of fairness, 
+transparency, and explainability ; such programs would aid banks of all sizes and give AI 
+developers incentives to build controls . Cooperation between industry and government  via 
+public/private partnerships  is also needed to meet the challenges posed by advanced 
+technologies.   
+The Plan should  seek to develop an approach to explainability that transcends traditional 
+methodologies by leveraging a suite of coordinated risk management practices, including but 
+limited to data governance, weighted decision -making criteria, assurance and testing, and  
+continuous risk monitoring. This can be achieved by mapping to  the NIST  AI R isk Management 
+Framework15 (as well as the NIST Privacy Framework16) and/or creating sector -specific profile s. 
+This holistic approach  should include all participants in the AI ecosystem, including technology 
+companies and non -financial industry actors, particularly because the economics of LLM 
+development prevents internal development thereof and drives adoption of third -party offerings . 
+Such work could be the foundation of interoperability across sectors and jurisdictions  and would 
+allow the entire ecosystem to innovate confidently.   
+ 
+14 SR 11 -7, OCC Bulletin 2011 -12, and FIL -22-2017, supra, note 5.  
+15 https://www.nist.gov/itl/ai -risk-management -framework .  
+16 https://www.nist.gov/privacy -framework .  
+
+11 
+Conclusion  
+As demonstrated above, the financial services sector can serve as an exemplar for responsible 
+innovation of AI. While emerging technologie s are exciting and can open new possibilities for 
+the human condition, it is essential that they occu r in an environment that fosters trust and 
+accountability. Castles cannot be built on quicksand; dominance can only result from order. 
+We have made several high-level recommendations that the Plan should pursue. There are more 
+particular actions to be taken, and ABA and our members would follow up directly with the 
+entities tasked under the Plan on those deliverables.  
+ABA and our membe rs are grateful for the oppo rtunity to provide input into the Plan a nd stand 
+ready to support policymakers as they work to implement it.    
+If you have any questions about this comment, please contact Ryan T. Miller . 
+Respectfully submitted, 
+Ryan T. Miller  
+Vice President & Senior Counsel, Innovation Policy 
+

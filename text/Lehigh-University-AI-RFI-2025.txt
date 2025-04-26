@@ -1,0 +1,358 @@
+1 
+Response to a Request for Information on the Development of an Artificial Intelligence 
+(AI) Action Plan 
+Submitted by Lehigh University 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution. 
+
+
+2 
+Introduction 
+The fundamental capabilities of Artificial Intelligence (AI) for expanding opportunities in 
+U.S. industry, healthcare, education, and infrastructure are clear, but will not be met 
+without leadership and investment from the federal government. We propose a series of 
+fundamental principles that should guide the development and deployment of AI 
+systems, and describe opportunities and challenges in several key areas. We believe 
+that investments that integrate academic and private sector entities to push AI 
+innovation forward will ensure U.S. leadership in AI. Innovation programs will spur 
+investments in transportation, healthcare, infrastructure, national labs, and other areas, 
+with a consistent focus on national security and on promoting US advances in AI 
+growth. Ongoing innovation will require changes in policy and law, with ethical 
+considerations given to the Constitutional rights of people and industries, and the goals 
+of the United States. 1. Fundamental Principles Guiding AI Development and Deployment
+A. Implementing Privacy Safeguards to Promote Trust and Adoption: Data
+protection is fundamental to national security in the AI era. Large-scale data is essential
+for AI development; however, if data—including citizens’ personal information and
+classified materials—is not adequately secured and regulated, malicious actors may
+exploit it. Effective protection of sensitive data reduces critical security risks, such as
+espionage, identity theft, and foreign influence operations. Experts caution that the
+commodification of personal data, without comprehensive privacy regulations, has
+generated “untenable national security threats” by allowing adversaries to collect and
+misuse U.S. citizens’ data.
+Goal: To address these vulnerabilities, AI systems must incorporate robust privacy
+safeguards, including encryption, stringent access controls, and clear data-use policies,
+to prevent data breaches or cyber intrusions. Furthermore, ensuring privacy-respecting
+AI surveillance and data analytics enhances public trust—an essential factor for
+effective and sustained national security initiatives.B. Promoting Transparency and Accountability for AI solutions: National security
+applications of AI—spanning military decision-support systems, intelligence analysis
+tools, and cybersecurity defenses—must be transparent, accountable, and consistent
+with ethical standards. Ethical AI deployment requires lawful and responsible usage,
+with human oversight for high-stakes decisions. For instance, the U.S. Department of
+Defense implemented AI ethical principles to align AI usage with American values and
+the laws of war. These principles emphasize that adopting AI for strategic advantage
+
+
+3 
+does not compromise the United States’ commitment to responsible and lawful conduct. 
+Likewise, the Intelligence Community’s ethics framework highlights transparency and 
+accountability, pledging openness about AI deployments (within security constraints) 
+and holding personnel accountable for AI-driven decisions (Intelligence.gov).  
+Goal: These requirements translate into a practical need to develop audit trails, 
+interpretable outputs, and independent oversight to deter misuse. By adopting these 
+ethical guidelines, defense and intelligence agencies can expand their capabilities while 
+upholding legal norms and public trust, ensuring AI remains a principled force multiplier 
+for national security. C. Enhancing Legal and Regulatory Frameworks to Align with National Priorities:
+Existing laws and regulations frequently lag behind the rapid advancement of AI
+technology, creating governance gaps that pose significant risks to national security. It is
+essential to establish a comprehensive legal framework for AI that aligns clearly with
+national security priorities and democratic principles. One major concern is the absence
+of comprehensive federal privacy legislation in the United States, a gap that experts
+highlight as having heightened security risks due to largely unregulated data practices.
+Goal: Address this gap in order to establish uniform national standards for data
+protection in AI applications. Moreover, specialized governance for AI usage in national
+security contexts is required. This involves clearly defining prohibited or high-risk AI
+applications (such as autonomous lethal weapons without meaningful human oversight)
+and implementing robust risk management procedures for critical AI systems.D. AI Data Center Efficiency: AI data centers are among the fastest-growing energy
+consumers globally, as AI workloads require significantly more computational power and
+cooling capacity than traditional data centers. Expansion of AI-driven infrastructures
+increases energy demand, strains electrical grids, and places new pressures on water
+resources due to cooling requirements. Unlike other infrastructures, such as residential
+communities, commercial buildings, and water distribution systems, data centers exhibit
+unique water-energy interdependence where cooling demands dictate water
+consumption, and energy use dictates dynamic AI processing loads. Traditional
+water-energy nexus models focus on distributed energy systems or municipal water
+distribution, but these systems are inadequate for AI data centers due to the rapid
+fluctuations in workload, cooling demand, and power intensity. Standard building-level
+or urban-scale water-energy optimization methods do not capture the unique real-time
+thermal fluctuations, spatial constraints of cooling systems, and the hyperscale energy
+density of data centers. The unique and demanding needs of AI centers require novel
+solutions.
+Goal: Develop guidance for smart, efficient AI data center growth. With a significant
+increase in buildouts of AI data centers in the next decades, supporting industries and
+
+
+4 
+local regions require guidance on design, operation, and infrastructure of these unique 
+facilities, namely: AI data center infrastructure design; electricity grid upgrades, 
+operations and dynamic adaptations; local energy generation and storage support; 
+secure and efficient AI workloads co-designed with data center operations and 
+maintenance, and underlying, novel cybersecurity concerns. This guidance and efficient 
+AI data center solutions can be realized through research funding and workforce 
+development programs that support partnerships among and between academic 
+institutions, national labs, industries (e.g., AI data companies, utilities, ISOs, building 
+construction and operations companies, OEMs, etc). A national program with regional 
+centers of excellence that leverage such partnerships could address efficient AI data 
+center solutions based on the region’s energy portfolios, geographic and workforce 
+features, economic development plans, etc. The Department of Energy, National 
+Science Foundation (NSF), and/or Department of Commerce could be agencies to 
+house such research and workforce development programs.  2: Opportunities and Challenges in Specific AI Application Areas 
+A: Transportation and Mobility  
+AI has already revolutionized transportation and mobility by enhancing efficiency, safety, 
+and sustainability. AI-powered systems optimize traffic management, reduce 
+congestion, and improve public transit through predictive analytics and real-time data 
+processing. Autonomous vehicles, powered by AI, have the potential to minimize human 
+error, significantly lowering accident rates and improving road safety. Additionally, 
+AI-driven logistics and fleet management solutions streamline supply chains, reducing 
+fuel consumption and emissions. Increased investments in AI for transportation are 
+crucial to accelerating these advancements, fostering smart city development and 
+addressing growing urban mobility challenges. Increased funding will drive innovation, 
+improve infrastructure, and ensure AI-driven transportation solutions are accessible and 
+sustainable for the future. 
+Goal: Establishing cross-sector partnerships for innovation. Establishing 
+partnerships, collaborations, and joint projects can stimulate and innovate research in 
+this area. An effective incentivization program to integrate academia and the private 
+sector in transportation and mobility RD&D would focus on funding, collaboration, talent 
+development, and regulatory support. Joint research grants, tax incentives, and venture 
+capital funding could encourage universities and companies to co-develop AI-driven 
+mobility solutions. Innovation hubs and technology transfer offices would streamline the 
+pathway to commercialization, while industry-academia fellowships and specialized 
+training programs would develop and ensure a skilled workforce. Regulatory sandboxes 
+and public-private data-sharing frameworks would enable safe testing and deployment 
+of smart transportation technologies. Performance-based funding and recognition 
+
+
+5 
+programs could further drive impactful solutions, accelerating advancements in 
+autonomous vehicles, smart traffic management, and sustainable mobility systems. 
+B. Healthcare Innovation
+Healthcare has already been transformed by AI. It enables faster diagnoses,
+personalized treatments, and more efficient medical workflows. AI-powered tools
+analyze vast amounts of medical data to detect diseases earlier, assist in medical
+imaging interpretation, and optimize drug discovery. Machine-learning algorithms
+enhance patient care by predicting health risks and personalizing treatment plans based
+on individual genetics and lifestyle factors. Additionally, AI-driven automation reduces
+administrative burdens, allowing healthcare professionals to focus less on paperwork
+and more on patient care. Increased investment in AI for healthcare can compound the
+payoff of the initial investment in research, accelerating medical breakthroughs, and in
+patient care, improving accessibility and reducing costs. Enhanced, next-gen medical AI
+can ultimately lead to better patient outcomes and a more efficient, data-driven
+healthcare system.
+Goal: Medical advancements through commercialization. An effective
+incentivization program for integrating academia and the private sector in healthcare AI
+innovation would include joint research grants, tax incentives, and startup funding to
+drive collaboration. Establishing innovation hubs, technology transfer offices, and
+industry-academia fellowships would accelerate knowledge sharing and ramp up
+commercialization efforts. Specialized AI-in-healthcare training programs and workforce
+exchanges would ensure talent development. Regulatory support, including fast-track
+approvals and secure data-sharing frameworks, would facilitate innovation while
+ensuring compliance. Performance-based incentives and recognition programs would
+further drive impactful outcomes. This holistic approach would accelerate AI-driven
+healthcare advancements by leveraging the strengths of both academic and private
+sector entities.C. Modernizing Control and Operations of Energy Systems
+The last two decades of upgrades to national energy systems, particularly electricity
+grids, have enabled more comprehensive, high-resolution, and often real-time data
+collection capabilities in all aspects of energy conversion, transmission, distribution, and
+consumption. These capabilities can be leveraged through AI-powered control and
+monitoring systems to improve the efficiency, security, and resilience of energy systems
+and to enable dynamic interactions with energy end-users. Because of the criticality of
+the services provided by energy systems, modifying their business-as-usual operations
+will require significant financial and regulatory support in order to research, develop,
+test, implement, and scale these AI-enabled solutions while ensuring their performance
+benefits and security systems.
+
+
+6 
+Goal: Deeper penetration of AI in energy systems.  Effective mechanisms to enable 
+deeper penetration of AI solutions in energy systems will involve partnerships between 
+research entities (e.g., academic institutions, national labs), industry (e.g., utilities, ISOs, 
+OEMs, data companies), and consortia and standards boards (e.g., EPRI, GTI Energy, 
+IEEE) to design, pilot, test, and scale AI-driven solutions. These partnerships will 
+require joint research, workforce development, and startup funding (e.g., through 
+programs in Department of Energy, ARPA-E, National Science Foundation, and National 
+Institute of Standards and Technology) to demonstrate viability of AI-powered energy 
+systems. Additionally, regulatory support is needed to incentivize testing and integration 
+of these solutions while safeguarding reliable delivery of critical energy services, privacy 
+of consumer data, and economic decision-making.  D. Cybersecurity in AI Models and Infrastructure
+A comprehensive action plan focusing on fundamental, interdisciplinary, and
+translational research. AI systems have become integral to numerous sectors,
+enhancing efficiency and decision-making processes. However, their increasing
+integration presents significant cybersecurity challenges, particularly concerning the
+integrity of AI models and the resilience of critical infrastructures like power grids. The
+consequences of cyberattacks exploiting AI vulnerabilities are profound; adversaries
+could manipulate AI systems to disseminate misinformation, conduct sophisticated
+phishing schemes, or disrupt essential services, leading to economic instability and
+societal harm. For instance, AI-generated deepfakes have been used to create
+disinformation and fraud, while large language models have facilitated the creation of
+fake reviews to manipulate e-commerce ratings. Moreover, the potential for AI to be
+harnessed in cyber warfare is a growing concern, as evidenced by reports of
+nation-states developing AI capabilities to enhance their cyber-attack strategies.
+Addressing these concerns necessitates a comprehensive action plan focusing on
+fundamental, interdisciplinary, and translational research. Cybersecurity is crucial to
+national security as well as to trust, adoption, and monetization of these technologies.
+Fundamental Research on Security Issues in AI Models
+Addressing security vulnerabilities in AI models during both training and inference
+phases is crucial for developing resilient AI systems. During training, data poisoning
+attacks involve contaminating the training dataset with malicious data, effectively
+reprogramming algorithms with potentially harmful intent. This is particularly concerning
+for models trained on user-generated data, as adversaries can exploit fake accounts to
+introduce misleading information, thereby compromising the model’s integrity. For
+instance, disinformation campaigns on social media attempt to bias recommendation
+and moderation algorithms to push certain content over others. During inference,
+adversarial attacks pose significant threats, especially to large-scale models like Large
+Language Models (LLMs). These attacks involve crafting inputs designed to deceive AI
+
+
+7 
+systems into making incorrect predictions or classifications. For example, prompt 
+injection attacks can manipulate LLMs into generating harmful content or revealing 
+sensitive information. The complexity and vastness of training data in state-of-the-art 
+models make distinguishing between legitimate instructions and adversarial inputs 
+particularly challenging, thereby increasing their susceptibility to manipulation. To 
+mitigate these threats, research is focusing on enhancing model robustness through 
+adversarial training, developing sophisticated input validation techniques, and 
+implementing continuous monitoring systems to detect and respond to unusual model 
+behaviors in real-time. These efforts are essential to safeguard AI systems against both 
+data poisoning and adversarial attacks, ensuring their reliability and security in various 
+applications. 
+Interdisciplinary Research between AI Security and Power Grid Infrastructure 
+Interdisciplinary research bridging AI security and power grid infrastructure is vital, given 
+the escalating energy demands from AI data centers. AI workloads require significantly 
+more computational power and cooling capacity than traditional data centers, making 
+them one of the fastest-growing energy consumers globally. According to the U.S. 
+Department of Energy, U.S. data centers are projected to consume between 325 and 
+580 terawatt-hours (TWh) per year by 2028, accounting for 6.7% to 12% of the nation’s 
+total power consumption. Research has demonstrated that AI models can consume up 
+to 67% more power when input data is specifically crafted to maximize dynamic 
+switching power in the underlying VLSI circuits, even when all other factors—such as 
+the AI model, data size, and hardware—remain unchanged. If an adversary, disguised 
+as a benign user, exploits this phenomenon at scale, they could induce sudden power 
+surges in AI data centers, potentially leading to service disruptions or physical damage. 
+Beyond impacting data centers, such power surges place immense strain on the power 
+grid. Given that cybersecurity measures in power dispatch systems are often outdated, 
+adversaries may coordinate cyberattacks on the power grid in tandem with AI-targeted 
+attacks, reducing the grid’s ability to respond effectively. Such an event could trigger 
+cascading failures, including widespread blackouts, with devastating consequences for 
+national security and economic stability. Collaborative research efforts are crucial to 
+developing coordinated defenses that protect both AI systems and power grid 
+infrastructure from these emerging cyber threats. 
+Goal: Translational Research on Cybersecurity for AI. To bolster translational 
+research in AI cybersecurity, federal agencies like the NSF should implement strategic 
+initiatives that bridge foundational research with practical applications. Establishing 
+dedicated funding programs that encourage interdisciplinary collaborations among 
+academia, industry, and government entities is essential. Additionally, agencies should 
+facilitate public-private partnerships to ensure that research outcomes are effectively 
+integrated into real-world systems, enhancing the resilience of AI technologies across 
+various sectors. Investing in educational initiatives to cultivate a workforce proficient in 
+
+
+8 
+both AI and cybersecurity is also crucial, ensuring that emerging challenges are met 
+with well-equipped professionals. By adopting these measures, federal agencies can 
+effectively translate foundational research into robust cybersecurity solutions for AI 
+systems. To further advance translational research in AI cybersecurity, the National 
+Science Foundation (NSF) could issue a Dear Colleague Letter (DCL) to highlight the 
+importance of this area and encourage researchers to engage in related projects. By 
+publishing a DCL on AI cybersecurity, the NSF would signal a strategic emphasis on 
+this critical field, fostering increased awareness and stimulating innovative research 
+endeavors. This initiative would complement existing funding programs and 
+interdisciplinary collaborations, ensuring that cybersecurity considerations are 
+seamlessly integrated into the development of AI technologies. E. Improving AI Adoption in Critical Decision Making through Explainable and
+Accountable Solutions
+Despite vast amounts of data available, real-time data-driven decision-making during
+extreme events such as natural disasters or large-scale cyber-attacks continues to be
+challenging. Emergency responders often rely on experience or on pre-engineered
+solutions with limited usage of real-time data. Although faster emergency responses
+powered by AI solutions have the potential to lower the financial and human costs of
+disasters, the adoption of real-time data-driven solutions has been minimal. There are
+important technical and social reasons for this lag. From a technical perspective,
+existing predictive AI solutions work exceedingly well under normal conditions, but are
+unreliable in the extreme conditions that are unrepresented in AI model training data.
+Furthermore, an extreme event causes rapid changes in behavior of the underlying
+system and its human participants, which requires fast adaptability of solutions. From a
+social perspective, in critical events, emergency response actions are taken by human
+operators who bear professional liability for their decisions. AI solutions that are
+produced by complex and opaque computational models, without support of logical
+reasoning, are highly unlikely to be adopted in mission critical situations. Addressing
+these challenges requires a concerted effort that brings together academic, industrial,
+and public policy efforts.
+Goals: Predictive AI, Risk-Adaptive Real-Time Computation, and Explainable AI as
+explained below.
+Basic Research in Explainable AI:
+•Predictive AI for unseen and unpredictable conditions: A major challenge in ML, is the
+development of models that provide reliable outcomes when test data patterns are not
+seen during the training phase; this is referred to as out-of-distribution generalization.
+Despite various approaches designed for ML in research areas such as vision and text,
+addressing the challenge in dynamical and cyber-physical systems remains open. For
+infrastructural systems, we require basic research in domain-informed machine learning
+
+
+9 
+and innovative computational architectures that adhere to underlying physical laws to 
+improve prediction performance under conditions significantly different from those 
+encountered in training data. Outcomes from such domain-informed computation are 
+inherently explainable to operators using them.  
+•Risk-Adaptive Real-Time Computation  under rapidly evolving conditions. Extreme
+events present scenarios with rapidly evolving risks of damage and disruption.
+Computational algorithms for decision-making in systems are typically designed based
+on static or predictable system states, and are not trained to include information such as
+impending risks of damage from an evolving disaster or a cyberattack. Basic research in
+catastrophe modeling offers the opportunity to assess in near-real-time the probability of
+loss of functionality of system components and processes. This, alongside the
+development of new risk-aware computational tools can greatly enhance adoption of
+data-driven decision-making in rapidly evolving critical events.
+•Explanations for computational outcomes: From a cognitive psychological perspective,
+very little is known about what kind of explanations for data-driven models can gain trust
+of actual users of the methods and outcomes. Explainable AI methodologies that have
+been developed, particularly for machine learning solutions, are focused on “simplifying”
+the computational process or outcomes rather than considering a holistic view of the
+user in the context of the application. In place of  a computation-only approach, what is
+required is a holistic framework to derive explanations that are computationally
+accurate, contextually interpretable, and guided by a use-inspired framework of human
+perception and decision-making. This requires basic research to bring together
+concepts and tools from knowledge representation, cognitive psychology, data science,
+optimization, and machine learning, to build explainable representations of domain
+knowledge, derive rules to contextualize the outcomes of data-driven decisions, and use
+cognitive psychological studies to formally understand the perception and use of
+explanations during extreme events to help formulate explanations that will be adopted
+and used.
+Translational Research for Deployable AI Solutions
+The biggest gap between basic research in AI and deployable solutions for engineering
+systems is the availability of real-data for developing, validating, and refining
+computational methodologies. As a result, companies seeking AI solutions that can
+afford to invest in in-house basic research do so, while many others have no choice but
+to use off-the-shelf technologies that are highly sub-optimal. To promote better
+translational research for AI solutions, there is a need to lower the “data barrier”
+between basic research and deployable AI. We recommend the following actions:●Promoting industry-academic partnerships targeting mission-critical AI through
+creation of research funding programs
+●Creation of Secure Data Repositories for companies to share data with academic
+partners ensuring that the needed privacy protections are in place.
+
+
+10 
+●Investment in joint industry-academic workforce training programs at the
+postgraduate level where participants can gain foundational research expertise in
+AI while also gaining the experience in translating research ideas in practice with
+real-world data and scenarios.Policy Development 
+Even as public policy around AI is evolving, situations involving critical decision-making 
+in which liability is an important factor require strong safeguards that can be better 
+facilitated through targeted efforts to improve accountability of AI solutions. Specifically: ●Basic research in determining the “failure modes” for AI solutions and quantifying
+the costs associated with these failure modes.
+●Development of standards for performance of AI solutions, not merely in
+computational metrics such as correctness, speed, efficiency, but also on failure
+costs, ethical violations, and usability.●Defining policy for better communication around AI solutions: Clear
+communication about AI solutions requires tailoring explanations to different
+audiences, defining key concepts precisely, and avoiding misleading claims.
+Emphasizing transparency, clear assessment of risk, and accountability for failure
+modes, helps build trust, limits liability, and ensures responsible AI adoption.
+Conclusion : In order to continue and expand U.S. primacy in AI, we want to focus on 
+opportunities to bring AI technologies and capabilities to the next levels for industry and 
+academia, as well as the nation overall. Exploring and advancing AI opportunities in 
+transportation, healthcare research and administration, energy systems, cybersecurity, 
+and critical decision making will require multidisciplinary approaches as well as 
+partnerships across industries, academia, national labs, and even international partners. 
+Incentivizing partnerships in all these areas will promote AI innovation and growth, as 
+well as American leadership, in AI in all areas of life and business.  
+
+

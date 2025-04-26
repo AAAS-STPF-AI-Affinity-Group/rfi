@@ -1,0 +1,188 @@
+ABOUT MLCOMMONS AND ITS INTEREST IN THIS REQUEST FOR INFORMATION 
+This response to the National Science Foundation’s Request for Information on the Development of an 
+Artificial Intelligence (AI) Action Plan (“The RFI”) is submitted on behalf of MLCommons®.  
+MLCommons is a non-profit 501(c)6 industry consortium that aims to accelerate the performance and 
+adoption of machine learning and artificial intelligence across the economy. We act as a neutral nexus 
+for commercial and non-commercial actors to collaboratively create tools that advance the whole 
+industry. Our members and partners include many of America’s leading technology companies, 
+including Cisco, Dell, Google, Hewlett Packard, Intel, Meta, Microsoft, NVIDIA, and Qualcomm, in 
+addition to over 100 other organizations from around the world. Members are leading technology 
+companies, startups, academic institutions, and organizations that actively research, develop, and 
+deploy artificial intelligence products for businesses and consumers. Critically, our founding 
+membership includes academic and industry researchers at the forefront of AI innovation, and the 
+research community continues to be core to our membership helping to lead many of our working 
+groups.   We create, operate and maintain community assets, especially benchmarks, data standards and 
+datasets, to facilitate developing and evaluating artificial intelligence (AI) systems at an accelerated 
+pace. The original project that brought MLCommons into being is a benchmarking suite called 
+MLPerf®, which provides unbiased evaluations of training and inference speed for AI hardware and 
+software.1 These measurements enable a fair comparison of competing systems, accelerate ML 
+progress through fair and useful measurement, enforce reproducibility to ensure reliable results, and do 
+so in an open and collaborative way to keep benchmarking affordable for all participants. In late 2024, 
+we launched our first AILuminate benchmark, which aims to measure large language models’ 
+performance against known harms (such as proliferating child sexual abuse imagery, or facilitating the 
+development of chemical, biological radiological or nuclear weapons (CBRN)). We have also developed 
+and released a number of open datasets for AI training, including images of everyday objects from 
+around the world and spoken words across dozens of languages.  Standardized metrics, data formats and benchmarks are crucial to effective evaluation and 
+measurement of AI, which is itself critical to development of a healthy ecosystem of private sector 
+suppliers, developers and commercial partnerships. The Action Plan to advance America’s AI 
+leadership should recognize the private sector’s progress to date developing AI standards and 
+benchmarks, and should embrace existing industry standards organizations like MLCommons that 
+advance AI measurement science by bringing together a wide range of actors with relevant expertise.  As NSF works to implement the Executive Order on Removing Barriers to American Leadership in 
+Artificial Intelligence, our experience driving cross-industry collaboration on advanced measurement 
+standards for AI could be helpful and we would be happy to share what we’ve learned and are working 
+on. Specifically, MLCommons provides a toolkit of useful benchmarks, data formats, and datasets for 
+1 Peter Mattson, et al, "MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance," IEEE Xplore, accessed February 
+1, 2024, https://ieeexplore.ieee.org/abstract/document/9001257. 
+
+
+both industry and policymakers. This toolkit supports the AI ecosystem more broadly in promoting 
+economic competitiveness by facilitating rapid iteration and technological innovation across the 
+industry.  
+AI ADOPTION WILL ACCELERATE THROUGH THE USE OF STANDARDIZED BENCHMARKS 
+Efficient and effective evaluation and measurement of AI is critical to the growth of the industrial 
+ecosystem. As the old adage goes, you can’t improve what you don’t measure. We have seen the 
+impact of standardized measurement: accelerating AI capabilities and  adoption through our MLPerf 
+benchmark. In the five years following the introduction of MLPerf, we have seen up to a 50x speedup in 
+AI system performance, translating into greater capabilities for the entire community.  
+Figure 1: Relative Performance Gains Over Time for MLPerf Training Submissions 
+Figure 1 shows the measurement of  relative performance gains for each of the  MLPerf Training 
+benchmarks compared against the first time they were measured. Each benchmark is constructed to 
+represent a different common and commercially relevant workload, such as recommendation, language 
+modeling, objection detection, or image generation. We measure these gains against Moore’s Law as a 
+standard technology performance metric. The performance of AI workloads has continually exceeded 
+the rate of progress anticipated from Moore's Law. This is because of several factors that we are able to 
+measure that contribute to overall system performance as experienced by customers such as: larger 
+scale systems that offer more aggregate performance; better software, compilers, and algorithms; 
+faster processors incorporating new architectural features and new advanced manufacturing and 
+packaging technologies; and, more advanced numerical formats that boost throughput. 
+
+
+MLPerf began in the early days of AI commercialization in 2018. At the time, industry was still working 
+out the best way to scale up the training of neural networks to large numbers of processors. MLPerf has 
+given industry and academia a set of benchmarks to measure against, and an incentive to improve 
+performance before submitting for the next MLPerf test, and – we believe – driving faster performance 
+gains across industry. MLPerf scores measuring the pace of innovation are still demonstrating rates of 
+improvement that are twice the rate anticipated by Moore’s Law. 
+The central role standardized measurement plays in enabling private sector growth shows up across 
+industries. Every AI model release is now accompanied by benchmarks and evaluations of 
+performance across a variety of dimensions. Those evaluations are often developed and maintained by 
+third party researchers or organizations. For example in manufacturing, standardization ensures 
+interoperability and quality control, reducing waste and facilitating global supply chains; in 
+telecommunications, standardized protocols enable communication and data transfer, driving 
+innovation and economic growth; and in finance, standardized reporting builds transparency and trust, 
+fostering a functioning market and investments. EFFECTIVE BENCHMARKS MUST EVOLVE AS RAPIDLY AS AI TECHNOLOGY DOES 
+Testing an AI system is unlike testing conventional software code intended to produce discrete and 
+objectively verifiable behavior. The latest iterations of AI models, known as language models, are 
+probabilistic and able to directly interact in natural language with an exponentially large number of 
+possible input sentences.2 As a result, full coverage of all possible hazardous output is intractable, and 
+defining a test set that provides effective coverage of the potential input space is a nascent 
+measurement science.3,4 Measurement for risk mitigation is also challenging because of the many 
+aspects of responsible development that need to be evaluated, including resistance to malicious uses, 
+harmful information such as child sexual abuse imagery, and CBRN risks. Each of these requires 
+dedicated tests and evaluation resources, as well as robust input from a wide range of stakeholders 
+and experts. Unlike the more objective measurement of hardware speed or model performance, these 
+varied aspects of risk contain an inherent subjectivity and ambiguity. While managing risk in modern AI is challenging in ways that dramatically differ from traditional 
+software risk management, there are lessons to be learned in how other industries approach risk 
+management. In complex systems that necessarily interact with the unpredictability of the physical 
+world, such as automobiles or planes, standardized approaches to testing have been adopted with 
+success. No automobile can be deemed perfectly safe in all possible circumstances, but we expect 
+automobiles to meet standard benchmarks.  
+4 Sculley, David, et al. "Hidden technical debt in machine learning systems." Advances in neural information processing systems 28 (2015). 3 Amershi, Saleema, et al. "Software engineering for machine learning: A case study." 2019 IEEE/ACM 41st International Conference on 
+Software Engineering: Software Engineering in Practice (ICSE-SEIP). IEEE, 2019. 2 Rishi Bommasani et al., "On the Opportunities and Risks of Foundation Models," arXiv, August 2021, https://arxiv.org/abs/2108.07258. 
+
+
+We believe in mirroring this approach to create standardized benchmarks in AI. Such benchmarks will 
+create a common direction for research efforts across companies and academic institutions, and raise 
+the bar for AI performance across the industry. Furthermore, if built with care, the benchmarks can 
+produce analyses that are comprehensible to purchasers, policy makers, and the public.  
+BUILDING STATE OF THE ART BENCHMARKS FOR AI SYSTEMS 
+MLCommons approach to building evaluation platforms for AI systems is unparalleled in the 
+ecosystem. Many approaches to evaluating an AI system are bespoke, where a team tests a given AI 
+system against a series of specific attacks and threat vectors. This bespoke and often academic 
+approach is an important component of how we evaluate AI systems, but it should be deployed 
+sparingly and only in the highest-risk use cases, as it is expensive and challenging to  deploy 
+consistently between different systems, especially in a rapidly evolving environment. It cannot scale to 
+provide broad-base evaluation of all AI systems, which is a necessary first-order risk assessment if the 
+technology is going to be widely adopted. Our approach relies on several distinctive components which 
+allow us to develop standardized tests for any AI system, securely administer the tests, and grade them 
+in a standardized way as an impartial assessor.   Figure 2: AI Luminate System Overview
+For example, the approach our AILuminate reliability benchmark (see Figure 2) takes is to use a 
+standardized categorization of test prompts and evaluate these in an automated, scalable fashion that 
+works the same way against systems that may have radically different technical architectures. This 
+approach produces quantifiable, statistically rigorous and measurable results that are deeper than 
+simple policy compliance checks, and which enables quantifiable comparisons between systems. We 
+believe this approach will encourage the industry as a whole to compete to produce low risk, high 
+performance systems, to allow deployers of those systems to make informed tradeoffs between cost, 
+performance, and risk, which will drive innovation more quickly in emergent use cases. Currently AILuminate is available in English and French for large language models. We are in the 
+process of scaling this benchmark to cover additional languages with Chinese and Hindi slated to 
+
+
+launch later this year. Additionally, we are adapting this approach to work for multi-modal LLMs and 
+agentic AI.  
+BENCHMARKS WILL NEED CONSTANT EVALUATION AND CALIBRATION 
+Standardized benchmarks also require ongoing research and novel test data creation to ensure they 
+remain durable and applicable to evolving AI models.5 Existing academic research and public 
+leaderboards tend to focus on static test datasets for AI, but these datasets quickly degrade as 
+evaluation resources because, whether intentionally or unintentionally, models become trained to 
+perform well against the published static dataset.6,7,8,9 Even the models used to rate AI outputs can 
+degrade unless constantly improved. A regular improvement cycle for benchmarks is needed to keep 
+pace with AI technology development, and requires both prompts and evaluation methodologies to 
+evolve simultaneously. Conventional policy development and standards processes need to design for 
+this continuous evolution and iterate faster than how policies and standards are typically revised.  Further, we will need calibration to ensure that the benchmarks truly measure the impact of AI on the 
+user in the context of real-world use cases and applications. AI output evaluations are necessarily 
+subjective, and may be done by either humans or algorithms that imperfectly emulate humans (both 
+sources of measurement error). As a result, the tests will need to be iteratively calibrated with human 
+involvement to correlate test prompts and output evaluations with actual user experience as closely as 
+possible.10 This calibration will require novel methodology for measuring sociotechnical systems, which 
+is often more complex than strictly technical evaluation.11   INDUSTRY NEEDS FOUNDATIONAL STANDARDS FOR DATA AND MEASUREMENT 
+Increasing compute (cost) efficiency, improving reliability, and reducing adoption barriers will be crucial 
+to translating AI innovation into real business value for American enterprises. Standard benchmarks like 
+MLPerf and AILuminate will help enterprises drive development of efficient and reliable systems that 
+meet their needs. Standard data formats such asCroissant will substantially reduce one of the largest 
+costs of AI adoption – preparing data for use with AI – by supporting development of a competitive 
+market of tool providers. Our Croissant Working Group has as its mission to standardize how ML 
+datasets are described so that datasets are easily discoverable and usable across tools and platforms. 
+In March of this year, we announced the full release of the Croissant metadata format, with support 
+from HuggingFace, Google, Kaggle, OpenML and others.  
+11 Abigail Jacobs and Hannah Wallach, "Measurement and Fairness," arXiv, December 2019, https://arxiv.org/pdf/1912.05511.pdf. 10 Victor Dibia, et al., "Aligning Offline Metrics and Human Judgments of Value for Code Generation Models," ACL Anthology, 2023, 
+https://aclanthology.org/2023.findings-acl.540.pdf. 9 Bordt, Sebastian, Harsha Nori, and Rich Caruana. "Elephants Never Forget: Testing Language Models for Memorization of Tabular 
+Data." NeurIPS 2023 Second Table Representation Learning Workshop. 2023. 8 Tirumala, Kushal, et al. "Memorization without over ﬁtting: Analyzing the training dynamics of large language models." Advances in 
+Neural Information Processing Systems 35 (2022): 38274-38290. 7 Douwe Kiela, et al., "Dynabench: Rethinking Benchmarking in NLP," arXiv, April 2021, arXiv:2104.14337. 6 Potential references Carlini, Nicholas, et al. "Quantifying memorization across neural language models." arXiv preprint, February 2022, 
+arXiv:2202.07646. 5 Prabha Kannan, "How Trustworthy Are Large Language Models Like GPT?," Stanford HAI News, Aug 23, 2023, 
+https://hai.stanford.edu/news/how-trustworthy-are-large-language-models-gpt. 
+
+
+Croissant describes datasets’ attributes, the resources they contain, and their structure and semantics 
+in a way that streamlines their usage and sharing within the ML community while fostering responsible 
+AI practices. Croissant does not require changing the underlying data representation, and can therefore 
+be easily added to existing datasets, and adopted by dataset repositories. Croissant has been 
+successfully integrated into three dataset repositories: Hugging Face datasets, Kaggle datasets, and 
+OpenML, yielding over 400,000 datasets in the Croissant format. A fourth repository platform, Harvard's 
+Dataverse, has added support for Croissant in its beta channel. The Croissant vocabulary is an extension to schema.org, a machine-readable standard to describe 
+structured data, used by over 50M datasets on the Web, which allows the datasets to be discoverable 
+through dataset search engines. Croissant enables datasets to be loaded into different ML platforms 
+without the need for reformatting. Popular ML frameworks like TensorFlow, JAX and PyTorch can 
+already load Croissant datasets via the TensorFlow Datasets library. Additionally, by providing 
+operationalized documentation, Croissant users can easily understand the best practices for 
+contributing to and utilizing the data. Finally, we have also developed the Croissant Editor12, available on GitHub13, which allows users to 
+visually create and modify Croissant datasets. The Croissant Editor provides form-based editing and 
+validation of Croissant metadata, and bootstraps the definition of resources and RecordSets by 
+inferring them from the data uploaded by the user. The editor also integrates with the Croissant 
+Responsible AI extension, and guides users in describing RAI aspects of their datasets. 
+BENCHMARKING IS AS MUCH ORGANIZATIONAL AS IT IS TECHNOLOGICAL 
+In creating and operating the MLPerf family of benchmarks over the last five years, we have observed 
+that AI benchmarks require a combination of technological innovation and organizational commitment. 
+Cutting edge test data and evaluation methodologies do not work unless supported by less glamorous 
+software infrastructure to manage submissions and results, fair governance and policies to resolve 
+disputes, and a community of experts to build, maintain, and improve the technology. 
+We are committed to working toward a future in which industry standard AI benchmarks exist for the 
+most common AI applications, and in which these benchmarks are relied upon for evaluating AI 
+systems by both vendors and purchasers. We believe MLCommons as an institution is equipped to take 
+on responsibility for building and operating benchmarks that are not susceptible to over-fitting. We aim 
+to build dynamic benchmarks that are connected to social science research and updated accordingly to 
+accurately represent societal preferences. The benchmarks and technology platform we are building 
+will provide a robust model that industry can engage with, akin to the certification model found in other 
+mature, high-productivity, low-risk industries.     
+13 MLCommons, "Croissant Editor," GitHub, accessed July 10, 2024, https://github.com/mlcommons/croissant/tree/main/editor. 12 MLCommons, "Croissant Editor," Hugging Face, accessed July 10, 2024, https://huggingface.co/spaces/MLCommons/croissant-editor. 
+
+

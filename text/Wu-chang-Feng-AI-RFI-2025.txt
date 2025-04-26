@@ -1,0 +1,36 @@
+ 
+   Wu-chang Feng  
+The non-stop and rapid pace of change in technology and AI has made education and workforce 
+development challenging. Courses developed years ago are now obsolete, leaving students ill -
+prepared for a job market that has seen rapid change over the last sever al years. In our experience 
+attempting to deliver a course applying advances in generative AI towards solving problems in 
+cybersecurity (Labs are available at https://codelabs.cs.pdx.edu), we have seen that a different 
+approach is necessary when attempting  to prepare students for an AI -enabled future. We believe 
+that such an approach will allow the US to remain competitive in the technological future. Our 
+approach embodies the main aspects below: 1) Creativity. AI has reduced the importance of the 
+mechanics  of technology. Impactful solutions are now driven as much by the ability for someone 
+to imagine an application as it does actually being able to build one. Towards this end, an 
+approach where students learn a breadth of topics and then practice creatively  building AI -
+enabled applications that apply them will be paramount. 2) Skepticism. AI and reports of its 
+capabilities can lead many to believe that models can solve problems well beyond their ability to 
+do so. It is important that students are continually  exposed to problems with known solutions that 
+AI can not solve at all or can not reliably solve. 3) Change. New AI models are released and 
+deprecated over a period of months. Tasks that models failed at before, may be reliably solved 
+with newer models. It  is important that students develop an agile mindset, understanding that a 
+narrative they believed about AI previously, may no longer apply currently. 4) Security. Most 
+developers of AI applications have no formal training in cybersecurity. As a result, si mple 
+vulnerabilities such as prompt injection, excessive agency, insecure tools, insecure output 
+handling, and over -reliance are proliferating the marketplace of AI applications. It is essential 
+that students get practice exploiting vulnerable AI applicati ons in order for us to ensure that our 
+AI future isn't controlled by adversaries able to exploit insecure applications. 5) Cost. One of the 
+problems with AI applications is that models are being used to solve problems that they are not 
+trained to solve or that can be solved more efficiently with alternate approaches. Rather than 
+throw everything at the model to perform, it is essential that students understand and be able to 
+apply the range of technological tools, both AI and non -AI ones, to build robust, c ost-effective 
+solutions. For more information about our approach, a paper can be found here: 
+https://arxiv.org/abs/2501.10900 and a talk on the approach given at the 2024 NSF Workshop on 
+LLMs for Network Security can be found here: https://www.youtube.com/ watch?v=CTRGYAA -
+MtE Work supported by NSF Award #2335633  
+ 
+
+

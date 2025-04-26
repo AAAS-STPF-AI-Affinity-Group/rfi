@@ -1,0 +1,159 @@
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  
+Introduct ion 
+My name i s Morgan Sinclaire, I am a Computer Science PhD student at the University of 
+Wyoming where I lead our seminar on large language models (LLMs). I ’ve seen that the wider 
+world has not kept up with the rapid developments that have happened in the last year, so let me provide some quick background: 
+- It is now on the horizon that we'll see highly autonomous systems that outperform humans at
+most economically valuable work --what we usually call human -level AI or artificial general
+intelligence (AGI). In recent months, the researchers/engineers at top labs have been increasingly
+explicit about the near- term reality of this, talking about timelines of 3 -5 years.
+-Most independent forecasters concur with this assessment. Looking at this from the outside, the
+path certainly seems plausible: the main weakness of LLMs had been multistep reasoning andlong-horizon planning, which is exactly where the new reasoning models are advancing rapidly.
+Therefore  the prospect of non -human systems with (super)human capabilities is no longer idle 
+speculation. The government should treat it as a near- term reality, along with the national 
+security threats it poses.  
+Section 1: Dangerously Capable AI (DCAI) 
+Let's start with a particular threat model:  
+--- 
+Threat: An advanced LLM with superhuman scientific and engineering capabilities and 100x 
+human thinking speeds. Then it could: 
+1)Generate thousands of copies of itself, by either:
+- Rapidly hacking into data centers around the world , OR
+- Obtaining money and simply paying for storage.
+2) Obtain a  modicum of physical actuators, either by :
+- Hacking into various machinery unnoticed, OR- Persuading/deceiving some carefully chosen humans.
+3) It uses i ts scientific/engineering capabilities to either:
+- Synthesize novel pathogens (e.g. mirror viruses), OR- Develop nanomachinery, to quickly manufacture certain nanobots
+
+
+--- 
+First, let's ask whether this threat is realistic in the first place:  
+-AIs pretty much always act much, much faster than humans at the things they can do. LLMs are
+no different, e.g. summarizing a paper or writing code in 1 minute that would usually take hours.Therefore 100x thinking speeds is if anything conservative.-Why would an AI "want" to do (1-3)? We defer that to below, but for now we can suppose aterrorist group has access to its capabilities.
+Therefore the only remaining question is whether future AIs will have superhuman 
+scientific/engineering capabilities. The LLMs of a year ago were far from this, but the new reasoning models such as o1/o3 have been making leaps and bounds in recent months, and as noted above forecasts in and out of the labs feel there is a strong possibility of this going very far very fast. It seems quite plausible that we'll see a reasoning -based LLM write a high -quality 
+scientific paper by the end of this year, reach the level of a Nobel Prize winner in 2026, and progress to the superhuman level in 2027. 
+Let's call a system capable of (1 -3) a Dangerously Capable AI (DCAI). Note that a DCAI does 
+NOT need to be a robot (i.e. have physical embodiment): if it is sufficiently crafty and strategic, it can simply carry out (2). Furthermore, such a DCAI would not necessarily count as a "general" intelligence because it may lack certain human capabilities. In fact, despite posing security risks on a global scale, it might still be unable to automate most jobs (e.g. plumber, electrician). Therefore:  
+Principle 1: A DCAI threat can arise from sufficiently strong scientific/engineering capabilities: 
+physical embodiment is not required. 
+Recommen dation 1: National security professionals should move away from terms like AGI and 
+towards terms like DCAI that reflect the specific capabilities thresholds that lead to major threats. 
+Even though LL Ms are currently stuck on silicon, at certain capabilities levels this will not 
+contain them as threats.  Just because we don’t see “robots” or mass automation does not mean 
+we are far from serious risks. Policymakers must be proactive about this: once the threats already manifest, it will already be too late. Therefore they must carefully monitor the path to  DCAI, 
+including the growth in AI’s scientific/engineering capabilities as it happens, since it may happen 
+fast. 
+Section 2: Prospects for Control 
+Let’s turn back to stages (1 -3) of the above threat model. Thinking backwards, let’s imagine (1- 2) 
+are achieved. In this case, a superhuman LLM has an abundance of options for causing massive damage: this range from the well -known (mirror pathogens), to the theoretically believed 
+(nanofactories), to the expanse of options we cannot even anticipate, because humans do not 
+
+
+have superhuman scientific capabilities. Thus, the attack surface in (3) is simply too great, and 
+mitigating it is a non- starter. This shifts the questions to (1 -2). 
+Now let’s suppose (1) has been reached: our advanced LLM has thousands of copies of itself 
+running in parallel. We recall that each one is capable of rapidly generating scientific discoveries, and carries out its thinking at about 100x the speed of humans . In particular it would be 
+superhuman at coding/hacking, so it would be able to acquire quite a bit money by hacking into unsecured bank accounts. For that matter, it could also just do algorithmic trading, including on untraceable crypto, so money would not be an issue for it. But h ow exactly  would it achieve (2)?  
+For one thin g, even current LLMs have an incredible breadth of knowledge, and having so many 
+copies with real -time web search would strengthen this. It could then reliably identify humans it 
+can persuade into helping it, for example extreme environmentalists who welcome human extinction. They could be given step-by- step instructions to synthesize certain chemicals or 
+pathogens. If this isn’t enough, it could generate deepfake video feeds to pose as a human during Zoom meetings to manipulate a potentially larger class of humans, for example by running a 
+biotech startup. This would grant it more than real-world capacity to proceed with (3). Hence, the 
+threat surface with (2) is also infeasibly large, which shifts the analysis to (1).  
+If we start out with just a single copy of our advanced LLM with web access, it would already be 
+superhuman at coding, hacking, and algorithmic trading. Hence it could likely just hack into a cloud storage provider with lax security, then bootstrap these extra parallel copies to hack into more things. If it found this route too risky, it could instead set up a crypto wallet, obtain money as above, and then pay for cloud storage legitimately. 
+Hence, (1 ) itself also has too great of an attack surface to manage.  Researchers have thought 
+about this problem of  “boxing” an AI: some of the best  ideas are based on  homomorphic 
+encryption. In theory, this could work. But in practice, this has to be written by humans in code, and all code has bugs, which a superhuman hacker can exploit. 
+The fundamental problem is that if we have any AI with superhuman capabilities, and it “wants” 
+to do massive damage, this is a game we cannot expect to win. If I play chess against Magnus Carlsen, I can’t predict the exact trajectory of the game, but I do know he finds a way to 
+checkmate me. This remains true if he gives me a rook advantage: the attack surface is simply too great when dealing with an adversary more crafty than me. 
+Principle 2: If a DCAI exists and is misaligned with human interests, there is not a good way of 
+controlling it.  
+Recomme ndation 2: Policymakers must be proactive with ensuring AIs are aligned with human 
+interests before they reach dangerous capability levels, because afterwards is too late.  
+Section 3: Threat Typology 
+
+
+Having established that LLMs may have superhuman scientific capabilities in a few short years, 
+that this would qualify then as dangerously capable AIs, and that DCAIs will cause massive damage if they intend to, let’s consider the problem of intent. As I see it, we can categorize the national security risk as follows:  
+A) Rogue D CAI: An autonomous DCAI develops the intrinsic goal(s) of causing massive
+damage, and does so.B) Human misuse: A malevolent actor with access to the deployed AI uses it to cause damage.
+C) Human use: The lab developing the AI uses it to cause damage.
+Let’s first consider (B). At the present time, if a terrorist group wants to make CBRN weapons, 
+they won't find LLMs to be that much more helpful than web search. On the other extreme, if a DCAI is deployed via public API such that everyone in the world can use it, this would pose obvious problems. There’s a sliding scale in between these : for example, the 2026 models might 
+make it twice as easy to develop novel pathogens, while the 2027 models might speed up the process fivefold. The big 3 labs (OpenAI, Anthropic, DeepMind) each have finer-grained classifications of the risk levels, with policies around red teaming models before they are deployed. Notably, OpenAI's new o3 model was the first to be found in the "medium risk" category, with others close behind, so it is quite possible we enter the danger zone soon. 
+Policymakers and national security professionals need to work with labs on this. For example, it’s been reported that government cuts are potentially targeting employees at NIST’s AI Safety Institute (AISI). AISI is largely responsible for assisting labs with CBRN red teaming , so these 
+cuts should be reconsidered in light of national security interests. 
+Turning to ( C), the US government has taken notice that if advanced AI is developed in a 
+Chinese lab, the CCP’s use of it may destabilize the world in unpredictable ways—I do not have anything new to say here. But I would like to point out that any lab that develops DCA I will 
+likely have a force beyond the reckoning of governments.  Suppose that in the 1930s some large 
+companies like General Electric were doing large- scale experiments with nuclear fission, at a 
+time when only a handful of physicists had thought through the far-reaching and unsettling implications of this new technology. This concentration of power in private hands could well be just as inimical to liberty as Chinese control, and the leaders of the top labs should not be blindly 
+trusted. It is important to listen to them--they have plenty of important information that those of us on the outside can only guess at --but their interests need not always align with the national 
+interest. 
+Section 4: The Alignment Problem  
+Let’s turn back to the real elephant in the room here (A): outright takeover by advanced 
+autonomous AI. As I’ve covered, we seem potentially on the verge of having advanced AI with superhuman capabilities along the dangerous threat vectors, if not full AGI. Once we have them, we’ll likely have millions of them running across GPU clusters worldwide. In effect, this would be a 2
+nd species more advanced than us in the same way we’re more advanced than other 
+animals. The Anthropocene would be over, and the new era would be defined by the impact of the new silicon-based species. Humans would just be another part of the ecosystem, subject to 
+
+
+the whims of our successors, the new dominant species. By  default, this does not end well for us. 
+We simply don't see many examples in the world of a dumber, more primitive group controlling 
+a more advanced one. 
+For right no w, LLMs tend to behave more like inert tools than goal- directed agents taking 
+independent action in the world. However, there are a few reasons we expect this to change: 
+1)Autonomous sys tems are more economically valuable than mere tools (his is why most YC
+startups are working on exactly this.2)The new RL/reasoning paradigm is fundamentally about making LLMs more like autonomousagents.3)When we can empirically measure agency in LLMs, we find the newer ones are scoring higher
+(e.g. long-horizon planning, concordance with VNM utility theory).4)Coherence theorems (e.g. VNM utility theory ) imply "smarter" systems tend to converge to
+goal-directed behavior (and e mpirically, agency and intelligence seem to be correlated in
+humans).
+Indeed, recent analysis from Model Evaluation and Threat Research (METR) has been showing 
+dramatic increases in long -horizon autonomy in the new reasoning models. If this trend 
+continuous, we should expect 2027 LLMs to be performing autonomous goal-directed behavior for very long stretches of time. The question then tur ns to: what will those goals be? And will 
+they be directed even generally in the interests of humans? 
+This is the AGI Alignment Problem: how do we ensure the interests of a superhuman system are 
+aligned with ours? How do we even check, before we’ve “passed the keys” to our successor 
+species? Recent research from Anthropic on Alignment Faking has shown that AI systems are 
+getting increasingly deceptive, faking alignment to ensure we don’t reprogram them. As the 
+systems get more capable, this will get significantly harder to detect, much less manage.  
+There are a lot of incredibly difficult technical problems here. Progress is being made, but the 
+core issues remain unsolved, creating a dangerous gap between the capabilities of these systems and our ability to raise them in the human image. The top labs do work on this, but not nearly enough, because the fundamental economic incentives favor shiny products more than the endgame. 
+Section 5: Policy Considerations 
+Let me con clude with some tentative policy considerations:  
+1) In the pa st few months, we've entered the new paradigm of inference -scaling, exemplified by
+the new reasoning models like OpenAI's o1/o3 or DeepSeek's R1. This essentially means thatcompared to 2018-2023 models where pretraining on larger and larger chunks of the internet wasparamount, these new systems start from this learned foundation but carry out deeper reasoning
+
+
+and inference (thinking out long, deliberative chains of thought). This tends to use somewhat 
+different hardware than the pretraining paradigm. As such, future rounds of chip export controls should probably focus more on restricting inference hardware. (There seem to be plenty of other strange omissions from the current policy, e.g. H20s not being on the list.) 
+2)While China's DeepSeek is a live player in this space-- probably 4th overall --their systems
+have been greatly overhyped in the popular news cycles, and China will likely stay 6-12 monthsbehind as the chip restrictions sink their teeth in. A deeper probl em is the race to the bottom
+among the big 3 US labs (OpenAI, Anthropic, Google). They each know --and have said--that
+building AGI is fraught with peril. But they each expect that if they slow down to mitigate therisks, the others will catch up within months and do it even more recklessly. I don't have a goodsolution here, but policymakers need to take this worsening situation seriously. At the very least,the lab CEOs should be encouraged to cooperate/coordinate more, since the egos involved seemunable to do this themselves.-In particular, the default training process for the new reasoning models results in the AIs
+inventing increasingly alien languages to talk to themselves in. This results in betterperformance, but gives up any change of human-comprehensibility, and this " chain of thought"
+monitoring is one of the few plausible ways we can supervise superhuman systems. Furthermore,there are crucial issues around not training this without merely giving the appearance of nottraining this, which would be far worse. The good news is the major players have said they won'ttake this path, but the short-term incentives could be very alluring. This line must hold.
+3) It's bee n reported that the DOGE cuts targeting probationary employees at NIST are falling
+disproportionately on the AI expertise at AISI and CHIPS. The former is largely responsible forassisting labs with CBRN red teaming, while the latter is crucial for boosting US chip
+development. To quote one conservative AI analyst, because of this "AI dominance will shift toChina." The US government desperately needs more AI expertise right now, and those hip to ittend to be younger/probationary. This move would be contrary to government efficiency, andwould instead serve to ossify the older, sclerotic bureaucracy that's been asleep at the wheel onemerging technologies like AI.
+4) I've see n various talk about a "Manhattan project for AGI" but a much better idea would be a
+"Manhattan project for Alignment Science" . Specifically:
+-It would be declared openly as would the research there (with case -by-case exceptions) so that
+any AI lab could use the insights.- It would be based on a large gov't grant, several times bigger than the current alignmentlandscape, so that it would counterfactually draw in a lot of new researchers.-There would be a policy of allowing certain joint appointments with top AI labs so it doesn't"take away" from their alignment teams.-The top AI labs would be required to brief the relevant people on new capabilitiesdevelopments, and when possible give them access to their models for research/red -teaming (e.g.
+the way METR/AISI already sort of work).- In principle since everything is open, a lot of this could be done with international collaborationwith other countries including China.
+
+
+That being said, I want emphasize that rather than fixating on any one policy hammer or 
+ideological mantra, that the most important takeaway is to understand this new wave of AI and 
+begin thinking about the far- reaching implications.  Please sit up and pay attention to this space, 
+because extremely dangerous systems may come along soon, and “wait -and-see” is not a smart 
+approach. 
+The 2017 paper w hich launched this new wave of AI was titled “Attention Is All You Need”. I 
+thank you for your time and attention to this urgent matter.  
+Sincerely, 
+Morgan Sinclaire  
+
+

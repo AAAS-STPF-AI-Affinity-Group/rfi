@@ -1,0 +1,424 @@
+1 RFI for  
+Information on the Development of an 
+Artificial Intelligence (AI) Action Plan (3-1-2025) 
+Wendell Chun & Zachary Sartor 
+Parker, Colorado 
+This Action Plan will define the priority policy actions 
+needed to sustain and enhance America's AI 
+dominance, and to ensure that unnecessarily 
+burdensome requirements do not hamper private 
+sector AI innovation.  Artificial Intelligence (AI) has two 
+distinct disciplines: science and engineering, and each 
+discipline has a different purpose.  The science of AI, or more specifically human 
+intelligence, is focused on understanding the problem of how the brain and its intelligence  
+works.  In contrast, AI engineering also has a very specific purpose: to design a working 
+AI system or “machine”.  Engineering develops the solution.  Both of these disciplines are 
+important, but for different reasons.  Research learned in AI science will have direct benefits to AI engineering, whose goal is to field a working prototype.  This effort validates 
+the maturity level of the technology and as a perspective, the ultimate robotic system is a 
+humanoid. 
+Science is a systematic discipline that builds and organizes knowledge in the form of 
+testable hypotheses and predictions about the universe.  AI Science builds testable 
+hypotheses and predictions about the human mind.  Modern science is typically divided 
+into two or three major branches that impact AI: the natural sciences (e.g., physics and 
+biology), which study the physical world; and the social sciences (e.g., economics, 
+psychology, and sociology), which study individuals and societies. The formal sciences 
+(e.g., logic, mathematics, and computer sciences, which study formal systems governed 
+by axioms and rules) are sometimes described as being science as well; however, they 
+are often regarded as a separate field because they rely on deductive reasoning instead 
+of following the scientific method or empirical evidence 
+as their main methodology.  Thus, AI Science involves the 
+natural sciences, social sciences, and to a major extent, 
+the formal sciences.   Biology includes neuroscience, the 
+primary model for the neural network.  Designing smart 
+machines depend on physics, requiring economics that 
+can support decision making (especially Von Neumann 
+and Morgenstern’s Expected Utility Function), requiring 
+psychology through AI behaviors, and requiring sociology 
+with human-machine interfaces and swarms.  AI 
+constitute all the formal sciences of logic, mathematics, 
+and computer science. 
+
+
+2 AI Science Roadmap 
+The main focus in AI science is answering the question of how does the human mind 
+work?  It has roots in cognitive neuroscience, philosophy, psychology, and logicism.  By 
+discovering the “science” to this  arena, it will enable the engineering solution to emerge 
+as a consequence of this work.  Unfortunately, this is an incredibly hard problem with 
+minimal progress advanced since monism, dualism, functionalism, determinism, etc. The 
+main goal in AI Engineering is to achieve Artificial General Intelligence (AGI).   This is also 
+a hard problem but is ripe for innovation.  AI engineering is a field populated by major AI 
+companies such as Meta, Google, OpenAI, Amazon, Baidu, Tencent, etc.  The products 
+coming from these companies are considered engineering solutions.  Now that we 
+understand the breath and complexity of the problem, we can further develop an Action 
+Plan.  The approach taken here is based on being holistic and strategic.  This design 
+problem and its associated inter-connections are very broad.  Design is the cornerstone 
+of engineering and  requires a structured approach (by using a systematic problem-
+solving strategy).  Systems engineering is a set of steps (objects or elements) that 
+interact to achieve a specific goal.  In this case, the specific goal is AGI.  Systems 
+Engineering is a multi-disciplinary process and a means to delivering successful results. 
+It is the basis for a holistic design and is used consistently in aerospace and the military 
+and viewed as a well-established discipline for engineers.  It also accounts for the “ilities” 
+such as safety, redundancy, reliability, and maintenance.  This approach embraces the 
+system philosophy of  keeping it simple stupid  or KISS principle.  The approach is 
+essential.  When we take a wider perspective of the problem, we find s cience has been 
+the primary domain of academia while engineering has been the primary domain of 
+
+
+3 industry.  The government ties everything together and it’s important role is management, 
+providing insight , oversight, and guidance.   
+Systems engineering is the applied aspects of system theory, a cohesive group of 
+interrelated, interdependent components that can be natural (human intelligence) or 
+artificial (artificial intelligence).   The  various AI components are captured here in 
+something that we refer to as the AI Technology base (see next figure).  Basically, every 
+system has casual boundaries, is influenced by their context, is defined by its structure, 
+function and role, and is expressed through its relations with other systems.  Engineering 
+is the practice of using natural science, mathematics, and the engineering design process 
+to solve problems within technology, increas ing efficiency and productivity, and improv ing 
+designs.  As such, AI Engineering is the application of AI Science to the optimum 
+conversion of the resources of nature to the uses of humankind.   Please pay special 
+attention to the highlighted boxes.   The process shown in the diagram above the AI 
+Technology Base is the systems engineering process.  
+AI Engineering Roadmap 
+The past seventy years have produced a wide breath of AI technologies collected into 
+something that we refer to here as an AI technology base.   In recent years, this collection 
+of AI technologies has been populated by deep learning, transformers, large language 
+models, etc.  These AI technologies may seem random, but popularity between 
+connectionist theor ies and symbolic manipulation theories have switched and fluctuated 
+over time to being in vogue at the time.  It is our intention to indiv idually evaluate the 
+various technologies available which is integral to the system engineering process of 
+
+
+4 developing AGI.  In typical large programs, management runs parallel to the design 
+process.  It is the job of management to assess each technology and to summarize each 
+technology in terms of maturity (can also be carried forward as a risk analysis activity).  NASA and DOE use the Technological Readiness Level (TRL), a maturity scale used to 
+understand critical technologies.  Unfortunately, the ratings can be subjective and may 
+not have the required resolution necessary to accurately determine the technologies’ 
+readiness as required when needed.  Past experience has shown that for any technology, 
+there could be parts that are more mature than other parts within the same technology .  
+More importantly , each rating should be justified with a rationale statement, similar to the  
+requirements’ rationale statement (which expands further justification) as defined in the 
+system engineering process. 
+The AI Science roadmap is simple and straight-forward.  This roadmap leaves room for 
+research to continue to someday answer some critical issues about the human mind.  And 
+the majority of the AI Action Plan 2025 will focus on AI Engineering with the purpose of 
+developing and fielding AI machine(s) by integrating hardware and software.  Systems 
+engineering follows an established process: starting with the problem, followed by 
+developing the requirements, and next a step to come to consensus on a concept of 
+operations (CONOPs).  But prior to developing the concept of operations, a specific 
+decision must be made on the human-computer interface, and whether the system is fully 
+autonomous, automatic, or a shared situation between a human operator and its software. 
+Spectrum of Computational Load Carrying between Human and Computer 
+The role of the operator must be determined early (or if the action team will carry all the 
+options forward during the study) since it will impact the architecture and requirements of 
+the system.  Experience has shown that a human carrying the entire cognitive load 
+(known as teleoperation) is well established and a computer carrying its entire cognitive 
+load (automatic or autonomous) is realistic, but some of the mixed modes (shared control 
+
+
+5 or supervisory control) are harder to implement due to some transitioning issues (refer to 
+T. Sheridan).  A synergistic process between requirements, mode of operation, and its
+architecture (processor hardware and AI software) will be performed to optimize the
+system to be greater than the sum of its parts (as taken from the AI Technology Base).
+The key to the proposed AI Engineering Roadmap, besides the AI Technology Base and
+the Human-Machine Interface, is the architecture, both functional  and physical.   The
+architecture, which includes derived requirements in the form of AI behaviors establishedfrom AI Science, connects software to software and connects software to the hardware
+(including sensors, processors, power, and actuators for robotics).
+The architecture develops the framework to integrate the various AI technologies into a 
+cohesive system.  Repeating, the AI Engineering goal is to develop Artificial General 
+Intelligence (AGI) or similar .  The a rchitectures require the appropriate hooks and scars 
+to be able to evolve the system from an initial operating configuration (IOC) to a more 
+advanced capability over time.  Not all the technologies in the AI technology base will 
+apply to every architecture.  There are subsets to AGI that can contribute to other suitable 
+systems, e.g. autonomous systems, situational awareness systems, robot process 
+automation (RPA) systems, etc .   The ultimate artificial human is a humanoid with AGI.   
+The system design process is rigorous to improve our chances of success and to meet 
+the team’s objectives.  Without requirements, this activity becomes a hobbyist project and 
+there are no guarantees.  The important first step to a systematic approach is to 
+understand the problem to be solved (Ref. Polya), developing requirements that can later 
+be verified with testing, maturing the human-computer interface to better understand the concept-of-operations, and eventually producing the architecture.  This sequence is a 
+serial, waterfall process.  The a rchitecture step signifies the beginning of the design 
+sequence to also include analysis, modeling, and leading up to a final detail design.  This 
+work is checked by two formal design reviews: a preliminary design review (PDR) and a 
+critical design review (CDR).  This is followed by the process of hardware development 
+(CPU, GPU, TPU, QPU) and more importantly software development (assembling AI 
+software modules).  In typical engineering designs, the assembly step is typically reserved 
+for putting hardware together , but this time the team will focus on assembling software 
+modules, including daily regression testing (a key function) to insure software stability .  
+Integration involves combining the hardware with the software.  Finally, t esting is critical 
+for verification and validation (V&V) of the requirements and acceptance of the deliverable 
+AI System.  There are some NSF Testbeds being developed that can be used for AI 
+development testing and acceptance demonstrations for final customer validation (of 
+capability).  It is expected that we will  have a number of smaller demonstrations along the 
+way for management and stake holders to enhance public engagement. 
+Returning to the Action Plan and using the vernacular of AI language, a “plan” is a 
+sequence of steps.  The plan starts with a starting point and a goal, and similar to  
+implementing a search tree, there are intermediate steps that can be taken to reach the 
+goal.  It is important to remember that any plan will have contingencies, which may require re-planning.  This is not uncommon. The plan needs to be actionable which fits into Craik’s 
+deliberate (or sense-plan-act) paradigm in robotics.  The key to any robotic system is all 
+
+
+6 about control.  Thus, the OSTP AI Action Plan should be a sequence of steps that can be 
+controlled and monitored with discrete feedback (learned from cybernetics).  The first step 
+in developing the plan is to build the technology roadmap.  The AI roadmaps  will form 
+the framework for the overall technology development process.  As described earlier, 
+there are two roadmaps to be developed: an AI Science roadmap that feeds into the AI 
+Engineering roadmap.  It is important to include science, but the primary focus should be 
+on the AI Engineering roadmap.  The roadmaps need to be adaptive such that break-
+thrus in science should be quickly inserted into the AI engineering roadmap. 
+This means that all AI activities around the world needs to be captured in this roadmap, 
+which can be difficult with individual companies developing proprietary research & 
+development activities.  The notion is not to document proprietary work, but to summarize 
+the work in order to assess its place within the roadmap (i.e. capabilities).  To stay 
+objective, members of the roadmap team will have to sign non-disclosure statements with industry and academia.  The hard part is developing the roadmap , and myself having 
+personal experience in developing two government sponsored roadmaps (NASA and 
+Department of Energy) and one in industry (Lockheed Martin).  The Department of Energy 
+Roadmap focused on the individual “needs” within each national laboratory in the nuclear complex and the NASA roadmap was delineated by core capabilities such as exploration 
+and mobility for space exploration.  The Lockheed Martin Roadmap was specific to 
+Autonomy and conducted across the various Lockheed Martin business segments 
+(delineated by domain) .  One key here is to get knowledgeable people to work on this 
+effort that can work judiciously to produce the map accurately and quickly.  Having worked 
+on the National Automated Highway System Consortium (NAHSC) through the U.S. Department of Transportation, the roadmap team must be managed at a reasonable size 
+(NAHSC had nine members) in order to make decisions in a timely manner .   
+The AI Roadmap is a visual way to connect strategy to actual work in order to deliver 
+against its goals.  It should be a workable plan that the country can believe in and follow. 
+This requires a buy-in for all that are involved, in academia, industry and the government.  
+The AI Roadmap includes goals, initiatives (both existing and new), and big themes of 
+work that will help the country achieve both the vision and mission.  The AI Roadmap is a 
+high-level document that is a  visual representation of a strategy ; it answers the questions of 
+what will be done, who will be involved in the work, the details of scope and resource allocation, 
+as well as how and why certain initiatives were prioritized over others.  The AI Roadmap cannot 
+live in a silo and is essentiall y a communication tool for decision -makers and stakeholders.  It 
+will have the following clear depiction of dependencies, having the right amount of detail, and 
+having an assessment of the AI technologies today (across government, industry, and 
+academia).  The AI Roadmap team needs to objectively identify strengths, weakness, and 
+especially gaps (both domestically and internationally)  in the technologies .  Finally, the roadmap 
+will be very broad with many interfaces which have complex interactions , i.e. introducing 
+unexpected emerging properties.  
+
+
+7 Developing the Roadmap  
+The project starts with selecting the team to work on the project.  The optimal size would be 9 -
+12 scientist and engineers.  All members should be full -time with no distractions (no part -time 
+workers that cannot commit full -time to this endeavor).  The OSTP member will not be full -time 
+due to his/her other responsibilities.  The plan is to produce a first draft of the AI Roadmap in 6 -
+months.  This is not an academic exercise .  Similar to the Manhattan project or the methodology 
+used by the Lockheed Martin “Skunkworks”, in terms of producing a new aircraft with  minimal 
+distractions , to focus on the team’s goals.  Members should be co -located  during the study , with 
+maybe a free weekend every two weeks to go home to attend to personal needs.  Midway (after 
+three months), the participants are given a week holiday to recharge batteries and again rejoin 
+family.  The key is selecting workers  as opposed to the opposite in industry where everyone 
+wants to be a manager to delegate work to others.   Having e xperienced professionals are the 
+key. 
+As stated earlier, there will be two roadmaps with the primary focus on the AI Engineering 
+roadmap. But a neuroscientist should be selected to lead the AI Science  roadmap and the 
+deliverable product would be a summary on the state -of-the art of mind research.  The product 
+of the team should be un- biased and as objective as possible.  There are some interesting 
+questions to be asked  of AI Science : 
+• How does the mind really work?  
+• Can a connectionist neural network accomplish symbolic manipulation, or maybe more 
+generically, is an integrated AI  a form of neuro -symbolic AI? 
+• Is the modern computer system a good analogy for the mind/brain problem?  
+• What are the limitations of the mind and of the brain , or both ? 
+It would be important for the entire team to be at the same place mentally, and maybe the AI 
+Science team should be a subset of the entire AI Roadmap team.  There will be instances where 
+the AI Science team needs to make site visits (travel) to gather information from leaders in the 
+field in order to build the AI Science roadmap.  
+The AI Engineering roadmap is a different beast entirely.   There needs to be a state of the art of 
+artificial intelligence technologies.  For reference, t here is the Handbook of Artificial Intelligence  
+(Copyrighted in 1981 by editors Barr and Feigenbaum) and Artificial Intelligence: A Modern 
+Approach  by Stuart Russell and Peter Norvig (copyright 1995)  that are both fundamental to AI  
+teaching.  There is a vast amount of background references in this subject.  These two books 
+are the most cited references on AI but does not accurately reflect the most recent stage in the 
+development of the technology and does not incorporate the newest technologies, ideas, and 
+features.  During the development of the Department of Energy’s roadmap, we developed 
+various working groups that visited many pertinent institutions relevant to our effort.  
+Affectionately known as road trips , we need to continue this work to visit key institutions in this 
+country and potentially others .  This includes a combination of government, academic, an d 
+industrial affiliations.  This is the reason for identifying and establishing non -disclosure 
+agreements with the visited institutions.  
+
+
+8 Initial candidate institutions to visit include:  
+Academia  Private Institutions  
+University of California at Berkeley  Santa Fe Institute  
+Stanford University  Robotics and AI Institute (RAI Institute) 
+Massachusetts Institute of Technology  Toyota Technological Institute at Chicago  
+Carnegie Mellon University  Institute for Human -Machine Cognition  
+University of California at San Diego  
+Industry  
+OpenAI  Google/Alphabet  AI 
+Tesla AI & Robotics  AI at Meta  
+Amazon AI Anthropic  
+Apple Machine Learning Research  Vicarious  
+Google Deepmind  IBM Research  
+Nvidia Anduril  
+GitHub  Microsoft AI Research  
+This list of institutions is preliminary and subject to change.  During the information collection 
+process, the team is required to use the Ray -Ban Meta AI glasses to document the different 
+visits (respecting the permission to have cameras  in the fact finding task ).  Recent technologies 
+of interest include:  
+• AdaBoost  
+• Affinity Propagation  
+• Agents 
+• Large Language Models  
+• Convolutions  
+• Transformers  
+• Attention Mechanisms  
+• Autoencoders  
+• Backpropagation  
+• Multi- layer Perceptron  
+• Embeddings  
+• Diffusion Models  
+• Embeddings  
+• Vector Databases  
+• Graph Neural Networks  
+• Knowledge Graphs  
+• N-grams  
+• Normalization  
+• Random Forest  
+• Softmax 
+• Tokens  
+• Support Vector Machines  
+• Kolmogorov -Arnold Networks  
+
+
+9 •Backpropagation for Training
+Again, this is only a partial list.  However, recently Yann 
+LeCun made a series of statements to abandon generative 
+models, probabilistic models, contrastive methods, and 
+reinforcement learning.  We, as a team, must investigate 
+where Dr. LeCun is coming from in order to understand his 
+intentions . Having worked on a DARPA autonomous 
+vehicle program in the 1990s, we integrated 1.6 million lines of code on five SPARC 
+workstations to drive both on-road and offroad, resulting in a software intensive program 
+which required arduous integration and testing.  My colleagues and I served as software 
+integrators by receiving code from many industrial and academic partners, and 
+documenting the software was a difficult task.  One of m y roles on this DARPA program 
+was to transfer technology and as a result, I had to capsulized some of the technologies 
+demonstrated into software packages of different capabilities for transfer such as 1) 
+teleoperation and 2) mission planning.  These packages are quantified by the size of the 
+package, understanding the required inputs and expected outputs to and from the 
+software (described in a data flow diagrams), and all other interactions with each 
+particular software packet.  This also included hardware requirements to run the code.  A 
+key architectural issue is whether these technologies are closely coupled or loosely coupled with other technologies, e.g. data cleaning would be tightly coupled to machine 
+learning. 
+The listed recent technologies of interest will not preclude classical AI technologies: 
+search, decision trees, expert systems (another form of decision-making), reasoning, 
+natural language processing, anomaly detection, planning (global and local), logic, 
+symbolic manipulation, diagnostics, prognostics, inference, etc.  The results of the fact-
+finding expeditions and the state-of-the -art for each technology will be documented in a 
+report on the technologies investigated from the AI Technology Base.   The remaining task 
+is to document the AI Engineering roadm ap.  The Roadmap and the state-of-the -art report 
+can occur in parallel. 
+AI Science helps to identify the individual technologies to be investigated in the AI 
+Technology Base (can be referred to as a database, but there must be a better title for 
+this grouping and possibly renamed).  The problem statement also receives input from AI 
+Science, and understanding the problem is a critical step.  For example, a common test for individuals is to recall the problem in their own words (used on my students).  So, is 
+the problem to achieve AGI or something different?  This sets the stage for the AI Engineering roadmap.  At this point, the problem would be open to further debate among 
+the team  to further clarify the problem.  Moving forward, proper requirements must be 
+developed including the formalism of using “shall” and include a rationale for each 
+requirement as justification.  The requirements activity should be led by a team member 
+with expertise in psychology (defining the behaviors required for the final product).  At this 
+time, the roadmap should focus on autonomy as the HRI, and the team can re-address 
+the human-machine interface later.  Without the human, it makes dictating the concept of 
+operations easier.   It should be remembered that all assumptions made during this 
+
+
+10 process must be validated in order to continue the plan.  Otherwise, bad assumptions 
+must be corrected and the previous analysis has to be re-done.   
+In a parallel thread, the team  should have a notion or conceptual design of what is AI.  
+Everyone has ideas creating an abundance of concepts to investigate.  For example, 
+typical proposals to government solicitations would start with a baseline or concept of 
+what the offeror is planning on delivering.  Some engineers would refer to this as the Initial 
+Operating Configuration (IOC).  There will be some back and forth between the 
+requirements, architecture, concept of operations and the conceptual design in order to 
+work out the details, and this process is to refine all the constituents, and is called synergy 
+(term used in the NASA systems engineering manual). The functional architecture is in 
+practice all software (what it has to do), and the physical architecture is code name for 
+hardware.  Technologies in the AI Technology base populate the functional architecture 
+with inputs -outputs, maybe having a data dictionary, and can balance “functions” at the 
+appropriate level of abstraction (similar to using Hatley -Pirbhai modeling, DeMarco 
+modeling, or data flow modeling).  Good  examples of a high -level architecture are 
+documented on the Vehicle Management System ( on a F-35 aircraft) or the Vehicle 
+System Manager (VSM) on the NASA Orion spacecraft.   Remember, the physical 
+architecture is designed to support the software.  Typically, the architecture will take a 
+global view of  AI with the goal of looking for holes in the design.  We are looking for 
+strengths and weaknesses in the technologies.  These holes are critical to the action plan for focusing this country’s needs for keeping the nation’s effort at the fore front.  
+Developing the architecture and populating the design from the AI Technology Base is a 
+key step in the action plan.  The architecture itself is a roadmap.  The Preliminary Design 
+Phase and the Critical Design Phase is dominated by modeling and analysis.  System 
+analysis include trade studies and a gap analysis of the critical technologies.  The analysis 
+will also include the typical analysis on computation capacity, memory, ASICs, FPGAs, 
+power requirements, and all temporal issues from timing and update rates that impact 
+processing cycles.  For example, aircraft might incorporate ARINC 645 (makes a single 
+processor to function like 20 smaller processors through partitioning). This technology is 
+used on commercial aircraft today.  Representation, both internal and external, is key to 
+artificial intelligence.  Some representation are AI models that include one or more of the 
+following: mental models, world models, geometric models, script theory, frames, 
+language models, etc.   Some researchers use ensemble theory to combine multiple 
+disparate models.  Models are essential to predict the future or what will happen next, 
+similar to the way  current weather models predict tomorrow’s weather.  Predictive 
+capabilities are one of the pillars for AI, along with learning, knowledge, and natural 
+language.  Passing the critical design review delineat es the go-ahead for hardware and 
+software development.   This is where the rubber-meets-the -road in AI.  As the software is 
+assembled into larger working modules, they will be integrated with its intended hardware 
+(be it with 2 nm or 4 nm CPU technology or qubits if available).  Upon working, testing is 
+used to measure performance and verify requirements.   The final test may be a 
+demonstration of the final capability, whether AGI or other. The learning component will require a step for training the model on the data.  There may be several iterations through 
+the AI Engineering roadmap to identify different activities or to develop new capabilities.  
+
+
+11 At the high rate AI technologies are being developed today, the roadmap will have to be 
+updated constantly to ensure currency with the state-of-the-art. 
+Similar to the AI Science roadmap, there are some interesting questions to be asked about the 
+AI Engineering roadmap:  
+•Can we develop an AGI or superAGI system all at once or do we need to evolve the
+system incrementally ? 
+•How do we integrate symbolic systems with connectionist systems (also known as sub -
+symbolic) ? 
+•Real- time performance is always desirable, but there are limitations.  Are we processor
+limited per Moore’s Law or by memory or by power limitations (or other such as requiring
+thermal considerations)?  
+•How are guiderails integrated into the system (similar to DeepSeek -V3)?
+•How can we transition from specific use- cases to the general case and vice versa?  Are
+there limitations to the level of abstractness to a level of detail required to not lose
+meaning?  
+The planned deliverables for this effort should  include:  the AI Science Roadmap, AI Engineering 
+Roadmap, site visit write -ups (could be included as an appendix), physical architecture, 
+functional architecture, test data, requirements table, performance analysis, etc.  Systems 
+engineering require complete and thorough documentation.   Finally, m any presentations are 
+anticipated to be given by the team members in various forums.  
+Please use all or parts of this RFI to achieve your objectives.  We are available for further 
+clarification or consultation.  For additional reference, please refer to: 
+www.routledge.com/9781032673110  
+Our contact information are:  
+Wendell Chun 
+Zachary Sartor 
+“This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution.” 
+
+
+12 Acronyms: 
+AGI Artificial General Intelligence  
+AI Artificial Intelligence  
+ASIC Application -specific integrated circuit  
+CONOPs  Concept of Operations  
+CPU Central Processing Unit  
+CDR Critical Design Review  
+FPGAs Field Programmable Gate Arrays  
+GPU Graphical Processing Unit  
+HCI Human- Computer Interface  
+HRI Human- Robot Interface  
+IOC Initial Operating Configuration  
+KISS Keep it simple, stupid  
+LLM Large Language Models  
+Nm Nanometer  
+PDR Preliminary Design Review  
+RFI Request for Information  
+TPU Tensor Processing Unit  
+TRL Technology Readiness Level  
+QPU Quantum Processing Unit  
+
+

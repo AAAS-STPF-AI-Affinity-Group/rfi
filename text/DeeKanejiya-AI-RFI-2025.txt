@@ -1,0 +1,320 @@
+Dee Kanejiya
+Founder and CEO, Cognii
+San Francisco, CA
+March 15, 2025  
+To: Faisal D’Souza,  
+Office of Science and Technology Policy (OSTP), 
+NITRD NCO,  
+2415 Eisenhower Avenue,  
+Alexandria, V A 22314 
+Subject : Development of United States Artificial Intelligence (AI) Action Plan 
+Dear Mr. D’Souza : 
+I appreciate that OSTP and its Subcommittee on Networking and Information Technology 
+Research and Development (NITRD) have requested public information about artificial 
+intelligence technology and its applications to inform the development of an AI Action Plan 
+(Federal Register Notice - 90 FR 9088).  
+As a founder of an AI startup committed to improving the quality and affordability of education, 
+and with a PhD research in innovative language model design and development from Indian Institute of Technology Delhi, and with postdoctoral research in multimodal multilingual 
+interfaces at Carnegie Mellon University and Karlsruhe Institute of Technology in Germany, and 
+having two decades of industry experience in AI, language modeling, and virtual assistant technologies, and as a pioneer of Conversational EdTech and Virtual Learning Assistant 
+products, and as a recipient of an innovation research grant from the National Science 
+Foundation, I am pleased to share my experiential and future perspectives on how AI can play a 
+significant role in the advancement of human civilization, and what specific measures the U.S. 
+government can take to achieve the successful outcomes. 
+______________________________________________________________________________ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  
+ / 10 1
+
+
+© Dee Kanejiya / Cognii, Inc.
+As we start the second quarter of the 21st century, AI technology offers a great potential to 
+advance humanity and transform a number of industries such as the education, skill 
+development, healthcare, justice, and innovation economy. Given my expertise in the technology 
+and education fields, I will focus on the innovative approaches to developing the core AI and 
+language modeling technology and its applications to the education and workforce industry. I 
+will specially emphasize the need and unique opportunity created by AI in transforming the 
+century-old educational assessment practices because everything in a way depends on how we 
+measure human potential. I will also encourage more involvement of the Small Business 
+Administration (SBA) in the AI economy to diversify and strengthen the technological 
+capabilities as well as to democratize the value creation opportunities, and thus support the core 
+tenets of the United States — individual autonomy, intellectual freedom, and meritocracy.  
+1. AI and Language Model Technology
+Artificial Intelligence has been an active area of research since the 1950s with the goal of mimicking human intelligence exhibited across different cognitive faculties such as language and 
+vision. A language model (LM) is a mathematical model for primarily assigning a probability 
+distribution over a sequence of words or symbols.  
+LM Evolution:  
+1980s : Language models grew popular as a higher order structure to improve the performance of 
+large vocabulary automatic speech recognition and machine translation systems. Early language models were either symbolic such as the rule-based context-free grammars, or statistical such as the n-grams which had a narrow context of two or three words.  
+2000s : Vector representations of words (aka embeddings) started the transition to more complex 
+mathematical modeling of language where each word or its part (‘token’) was represented by a 100 to 1,000 dimensional numerical vector. My PhD research  invented the principle 
+1
+of language modeling using context-dependent vector representation of words where 
+each word is associated with a different vector depending on its linguistic context. The 
+resulting model called latent syntactic-semantic analysis used high-dimensional tensor 
+representation of language and lead to significantly better next-word prediction. 
+2020s : The currently popular large language models (LLM) rely on more rigorous brute-force 
+learning of context-dependent vector representation of words obtained by an attention 
+mechanism in an artificial neural network containing many layers. They can be trained in a generative manner to predict a text sequence or an image, and hence are sometimes 
+ https://scholar.google.com/citations?user=KeFRrkMAAAAJ1
+ / 10 2
+
+
+© Dee Kanejiya / Cognii, Inc.
+called Generative Pre-trained Transformer (GPT) models. Non-transformer based 
+architectures such as the state-space based models have also recently started to match the 
+performance of transformer based models. These LLMs have become feasible now due to 
+the availability of large amount of training data and computational capability.   
+Computing Hardware Demand:  
+Graphics Processing Units (GPU) were originally designed for processing images, which are 
+represented by a matrix of data, requiring vector and matrix computations in parallel. Vector 
+representation of words in LLMs has therefore found a great utility of GPU hardware in 
+language modeling, and as the models become larger, the demand for GPUs has increased 
+significantly in the AI industry. The following is an excerpt from my PhD research progress report in 2001 predicting that future language models with longer context window will need highly powerful supercomputers:  
+“To perform further experiments with more singular triplets as well as  
+with longer preceding parse, will require a highly powerful supercomputer.” 
+In this regard, the federal government’s initiatives in establishing more electronic chips 
+manufacturing facilities and cloud computing infrastructures in the U.S. could play an important 
+role in the growth of the AI industry in future.  
+Performance Measures: 
+Language model performance can be evaluated using an intrinsic measure called perplexity 
+which is a statistical indicator of how well a LM can predict an unseen text. Its value ranges 
+between 1 and the vocabulary size which can be 10,000 or more (the lower the perplexity the 
+better the model). In 2004, we had demonstrated in a peer-reviewed paper on language 
+modeling  that a highly performant and efficient language model with 20,000 words vocabulary 2
+can achieve a very low perplexity value of 36.37 when the industry standard values used to be 
+around 100. This result was precisely validated fifteen years later in 2019 when OpenAI’s GPT 
+model achieved a perplexity value of 35.76 on the same dataset . As LMs become more 3
+powerful, the perplexity numbers have decreased even further, and more task-specific measures such as the accuracy of answering questions or task completion rates have also become popular. 
+Future measures should include model reliability per energy consumption i.e. the efficiency or 
+ Kanejiya et al. (2004) “Statistical Language Modeling with Performance Benchmarks using Various Levels of Syntactic-Semantic 2
+Information.” In Proc. 20th Int. Conf. on Computational Linguistics (COLING), p. 1161–1167. Geneva, Switzerland.    
+https://aclanthology.org/C04-1167.pdf
+ https://paperswithcode.com/sota/language-modelling-on-penn-treebank-word3
+ / 10 3
+
+
+© Dee Kanejiya / Cognii, Inc.
+quality of output per cost of development and operation. Government should encourage high 
+efficiency innovation and capital efficient entrepreneurship as they reflect true intellectual 
+ingenuity, otherwise society might encounter cost inflation, debt dependency, subsidization need, 
+regulatory capture, false optima settlement, and international competitive disadvantage. 
+Modeling Approaches:  
+There are mainly three approaches to LM development — deterministic, statistical, and neural 
+— and they have their own benefits and limitations when measured across different performance characteristics e.g. reliability, controllability, corrigibility, generalizability, explainability, 
+transparency, training data size, computational resources, training time, inference time, energy 
+consumption, operational costs, task specific validity, bias and harmfulness, trust, safety, ethical considerations, data privacy and security, intellectual property attribution etc. When developing 
+an AI action plan, it would be recommended that a wide variety of approaches to LM development are pursued so we can benefit from having the ability to select and deploy a more 
+optimal single or a hybrid LM solution for our unique needs. As the reliability and explainability 
+of model output become critical for practically valuable applications, the next phase of AI model 
+development would need to integrate determinism into current approaches. In a recent email 
+exchange with a prominent Silicon Valley VC, I had commented:  
+“It would be interesting to see how the infusion of more and more determinism in the neural models plays out. Could it be similar to how PageRank evolved? Time will tell.” 
+Generative vs Analytical AI:  
+There are two types of AI and LM technologies — generative or analytical. Information 
+analysis is considered more important than information generation, because analysis is the 
+primary driver of decision making process in businesses and society. Even though we as human 
+beings perform both the tasks of language generation and analysis, many learned people give the 
+advice that the listening (analytical) skill is more important than the speaking (generative) skill. As a result, if we wish to develop AI in our image, it would be recommended that we do not 
+stop at the generative AI stage, but also focus on the analytical AI. Generative AI limits a user’s agency and can lead to more passive content consumption and less active content 
+construction, while an analytical AI offers more user agency and can lead to more complex 
+conversational interfaces which are better aligned to real-life knowledge exchanges between 
+humans. The contrast between the generative and analytical AI can be similar to the example of  
+value derived from learning by reading vs learning by doing. A generative AI might also be 
+perceived as having an ordaining characteristic especially when it provides inaccurate 
+information assertively, and is also causing some fear of taking away jobs of various types of 
+ / 10 4
+
+
+© Dee Kanejiya / Cognii, Inc.
+content creators. On the other hand, an analytical AI can be seen more like a service tool that we 
+invoke when we need to ease our life and increase productivity while still being in complete 
+control. Sometimes a generative model may provide insights for the development of an analytical 
+model, however most of the time, an analytical model is built in a separate way using different 
+modeling techniques than a large LM architecture because there is not sufficient amount of training data available of the analysis process (which requires human decision labeling). Task specific analytical AI can also benefit from smaller size and energy efficiency. A perfect AI 
+companion should have a balanced high quality generative and analytical capabilities. 
+Multimodal AI:  
+In addition to improving the performance of uni-modal language models, future advancement of AI should also focus on multi-sensorial LM technology, which will simultaneously process 
+multiple sensory modalities for generative and analytical applications. Such systems would 
+combine for example the language, vision, and other sensory information streams for high 
+fidelity human-machine interfaces. My postdoc research proposal  written in 2004 describes how 
+4
+to build multimodal AI. We should also consider developing industry or organization specific LM technology that captures the unique characteristics of its domain for reliable analytical 
+applications. Government should also encourage and support the open-source LLM initiatives 
+to benefit the small and medium sized enterprises, and develop a larger innovation community. 
+2. AI in Education and Workforce Development
+Conversational AI offers a unique opportunity to solve a century old problem of assessment and 
+tutoring to make high quality education and training affordable and scalable. Before discussing 
+the solution, let us understand the background and the problem.  
+Since the dawn of civilization up until now, natural language conversation has been the primary 
+modality of knowledge exchange between humans. During the ancient times, spoken language 
+based conversation was the only modality for education. Later when writing was invented, spoken and written form of conversation became the modality of education. As humanity advanced and the education system was formalized during the industrial revolution era, the 
+classroom assembly-line model (seat time based credential) became common. Even there the 
+modality of learning was the conversation primarily led by an instructor.  
+ https://www.linkedin.com/posts/kanejiya_dee-kanejiya-postdoc-letter-2004-multimodal-activity-7158896793303281664-jezg4
+ / 10 5
+
+
+© Dee Kanejiya / Cognii, Inc.
+However, one of the drawbacks of the industrial era cohort-based education model was that the 
+students lost the agency to learn by linguistic and cognitive demonstration other than during 
+tests. Even that opportunity was taken away a century ago, when the test format of multiple 
+choice questions was invented as a temporary mechanism to recruit a large number of soldiers for the World War I. It is no surprise that the test format which was conceived and adopted a 
+century ago, has been shown to contribute to learning achievement gaps in a number of academic 
+studies . It is also relatively easy to understand the practical irrelevance of the multiple choice 
+5
+tests to our real life e.g. we can ask ourselves : how many multiple choice questions (with precisely four choices and only one correct answer) for performance evaluation we encountered 
+in our regular daily life — today or this week or this month or this year or since we left the 
+education system as a student? The answer is almost zero. Additionally, each multiple choice 
+question with four choices carries a minimum measurement error rate of 25% at the input step of 
+a complex assessment process which would likely translate to even higher error rate at the output step i.e. human employment and role assignment in society.  
+These problems have been recognized by all the stakeholders of the education system including 
+the students, teachers, parents, school leaders, employers, and government officials. So, it is only 
+fair to ask why such an outdated practice of multiple-choice tests is still continuing to be used 
+after a century and is also consuming a significantly large amount of tax dollars and human 
+productivity? The following questions may lead to a solution: How many different educational testing companies are there with decade-long contracts worth billions of dollars from federal, state and local education agencies? How many innovative educational assessment startups are 
+being actively solicited by government education agencies? Even the significant amount of 
+funding allocated by the federal government towards Innovative Assessment Demonstration 
+Authority (IADA) has produced no substantive innovation due to the limitations of organizations 
+involved in its implementation. There are a number of examples of projects funded by the U.S. 
+Education Department where the outcome of more than a million dollars of funding is essentially 
+development of less than ten multiple choice questions and their testing with a few hundred 
+students. The costs of more than $100 million per year associated with the NAEP (National 
+Assessment of Educational Proficiency) platform and assessment development, administration, 
+and scoring could see a significant reduction while increasing its quality if innovative startups 
+are involved. It is important that the government creates a fair and meritocratic level playing field to make real and substantial progress on centuries old problems. 
+ Reardon, S. F ., Kalogrides, D., Fahle, E. M., Podolsky, A., & Zárate, R. C. (2018). The Relationship Between Test Item Format and 5
+Gender Achievement Gaps on Math and ELA Tests in Fourth and Eighth Grades. Educational Researcher, 47(5), 284–294. https://
+doi.org/10.3102/0013189X18762105
+ / 10 6
+
+
+© Dee Kanejiya / Cognii, Inc.
+Why is educational testing important for the civilizational advancement?  
+The well-known management guru Peter Drucker is often attributed the quote “If you can’t 
+measure it, you can’t improve it.”  A corollary to that would be “the extent of improvement 
+would be proportional to the quality of the measure.” It is possible that with a poor quality 
+measure, a system might even worsen. During the agrarian era, a foot as a measure of minimum 
+length was probably valid, but if we had remained fixated on it and not developed inches or 
+millimeters, we would not have been able to progress towards the industrial era. Educational testing is a measure of human potential, especially of the developing young human beings who are the future of our civilization. If they are not measured accurately, they will be misplaced in 
+the career education and workforce, resulting in a chaotic society where members do not feel a 
+natural alignment between the work and their skills and interests, and as a result are likely to 
+cancel each other’s productivity. On the other hand, if educational testing is perfectly aligned 
+with how human beings are evaluated in real world, which happens through natural language 
+conversations and work product demonstration instead of asking people to select one of the 
+four choices, the resulting society will be far better organized with members enhancing each 
+other with complementary contributions. Such a society would certainly be better prepared to 
+tackle the future challenges that humanity may face. Innovation in educational testing will be key 
+to supporting President Trump’s agenda of Make America Great Again especially his 
+commitment to improving U.S. education as he recently commented, “We’re at the top of the list 
+when it comes to cost per pupil. We spend more money per pupil than any other nation in the 
+world and yet we’re ranked No. 40.”  
+Solution to the problems in education:  
+The good news is that in recent times, the focus has been shifting towards personalized learning 
+and giving students more agency to construct and demonstrate their knowledge. Benjamin 
+Bloom showed in his seminal research on mastery learning  that when students receive 6
+instruction in a one-to-one tutoring environment and receive instant feedback on their constructed response answers, their performance improves by two standard deviations. This 
+establishes the key role of natural language conversation in the education process and therefore 
+validates Conversational AI based EdTech as one of the most efficacious educational 
+innovation available to serve humanity. Cognii has been leading the movement towards Conversational EdTech  for more than ten years with its Virtual Learning Assistant (VLA) 
+7
+technology supporting schools and higher education institutions in implementing innovative 
+ Bloom, B. S. (1971). Mastery learning. In J. H. Block (Ed.), Mastery learning: Theory and practice (pp. 47–63). New York: Holt, 6
+Rinehart and Winston.
+ https://venturebeat.com/ai/how-ai-will-transform-education-in-2017/7
+ / 10 7
+
+
+© Dee Kanejiya / Cognii, Inc.
+assessment and tutoring solutions. The VLA measures students’ learning using high quality 
+constructed response questions and engages them in a tutoring conversation by providing 
+immediate feedback in the zone of proximal development to maximize their learning gains. 
+This is similar to the gradient descent method of back-propagation in neural network weights 
+training. I have often promoted the idea of “Deep Learning for Deeper Learning” where deep 
+learning refers to machine learning technology and deeper learning refers to human pedagogy. In 
+addition to improving public education, AI can also be a great boost to home schools, charter schools, and private schools as it can enhance the one-to-one learning. Recently, I had the pleasure of delivering a keynote address on “AI in Education” to the members of National 
+Council for Private School Accreditation, as well as on “AI for Assessment and Instruction” at 
+the innovation conference of the Pennsylvania Coalition for Public Charter Schools. 
+My personal involvement with AI in education goes back to twenty years  when I presented my 8
+doctoral research on intelligent tutoring and assessment system at the very first international gathering of experts building educational applications using natural language processing in 2003 
+in Edmonton, Canada. Over the years, I have supported this gathering to encourage involvement 
+of young researchers in this intellectually stimulating and satisfying field of human endeavors. A 
+number of other startups and organizations have also played important roles over the years in bringing the benefits of AI technology to the education industry. As someone with expertise in development of both the language model technology as well as the educational technology, I 
+believe that education industry should not be perceived only as a recipient of the benefits of AI technology, but instead it can take a lead in the design and development of high quality AI 
+technology which in turn could benefit all the other industries. Within the AI industry, the rise of 
+the new term ‘curriculum training’ of an AI model shows the convergence of the AI training 
+process and a human education process. As a result, there will also be a growing convergence in 
+the assessment processes of AI models and human students. In the recent evaluations of LLM 
+technology, many AI companies have started using the various human educational tests to 
+measure the intelligence and cognitive performances of AI models. This is both a validation of 
+the importance of educational processes in training an AI model, but also a concern in that the AI 
+models are being evaluated using the same faulty multiple-choice tests that we should be removing from the education system. It is also important to note that currently many of the LLM 
+providers caution against their models’ use for educational assessment purposes due to their 
+problems with reliability, biases and other limitations. By innovating the educational testing system, we will advance not only the human learning but also the machine learning field. 
+ Kanejiya et al. (2003) Automatic evaluation of students’ answers using syntactically enhanced LSA, Proc. HLT-NAACL workshop 8
+on Building Educational Applications using NLP , p. 53-60. https://aclanthology.org/W03-0208.pdf
+ / 10 8
+
+
+© Dee Kanejiya / Cognii, Inc.
+How can U.S. government facilitate innovation in both AI and Education simultaneously?  
+It is encouraging that the U.S. government is focused on improving the efficiency and reducing 
+the fiscal deficit and debt. As you prepare the AI action plan for the next four years, I would like 
+to make the following policy recommendations which are highly specific, timely, actionable, and 
+offer a century-defining opportunity to transform the education and AI industries: 
+i.Every organization (federal, state, local, private) allocating resources for educational or
+human performance testing should require a 10% reduction in the number of multiple
+choice questions used every year or allocate 10% less funding every year for multiple choicetests. This will ensure a graceful transition away from the practically less relevant form of
+testing and towards more valid and better aligned form of AI powered higher quality
+assessments. On the global stage, it is possible that some developing countries might leapfrog
+immediately to such a highly efficacious education system with 100% AI poweredassessments (similar to their transition to the internet era directly via smartphones andbypassing the computer era of internet) due to the lack of educational testing infrastructureinertia. This will likely create a competitive advantage for them and a challenge for the U.S.
+ii.Federal government should leverage the successful practices of its Small Business
+Administration. Most of the industry sectors have benefited significantly when SBA is
+involved to facilitate participation of startups to support innovation. Educational testing
+industry has however remained largely isolated and away from SBA intervention. As a result,
+there is a stagnation, monopoly, lack of innovation, and sustenance of false or outdatedpractices which are not aligned with, or could be adversely affecting, the desirable progress of
+the society and the economy. To address this, federal government should mandate that from
+every dollar it allocates for educational testing at federal/state/local levels, at least 20% must
+be spent to work with startups as defined by SBA. This will result in a rapid growth of
+innovative AI powered educational assessment solutions developed by Americans who are
+bestowed with ingenuity and entrepreneurship. This will increase the technology based
+economic development and competitiveness of the U.S. Solving this core assessment problem
+could also lead to resolution of many of the long standing education problems, as well as the
+AI industry’s difficult alignment problem which will lead to responsible and trustworthy AI
+which in turn will lead to newer and better opportunities for humanity.
+iii.Celebrate efficient entrepreneurship. Encourage and reward entrepreneurs who create large
+societal value contribution per unit of resource consumption to promote excellence. As we
+enter the agentic AI era, this will create high quality engagement and employment for people.
+ / 10 9
+
+
+© Dee Kanejiya / Cognii, Inc.
+I am encouraged by the openness of OSTP and NITRD in receiving information about AI 
+technology and its various applications as they develop the national priorities and AI Action 
+Plan. Please feel free to reach out to me to receive further information or discuss any topic in this 
+regard. Thank you for this opportunity and I am looking forward to the bright future of humanity 
+powered by AI.  
+Sincerely, 
+Dee Kanejiya 
+Founder and CEO,  
+Cognii, Inc. 
+San Francisco, CA 
+Author: 
+Dee Kanejiya is the founder and CEO of Cognii, a leading provider of AI technology to the 
+education and training industry. He has over two decades of experience in technology and 
+business development in AI and EdTech industries including developing language models and 
+virtual assistant technology for smartphones at AI companies Vlingo Corporation, and Nuance 
+Communications. He is a pioneer of the Conversational EdTech and Virtual Learning Assistant 
+technology. Dee studied Master’s and PhD in Electrical Engineering at Indian Institute of Technology Delhi and conducted research at Carnegie Mellon University, and Karlsruhe Institute of Technology, Germany. He is the inventor of latent syntactic-semantic analysis method for 
+context-dependent tensor representation of language and its applications to innovative language 
+models and cognitive models for intelligent tutoring systems. Dee believes that just as a good 
+education system leads to advancement of technology, a good technology should also lead to 
+advancement of the education system. 
+About Cognii: 
+Cognii has been at the forefront of AI and EdTech innovation for the education and training industry for more than ten years. Cognii’s Virtual Learning Assistant uses conversational natural 
+language processing for personalized tutoring and automatic grading of written answers. Cognii 
+helps improve students’ learning outcomes, teachers’ productivity, and schools’ scalability and affordability. Cognii has been recognized with multiple innovation awards from MassTLC, 
+Reimagine Education, e-Assessment Awards, and National Science Foundation. 
+ / 10 10
+
+

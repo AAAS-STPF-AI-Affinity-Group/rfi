@@ -1,0 +1,202 @@
+ 
+ 
+ Merlin Labs, Inc. 
+129 South Street  
+Boston, MA 02111 
+ 
+ 
+March 15, 2025 
+ 
+ 
+Faisal D'Souza 
+Technical Coordinator 
+NITRD NCO 
+2415 Eisenhower Avenue 
+Alexandria, VA 22314 
+ 
+ Re:  AI Action Plan 
+ 
+ 
+Mr. D’Souza: 
+Merlin Labs, Inc. (“Merlin”) respectfully submits these comments in response to the RFI 
+on the Development of an Artiﬁcial Int elligence  (AI) Action Plan (“Plan”), published on 
+February 6, 2025 by the Networking and Information Technology Research and 
+Development (NITRD) National Coordination Oﬃce (NCO), on behalf of the O ﬃce of 
+Science and Technology  Policy (OSTP).   
+We are pleased that the OSTP is developing policies with the aim to further enable 
+American AI innovation. At Merlin, we believe AI technologies will transform society 
+with deep implications for operational safety and global competitiveness of American 
+aviation and defense. As a leading developer of advanced ﬂight technology,  Merlin 
+responds to this RFI with the distinct perspective of an aviation industry innovator in 
+the civilian and defense sectors.   
+This document is approved for public dissemination. The document contains no 
+business-proprietary or conﬁdential information.  Document  contents may be reused by 
+1 
+
+
+AI Action Plan 
+March 15, 2025 
+the government in developing the AI Action Plan and associated documents without 
+attribution. 
+ABOUT MERLIN 
+Merlin is building the Merlin Pilot, an advanced aviation system that will improve the 
+safety and eﬃciency of ﬂight operations  by augmenting existing pilot functions and 
+reducing overall workload — without requiring any updates to the existing 
+infrastructure. The company was founded in 2018 and is headquartered in Boston, MA, 
+with additional offices in Denver, CO and flight test facilities in Quonset, RI, and Kerikeri, 
+New Zealand. Merlin is institutionally-backed from leading private sector venture capital 
+firms, including First Round Capital, Google Ventures, and Ballie Gifford. 
+Merlin has successfully designed, integrated, and tested its technology on a variety of 
+aircraft platforms, ranging from single engine piston aircraft to twin engine turboprops. 
+Human-machine teaming is at the forefront of Merlin’s technology development 
+process as the company believes a thorough consideration of human factors will 
+ultimately enable the integration of highly automated systems on aircraft. Merlin is 
+currently in the process of certifying its technology via an Supplemental Type 
+Certiﬁcate on a P art 23 aircraft, and is actively collaborating with the US military to 
+integrate its platform into transport category platforms. 
+OPPORTUNITIES AND CHALLENGES FOR AI IN AVIATION 
+The key driver for Merlin’s technology is improved safety in aviation operations across 
+a variety of applications. With regards to artiﬁcial intelligence  (AI), Merlin focuses on 
+how to develop and deploy the technology in a manner that is commensurate with the 
+high safety expectations of civilian and military aviation technologies that exist today. 
+AI provides an opportunity to advance functionality on aircraft, though this must be 
+done in a manner that is safe, reliable, and demonstrable.  
+Existing standards, policy, and guidance provide an e ﬀective infrastructure that can be 
+leveraged to support applications in this space, but gaps in this infrastructure do exist 
+and must not be ignored. Merlin has been working with industry committees and 
+government organizations, domestically and internationally, to assess these gaps and 
+ﬁnd pragmatic solutions t o close  them.  
+The key challenge in the developments in AI safety assurance is understanding the 
+scope of the problem and safety implications. Governments around the world have 
+2 
+
+
+AI Action Plan 
+March 15, 2025 
+diﬀering views on the extent of the concerns regarding AI and how to address them. 
+For Merlin, the structure that current aviation regulations and policy provide makes this 
+problem clear. 
+Advanced automation is not new to aviation. The industry, in coordination with 
+regulators, has worked to develop standards that explain and address how these 
+complex functions can be shown to be safe. These standards involve development 
+assurance frameworks that systematically decompose a highly complex and integrated 
+aircraft into smaller, more comprehensible systems, and those systems into bounded 
+software. These assurance methods provide transformational integrity that the divided 
+problem of the aircraft can be developed in these smaller elements and also be brought 
+together to show they do all that is expected and only what is acceptable. These frameworks, as de ﬁned in standards lik e SAE ARP4761A, SAE ARP4754B, 
+RTCA DO-178C, and DO-254, help developers understand that AI can only be 
+implemented in elements already bound by these processes. In fact, in order to rely on 
+conventional protections, such as runtime assurance, to guard against unsafe behavior 
+by AI, a developer has to prove conventionally that those protections are capable of 
+having their intended eﬀect when the AI acts unsafely. To show these conventional 
+protections work, we use conventional assurance processes. It is not simply that we 
+can rely on these existing processes and standards; it is that we must rely on them. 
+PRIORITY ITEMS TO INCLUDE IN THE AI ACTION PLAN 
+As AI continues to transform the aviation industry, a clear and collaborative policy 
+framework is essential to ensure safe and effective integration. Merlin recommends that 
+the OSTP consider the following items in its AI Action Plan to support innovation while 
+maintaining safety and regulatory clarity: 
+1.Streamline a Pathway for Integrating AI Technologies in Aviation
+2.Continue E ﬀorts the STEP Progr am to Facilitate Industry Discussions on AI
+3.Set Clear Regulatory Thresholds for AI Systems Based on Safety Impact
+4.Create Aviation Communication Datasets for Algorithm Training
+Item 1: A streamlined pathway for integrating AI in aviation 
+3 
+
+
+AI Action Plan 
+March 15, 2025 
+The AI Action Plan should support policy approaches that enable a streamlined 
+pathway for integrating AI in aviation. Current regulations require developers using AI 
+on an aircraft system to undergo the Issue Paper process, regardless of the 
+application’s safety criticality. While Issue Papers are a well-established tool for 
+certiﬁcation, applying this requirement to all AI applications creates an unnecessary 
+burden, particularly for low-risk, non-safety critical functions. By de ﬁnition, these 
+applications do not cause or contribute to safety critical failure conditions and should 
+not require additional safety and compliance measures. This requirement discourages 
+applicants from using AI in low-criticality contexts and inhibits the industry from 
+gathering needed experience with the technology. 
+This challenge is especially evident in the context of Non-Required Safety Enhancing 
+Equipment (NORSEE), a framework designed to streamline the certi ﬁcation of 
+safety-enhancing technologies. NORSEE has successfully facilitated the integration of 
+tools like electronic ﬂight bags (EFBs) t o improve pilot situational awareness. However, 
+AI-based NORSEE technologies are still subject to the Issue Paper process. To address 
+this undue burden, guidance should exempt non-safety critical AI applications from 
+additional compliance requirements and expand NORSEE’s applicability to AI-driven 
+innovations across Part 25 operations. This adjustment would accelerate the 
+introduction of beneﬁcial technologies while maintaining aviation’s high safety 
+standards. 
+Item 2: Continuing e ﬀorts by the F AA STEP Program to facilitate industry 
+discussions 
+The AI Action Plan should support ongoing and future e ﬀorts for industry to collaborat e 
+on and discuss with regulators on policy development related to AI. In recent years, the 
+FAA has played a key role in supporting the view that existing standards and processes 
+provide a useful framework for demonstrating the safety of AI-driven implementations. 
+The FAA AI Summits and meetings, run by the FAA STEP Program, have fostered 
+industry coordination around this framework and have enabled the industry to see the 
+advantages of this approach. Further, the FAA supports an experienced-based 
+approach to develop new policy and guidance, which Merlin believes will result in more 
+pragmatic solutions to the eventual demonstration of the safety for AI. 
+Merlin encourages the OSTP to include policy language in its AI Action Plan that would 
+support the continued e ﬀorts of the STEP program and similar opportunities to 
+4 
+
+
+AI Action Plan 
+March 15, 2025 
+ 
+facilitate important industry discussions on AI best practices. Such meetings counter 
+the voices of those who would make the challenges more complex by ignoring the 
+mature infrastructure which can already solve the problems they are identifying.  
+ 
+Item 3: Setting clear regulatory thresholds based on safety impacts 
+The AI Action Plan should encourage the FAA to apply the aviation industry's 
+established safety continuum framework and functional safety principles to set clear, 
+risk-based thresholds for AI systems.  
+ 
+Speci ﬁcally: 
+● Low safety impact AI applications (e.g., those with an Item Development 
+Assurance Level [IDAL] of D or lower) should be subject only to existing 
+regulatory frameworks, without additional certiﬁcation burdens. 
+● Higher safety impact applications should undergo proportionally increased 
+scrutiny, following established aviation certi ﬁcation principles. 
+To implement this, The AI Action Plan should support guidance development that: 
+● Prevents unnecessary regulatory barriers for low-risk AI innovations. 
+● Ensures appropriate oversight where AI poses genuine safety concerns. 
+● Aligns AI certi ﬁcation pathways with existing safety fr ameworks. 
+Current guidance is structured in such a way that low safety critical applications do not 
+have to reveal how they are coded nor how well the algorithms perform. It is an excess 
+burden to put higher expectations on a particular software development only because 
+the regulator is aware of how it will be developed. Merlin recommends that any 
+additional objectives a regulator may propose for low safety criticality items be 
+considered not necessary for approval, but beneﬁcial for futur e research in approval 
+demonstration.  
+ 
+Item 4: Creating aviation communications datasets for NLP training 
+Lastly, the AI Action Plan should make available resources that enable developers to 
+access the data they crucially need to build robust and safe AI-driven systems. For 
+example, developing Natural Language Processing (NLP) algorithms for aviation 
+5 
+
+
+AI Action Plan 
+March 15, 2025 
+communications systems requires large datasets of existing communications that can 
+be used to train and verify models. These datasets must capture the breadth and 
+variety of today’s aviation communications, and creating them is inherently a 
+collaborative e ﬀort between regulat ors, industry, and academia to ensure that results 
+are comprehensive, su ﬃcient, and impartial.  
+We believe the AI Action Plan should implement policies that would enable the FAA to 
+support such e ﬀorts, such as by launching an initiative to create publicly available 
+datasets for the purposes of advanced technology development. Such an e ﬀort would 
+be similar t o how the FAA previously worked collaboratively with MIT Lincoln 
+Laboratory and broader industry to develop airspace encounter models, which 
+subsequently supported standards creation and development of collision avoidance 
+systems 
+Establishing an e ﬀort to cr eate training datasets for aviation communications would 
+immediately accelerate the development of systems that enhance safety within the 
+NAS, as well as inform standards and other policymaking e ﬀorts to formaliz e 
+veriﬁcation and validation of NLP algorithms going for ward. 
+6 
+
+

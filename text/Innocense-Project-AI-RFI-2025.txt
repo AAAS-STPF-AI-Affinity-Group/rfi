@@ -1,0 +1,272 @@
+Executive Director 
+Christina Swarns, Esq. 
+Co-Founders & Special Counsel 
+Barry C. Scheck, Esq. 
+Peter J. Neufeld, Esq. 
+The Innocence Project  
+Response to Request for Information on the  
+Development of an Artificial Intelligence (AI) Action Plan 
+Submitted March 14, 2025 
+The Innocence Project (IP) is pleased to respond to the Request for Input (RFI) from the 
+Office of Science and Technology Policy (OSTP) regarding the development of an Artificial 
+Intelligence (AI) Action Plan.1 As indicated in the RFI, the Trump Administration has set a 
+goal to establish government policies so that “the United States can solidify its position as 
+the leader in AI and secure a brighter future for all Americans.” It is possible for the United 
+States to lead the AI industry while still ensuring safe and reliable practices and managing 
+risks, especially when developing or procuring AI systems that impact the liberty, 
+freedoms, and safety of Americans. We believe, and our experience has shown, that careful risk assessment and establishing 
+appropriate guardrails around the deployment of new AI technologies are crucial to 
+developing AI tools that will lead to these measures of success. Nowhere is this more 
+important than in the criminal justice system, where they are necessary for ensuring public 
+safety and preventing wrongful convictions.  
+For over 30 years, IP has worked to exonerate innocent individuals and prevent false 
+convictions through institutional reform. In cases where we have conclusively proven 
+innocence, the misapplication of forensic science has contributed to 52% of the unjust 
+underlying convictions.2 Because unreliable and flawed forensic methods that are not 
+grounded in science have historically contributed significantly to wrongful convictions and 
+other miscarriages of justice, we are deeply concerned about the increasing use of AI 
+technologies in the justice system that have not been subject to robust evaluation and 
+validation, intentional oversight, and rigorous regulation. We have already seen alarming 
+instances of advanced AI technologies, such as facial recognition systems, being misused 
+and leading to false arrests. 
+2  Innocence Project, Overturning Wrongful Convictions Involving Misapplied Forensics, Innocence Project, 
+https://innocenceproject.org/misapplication-of-forensic-science/ . 1This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+Innocence Project, Inc.
+Page 2 
+The Innocence Project firmly believes that the development and implementation of 
+AI-powered applications in the criminal legal system must prioritize validity and reliability; 
+be grounded in a solid scientific foundation; and consider ethical, legal, and social 
+implications (ELSI). All of these will be crucial to ensuring the accuracy and excellence 
+necessary to meet the AI Action Plan’s goal to “promote human flourishing, economic 
+competitiveness, and national security.” 
+Recommendations 
+Below we summarize our recommendations in several  of the key areas identified in the 
+RFI:  
+1.Explainability and Accuracy of AI Model Outputs – AI models should be
+developed with transparent methodologies that are explainable and have undergone
+independent validation and necessary  auditing to assess their accuracy and
+reliability. Doing so will foster trust and accountability in forensic science
+applications.
+2.Data Privacy and Security – AI systems should adhere to strict privacy safeguards
+throughout their development and deployment, including ensuring data
+minimization, implementing robust encryption protocols, and restricting access to
+authorized personnel. A risk-based approach to privacy impact assessments should
+be mandated to prevent unauthorized data exposure or misuse, especially in cases
+involving minors, vulnerable populations, and sensitive criminal investigations.3.Regulation and Governance - The federal government should establish a reliable
+and usable framework that requires forensic AI developers to undergo rigorous
+testing, certification, and compliance assessments before law enforcement
+agencies and forensic laboratories adopt their tools.4.Technical and Safety Standards - Standardized benchmarks must be established
+to evaluate the technical robustness and safety of forensic AI systems, including the
+development of industry-wide guidelines focused on data quality, bias mitigation,
+and model interpretability.5.Research and Development – In partnership with academia, law enforcement, and
+independent researchers, the federal government should fund research initiatives to
+develop innovative AI techniques for forensic analysis while maintaining
+transparency, reducing algorithmic bias, and addressing ethical concerns.6.Procurement – The federal procurement process should prioritize  AI solutions that
+meet high ethical, legal, and technical standards. Vendors should be required to
+report their training data, model performance, bias mitigation strategies, and
+compliance with evolving forensic standards.
+T       F       innocenceproject.org      40 Worth S treet, Suite 701, New York, NY 10013 
+
+
+Innocence Project, Inc.
+Page 3 
+These focus areas are critical for advancing the responsible integration of AI in forensic 
+science, addressing ethical concerns, and mitigating potential harms to public safety, such 
+as incorrect suspect identification which leads to the actual perpetrator remaining 
+undetected.  
+1.Explainability and Accuracy of AI Model Outputs
+AI systems used in criminal investigations, evidence analysis, and judicial processes are 
+opaque. Due to their proprietary nature, judges, defendants, and lawyers know little about 
+how AI tools operate. As a result, judges have difficulty deciphering and questioning 
+algorithmic results and inadvertently end up permitting private actors to influence 
+sentencing outcomes without traditional accountability mechanisms.3   
+Another major obstacle to explainability is the black-box nature of these AI systems. The 
+AI black box problem refers to the inability to see how some AI systems make their 
+decisions. Many machine learning algorithms are indecipherable, particularly popular deep 
+learning neural network methods.4 The processes that occur in these boxes are 
+self-driven, and most programmers, data scientists, and users cannot interpret them. The 
+lack of explainability makes it difficult to assess inputs adequately and to determine from 
+where potential problems stem. Black box models that preclude a clear understanding of 
+their decision-making processes warrant additional front-end and ongoing scrutiny.  
+Developers of AI models need to construct methodologies  that are accessible to forensic 
+experts, legal practitioners, and jurors, allowing them to understand the reasoning behind 
+the models’ conclusions. Transparency  and explainability  of AI systems are two critical 
+pillars of a functioning AI system. The third is accuracy and reliability , which requires 
+implementing mechanisms that allow for independent validation and ongoing auditing of 
+their AI model outputs.  
+Studies of AI tools have raised serious concerns about their reliability  and accuracy. For 
+example, research has shown that the recidivism and pretrial failure accuracy rates 
+predicted by popular tools such as the Pre-Trial Risk Assessment Instrument (PRAI) and 
+Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) are no 
+better than those achieved by human predictions.5  A 2022 systematic review of validation 
+studies on 11 commonly used sentencing risk assessment tools concluded that the 
+5 Practitioner’s Guide to COMPAS Core, (2019).  4 Arun Rai, Explainable AI: From Black Box to Glass Box, 48 J. ACAD. MARK. SCI. 137 (2020). 3 Andrea Nishi, Privatizing Sentencing: A Delegation Framework for Recidivism Risk Assessment, 119 SSRN 
+JOURNAL (2019), https://www.ssrn.com/abstract=3335946.  
+T       F       innocenceproject.org      40 Worth S treet, Suite 701, New York, NY 10013 
+
+
+Innocence Project, Inc.
+Page 4 
+predictive performance of these tools varied significantly, with results ranging from poor to 
+moderate.6 
+All algorithms that depend on probabilistic calculations  or inferences carry inherent 
+uncertainties that affect their accuracy. If one does not grasp the probabilistic nature of 
+predictive algorithms, it may lead to overinterpreting or overreliance on the data and 
+predictions. Additionally, this misunderstanding can result in not taking the necessary steps 
+to fully understand, verify, or confirm those predictions. 
+Predictive algorithms pose significant risks, especially  when users underestimate or 
+overlook their inherent probabilistic nature. This misunderstanding can create a false 
+sense of certainty, leading individuals to believe that predictions are definitive. Such 
+misconceptions can result in wrongful arrests and harm innocent individuals. It is crucial to 
+approach these technologies with caution and to understand their limitations. Regardless 
+of the accuracy of the coding, using systematically biased data can lead to skewed or 
+incorrect conclusions, perpetuating false narratives about the criminality of entire 
+communities.7 Lastly, within the past few years, the forensic community has been fixated on artificial  
+intelligence. Some see it as a way to resolve issues relating to human error and bias that 
+have previously led to miscarriages of justice. Others see it as a way to streamline and 
+automate tasks. However, using AI to enhance an unscientific and flawed forensic 
+technique will not ensure or improve reliability, especially if the same or similar methods 
+and principles are applied. AI cannot be utilized to conduct analyses based on invalid or 
+unproven claims.  2.Data Privacy and Security Throughout AI System Development
+Forensic science often involves sensitive personal data, including biometric information, 
+crime scene evidence, and DNA profiles. It is essential for AI systems to adhere to strict 
+privacy safeguards throughout their development and deployment. This includes ensuring 
+data minimization, implementing robust encryption protocols, and restricting access to 
+authorized personnel. A risk-based approach to privacy impact assessments should be 
+mandated to prevent unauthorized data exposure or misuse, especially in cases involving 
+minors, vulnerable populations, and sensitive criminal investigations. 
+7 Grace Baek & Taylor Mooney, LAPD Not Giving up on Data-Driven Policing, Even after Scrapping Controversial Program, (2020), 
+https://www.cbsnews.com/news/los-angeles-police-department-laser-data-driven-policing-racial-profiling-2-0-cbsn originals-documentary/ .6 Seena Fazel et al., The Predictive Performance of Criminal Risk Assessment Tools Used at Sentencing: Systematic Review of Validation 
+Studies, 81 JOURNAL OF CRIMINAL JUSTICE 101902 (2022).  
+T       F       innocenceproject.org      40 Worth S treet, Suite 701, New York, NY 10013 
+
+
+Innocence Project, Inc.
+Page 5 
+Additionally, the unregulated access of law enforcement to commercial databases 
+containing personal biometric information raises significant concerns regarding due 
+process and Fourth Amendment protections. Without judicial oversight, law enforcement 
+agencies can exploit these databases to conduct searches without proper legal 
+justification, which increases the risk of false identifications and privacy violations. The 
+government should establish strict regulations ensuring that law enforcement’s use of 
+AI-driven forensic databases is subject to warrants, transparency requirements, and 
+independent audits. Furthermore, commercial data brokers should be required to 
+implement safeguards that prevent the misuse of personal data by unauthorized entities. Several examples highlight how law enforcement's  use of commercial databases has 
+raised constitutional concerns:  
+●Clearview AI and Warrantless Facial Recognition Searches: Clearview AI, a facial
+recognition company, collected billions of images from the internet and sold access
+to them for use by law enforcement agencies. The absence of warrants and
+oversight in the use of this technology has raised concerns about mass surveillance
+and potential violations of Fourth Amendment protections against unreasonable
+searches.8 ●CLEAR System and ICE Surveillance: ICE has used the CLEAR database from
+Thomson Reuters to track individuals, including undocumented immigrants, without
+obtaining warrants. The reliance on aggregated commercial data, often without
+consent, has been criticized as an unconstitutional invasion of privacy. 9 10
+●AI-Driven Predictive Policing: AI-driven predictive policing tools, such as PredPol,
+utilize historical crime data to forecast potential future crime hotspots. However,
+experts have raised concerns regarding these systems, noting concerns about their
+inaccuracy and disproportionate focus on communities of color.11 This can result in
+wasteful and ineffective over-policing and raises important issues related to
+unreasonable searches and systemic bias.12
+3.Regulation and Governance
+To maintain public trust and ensure accuracy that will lead to economic competitiveness 
+and strong national security, AI tools used in forensic science must be governed by clear, 
+12 Tim Lau, Predictive Policing Explained, Brennan Center for Justice (2020), 
+https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained .11H Aaron Sankin & Surya Mattu, Predictive Policing Software Terrible at Predicting Crimes, Wired (2023 ), 
+https://www.wired.com/story/plainfield-geolitica-crime-predictions/.  10 Joseph Cox, ‘Fourth Amendment Is Not For Sale Act’ Would Ban Clearview and Warrantless Location Data Purchases, Vice News (2021), 
+https://www.vice.com/en/article/fourth-amendment-is-not-for-sale-act-would-ban-clearview-and-warrantless-location-data-purchases/ .  9 Sidney Fussell, A Border Town Confronts the Reality of Police Surveillance, WIRED (2021), 
+https://www.wired.com/story/border-town-confronts-reality-police-surveillance/ .  8 Kashmir Hill, Facial Recognition Start-Up Mounts a First Amendment Defense, The New York Times (2020), 
+https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.html .  
+T       F       innocenceproject.org      40 Worth S treet, Suite 701, New York, NY 10013 
+
+
+Innocence Project, Inc.
+Page 6 
+enforceable regulations. The federal government should establish a reliable and usable 
+framework that requires forensic AI developers to undergo rigorous testing, certification, 
+and compliance assessments before law enforcement agencies and forensic laboratories 
+adopt their tools. Further, AI decision-making processes should be subject to independent 
+oversight, ensuring they align with constitutional protections and due process rights.  
+More specifically, a national oversight  system for forensic science  should include an 
+accountability framework to address errors, issues, or instances of negligence or 
+misconduct. It is the ethical and professional obligation of all stakeholders in the criminal 
+legal system to correct mistakes and provide notifications when necessary. The criminal 
+legal system should not be left to its own devices in holding itself accountable; instead, an 
+external oversight system should be established. This could involve the establishment of 
+an AI advisory committee with specific focus on implementation in law enforcement 
+settings. In doing this, the administration should ensure that the entity has an independent 
+voice and the ability to address urgent constitutional issues. Under the previous 
+administration, an initial report was released that left the examination of implementation of 
+AI technologies in the criminal justice system incomplete; this crucial step should now be 
+completed.13  4.Technical and Safety Standards
+Standardized benchmarks must be established to evaluate the technical robustness and 
+safety of forensic AI systems. This includes the development of industry-wide guidelines 
+focused on data quality, bias mitigation, and model interpretability. AI systems should 
+undergo adversarial testing to identify vulnerabilities and potential avenues for misuse. 
+Given their extensive experience in working with industries and stakeholders, the National 
+Institute of Standards and Technology (NIST) should lead efforts to determine the best 
+scientific and technical approaches for implementing large models in federal agencies, 
+particularly regarding how emerging technologies can be used by law enforcement.   5.Research and Development
+Investment in research is essential to advancing the responsible use of AI in forensic 
+science and to solidifying the United States’ leadership position in AI. The federal 
+government should fund interdisciplinary research initiatives that explore novel AI 
+techniques for forensic analysis while addressing ethical concerns. Research should focus 
+on improving forensic AI transparency, reducing algorithmic bias, and developing methods 
+13 Miriam Vogel, et al, NAIAC Law Enforcement Subcommittee: Year 1 Report and Roadmap, (2024), 
+https://ai.gov/wp-content/images/NAIAC-LE-Subcommittee-Year1-Report-Roadmap.pdf .  
+T       F       innocenceproject.org      40 Worth S treet, Suite 701, New York, NY 10013 
+
+
+Innocence Project, Inc.
+Page 7 
+to detect AI-generated deepfakes that could compromise the integrity of evidence. 
+Partnerships between academic institutions, law enforcement, independent researchers, 
+and the private sector should be encouraged to drive innovation while upholding forensic 
+best practices. 
+6.Procurement
+The federal procurement process should prioritize AI solutions that meet high ethical, legal, 
+and technical standards. Agencies procuring AI tools for forensic science should require 
+vendors to disclose detailed information about their training data, model performance, and 
+bias mitigation strategies to defense counsel. Further, procurement contracts should 
+include ongoing monitoring requirements to ensure AI systems maintain compliance with 
+evolving forensic standards. To promote accountability, AI vendors should be required to 
+submit impact assessments to the procuring entity outlining how their technologies affect 
+forensic accuracy, public safety, and civil liberties. Relying on AI systems for sentencing, pretrial, and posttrial decisions  raises significant  
+concerns, especially when their results have not been independently validated. It is 
+essential to conduct independent validation studies before these systems are 
+implemented. To facilitate this, some states have established "validation committees" 
+responsible for determining the appropriate usage of these tools, assessing how to weigh 
+predicted risk scores, and evaluating their accuracy rates.14 
+Validation should occur before procurement,  or at the very least, before deployment, and 
+the results must be made publicly available. These efforts will lead to a better 
+understanding of the accuracy and reliability of these tools. Knowing the accuracy and 
+error rates of these systems can help prevent judges from falling victim to confirmation 
+biases. 
+Conclusion  
+As noted in the RFI, “The Trump Administration recognizes  that with the right government  
+policies, the United States can solidify its position as the leader in AI and secure a brighter 
+future for all Americans.” Advancements in technology have always brought both 
+opportunities and risks, and AI is no exception. It is one of today’s most powerful 
+technologies, with the potential to improve lives and address some of society’s biggest 
+14 Brian Lovins & Lori Lovins, Riverside Pretrial Assistance to California Counties (PACC) Project: Validation of a Pretrial Risk Assessment Tool, 
+(2016), https://www.crj.org/assets/2017/07/6_Riverside_Validation_Final_Report_5-3-16.pdf . Victoria Terranova & Kyle Ward, Colorado Pretrial 
+Assessment Tool Validation Study Final Report, (2020), 
+https://www.nacdl.org/getattachment/18510570-e0eb-4d40-b737-5aafb30c1085/terranovaward_cpat-validation-stud y_final-report.pdf .  
+T       F       innocenceproject.org      40 Worth S treet, Suite 701, New York, NY 10013 
+
+
+Innocence Project, Inc.
+Page 8 
+challenges. At the same time, the misuse of AI has the potential to increase threats to 
+freedom, safety and security, infringe upon civil rights and privacy, erode public trust in the 
+justice system, and weaken economic competitiveness. 
+The Innocence Project appreciates the Administration’ s commitment to consulting  with a 
+broad group of stakeholders as it seeks to advance America’s leadership in the field of AI. 
+We look forward to further engagement and collaboration on this matter to ensure forensic 
+AI tools are reliable, make communities safer, and avoid wrongful convictions.  
+T       F       innocenceproject.org      40 Worth S treet, Suite 701, New York, NY 10013 
+
+

@@ -1,0 +1,590 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-bfgg-sskj
+Com m ents Due: March 15, 2025
+Subm ission Type: Web
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1494
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Sem iconductor Industry Association (SIA)
+General Comment
+Please see the attached com m ents of the Sem iconductor Industry Association (SIA).
+Attachments
+FINAL SIA Com m ents to OSTP AI Action Plan RFI 03_14_25
+
+
+Comments of the  
+Semiconductor Industry Association (SIA)  
+To the National Science Foundation (NSF)  
+On behalf of the White House Office of Science and Technology Policy (OSTP)  
+On the Request for Information (RFI)  
+On the Development of an Artificial Intelligence (AI) Action Plan  
+NSF_FRDOC_0001 / 90 Fed. Reg. 9088  
+March 1 4, 2025  
+The Semiconductor Industry Association (SIA)1 appreciates the opportunity to submit these 
+comments in response to the National Science Foundation, on behalf of the White House Office 
+of Science and Technology Policy (OSTP) on the Request for Information (RFI) on the 
+Development of an Artificial Intel ligence (AI) Action Plan.2  
+SIA applauds President Trump’s vision for U.S. AI leadership  – a vision which will be powered 
+by U.S. semiconductor innovation and leadership. SIA looks forward to partnering with the 
+administration to advance policies that ensure the United States both maintains and builds on its 
+technology strengths.  
+Introduction and Background: Semiconductors Enabl e AI 
+Semiconductor technology comprises the computing backbone that powers  and enables  AI 
+systems. Advanced AI applications —from natural language processing to autonomous 
+systems —rely on high-performance chips called AI accelerators . AI accelerators include 
+processing logic specially tuned to AI training and inferencing workloads (e.g., GPUs , CPUs, 
+ASICs  for AI , etc.), commonly consist ing of advanced node transistors and high bandwidth 
+memory (HBM) to accommodate the rapid movement of increasing data volumes , along with  
+networking and optical connectors, among other critical components . AI accelerators are 
+designed with features that support the calculations required by AI algorithms.3 AI servers 
+comprise AI accelerators alongside a host of mature -node semiconductor components – from 
+power chips and analog to digital converters to input -output controllers.  Together, the entire 
+semiconductor supply chain  enables the  production of AI systems.  
+Building bigger “clusters” —a group of interconnected AI accelerators that can process a singular 
+workload —has underpinned the rapid development of larger AI models. OpenAI used around 
+10,000 AI accelerators to train the version of ChatGPT that it launched in late 2022.4 The largest 
+AI clusters now under construction will use upwards of 100,000 AI accelerators or more, an 
+advancement driven by new networking and memory technologies. These large clusters are 
+unprecedented not only  in their ability to execute large computing workloads, but also in the 
+costs required to operate the data centers clusters  due to high energy demands. Advancements 
+1 The Semiconductor Industry Association (SIA) is the voice of the semiconductor industry, one of America’s top export industri es 
+and a key driver of the country’s economic strength, national security, and global competitiveness. Semiconductors — the tiny c hips 
+that enable modern technologies — power incredible products and services that have transformed our lives and our economy. The 
+semiconductor industry directly employs over a quarter of a million workers in the United States. U.S. semiconductor sales to taled 
+$264 billion in 2023. SIA members account for 99% of all U.S. semiconductor industry sales. Through this coalition, SIA seeks  to 
+strengthen leadership of semiconductor manufacturing, design, and research by working with Congress, the Administration, and key 
+industry stakeholders around the world to encourage policies that fuel innovation, propel business, and drive international 
+competition. Learn more at www.semiconductors.org .  
+2 90 Fed. Reg. 9088, February 6, 2025.  
+3 Saif M. Khan, Center for Security and Emerging Technology, “AI Chips: What They Are and Why They Matter,” April 2020 . 
+https://cset.georgetown.edu/publication/ai -chips -what -they-are-and-why-they-matter/ . 
+4 Asa Fitch, The Wall Street Journal , “AI’s Future and Nvidia’s Fortunes Ride on the Race to Pack More Chips Into One Place,” 
+November 23, 2024 . https://www.wsj.com/tech/ai/nvidia -chips -ai-race-96d21d09 . 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.
+
+
+in more efficient chips  through innovation in chip design and manufacturing processes  and 
+effective use of infrastructure software  help to manage these costs . Together they confer 
+economic advantage to American data centers , American chip firms , and American companies 
+leveraging AI  tools .  
+Companies from sectors across the economy are increasin gly leveraging centralized and edge 
+AI to drive their product innovations , powered by cutting edge chip technologies . Sectors like 
+healthcare, agriculture, defense, communications, manufacturing, transportation, and more 
+increasingly rely on AI -enabled applications  that in turn  depend on semiconductor -based 
+sensors, processors, and connectivity solutions to gather data, run AI algorithms, and deliver 
+real-time insights.  
+Even within the semiconductor  sector, chip  designers and manufacturers are adopting  AI into 
+their own operations to maximize efficiency  and drive innovation  – a virtuous cycle . For 
+example, chip companies use AI tools  to align  timing and deployment of manufacturing tools in 
+the more than 1,000 steps of chip fabrication , or use machine learning to design , verify, and test 
+semiconductor devices  to enhance performance or migrate to a new technology node . These 
+innovations have improved worker safety and productivity, reduced fail rates and resolved 
+quality control issues, and help to bring new chip products and manufacturing processes  to 
+market more efficiently . 
+Maintaining American leadership in AI will require a robust and diverse semiconductor 
+ecosystem that supports cutting -edge chip research, design, and manufacturing  – to include  
+production equipment and materials – and government policies that facilitate continued growth 
+of this ecosystem . Sustained  investments in semiconductor R&D and supply chain resilience  
+are necessary to  ensure AI innovators in the U.S. maintain continued  access to the most 
+advanced chips, giving companies and the United States  a competitive edge in the global AI 
+sector . As AI continues to transform economic sectors, strengthening semiconductor capabilities 
+is critical to unlocking the full potential of AI technologies and extend ing America’s global 
+technology leadership.  
+SIA Recommendations for AI Action Plan  
+America’s AI Action Plan should include strategies to ensure the U.S. leads the world in 
+designing and manufacturing the semiconductor  technologies  that fuel AI. To advance U.S. 
+semiconductor leadership,  the AI Action Plan should provide  for coordinated and 
+complementary efforts to promote industry innovation  and industry competitiveness globally  
+while protecting economic and national security. We encourage the U.S. government to 
+leverage a varied  and robust  toolbox to incentivize American  chip research, design, and 
+manufacturing, such as through extended and expanded investment tax credits,5 as well as by 
+advancing trade an d other economic policies that will create new demand for American chip 
+technologies both domestically and globally . 
+We also encourage the U.S. government to closely collaborate with partner and allied nations to 
+facilitate R&D and workforce exchanges as well as access to essential technologies and 
+manufacturing inputs.  
+5 IRC Section 48D , the Advanced Manufacturing Investment Credit (AMIC), is set to expire in 2026. This credit should be extended 
+to provide a durable incentive to manufacturing chips in America, as well as expanded to include chip R&D and design to ensur e 
+that the next generation of technology is innovated  and commercialized  in the U nited States.  
+
+
+SIA and our member companies understand and agree that export controls are important and 
+necessary tools for safeguarding national security. At the same time, American national security 
+and s ustained AI and chip  leadership also rest on  the continued competitive ness and adoption 
+of the U.S. technology stack globally . Measures that limit the diffusion of American 
+semiconductor and AI technologies should be carefully crafted  with transparent licensing 
+processes  – in consultation with the industr y leaders who know the technologies and market 
+realities best – to ensure they are as minimally disruptive as possible and do not  inadvertently  
+accelerate the development of alternatives to these U.S. technologies , or signal to global 
+customers that U.S. companies are no  longer  reliable, long -term partners.  
+We note, however, that semiconductor hardware has become the primary – if not singular – 
+target of recent export control efforts aimed at restricting AI, as well as proposals and 
+recommendations by other industry players6 and the think tank community.7 However, we note 
+that there are other means through which entities can leverage AI compute power without 
+having physical access to controlled semiconductor hardware, and which fall outside 
+semiconductor companies’ ability to control.  
+Appendix A, SIA’s policy agenda, “Winning the Chip Race: American Semiconductor Innovation 
+& Competitiveness under the Trump Administration & the 119th Congress,”8 sets forth policy 
+recommendations on: Semiconductor Manufacturing Incentives and R&D Investments; Tax; 
+Research; Workforce and Immigration; Economic Security – Trade & Supply Chain Resilience; 
+National Security – Export Controls & Technology Restrictions; and Environmental & Energy 
+Regulation . 
+Appendix B provides additional recommendations on topics outside of those mentioned in 
+Appendix A.  
++ + +
+SIA appreciates the opportunity to comment on this RFI, and we look forward to continuing to 
+work with the Trump administration on the development and implementation of the AI Action 
+Plan.  
+6 Anthropic,  “Anthropic Response to OSTP RFI,” March 6, 2025. 
+https://assets.anthropic.com/m/4e20a4ab6512e217/original/Anthropic -Response -to-OSTP -RFI-March -2025 -Final -Submission -
+v3.pdf .  
+7 Special Competitive Studies Project, “Securing America’s Technological Advantage in Next -Generation Microelectronics,” March 5, 
+2025. https://www.scsp.ai/wp -content/uploads/2025/03/Semiconductors -Memo.pdf .  
+8 SIA, “Winning the Chip Race,” January 2025. https://www.semiconductors.org/winning -the-chip-race/ . 
+
+
+SEMICONDUCTORS.ORG
+SIA POLICY RECOMMENDATIONS
+The strategy for advancing U.S. semiconductor leadership must consist 
+of coordinated, complementary efforts to promote industry innovation 
+and competitiveness while protecting economic and national security .
+SIA stands ready to work with policymakers to adopt and implement 
+a robust policy agenda to advance U.S. semiconductor leadership. 
+SEMICONDUCTOR 
+MANUFACTURING INCENTIVES 
+& R&D INVESTMENTS
+Advance incentives for U.S. chipmaking 
+and investments in American innovation
+TAX
+Ensure the U.S. remains a competitive tax destination to invest in semiconductor research, design, and manufacturing
+RESEARCH
+Support existing R&D initiatives and grow federal investment in semiconductor research and basic research across the physical sciences to enable U.S. technology leadership and win technologies of the future
+WORKFORCE & 
+IMMIGRATION
+Grow the talent pipeline  
+by developing, attracting, and  
+retaining a high-skilled workforce ECONOMIC SECURITY – TRADE 
+& SUPPLY CHAIN RESILIENCE
+Restore U.S. trade leadership, build strong and complementary global chip supply chains, and facilitate access to new and growing markets
+NATIONAL SECURITY —  
+EXPORT CONTROLS & TECHNOLOGY RESTRICTIONS
+Ensure policies are carefully calibrated and 
+targeted, effective, and do not undermine the interests they are designed to protect 
+CHINA 
+Out-compete, out-innovate, and out-flank to win the future for U.S. semiconductors
+ENVIRONMENTAL &  
+ENERGY REGULATION  
+Streamline regulatory and permitting 
+requirements to promote innovation and industry growth, protect workers and the environment, and support American energy strength domestically and around the world
+About SIA: The Semiconductor Industry Association (SIA) is the voice of the semiconductor industry, one of America’s top export industries and a key driver of the 
+country’s economic strength, national security, and global competitiveness. Semiconductors — the tiny chips that enable modern technologies — power incredible products and services that have transformed our lives and our economy. The semiconductor industry directly employs over a quarter of a million workers in the United States. U.S. semiconductor sales totaled $264 billion in 2023. SIA members account for 99% of all U.S. semiconductor industry sales. Through this coalition, SIA seeks to strengthen leadership of semiconductor manufacturing, design, and research by working with Congress, the Administration, and key industry stakeholders around the world to encourage policies that fuel innovation, propel business, and drive international competition. Learn more at www.semiconductors.org. 
+APPENDIX A - WINNING THE CHIP RACE: 
+American Semiconductor Innovation and Competitiveness under 
+the Trump Administration & the 119th Congress
+
+
+SEMICONDUCTORS.ORG
+SEMICONDUCTOR MANUFACTURING 
+INCENTIVES AND R&D INVESTMENTS
+Advance incentives for U.S. chipmaking and investments in American innovation
+Importance
+Originally conceived and authorized during the first Trump 
+Administration to address critical national security risks and supply chain vulnerabilities facing the U.S., the CHIPS Act continues to address pressing economic and national security priorities. The law rests on two pillars: 1) incentives for manufacturing in the form of a 25% investment tax credit and $39 billion in grants; and 2) investments in chip innovation through $13 billion for research programs and infrastructure.
+These incentives and investments promise powerful results 
+for America:
+•Manufacturing incentives have sparked $540 billion
+in announced private sector investments  to revitalize the
+U.S. chip ecosystem, setting in motion a tripling of U.S.
+chipmaking capacity while creating over 68,000manufacturing jobs and 122,000 construction jobs, which 
+will support hundreds of thousands of additional jobs 
+throughout the economy. 
+•R&D investments are building the framework to maintain
+and extend U.S. technology leadership, strengthening linksbetween researchers and manufacturers to accelerate thetransition of new innovations into commercial or defenseproducts with benefits that will multiply throughout theeconomy and enhance our national security.
+•Workforce development initiatives in partnerships
+between companies, community colleges, and
+universities are training future semiconductor
+technicians, chip designers, and engineers.
+Challenges
+While substantial progress has been made in implementing semiconductor manufacturing incentives and research investments since initial authorization of the CHIPS Act, substantial work remains to realize the important economic and national security objectives of the law. In the meantime, global competitors continue to invest in their semiconductor ecosystems and advance their technological capabilities. Recommendations
+•Ensure continuity and effective implementation of thegrant program, including the efficient disbursement of fundsconsistent with final awards and expediting negotiations
+with companies who have reached preliminary agreementsbut lack a final contract.
+•Expedite award agreements and improve efficiency bystreamlining and limiting requirements unrelated to U.S.economic and national security.
+•Continue rollout of the R&D programs and ensure
+these initiatives drive the next generation of technology
+consistent with industry priorities.
+
+
+SEMICONDUCTORS.ORG
+TAX 
+Ensure the U.S. remains a competitive tax destination to invest in 
+semiconductor research, design, and manufacturing
+Importance
+Chip leadership is critical to ensuring U.S. economic and national security, and it produces a multiplier effect in driving innovation 
+and growth throughout the economy, including technologies of the future such as AI. A globally competitive tax code is key to ensuring the U.S. remains the leader of the chip industry and remains an attractive destination for companies to invest and innovate. For the U.S. semiconductor industry, this requires targeted tax policies to spur investment in the core activities of chip research, design, and manufacturing.
+Driving technological change in the industry requires companies to develop more complex designs and process technologies, as well 
+as introduce advanced production machinery capable of manufacturing cutting-edge chips. The ability to innovate and produce state-of-the-art semiconductors requires U.S. chip companies to invest billions of dollars in R&D annually — on average 20% of revenue — to maintain technology and market leadership, with an additional 20% of revenue on average re-invested in capital expenditures.
+1 
+Challenges
+1.Chip Design and Other Critical Research & Development. The U.S.
+continues to trail the incentives offered by global competitors for innovationin chip design and R&D investments. And the U.S. is falling even furtherbehind due to the requirement to amortize domestic research expendituresover 5 years, rather than deducting these expenditures immediately as is thecase in almost all other advanced economies. Despite the essential nature ofchip design, only 27% of global semiconductor design activity is conductedin the United States.
+2 Meanwhile, global competitors increasingly offer strong
+incentives for companies to make R&D and chip investments on their shores,including China’s 220% “super deduction” for semiconductor R&D.
+3 In fact,
+the U.S. is the only major semiconductor region without a targeted,enhanced tax incentive for semiconductor design or R&D, placing us lastamong major semiconductor regions in overall R&D tax incentives.
+While competitors overseas continue to incentivize domestic chip research and design, innovation costs are rising with each
+new generation of technology. Foreign competition, particularly from Chinese design firms seeking to displace U.S companies,underscores the importance of ensuring the U.S. remains a competitive destination for companies to invest in chip design and R&D.
+2. Manufacturing.  Governments around
+the world have heavily investedin the development of their ownsemiconductor manufacturingindustries, resulting in an unlevelplaying field for investment in the U.S.Before the U.S. took steps to incentivizedomestic chip manufacturing, heavyoverseas subsidies created a significantcost disparity in which it cost 25-50% more to build and operate afab in U.S. than abroad.
+4 As a result,
+the U.S. share of global fabricationcapacity declined from 37% in 1990 to10% in 2022.
+5 Incentives, such as the
+advanced manufacturing investmentcredit (IRC §48D) have helped start to
+reverse the decades-long decline in U.S.semiconductor manufacturing capacity,with the U.S. projected to triple itsmanufacturing capacity between 2022and 2032. However, this credit is set to expire in 2026, thereby threatening the
+ability to make sustained, long-term investments in America’s chipmaking capacity.
+1 SIA, “2024 Factbook,” May 2024. https://www.semiconductors.org/wp-content/uploads/2024/05/SIA-2024-Factbook.pdf  
+2 BIS, “Assessment of the Status of the Microelectronics Industrial Base in the United States,” December 2023. https://www.bis.doc.gov/index.php/documents/technology-
+evaluation/3402-section-9904-report-final-20231221/file 
+3 PWC, “People’s Republic of China, Corporate – Deductions,” June 2024. https://taxsummaries.pwc.com/peoples-republic-of-china/corporate/deductions 
+
+
+SEMICONDUCTORS.ORG
+3. Onshore Intellectual Property (IP).  Encouraged by the deduction for Foreign-Derived Intangible Income (FDII), which was
+established by the Tax Cuts and Jobs Act (TCJA) of 2017, many companies repatriated significant IP from abroad. The FDII provision
+significantly expanded the U.S. tax base, contributing to the rise in corporate taxes post-TCJA, and encourages companies to developand maintain their valuable IP in the U.S. The current rate for this important provision is set to expire at the end of 2025.
+Recommendations
+Adopt policies to make the U.S. a competitive destination for semiconductor companies to invest and innovate:
+1. The highly impactful advanced manufacturing investment credit (IRC §48D) should be extended  beyond 2026 to
+incentivize the continued buildout of long-term domestic manufacturing capacity6 and expanded to include chip design and
+other R&D by passing the Semiconductor Technology Advancement and Research (STAR) Act.7 Passing this legislation would
+help to level the playing field between the U.S. and global competitors and ensure the U.S. continues to grow its
+manufacturing capacity and retains its first-mover advantage in chip design and R&D. In addition, the definition of
+“semiconductor” should be modified to  encompass all stages of semiconductor production, such as the production of
+semiconductor-grade polysilicon.
+2.  Restore the full and immediate expensing of all R&D expe nditures under IRC Section 1 74 on a permanent basis to
+support sustained innovation.
+3. Maintain the current Foreign-Derived Intangible Income deduction  to protect the U.S. tax base and encourage
+companies to develop and mature their intellectual property in the U.S. rather than abroad.
+4 SIA/BCG, “Government Incentives and U.S. Competitiveness in Semiconductor Manufacturing,” September 2020. https://www.semiconductors.org/wp-content/
+uploads/2020/09/Government-Incentives-and-US-Competitiveness-in-Semiconductor-Manufacturing-Sep-2020.pdf 
+5 SIA/BCG, “Emerging Resilience in the Semiconductor Supply Chain,” May 2024. https://www.semiconductors.org/emerging-resilience-in-the-semiconductor-supply-
+chain/  
+6 The credit has proven to drive private investment and provide significant economic, national security, and supply chain benefits, and the Joint Committee on Taxation 
+estimates the cost of a 10-year extension to be only $8.445 billion.  
+Congressional Budget Office, “Budgetary Outcomes Under Alternative Assumptions About Spending and Revenues,” May 2024, citing Joint Committee on Taxation 
+estimates. https://www.cbo.gov/system/files/2024-05/60114-Budgetary-Outcomes.pdf.
+7H.R. 9183 in the 118th Congress. https://www.congress.gov/bill/118th-congress/house-bill/9183 
+
+
+SEMICONDUCTORS.ORG
+RESEARCH & DEVELOPMENT: 
+Support existing R&D initiatives and grow federal investment in semiconductor research 
+and basic research across the physical sciences to enable U.S. technology leadership and win technologies of the future
+Importance
+Given the critical enabling role of semiconductors in advancing innovations in technologies of the future — such as AI, quantum 
+computing, energy, and 5G/6G — continued U.S. investment in semiconductor R&D is essential for the U.S. to lead the world in 
+these technologies. Federally funded basic and applied research conducted at national labs and universities drives the next 
+generation of t echnology, fueling economic growth and national security. Existing and new research programs established under 
+the CHIPS and S cience Act are supporting a new framework and infrastructure for continued U.S. leadership in semiconductor 
+technology by bridging the gap from “lab to fab,” driving innovation in advanced packaging, and jumpstarting initiatives in 
+metrology and digital twins.1 
+These investments and other federal investments in semiconductor R&D provide an outsized return on investment through 
+huge benefits across the entire economy: we estimate that every $1 invested by the federal government into semiconductor 
+research has increased overall U.S. gross domestic product (GDP) by $16.50.2 
+Challenges
+While the CHIPS and Science Act made historic inv estments 
+in semiconductor research, these investments need to be 
+sustained. In addition, federal investment s in basic research 
+across the physical sciences have failed to keep pace with the 
+rising costs of developing new technolog y. Meanwhile, global 
+competitors are investing hea vily to challenge U.S. scientific 
+leadership. Congress authorized significant investments in the 
+federal R&D enterprise at the National Science Foundation, 
+the National Institute for Standards and Technology, and the 
+Department of Energy Office of Science, but appropriations for 
+these agencies have remained fixed near FY23 levels and are 
+more than $10 billion behind the levels authorized.
+Recommendations
+•Fund federal research at authorized levels to ensure
+the U.S. remains the global leader in innovation, enabling
+researchers to make discoveries today that will transform
+semiconductor technology in the next decade while
+building the pipeline of scientists and engineers needed to
+maintain technology leadership.
+•Ensure continued progress in the execution of the
+CHIPS R&D programs, expediting implementation where
+possible, establishing affiliated technical centers of the
+National Semiconductor Technology Center (NSTC)3
+to focus on R&D in specific technology domains (e.g.,
+memory or analog-mixed signal), and prioritizing support
+for industry research roadmaps, as well as to promote
+transfer to the defense industrial base.
+•Promote the long-term success of semiconductor
+R&D programs by authorizing future funding beyond
+2026, collaborating on research with allies and partners,
+and scaling federal R&D and public-private partnerships
+dedicated to AI and quantum computing.
+1 Research programs under the CHIPS Act include the National Semiconductor Technology Center (NSTC), the National Advanced Packaging Manufacturing Program 
+(NAPMP), the CHIPS Metrology Program, the SMART USA Manufacturing USA Institute, and the Department of Defense Microelectronics Commons.
+2 SIA, “Sparking Innovation: How Federal Investment in Semiconductor R&D Spurs U.S. Economic Growth and Job Creation,” June 2020. https://
+www.semiconductors.org/sparking-innovation/ 
+3 The NSTC, which is a public-private partnership operated by the National Center for the Advancement of Semiconductor Technology, intends to extend U.S. leadership 
+in semiconductor technology, reduce the time and cost to prototype ideas, and advance semiconductor workforce development.
+
+
+SEMICONDUCTORS.ORG
+WORKFORCE & IMMIGRATION:
+Grow the talent pipeline by developing, attracting, and retaining a high-skilled workforce
+Importance
+To drive semiconductor innovation and U.S. economic competitiveness, America needs to adopt and update policies to educate, attract, 
+and retain the top engineering, scientific, and technical talent in the world and train a skilled workforce for the U.S. semiconductor industry and other strategic technology sectors. From manufacturing technicians with a short-term certificate to chip design engineers with advanced degrees, a growing semiconductor talent pipeline provides career opportunities for all Americans.
+Challenges
+The competitive position of the U.S. semic onduct or 
+industry, as well as other critical and emerging 
+technology industries of strategic importance,  
+depends on an American workforce that is the best 
+educated and trained in the world. Unfortunately, 
+the industry’s need for a skilled workforce 
+greatly exceeds the available talent developed 
+through our U.S. education system and existing 
+training pr ograms. At current rates, the U .S. will 
+not keep up with demand for skilled workers in 
+the semiconductor industry —  including for the 
+construction of new fabs — and among all critical 
+technology sectors.1 
+Addressing this shortfall requires a comprehensiv e 
+approach. More must be done to encourage U.S. 
+students to: 1) pursue education and training 
+in critical areas f or the industry; 2) engage in 
+semiconductor-related research and pursue  
+advanced degrees in larger numbers; and 3) choose 
+the semiconductor industry over other competing 
+technology fields. The U.S must also improve acc ess 
+to international students at U.S. univer sities, where 
+foreign nationals currently comprise approximately 
+60% o f advanced degree STEM graduates in key 
+areas for the industry. Unfortunat ely, current U.S. 
+immigration policies create obstacles for these highly 
+educated foreign students to stay in this country 
+over the long term, where they could contribute to  
+economic growth and discoveries that support U.S. 
+competitiveness and technology leadership.
+Recommendations
+•Increase and sustain funding for federal R&D programs at NSF ,
+NIST, DOE, and DOD to train and build the pipeline of scientistsand engineers needed to drive innovation in the semiconductorindustry and other strategic technologies. Programs shouldbe targeted at encouraging U.S. students to pursue advanceddegrees and engage in research in areas of critical need.
+•Expand skills training initiatives, including increased fundingfor apprenticeship programs and university chip designprograms, reauthorization of the Workforce Innovation andOpportunity Act (WIOA) and Perkins Career and TechnicalEducation Act (CTE), and continuation of workforcedevelopment efforts within the CHIPS R&D program
+and Department of Labor.•Support opportunities for underrepresented sources oftalent, including veterans and military spouses, workersseeking new career paths, rural students, traditionallyunderrepresented students, and other economicallydisadvantaged individuals.
+•Improve affordability, such as by increasing the availabilityof federal funding for scholarships, fellowships, and otherprograms that encourage enrollment in critical areas of study,as well as expanding Pell grants to include short-term training.
+•Advance targeted immigration policies that reduce theemployment-based green card backlog and improve theindustry’s ability to attract and retain foreign nationalworkers with critical skills, particularly at the advanceddegree level.
+1 SIA/Oxford Economics, “Chipping Away: Assessing and Addressing the Labor Market Gap Facing the U.S. Semiconductor Industry,” July 2023. 
+https://www.semiconductors.org/chipping-away-assessing-and-addressing-the-labor-market-gap-facing-the-u-s-semiconductor-industry/  
+
+
+SEMICONDUCTORS.ORG
+ECONOMIC SECURITY:  
+TRADE & SUPPLY CHAIN RESILIENCE
+Restore U.S. trade leadership, build strong and complementary global chip supply 
+chains, and facilitate access to new and growing markets
+Importance
+Supply-side investments in the United States are helping to 
+reverse a decades-long downward trajectory in the share of semiconductor manufacturing capacity in the U.S. To justify long-term, capital-intensive investments in U.S. semiconductor production, chipmakers need confidence that their products will have access to global markets. Roughly 75% of U.S. semiconductor industry revenue comes from overseas sales, which are essential to ensuring the U.S.-based semiconductor industry remains the global leader, as well as a core driver of innovation and growth for the U.S. economy. But while the U.S. sits on the sidelines, competitor nations have continued to negotiate preferential trade deals and forge supply chain networks that put U.S. industry at a competitive disadvantage.  
+Challenges
+To complement efforts to run faster here at home and ensure our companies remain globally competitive, the U.S. must pursue a proactive, market-opening trade and investment agenda that creates new demand for Made-in-America chips overseas and facilitates U.S. semiconductor sales in new and emerging markets. The U.S. government must also stand up for American companies when they face unfair treatment in overseas markets. Semiconductors have long been a top U.S. export. American semiconductor exports, however, fell by nearly 16% from 2022 to 2023. And despite U.S.-government led efforts to strengthen economic ties in the Indo-Pacific, Asia’s (excluding China) share of overall U.S. semiconductor revenue is actually declining, dropping from 35% in 2021 to 32% in 2023. By contrast, China has active free trade agreements with 26 countries and territories and is negotiating an additional eight agreements aimed at bolstering its domestic industry and capturing a greater share of global semiconductor demand. Recommendations
+•Promote investment in U.S.-based chip research, design,and manufacturing: Healthy trade and supply chain resiliencerequire a foundation of sustained domestic investments insemiconductor innovation and competitiveness.
+•Pursue smart trade and supply chain deals that createdemand for Made-in-America chips and downstreamproducts: Negotiate reciprocal trade and other economicdeals with partners and allies that facilitate increasedsales of U.S. semiconductors globally, create preferentialmarkets for our chips and downstream electronics products,encourage investments by international semiconductorfirms here in America, and incentivize the creation oftrusted supply chains. Build on existing bilateral andplurilateral trade platforms with a view to strengthen trustedsemiconductor supply chains and reduce America’s and itsallies’ dependence on less reliable trade partners.
+•Stand up for U.S. companies and restore reciprocity:
+Leverage a comprehensive and varied toolbox to aggressivelycombat discriminatory barriers and non-market policiesand practices in other countries that unfairly tilt the playingfield, undercut U.S. competitiveness, and create strategicdependencies and overconcentration. Work with trustedpartners and allies to impose coordinated, multi-countryresponses that maximize impact and minimize potential
+free-riding and backfilling.
+•Build resilient and diverse semiconductor supply chains:
+Work with supply chain partners and likeminded governmentsto build global supply chain capabilities that complementand support semiconductor industry operations in the U.S.,including diverse and secure sourcing alternatives both forupstream semiconductor materials, like critical mineralsand specialized chemicals, and for downstream markets,like automotive, industrial, and electronics. Ensure U.S.-headquartered companies enjoy nondiscriminatory access tosemiconductor incentive programs offered by governments inforeign markets and align U.S. incentive programs to attractinvestment from allies and partners.
+•Advance policies that help chip companies operate moreefficiently: Promote trade facilitation policies globally thatenable the smooth functioning of semiconductor supply chains,such as dismantling customs barriers, improving transparency,expediting customs clearance procedures, and ensuring the freemovement of semiconductor data across borders.
+
+
+SEMICONDUCTORS.ORG
+NATIONAL SECURITY:  
+EXPORT CONTROLS & TECH RESTRICTIONS
+Ensure policies are carefully calibrated and targeted, effective, and do not undermine 
+the interests they are designed to protect 
+Importance
+Continued U.S. leadership in semiconductor technology and 
+innovation across the supply chain — logic, memory, analog, advanced packaging, equipment, and materials — is critical to America’s national security and economic strength. American military systems are the most advanced and capable in the world. This would not be possible without American semiconductor technology. Chips underpin critical infrastructure systems, the U.S. industrial base, and “must-win” technologies of the future, including AI, 5G, and quantum computing. 
+But the fact remains, the health and vitality of the U.S. 
+semiconductor industry is dependent on our companies’ ability to fulfill overseas demand. Roughly 75% of U.S. chip industry revenue comes from sales to overseas customers. Export controls, outbound investment restrictions, and other policies are necessary tools for safeguarding national security. However, poorly calibrated and excessive regulations, developed without sufficient industry expertise, risk ceding strategic markets and weakening American semiconductor competitiveness globally.  Challenges
+The U.S. semiconductor industry understands the need for targeted policies designed to achieve specific national security objectives. But this must be done without unduly harming commercial innovation, manufacturing, employment, and continued American leadership in critical technologies. The U.S. government has issued multiple, consequential – and often unilateral – semiconductor-focused restrictions intended to protect U.S. national security and economic security under a “small yard, high fence” doctrine. In the past few years, however, the “small yard” of strategic technologies has grown substantially bigger. These regulations are reshaping semiconductor supply chains and the global competitive landscape for chips and downstream chips-consuming firms alike, causing too many customers around the globe to shift reliance to non-U.S. chips suppliers, and prompting retaliatory actions designed to degrade U.S. semiconductor competitiveness. These policies require review and  
+re-evaluation to assess whether they are achieving their intended objectives or whether they are hindering the  
+U.S. technology base and our technology leadership.
+Recommendations
+•Pursue coordinated, targeted actions with key suppliernations: Export controls and other technology restrictionsshould be narrowly targeted to meet specific national securityobjectives and pursued in alignment with other key suppliernations. The joint pursuit of such technology restrictions notonly ensures that the national security objectives of thoseactions are actually met, but also that the U.S. semiconductorindustry can compete on a level playing field around the world.
+It is equally important to pursue policies that increase themarket base and boost demand for U.S. chips both domesticallyand in foreign markets.
+•Evaluate impact: The government should undertake acomprehensive evaluation of past semiconductor-focusedtechnology restrictions to determine whether they have
+achieved their specific national security and foreign policyobjectives, understand the collateral impact on the U.S. national security innovation base — including the degree to which
+U.S. semiconductor technologies are “designed out” globally and replaced by foreign alternatives — and assess whether
+other policy tools may be more effective.
+•Reduce regulatory burdens: Reform regulations and processes to ease restrictions on export-controlled trade to trustedpartners and allies to foster cooperative technological innovation, support security/defense partnerships, facilitate investmentsin each other’s markets, and expand the market base for Made-in-America chips. Avoid creating incentives for the developmentof new technologies outside the U.S., including by modernizing outdated controls. The Commerce Department should,
+where possible, allow for delayed implementation of regulations to give the private sector time to adjust
+and build the necessary compliance capabilities.
+•Consult industry: Government should work closely with industry to ensure controls are crafted in a manner that enhances ournational security while still enabling the U.S. semiconductor industry to compete, grow, and innovate. The Commerce Departmentshould establish the long-delayed President’s Export Council Subcommittee on Export Administration (PECSEA), updatemembership on technical advisory committees, and put in place other channels for regular engagement with industry leaders.
+
+
+SEMICONDUCTORS.ORG
+CHINA
+Out-compete, out-innovate, and out-flank to win the future for U.S. semiconductors
+Importance
+China is a major player in the global semiconductor industry, 
+both as the world’s largest market for semiconductors and as a serious and growing producer and competitor. As the world’s largest electronics manufacturing hub, China consumed 31% of U.S. chip sales in 2023. As a producer, China commands roughly 20% of front-end and nearly 40% of back-end semiconductor manufacturing capacity. For mature-node semiconductors (> 28nm), roughly 37% of wafer-manufacturing 
+capacity is projected to be concentrated in China by 2027. In May 2024, China launched Phase 3 of its National Integrated Circuit Fund, funneling $47.5 billion in government subsidies to China’s domestic semiconductor ecosystem in an effort to achieve self-sufficiency. 
+Challenges
+As outlined in its 14th Five-Year Plan and its “Made in China 2025” strategy, Beijing is working to develop an “independent and controllable” semiconductor industry in China through both supply-side and demand-side measures. China pursues a wide array of industrial policies and non-market practices designed to displace U.S. and foreign-made chips in its domestic market, and ultimately globally. The U.S. must meet the so-called “China Challenge” with strength – by pursuing smart “promote” policies with partners and allied countries that help us pedal faster on the global stage. Recommendations
+•Build and expand America’s Semiconductor Strength:
+Double down on investments in U.S. semiconductor R&D,advanced manufacturing, and workforce development tostrengthen our domestic base and ensure American companiesremain at the forefront of innovation and market position.Invest in supply chain capabilities in the U.S. and in partnercountries that support and complement U.S. semiconductorindustry operations, including for upstream materialsproduction and back-end assembly, test, and packaging.
+•Counter Unfair, Non-Market Practices: Utilize a variedtoolbox to counter practices that distort markets, drivestrategic overdependencies, undermine fair competition,
+and discriminate against U.S. semiconductor companies
+and their products, based on the principle of reciprocity.
+•Lead Allies and Partners in Common Cause: Work closelywith partners to advance shared objectives and strategicinterests, and counter unfair, non-market, and coercivepractices through coordinated, joint policy actions.
+
+
+SEMICONDUCTORS.ORG
+ENVIRONMENTAL & ENERGY REGULATION
+Streamline regulatory and permitting requirements to promote innovation and industry 
+growth, protect workers and the environment, and support American energy strength domestically and around the world
+Importance
+Semiconductor fabrication operations and continued innov ation  
+require dependable on access to key inputs such as specializ ed 
+chemicals and gases and reliable and cost-eff icient sources of clean 
+energ y. Accordingly, efficien t regulatory and permitting processes 
+are critical to the industry’s ability to maintain and exp and domestic 
+operations, maximize American manufacturing competitivenes s, 
+and continue innovating while enhancing protection of the 
+environment and workers. Semiconductors enable technologies 
+critical to advancing energy efficienc y, emissions r eductions, and 
+environmental sustainability throughout the econom y. Ensuring  
+growth in the semiconductor industry itself advances our national 
+energy goals and maintains America’s competitive strength.1
+Challenges
+Specialized chemicals, gases, and materials us ed in 
+semiconduct or fabrication possess specific functional attributes 
+needed to manufacture at the molecular scale. Use of c ertain 
+materials may pose concerns and lack substitute s that currently 
+meet the industry’s exacting performance requirements. 
+Semiconductor companies and their suppliers are const antly 
+searching for alternatives, but the inven tion, qualification, and 
+integration of a new substance int o high-volume manufacturing 
+can take years or decades, and in some c ases may not be possible. 
+Accordingly, future policies should ensure the semic onductor 
+supply chain has a sufficient runway to allow for an orderly 
+transition to alternative substanc es. 
+While the industry employs extensive controls to manage 
+these chemicals, to reduce environmental releases,2 and to 
+minimize human exposures, the industry needs an eff ective 
+regulatory system to remain innovative and c ompetitive and 
+to continue to achieve high standards of work er safety and 
+environmental protection. Ensuring continued use of existing 
+chemicals and driving timely approvals of new chemicals 
+are necessary to sustain business operations and continued 
+innovation, and to preserv e American leader ship in this 
+critical secto r. Without access to critical subst ances that are 
+otherwise readily available abroad, the U.S. will no t be able to 
+compete with foreign jurisdictions. 
+Permitting and o ther regulatory challenges have creat ed 
+obstacles to accessing sources of carbon-free energy for current 
+and future U.S. fabs, especially when energy demand is expect ed 
+to soar as companies must move with agility and speed t o 
+maintain America’s lead the AI race. Given the importance of 
+semiconductor manufacturing, it is critical the industry has  
+acce ss to abundant, affordable , and carbon-free energ y.Recommendations
+•Reform the Toxics Substances Control Act (TSCA)
+to advance environmental protections while ensuring
+the efficient, streamlined review and approval of newsubstances necessary for innovation in domesticsemiconductor manufacturing. Congress should providesufficient appropriations for the EPA New ChemicalsProgram to implement this goal.
+•Augment industry and university research to findsuitable alternatives to chemicals of concern, identifyeffective abatement techniques, and develop methodsto detect and treat substances like PFAS or greenhousegases necessary for semiconductor production.
+•Where restrictions on chemicals or gases are necessaryand appropriate, regulations should protect the industry’s
+ability to manufacture and innovate by providing critical-use exemptions for essential materials and allow sufficienttime for research on alternatives, adoption of mitigationtechnologies, and orderly substitution.
+•Streamline permitting requirements to site newtransmission infrastructure, upgrade existing infrastructure,and ensure access to cost-competitive, reliable clean energyto make American manufacturing as competitive as possible.
+1     Innovatio n and growth of the semiconductor industry enables substantial GHG 
+emissions reductions in other sectors and throughout the economy; indeed, 
+for every unit of emissions generated by the semiconductor industry, it has helped avoid 5 times more emissions for end-customers. Goldman Sachs Asset Management, “Green Capex Capturing the Opportunities,” 2022. gsam.com/content/gsam/us/en/institutions/market-insights/gsamconnect/2022/Green_Capex_Capturing_the_Opportunities.html
+2   For example, the industry has taken measures to minimize emissions of greenhouse 
+gases semiconductor manufacturing in the United States. The semiconductor industry represents about 0.068% of all greenhouse gas (GHG) emissions and about 0.29% of industrial sector emissions in the U.S. The industry’s GHG emissions have been virtually flat since 2005, despite increasing output and process complexity. EPA, “Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2022.”  
+Similarly, data available in the EPA Toxics Release Inventory (TRI) show the semiconductor manufacturing sector represents only 0.17% of all releases for relevant substances. EPA Toxics Release Inventory (TRI) Program, 2023. https://www.epa.gov/toxics-release-inventory-tri-program. The semiconductor industry has also been a leader in phasing out and reducing use of chemicals of concern in response to evolving science on chemical risks, eliminating substances such as TCE, EGEs, and TCA, which are the chemicals cited as chemicals of concern in industry health studies from the 1980s and 1990s.
+
+
+Appendix B – Additional AI Policy Recommendations 
+•A Strong and Talented STEM Workforce Pipeline
+A talented workforce is necessary for strong semiconductor and AI industries, as well as for 
+other critical sectors throughout the economy that rely on STEM talent , such as energy, medical 
+technology, the Internet of Things, cybersecurity, next -generation communications, aerospace 
+and defense, infrastructure and transportation, and advanced manufacturing, among others . For 
+the economy as a whole, by the end of 2030, SIA and Oxford Economics project that an 
+estimated 3.85 million additional jobs requiring proficiency in technical fields will be created in 
+the U.S. Of those, 1.4 million jobs risk going unfilled unless we c an expand the pipeline for such 
+workers in fields such as  skilled technicians, engineering, and computer science.9 Skilled 
+semiconductor and AI  researchers, scientists, and engineers  are key enablers of innovation 
+within the private sector  and the U.S. government, including at DOE National Laboratories.  To 
+address this shortfall, the AI Action Plan should incorporate key strategies :10 
+1.Strengthen support for regional partnerships and programs aimed at growing the
+pipeline for skilled technicians for semiconductor manufacturing and other advanced
+manufacturing sectors.
+2.Grow the domestic STEM pipeline for engineers and computer scientists vital to the
+semiconductor industry and other sectors that are critical to the future economy .
+3.Retain and attract more international advanced degree students within the U.S.
+economy.
+•Growing America’s AI Infrastructure and AI Supply Chain Resilience
+The Trump  Administration should build on the progress made by the first Trump Administration11 
+and continue advancing America’s AI buildout, including for data centers and AI server 
+manufacturing. The Action Plan should also include support for design and manufacturing of 
+hardware necessary for AI, such as semiconductors, and other supporting components.12  
+SIA encourages the AI Action Plan to include demand  drivers for U.S. -made semiconductors, 
+such as  increased federal spending on AI infrastructure  and domestic procurement
+preferences  for U.S. -made chips, from logic and memory to analog and mixed signal, and for all 
+generations, from leading -edge  to current -generation and mature -node , in a manner that 
+accounts for the current landscape and existing capacity  in the semiconductor supply chain .13 
+9 SIA/Oxford Economics, “Chipping Away: Assessing and Addressing the Labor Market Gap Facing the U.S. Semiconductor 
+Industry,”  July 2023. https://www.semiconductors.org/chipping -away -assessing -and-addressing -the-labor -market -gap-facing -the-u-s-
+semiconductor -industry/   
+10 Additional concrete recommendations are provided in SIA’s Workforce Policy Blueprint . 
+https://www.semiconductors.org/workforceblueprint/   
+11 Trump White House, “Accelerating America’s Leadership in Artificial Intelligence,” Feb. 2019. 
+https://trumpwhitehouse.archives.gov/articles/accelerating -americas -leadership -in-artificial -intelligence/   
+12 For example, inside the data center, the new large GPU clusters that AI calls for require 10 times more fiber connections tha n 
+traditional data centers. Given the significant computing demands that come with AI and other emerging technologies, fiber has 
+become the de -facto transmission media across the nation’s data center infrastructure thanks to its unequaled characteristics: high 
+speed, low latency, ult ra high density , near limitless capacity, security, sustainability, and high durability/reliability.  
+13 For example, E xecutive Order 14141 included a provision requiring “AI developers owning and operating frontier AI data centers 
+on Federal sites either to procure, for use in the development of their data centers, an appropriate share (as measured by mo netary 
+value) of l eading -edge logic semiconductors fabricated in the United States to the maximum extent practicable; or to develop and 
+implement a plan, subject to the respective approval of the Secretary of Defense or the Secretary of Energy, to qualify leadi ng-edge 
+logic semiconductors fabricated in the United States for use in the developer's data centers as soon as practicable.”  This type of 
+provision should be broadened to include chips outside of leading -edge logic.  
+
+
+•Smart Sourcing Procedures
+To foster supply chain resilience within the procurement process of AI systems, we recommend 
+a multi -vendor requirement for AI system procurement. Promoting multi -vend or use in AI system 
+procurement will mitigate supply chain risks of single point -of-failure in critical infrastructure 
+systems and drive innovation.  
+We also recommend that the U.S. government promote interoperability in the hardware design 
+of AI systems and  leverage relevant industry standards on interoperability . Interoperability plays 
+a crucial role in maximizing procurement choice , advancing investment and innovation in 
+emerging technologies , and helps ensure that government systems are suited for long -term 
+viability. This approach not only enhances flexibility but also maximizes the overall effectiveness 
+of existing AI infrastructure investments in compute, memory, and networking, among others, by 
+ensuring systems remain adaptable to changing mission needs.  
+•Cybersecurity
+Companies in the semiconductor supply chain are eager to deploy AI in their enterprise, but 
+obstacles to adoption persist  related to cybersecurity and data privacy . In particular, companies 
+in the semiconductor supply chain  that leverage highly proprietary intellectual property are 
+concerned with the potential for the misuse of the content they input into AI solutions during 
+ordinary  operation s (e.g., company data, prompts , etc. ) in training the vendor’s AI model, 
+potentially putting sensitive, proprietary information at risk. The AI Action Plan should address 
+how to  ensure that proprietary data is protected, as well as to recognize potential risks of model 
+poisoning. U.S. government -led initiatives to incentivize technological solutions and facilitate 
+public -private development structure, standards, and guidance can support the vetting AI 
+models and advance adoption of AI for companies with high value IP.  
+
+

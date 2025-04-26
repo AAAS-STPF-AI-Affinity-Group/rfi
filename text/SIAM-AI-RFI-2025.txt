@@ -1,0 +1,190 @@
+Society for Industrial and Applied Mathematics Response to Office of Science and 
+Technology Policy Request for Information on the Development of an AI Action Plan  
+The Society for Industrial and Applied Mathematics (SIAM) is an international community of 
+14,000 individual members. Almost 500 academic, manufacturing, research and 
+development, service and consulting organizations, government, and military organizations 
+worldwide are institutional members. Our members come from many different disciplines 
+but have a common interest in applying mathematics in partnership with computational 
+science to advanc e the beneﬁts of artiﬁcial intelligence (AI) by improv ing federal  research 
+efforts and applications across sectors, protecting data and privacy, and ensuring reliability 
+and security in computational models and algorithms. Through publications, research, and community, the mission of SIAM is to build cooperation between mathematics and the 
+worlds of science and technology. Thank you for the opportunity to respond to the Request 
+for Information (RFI) on the Development of an Artiﬁcial Intelligence (AI) Action Plan.   
+Federal research investments in AI and related ﬁelds , such as computational science , are 
+critical to advance innovation and ensure continued American leadership . AI has the 
+potential to reshape many scientiﬁc disciplines as well as other sectors such as health, 
+energy, defense, and education. As applied mathematicians, the SIAM community 
+appreciates efforts both to advance foundational artiﬁcial intelligence , as well as to build 
+partnerships t hat enable speciﬁc application areas . In this response , we wi ll focus on 
+several key areas for research and development , infrastructure needs, as well as education 
+and workforce recommendations . 
+Research and Development  
+While AI has made tremendous strides over the last few years, further investment is needed to continue the cycle of innovation, ensure AI systems can be built for the 
+particular needs of science and other government missions, and that AI can be reli ed upon 
+and secure.  Federal investment should focus on supporting a broad range of projects and leveraging convergent teams at different sizes to encourage maximum innovation.   For 
+example , the National Science Foundation’s (NSF) Mathematical Foundations of Artiﬁcial 
+Intelligence  program  is enabling small teams of mathematicians, engineers, and computer 
+scientists  to address key foundational gaps in the mathematical and theoretical 
+underpinning s of  AI to address its current limitations and challenges . These foundational 
+programs should be part of a larger portfolio that also includes major investments , such as 
+the NSF -funded National AI Research Institutes  and the Department of Energy’s (DOE) 
+Frontiers in Artiﬁcial Intelligence for Science, Security and Technology (FASST) initiative  and 
+
+
+AI Testbeds , that focus on advancing  AI in speciﬁc application areas.   Investments should 
+also continue to be made in fundamental research to develop AI technologies through core 
+programs such as those in NSF’s Division of Mathematical Sciences and DOE’s Office of 
+Advanced Scientiﬁc Computing Research . High -risk, high -reward research that enables 
+major breakthroughs is another critical component of a robust research portfolio at agencies such as the Defense Advanced Research Projects Agency (DARPA) and the 
+Advanced Research Projects Agency for Health (ARPA -H). DARPA has had a longstanding 
+role in pushing the frontiers of AI forward , while ARPA -H has already built an impressive 
+portfolio in computational tools, AI, digital twins, and other computational areas .  
+AI needs data and data across many agencies requires  investment before it can be 
+efficiently used for AI. Investment is needed in research and development to create an integrated suite of data lifecycle methods and tools, informed by the speciﬁc needs of 
+federal research communities at the DOE , NSF , National Institutes of Health (NIH), 
+Department of Defense (DOD), and other agencies. Techniques that lead to data 
+harmonization and normalization, such as data cleaning, validation, and error correction 
+must b e developed to overcome the natural heterogeneity of data sources which is in 
+inherent conﬂict with the need for data fusion. Open research questions remain around 
+analyzing highly distributed data sources, enabling data discovery and integration, tracking 
+data provenance, coping with sampling biases and heterogeneity, ensuring data integrity, 
+privacy, security, and sharing, and visualizing massive datasets . The National Institute of 
+Standards and Technology (NIST) also has an important role to play in setting data and AI standards and convening academic, industry, and other stakeholders to share data and AI 
+systems for measurements of reliability, safety, security, and vulnerabilities.  
+Research focused on the intersection of modeling and AI can unlock tremendous progress 
+in scientiﬁc discovery . The current theory and practice of AI struggles to incorporate 
+physical models and constraints. Formulations of new AI algorithms structured to include 
+physical models, rather than having to “learn” the physics, will allow the designs of new 
+classes of AI applications optimized exactly for the scientiﬁc tasks that require them. To do 
+this will require advances in such formalisms as projection operators that enforce physical 
+principles, data structures that encode symmetries and constraints, and the construction 
+of physical priors and their injection into mathematical models.  
+Many scientists are exploring ideas and developing new insights, but the ﬁeld of scientiﬁc 
+machine learning is still evolving . Alphafold13, Google’s breakthrough technology for 
+predicting protein conformations, showcased the potential for ML to outperform traditional scientiﬁc approaches. Other potential roles for ML in science include automatically 
+monitoring and running exper iments or series of experiments, improved methods for 
+
+
+combining simulation results and experimental data, and the generation of new 
+hypotheses from data. Quite likely, the most important ideas have not yet been thought of. 
+Many AI models focus on prediction accuracy without a focus on explainability. For 
+scientiﬁc applications, prediction without insight is seldom enough. A key area of 
+exploration is the development of interpretable models and algorithms that provide insight into  why and how a model produces  a particular output. This requires investment in  
+techniques for explainable AI models . Artiﬁcial intelligence and machine learning have 
+enormous potential to impact the processes of scientiﬁc research, but broad investments in mathematics and computing will be required to realize these opportunities.  
+A particular area of promise for AI innovation is at the intersections of  AI and health. AI 
+holds tremendous promise to revolutionize biomedical research in the understanding of chronic diseases, diagnostics, and development of treatments . Health agencies , such as 
+the NIH , lag physical science agencies in their AI investments and need a focused initiative 
+to take advantage of this promising technology while addressing privacy  and other issues.  
+An AI initiative could invest in potential research moonshots t o develop AI that will truly 
+work and be trustworthy for health applications . Further research is also needed to address 
+AI use in  healthcare to accelerate the development and deployment of reliable  AI that 
+provides accurate diagnosis and treatments for all patients. AI is accelerating at such a speed that NIH needs to keep up with the advancements of this emerging ﬁeld and related 
+technology like digital twins. In absence of dedicated funding, NIH may fail to adapt to AI 
+that could shape the future of the  U.S. healthcare system . OSTP should also  encourage 
+participation of relevant Health and Human Service agencies including NIH, Centers for 
+Disease Control  (CDC), and the Food and Drug Administration ( FDA ) in NSF’s National 
+Artiﬁcial Intelligence Research Institutes program to address these challenges.  
+Another promising area is the intersection of AI and the basic science, energy, and national 
+security missions of DOE.  Additional research funding is needed to fully realize the 
+potential of AI for these applications. Current and p ast successes, such as the 
+development of a digital twin for a nuclear power plant to aid in inspections and 
+maintenance , and AI -based screening and d esign of f unctional materials for h arsh 
+environments, including fusion reactors, are just the tip of the iceberg of what the 
+incred ible developments AI can bring to these areas.  
+New mathematical foundations are needed for the development of AI methods that are 
+explainable and reliable. Foundational work is also needed in the following topical areas:  
+• Adversarial AI, cybersecurity, and how to address other security challenges.  
+• Data Sparse AI: Data  that are available to large language models are  starting to 
+reach a limit and this will hinder further innovation without new methods. 
+
+
+Furthermore, individuals and organizations are likely  to protect the data they 
+produce, further making data accessibility harder. Generative models that are based 
+on ﬁrst principles understanding can be used to augment measured data. This is 
+even more important in scientiﬁc applications wherein large amounts of data will 
+never be available . 
+•Energy Efficient AI: Current AI techniques cannot simply continue on their path of
+energy consumption; it is not sustainable. New mathematical and algorithmictechniques are needed to develop more efficient use of AI subsystems.
+Infrastructure 
+AI research requires large -scale  infrastructure that keeps advancements out of reach for 
+many beyond the most highly  resourced companies . The federal government can help 
+advance a more robust ecosystem for AI innovation and enable university and national lab 
+research efforts through investments in federal AI infrastructure  that are available to users 
+through a competitive process to make sure the most promising research gains access . At 
+NSF , the National AI Research Resource  (NAIRR) pilot is underway follow ing a task force 
+effort initiated in the ﬁrst Trump Administration . The pilot will end in FY 2026 and NSF 
+should look to build the full NAIRR that will revolutionize AI capabilities . At DOE, in addition 
+to the National Laboratory AI Testbeds, a facility or facilities should be established to 
+ensure that researchers have access to experimental non -traditional hardware that will 
+inform a holistic codesign cycle between manufacturers and users of transformative 
+computing technologies. As the non -traditional computing hardware industry evolves and 
+the roles of different enterprises change, the government should remain open to establishing new types of collaborations and relationships with both existing and emerging 
+industrial partners. These new devices will li kely be initially employed as accelerators, so 
+their ability to integrate with existing high -performance computing ( HPC ) platforms must be 
+part of the design process.  Investments are also needed  in research and development 
+collaborations between computational scientists and computer vendors to ensure development of future energy efficient comput ing platforms that meet the needs of the 
+computational science community.  
+Investments are needed in foundational models as well as the research, software tools, 
+and system management tools needed to enable complex workﬂows that combine 
+simulation with machine learning  so that AI can better work with existing HPC  computing 
+infrastructure  supported. This is primarily a role for DOE along with some investments from 
+NSF and DOD .  
+
+
+Partnerships 
+Computational science has always been an interdisciplinary endeavor, drawing on 
+mathematics, computer science, and application domains. With the growth in the 
+importance of data science and AI , the ﬁeld is becoming even broader . National 
+Laboratories, academia, and industry all have speciﬁc strengths to beneﬁt AI research and 
+development. Many of the most pressing scientiﬁc and societal challenges can only be 
+solved through the efforts of multidisciplinary, multi -institutional teams. The federal 
+governm ent should create incentives for interdisciplinary education and research 
+collaboration that engage National Laboratories, academia, and industry.  
+Establishment of additional coordination and engagement between the applied mathematics and computational science community and the wide -ranging federal 
+healthcare and biomedical research will improve the nation’s preparedness, health systems,  drug development and approval pathways . For example, NIH and FDA recently 
+collaborated with NSF on a program to catalyze the development  of digital twins for 
+biomedical and healthcare technologies to improve clinical trials . The Administration  
+should encourage these kinds of collaborations to bring together researchers from computer science, applied math, and engineering along with those in health operations, 
+behavioral science, regulatory science, and biomedical research to foster new ways to 
+evaluate medical devices,  better modeling for disease  preparedness, and development of 
+new tools.  This model can be adapted to other agencies and application areas to further 
+additional applications . The NSF National AI Research Institutes  are a nother  good model 
+for interagency c ollaboration and involve the partnership  of several agencies , including  the 
+United States Department of Agriculture (USDA), Department of Homeland Security (DHS), Department of Education (ED), and DOD . More agencies should be encouraged to join  this 
+program to harness breakthrough research for addressing  their  unique mission needs.  
+Education and Workforce  
+Finally, as an organization representing thousands of researchers and educators from hundreds of academic institutions, SIAM is well aware of the AI R&D workforce challenges 
+facing the nation.  The potential limitations posed by workforce shortages could 
+signiﬁcantly constrain our ability to maintain our leadership in AI amid an international 
+environment that is growing increasingly competitive . Federal science agencies have a 
+critical role to play in sustaining the vitality of AI R&D in the U.S. through their support of 
+research and education programs . SIAM recommends that the Action Plan includes 
+support for programs like NSF’s NSF Research Traineeships (NRT), Graduate Research 
+Fellowships (GRF) , Research Experiences for Undergraduates (REU), and CAREER awards 
+as well as DOE’s Computational Science Graduate Fellowship program. These programs 
+
+
+are crucial to the training and professional development of the next generation of the 
+mathematical researchers and computational scientists who will underpin U.S. 
+competitiveness in AI in future decades . Agencies should also look for opportunities  to 
+pursue partnerships and offer internships that give students exposure to National 
+Laboratories, intramural research, or defense challenges . Exposure to federal laboratories  
+has proven to be an effective way to inspire students at all levels to pursue careers in 
+federal service, which is an important avenue alongside industry and academic workforce needs .  
+Undergraduate curricula are critically important to ensuring American preeminence in AI 
+through education in the mathematical foundations of machine learning . SIAM 
+recommends that the action plan commit s to supporting the integration of data science 
+and modeling  into undergraduate STEM coursework in order to improve students’ 
+familiarity with these subjects as they seek to successfully enter the AI workforce , use AI in 
+their scientiﬁc or engineering careers,  and shape future innovations .  The Administratio n 
+should also consider ways to develop AI technology for new ways of upskilling and 
+retraining the workforce as large sectors evolve through increasing use of AI . 
+ Sincerel y, 
+Carol Wood ward   Suzanne L. Weekes         Alejandro Aceves 
+President         Chief Executive Officer      Vice President for 
+    Science Policy  
+This docum ent is approved for public dissemination. The document contains no business-
+proprietary or conﬁdential information. Document contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  
+
+

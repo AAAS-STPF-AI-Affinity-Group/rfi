@@ -1,0 +1,402 @@
+GenAI Collective 
+1 
+Subject: Response to RFI on the Development of an Artificial Intelligence Action Plan 
+Addressed To: 
+•Michael Kratsios – Acting Director, White House Office of Technology Policy (OSTP)
+•Lynne Parker – Executive Director, President’s Council of Advisors for Science and
+Technology
+•David Sacks – White House Special Advisor for AI and Cryptocurrency
+•Sriram Krishan – Senior Policy Advisor for AI, White House OSTP
+From: The GenAI Collective 
+Date: March 15th, 2025 
+The GenAI Collective is a global non-profit community of 25,000+ founders, researchers, 
+operators, and investors with chapters in most of the world’s major tech hubs. Through both in-
+person events & workshops and community-led research, we empower the AI ecosystem to 
+collaboratively steer technology & society toward trust, openness, and global prosperity. 
+On behalf of the GenAI Collective, we are pleased to submit this response to the 
+Administration’s Request for Information (RFI) on the development of an AI Action Plan. We 
+commend the Administration’s leadership in shaping a forward-looking AI strategy and 
+respectfully offer these recommendations, which emphasize the strategic importance of data in 
+ensuring U.S. AI dominance. We appreciate the opportunity to contribute to this RFI and stand ready to collaborate on implementing the next chapter of American AI policy.  
+Our views are based on survey results and in-depth interviews within GenAI Collective’s network highlighting data access as the greatest bottleneck to AI innovation.  
+Executive Summary
+Recent developments – most visibly China’s release of DeepSeek R1 – highlight that the global 
+race for AI leadership hinges on data more than advanced hardware. Data has become the true 
+long-term bottleneck for training cutting-edge AI models. China, the “Saudi Arabia of Data,” is 
+consolidating vast pools of both domestic and global data, positioning it favorably in the AI arms 
+race. By contrast, U.S. data remains fragmented across corporate data warehouses, government 
+silos, and consumer-facing platforms without a coherent national framework for secure, large -
+scale aggregation. 
+Data, not infrastructure, is the U.S.’s biggest bottleneck to cement its position as the global 
+leader in AI and technological progress. Continued U.S. AI dominance depends on a massive 
+data repository that unleashes AI innovation in America enabling the most sophisticated AI models in the world. 
+
+
+GenAI Collective 
+2 
+We propose the creation of a National Data Store into which companies must contribute 
+data in order to access. Metadata would then be available to firms and citizens with appropriate 
+security clearance and guidelines on data usage. By substantially augmenting currently available 
+datasets, a Data Store would accelerate AI development while enhancing data privacy an d 
+cybersecurity. 
+China believes it has a sustainable comparative advantage on data and will ultimately win in AI 
+by amassing a larger data repository. This is currently an asymmetric contest as China can amass 
+domestic data and make it selectively accessible, while U.S. data is fragmented and much of the 
+data held privately is readily accessible. Entrepreneurs tell us that data is the greatest bottleneck 
+for AI innovation. Data experts tell us that, in the long run, data will be the key differentiator in 
+the AI arms race. 
+As the rapid emergence of DeepSeek illustrates, the U.S. must move quickly to neutralize 
+China’s competitive advantage in data. Artificial Intelligence is the most important technology to 
+emerge in the past half century and may ultimately prove to be the most significant technology 
+influencing geopolitical balance of power since the atomic bomb and possibly the Industrial 
+Revolution. Were this the case, then amassing an effort tantamount to the Manhattan Project for 
+AI would be appropriate.  
+A National Data Store will enable the U.S. to neutralize China’s competitive advantage in data. 
+Ultimately, by establishing the gold standard for data, America can achieve AI dominance.  
+Trust is essential for acceptance of a National Data Store. A National Data Store will meet 
+with resistance from privacy advocates and industry incumbents. A National Data Store can 
+reduce security threats by limiting access points, partitioning data, and applying best -in-class 
+cybersecurity across all stored data. It can improve data privacy by giving citizens a say in how their data is used. Industry incumbents may be assuaged by collecting data of strategic 
+importance independent of company proprietary data. We recommend that an independent 
+National Data Store Board, akin to the Federal Reserve Board, be established to govern the 
+National Data Store setting interoperability standards and enforcing privacy protections.  
+To launch the Data Store, we propose that the U.S. government coalesce its many data silos into 
+a common repository that facilitates better coordination and intelligence sharing across agencies. 
+In addition, the U.S. government should require any corporation that receives a government 
+contract to contribute a standard set of corporate data to the Data Store. 
+This memo outlines actionable steps for the U.S. to establish global, lasting data supremacy.  The 
+recommendations follow three broad themes: Data Dominance through the creation of a 
+National Data Store, Gold Standard Information Architecture via the dissemination of 
+modern data protocols and standards, and Building an AI-Ready Economy by cultivating, attracting, and retaining world-class talent.
+
+
+GenAI Collective 
+3 
+Table of Contents
+Outline of Recommendations .......................................................................................................... 3 
+1. National Data Store ................................................................................................................. 3 
+1.1 Benefits of a National Data Store ......................................................................................... 4 
+2. Modern, Interoperable Information Architecture ................................................................... 6 
+3. Implementation Strategy ......................................................................................................... 8 
+Caveats and Mitigations ............................................................................................................... 10 Example Executive Order ............................................................................................................. 11 
+Conclusion .................................................................................................................................... 12 
+Outline of Recommendations 
+1.National Data Store
+The data realm has changed dramatically in recent years. The world generated over 120 
+zettabytes of data in 2023, more than sixty times the data exhaust produced in 2010. The Citadel 
+Campus in Nevada, the world’s largest commercial data center, has capacity for at least 150 
+exabytes of data – 7,000 times larger than the Library of Congress, which has nearly one billion 
+data files. 
+Yet many of the laws and policies governing data predate the Internet. White & Case observes 
+“there is no single data protection legislation in the United States. Rather, a jumble of hundreds 
+of laws at both the federal and state levels  serve to protect the personal data of U.S. residents.”  
+Like water and air, data in the Information Age is a public good. AI requires clean data as 
+humans require clean water and air. 
+We propose the creation of a National Data Store which coalesces and augments currently 
+available datasets from both the public and private sectors. Companies must contribute to the 
+Data Store in order to access it, and the Data Store would be available to firms and citizens with appropriate security clearance and guidelines on data usage. 
+To preserve Data Privacy and citizen s’ rights to data, data platform companies should not be 
+required to submit proprietary personal data on U.S. citizens to the Data Store. As currently 
+implemented by Amazon AWS, Microsoft Azure and Google GCP, companies could retain 
+proprietary access to the data they contribute. In addition, they could augme nt their proprietary 
+
+
+GenAI Collective 
+4 
+data with metadata contributed by others to the Data Store. Once the Data Store has reached 
+critical mass, the lure of access to this metadata repository would, in most cases, be sufficient 
+incentive to gather additional data from companies. 
+Additionally, all metadata contributed to this data store would be redacted of any Personally 
+Identifiable Information (PII), consistent with the U.S. Department of Labor’s guidance. By 
+redacting PII, the Data Store retains its strategic value as an AI development resource while eliminating privacy risks for individuals who contribute to it. Furthermore, a guaranteed PII -
+redacted Data Store would greatly increase private firms’ incentives to contribute to it. 
+To launch the Data Store, we propose that the U.S. government coalesce its many data silos into 
+a common repository that facilitates better coordination and intelligence sharing across agencies. 
+The current Data.gov resource, which comprises Federal, state, local, and tribal government 
+information, provides a good base off of which to model this much larger national data resource. To ensure the Data Store is seeded with initial data upon creation and continues to grow at a 
+minimum guaranteed rate, the U.S. government should require any corporation that receives a 
+government contract to contribute a standard set of corporate data to the Data Store.  
+Not only would a public Data Store offer many benefits (which are summarized below), but the 
+recent emergence of synthetic data – AI-generated data that is suitable for Machine Learning 
+use-cases  – makes the construction of one even more feasible now than in past years. A 2022 
+Gartner report found that synthetic data is projected to overtake real data for AI training by 2030 . 
+The promise of synthetic data incentivizes companies to contribute to the Data Store without the  
+operational overheads (such as PII redaction) that come with submitting real data. This further 
+lowers private firms’ barriers to contributing to a high-usability public Data Store. 
+1.1 Benefits of a National Data Store  
+A public Data Store would provide the following benefits: 
+1. Strategic Positioning: Data is a strategic resource that should be gathered, cleansed, secured,
+maintained, and selectively shared as a matter of national interest. The “Saudi Arabia of
+Data,” China has had a consistent data strategy spanning more than three decades. As early
+as 1988, China established a strategy to establish “information sovereignty” and expand its
+“information territory.” The U.S. has outsourced its data strategy to the private sector. Themost lucrative U.S. technology companies such as Amazon, Apple, Facebook, Google and
+Microsoft are data platforms. Together they make over $1 trillion annually by hoovering and
+monetizing private data. Private firms serve shareholder interests, not national interests. In
+the age of artificial intelligence, the U.S. must cohere its current fragmentary and siloed
+approach to data and infrastructure.
+2. AI Acceleration: Broader access to data will accelerate innovation as many startups lack
+access to large pools of data that limit their models. Significant advances in artificialintelligence have been made when large data sets are publicly available. The ImageNet Large
+Scale Visual Recognition Challenge (ILSVRC) in 2012 was a breakthrough for the use of
+
+
+GenAI Collective 
+5 
+deep neural nets for image recognition . Drug discovery has also accelerated with artificial 
+intelligence applied to publicly available data. 
+A Data Store levels the playing field enabling AI startups to compete with tech incumbents. 
+Surveys of tech entrepreneurs indicate that access to a large pool of clean data is the top 
+constraint slowing AI innovation. The barriers to entry for disruptive AI innovation are high 
+and rising. The Common Crawl is a great start in creating a Data Store enabling startup AI 
+innovation. As DeepSeek has illustrated, however, Common Crawl is only an en try point 
+benefiting innovators of all stripes. A national Data Store would create the gold standard for data aggregating existing silos of public and private data while tasking the Data Store to 
+uncover and incorporate new sources of information.     
+3. Clean Metadata: Companies have an 80% blind spot as most organizational data is
+unstructured and underutilized. For the small portion of data that is mined, about 80% of data
+science involves collecting, cleaning, and organizing data , while only 20% is spent on
+building models and making discoveries. Siloed data creates redundant efforts to collect,clean and maintain information. The inefficiencies and inadequacy of these redundant efforts
+increase as the firehose of new data accelerates. Much as the biotech industry collaborates to
+offset high research costs, a shared data resource would defray the rising costs of cleaning
+and maintaining the data while providing access to a larger pool of data. The U.S. created the
+Federal Reserve system when the financial system outgrew the ability of private capital alone
+to safeguard the economy. Data is a strategic asset that is growing beyond the point where
+private firms can safeguard national data interests.
+4. Cybersecurity: Our current fragmented data approach provides many attack vectors
+heightening cybersecurity costs and risks. Chinese theft of 
+intellectual property costs
+Americans up to $600 billion annually  as of 2018. AI and the near-term prospect of quantum
+computing significantly heightens cybersecurity risk. A Data Store would limit entry points
+and enable best-in-class cybersecurity software to be applied across all sensitive U.S. data.
+Data partitioning technology could segment data to ensure malicious actors who gain entry
+would have no more data access than could be achieved through our current siloed approach
+with data.
+5. Data Privacy: Americans leave data exhaust giving private companies and foreign actors
+insight into our daily activities, beliefs, predilections and vulnerabilities. Data platforms,which trade services for insight and gather data from myriad sources, know more about us
+than we are aware. Companies assemble digital profiles on our health, wealth, assets andliabilities, spending habits, location, travel habits, social behaviors, social network, beliefs
+and views. As U.S. citizens become pawns on a geopolitical chessboard, individual and
+national sovereignty hang in the balance.
+This must change. Data privacy is a fundamental democratic human right. Citizens should
+have knowledge of and control over their data. A Data Store would be a first step in
+reestablishing and reinforcing data privacy rights. Unless required by law, persona l
+
+
+GenAI Collective 
+6 
+information from the data repository should be available only as anonymous metadata unless 
+authorized by the person, typically as a rules-based standard protocol or, as needed, on an ad 
+hoc basis.   
+6. Energy Efficiency: Public backlash against expanding data center and energy requirements
+may threaten continued AI development. Our current fragmented data approach createshighly inefficient redundancies. Surveys indicate that a third of data is redundant or obsolete
+costing companies $3.3 trillion in 2020. Data centers already consume 2% of U.S. energy .
+With escalating AI data and compute capacity requirements, this figure may rise to 9% by
+2030. A national Data Store would introduce efficiencies that could alleviate escalating
+energy costs and data capacity constraints.
+7. Profit Opportunity: By leveraging existing data center infrastructure, a National Data Store
+would promote efficiency and allow continued growth of a data repository without addedphysical infrastructure. Once at critical mass, the National Data Store may be a source of
+revenue if the U.S. government wishes to charge companies for data access.
+2.Modern, Interoperable Information Architecture
+While the pace of progress in the development of AI speeds up, the underlying information architecture in the U.S. lags behind these rapid advances. Database standards vary widely across 
+industries and even within single organizations, making it difficult t o seamlessly aggregate and 
+analyze data. Inconsistent database schemas, differing API conventions, and a lack of common protocols all limit interoperability and reduce the efficiency of large -scale data initiatives. With 
+the rapid rise of Large Language Models (LLMs) in particular, data in AI is now used for much more than model training – i.e., model fine-tuning, tool usage, context understanding, Retrieval 
+Augmented Generation (RAG), and more. Because of both outdated data standardization 
+protocols and recent expansion of use-cases, it is paramount that the U.S. develop leadership in information architecture standardization. 
+Industry-Driven Data Standards 
+The U.S. won the Internet by establishing TCP/IP as the global standard but lost mobile 
+leadership when the European Union adopted GSM enabling Ericsson and Nokia to achieve 
+global leadership for two decades. Rather than imposing a top-down regulatory framework, the federal government should encourage industry-led initiatives to unify data formats and protocols. 
+By focusing on efficiency gains such as reduced development costs, faster innovation cycles, and 
+improved data quality, policymakers can incentivize private-sector stakeholders to adopt a 
+common set of data standards. 
+
+
+GenAI Collective 
+7 
+Lessons from Cluster Computing 
+Historically, major leaps in computing occurred when key players rallied around shared 
+standards. This approach mirrors the successes of previous consensus -driven standards. For 
+example: 
+●x86 Architecture – Standardized chip designs allowed for compatibility across multiple
+vendors, creating an entire ecosystem of hardware and software tools.
+●Linux Operating System – Provided a common, open-source platform that enabled rapid
+experimentation, community-driven innovation, and interoperability between different
+hardware environments.
+Catalyzing innovation often begins by addressing acute pain of current systems in critical 
+sectors. Currently, industries such as healthcare and manufacturing, despite being highly 
+regulated, are bogged down by non-standardized information architectures – e.g., most hospital 
+systems in the U.S. adopt proprietary database schemas  to store relatively standard medical 
+records. This makes it virtually impossible for institutions to share data with each other even when the incentives to do so are strong otherwise. By creating a similar “common language” for 
+data, the U.S. can dramatically reduce friction in AI development and encourage collaboration 
+among disparate stakeholders. 
+Example of an Emerging Standard 
+An early example is Model Context Protocol (MCP), which standardizes the flow of data 
+between large language models (LLMs) and external tools or databases. Already seein g adoption 
+by leading companies such as Block, Perplexity, Cursor, Firecrawl, and more, MCP helps 
+developers consistently structure prompts, responses, and contextual information, thereby 
+facilitating more robust and interoperable AI applications. As MCP and similar protocols gain 
+traction, the government can amplify their impact by highlighting success stories and encouraging more public and private organizations to adopt them. 
+Recommended Actions 
+1.Public-Private Partnerships: Collaborate with industry consortia to define flexible data
+schemas and protocols, providing guidance and funding where beneficial without
+mandating rigid regulations. This could involve, for example, collaboration with one of
+the following industry stakeholders:
+•MLCommons – a consortium of high-tech companies that publishes standards,
+datasets, and best practices for machine learning. One standard of particular
+relevance to this recommendation is Croissant, a 2024 standard format designed
+to improve usability and discoverability of machine learning datasets.
+•Open Neural Network Exchange (ONNX) – a community-driven project that
+publishes data-flow standards in order to increase the interoperability of variousAI tools.
+
+
+GenAI Collective 
+8 
+2.Standardization Incentives: Offer grants, tax breaks, or streamlined procurement
+processes to initiatives that contribute to the advancement of emerging AI data standards.
+A major example of such an initiative is the National AI Research Resource (NAIRR),
+which provides open datasets, compute infrastructure, and other resources to U.S. AIresearchers. Funding the NAIRR could steer the AI data ecosystem toward the level ofinteroperability needed to maintain AI supremacy through data.
+3.Increasing Awareness: Promote best practices and success stories of companies that
+leverage standardized architectures, emphasizing how interoperability accelerates AI
+innovation and reduces development costs. A successful example of this for
+manufacturing is the National Institute of Standards and Technology's Manufacturing
+Extension Partnership (MEP) program, which provides resources such as in-person
+workshops to educate companies on state-of-the-art manufacturing standards. Launched
+in 1988, the MEP saw 73% of its 500+ participants report positive effects on business
+performance by 1995. By 2022, the MEP had generated $2.9 billion in added Federal tax
+revenue, representing an 18x ROI for the program. A comparable program for increasing
+awareness on AI data standards could replicate MEP's success for the AI industry.
+4.Iterative Policy Development: Continually refine and update federal guidance as new
+protocols (like MCP) evolve, ensuring that policies remain responsive to technological
+change and that the national Data Store aligns with rapidly evolving AI technologies. In
+order to keep up with ever-increasing pace of technological progress, this would need to
+involve regular review cycles and engagements with stakeholders such as any of the
+groups mentioned above. Additionally, regulatory sandboxes would be useful to help
+companies experiment with data standards and more quickly adapt to new technologies.
+By fostering an environment where standards are community-driven yet broadly endorsed, the 
+U.S. can address the current fragmentation in its information architecture. Standardization will 
+not only improve interoperability and reduce costs but also catalyze  the development of 
+powerful, next-generation AI applications that can keep pace with global competition.  
+3.Implementation Strategy
+A federated National Data Store and modernized information architecture can serve as the backbone of an inclusive AI-driven economy. To support an economy that can realize this vision, 
+policymakers should focus on three core areas: creating AI-related jobs (rather than simply 
+replacing them), attracting top global talent, and catalyzing investment in data innovation. By 
+doing this, the U.S. can ensure its National Data Store not only strengthens AI leadership but 
+also broadens economic opportunity. 
+Create an AI-Ready Economy 
+●Augmented Intelligence: AI will enhance human capacity, creating more jobs than it
+displaces and improving work quality. Promote AI to assist and augment workers –
+especially in sectors like healthcare, logistics, and public services.
+
+
+GenAI Collective 
+9 
+●Upskilling & Retraining: Offer tax incentives for AI-based workforce development
+programs. These programs can leverage the National Data Store for realistic training
+datasets, equipping workers with the skills to thrive in a data-driven marketplace.
+●Data-Driven Verticals: Use the National Data Store to unlock new markets such as AI-
+driven healthcare diagnostics, climate tech, and advanced manufacturing. Startups inthese sectors can access high-quality, aggregated data to build innovative products.
+●Accelerate Innovation & Diffusion: A National Data Store will lower barriers to
+accessing large datasets, allowing startups and SMEs to compete with tech incumbents.
+By facilitating the rapid diffusion of cutting-edge AI from research labs into real-world
+applications, this initiative will speed up adoption cycles, drive industry-wide
+productivity gains, and sustain U.S. AI leadership.
+Attract Top Global AI Talent 
+●Startup Visa: Immigrants have founded or cofounded nearly two-thirds of the top AI
+companies in the United States , and 42% of the top U.S.-based AI companies had a
+founder who came to America as an international student. Offer an enhanced Startup Visa
+program, which has been adopted by over 30 countries, for AI researchers, entrepreneurs,
+and data scientists to secure top global talent, emphasizing the unique opportunity to
+work with the National Data Store – an unparalleled repository of clean, standardized
+data.
+●Public-Private Partnerships: Facilitate collaborations between universities, national
+labs, and tech companies, all benefiting from centralized, secure data resources. Joint
+R&D projects can reinforce the U.S. position as the premier AI research hub.
+●Gold Standard AI Labs: Federally funded labs helped secure U.S. leadership in radar,
+the atomic bomb, computers, semiconductors, mobile and the Internet. Promote corporate
+research and dedicated AI labs or expand existing ones, using the National Data Store asa foundational research platform.
+Public Investment in Data Supremacy for Startups & Companies 
+●Data-Focused Innovation: Offer early-stage AI startups access to the National DataStore to accelerate innovation, particularly in regulated sectors like healthcare and
+finance. Allow startups and research institutions to experiment with data from the
+National Data Store under controlled conditions, accelerating breakthroughs whilemanaging risk.
+●Compliance & Infrastructure Support: Require privacy-by-design architectures andadvanced data-management solutions that align with National Data Store standards.
+●AI Product Trials: Provide structured environments where emerging AI tools can be
+tested using real-world data – helping refine models before broad deployment, especially
+in critical sectors like energy, defense, and healthcare.
+
+
+GenAI Collective 
+10 
+Caveats and Mitigations
+Before implementing any of these strategies, it is essential to acknowledge the inherent risks and 
+challenges. While this implementation requires a bold leap of faith from the U.S. to push beyond 
+conventional boundaries in pursuit of sustained technological leadership , we have identified the 
+two most salient caveats and outlined mitigations to ensure the protection of national interests . 
+Security & Privacy 
+●Risk: Safeguarding individual privacy is paramount, particularly given the sensitivity and
+volume of the data involved in a National Data Store. Protecting citizens’ personal
+information not only builds public trust but also upholds democratic values and legal
+standards.
+●Mitigation: We recommend that a trusted third party – such as an independent National
+Data Store Board – be designated to manage the system, with stringent protocols
+implemented to fully redact all personally identifiable information (PII). This approach
+will create an open access framework that robustly protects citizen privacy whileenabling wide-ranging data utility and fostering innovation.
+Competitive Dynamics 
+●Risk: U.S. companies may be reluctant to commit to the National Data Store if sharing
+proprietary data is perceived as diminishing their competitive advantage in a crowded
+market.
+●Mitigation: We recommend that the initiative initially focus on developing foundational
+AI models that benefit the entire ecosystem, with vertical applications evaluated on a
+case-by-case basis. Furthermore, data submitted to the Data Store should be either PII -
+redacted or synthetic, mitigating the perceived competitive disadvantage risk.Additionally, targeted financial incentive structures such as tax breaks should be
+implemented to encourage large companies to contribute to this public resource.
+
+
+GenAI Collective 
+11 
+Example Executive Order 
+Title: Executive Order on Establishing a Federated National Data Store for American AI 
+Leadership 
+Purpose 
+●Recognize data as critical to U.S. competitiveness and national security.
+●Accelerate AI innovation by providing researchers, private firms, and public agencies
+with secure, large-scale data access.
+●Protect privacy and security through robust protocols and cybersecurity measures.
+Key Actions 
+1.National Data Store Board: Create an independent National Data Store Board (NDSB),
+akin to the Federal Reserve Board, charged with governing the National Data Store,
+setting interoperability standards, and enforcing privacy protections.
+2.Mandatory Data Contribution: Require all federal agencies and federal contractors to
+submit standardized data sets, with appropriate anonymization, into the national datarepository. Provide incentives for private companies to do the same.
+3.Security: Mandate robust PII redaction protocols for all data in the Data Store, zero -trust
+cybersecurity measures, and quantum-resistant encryption to safeguard the repository
+from malicious actors. Allow U.S. Citizens to control access to their data.
+4.Interoperability Standards: Encourage adoption of shared data schemas and protocols,e.g., Model Context Protocol (MCP), to reduce duplication and improve interoperability.
+5.National Data Store Use: Establish pilot programs allowing approved U.S. AI startups
+and research institutions to experiment with data from the repository. Corporate use of
+the resource would require contributing data. Provide regulatory sandboxes for startups
+leveraging the National Data Store, especially in high-impact sectors.
+6.Talent Attraction & Retention: Streamline immigration pathways for high-skill AI and
+data professionals. Establish public-private partnerships to fund AI research labs andacademic programs, focusing on areas critical to national security and economic growth.
+Expected Outcomes 
+●Enhanced AI capabilities through broader access to diverse, high -quality datasets.
+●Stronger cybersecurity by consolidating data under a unified, well -defended framework.
+●Broad economic growth and job creation fueled by AI-driven innovation and new
+industry formation.
+●Preservation of American values through transparent governance, privacy protections,
+and democratic data stewardship.
+
+
+GenAI Collective 
+12 
+Conclusion 
+In summary, the GenAI Collective strongly believes that a successful AI Action Plan must allow 
+U.S. data supremacy, to cement its position as the world leader in AI and technological progress. To support data supremacy, this plan must advocate for a National Data Store allowing 
+widespread access to high-quality data, modern information architecture allowing for interoperability between models, tools, and datasets, and investment in an AI-driven economy 
+to attract global talent. 
+The GenAI Collective is committed to advancing technological progress through collaboration 
+on AI and applauds this administration’s efforts to promote progress in this field. We look forward to collaborating to realize this vision. 
+For any questions or additional information, please contact Pierce Kelaita 
+(
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution. 
+
+

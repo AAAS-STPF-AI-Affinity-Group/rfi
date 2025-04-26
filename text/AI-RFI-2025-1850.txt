@@ -1,0 +1,152 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-ayve-giuo
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1850
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Maryel len Giger 
+General Comment
+Please find the attached docum ent from  Maryellen Giger, contact PI of the Medical Im aging and Data Resource Center (MIDRC).
+Attachments
+OSTP_MIDRC_AIActionPlan FINAL FINAL
+
+
+1 AI Action Plan to Advance America’s AI Leadership   
+In response to  Executive Order 14179  Removing Barriers to American Leadership in 
+Artificial Intelligence 
+Submitted by Maryellen Giger, A. N. Pritzker Distinguished Service Professor of 
+Radiology, University of Chicago  
+For The Medical Imaging and Data Resource Center (MIDRC) 
+Our response on the AI Action Plan focuses on AI in medicine and medical imaging. 
+This document provides a description of  The Medical Imaging and Data Resource 
+Center (MIDRC; midrc.rg) since MIDRC has been addressing the needs of AI in medical imaging in order to advance America’s global presence and leadership in AI. 
+Despite the immense promise of AI applications in the medical domain, and more than 1,000 FDA approved Software as Medical Device products, few of such approvals have delivered sustainable clinical value and even fewer have proven financially profitable 
+and generated stable revenue that support growth and investment in an ecosystem of 
+clinically relevant AI. Importantly, almost 80% of FDA-approved AI medical applications involve medical imaging.  Thus, medical imaging is leading the way, since the mid-1980’s, in AI development, however, it needs to increase its focus, presence, leadership, and growth for America to remain competitive. 
+MIDRC was created to address and solve these problems.  In response to this need, 
+the American College of Radiology (ACR), the Radiological Society of North America (RSNA), and the American Association of Physicists in Medicine (AAPM), Gen3, 20 
+other academic institutions and private practices, and the FDA, established , in 2020,  the 
+Medical Imaging and Data Resource Center (MIDRC; midrc.org), hosted at the 
+University of Chicago.  MIDRC was originally solely supported through funding from the NIH-National In stitute of Biomedical Imaging and Bioengineering (NIBIB), and it 
+includes an open data commons (currently with over 500,000 imaging studies acquired during clinical practice at hospitals and radiological centers across the country ; 
+data.midrc.org). MIDRC de-identified images are open for public access / download, 
+and are available with a broad data use agreement, that (for most images) allows for commercial use of the data. Additional funding from ARPA-H and NAIRR increased 
+MIDRC resources, and supported MIDRC in developing open-source tools that broaden MIDRCs reach, benefit the medical imaging AI community, and enhanced 
+interoperability with other data commons able to provide additional clinical (non-imaging) patient information. 
+
+
+2 MIDRC leverages the existing infrastructure of participating organizations and 
+institutions and provides coordinated open access to data, including the ability to use 
+the data for commercial AI-development . MIDRC data is standardized and AI-ready. 
+MIDRC harmonizes data management and data analysis activities at five critical stages: (1) intake and de-identification, (2) semi-automated quality assurance, cleaning, and
+annotation/labelling of images and associated data, (3) exploration and analysis using
+machine learning algorithms, (4) distributed access and interoperability through open
+application programming interfaces (APIs) to create a modern data ecosystem, and (5)
+rigorous methods of evaluation to expedite AI for the public good.   These data and the 
+associated machine intelligence analyses can support essential biomedical research to address (i) improved detection, differential diagnosis and triage of individual patients, (ii) prognosis, including prediction and monitoring of response to intervention for improving patient outcomes, and (iii) population-based surveillance and prediction of potential 
+disease spread. MIDRC accelerates the public dissemination of answers to urgent medical questions based on research conducted by its users. 
+The overall goal of MIDRC is to accelerate the creation and transfer of knowledge for 
+the clinical management of diseases by moving quickly from data and hypothesis to discovery and deployment. Success requires expert collaboration, community engagement, and thoughtful design.  Creation of robust, validated machine learning systems requires large, diverse, accessible, carefully-annotated public datasets. MIDRC enables broad community participation by academic medical centers, community 
+hospitals, and private practices, all contributing real-world, clinically relevant images 
+from their varying patient populations to the MIDRC data commons. 
+The MIDRC project represents an unprecedented collaboration among the professional 
+medical imaging societies of ACR, RSNA, and AAPM, and builds upon the unique and 
+complementary expertise of each organization. These organizations provide leadership 
+and expertise in radiology, medical physics, imaging physics, machine intelligence, 
+informatics, and metrology, to spearhead this multi-institutional initiative.  In the past, 
+similar collaborations have previously led to other vital innovations, such as the 
+development of the DICOM standard for medical imaging, the RadLex unified 
+terminology standard for radiology procedures (now part of LOINC), and other key 
+imaging standards and quality indices. 
+The MIDRC data commons is based on an open-source data platform (Gen3.org) and 
+includes data search tools for exploring the data and building virtual cohorts, Jupyter 
+notebooks and other tools for analyzing the data, and open standards-based APIs that support both interoperability and an ecosystem of applications.  The state-of-the art, API-based infrastructure allows for rapid expansion through new deployments, including through federation and indexation of third-party repositories.  The MIDRC commons 
+
+
+3 provides services, such as assignment of persistent digital identifiers and associated 
+metadata to each image, so that the data are findable, accessible, interoperable, and reusable (FAIR).  A digital identifier service enables linkage to other clinical data feeds from other registries and repositories to maximize the collective value of NIH data collection efforts, thus enabling researchers to address topics no single resource could 
+support independently.  
+In addition, MIDRC investigators have developed an array of resources, such as 
+stratified sampling and sequestered datasets for independent validation, potentially accelerating the regulatory process and the rapid translation of discoveries and developments to clinical practice. These resources, methods, and tools are described below and can be found at midrc.org, with code at MIDRC’s GitHub. 
+MIDRC aims to have a major impact in developing, disseminating, and implementing 
+innovative interventions to reduce mathematical bias in artificial intelligence (AI) algorithms for medical imaging decision making as well as in discovery of health disparities in the community. A major concern of machine learning in health care is the potential for mathematical bias due to imbalances in collected datasets (i.e., differing prevalence) such that they do not represent the distribution of patients.  Imbalanced data could result in erroneous output from the trained algorithm’s results, with regard to various attributes such as image acquisition scanner, gender, disease state, or other 
+hidden or observable attributes.  Thus, MIDRC is assessing the distributions of cases 
+collected relative to the US population and mitigating potential prevalence imbalances through pro-active data acquisition.  MIDRC will also develop unbiased task-based methods to select datasets for training or testing ML algorithms for a particular population and clinical question.  
+MIDRC’s goals include quantitative assessment of the representativeness of imaging 
+data within MIDRC.  MIDRC is (1) establishing fairness metrics and best practices to mitigate mathematical bias in AI development, (2) developing algorithmic interventions 
+to detect and reduce mathematical bias in designing and independently testing AI 
+algorithms, (3) investigating de-biased AI algorithms at scale to understand root causes of health disparities, and (4) investigating the clinical impact of our proposed AI interventions in clinical decision making with medical imaging. 
+To date, MIDRC has ingested over 500,000 imaging studies from over 14 medical 
+institutions across the nation , and has investigators from almost 1,000 collaborating 
+institutions.  Since MIDRC is run by representatives from the three medical imaging/physics societies (RSNA, ACR, AAPM), many see contributing (i.e., donating) 
+their imaging studies as a means to contribute for the common good.  In addition, for 
+rare diseases, such pooling of imaging studies from a vast number of sites is crucial in 
+
+
+4 order to accumulate sufficient number of cases for AI development.   MIDRC continues 
+to regularly assess the representativeness of its data and proactively contact different 
+medical institutions, including AMC, costal, rural, primary, secondary, and tertiary hospitals.  
+In addition, advances are needed in explainability of AI output for the end user and 
+assurance/repeatability of AI model outputs, including technical and safety standards. 
+Ethics has to be a key tenet of medical imaging AI, and one aspect of both ethics and 
+regulation is privacy.  Even de-identified data need to carefully maintained to ensure re-identification does not occur. Tools and technology for de-identification of records (EHR, medical images, etc) and PPRL for data linkage (with and without temporal aspects), across repositories and health services are needed, including privacy preserving technologies, from federation to homomorphic encryption. Thus, programs focused on 
+the privacy and security of AI data are crucial. In addition, security throughout the 
+lifecycle of AI system development and deployment are critical to guard against AI model attacks, including jail-break attempts for data leakage, and targeted and untargeted adversarial attacks. 
+MIDRC stands now as an open marketplace where AI Investigators can input desired 
+attributes based on the AI clinical task and intended population, and subsequently, conduct cohort building along with downloading or indexing available imaging studies. 
+Such a marketplace lowers the barriers to conducting AI research & development , 
+which requires large curated, de-identified, reusable datasets.   In addition, MIDRC is 
+providing annotations and labels on the medical imaging studies as necessary reference standards for AI training, validation, and testing.   The various needs for 
+medical imaging AI hold true also for radiology/ medical reports, digital pathology, and other clinical lab tests. 
+To continue its contribution to America’s leadership in AI, MIDRC is proactively 
+establishing means for sustainability with an eye towards supporting entrepreneurial efforts.  MIDRC is leveraging the vibrant US startup culture to further the MIDRC 
+marketplace foundation by connecting with medical institutions that possess (i) business 
+and economic expertise, (ii) large datasets of medical imaging studies, digital pathology images, and (iii) surgical videos as part of our ARPA-H INDEX drive. Access to data is often a barrier limiting the number of small companies working in this space.  MIDRC lowers the barrier of access by providing large troves of data for developers, and through a tiered access approach, will level the playing field for all to contribute novel ideas, algorithms, and other solutions to maintaining America’s leadership in AI.  
+
+
+5 To further support commercial use and the AI-startup ecosystem, MIDRC has gone 
+beyond its own repository, and created an indexing service called Biomedical Imaging Hub ( BIH, imaging-hub.data -commons.org), currently operating as an early “Google for 
+medical images”, where AI-developers can quickly search across multiple indexed 
+repositories to find where data that can address their needs can be found. The BIH 
+today indexes one controlled access, one private, and three open-source repositories. 
+Much like Google, BIH does not contain the medical images themselves, but only the metadata, including details of governance and access restrictions. This platform can grow to index all modern medical imaging data platforms and even evolve to a marketplace where image providers and data consumers can perform transactions.  It is important to note that technology is not the main limitation of the scaling of the platform. With more and more separate datasets, the number of  different governance models 
+(including accepted use) increases , thus, making interoperability and data use more 
+complicated, expensive, and delayed.  Thus, some degree of standardization on 
+acceptable use of data, and a one -stop shop for data access wit h an organized and 
+shared governance would be greatly beneficial. 
+Another unique aspect of MIDRC is that, from the beginning, 20% of the imaging 
+studies that it collects are sequestered by patient.  These sequestered cases are being collected for use in evaluating AI algorithms with real-world data in order to expedite 
+translation through the FDA and to clinical practice.  This goal also supports the 
+platform sustainability as companies will pay to have their AI tested on representative, real-world datasets that match their expected clinical question, clinical claim, and intended population using appropriate performance metrics – processes recommend by the FDA  – to obtain real-world performance quantification of AI-algorithms.  Multiple 
+MIDRC team members have, in their past, taken either their AI products or other commercial products through the process of regulatory approval and thus , have the 
+expertise and experience to support companies. Such pre-competitive “Sandboxes” for 
+academic, small/medium enterprises, to major businesses will enable enterprise-level 
+evaluation of healthcare software and workflows in safe and effective ways as well as future integration with human users at all levels.  Such organized testing can also be 
+extended to post-market surveillance of AI products across the country to protect Americans undergoing AI-driven medical procedures.  Post-market surveillance of AI 
+products is crucial to detect performance degradation due to changing populations, data drifts, etc.  All these checks and balances of medical AI will lead to safer products, better reimbursement, improved workflow, and less liabilities – that is, leading to both a better life for Americans and an enhanced leadership role for America in AI. 
+MIDRC activities include, and will expand, experts from various fields including 
+radiologists, oncologists, other clinicians, medical physicists, imaging scientists, 
+
+
+6 computer scientists, statisticians, epidemiologists, economists, technicians, nurses, 
+informaticians, educators, patient advocates, and others.  Increasing such MIDRC-like 
+efforts will grow the American workforce trained and exposed to the new AI-paradigm, bring in more talent, aid in patient education, and enable cross disciplinary barriers to 
+accomplish the next AI challenge. 
+Existing commercial AI tools are already being extensively used today by patients that 
+use AI to understand medical jargon, look for potential diagnosis based on symptoms and observations, nutrition advice, etc, in ways that may or may not be safe. Patient education is essential to ensure that an informed population can (i) extract the most value from the AI-tools and (ii) that hallucinations, mistakes, or miscommunications do not harm patients. The US government is already addressing some of these crucial needs through, e.g., NAIRR, NIH programs such as  Bridge2AI and MIDRC, and ARPA-H programs of PRECISE-AI, CARE, and INDEX. 
+In order to maintain America’s leadership in AI and expedite ideas in medical imaging 
+AI, we believe the US government should 1) continue to invest in infrastructures that support the collection, aggregation, harmonization, and sharing of large, widely 
+available, AI-ready, commercially-licensable, datasets; 2) support research and development (across academia, government, and industry) through pre-competitive environments linking data, expertise, and computational infrastructure; 3) lead efforts in capacity building, workforce training, and public (and patient) education; 4) accelerate 
+safe translation of AI-algorithms from academic and industrial to clinical practice by 
+advancing efforts to connect data creators and data consumers via initiatives like 
+marketplaces, to link  experts across domains, and to enable data sequestration for 
+algorithm validation that expedite the regulatory process. Together, these and other efforts will contribute to continued US leadership in clinical and medical imaging AI, and accelerate the enormous impact of these technologies in improving the health of the American public.  
+
+

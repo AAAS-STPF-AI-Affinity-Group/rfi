@@ -1,0 +1,526 @@
+Attention To: Faisal D’Souza  
+Networking and Information Technology Research and Development  
+(NITRD) National Coordination Office (NCO), National Science Foundation  
+Snowflake Inc. (“Snowflake”) Official Response To: 
+Request for Information on the Development of an Artificial Intelligence (AI)  
+Action Plan 
+As the United States embarks on the development of a new National AI Action Plan, Snowflake 
+welcomes the opportunity to contribute and collaborate. AI will drive economic growth, benefit 
+the workforce, and improve the delivery of services across the commercial and public sectors. 
+The potential impact of artificial intelligence and data is promising for economic growth and 
+delivery across all industries. 
+The barriers to realizing this growth and ensuring lasting and safe adoption should not be 
+underestimated. Balancing efficiency, performance, regulation, investments, privacy, and 
+security are just a few of the areas to consider. Snowflake stands by the goals of growth and 
+efficiency - these two areas have differentiated us in our customers’ minds and decisions. 
+Our position as a global platform leader provides us with a detailed understanding of how 
+thousands of enterprises are leveraging AI. This submission offers select insights for the 
+development of the Action Plan. In a decade we have become the leading force on mobilizing 
+the world’s data- this is our charge. We support the goal of ensuring American leadership in AI. 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government 
+in developing the AI Action Plan and associated documents without attribution.  
+We appreciate the opportunity to respond to this RFI. We welcome the opportunity to speak 
+further in upcoming sessions. Should you have any questions or wish to learn more, please 
+reach out to Matthew Rose at  1 
+1Snowflake submits this paper for informational purposes only and with the understanding that it will not create any legally 
+binding obligations on either party, and that binding obligations will arise only upon execution of definitive agreements that are 
+mutually acceptable to both parties. 
+
+
+US ARTIFICIAL INTELLIGENCE ACTION PLAN 
+Snowflake recognizes the importance of a coherent approach to AI (Artificial Intelligence) in 
+order to improve economic growth, service interaction and the future of work. The United 
+States’ AI Action Plan should carefully choose initiatives that will create leverage, accelerate 
+progress, and position us as the global leader in this race.  
+We continue to observe the importance of laying the foundations that enable AI. To that end, 
+we highly recommend the United States include two critical areas in its Action Plan:  
+●First, the United States should take lead in the development of secure, efficient,
+and performant AI Data Clouds.
+●Second, the United States should enable AI data collaboration.
+The United States’ AI Data Clouds  
+Governments are using AI to improve their services, products, workforce, and operations. 
+Organizations of all sizes who have a scalable data foundation are able to adopt and scale AI: 
+those who do not are falling behind. As a nation, the United States is positioned for expansion 
+given multiple advantages, such as the availability of cloud infrastructure, computing, 
+enterprise technologies, and policy. 
+As AI becomes the foundation of modern business strategy, one truth has become abundantly 
+clear - enterprise AI cannot succeed without a robust data strategy. A data strategy isolated in 
+silos is equally ineffective; siloed and incorrect data is costing companies up to 30% of their 
+annual revenue.2 Additionally, organizations are failing to use up to 97% of their data, leaving 
+vast opportunities for innovation and growth on the table. 
+Organizations are increasingly recognizing the need for unified data platforms, but not all 
+organizations can or want to centralize their data and governance. This is where 
+interoperability becomes crucial; ensuring responsible data access and human oversi ght, 
+powering everything from day -to-day decisions to advanced AI applications. Creating useful AI 
+applications will not be achieved without solving the data silo issue.  
+The United States Government (“US Government”) set supportive national policy with items 
+like the Foundations for the Evidence- Based Policymaking Act, OPEN Government Data Act, 
+Paperwork Reduction Act, and Removing Barriers to American Leadership in Artifi cial 
+Intelligence (AI) Executive Order. The infrastructure has generally been normalized with 
+advancements like hybrid public clouds. Investments from hyperscalers like Google, Amazon 
+Web Services and Microsoft have made cloud services available across the United States and 
+key international markets. In parallel to this, the compute required to train and provide 
+2IDC Market Research and Gartner.  
+
+
+inference for AI is also improving. These improvements are being realized and go beyond chip 
+advancements. Foundational models are becoming more and more available - enterprises are 
+now training industry and domain specific models with their own proprietary  data. 
+The Data Layer remains a key lagging component; In stark contrast to other necessary 
+foundational components, the development of a normalized data layer is absent. Moreover, the 
+US Government is lagging behind other countries. Just within the Five Eyes (FV EY) nations, 
+the UK, Canada, and Australia have set national goals and initiatives to establish national, 
+industry, research, or department -equivalent data clouds.3 For example, New Zealand is 
+outpacing others in government and is sharing data seamlessly across ministries. Retail, 
+financial services, health and life sciences, and marketing are emerging industries where 
+corporate and enterprise organizations are evolving beyond data collaboration for AI 
+development. Research and academic institutions are often seeking to expand efficient 
+partnerships for data access; access to government data is especially useful and important.  
+These findings are documented across the whole- of-government, Department, and 
+programmatic levels. US Government organizations like the Government Accountability Office, 
+Chief Data Officer Council, and Congress are in; the Federal CDO council reiterated fi ndings 
+that data discovery, inventory, collaboration and use remains a major challenge. 4 
+The AI Action Plan should include initiatives to address this gap and formulate AI Data Clouds. 
+The following initiatives could achieve progress towards this goal:  
+●Informed Federated Learning Infrastructure:  The US Government must rapidly
+develop an industry -informed infrastructure to support federated learning. Some will
+indubitably involve the government operationally while others need balanced
+government regulation. Within six months, it should convene a panel of industry leaders
+to define use cases, address barriers, and guide the implementation of multi -cloud
+solutions and policy for secure AI model training across sectors.
+●Rapid AI Development:  To accelerate AI development, it is important to adopt a
+dynamic funding approach. This involves initially supporting a broad range of models,
+followed by rigorous evaluation to identify high- potential technologies. The selection
+process for the best -in-breed will ensure that the remaining resources are strategically
+invested in scaling impactful solutions.
+3https://www.canada.ca/en/government/system/digital -government/digital -government -innovations/responsible-
+use-ai/gc -ai-strategy -overview.html  https://ised -isde.canad a.ca/site/advisory -council -artificial -intelligence/en  
+https://webarchive.nla.gov.au/awa/20220816053410/https://www.industry.gov.au/data- and-publications/australias -
+artificial -intelligence- action -plan 
+https://www.gov.uk/government/publications/ai -opportunities -action- plan/ai -opportunities -action -plan 
+4https://resources.data.gov/assets/documents/2021_DSWG_Recommendations_and_Findings_508.pdf  
+
+
+●Secure Data Cloud for Model Research:  Several US adversaries and threat actors
+now publish their own foundational models, making AI applications available to US
+citizens with nefarious intent. A secure data cloud that allows the US Government to
+review these models and applications will be important. Similar sandboxes exist and
+have been proven invaluable in domains like cybersecurity.
+●National AI Data Clouds:  The US Government should develop federated National AI
+Data Clouds (Environments) that will facilitate collaboration, resource sharing, and data
+access. These National AI Data Clouds should be connected through innovative data
+sharing capabilities and concepts such as data clean rooms. This will enable secure
+cross sectoral data sharing and analysis while protecting sensitive information. Data
+clouds for research, transportation, education, testing and evaluation, and national
+secur ity are well documented domains of need. A unified approach of federated data
+clouds will set the US apart from on- going international sovereign equivalents.
+Expanding AI Data Collaboration 
+Data is the fuel  that is powering the age of intelligence- without data, there is no AI. Useful AI 
+applications require access to high- quality data: it follows that since AI represents 
+unprecedented opportunity, data has become a precious resource. Real historical data, t he 
+likes of which the US Government has locked away on its many disparate networks, is more 
+valuable than gold. Unifying this data for US Government employee use by marrying it with 
+publicly available data will allow all key personnel to make better, faster decisions that serve 
+US interests.  
+We have seen that data is not only an asset, but it is a reusable one. This central asset is 
+driving growth and innovation: it improves services across health, commercial systems, and 
+government. Data assets are also being referenced in companies that seek  government loans. 
+The US Government is not alone in this recognition- the United Kingdom, United Arab 
+Emirates, China, Canada, Australia, and several others describe how data will drive their 
+economic growth.5 
+We maintain one of the largest data marketplaces in the world. When data is categorized by 
+industry segment, Snowflake’s customers have shown that public sector data has an outsized 
+impact on business and the development of AI. An anecdote showing this is the weather data 
+market, which was projected to reach $635M in 2022 and is expected to grow by 9% resulting 
+in a $1.5B market by 2029. The United Kingdom is one of several countries who have realized 
+this and are moving towards advantage. The UK MET weather office has expanded in their 
+data sharing, monetization and development from data to data products. Categories of 
+valuable US Government data sets include non- personally identifiable sets and include 
+categories like weather, transportation, government contracts, and policies. Many data 
+5World Governments Summit 2025- Report & Country AI Strategies from listed Countries  
+
+
+providers begin to share their data for cost recoverability - ensuring they can house the 
+valuable and growing asset.  
+ 
+The US Government provided publicly available data repositories, such as Data.gov & Census 
+Opportunity Project, that rely on data sharing methodologies like APIs. These methods are 
+antiquated. APIs do provide automated access to the underlying data. They offer the ability for 
+data replication and usage based off of the provided format and schema. The data providers 
+are unable to gather telemetry on who is using the data; the lack of data telemetry is in part to 
+data aggregators who are offering curation services in a hub and spoke model. Every time a 
+data consumer copies the data, they must pay for the storage and subsequent curation for 
+their use. Moreover, the data is then no longer current and canonical. For example: the FDIC’s 
+Bankfind API is especially useful to the financial services industry, but this data set must be 
+curated with other government data sets in a common join table for AI and other applications. 
+The US Government is unable to determine the true value of this to the market and specific 
+consumers because of the old methodology.  
+ 
+Newer methodologies of data sharing provide access and do not replicate the data, thus 
+eliminating the creation of silos. Users can now access data and allow for seamless joins 
+regardless of the infrastructure such as On- Premise, AWS, Azure, GCP. This meth od will 
+reduce the cost and improve access needed for AI development. It also addresses bi -partisan 
+legislation cutting down on egress costs by eliminating the costs altogether. Moreover, it 
+addresses the national approach to cybersecurity as data is not duplicated- it avoids another 
+attack surface for bad actors.  
+ 
+AI Development and value requires diversified data sources. Probabilistic models, automated 
+decisions are influencing citizens' lives increasingly and the quality and accuracy of data is 
+paramount. AI enabled decisions need as much input as possible. Getting a second opinion is 
+common practice for humans - increasing data sources is the equivalent for AI.  
+ 
+Data diversity is one means of mitigating the risk of AI models capturing internal bias and 
+“hallucinating" or, plainly speaking, making mistakes. The following approaches apply:  
+● Break down internal silos to access cross- functional sources: Historically, data 
+was isolated within applications or systems distributed across an organization. Modern 
+data architectures must support discovery and access across organizational 
+boundaries.  
+● Transform unstructured data to expand available internal data: To ensure that all 
+data is made available, organizations must adopt tools to transform unstructured data 
+into usable formats. Documents, emails, images, videos and voice recordings provide 
+valuable input for training.  
+● Collaborate with partners to access different data sources: Data collaboration 
+enables organizations to expand access to data across their business ecosystem.  
+
+
+●Acquire and access third- party external data sources:  There is a growing realization
+that AI models capture historical biases. Expanding data sources can provide a bigger
+picture, reducing blind spots.
+●Create synthetic data: Another approach is to create synthetic data to balance
+representation. If bias is expected or observed, new data can be created to increase
+under -represented characteristics.
+The AI Action Plan should include initiatives to expand data collaboration, and thus AI 
+development. The following initiatives could achieve progress towards this goal:  
+●High Impact Datasets: The US Government should identify at least 50 high- impact
+data sets that will make an outsized impact on AI Development and make them
+available to researchers and innovators. The data should be canonical and made
+available through a method that supports a myriad of infrastructures in order to reduce
+the cost burden.
+●US Sovereign Wealth Fund & Data Assets: The development of the Sovereign
+Wealth Fund offers an opportunity for the US to create revenue from government data
+assets. The US should invest in its own data assets and remunerate the use and
+access. This will, at a minimum, recover the cost of storage and maintaining them;
+additional funding can be used to improve the data assets to make them more attractive
+for business.
+●Data Discoverability Initiative:  AI developers currently spend an inordinate amount of
+time and money finding, inspecting, and subsequently curating data sets from
+APIs/other sources to train models and develop AI applications. Improvements on data
+sets routinely do not make it back to the owner based on this model. The AI Action Plan
+should include an initiative for AI developers - both private, public, and academic - to
+locate data sets and inspect and inform data owners.
+●International Data Sharing Initiative: The US Government should identify and create
+an international data sharing arrangement to hasten the development of AI. The
+international data sharing initiative would go beyond previous policy agreements and
+would allow access for developers to research.
+
+
+AI ACTION PLAN INTEREST AREAS 
+Hardware and Chips  
+The availability of flexible and efficient computing environment(s) for organizations is crucial to 
+any AI Action Plan. In the near term, we believe the availability of chips and hardware for some 
+will be limited. In part, this is why Snowflake makes compute available to customers of all types 
+through cloud service providers. A multicloud approach allows for access to compute 
+resources where they are needed. 
+The ideal architecture is suited to minimize latency and maximize performance, ensuring that 
+organizations can quickly and easily access the computing resources required to access and 
+control its data. The AI Action Plan should consider approaches that abstract the 
+hardware/chip layer. When abstraction is created, users can route their work to the optimal 
+location. Methods that tie workloads to hardware should be avoided because they are 
+inefficient and lack flexibility.  
+Data Centers 
+The hardware landscape supporting AI is rapidly changing: the accelerating growth of data 
+centers is driven by the increasing importance of data in economic growth.  This growth varies 
+in deployment models, including sovereign clouds to public clouds. Snowflake’s expansion is 
+partially realized through US bilateral and multilateral efforts. The goal should be to unlock the 
+data regardless of its location- this will be required for useful AI applications. To achieve this, 
+an AI -powered data cloud must be scalable to support various workloads across different 
+deployment methods, including Sovereign clouds , Public clouds , Hybrid environments, and 
+Multicloud deployments.  
+An AI data cloud that has pervasive availability across all clouds is critical because it allows 
+workloads to be shifted where the hardware is best and/or available. The tradespace between 
+this concept and current state is time and money for things like migrations or network 
+connectivity. Organizations should have the choice to run their workloads in the cloud provider, 
+physical location, and isolation they need and prefer. Therefore, solutions that allow for 
+flexibility in which data centers are used, how they are interconnected, and the ease of change 
+to meet emerging needs will be more advantageous. 
+Energy Consumption and Efficiency  
+Energy consumption and efficiency are critically important to the success of an AI Action Plan. 
+Driving efficiency is our company’s north star, and we believe that this north star should be 
+prioritized and incentivized within the AI Action Plan. 
+We consider efficiency across all aspects of AI; inefficiencies will drive increased energy 
+consumption, maintenance, and cost. The infrastructure and services that will enable AI 
+
+
+development is varied, but we have found solutions that offer a fully managed, multi -tenant 
+solution are uniquely positioned for efficiency. This model allows us to share resources 
+(including GPUs) between multiple users at a fine- grained level, maximizing the efficiency of 
+resource utilization and consumption. Charging organizations and users based on their 
+consumption encourages them to use the most efficient, and therefore lowest cost, algorithms 
+and methods.  It also correlates with the value they receiv e from the system.  
+Finally, a managed service model is unique when coupled with automatic upgrades to the most 
+efficient hardware and data centers. As an  example, we have migrated customers from x86 
+chips to ARM  chips seamlessly, receiving a significant boost to efficiency without customers 
+having to make any decisions or change any of their code.  
+Model Development  
+Model Development is the epicenter of AI utilization: without a consistent method of refining the 
+data, enhancements and insights stall. The AI Action Plan should support deployments that 
+allow for multilevel modeling (MLM) in an efficient manner. One example of this would be users 
+having the capability to engineer and preprocess ideal functions, allowing for accelerated 
+training of patterns , which  accelerates AI development.  
+Open Source Development  
+Open source development offers several benefits, such as  transparency and community 
+collaboration. In parallel, open source development comes with certain downsides that must be 
+weighed against the benefits. These include areas like security vulnerabilities, reliability on 
+community support, and compatibility. In contrast, proprietary models and development tools 
+offer other different benefits and challenges. Broad development and growth will require 
+emerging organizations, and some will not have the ability to negotiate for proprietary access. 
+Based on these factors, we believe that a structured approach to open source and proprietary 
+development should be used for the AI Action Plan. 
+The US Government should carefully consider the areas that are inappropriate for open source 
+development, such as unique national security use cases. Snowflake is aware that there is no 
+broad consensus on whether open sourcing AI development will be helpful or harmful vis -a-vis 
+the United States national interests. A US Government assessment in this area in collaboration 
+with global technology firms could be beneficial. 
+We have developed a method by which open source models can be hosted while still 
+protecting data. Methods such as copying the open source models and hosting them in a data 
+cloud that provides data protection are viable options in this space. 
+
+
+Application and Use (either in the private sector or by government)  
+Data remaining stagnant without applying it to business applications and government programs 
+is inefficient. Value is optimized when AI applications use the data that is most appropriate and 
+current to their use case. Data access must be secure and controlled by the data owner. 
+Platforms can offer unique capabilities that enable AI applications by providing a unified, 
+scalable, and secure environment. This environment is used for data processing, storage, and 
+AI model development, allowing users to build and deploy AI applications directly on their data 
+without moving it. 
+Explainability and Assurance of AI Model Outputs  
+Users should be able to understand both the outputs and a model’s behavior within the AI 
+infrastructure that they are implementing. Based on this, our approach to AI explainability is 
+designed to help users understand and explain their model's behavior by computing and 
+analyzing data values. The goal is to improve model development by identifying issues and 
+refinement capabilities. Providing detailed information about AI systems, including data 
+sources and algorithms, helps provide transparency in these systems and how they are utilized 
+to create the necessary outputs. 
+Cybersecurity  
+Applying artificial intelligence in a cybersecurity context allows organizations to strengthen their 
+security posture with sophisticated solutions for identifying vulnerabilities, detecting and 
+mitigating potential attacks, and enhancing incident response.  Machine learning techniques 
+and AI algorithms can help organizations successfully counter increasingly sophisticated and 
+frequent cyber threats. Adaptability along with the ability to process and analyze data 
+concurrently is what makes AI -enabled cybersecurity solutions so powerful. 
+This adaptability comes in many forms, including the below:  
+●Trained on the latest security intelligence, these tools can continuously adapt and
+evolve to counter new types of threats.
+●Self-learning systems can learn normal patterns of user behavior and detect anomalies
+and variations that may indicate potential insider threats or account compromises.
+●AI algorithms become more effective over time as they operate within a specific
+business environment.
+We have aggressively invested in building a world class and differentiated data driven Security 
+Operations Program with a focus on Threat Detection, Threat Intelligence, Incident Response, 
+and Offensive Security. We proactively monitor for active threats to Snowflake systems, data, 
+users, IP, and valued partners. 
+
+
+Regulation and Governance  
+Our stance on regulation and governance is clear: organizations and users retain ownership of 
+their data. This stance should be supported and reinforced by the AI Action Plan.  
+To support this, we provide tooling that enables easy access to data, while also implementing 
+object -based security controls to ensure compliance with relevant regulations. For enhanced 
+security, g overnance frameworks with object -based controls are incorporated. 
+The solutions used by Snowflake are designed to address key governance elements, 
+including:  
+●Compliance: meeting regulatory requirements
+●Security:  protecting data from unauthorized access
+●Privacy:  safeguarding sensitive information
+●Interoperability:  enabling seamless data exchange
+●Accessibility:  providing secure and controlled access to data
+These elements were built in close collaboration with organizations across numerous 
+industries and can be considered for the AI Action Plan & initiatives.  
+Technical and Safety Standards 
+International standards from bodies like International Organization for Standardization (ISO) 
+and National Institute of Standards & Technology (NIST) provide solid frameworks for trusted 
+and secure AI. However, most standards bodies are lagging in their adoption of advancing 
+technological advancements and applicability on new frameworks. A one-size- fits all approach 
+is potentially creating less secure and inefficient responses and audits, while also restricting 
+innovation. The field of AI is advancing rapidly and standards bodies should consider a risk -
+based approach and collaboration process for AI developers. 
+Education and Workforce 
+To achieve lasting economic growth, it is crucial to work with groups in the industry to build AI 
+literacy and provide relevant skills for US citizens. A multisectoral partnership approach with 
+educational institutions, industries, and the government to pr omote hands -on skills and 
+learning should be considered. Solutions that assist users, regardless of their technical 
+background or coding experience, should be identified and promoted. Snowflake is investing in 
+and advocating for more education on AI and data.6 Our Million Minds global program aims to 
+train and certify 1 million students and professionals in high- growth and emerging markets by 
+2029 on the Snowflake AI Data Cloud, thus arming them with the knowledge and resources to 
+pursue and expand careers in the technology industry. Snowflake welcomes the White 
+House’s partnership to make this available in the areas of greatest need or greatest impact.  
+6https://www.snowflake.com/en/news/press -releases/snowflake -launches -one-million -minds -one-platform -
+program -investing -20-million -toward -ai-upskilling/  
+
+
+Innovation and Competition  
+The US Government should consider adopting initiatives and solutions that are operational in 
+like-scale industries. Fast moving industries and first -mover enterprises are driven by 
+competition, and too often the government procurement processes reinforce past contract 
+performance over technological performance. “Bake- off” arrangements could be expanded: 
+often innovative projects at one agency are not shared across other agencies with similar 
+workloads. Additionally, the US Government should consider technologies and solutions that 
+offer continuous improvements - such as fully managed offerings - instead of service and 
+SKU/feature based methodologies.  
+ 
+It is important to work with technologies that provide a seamless, always up- to-date experience 
+for users while also delivering ever -increasing value through rapid development and continual 
+innovation. Organizations should deploy new releases regularly with no downtime or disruption 
+of service, ensuring the government is running on the most -recent release with access to the 
+latest features.  
+ 
+Snowflake embraces being a leader in the industry and understands that competition is a 
+component to driving innovation within the market. We continue to strive for excellence in a 
+way that directly impacts our customers with a consistent and efficient sol ution.  
+ 
+Intellectual Property  
+The US Government should carefully consider intellectual property arrangements that do not 
+limit growth and investment. Restrictive intellectual property clauses in acquisitions create 
+increased costs for the government, while limiting the pool of solutions. Additionally, specific 
+domains like national security or classified workloads may require unique arrangements.  
+ 
+We acknowledge that both Intellectual Property and Privacy laws and policies are not settled in 
+the context of content for AI/ML and AI data collaboration. Our data marketplace- enabled by 
+cross- sectoral organizations data sharing for their benefit on thei r terms - highlights the growing 
+desire for balanced approaches that include new methods like data clean rooms.  
+ 
+Snowflake clearly outlines its policies surrounding Intellectual Property within its Terms of 
+Service and its AI Terms of Service.7 Ultimately our customers retain their rights to their data 
+as well as any modifications made while utilizing Snowflake. This is particularly important for AI 
+usage, and is highly recommended for any AI tools the government wishes to implement, as it 
+ensur es that the primary usage of the AI tool does not affect the government’s control or 
+ownership of its data. Notably, Snowflake commits that it will not use customer data or 
+7https://www.snowflake.com/en/legal/terms -of-service/ and https://www.snowflake.com/en/legal/optional -
+offerings/offering- specific -terms/ai -features/ai -terms/   
+ 
+
+
+customer usage data (in each case, including any AI inputs or outputs) to train any model 
+made available for use by other parties. 
+Procurement  
+The US Government remains a sizable buyer and can use its position to further the 
+development of AI. The procurement of AI, applications and related services within the 
+government is challenging. The challenges associated with procurement are well document ed, 
+with policies that create a “customer of one” within the government being a direct example. 
+Procurement that allows for scalable performance, lowered or shared operations and 
+maintenance, and support multiple deployment architectures are ideal. Snowflake has 
+observed that several Software as a Service providers are moving towards a consumption 
+model. Consumption based pricing is more applicable for AI solutions than legacy methods of 
+government procurement. The US Government should incentive performance and cost cutting 
+improvements on procured solutions. To date, it is noticeably uncommon that technology 
+improvements are prevented or disincentivized by government buyers. 
+International Collaboration 
+International collaboration is required to achieve the promise of growth, and will be needed 
+beyond research and development. Snowflake’s platform was primarily designed for data 
+collaboration, and our unique design allows Snowflake the ability to share data across 
+Regions, allowing for international collaboration via controlled and secure methods. 
+International cooperation and collaboration can be enabled by new technologies where data 
+residency and sovereignty can be achieved. The AI Action Plan should ensure initiatives can 
+build, share, and connect applications AI models both internally and externally. 
+The US Government’s AI Action Plan should not follow restrictive regulatory models. 
+Organizations will unlock growth when they are able to use their data in new and unique ways. 
+International initiatives like the EU Data Governance Act (DGA) are regulatory  models where 
+“novel data intermediaries” are introduced. The DGA is a cross -sectoral instrument that aims to 
+regulate the reuse of publicly/held, protected data, by both boosting data sharing through the 
+regulation of novel data intermediaries and encouraging the sharing of data for altruistic 
+purposes. Both personal and non- personal data are in scope of the DGA, and wherever 
+personal data is concerned, the General Data Protection Regulation (GDPR) applies. In 
+addition to the GDPR, inbuilt safeguards will increase trust in data sharing and reuse, a 
+prerequisite to making more data available on the market.8 
+With all of this in mind, the introduction of "novel data intermediaries" is misguided and 
+unnecessary. A modern data architecture would not require an additional layer of technology or 
+8https://digital -strategy.ec.europa.eu/en/policies/data- governance -act-explained 
+
+
+an additional party to the data sharing: a data architecture should enable real -time direct 
+access to data sources, secured through robust access and usage controls.  
+Export Controls 
+AI and infrastructure providers should comply with U.S. and international trade laws, which 
+control where the company can send or receive its products and services, along with verifying 
+to whom it can sell them. Technologies that allow for data residency to remain within regulated 
+environments is critical to ensuring the needed measures are met. 
+The AI Action Plan should consider a balanced approach that weighs issues like national 
+security and international economic growth. We recognize that our platform architecture and 
+approach offers unique flexibility to adopt new controls. 
+
+
+ABOUT SNOWFLAKE 
+Snowflake’s founders started from scratch and built a solution that would harness the immense 
+power available in the public cloud. They created the Data Cloud- a global network where 
+thousands of organizations mobilize data with near -unlimited scale, concurrency, and 
+performance. Inside the Data Cloud, organizations unite their siloed data, easily discover and 
+securely share governed data, and execute diverse analytic workloads. Wherever data or 
+users live, Snowflake delivers a single and seamless experience across multiple public clouds. 
+With the addition of Cortex AI to our solution suite, Snowflake is now able to empower 
+customers to make better decisions, faster. Snowflake’s platform is the engine that powers and 
+provides access to this AI Data Cloud, creating a solution for applications, collaboration, 
+cybersecurity, data engineering, data lake, data science, data warehousing, and unistore. 
+Snowflake’s vision is a world with unlimited access to governed data, so every organization 
+can tackle the challenges and opportunities of today and reveal the possibilities of tomorrow.  
+Globally, Snowflake delivers the most performant data platform to over 11,000 organizations, 
+powering 6.2 Billion average daily queries, with an innovative approach to delivering to 
+governments and customers.  
+Snowflake continues to demonstrate strong financial performance and market presence 
+including its most recent fiscal year (FY 2025). Snowflake reported a total revenue of $986.8 
+million for the fourth quarter of FY 2025, reflecting a 27% year -over-year growth and full year 
+revenue of $3.5B, reflecting a growth of 29.2% compared to the previous fiscal year. With a 
+growing number of Forbes Global 2000 customers (745 as of fiscal 2025), Snowflake has 
+solidified its reputation as a trusted partner for large ent erprises. 9 
+Snowflake is dedicated to serving regulated industries and environments. We are continuously 
+expanding our portfolio of security and compliance certifications in cooperation with our 
+customers. To help US, federal, state, and local agencies meet security and compliance 
+standards, Snowflake’s platform has achieved StateRAMP High, FedRAMP Moderate, 
+FedRAMP High and Department of Defense Impact Level 4 (IL4) and is currently in the 
+process of obtaining the Impact Level 5 authorization. We support regulated wor kloads subject 
+to International Traffic in Arms Regulations, Criminal Justice Information Services, Internal 
+Revenue Service 1075, Family Education and Privacy Act, and Federal Acquisition Regulation 
+(FAR) and Defense FAR Supplement safeguarding requirements across certain of its U.S. 
+government -designated and commercial regions.  
+  
+9See Snowflake Investor Relations, available at investors.snowflake.com.  
+ 
+
+
+THE SNOWFLAKE  PLATFORM  
+The Snowflake AI Data Cloud Platform is a robust, fully featured solution to process data that 
+includes data warehousing, data lake, data engineering, data science and data sharing 
+capabilities. The robustness of the platform and our ability to consistently innovate is a result of 
+our architecture. Snowflake was founded in August 2012 as a cloud- native, SQL- compliant, 
+relational analytical database platform, delivered as a fully -managed software as a service 
+(SaaS). Snowflake founders recognized the challenges of legacy architectures and realized 
+that creating a better solution required rethinking how data platforms and database 
+architectures were built. 
+That’s why the Snowflake team decided to write every line of code anew in the core data 
+platform engine. By building an entirely new data platform and relational database 
+management system from the ground up, they could deliver a dynamic infrastructure wit h 
+instant, disruption- free scalability and performance at any cloud scale, all at a fraction of the 
+cost of traditional systems. Our approach is unique and is tailored for cloud and the integration 
+of AI.  
+Snowflake was built in the cloud, for the cloud, and offers virtually unlimited storage, and 
+compute. Snowflake is a massively parallel processing (MPP) database that is fully relational, 
+ACID- compliant, and processes standard SQL natively without translation or simulation. 
+The Snowflake AI and Data cloud platform can:  
+●Store any type of business data: Natively handles diverse types of data without
+requiring complex transformations before loading that data into the data platform.
+●Instantly scale for flexible performance and concurrency: Able to scale up and
+instantly scale down at any time without disruption. It can scale out to as many use
+cases as needed without disruption.
+●Manage services: The platform automatically handles management and infrastructure
+so that users can focus on getting value from their data instead of tuning infrastructure.
+●Fit seamlessly with existing skills and tools: Snowflake leverages industry -standard
+data types, open interfaces, and common languages to enable innovation and insights,
+without incurring technical debt or skills gaps.
+●Offer unparalleled intelligence, natively:  Snowflake offers AI -powered data driven
+insights, runs analytical workflows on unstructured data, develops agentic apps, and
+trains models using both structured and unstructured data — all with minimal operational
+overhead and end- to-end governance.
+
+

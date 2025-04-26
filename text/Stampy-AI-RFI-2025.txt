@@ -1,0 +1,84 @@
+From: Stampy"s AI Safety Info
+To: ostp-ai-rfi
+Subject: [External] AI Action Plan
+Date: Monday, March 17, 2025 9:19:30 AM
+CAUTION: This email originated from outside your organization. Exercise caution when opening
+attachments or clicking links, especially from unknown senders.
+Name of the organization filing this comment: Stampy, fiscally sponsored by Ashgro Inc .
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by thegovernment in developing the AI Action Plan and associated documents without attribution.
+ 
+We would like to submit several proposals for your consideration. First, a proposal forincreasing AI security: “Foom Liability”. That is, a liability for rapidly improving AI systemswhich pose a risk of human extinction. Second, a Robots-Took-Most-Jobs Insurance, todeal with advanced AI automating many jobs. Third, a proposal to aid AI innovation bymaking AI models open-weights once they are several years behind the frontier.
+  
+Section 1: Foom liability.  
+The body of this proposal was copied from Robin Hanson's essay on the topic. [1]
+"I instead prefer robust policies, ones we can expect to promote total welfare for a wide
+range of parameter values. We want policies that will give big benefits if foom risk is high,but impose low costs if foom risk is low. In that spirit, let me suggest as a compromise aparticular apparently-robust policy for dealing with AI foom risk.
+If you recall, the foom scenario requires an AI system that a) is tasked with improving itself.
+It finds a quite unusually lumpy innovation for that task that is a) secret b
+) huge c) improves
+well across a very wide scope of tasks, and d) continues to create rapid gains over many
+orders of magnitude of ability. By assumption, this AI then improves fast. It somehow e)
+become an agent with a f) wide scope of values and actions, g) its values (what best
+explains its choices) in effect change radically over this growth period, yet h) its
+owners/builders do not notice anything of concern, or act on such concerns, until this AIbecomes able to either hide its plans and actions well or to wrest control of itself from itsowners and resist opposition. After which it just keeps growing, and then acts on itsradically-changed values to kill us all.
+Given how specific is this description, it seems plausible that for every extreme scenario
+
+
+like this there are many more “near miss” scenarios which are similar, but which don’t reach
+such extreme ends. For example, where the AI tries but fails to hide its plans or actions,
+where it tries but fails to wrest control or prevent opposition, or where it does these thingsyet its abilities are not broad enough for it to cause existential damage. So if we gavesufficient liability incentives to AI owners to avoid near-miss scenarios, with the liabilityhigher for a closer miss, those incentives would also induce substantial efforts to avoid theworst-case scenarios.
+ 
+In liability law today, we hold familiar actions like car accidents to a negligence standard;you are liable if damage happens and you were not sufficiently careful. But for unfamiliaractions, where it seems harder to judge proper care levels, such as for using dynamite orhaving pet tigers, we hold people to a strict liability standard. As it is hard to judge properfoom care levels, it makes sense to use strict liability there.
+Also, if there is a big chance that a harm might happen yet not result in a liability penalty, it
+makes to add extra “punitive” damages, for extra discouragement. Finally, when harmsmight be larger than the wealth of responsible parties, it makes sense to require liabilityinsurance. That is, to make people at substantial risk of liability prove that they could paydamages if they were found liable.
+Thus I suggest that we consider imposing extra liability for certain AI-mediated harms,
+make that liability strict, and add punitive damages according to the formulas D=(M+H)*F^N. Here D is the damages owed, H is the harm suffered by victims, M>0,F>1 arefree parameters of this policy, and N is how many of the following eight conditionscontributed to causing harm in this case: self-improving, agentic, wide scope of tasks,intentional deception, negligent owner monitoring, values changing greatly, fighting itsowners for self-control, and stealing non-owner property.
+ 
+If we could agree that some sort of cautious policy like this seems prudent, then we couldjust argue over the particular values of M,F. [And we'd] want not much more than D to bepaid to those harmed, the rest to be paid to a much more diffuse recipient."
+Further reading: 
+1) Weil, Gabriel, Tort Law as a Tool for Mitigating Catastrophic Risk from Artificial
+Intelligence (January 13, 2024). Available at SSRN: https://ssrn.com/abstract=4694006
+ or
+http://dx.doi.org/10.2139/ssrn.4694006
+Section 2: Robots-Took-Most-Jobs-Insurance
+The body of this proposal was copied from Robin Hanson's essay on the topic. [2]
+"While far from obvious, it is plausible that someday machines may displace most all
+
+
+humans from their jobs. It is also not crazy to think that this might happen relatively
+suddenly, and without much warning. Which seems a pretty big problem, given that most
+people don’t own much more besides their ability to earn wages. Without some sort ofcharity or insurance, they might starve. Thus each of us seems well-advised to try to set upsome insurance re this risk, instead of just hoping to rely on charity.
+One needs to set up insurance well before problems are realized or revealed. Yet it can be
+hard to motivate people to insure against risks that seem too unlikely or remote in time.Which might make the current moment an ideal time to consider this. Many are nowworrying loudly about AI, saying that AI might soon take all the jobs, or worse. And yet I’mpretty sure that most investors see this risk as actually still pretty remote and unlikely.Maybe making now a great time to set this up.
+ 
+I say “insurance” but, as this risk is easily measured and widely shared, we wouldn’t needto use the usual insurance industry. Here is a simple plan:
+A) Carefully define the key event E of “automation suddenly takes most jobs”. Maybe
+“labor force participation rate falls from >35% to <10% in <10 years by date D”.
+B) Collect some diversified financial assets A likely to retain substantial value bothafter such an event, and also if that event never happens. Such as global stock,bond, and real estate index funds.
+C) Split these assets A into “A if E” and “A if not E”. This split can be done with norisk. We should always see prices satisfy p(A) = p(A if E) + p(A if not E).
+D) Sell “A if E” assets to workers. The more they buy, the better insured they are.They could buy these slowly over time, instead of all at once.
+E) Sell “A if not E” assets to any willing investors. Buyers of this are in effect sellingrobots-take-most-jobs insurance.
+F) When the event E happens, “A if E” assets turn into A assets, which can then besold off to pay for ex-worker living expenses. If E seems likely to happen soon, “A ifE” assets can also be sold then to pay for living expenses of early job losers.
+
+
+G) As date D approaches, workers switch to buying assets with later dates D’.
+H) If date D comes without E ever having happened, “A if not E” assets turn into A
+assets, giving their investors a higher return than if they’d just bought A.
+I) At all times the price ratios p(A if E)/p(A) for various dates D warn us all via aprobability distribution over time of when robots might take most jobs.
+And that’s it. If people vary in their tolerance for the risk of E, then there are gains from
+trade in having some people hold “A if E”, while others hold “A if not E”. And thus there isvalue to be released by splitting assets A into “A if E” and “A if not E”. Yes, regulations maynow stupidly prevent selling such split assets to workers; most of the work here may be tooverturn such regulations.
+Sure, there would be some work to do to advise workers of how well they could expect to
+live when holding how much of each kind of A asset. Workers should prefer global portfolioassets A, to insure against regional risks, and should consider the risk-return tradeoff redifferent kinds of assets A.
+But those are minor issues; the main priority is to get workers to hold such assets. Maybe
+tech firms could signal their concern about AI by buying such assets for their employees.And then maybe cities or regions could buy some on behalf of their citizens. (Note: due toregional risks, planning to tax some local citizens to support others can fail badly.)
+Note that whether this plan is a good idea doesn’t depend much on the chances or timing of
+machines taking most jobs. The lower are these chances, the cheaper is this insurance,making it still a wise precaution.
+ 
+Concretely, The cost of insuring against a 1% per year risk of workers losing a $30K USmedian wage job, is ~1% of that wage, or $300/yr."
+
+
+All e-mails to and from this account are for NITRD official use only and subject to certain disclosure
+requirements.If you have received this e-mail in error, we ask that you notify the sender and delete it immediately.
+
+

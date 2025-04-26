@@ -1,0 +1,113 @@
+Marc h 15, 2025 
+Faisal D ’Souza  
+Networking and Information Technology Research and Development National Coordination Office, 
+National Science Foundation 2415 Eisenhower Avenue Alexandria, VA 22314 
+Subject : Qualcomm Response to Request for Information (RFI) on the Development of an AI Action 
+Plan 
+Dear Mr. D’Souza,  
+Qualcomm  Incorporated1 (together with its subsidiaries, “Qualcomm”) appreciates the 
+opportunity to provide input2 to the National Science Foundation (NSF) and the White House Office 
+of Science and Technology Policy (OSTP) on the Request for Information regarding the Development of an Artificial Intelligence (AI) Action Plan.
+3 Qualcomm applauds the Trump 
+Administration’s  commitment to ensuring U.S.  leadership in AI technology and looks forward to 
+partnering with the administration to support policies that advance U.S. AI innovation.  
+Qualcomm  is a world leading wireless technology developer and chipset provider 
+headquartered in San Diego, California. As a leading supplier of wireless semiconductor chipsets for nearly four decades, Qualcomm chipsets are in billions of consumer devices (smartphones, tablets, laptops, and other wireless devices), as well as small cells, Wi -Fi access points, IoT devices and 
+automobiles. Qualcomm’s U.S. research and development  efforts have resulted in the invention of 
+many of the foundational technologies underpinning 3G, 4G, and 5G mobile technologies as well as high- performing  and energy-efficient computing supporting new innovations in on- device AI  
+capabilities . While Qualcomm is not currently in the data center business and does not train its own 
+large language models (LLMs), we provide a unique perspective by collaborating with most LLM 
+1 Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates the Qualcomm CDMA Technologies 
+(“QCT”) semiconductor business, which develops and supplies integrated circuits and system software based on 
+3G/4G/5G and other technologies for use in mobile devices, wireless networks, devices used in the Internet of Things, 
+broadband gateway equipment, consumer electronic devices, and automotive systems for telematics, connectivity, and digital cockpit (also known as infotainment). Qualcomm Incorporated includes Qualcomm’s licensing business,  
+Qualcomm Technology Licensing (“QTL”), and the vast majority of its patent portfolio.  
+2 This document is approved for public dissemination. The document contains no business -proprietary or confidential 
+information. Document contents may be  reused by the government in developing the AI Action Plan and associated 
+documents without attribution.  
+3 National Science Foundation , Request for Information on the Development of an Artificial Intelligence (AI) Action 
+Plan, 90 Fed. Reg. 9088 ( Feb. 6, 202 5).   5775 Moreh ouse Drive, San Diego, CA 92121  
+www.qualcomm.com  
+
+
+provider s and enabling optimized on-device AI solutions for consumer devices through our advanced 
+chipsets.  
+Enhancing U.S. AI Leadership Through On- Device AI Innovation 
+Qualcomm  has been investing in AI research and development for more than 15 years. Our 
+mission is to create breakthroughs in fundamental AI research and scale them across industries and 
+use cases. Qualcomm is bringing generative AI to the consumer by advancing AI to make its core capabilities – perception, reasoning, and action – ubiquitous across devices ranging from 
+Smartphones, PCs, Wi-Fi access points, XR, IoT, and automotive devices.  
+Massive  generative AI models with billions of parameters place significant demands on 
+computing infrastructure. As such, both AI training, which develops the parameters for an AI model, 
+and AI inference, which executes the model, have been constrained to cloud implementations for 
+large and complex models. As generative AI adoption grows at record-setting speeds and computing demands increase, a distributed processing architecture will become increasingly important for AI to 
+scale and reach its full potentia l, while enhancing security, latency, and efficiency .  
+The scale o f AI inference is poised to grow significantly. Although training individual models 
+will continue and consumes significant resources, large generative AI models are expected to be 
+trained only a few times a year. However, the cost of inferencing with those models increases 
+correspondingly with the number of daily active users, their frequency of use , and the size of the 
+model itself . Running inference on large models exclusively in the cloud results in very high costs 
+that can be economically unsustainable for scaling. 
+On-device AI can enhance U.S. AI competitiveness and innovation by enabling a more 
+efficient  allocation of AI infrastructure resources. Decentralizing inference tasks to edge devices  – 
+especially  with models that are appropriately sized for such devices – reduces reliance on cloud- based 
+systems, allowing U.S. data centers to focus on training advanced AI models that drive cutting -edge 
+breakthroughs. This distributed  approach will  support faster innovation cycles, as real- time 
+processing on devices accelerates application development and adoption across industries, from healthcare to manufacturing. Additionally, on-device AI strengthens data privacy and security, fostering trust in  AI technologies and encouraging broader use among businesses while also 
+safeguarding the interests of American consumers. These advancements position the U.S. as a global leader i n AI-driven productivity and technological innovation, unlocking significant economic growth 
+potential.  
+To optimize  the massive investments planned for AI data center and energy facilities, t he AI 
+Action Plan should promote a distributed AI architecture, to balance AI workloads between centralized cloud and edge devices . Qualcomm stands ready to support the NSF and OSTP in 
+research and development  efforts to understand how on- device AI innovation can be leveraged 
+
+
+strategically to advance U.S. AI leadership. Qualcomm has pioneered on- device generative AI 
+inference on edge devices, with third -party models ranging from 1-70 billion parameters. 
+Qualcomm’s latest high -performance energy -efficient processors are powering a new wave of 
+generative AI -enabled PCs, mobile phones, and cars. There are currently more than 30 AI- capable PC 
+device models availabl e that are powered by Qualcomm chips, including leading U.S. brands like 
+Dell, HP, and Microsoft.  
+ 
+Promoting U.S. Innovation Through a Balanced and Risk-Based AI Regulatory Framework 
+ 
+For the United States to maintain its leadership in AI, it is crucial to adopt a balanced, risk -
+based regulatory approach that fosters innovation while addressing potential risks. The AI Action 
+Plan should promote a flexible approach that considers the diverse roles within the AI supply chain—such as inference hardware providers like Qualcomm versus large AI model developers, cloud 
+providers and application developers. The AI Action Plan  should also foster innovation and 
+competition to ensure the ability of new entrants , new usages, and technological breakthroughs. A 
+risk-based approach suits AI's diverse applications. Companies should tailor their risk management to 
+specific AI use cases. Imposing requirements only in high-risk situations ensures organizations can benefit from AI while effectively addressing particular risks.  
+ The AI Action Plan should also support a framework for managing risk that clearly defines 
+roles and shared  responsibilities across the AI supply chain. Organizations performing different roles 
+in the AI ecosystem may have differing abilities to control and manage the risks that AI products, services, and systems potentially pose at different times in the AI lifecycle. Not all actions to manage 
+AI risks will apply to all AI actors  and the AI Action Plan should reflect this. 
+ 
+Advancing U.S. Leadership Through International Standards Development  
+ Given the transformative potential of AI, it is imperative that the United States lead globally, 
+not only on innovative research and development of AI technologies and applications, but also in developing global consensus standards for AI technologies. Harmonized global standards are crucial to U.S. technology leadership for interoperability, security, economic scale, and competitiveness. Continued U.S. government engagement in global AI standards setting is necessary to  ensure U.S. 
+leadership in shaping these frameworks.  
+ To advance U.S. AI leadership, Qualcomm encourages the AI Action Plan to continue to 
+support global AI standards development. Qualcomm is an active participant in in global 
+standardization efforts aimed at  identifying and mitigating  the potential risks of AI technologies such 
+as ISO SC42 . Qualcomm is also actively engaged with industry organizations such as the Coalition 
+for Content Provenance and Authenticity (C2PA) to develop technology to certify the source and history (or provenance) of media content – for instance, by adding a digital mark to content generated or modified by AI. Within MLCommons w e also recently helped launch AILuminate , a benchmark 
+assessing the trustworthiness of Generative AI models.  
+
+
+We are also actively engaged in regional and national standard bodies such as CEN-
+CENELEC, ETSI, DIN, AFNOR and the BSI to define technical AI standards. Furthermore , 
+Qualcomm is an active participant in the National Institute of Standards and Technology’s (NIST)  AI 
+Safety Institute Consortium, helping develop a companion resource to NIST’s  AI R isk M anagement 
+Framework , identifying and developing standards for content authenticity and provenance, and 
+creating guidance and benchmarks for high-risk security evaluations. Qualcomm looks forward to 
+collaborating with the Trump Administration on global standards leadership. 
+Conclusion 
+Qualcomm  is dedicated to advancing U.S. leadership in AI through continuous innovation and 
+collaborative efforts. We look forward to working with the Trump Administration and other 
+stakeholders to develop and implement the AI Action Plan. Together, we can create an environment that encourages innovation and maintains the United States' competitive edge in the rapidly evolving AI landscape. Thank you for the opportunity to provide input on the AI Action Plan. We are eager to collaborate and support the administration's efforts to advance U.S. leadership in AI.  
+* * *
+Sincerely , 
+Nate Tibb its 
+Senior Vice President , Global Government Affairs 
+
+

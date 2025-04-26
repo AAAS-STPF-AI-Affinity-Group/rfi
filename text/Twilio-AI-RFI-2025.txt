@@ -1,0 +1,183 @@
+1 Before the  
+OFFICE OF SCIENCE AND TECHNOLOGY POLICY  
+Alexandria, VA 22314  
+In the Matter of  
+The Development of an Artificial Intelligence 
+(AI) Action Plan  ) 
+) 
+) 
+) Docket No. 2025 -02305  
+COMMENTS OF TWILIO  
+I.INTRODUCTION
+Twilio appreciates the opportunity to respond to the Request for Information (RFI)  
+published by the National Science Foundation on behalf of the White House Office of Science 
+and Technology Policy (OSTP) on the Development of an Artificial Intelligence (AI) Action 
+Plan called for in Presidential Executive Order No. 14179, Removing Barriers to American 
+Leadership in Artificial Intelligence , issued on January 23, 2025.1  
+Twilio is a global cloud software and communications service provider with over 
+300,000 customers worldwide. As a Business -to-Business (B2B) company, Twilio empowers 
+businesses, governments, and nonprofits of all sizes, across the United States, to enhance  their 
+engagement with their customers and constituents. Twilio’s communication solutions, including 
+voice, text messaging, email, and chat, help businesses to create efficiencies, expand their market 
+share, and provide customers with a targeted, positive experience. Twilio uses AI in a variety of 
+products and services, such as Flex Agent CoPilot with Unified Profiles , to enable businesses to 
+1 Request for Information on the Development of an Artificial Intelligence (AI) Action Plan, 90 Fed. Reg. 9088 
+(Feb. 6, 2025), https://www.federalregister.gov/documents/2025/02/06/2025 -02305/request -for-information -on-the-
+development -of-an-artificial -intelligence -ai-action -plan (“RFI”).  This document is approved for public 
+dissemination. The document contains no business -proprietary or confidential information. Document contents may 
+be reused by the government in developing the AI Action Plan and associated documents without attribution.  
+
+
+2 conduct their interactions with customers more efficiently.2 We also offer AI products to help 
+customers detect and block suspicious messages through products such as Verify  Fraud Guard.3 
+II.TWILIO  AND RESPONSIBLE  AI
+Twilio knows that AI has the potential to improve the lives of consumers and to enhance 
+business productivity. However, as the technology develops it is important to evaluate it 
+carefully. Twilio supports the development and use of responsible AI. Accordin gly, we have 
+developed  CustomerAI Trust Principles  and are operationalizing those principles into our 
+products to enable the responsible use of AI by our company and customers.4 We also created an 
+AI Privacy Ladder to categorize models by the type of data used,5 along with  AI Nutrition Facts 
+Labels  to help customers and consumers know how AI is being used in our products and 
+empower customers to make informed decisions about adoption.6 
+III.POLICY  PROPOSALS  FOR THE AI ACTION  PLAN
+In developing the AI Action Plan, Twilio encourages the Administration to approach AI 
+policy in a way that promotes innovation and enables American companies to compete in a 
+rapidly developing global marketplace. Twilio shares the Administration’s commitme nt to 
+enhancing America’s leadership in AI “to promote human flourishing, economic 
+competitiveness, and national security” and we appreciate the RFI’s recognition that ensuring 
+2  Twilio Launches Unified Profiles and Agent Copilot, Combining Customer Data and AI to Boost Productivity and 
+Engagement , Twilio (Mar. 27, 2024), https://www.twilio.com/en -us/press/releases/unified -profiles -agent -copilot .  
+3 Verify Fraud Guard , Twilio (last visited Mar. 14, 2025), https://www.twilio.com/docs/verify/preventing -toll-
+fraud/sms -fraud -guard .  
+4 Twilio Alpha , Twilio (last visited Mar. 14, 2025), https://twilioalpha.com/ . See also Twilio CustomerAI Fuels Next 
+Generation Customer Relationships and Competitive Advantage for Businesses Worldwide , Twilio ( Aug. 23, 2023), 
+https://www.twilio.com/en -us/press/releases/twilio -customerai -fuels -next-generation -customer -relationships -a.  
+5 See Keith Kirkpatrick, Twilio Debuts CustomerAI Privacy Ladder and AI Nutrition Facts Labels , Futurum (Au g. 
+25, 2023), https://futurumgroup.com/insights/twilio -debuts -customerai -privacy -ladder -and-ai-nutrition -facts -labels/ . 
+6 AI Nutrition Facts , Twilio (last visited Mar. 14, 2025), https://twilioalpha.com/nutrition -facts . 
+
+
+3 
+ “unnecessarily burdensome requirements do not hamper private sector AI innovation” is key to 
+achieving this goal. With this in mind, Twilio offers the following policy perspectives to support 
+the AI Action Plan in promoting growth for the thousands of U.S.  companies that are harnessing 
+the power of AI for the benefit of businesses and consumers.  
+A. AI Policy  Should be Risk -Based, Flexible, and Allow for Innovation  
+Twilio encourages policies and standards that foster industry and government 
+collaboration on responsible AI usage as well as  AI innovation and competition. As a prime 
+example, Twilio supports the goals of the National Institute for Standards and Technology 
+(NIST) AI Risk Management Framework (AI RMF) and views the AI RMF as a thoughtful 
+approach to AI governance grounded in  risk-based, voluntary industry participation. As a 
+sensible first step in approaching AI policymaking, Congress and the Administration  should 
+examine existing laws and authorities that already may be applicable to AI, such as consumer 
+protection and product liability laws, to identify any gaps that need to be addressed. AI risk 
+should be identified and mitigated appropriately while prese rving benefits to businesses and 
+consumers, to include improving human and business efficiencies and choice while ferreting out 
+fraud and other malicious activities. Any potential AI regulation should focus on clearly 
+identified high -risk use cases, such a s hiring decisions or developing lifesaving drugs for 
+patients, and should not be overly inclusive or focused on whole industries or technologies. 
+Companies need flexibility to continue to innovate with new AI products and services. Though 
+Twilio has used AI for several years to help combat fraud on its networks, Twilio’s new 
+applications for AI are already allowing businesses to be more creative, efficient, and customer -
+oriented, and to direct resources more appropriately to targeted customer needs.  
+Sensible global harmonization of AI regulations and standards is key to fostering 
+innovation and a robust global marketplace for AI products and services. Twilio encourages 
+
+
+4 efforts through standards bodies such as ISO/IEC to develop industry standards and supports the 
+work of the Organisation for Economic Co -operation and Development (OECD) to define 
+international AI principles.  
+B. U.S. AI Policy Should Reflect the Varied Nature of the AI Ecosystem, Including the 
+Important Role of AI Integrators 
+Companies like Twilio often occupy the role of “AI integrator,” where we incorporate 
+third party AI technology into our products and services for deployment by our business 
+customers. Recently, legislative discussions have focused on whether an entity is a  “developer” 
+or a “deployer” of AI. However, AI integrators like Twilio do not fit neatly into either category; 
+as we often do not develop our own generative AI models, nor have a direct relationship with 
+end-user consumers. Before defining and assigning a ny new legal obligations, any AI regulatory 
+efforts must clearly and appropriately define the roles and obligations for the various actors in 
+the AI value chain. AI integrators that fine tune or modify LLMs developed by others should be 
+subject to risk req uirements and obligations only when the modification introduces greater risk 
+into the model, and only where the integrator exercises substantial control. Integrators should not 
+be forced to assume responsibility for the entire model.  
+Information sharing requirements related to model development may also be appropriate 
+to ensure the AI ecosystem can best function responsibly and accurately for businesses and 
+consumers. AI model developers should be subject to clear transparency requirem ents so that 
+integrators like Twilio have access to key information, including information that is not publicly 
+available. This will permit business customers who deploy AI to end -user consumers to comply 
+with applicable laws. Additionally, while Twilio su pports concepts such as deployment 
+monitoring of models that reside at the highest risk tier, any requirement to share data with 
+competitors with no guardrails in place to protect privacy, security, and innovation threatens the 
+
+
+5 
+ cultivation of a healthy, fair, and competitive marketplace. It will also create an environment 
+where it is difficult to encourage the development of open source models and will create 
+additional challenges for B2B companies and business models that rely o n and manage customer 
+data.  
+Any regulatory environment designed to foster U.S. AI leadership and promote 
+competition must avoid extensive or cumbersome reporting requirements and must not impose 
+regulatory requirements on an overly broad set of use cases or unduly burden small - and 
+medium -sized providers. Regulatory measures should be proportionate, reasonable, and tailored 
+to avoid undue impact on small - and medium -sized providers.  
+Finally, any new legislation or regulation should include incentives for downstream 
+providers to benefit from AI. Not all providers are similarly situated and it’s essential that the 
+United States continue to build a regulatory environment that fosters opp ortunity in the 
+marketplace for smaller companies. The work being done under initiatives like the National 
+Artificial Intelligence Research Resource (NAIRR) should also form the basis of new 
+opportunities for the next generation of companies. We encourage policymakers to consider new 
+opportunities in the form of grants or other funding resources to incentivize the next phase of AI 
+innovation.  
+C. The United States Should Continue to Create an Innovative Environment that 
+Allows for Greater Adoption of Open Source AI Models  
+A healthy and competitive AI ecosystem that drives U.S. leadership requires robust use 
+of open source models. Further, AI policy should not favor any particular technology model 
+based on unsubstantiated security or privacy concerns. Any such bias will inhi bit the ability of 
+American companies to compete and drive customers to other markets. Safe and reliable open 
+source AI models can be a benefit to both business and consumers while minimizing risks to 
+
+
+6 privacy and security. Any regulatory requirements must be reasonable, proportionate, and 
+narrowly tailored to the specific risk they are designed to mitigate.  
+D.If Retained, the U.S. AI Safety Institute Should be Expanded to Maximize its
+Effectiveness
+Twilio supports the goals underlying the creation of the U.S. AI Safety Institute at NIST.
+For the Institute to stay relevant and be a clear benefit to business and consumers, however, the 
+Administration should reopen the application process to admit addit ional participants beyond the 
+initial 200 selected by the previous administration. More input is needed from a broader cross 
+section of AI stakeholders, especially AI integrators, for the Institute to be effective in fostering 
+responsible AI standards that  can serve as a model for the global marketplace.  
+E.The AI Action Plan Should Prioritize Sensible Data Policies and Regulations
+Sensible and proportionate data policies are key to fostering a competitive AI ecosystem.
+Overly burdensome or restrictive data requirements could put U.S. companies at a disadvantage 
+in the products and services they are able to offer. Twilio notes that r estricting the types of data 
+that can be used, prohibiting how data is used, or failing to recognize reasonable legitimate use 
+cases, such as product development, could greatly hamper AI innovation and the United States’ 
+ability to maintain the edge in AI development.  
+Finally, we urge the Administration to align AI policies with existing data frameworks 
+and with like -minded partners to reduce compliance costs for small - and medium -sized 
+providers. This also includes harmonization of laws and standards across the U.S. fe deral 
+government and States. Twilio already implements the General Data Protection Regulation 
+(GDPR) globally and we support the continuance of the US -EU Privacy Shield to protect 
+American interests in the global cloud market. As the Administration develop s the AI Action 
+
+
+7 Plan, it should prioritize sensible data policies as a critical component of effective AI 
+development and deployment.    
+IV.CONCLUSION
+Twilio appreciates the Administration’s work to solidify effective U.S. AI policy that 
+drives American leadership in AI to promote human flourishing, economic competitiveness, and 
+national security. The recommendations above can help the AI Action Plan est ablish a strong 
+foundation and we look forward to ongoing collaboration with the Administration in service of 
+that goal.  
+Respectfully submitted,  
+/s/_Curtis Swager _________________  
+Curtis Swager  
+Vice President, Global Government Relations 
+and Public Policy  
+Twilio Inc.  
+101 Spear Street 5th Floor  
+San Francisco, CA 94105  
+March 14, 2025  
+
+

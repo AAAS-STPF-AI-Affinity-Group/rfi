@@ -1,0 +1,122 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-3bvg-f259
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1393
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Data Transfer Initiative
+General Comment
+Attached please find the com m ents of the Data Transfer Initiative (DTI).
+Attachments
+DTI NSF AI FILING - 3-14-25
+
+
+March 14, 2025 
+Comments of the Data Transfer Initiative on the Development of an Artificial Intelligence 
+(AI) Action Plan (FR Doc. 2025–02305) 
+The Data Transfer Initiative (DTI) appreciates the opportunity to submit comments in response 
+to NSF’s Request for Information (RFI) on the Development of an Artificial Intelligence (AI) 
+Action Plan. 
+Introduction 
+DTI is a U.S. 501(c)(4) nonprofit organization dedicated to empowering individuals by enabling 
+simpler, faster, and more secure data transfers through data portability at scale. Born out of the 
+Data Transfer Project (DTP), a collaborative open-source effort initiated in 2018 by a consortium 
+of technology companies, DTI advances its mission through the design and implementation of 
+open source data transfer tools and other innovations and investments to foster a healthy 
+portability ecosystem, and by helping translate principle to practice and catalyzing greater user 
+agency and empowerment.  
+Since evolving into the independent DTI organization, our work has expanded to include projects 
+focused on trust-building, mapping the portability landscape, collaborating with a broad set of 
+stakeholders, and serving as an expert resource to policymakers and regulators globally.  
+Data portability provides benefits to innovation, competition, user agency, and the broader 
+economy. Over the years, DTI and its partners have enabled millions of users to transfer personal 
+data such as photos and playlists across services. Today, we are working towards effective data 
+models, frameworks, and tools for the specific context of personal data used in generative AI, to 
+unlock a future where individuals, businesses, and institutions can seamlessly transfer their data 
+between AI services. We see this expansion as an integral part of ensuring that U.S. businesses 
+remain flexible and competitive, users maintain control over their information, and American AI 
+development continues to flourish. 
+Advancing AI Leadership Through Data Portability The United States is a leader in AI innovation, and ensuring continued leadership requires 
+policies that promote competition, consumer choice, and secure technological advancement. The 
+recent executive orders on AI emphasize the need to remove barriers that could slow innovation, 
+while also protecting national security and economic interests. AI portability aligns with these 
+objectives by ensuring that individuals and businesses can retain control of their AI-related data, 
+fostering an open and competitive AI ecosystem. 
+
+
+AI Portability: Fundamental for AI Users 
+People should have control over the personal data that they provide to online services. Just as 
+users expect that the photos they upload to a photo service or social media platform should be 
+portable to other services, so too should they expect their activity within generative AI systems 
+to be portable. This is especially true as AI systems become more personalized and deeply 
+integrated into business and daily life. AI will generate significant social and economic value 
+when people and businesses are empowered to choose the AI services that best suit their needs. 
+The ability to transfer data to personalize and make the most of those services will maximize this 
+value not only for individuals but for the ecosystem as a whole.  
+But it is important to ensure the right scope for such data transfers. The focus for data portability 
+is on the user’s experience, and transferring data specifically associated with the individual and 
+their user of the service. Notably, this does not entail the sharing of internal or proprietary system 
+details, such as model weights or training data, where they are not otherwise made available. 
+This balance—ensuring the portability of user-centric data while protecting sensitive business 
+data—reflects DTI’s core principles for data portability. 
+DTI’s AI Work: Implementing Portability in a Practical, Secure Way 
+DTI helps users seamlessly and securely transfer their personal data across online services. A 
+major part of our work is to develop shared frameworks and tools to make this possible, both 
+inside and outside the context of AI. 
+To date, our AI-related efforts have centered on conversation histories with text-based generative 
+AI systems—specifically, large language model (“LLM”) services. Recently, we partnered with 
+the AI firm Inflection  to support their efforts to make user conversation histories available 
+through a well-structured, reusable data model. While many companies already offer users the 
+ability to download their data (including conversation history), this functionality is not as 
+effective as structured AI data portability, as it lacks consistency and alignment in both scope and 
+format. The ability to download user conversations on an ad hoc basis can be used by separate 
+generative AI systems for broad purpose personalization—but they have limited value. True data 
+portability can unlock even greater value—which is why we are committed to making portability 
+tools and frameworks a reality. 
+AI portability is crucial to addressing challenges in the enterprise context, as well. Businesses 
+that build downstream from LLM APIs face the risk of vendor-lock in, or at the very least 
+significant cost and friction when switching between LLM services, as a consequence of 
+misaligned data formats and scopes. Coordination in an evolving market is tricky and standards 
+processes are not always the right initial approach; however, as an independent nonprofit that 
+helps actively coordinate and encourage shared data transfer tools, models, and frameworks    
+
+
+across companies, we believe efforts like DTI’s can have a constructive role to play in 
+facilitating alignment in a rapidly progressing industry. 
+DTI’s Recommendations for an AI Action Plan for the Future 
+As the NSF crafts its AI plan, DTI urges the agency to consider AI portability as an important 
+component of its priority policy actions. AI is rapidly evolving, and policy decisions made today 
+will shape the future of American leadership in the field. AI portability directly supports the 
+goals of the recent AI executive orders because it: 
+(1)Strengthens Market Competition: Encouraging interoperability and portability ensures
+that businesses can compete fairly, without artificial barriers that restrict growth.
+(2)Enhances User Control and Choice: Users should be able to switch between AI
+services without losing access to their personal data.
+(3)Maintains U.S. Leadership in AI: By promoting AI portability and setting global
+benchmarks, the U.S. can reinforce its leadership in AI development and deployment.
+DTI’s U.S. vision for data portability policy further builds on these ideas and may also serve as a 
+valuable reference in shaping the AI action plan.  
+Without effective portability, businesses and consumers alike risk being locked into closed 
+systems that limit their choices and slow innovation. A competitive AI marketplace—one that 
+allows for free data flow between services—ensures that American businesses and entrepreneurs 
+can continue to innovate and grow. To make the AI marketplace effective and to support 
+American investment, innovation, and competition, AI portability should focus on user and 
+business data interconnections such as Application Programming Interfaces (APIs).  
+Conclusion 
+The U.S. must retain its leadership position for AI development, and ensuring secure, adaptable 
+AI portability is a key part of that strategy. DTI looks forward to working with policymakers, 
+industry leaders, and researchers to develop AI portability solutions that support innovation, 
+economic growth, and consumer empowerment, while keeping American AI leadership secure, 
+competitive, and forward-thinking. Sincerely, 
+Delara Derakhshani, Director of Policy and Partnerships  
+Chris Riley, Executive Director 
+
+

@@ -1,0 +1,448 @@
+Systems Engineering Foundation for
+U.S. Leadership in Agentic AI:
+Georgia Tech Response to the AI Action Plan RFI
+Submitted to:
+Networking and Information Technology Research and Development (NITRD)
+National Coordination Office (NCO) in support of
+Office of Science and Technology Policy (OSTP)
+In response to:
+Request for Information on the Development of an Artificial Intelligence Action Plan
+Submitted by:
+For additional information, please contact:
+Professor Pascal Van Hentenryck
+A. Russell Chandler III Chair and Professor
+Industrial and Systems Engineering
+Georgia Institute of Technology
+Dr. J. Clayton Kerce
+Head, Advanced Computing and Artificial Intelligence
+Georgia Tech Research Institute
+Georgia Institute of Technology
+March 15, 2024
+
+
+1. Executive Summary
+The Georgia Institute of Technology welcomes the opportunity to contribute to the develop-
+ment of an AI Action Plan that fulfills the vision of Executive Order 14179 to “sustain and
+enhance America’s global AI dominance.” As a global leader in AI research, education, and
+innovation—ranked 5th nationally in AI—Georgia Tech offers a comprehensive systems en-
+gineering perspective that directly addresses the policy objectives outlined in the Executive
+Order.
+Our response frames AI leadership—with particular emphasis on agentic AI systems—through
+a systems engineering lens that naturally removes barriers to innovation while accelerating
+market-driven development of AI technologies. This systems-framed approach stands in
+contrast to component-focused strategies that often fail to realize the full potential of AI
+capabilities when integrated into real-world applications and systems. As agentic AI ca-
+pabilities expand to perform increasingly autonomous tasks and make complex decisions,
+systems thinking will become even more critical for ensuring reliability, robustness, and
+alignment with human objectives.
+Drawing on our institution’s unique position at the intersection of cutting-edge research and
+practical implementation—through our academic programs, our commercial research focus
+through the AI-Hub, and our applied research arm, the Georgia Tech Research Institute
+(GTRI)—we provide strategic principles and concrete policy recommendations to fulfill the
+objectives laid out in Executive Order 14179. Our recommendations establish frameworks
+that enable rapid, reliable, and robust advancement of American AI capabilities while pre-
+serving market dynamics and removing unnecessary impediments to innovation.
+Key contributions to the 180-day AI Action Plan include:
+•A systems engineering framework that accelerates AI innovation (“Engineering for AI”)
+while ensuring reliability, robustness, and performance
+•Mechanisms for implementing AI to transform traditional engineering disciplines (“AI
+for Engineering”)
+•Strategies for developing both “Workforce-ready AI” and an “AI-ready Workforce”
+•Recommendations for computing infrastructure that enables next-generation AI capa-
+bilities
+•Frameworks for objective evaluation and performance assessment of AI systems
+•AI lifecycle management approaches that create sustainable competitive advantages
+1.1. Georgia Tech: At the Intersection of AI Research and Implementation
+The Georgia Institute of Technology brings unique qualifications to the development of an
+AI Action Plan that will advance American leadership:
+1
+
+
+•National AI Leadership: Ranked 5th nationally in AI, Georgia Tech graduates more
+AI talent than any other institution in the United States, creating a robust pipeline
+for industry and government.
+•Dual Research Focus : Through our academic departments and the Georgia Tech
+Research Institute (GTRI), we maintain parallel excellence in both foundational AI
+research and applied national security implementations.
+•Tech AI Initiative : Our specialized AI Hub (Tech AI) focuses on responsible AI
+for societal impact, aligning technical advancement with practical applications across
+multiple domains, with a strong focus on AI for engineering (e.g., supply chains, man-
+ufacturing, health care, agriculture)
+•Industry Integration: Deep partnerships with leading technology companies, as well
+as leading engineering companies, facilitate rapid translation of research innovations
+into market-ready applications.
+•Interdisciplinary Strengths: Georgia Tech combines significant strengths in AI
+technologies with domain expertise across numerous sectors of engineering and science,
+enabling systems-level integration.
+This unique positioning allows Georgia Tech to bridge the gap between theoretical advance-
+ment and practical implementation—precisely the capability needed to develop an AI Action
+Plan that will accelerate American AI leadership while ensuring reliable, robust systems that
+can be deployed at scale.
+2. Introduction: Systems Engineering as the Foundation for AI
+Leadership
+Executive Order 14179 establishes a clear mandate to “sustain and enhance America’s global
+AI dominance” by removing barriers to innovation while promoting economic competitive-
+ness and national security. Achieving this objective requires a paradigm shift in how we
+conceptualize and implement AI advancement—moving from isolated component optimiza-
+tion to integrated systems engineering, particularly as AI systems evolve toward increasingly
+agentic capabilities.
+The historical evolution of AI reveals a critical inflection point in modern approaches. Early
+successes like IBM’s Deep Blue demonstrated remarkable capabilities in narrow domains but
+lacked the flexibility and adaptability required for broader applications. Today’s leading AI
+organizations — from DeepMind’s groundbreaking Alpha-Series innovations to DeepSeek’s
+demonstration of exceptionally engineered foundation model implementations — have em-
+braced systems-level integration that orchestrates multiple AI components into cohesive,
+powerful solutions. Moreover, many of the fundamental advances in science and engineering
+now combine data-driven and model-drive approaches,
+This transformation is especially evident in the rise of agentic AI—systems capable of au-
+tonomous goal-setting, planning, and execution across diverse tasks. By 2028, AI agents
+2
+
+
+are projected to be embedded in 33% of enterprise applications, up from less than 1% in
+2024, with at least 15% of daily business decisions expected to be made autonomously by
+agentic AI. This shift from assistive to autonomous AI systems represents both the greatest
+opportunity and challenge for American technological leadership.
+The concept of Agentic AI envisioned here goes well beyond the orchestration of large lan-
+guage models that combine natural language understanding and tool use; this field will
+develop to include planning systems and hierarchical memory and reasoning mechanisms,
+both parametric and symbolic, as well as goal-setting, extrospective perception, and multi-
+faceted introspective and allocentric theories-of-mind capable of navigating human-centric
+dynamics in high-consequence applications. This expansive vision of agentic AI—with ad-
+vanced cognitive architectures that can reason across multiple levels of abstraction and adapt
+to complex human environments—demands systems engineering approaches that can inte-
+grate these diverse capabilities into coherent, reliable, robust, and resilient frameworks with
+performance guarantees
+Systems engineering principles provide the ideal framework for implementing the vision of
+Executive Order 14179 by:
+•Accelerating innovation through modular, interoperable components that enable rapid
+iteration
+•Ensuring reliability and robustness through rigorous verification and validation frame-
+works
+•Facilitating market-driven development by establishing clear interfaces between com-
+ponents
+•Enabling objective evaluation of system performance independent of ideological con-
+siderations
+•Creating technical and economic multiplier effects through orchestrated integration
+This systems approach naturally removes barriers to innovation while establishing the techni-
+cal foundations necessary for deploying AI at scale across critical domains including defense,
+manufacturing, healthcare, energy systems, and education. It embodies the dual imperatives
+that must guide the AI Action Plan: developing robust engineering practices for AI system
+development (“Engineering for AI”) and leveraging AI capabilities to transform traditional
+engineering disciplines (“AI for Engineering”).
+3. Leveraging Systems Engineering Principles for Advancing Amer-
+ican AI Leadership
+Maintaining American leadership in AI requires a bidirectional approach: applying systems
+engineering principles to advance AI capabilities (“Engineering for AI”) while simultaneously
+3
+
+
+leveraging AI to transform traditional engineering disciplines (“AI for Engineering”). This
+dual focus creates a virtuous cycle of innovation that accelerates progress in both domains.
+3.1. Systems Integration for Enhanced Performance and Market Competitive-
+ness
+The integration of AI components into cohesive systems represents a critical differentiator
+for maintaining American technological leadership. Systems integration
+•creates performance multipliers by orchestrating complementary AI capabilities;
+•enables market differentiation through unique combinations of components;
+•establishes competitive barriers through system-level optimization that competitors
+cannot easily replicate;
+•accelerates innovation by allowing rapid iteration of individual components within
+stable system architectures.
+Historical precedents from sectors including aerospace, defense, energy systems, supply
+chains, and telecommunications demonstrate how systems engineering approaches have con-
+sistently enabled American technological leadership. The same principles can be applied
+to AI development to extend U.S. advantages against global competitors who are rapidly
+advancing component-level capabilities.
+Case studies of successful systems integration from both defense and commercial sectors
+illustrate how orchestrating multiple technologies creates capabilities greater than the sum
+of individual components. University research plays a crucial role in de-risking advanced
+integration concepts that can then be commercialized by industry partners.
+3.2. Orchestration of AI Components in Complex Systems
+Effective orchestration of AI components represents a key technical challenge and opportunity
+for American leadership. This includes:
+•Integration across human operators, classical code, AI algorithms, and cyber-physical
+systems;
+•Development of orchestration frameworks that enable complex workflow automation;
+•Establishment of objective performance metrics for comprehensive system evaluation;
+•Creation of technical and market multiplier effects through seamless component inter-
+action.
+Modern agentic AI systems must coordinate multiple sophisticated capabilities—including
+hierarchical planning, parametric and symbolic reasoning, extrospective perception, and
+4
+
+
+theory-of-mind mechanisms—to solve complex problems in human-centric environments.
+These advanced cognitive capabilities require orchestration frameworks that can maintain
+coherence across multiple levels of abstraction while ensuring reliable performance in high-
+consequence applications. American leadership in developing these orchestration frameworks
+would establish a competitive advantage that transcends individual model capabilities.
+Organizations implementing agentic AI systems without proper systems engineering frame-
+works encounter significant challenges:
+•Integration difficulties between multiple AI components;
+•Performance bottlenecks that limit overall system capabilities;
+•Reliability and robustness issues when deployed in real-world environments;
+•Verification and validation challenges for complex, interconnected systems;
+•Barriers to scaling from laboratory demonstrations to production environments.
+These challenges highlight why systems engineering must serve as the foundation for Ameri-
+can AI leadership. Countries and organizations that master systems integration will maintain
+competitive advantages even as individual AI components become more widely accessible.
+3.3. Emerging AI Engineering Patterns as Strategic Frameworks for Advanced
+Agentic Systems
+As AI systems mature toward the sophisticated agentic capabilities we envision, distinct en-
+gineering patterns have emerged that provide structured approaches to system development.
+Six key patterns have particular strategic importance for maintaining American leadership
+in developing these advanced AI architectures:
+•Models : Frameworks for developing, evaluating, and deploying foundation models
+that support both high-fidelity simulations, control and optimization, and symbolic
+and parametric reasoning capabilities as building blocks for more complex integrated
+AI systems.
+•Users: Methodologies for engineering reliable, intuitive interactions between humans
+and AI systems with theory-of-mind capabilities that can navigate human-centric dy-
+namics while balancing autonomy with appropriate oversight.
+•Context: Techniques for grounding AI capabilities in relevant domain knowledge
+through approaches like hierarchical memory structures, advanced knowledge retrieval
+systems, and fundamental physical, chemical, and biological laws.
+•Orchestration: Architectures for coordinating multiple cognitive functions including
+planning, perception, reasoning, goal-setting, control, and optimization that collabo-
+rate to solve complex problems through specialized, complementary capabilities.
+•Evals & Observability : Frameworks for continuous assessment and improvement
+of multi-level AI systems through rigorous testing and monitoring across different ab-
+straction layers.
+5
+
+
+•Mindset: Organizational practices and engineering culture that maximize effective-
+ness in developing AI systems with introspective and allocentric reasoning capabilities.
+These patterns provide structured approaches to challenges that all advanced AI systems
+must address. By establishing leadership in these patterns, the United States can create
+reusable frameworks that accelerate innovation while ensuring reliability across diverse ap-
+plications. The mindset of modularity inherent in these patterns enables market-driven
+innovation while maintaining system-level integration capabilities.
+3.4. AI Lifecycle Management (AIOps) as Competitive Advantages
+The operational infrastructure for developing, deploying, and maintaining AI systems rep-
+resents a critical enabler for rapid innovation:
+•Extend MLOps concepts to an AIOps framework that streamline the transition from
+research to production through standardized processes;
+•Lifecycle management ensures consistent performance through continuous monitoring
+and improvement, self-healing, self-tuning, and adaptation to new environments;
+•Model governance frameworks maintain technical quality and reliability throughout
+system development and deployment
+•Integration of DevSecOps principles ensures security and reliability in national security
+applications
+Current global competition in AI is not merely about model capabilities but increasingly
+about the infrastructure that enables rapid iteration, deployment, and continuous improve-
+ment and adaptation. U.S. leadership in AIOps frameworks would create a sustainable
+competitive advantage in AI system development and deployment velocity.
+4. Strategic Recommendations for the AI Action Plan
+4.1. Research Priorities that Enable Market-Driven AI Leadership
+To maintain American AI leadership, we recommend prioritizing research investments in
+both “Engineering for AI” and “AI for Engineering”:
+4.1.1 Engineering for AI:
+•Systems-level integration frameworks that accelerate the composition of advanced agen-
+tic capabilities including hierarchical planning, symbolic reasoning, control, optimiza-
+6
+
+
+tion, and theory-of-mind mechanisms;
+•Verification, validation, and testing methodologies for complex AI systems with mul-
+tiple cognitive functions operating across different levels of abstraction;
+•Interoperability standards that enable competition while facilitating the integration of
+diverse AI components including perception, reasoning, and planning systems;
+•Performance guarantees for agentic AI systems operating in safety-critical domains
+with human-centric dynamics;
+•Cognitive architectures that support allocentric reasoning and adaptive goal-setting in
+complex environments;
+•Energy-efficient computing paradigms for supporting sophisticated AI cognition at
+scale.
+4.1.2 AI for Engineering:
+Establishing U.S. leadership in AI will necessitate an integration of AI tools in every engi-
+neering disciplines from supply chains and manufacturing, to energy production and trans-
+mission, healthcare, material design, semiconductor design and implementation. This will
+require
+•AI-driven tools that accelerate traditional engineering processes across disciplines, by
+bringing orders of magnitude improvements in efficiency.
+•Frameworks for integrating AI capabilities into existing engineering workflows, inte-
+grating domain-inspired AI systems.
+•AI systems that enhance human engineering capabilities rather than replacing them,
+including in design, monitoring, and optimization.
+•Methodologies for addressing engineering challenges that were previously intractable,
+through the combination of data- and model-driven approaches.
+•Simulations and digital twins, and their surrogate models, that enable rapid exploration
+of design spaces
+Universities represent ideal and unique environments for high-risk, exploratory research needed
+to develop novel integration approaches and foundational systems engineering frameworks.
+By focusing federal investments on these system-level capabilities, the AI Action Plan can
+establish enduring American advantages that are difficult for competitors to replicate.
+We recommend establishing a national research initiative focused specifically on systems
+engineering for agentic AI, with coordinated funding across NSF, DARPA, DOE, and other
+federal agencies. This initiative should emphasize market-driven approaches that preserve
+competition while establishing frameworks that accelerate commercialization.
+7
+
+
+4.2. Workforce Development and Educational Transformation
+Maintaining AI leadership requires addressing the complementary challenges of developing
+”Workforce-ready AI” systems designed to integrate seamlessly with human workers and
+creating an ”AI-ready Workforce” capable of effectively implementing and working alongside
+advanced AI systems:
+•Workforce-ready AI: Developing AI systems that augment human capabilities, align
+with existing workflows, and create intuitive interfaces for non-technical users - enabling
+workers to achieve greater productivity and innovation that strengthens America’s
+competitive edge.
+•AI-ready Workforce: Building human capacity through educational programs that
+prepare workers at all levels to effectively implement, work alongside, and maximize
+the potential of AI systems - creating economic opportunities while enhancing national
+technological capabilities.
+Addressing these dual challenges requires strategic approaches to workforce development:
+4.2.1 Paradigm Shift in Education for AI Systems Engineering
+Developing an AI-ready workforce requires a fundamental reconceptualization of technical
+education from single-degree attainment to lifelong learning cycles. Georgia Tech Profes-
+sional Education (GTPE) provides a model for continuous upskilling aligned with rapidly
+evolving AI capabilities.
+This educational transformation must address a number of key paradigm shifts:
+•From training narrow AI tool specialists to developing systems specialists capable of
+orchestrating complex AI-enabled workflows.
+•From siloed technical skills to cross-domain mastery integrating computer science, cog-
+nitive science, engineering, and ethics.
+•From theoretical foundations alone to balanced curricula that integrate practice, im-
+plementation, and real-world problem-solving.
+•From isolated technical skills to interdisciplinary understanding that bridges domains
+like computer science, cognitive science, engineering, and ethics.
+•From static curricula to adaptive learning pathways that maintain American compet-
+itive advantage amid rapid AI advancement
+•From traditional assessment methods to competency-based evaluation focused on sys-
+tem integration capabilities.
+Georgia Tech’s AI education initiatives incorporate experiential learning environments that
+simulate the complex challenges of real-world AI system integration. These environments
+8
+
+
+provide students with hands-on experience orchestrating multiple AI components to solve
+problems across domains from healthcare to manufacturing to defense applications. Georgia
+Tech is also a national leader in high-school AI education and the training faculty across the
+country to create novel AI programs. Both components are key to the future of AI in the
+U.S., attracting talent early on and training the educators needed to sustain the workforce
+demands.
+4.2.2 Developing Workforce-Ready AI Systems
+The complementary challenge to building an AI-ready workforce is creating AI systems that
+are designed from the ground up to integrate effectively with human workers. Workforce-
+ready AI systems should:
+•Provide intuitive interfaces that empower users to easily adopt and leverage AI capa-
+bilities;
+•Augment human capabilities to amplify productivity, creativity, and innovation, rather
+than simply automating existing processes;
+•Seamlessly integrate with and adapt to organizational workflows to enhance efficiency
+and effectiveness
+•Offer appropriate explanations of AI-driven decisions to build trust with human oper-
+ators;
+•Enable progressive levels of autonomy that evolve as organizational readiness increases.
+Georgia Tech’s research in human-AI collaboration and interactive machine learning provides
+frameworks for developing AI systems that work effectively alongside humans with varying
+technical backgrounds and domain expertise.
+We recommend establishing a national program that incentivizes the development of workforce-
+ready AI systems through targeted research funding, public-private partnerships, and edu-
+cational initiatives that bridge technical and domain-specific training.
+4.3. Computing Infrastructure and Technical Standards
+Next-generation AI capabilities require corresponding advances in computing infrastructure
+for commercial and national security resilience:
+•Low-power and low-latency computing innovations enabling AI at the edge;
+•Distributed computing networks that manage dynamic mission-critical resource allo-
+cation, from commercial robotics to tactical edge environments;
+•Energy-efficient architectures that create both economic and strategic advantages;
+9
+
+
+•Technical standards for interoperability that enable component-level competition;
+•Secure computing environments for high-consequence AI applications.
+University-industry partnerships play a crucial role in accelerating commercialization of com-
+puting innovations that enable advanced AI capabilities. Technical standards should focus
+on interfaces and interoperability rather than implementation details to preserve market
+dynamics.
+We recommend investments in next-generation computing infrastructure specifically opti-
+mized for agentic AI systems, with particular emphasis on:
+•Energy-efficient architectures that reduce computational overhead;
+•Edge computing capabilities that enable real-time AI processing;
+•Communications infrastructure that facilitates distributed AI systems;
+•Standards frameworks that ensure interoperability across vendors;
+•hardware architectures and accelerators that support the integration of data-driven AI
+with reasoning, optimization, and scientific computing.
+4.4. AI for Scientific Discovery and Workflow Transformation
+AI systems are fundamentally transforming scientific discovery and engineering workflows
+across disciplines by enabling data-driven approaches that complement traditional theoretical
+and experimental methods:
+•Systems engineering principles provide frameworks for reimagining scientific and engi-
+neering workflows to leverage AI capabilities (“AI for Engineering”);
+•AI-driven scientific discovery pipelines accelerate innovation in fields from materials
+science to drug development;
+•Enhanced capabilities for abstraction and modeling of complex phenomena through
+AI-augmented approaches transform conventional engineering disciplines;
+•Integration of domain-specific scientific tools with general-purpose AI capabilities cre-
+ates powerful new research methodologies;
+•Traditional engineering fields like energy systems and supply chain engineering benefit
+particularly from data structure-aware AI applications.
+The economic multiplier effects of accelerated scientific discovery represent a critical dimen-
+sion of national competitiveness. By establishing leadership in AI-driven scientific workflows,
+the United States can accelerate breakthrough innovations across sectors ranging from ad-
+vanced materials to pharmaceutical development to climate science. Systems engineering
+approaches are essential for integrating AI capabilities into scientific workflows while pre-
+serving methodological rigor and ensuring reproducibility.
+10
+
+
+5. Implementation Roadmap for 180-Day AI Action Plan
+We recommend that the 180-day AI Action Plan include the following concrete actions:
+1.Establish a National AI Systems Engineering Initiative
+•Create a cross-agency coordination mechanism for systems engineering research;
+•Develop roadmaps for key technical capabilities required for agentic AI systems;
+•Establish metrics and benchmarks for evaluating systems-level AI performance.
+2.Launch Workforce and Talent Development Programs
+•Fund educational initiatives focused on developing an AI Systems Engineering
+talent pool;
+•Create frameworks for AI systems education across educational levels;
+•Establish certification programs for AI systems engineering professionals.
+3.Create Technical Standards Frameworks
+•Develop interoperability standards for AI systems and traditional software com-
+ponents;
+•Establish performance metrics for AI system evaluation;
+•Create verification and validation frameworks for agentic AI systems.
+4.Facilitate Technology Transfer Mechanisms
+•Streamline pathways from university research to commercial deployment
+•Establish public-private partnerships for AI systems development, training, and
+deployment;
+•Create incentive structures for the commercial adoption of AI systems.
+5.Implement Computing Infrastructure Investments
+•Fund next-generation computing architectures for AI systems
+•Develop energy-efficient computing platforms for AI applications
+•Create distributed computing frameworks for collaborative AI development
+Success should be measured across multiple dimensions, including technical capabilities,
+economic competitiveness, and national security enhancements. Regular assessment against
+these metrics will ensure that the AI Action Plan delivers on its objectives to enhance
+American AI leadership.
+6. Conclusion
+A comprehensive AI Action Plan must champion both “AI for Engineering” and “Engineer-
+ing for AI”—recognizing that maintaining American leadership requires not only advancing
+AI capabilities through robust engineering practices but also leveraging AI to transform
+11
+
+
+traditional engineering disciplines. This bidirectional approach creates a virtuous cycle of
+innovation that accelerates progress across domains.
+The emergence of sophisticated agentic AI systems—with advanced planning capabilities,
+hierarchical memory, symbolic and parametric reasoning mechanisms, and multi-faceted
+theories-of-mind—represents both the most significant opportunity and the most profound
+challenge for American technological leadership. These systems will transcend today’s lan-
+guage models to become adaptable cognitive architectures capable of navigating complex
+human-centric environments in high-consequence domains. By embracing systems engineer-
+ing principles as the foundation for advancing these sophisticated AI capabilities, the United
+States can establish sustainable competitive advantages in developing agentic systems that
+perform increasingly autonomous functions while maintaining reliability, robustness, and
+alignment with human objectives.
+Georgia Tech stands ready to support the development and implementation of this plan
+through our research capabilities, educational programs, and industry partnerships. By
+adopting systems engineering principles as the foundation for AI advancement, the United
+States can establish sustainable competitive advantages that fulfill the vision of Executive
+Order 14179 to “sustain and enhance America’s global AI dominance.”
+12
+
+

@@ -1,0 +1,134 @@
+RFI: Request for Information on the Development
+of an Artificial Intelligence (AI) Action Plan
+Eric Toberer
+Professor, Department of Physics
+Director, Materials Science Program
+Director, NSF Institute for Data-Driven Dynamical Design
+Colorado School of Mines
+Golden, Colorado
+March. 11, 2024
+1. Introduction
+On behalf of the NSF Institute for Data-Driven Dynamical Design (ID4), we strongly support
+OSTP’s effort to identify the key policy areas needed to sustain and enhance America’s AI
+dominance. As leading researchers in the application of AI to challenges in the applied sciences
+and engineering, it is clear to us that AI is rapidly transforming the process of design and
+discovery and revealing foundationally new mechanisms. In this submission, we focus on two
+critical areas where we have significant expertise: (1) research and development in the context of
+applied science and engineering and (2) education and workforce development at the intersection
+of academia and industry.
+2. About ID4
+The Institute for Data-Driven Dynamical Design, funded under NSF’s Harnessing the Data
+Revolution (HDR) initiative, exemplifies a transformative approach to research by deeply inte-
+grating applied science and computer science around AI solutions. The Institute comprises 16
+research groups at 11 R1 universities and corporate partner. Further, we interact regularly with
+another dozen research groups in the US and abroad. ID4 aims to transform the design cycle
+for scientists and engineers. From chemistry to civil engineering, we seek to create platforms
+that accelerate the discovery of materials with new mechanisms and dynamics through the com-
+plementary union of human and machine intelligence. The 85 papers and codebases ID4 has
+developed in its first four years are available at: https://id4.mines.edu/papers-codes/. These
+developments focus on new AI techniques that respond to the unique needs of the applied sci-
+ences and engineering community. These developments range from autodifferentiable methods
+for engineering to corpus-informed decision making in the automated chemistry laboratories of
+our industrial partner. This integration enables breakthroughs otherwise unattainable within
+isolated domains. In parallel with our focus on methods development, we aspire to create the
+
+
+next generation of leaders in this transformative approach and to cultivate a community com-
+mitted to data-driven approaches. Beyond training our own students, ID4 has run a multitude of
+NSF-sponsored workshops on AI-ready data, AI-powered data visualization, uncertainty quan-
+tification in machine learning, AI for materials science, and the annual workshop for the NSF
+Harnessing the Data Revolution ecosystem.
+3. Research and Development Recommendations
+Conduct a Holistic Review: Bring together stakeholders across current federal programs
+and institutes (e.g., HDR, AI Institutes, ERCs, MRSECs, DMREFs) to assess their current AI
+infrastructure and needs. Use findings to refine funding priorities and organizational models.
+For example, within the NSF HDR and NSF DMREF ecosystems, there are annual meetings;
+however, these meetings do not span between ecosystems and do not actively develop priority
+areas. This is in contrast to, for example, the nuclear physics community that makes a serious
+effort to define their strategic goals.
+Support Specialized Research: Fund initiatives that develop physics-informed AI and in-
+terpretable models tailored for scientific and engineering applications. Examples include (i)
+research on axiomatic AI methods that integrate physical constraints directly into hypothesis
+generation and decision making, (ii) navigating massive design spaces with autodifferentiation,
+(iii) integrating human and machine insight into multi-objective decision making. In our Insti-
+tute, we have found that the AI/ML that industry has focused on over the last two decades
+(e.g., computer vision, natural language processing) do not necessarily map well to the chal-
+lenges of science and engineering. Instead, the major developments have been driven by specific
+scientific problems that generate new classes of solutions. One such example is the emergence
+of equivariant neural nets for learning how atoms interact, which is important across materials
+science, chemical engineering, and chemistry.
+Develop Comprehensive Testing Environments and Model Registry: Create national
+AI testbeds that replicate real-world physical and industrial settings. These platforms would
+be used to evaluate model performance, robustness, and—crucially—uncertainty quantification,
+ensuring models are safe and resource-efficient. Part and parcel with these efforts is the de-
+velopment of benchmarks for AI in the applied sciences/engineering and the implementation of
+a central registry. This transparency would facilitate benchmarking against challenge datasets
+and provide a common language for evaluating model strengths and weaknesses. Within our
+Institute, we have developed a benchmark for anomaly detection in atomistic simulations moti-
+vated by the massive amount of data such simulations produce and the challenges of mapping
+complex objects across space and time. Likewise, we have developed benchmarks for LLMs for
+material property prediction (LLM4Mat-Bench).
+Establish Dedicated Consortia: Create federally funded consortia that embed computer
+scientists directly into applied research projects alongside physical scientists, chemists, and
+engineers. This model—exemplified by ID4—ensures that AI innovations address real-world
+challenges from the outset. For example, within ID4 we have developed new approaches to
+lower building construction costs through the integration of auto-diffferentiation and symmetry-
+conserving continuous flows in the design of structural elements.
+Pilot Automated Lab Initiatives: Encourage pilot projects where AI-driven hypothesis mak-
+
+
+ing and decision support systems are integrated with automated laboratory processes, thereby
+accelerating scientific discovery with built-in physical constraints. Such pilot projects could tar-
+get industries that are lagging in the adoption of modern (post-2020) AI methods. Within ID4,
+we have a strong partnership with US company Kebotix. Kebotix uses automated laboratory
+facilities and AI to accelerate the discovery of new chemicals and synthetic pathways therein.
+This relationship has been bidirectional with academia: Kebotix has guided ID4 on emerging
+industry-specific problems and the academic side of ID4 has been sharing their emerging soft-
+ware involving decision making (e.g., Bayesian methods) and visualization. By beta-testing
+these software packages, Kebotix gains access to state-of-the-art software and provides feedback
+to the developers.
+4. Education and Workforce Development Recommendations
+Facilitate Regular Interdisciplinary Interactions: Support targeted workshops, fellow-
+ships, and collaborative funding mechanisms centered around grand challenges (e.g., materials
+in extreme environments or advanced manufacturing). These forums should include the devel-
+opment and use of challenge/benchmark datasets that provide standardized evaluation metrics
+for new AI methods. For example, ID4 hosted a national workshop on AI for data visualization
+techniques that had strong representation from both academia and the biomedical industry; the
+outcome of this workshop included grand challenges to help academia better serve industrial
+needs.
+Promote Industry–Academic Partnerships: In the context of workforce development, AI-
+based industry-academic partnerships are vital for both providing continuing education to exist-
+ing workers and for building a pipeline for students from academia to jobs that will value their
+AI expertise. Programs that fund industry-academic partnerships beyond the usual SBIR and
+GOALI models are vital. Within ID4, we enhance our collaboration with Kebotix by having
+undergraduate students from our departments conduct summer internships at Kebotix.
+Integrate Interdisciplinary Curriculum: The continued investment in educational pro-
+grams that combine computer science with physical sciences and engineering remains vital at all
+levels—from K-12 to graduate studies. To remain globally competitive in AI, we need to teach
+the next generation foundational skills ranging from data fluency to statistics to the practical
+integration of AI in scientific research. For example, the NSF REU program that adjoins ID4
+(Integrating Computation and Experiment to Create Revolutionary Materials) has found that
+STEM majors in their senior year have typically had no exposure to AI/ML in their curriculum
+but at the same time are excited to learn. NSF REU and other similar programs have a proven
+track record of supporting development of a strong STEM workforce in the United States, with
+the majority of students who participate in these programs going on to pursue careers in STEM.
+Support National Fellowships: Fund regular national AI-focused fellowship programs that
+promote continuous engagement between academia, industry, and government. These efforts
+will help nurture a technologically adept workforce capable of leveraging AI for transformative
+innovations. While the DOE Computational Science Fellowship is broadly a step in the right
+direction, all Federal agencies would benefit from graduate fellowships that focused student
+research on AI towards the agencies’ directives.
+
+
+5. Conclusion
+The experiences within ID4 clearly illustrate the profound advantages of integrating applied
+sciences with computer science and industrial partners to help assure America’s continued AI
+dominance. Continuing federal investment in these integrative research environments will un-
+doubtedly produce revolutionary advancements across science, technology, and society, position-
+ing future researchers to tackle increasingly complex and multidisciplinary challenges facing the
+United States.
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government
+in developing the AI Action Plan and associated documents without attribution.
+
+

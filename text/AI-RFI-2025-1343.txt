@@ -1,0 +1,799 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 88-vknc-5pkr
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1343
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Association for Intelligent Inform ation Managem ent
+General Comment
+The Association for Intelligent Inform ation Managem ent (AIIM) is pleased to offer com m ents in response to the Office of Science and
+Technology Policy (OSTP)'s request for inform ation regarding an AI Action Plan. Please see our response attached.
+Attachments
+2025-03 NSF AI Action Plan _ AIIM Response
+2025-03 NSF AI Action Plan _ AIIM Response Final
+
+
+1 March 10, 2025  
+Faisal D'Souza  
+NCO  
+2415 Eisenhower Avenue  
+Alexandria, V A 22314, USA  
+Re: OSTP Request for Information on AI Action Plan  
+Dear Mr. D ’Souza, 
+The Association for Intelligent Information Management (AIIM) is pleased to offer comments in 
+response to the Office of Science and Technology Policy (OSTP)'s request for information 
+regarding an AI Action Plan.  
+Founded in 1944, AIIM is a nonprofit organization serving information management 
+practitioners in over 67 countries worldwide. AIIM serves  60,000 community members 
+representing various fields including IT, records management, and knowledge management. Our 
+practitioners focus on the collection, processing, storage, security, retention, and accessibility of 
+unstructured or nontabular data in o rganizations.  
+Unstructured data exists outside traditional databases in forms such as documents, records, 
+contracts, invoices, multimedia, social media posts, and emails. While companies historically 
+retained  and protected  such information mainly for comp liance reasons, in the last decade , 
+unstructured data has been increasingly leveraged to improve customer service, enhance 
+decision -making through data analytics, and improve operational efficiency through workflow 
+process automation and artificial intelli gence. 
+
+
+2 As the world's leading association dedicated to the information management, AIIM has extensive 
+experience with AI's implementation in enterprise settings. Unstructured data is vital to training 
+models and completing AI tasks. AIIM  helps information leaders manage and prepare 
+unstructured data for AI and automation by providing advice, certification, training, and peer -to-
+peer support. Through practical and approachable resources, AIIM enables  organizations to 
+leverage their information assets effecti vely, ultimately leading to better business outcomes.  
+AIIM offers the following response to issues raised by the Office in the notice.  
+Executive Summary  
+AIIM recommends that the AI Action Plan prioritize:  
+1.Differentiated Regulatory Approach : Establish a fra mework that distinguishes between
+narrow AI applications (which pose limited risks and can be audited) and advanced
+generative AI systems (which require increased scrutiny).
+2.Federal Framework Development : Create a flexible, universal AI framework at the
+federal level that remains adaptable to technological advances, applies across all sectors,
+and prevents fragmented state -by-state regulation.
+3.Practical Focus Areas : Emphasize accuracy, transparency, and accountability rather than
+abstract concepts like "t rustworthiness," with clear declaration requirements and source
+citation standards.
+4.Information Quality Mechanisms : Support information provenance through source
+citations, metadata standards, and potentially a "Digital Commons" approach that
+enhances tra nsparency around AI training and outputs.
+5.Risk Mitigation Strategies : Address inherent AI risks through mandatory bias testing for
+high-risk systems, clear remediation requirements, and methods to combat factual
+inaccuracies and hallucinations.
+6.Human Ove rsight Integration : Promote human -in-the-loop approaches as a core
+principle, with special recognition of information management practitioners as uniquely
+qualified oversight personnel.
+7.Workforce Development : Invest in education, collegiate programs, and specialized
+certification in information management and AI governance to build necessary human
+oversight capacity.
+8.Advanced AI Architecture Support : Provide frameworks for responsible innovation in
+emerging AI architectures (agentic, autonomous, and vertical AI systems) through
+research funding and regulatory sandboxes.
+9.Responsible Training Data Practices : Support approaches like standardized metada ta
+automation and content verification mechanisms while recognizing the costs and practical
+challenges of training data management.
+
+
+3 Differentiating AI Risk Levels  
+A fundamental consideration for any AI policy is the recognition that not all AI systems pose  the 
+same level of risk. AIIM strongly recommends classifying AI systems based on their risk 
+profiles:  
+•Narrow AI applications  have been used safely for decades, can be audited, and pose
+limited risks. As noted in our June 2023 comments to NTIA, these syste ms do not run
+massive neural networks, and humans have control over what and how the AI learns (i.e.,
+supervised learning). They apply specified or defined rules that have little to no risk
+associated with them. Examples include document or email readers t hat can scan the
+information to either validate the text or sort the item appropriately, technology that can
+identify and protect sensitive personally identifiable information, or tools that can
+automate non -sensitive administrative tasks. Both their devel opment processes and
+training data can be audited and explained.
+•Generative AI and other advanced AI systems  require increased scrutiny and more
+stringent rules due to higher potential risks. These systems, often referred to as "black -
+box AI," have interna l processes and decision -making mechanisms that cannot be
+determined or audited, making it difficult to hold it and the entity using it accountable for
+the decisions made.
+This differentiated approach will prevent overregulation of low -risk AI while ensuri ng 
+appropriate guardrails for higher -risk systems. Narrow AI should not be regulated in the same 
+manner as Generative AI.  
+Federal Framework Priorities  
+AIIM urges OSTP to prioritize developing a flexible, universal AI framework at the federal 
+level. The cur rent regulatory uncertainty has significantly hindered innovation and AI adoption 
+across industries. As we noted in our June 2023 response to NTIA, "organizations are reluctant 
+to implement available AI technologies due to legitimate concerns about potenti al unintended 
+harm, liability risks, and uncertain regulatory consequences."  
+The lack of public policy strategy or legal framework has resulted in U.S. end user companies 
+not keeping pace with the expansion and availability of AI. To boost and maintain nat ional 
+competitiveness, AIIM recommends the U.S. government provide clear policies and legal 
+frameworks to reduce perceived and real liabilities and empower end user companies to invest in 
+AI. 
+This framework should incorporate successful principles from est ablished AI policies in other 
+jurisdictions while addressing unique U.S. considerations. AIIM strongly recommends that U.S. 
+states be encouraged to align their policies with this federal framework rather than creating 
+disparate regulations.  
+
+
+4 The business ca se for regulatory harmonization is compelling. From 2018 -2021, organizations 
+worldwide faced substantial challenges complying with the fragmented landscape of data privacy 
+regulations, including the EU's General Data Protection Regulation (GDPR) implemente d in 
+2018 and the California Consumer Privacy Act (CCPA) effective in 2020. While these 
+regulations served important consumer protection goals, their inconsistent requirements created 
+significant compliance burdens, particularly for small and medium -sized enterprises operating 
+across multiple jurisdictions.  
+A coordinated federal AI framework would prevent repeating this fragmented regulatory 
+experience, fostering responsible innovation while providing clear, consistent guidance for 
+organizations developing and deploying AI technologies.  
+This framework should:  
+1.Be universally applicable across sectors.  The framework must be universally applied to
+every sector and industry. Attempting to design a framework for each sector or industry
+would be overly complicated  and unnecessarily burdensome. It may also result in policy
+that does not easily adapt to changing technology or circumstances or growth of the
+technology into new areas of the economy. It's important for ease of business and
+consistency that regulations a re universal. Businesses of all sizes have experienced the
+challenge of data privacy laws, which vary by country and even state/territory.
+2.Remain flexible to accommodate the rapid pace of AI development.  AI technology
+has advanced exponentially, and deploy ment has accelerated to the point that AI is
+pervasive throughout our economy, our culture, and our day -to-day lives. The
+government simply cannot keep pace, and any rigid public policy that includes strict
+requirements would be obsolete in a matter of mon ths, if not weeks or even days.
+3.Be implemented at the federal level to prevent an unworkable regulatory landscape.
+If states regulate AI in their own manner, entities will be forced to abide by and monitor
+inevitable policy changes on a state -by-state basi s. This patchwork would be impossible
+to implement, and compliance would be unmanageable and too costly for private
+businesses.
+4.Focus on principles rather than specific technical requirements  that would quickly
+become obsolete. It is critical that the gove rnment not attempt to implement regulations
+but instead focus on a framework that outlines key principles and characteristics that will
+aid entities in identifying appropriate AI.
+5.Leverage existing frameworks  like NIST frameworks without making them overly  rigid
+or mandatory. The National Institute for Standards and Technology's ('NIST')
+Cybersecurity Framework is a good model to follow, but AIIM cautions that this
+framework should not be adopted as regulation. Instead, existing standards should be
+used as a guidepost for the regulated community that can grow and adapt to new
+technology or advancements.
+
+
+5 Accuracy, Transparency, and Accountability  
+The AI Action Plan should focus on practical goals rather than abstract concepts. As we stated in 
+our June 2023 NT IA comments, the focus of policy should be "on accuracy of AI technology, 
+not obtaining the potentially unattainable 'trustworthiness.' Attempting to achieve this abstract 
+goal would be a nearly impossible task and would only result in the government getti ng bogged 
+down in a quagmire."  
+Instead, policy should focus on:  
+1.Accuracy:  As AIIM noted in our June 2023 NTIA comments, accuracy is paramount in
+AI systems. Users need assurance that information generated by AI is credible, current,
+and complete. When user s can verify the reliability of AI outputs, they can make
+informed decisions and hold entities accountable for inaccurate or misleading
+information. Policy should prioritize mechanisms that enable verification of information
+quality.
+2.Transparency:  AIIM has consistently advocated that transparency is essential for public
+trust in AI systems. Consumers deserve to know when AI is being used to make decisions
+that affect them, how those systems operate, and why specific approaches were chosen.
+Without this transparency, meaningful consent and informed use become impossible.
+3.Accountability:  AIIM maintains that accountability must flow to both AI developers and
+the entities implementing AI systems. Organizations deploying AI technologies must take
+respons ibility for their implementation choices, while their employees must adhere to
+proper usage guidelines. When entities purchase AI tools, they assume responsibility for
+managing the associated risks and ensuring appropriate deployment.
+AIIM recommends explo ring: 
+1.Declaration requirements to inform consumers when AI is used to make decisions and
+how those decisions were made. Knowing AI is used and how it is being used will be key
+in promoting AI usage and ensuring accountability.
+2.Source citation and metadata standards for AI outputs, which AIIM identified in our
+October 2023 comments to the U.S. Copyright Office as crucial for establishing
+information provenance and to mitigate the risks of distributing and employing
+inaccurate, unverified, or unlawful informa tion.
+Information Provenance and Quality  
+For AI systems to be trusted and beneficial, the Action Plan should address information 
+provenance. This requires robust approaches to information quality:  
+1.Source citations  are an important way to establish informat ion provenance and to
+mitigate the risks of distributing and employing inaccurate, unverified, or unlawful
+information. AIIM believes that if the origins of AI -generated content are maintained by
+
+
+6 developers, the training data would be more transparent. It would then make it easier to 
+be verified later in the iterative path —and protect end -user businesses.  
+2.Metadata standards  can facilitate identification of AI -generated content. Metadata and
+metadata automation could be used to facilitate an efficient opt -out approach that occurs
+before data is mined for training models. AIIM recommends an approach that currently
+web search engines follow where the robots.txt metadata file indicates whether it's
+acceptable for a website's content to be indexed or not.
+3.A "Digi tal Commons" approach  could enhance transparency. As we've advocated in
+our Copyright Office comments, publicly accessible disclosures could be a part of a
+'Digital Commons', which would create greater transparency and trust around how
+copyrighted informat ion was used.
+AIIM maintains that three proven, technically feasible approaches would help mitigate risks 
+while supporting innovation:  
+1.Source citations with metadata in AI outputs that allow users to trace and verify
+information origins
+2.Digital watermarkin g of AI -generated content to clearly indicate its synthetic nature
+3.Confidence rating systems that provide users with an assessment of the potential accuracy
+of AI outputs
+These approaches, which we outlined in our PCAST Working Group response, balance the need 
+for transparency with practical implementation considerations.  
+Addressing Inherent Risks in AI Systems  
+The AI Action Plan must go beyond traditional regulatory concerns like privacy, security, and 
+intellectual property to address risks inherent to the  technology itself. As information 
+management pr actitioners , AIIM members are particularly concerned with issues of accuracy, 
+bias, and the potential for harm from AI systems.  
+Bias Testing and Remediation  
+AI systems trained on historical data often replica te and amplify existing societal biases. The 
+Action Plan should prioritize:  
+•Mandatory bias testing for high -risk AI systems that make or inform decisions affecting
+individual rights, opportunities, or access to essential services
+•Clear methodologies for id entifying and measuring various forms of bias, including those
+related to race, gender, age, and other protected characteristics
+•Remediation requirements when bias is detected, with objective benchmarks for
+improvement
+•Regular auditing and reporting on bias metrics for systems in ongoing use
+
+
+7 Bias detection and remediation should be conducted throughout the AI lifecycle, from dataset 
+compilation through model training and into production deployment. These requirements should 
+be proportional to the potenti al risk of harm, with higher standards for systems used in critical 
+domains such as healthcare, criminal justice, lending, and employment.  
+Factual Accuracy and Hallucination Mitigation  
+Generative AI systems are prone to producing plausible -sounding but fac tually incorrect 
+information —a phenomenon often called "hallucination." The Action Plan should address this 
+by: 
+•Encouraging development of reliable methods to assess factual accuracy in AI outputs
+•Supporting research into technical approaches for reducing hallucinations
+•Promoting transparency about known limitations in factual reliability
+•Requiring clear disclaimers when AI systems generate content that appears factual but
+may contain errors
+Information management best practices, including validation agains t authoritative sources and 
+proper documentation of information provenance, are essential for addressing these accuracy 
+issues.  
+Human -in-the-Loop as a Core Principle  
+AIIM strongly recommends that the AI Action Plan establish human oversight as a fundamenta l 
+principle for responsible AI deployment. Human -in-the-loop (HITL) approaches provide critical 
+safeguards against the limitations and risks of fully automated systems.  
+Information Management Practitioners as Ideal Oversight Personnel  
+Information managemen t practitioners are uniquely positioned to serve as effective human 
+reviewers in AI systems. With decades of experience managing unstructured data —which 
+constitutes the majority of information that generative AI systems process and create —these 
+practitione rs already possess critical skills for AI oversight:  
+•Deep expertise in information validation, quality control, and verification
+•Understanding of metadata standards and information classification
+•Experience with information  lifecycle management and governa nce
+•Ability to assess information provenance and reliability
+•Familiarity with compliance requirements across multiple domains
+The Action Plan should recognize that information management practitioners represent an 
+existing workforce with transferable skill s ideally suited for AI oversight roles. Rather than 
+creating entirely new professional categories, the administration should leverage and enhance 
+this established expertise.  
+
+
+8 Essential Elements of Human Oversight  
+The Action Plan should promote HITL design that includes:  
+1.Meaningful human review of high -consequence AI decisions before implementation
+2.Clear procedures for humans to override AI recommendations when appropriate
+3.Balanced workloads that allow human reviewers sufficient time for thoughtful
+assessment
+4.Training programs that prepare human operators to effectively identify and address AI
+errors
+5.Authority structures that empower human reviewers to escalate concerns
+Human oversight should be calibrated to the potential risk and impact of AI syste ms. While low -
+risk applications may require minimal human involvement, high -risk contexts demand 
+substantial human oversight. The default approach should always include human review for 
+novel or consequential applications, with exceptions being rare and th oroughly justified.  
+Educational Investment and Workforce Development  
+To build the necessary human oversight capacity, the Action Plan should:  
+1.Incentivize collegiate programs in information management and information governance
+2.Support post -graduate workfor ce training in AI oversight methods
+3.Support industry -provided,  specialized certification programs for professional providing
+AI oversight
+4.Create tax incentives for organizations that invest in training employees for AI oversight
+roles
+5.Fund research into ef fective human -AI collaboration methodologies
+AIIM recommends that the administration establish grant programs specifically targeting 
+educational institutions that incorporate information management and AI governance into their 
+curricula. Additionally, prof essional development initiatives should be created to help existing 
+information professionals adapt their skills to AI oversight contexts.  
+The United States currently has a shortage of qualified personnel for effective AI oversight. By 
+investing in educati on and training focused on unstructured data management —the foundation of 
+modern AI systems —the administration can address this gap while creating high -value 
+employment opportunities.  
+Supporting Advanced AI Architectures  
+The AI Action Plan should anticipat e the evolution of AI technologies and provide a supportive 
+framework for responsible innovation in advanced AI architectures. Future economic growth and 
+U.S. competitiveness will increasingly depend on cutting -edge AI implementations.  
+
+
+9 Agentic, Autonomous,  and Vertical AI Systems  
+AIIM recommends that the Action Plan specifically address:  
+•Agentic AI : Systems that can act independently to achieve specified goals require
+specialized governance approaches. The Action Plan should support research into safe
+deplo yment models, effective oversight mechanisms, and clear lines of accountability for
+agentic systems.
+•Autonomous AI : As AI systems become increasingly capable of operating without direct
+human supervision, the Plan should address appropriate safety measures , performance
+monitoring, and intervention protocols. These systems offer significant efficiency
+benefits but require carefully designed guardrails.
+•Vertical AI : Domain -specific AI systems optimized for particular industries or functions
+represent a major growth area for enterprise adoption. The Plan should encourage the
+development of industry -specific best practices and standards for responsible vertical AI
+applications.
+These advanced architectures are likely to drive the next wave of enterprise AI adopt ion and 
+economic productivity gains. By providing clear guidance for their responsible development and 
+deployment, the Action Plan can position U.S. businesses for leadership in these emerging 
+technologies.  
+Research and Development Support  
+To maintain U.S.  leadership in advanced AI architectures, the Action Plan should:  
+1.Direct federal research funding toward responsible deployment mechanisms for advanced
+AI systems
+2.Establish collaborative research initiatives between government, industry, and academia
+3.Creat e regulatory sandboxes that allow controlled testing of innovative approaches
+4.Develop specialized governance frameworks for different categories of advanced AI
+By taking a forward -looking approach to these emerging technologies, the Action Plan can 
+ensure that regulatory frameworks evolve alongside technological capabilities, providing 
+appropriate guardrails without stifling innovation.  
+Supporting Responsible AI Training  
+To support high -quality AI development, the Action Plan should address concerns around AI 
+training data and intellectual property. AIIM recommends practical approaches consistent with 
+our previous positions:  
+1.Leveraging approaches similar to robots.txt for content creators.  AIIM advocates for
+standardization and leveraging existing technology  and processes to ease the burden of
+implementation. In our Copyright Office comments, "AIIM recommends an approach
+that currently web search engines follow where the robots.txt metadata file indicates
+
+
+10 whether it's acceptable for a website's content to be indexed or not. Many AI models 
+based on publicly available datasets could draw upon such an approach."  
+2.Supporting standardization of metadata automation for data provenance.
+Interoperability of various record management or content management systems is a
+significant obstacle. Metadata from one system would need to be mapped to the metadata
+of the receiving system for opt outs to be recognized. Industry standards can help
+establish this, but standards are not mandatory without regulation and legislation.
+3.Recognizing the substantial costs of record retention for training data.  There are
+costs for developing and maintaining a record management program. For an AI developer
+to retain training materials at -scale, they would need to employ the principles of records
+management and would likely need to adopt enterprise systems, like Records
+Management systems to not only retain records, but also be able to comply with
+regulatory requirements and possible legal requests. While AIIM avidly supports records
+retention in this instance, it's important to understand the impact on and costs to business
+when considering regulations.
+4.Encouraging approaches that enable content verification rather than requiring
+licensing.  AIIM's recommendation would be to mandate the inclusion o f source
+information as metadata as part of legislation as opposed to requiring licensure to use
+content. Restrictions on content stymie innovation and human creativity. Generative AI
+has the potential to build upon existing human knowledge at a rapid scal e by connecting
+and combining data from a vast number of sources. Licensure could slow the potential of
+generative AI whereas source citations would support and grow use of generative AI by
+building trust in AI outputs amongst users while providing credit to the original copyright
+owners.
+Conclusion  
+AIIM believes that with appropriate policies, the United States can maintain leadership in AI 
+development while ensuring that these technologies are developed and deployed responsibly.  
+The key is to establish pr inciples that encourage innovation while providing the certainty 
+businesses need to confidently adopt and implement AI technologies. Government's role should 
+be to incentivize adoption of accountable, responsible AI. A flexible, universal framework 
+applied  at the federal level would provide entities with the information and surety they need to 
+adopt the technology and fully incorporate it into their operations soundly and safely.  
+The Association for Intelligent Information Management, with our deep expertis e in information 
+management principles and practices across multiple industries, stands ready to assist OSTP in 
+developing effective AI policies that maintain U.S. leadership while promoting responsible use.  
+We look forward to working with you and in colla boration with our member organizations and 
+other stakeholders to support AI innovation and growth while balancing innovation with risk 
+mitigation.  
+
+
+11 Sincerely,  
+Tori Miller Liu, MBA, FASAE, CAE, CIP  
+President & CEO  
+Association for Intelligent Information Management (AIIM)  
+8403 Colesville Rd, #1100 , Silver Spring, MD 20910 USA  
+https://www.aiim.org/   
+### 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential i nformation. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+Works Cited  
+Liu, Tori. Association for Intelligent Information Management. Comment ID NTIA -2023 -0005 -
+1188. Comment on AI Accountability Policy Request for Comment. National 
+Telecommunications and Information Administration, Docket No.  June 12, 
+2023. https://www.regulations.gov/comment/ NTIA -2023 -0005 -1188  
+Liu, Tori.  Association for Intelligent Information Management (AIIM). Comment ID COLC -
+2023 -0006 -8502. Comment on Artificial Intelligence and Copyright. Library of Congress, 
+Copyright Office, Docket No. 2023 -6; COLC -2023 -0006. October 29 , 2023. 
+https://www.regulations.gov/comment/COLC -2023 -0006 -8502  
+Liu, Tori. Association for Intelligent Information Management (AIIM). Comment on PCAST 
+Working Group on Generative AI In vites Public Input. President's Council of Advisors on 
+Science and Technology. July 28, 2023.  
+
+
+1 March 10, 2025  
+Faisal D'Souza  
+NCO  
+2415 Eisenhower Avenue  
+Alexandria, V A 22314, USA  
+Re: OSTP Request for Information on AI Action Plan  
+Dear Mr. D ’Souza, 
+The Association for Intelligent Information Management (AIIM) is pleased to offer comments in 
+response to the Office of Science and Technology Policy (OSTP)'s request for information 
+regarding an AI Action Plan.  
+Founded in 1944, AIIM is a nonprofit organization serving information management 
+practitioners in over 67 countries worldwide. AIIM serves  60,000 community members 
+representing various fields including IT, records management, and knowledge management. Our 
+practitioners focus on the collection, processing, storage, security, retention, and accessibility of 
+unstructured or nontabular data in o rganizations.  
+Unstructured data exists outside traditional databases in forms such as documents, records, 
+contracts, invoices, multimedia, social media posts, and emails. While companies historically 
+retained  and protected  such information mainly for comp liance reasons, in the last decade , 
+unstructured data has been increasingly leveraged to improve customer service, enhance 
+decision -making through data analytics, and improve operational efficiency through workflow 
+process automation and artificial intelli gence. 
+
+
+2 As the world's leading association dedicated to the information management, AIIM has extensive 
+experience with AI's implementation in enterprise settings. Unstructured data is vital to training 
+models and completing AI tasks. AIIM  helps information leaders manage and prepare 
+unstructured data for AI and automation by providing advice, certification, training, and peer -to-
+peer support. Through practical and approachable resources, AIIM enables  organizations to 
+leverage their information assets effecti vely, ultimately leading to better business outcomes.  
+AIIM offers the following response to issues raised by the Office in the notice.  
+Executive Summary  
+AIIM recommends that the AI Action Plan prioritize:  
+1.Differentiated Regulatory Approach : Establish a fra mework that distinguishes between
+narrow AI applications (which pose limited risks and can be audited) and advanced
+generative AI systems (which require increased scrutiny).
+2.Federal Framework Development : Create a flexible, universal AI framework at the
+federal level that remains adaptable to technological advances, applies across all sectors,
+and prevents fragmented state -by-state regulation.
+3.Practical Focus Areas : Emphasize accuracy, transparency, and accountability rather than
+abstract concepts like "t rustworthiness," with clear declaration requirements and source
+citation standards.
+4.Information Quality Mechanisms : Support information provenance through source
+citations, metadata standards, and potentially a "Digital Commons" approach that
+enhances tra nsparency around AI training and outputs.
+5.Risk Mitigation Strategies : Address inherent AI risks through mandatory bias testing for
+high-risk systems, clear remediation requirements, and methods to combat factual
+inaccuracies and hallucinations.
+6.Human Ove rsight Integration : Promote human -in-the-loop approaches as a core
+principle, with special recognition of information management practitioners as uniquely
+qualified oversight personnel.
+7.Workforce Development : Invest in education, collegiate programs, and specialized
+certification in information management and AI governance to build necessary human
+oversight capacity.
+8.Advanced AI Architecture Support : Provide frameworks for responsible innovation in
+emerging AI architectures (agentic, autonomous, and vertical AI systems) through
+research funding and regulatory sandboxes.
+9.Responsible Training Data Practices : Support approaches like standardized metada ta
+automation and content verification mechanisms while recognizing the costs and practical
+challenges of training data management.
+
+
+3 Differentiating AI Risk Levels  
+A fundamental consideration for any AI policy is the recognition that not all AI systems pose  the 
+same level of risk. AIIM strongly recommends classifying AI systems based on their risk 
+profiles:  
+•Narrow AI applications  have been used safely for decades, can be audited, and pose
+limited risks. As noted in our June 2023 comments to NTIA, these syste ms do not run
+massive neural networks, and humans have control over what and how the AI learns (i.e.,
+supervised learning). They apply specified or defined rules that have little to no risk
+associated with them. Examples include document or email readers t hat can scan the
+information to either validate the text or sort the item appropriately, technology that can
+identify and protect sensitive personally identifiable information, or tools that can
+automate non -sensitive administrative tasks. Both their devel opment processes and
+training data can be audited and explained.
+•Generative AI and other advanced AI systems  require increased scrutiny and more
+stringent rules due to higher potential risks. These systems, often referred to as "black -
+box AI," have interna l processes and decision -making mechanisms that cannot be
+determined or audited, making it difficult to hold it and the entity using it accountable for
+the decisions made.
+This differentiated approach will prevent overregulation of low -risk AI while ensuri ng 
+appropriate guardrails for higher -risk systems. Narrow AI should not be regulated in the same 
+manner as Generative AI.  
+Federal Framework Priorities  
+AIIM urges OSTP to prioritize developing a flexible, universal AI framework at the federal 
+level. The cur rent regulatory uncertainty has significantly hindered innovation and AI adoption 
+across industries. As we noted in our June 2023 response to NTIA, "organizations are reluctant 
+to implement available AI technologies due to legitimate concerns about potenti al unintended 
+harm, liability risks, and uncertain regulatory consequences."  
+The lack of public policy strategy or legal framework has resulted in U.S. end user companies 
+not keeping pace with the expansion and availability of AI. To boost and maintain nat ional 
+competitiveness, AIIM recommends the U.S. government provide clear policies and legal 
+frameworks to reduce perceived and real liabilities and empower end user companies to invest in 
+AI. 
+This framework should incorporate successful principles from est ablished AI policies in other 
+jurisdictions while addressing unique U.S. considerations. AIIM strongly recommends that U.S. 
+states be encouraged to align their policies with this federal framework rather than creating 
+disparate regulations.  
+
+
+4 The business ca se for regulatory harmonization is compelling. From 2018 -2021, organizations 
+worldwide faced substantial challenges complying with the fragmented landscape of data privacy 
+regulations, including the EU's General Data Protection Regulation (GDPR) implemente d in 
+2018 and the California Consumer Privacy Act (CCPA) effective in 2020. While these 
+regulations served important consumer protection goals, their inconsistent requirements created 
+significant compliance burdens, particularly for small and medium -sized enterprises operating 
+across multiple jurisdictions.  
+A coordinated federal AI framework would prevent repeating this fragmented regulatory 
+experience, fostering responsible innovation while providing clear, consistent guidance for 
+organizations developing and deploying AI technologies.  
+This framework should:  
+1.Be universally applicable across sectors.  The framework must be universally applied to
+every sector and industry. Attempting to design a framework for each sector or industry
+would be overly complicated  and unnecessarily burdensome. It may also result in policy
+that does not easily adapt to changing technology or circumstances or growth of the
+technology into new areas of the economy. It's important for ease of business and
+consistency that regulations a re universal. Businesses of all sizes have experienced the
+challenge of data privacy laws, which vary by country and even state/territory.
+2.Remain flexible to accommodate the rapid pace of AI development.  AI technology
+has advanced exponentially, and deploy ment has accelerated to the point that AI is
+pervasive throughout our economy, our culture, and our day -to-day lives. The
+government simply cannot keep pace, and any rigid public policy that includes strict
+requirements would be obsolete in a matter of mon ths, if not weeks or even days.
+3.Be implemented at the federal level to prevent an unworkable regulatory landscape.
+If states regulate AI in their own manner, entities will be forced to abide by and monitor
+inevitable policy changes on a state -by-state basi s. This patchwork would be impossible
+to implement, and compliance would be unmanageable and too costly for private
+businesses.
+4.Focus on principles rather than specific technical requirements  that would quickly
+become obsolete. It is critical that the gove rnment not attempt to implement regulations
+but instead focus on a framework that outlines key principles and characteristics that will
+aid entities in identifying appropriate AI.
+5.Leverage existing frameworks  like NIST frameworks without making them overly  rigid
+or mandatory. The National Institute for Standards and Technology's ('NIST')
+Cybersecurity Framework is a good model to follow, but AIIM cautions that this
+framework should not be adopted as regulation. Instead, existing standards should be
+used as a guidepost for the regulated community that can grow and adapt to new
+technology or advancements.
+
+
+5 Accuracy, Transparency, and Accountability  
+The AI Action Plan should focus on practical goals rather than abstract concepts. As we stated in 
+our June 2023 NT IA comments, the focus of policy should be "on accuracy of AI technology, 
+not obtaining the potentially unattainable 'trustworthiness.' Attempting to achieve this abstract 
+goal would be a nearly impossible task and would only result in the government getti ng bogged 
+down in a quagmire."  
+Instead, policy should focus on:  
+1.Accuracy:  As AIIM noted in our June 2023 NTIA comments, accuracy is paramount in
+AI systems. Users need assurance that information generated by AI is credible, current,
+and complete. When user s can verify the reliability of AI outputs, they can make
+informed decisions and hold entities accountable for inaccurate or misleading
+information. Policy should prioritize mechanisms that enable verification of information
+quality.
+2.Transparency:  AIIM has consistently advocated that transparency is essential for public
+trust in AI systems. Consumers deserve to know when AI is being used to make decisions
+that affect them, how those systems operate, and why specific approaches were chosen.
+Without this transparency, meaningful consent and informed use become impossible.
+3.Accountability:  AIIM maintains that accountability must flow to both AI developers and
+the entities implementing AI systems. Organizations deploying AI technologies must take
+respons ibility for their implementation choices, while their employees must adhere to
+proper usage guidelines. When entities purchase AI tools, they assume responsibility for
+managing the associated risks and ensuring appropriate deployment.
+AIIM recommends explo ring: 
+1.Declaration requirements to inform consumers when AI is used to make decisions and
+how those decisions were made. Knowing AI is used and how it is being used will be key
+in promoting AI usage and ensuring accountability.
+2.Source citation and metadata standards for AI outputs, which AIIM identified in our
+October 2023 comments to the U.S. Copyright Office as crucial for establishing
+information provenance and to mitigate the risks of distributing and employing
+inaccurate, unverified, or unlawful informa tion.
+Information Provenance and Quality  
+For AI systems to be trusted and beneficial, the Action Plan should address information 
+provenance. This requires robust approaches to information quality:  
+1.Source citations  are an important way to establish informat ion provenance and to
+mitigate the risks of distributing and employing inaccurate, unverified, or unlawful
+information. AIIM believes that if the origins of AI -generated content are maintained by
+
+
+6 developers, the training data would be more transparent. It would then make it easier to 
+be verified later in the iterative path —and protect end -user businesses.  
+2.Metadata standards  can facilitate identification of AI -generated content. Metadata and
+metadata automation could be used to facilitate an efficient opt -out approach that occurs
+before data is mined for training models. AIIM recommends an approach that currently
+web search engines follow where the robots.txt metadata file indicates whether it's
+acceptable for a website's content to be indexed or not.
+3.A "Digi tal Commons" approach  could enhance transparency. As we've advocated in
+our Copyright Office comments, publicly accessible disclosures could be a part of a
+'Digital Commons', which would create greater transparency and trust around how
+copyrighted informat ion was used.
+AIIM maintains that three proven, technically feasible approaches would help mitigate risks 
+while supporting innovation:  
+1.Source citations with metadata in AI outputs that allow users to trace and verify
+information origins
+2.Digital watermarkin g of AI -generated content to clearly indicate its synthetic nature
+3.Confidence rating systems that provide users with an assessment of the potential accuracy
+of AI outputs
+These approaches, which we outlined in our PCAST Working Group response, balance the need 
+for transparency with practical implementation considerations.  
+Addressing Inherent Risks in AI Systems  
+The AI Action Plan must go beyond traditional regulatory concerns like privacy, security, and 
+intellectual property to address risks inherent to the  technology itself. As information 
+management pr actitioners , AIIM members are particularly concerned with issues of accuracy, 
+bias, and the potential for harm from AI systems.  
+Bias Testing and Remediation  
+AI systems trained on historical data often replica te and amplify existing societal biases. The 
+Action Plan should prioritize:  
+•Mandatory bias testing for high -risk AI systems that make or inform decisions affecting
+individual rights, opportunities, or access to essential services
+•Clear methodologies for id entifying and measuring various forms of bias, including those
+related to race, gender, age, and other protected characteristics
+•Remediation requirements when bias is detected, with objective benchmarks for
+improvement
+•Regular auditing and reporting on bias metrics for systems in ongoing use
+
+
+7 Bias detection and remediation should be conducted throughout the AI lifecycle, from dataset 
+compilation through model training and into production deployment. These requirements should 
+be proportional to the potenti al risk of harm, with higher standards for systems used in critical 
+domains such as healthcare, criminal justice, lending, and employment.  
+Factual Accuracy and Hallucination Mitigation  
+Generative AI systems are prone to producing plausible -sounding but fac tually incorrect 
+information —a phenomenon often called "hallucination." The Action Plan should address this 
+by: 
+•Encouraging development of reliable methods to assess factual accuracy in AI outputs
+•Supporting research into technical approaches for reducing hallucinations
+•Promoting transparency about known limitations in factual reliability
+•Requiring clear disclaimers when AI systems generate content that appears factual but
+may contain errors
+Information management best practices, including validation agains t authoritative sources and 
+proper documentation of information provenance, are essential for addressing these accuracy 
+issues.  
+Human -in-the-Loop as a Core Principle  
+AIIM strongly recommends that the AI Action Plan establish human oversight as a fundamenta l 
+principle for responsible AI deployment. Human -in-the-loop (HITL) approaches provide critical 
+safeguards against the limitations and risks of fully automated systems.  
+Information Management Practitioners as Ideal Oversight Personnel  
+Information managemen t practitioners are uniquely positioned to serve as effective human 
+reviewers in AI systems. With decades of experience managing unstructured data —which 
+constitutes the majority of information that generative AI systems process and create —these 
+practitione rs already possess critical skills for AI oversight:  
+•Deep expertise in information validation, quality control, and verification
+•Understanding of metadata standards and information classification
+•Experience with information  lifecycle management and governa nce
+•Ability to assess information provenance and reliability
+•Familiarity with compliance requirements across multiple domains
+The Action Plan should recognize that information management practitioners represent an 
+existing workforce with transferable skill s ideally suited for AI oversight roles. Rather than 
+creating entirely new professional categories, the administration should leverage and enhance 
+this established expertise.  
+
+
+8 Essential Elements of Human Oversight  
+The Action Plan should promote HITL design that includes:  
+1.Meaningful human review of high -consequence AI decisions before implementation
+2.Clear procedures for humans to override AI recommendations when appropriate
+3.Balanced workloads that allow human reviewers sufficient time for thoughtful
+assessment
+4.Training programs that prepare human operators to effectively identify and address AI
+errors
+5.Authority structures that empower human reviewers to escalate concerns
+Human oversight should be calibrated to the potential risk and impact of AI syste ms. While low -
+risk applications may require minimal human involvement, high -risk contexts demand 
+substantial human oversight. The default approach should always include human review for 
+novel or consequential applications, with exceptions being rare and th oroughly justified.  
+Educational Investment and Workforce Development  
+To build the necessary human oversight capacity, the Action Plan should:  
+1.Incentivize collegiate programs in information management and information governance
+2.Support post -graduate workfor ce training in AI oversight methods
+3.Support industry -provided,  specialized certification programs for professional providing
+AI oversight
+4.Create tax incentives for organizations that invest in training employees for AI oversight
+roles
+5.Fund research into ef fective human -AI collaboration methodologies
+AIIM recommends that the administration establish grant programs specifically targeting 
+educational institutions that incorporate information management and AI governance into their 
+curricula. Additionally, prof essional development initiatives should be created to help existing 
+information professionals adapt their skills to AI oversight contexts.  
+The United States currently has a shortage of qualified personnel for effective AI oversight. By 
+investing in educati on and training focused on unstructured data management —the foundation of 
+modern AI systems —the administration can address this gap while creating high -value 
+employment opportunities.  
+Supporting Advanced AI Architectures  
+The AI Action Plan should anticipat e the evolution of AI technologies and provide a supportive 
+framework for responsible innovation in advanced AI architectures. Future economic growth and 
+U.S. competitiveness will increasingly depend on cutting -edge AI implementations.  
+
+
+9 Agentic, Autonomous,  and Vertical AI Systems  
+AIIM recommends that the Action Plan specifically address:  
+•Agentic AI : Systems that can act independently to achieve specified goals require
+specialized governance approaches. The Action Plan should support research into safe
+deplo yment models, effective oversight mechanisms, and clear lines of accountability for
+agentic systems.
+•Autonomous AI : As AI systems become increasingly capable of operating without direct
+human supervision, the Plan should address appropriate safety measures , performance
+monitoring, and intervention protocols. These systems offer significant efficiency
+benefits but require carefully designed guardrails.
+•Vertical AI : Domain -specific AI systems optimized for particular industries or functions
+represent a major growth area for enterprise adoption. The Plan should encourage the
+development of industry -specific best practices and standards for responsible vertical AI
+applications.
+These advanced architectures are likely to drive the next wave of enterprise AI adopt ion and 
+economic productivity gains. By providing clear guidance for their responsible development and 
+deployment, the Action Plan can position U.S. businesses for leadership in these emerging 
+technologies.  
+Research and Development Support  
+To maintain U.S.  leadership in advanced AI architectures, the Action Plan should:  
+1.Direct federal research funding toward responsible deployment mechanisms for advanced
+AI systems
+2.Establish collaborative research initiatives between government, industry, and academia
+3.Creat e regulatory sandboxes that allow controlled testing of innovative approaches
+4.Develop specialized governance frameworks for different categories of advanced AI
+By taking a forward -looking approach to these emerging technologies, the Action Plan can 
+ensure that regulatory frameworks evolve alongside technological capabilities, providing 
+appropriate guardrails without stifling innovation.  
+Supporting Responsible AI Training  
+To support high -quality AI development, the Action Plan should address concerns around AI 
+training data and intellectual property. AIIM recommends practical approaches consistent with 
+our previous positions:  
+1.Leveraging approaches similar to robots.txt for content creators.  AIIM advocates for
+standardization and leveraging existing technology  and processes to ease the burden of
+implementation. In our Copyright Office comments, "AIIM recommends an approach
+that currently web search engines follow where the robots.txt metadata file indicates
+
+
+10 whether it's acceptable for a website's content to be indexed or not. Many AI models 
+based on publicly available datasets could draw upon such an approach."  
+2.Supporting standardization of metadata automation for data provenance.
+Interoperability of various record management or content management systems is a
+significant obstacle. Metadata from one system would need to be mapped to the metadata
+of the receiving system for opt outs to be recognized. Industry standards can help
+establish this, but standards are not mandatory without regulation and legislation.
+3.Recognizing the substantial costs of record retention for training data.  There are
+costs for developing and maintaining a record management program. For an AI developer
+to retain training materials at -scale, they would need to employ the principles of records
+management and would likely need to adopt enterprise systems, like Records
+Management systems to not only retain records, but also be able to comply with
+regulatory requirements and possible legal requests. While AIIM avidly supports records
+retention in this instance, it's important to understand the impact on and costs to business
+when considering regulations.
+4.Encouraging approaches that enable content verification rather than requiring
+licensing.  AIIM's recommendation would be to mandate the inclusion o f source
+information as metadata as part of legislation as opposed to requiring licensure to use
+content. Restrictions on content stymie innovation and human creativity. Generative AI
+has the potential to build upon existing human knowledge at a rapid scal e by connecting
+and combining data from a vast number of sources. Licensure could slow the potential of
+generative AI whereas source citations would support and grow use of generative AI by
+building trust in AI outputs amongst users while providing credit to the original copyright
+owners.
+Conclusion  
+AIIM believes that with appropriate policies, the United States can maintain leadership in AI 
+development while ensuring that these technologies are developed and deployed responsibly.  
+The key is to establish pr inciples that encourage innovation while providing the certainty 
+businesses need to confidently adopt and implement AI technologies. Government's role should 
+be to incentivize adoption of accountable, responsible AI. A flexible, universal framework 
+applied  at the federal level would provide entities with the information and surety they need to 
+adopt the technology and fully incorporate it into their operations soundly and safely.  
+The Association for Intelligent Information Management, with our deep expertis e in information 
+management principles and practices across multiple industries, stands ready to assist OSTP in 
+developing effective AI policies that maintain U.S. leadership while promoting responsible use.  
+We look forward to working with you and in colla boration with our member organizations and 
+other stakeholders to support AI innovation and growth while balancing innovation with risk 
+mitigation.  
+
+
+11 Sincerely,  
+Tori Miller Liu, MBA, FASAE, CAE, CIP  
+President & CEO  
+Association for Intelligent Information Management (AIIM)  
+8403 Colesville Rd, #1100 , Silver Spring, MD 20910 USA  
+https://www.aiim.org/   
+### 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential i nformation. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+Works Cited  
+Liu, Tori. Association for Intelligent Information Management. Comment ID NTIA -2023 -0005 -
+1188. Comment on AI Accountability Policy Request for Comment. National 
+Telecommunications and Information Administration, Docket No.  June 12, 
+2023. https://www.regulations.gov/comment/ NTIA -2023 -0005 -1188  
+Liu, Tori.  Association for Intelligent Information Management (AIIM). Comment ID COLC -
+2023 -0006 -8502. Comment on Artificial Intelligence and Copyright. Library of Congress, 
+Copyright Office, Docket No. 2023 -6; COLC -2023 -0006. October 29 , 2023. 
+https://www.regulations.gov/comment/COLC -2023 -0006 -8502  
+Liu, Tori. Association for Intelligent Information Management (AIIM). Comment on PCAST 
+Working Group on Generative AI In vites Public Input. President's Council of Advisors on 
+Science and Technology. July 28, 2023.  
+
+

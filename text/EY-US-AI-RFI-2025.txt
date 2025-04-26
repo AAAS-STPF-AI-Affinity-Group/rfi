@@ -1,0 +1,353 @@
+ 
+E.Y 
+Shape  the future 
+with confidence   
+Ernst  & Young  LLP 
+1101  New York Avenue, NW 
+Washington, DC  20005 -4213   
+Tel: +l 202 327 6000  
+Fax: +1 202 327 6200  
+ey.com 
+ 
+Al Action  Plan 
+Attn: Faisal D'Souza 
+NITRO NCO  
+2415 Eisenhower  Avenue 
+Alexandria,  VA 22314,  USA  March  14, 2025  
+ 
+ 
+ 
+Dear  Mr. D'Souza  
+ 
+Ernst & Young LLP (EY US) is pleased to submit comments1 in response to the White House Office of Science 
+and Technology  Policy  (OSTP)  and Networking  and Information  Technology Research  and Development (NITRO) 
+National Coordination  Office,  which seeks input  on the development  of an artificial intelligence (Al) action plan.  
+ 
+The opportunities  presented  by the widespread  deployment  of Al technologies  could  potentially  lead to scientific 
+breakthroughs,  increase  the efficiency of business operations, conserve resources for  complex and  creative 
+thinking,  and improve  livelihoods. To  achieve  these  outcomes, Al  must  be deployed  in a way that manages risks 
+to all stakeholders  and instills  confidence  in the processes  and outcomes  fueled  by Al. Our submission  provides 
+insights  on Al risks  and governance,  cybersecurity,  and explainability;  three  topics  that, if addressed 
+successfully, will  accelerate  adoption  of Al  and the realization  of the incredible  potential  that Al technology 
+holds for the  United States of America.  
+ 
+We have a unique perspective in the field of Al and machine learning given our network's global, cross -sector 
+footprint  and our experience  developing and deploying Al systems. Our team of dedicated data scientists 
+advises entities across every sector of the economy on adopting a holistic view of automation, process and 
+service improvement. We help organizations craft,  deploy and evaluate Al tools to responsibly  accomplish their 
+digital transformation goals.  
+ 
+EY US is the  US member firm of the global network of EY member firms that provides advisory, assurance, tax 
+and transaction services to entities worldwide. Together  our global network comprises approximately  54,000 of 
+the more than 365,000 EY professionals  worldwide and serves many companies  across a wide range of 
+industries in the US.  
+ 
+Al risks  and governance  
+ 
+Risks  introduced  by Al systems  
+Exponential growth in the adoption of  Al introduces significant  risks that must be managed.  These risks stem 
+from various factors, including inaccurate data sets, lack of transparency in certain Al models, and insufficient 
+human intervention. These factors can create risks to accuracy,  impartiality and reliability. Other risks that are 
+gaining  attention include value chain  dependencies and  "shadow Al"  where employees use  non-approved Al for 
+business purposes, potentially undermining data security, and cybersecurity. Understanding  who will use these 
+tools, when and how they will be deployed, and their specific purposes is essential in qualifying these risks, as 
+well as implementation of appropriate mitigation techniques.  
+ 
+ 
+ 
+ 
+1 This document is approved for public dissemination.  The document contains no  business -proprietary or confidential 
+information. Document contents may be reused by the government  in developing the Al Action Plan and associated 
+documents without attribution.  
+
+EY 
+Shape  the future 
+with confidence  OSTP  NITRO  RFI: 
+Al action  plan 
+2  
+  
+ 
+Although risks will depend on various factors, including use cases and Al  models, key risks associated with Al 
+adoption include:  
+▪ Inaccuracy from predictive Al:  Predictive models trained on historical data may fail to accurately 
+forecast future events, particularly under extreme conditions.  
+▪ Lack of human oversight and  intervention capability: The  absence of human oversight in Al  systems can 
+lead to adverse outcomes, especially when using Al to expedite operations without proper checks.  
+▪ Data privacy violations: Al systems can raise significant privacy concerns, including data persistence, 
+repurposing,  security of intellectual property, and spillover impacting both personal data and corporate 
+data. 
+▪ Partiality:  Algorithmic  partiality  can reflect  human  partiality,  leading  to systematic  errors  in outcomes.  
+▪ Value -chain  dependencies:  
+▪ With Al systems increasingly built on  top of large Al foundation models, there are risks 
+associated with:  
+▪ Service bottlenecks: a single point of failure at the Al  model vendor risking a systemic 
+failure to all downstream services that depend on the same Al model  
+▪ Inability of downstream  Al systems to be  able to switch to a different foundation model 
+provider without significant re -tooling 
+▪ Power  grid and data network  load capacity  limits 
+▪ Operations  and infrastructure  challenges:  
+▪ Insufficient  knowledge  about  Al among  businesses  can expose  them  to risk due to: 
+▪ Inability to assess if  they are buying the right Al for the job 
+Or 
+▪ Inability  to assess  if the Al system  is operating  as it should  be 
+▪ Tech  infrastructure  and energy  capacity  limitations 
+▪ Inadequate  worker  resourcing  
+ 
+Data  challenges  
+Al models  rely on high-quality,  secure  and structured  data to operate  effectively,  thus ensuring  data integrity 
+and security  is essential  for Al trustworthiness.  The need for  robust  data governance  and scalable  infrastructure 
+is becoming  increasingly  critical  as Al adoption  increases.  A primary  challenge  lies around  data fragmentation, 
+as data is often stored and managed across multiple sources, formats and platforms. Without proper data 
+governance,  Al systems may be trained on inconsistent  or incomplete data sets, leading to unreliable outputs.  
+Beyond governance, technology infrastructure  readiness is another key concern. Al applications require high­ 
+performance computing environments, scalable data processing pipelines and cloud -based architectures to 
+function efficiently. The complex computational requirements and large data sets required to train Al models, 
+which may include diverse data types, are straining data infrastructure and pushing the limits of traditional IT 
+and data architectures.  
+ 
+Al risk management  
+As Al technology becomes more widely adopted, effective risk mitigation is essential for building confidence in 
+this critical technology and ensuring responsible Al development  and use. The adoption of broad -scale  Al 
+solutions necessitates robust machine learning operations (MLOps) to manage models efficiently and ensure 
+scalability, version control and consistent performance. Robust data governance  frameworks that emphasize 
+data standardization, lineage tracking and compliance monitoring are critical to ensuring  Al trustworthiness. 
+Responsible  Al principles, including accountability, transparency, security and reliability should be integrated 
+throughout the software development  and Al  system lifecycle. As Al models evolve, real -world changes must be 
+monitored,  along  with ongoing  mitigation  of partiality  and risks  to ensure  model  quality  is maintained.  
+
+EY 
+Shape  the future 
+with confidence  OSTP  NITRO  RFI: 
+Al action  plan 
+3  
+  
+ 
+ 
+Figure  1. Responsible  Al is expected  to apply  to a vast range  of government  domains  in the future  
+ 
+Encouraging  responsible  Al development  and deployment  to support  innovation  
+Supporting responsible Al, where risks are appropriately identified and managed, is essential to confident 
+adoption and ensuring that our nation does not miss out on significant  technological advancements that could 
+enhance its global innovation leadership. Most US executives recognize Al's transformative potential and are 
+actively investing in Al -driven initiatives. According to a  2024 EY survey , 61% of such leaders are also 
+increasingly aware of the  importance of responsible  Al. In response to the growing Al  landscape, governments 
+worldwide are making substantial investments in Al and enhancing their R&D infrastructure by establishing Al­ 
+specific research hubs, advanced computing centers and centers of excellence. These efforts not only foster 
+innovation by providing access to critical computing resources but also promote Al safety through the 
+implementation  of controlled sandbox environments. Ultimately, it is crucial to balance risks and rewards in a 
+time- and cost -effective manner.  
+ 
+Cybersecurity  throughout  the lifecycle  of Al system  development  and deployment  
+ 
+Al cybersecurity  challenges  and new attack  vectors  
+Al systems  introduce  new cybersecurity  threats,  which  are not  as well understood  as traditional  threats.  Both 
+the dynamic and closed nature of many Al systems adds complexity relative to traditional technology systems, 
+which often have clear and transparent  decision -making  paths with predictable behavior based on defined rules 
+and protocols. This additional complexity  makes traditional  security  assurance  techniques,  such as "point in 
+time" security, less effective for Al systems. According to a 2024 Gartner study, almost 30% of enterprises 
+deploying  Al have already  experienced an Al -related security breach. Examples  of new attack vectors targeting 
+Al systems include data poisoning, model inversion and adversarial attacks.  
+
+
+EY 
+Shape  the future 
+with confidence  OSTP  NITRO  RFI: 
+Al action  plan 
+4  
+ 
+ 
+ 
+ 
+ 
+Figure  2. New  cyber  threats  to Al systems  
+ 
+Threats  throughout  the Al lifecyc/e  
+Data security and  privacy risks  are present in each  stage of the Al development and  deployment  lifecycle. The Al 
+lifecycle is comprised of eight stages: use case initiation, data acquisition, data preparation, model 
+experimentation,  validation,  deployment  and production,  monitoring  and maintenance,  and Al solution 
+archiving.  
+ 
+At the early  stages  of the Al lifecycle (i.e., use case initiation,  data acquisition,  and data  preparation),  design 
+and data risks present the greatest threats. These risks can involve an  absence of data protection, data quality 
+issues or a  lack of robustness. When  left unaddressed, these  risks  make Al  systems vulnerable to cyber attacks 
+that can compromise data security and deteriorate model performance.  
+ 
+As the Al lifecycle progresses to the model experimentation  and validation stages, algorithmic risks emerge. 
+These can come from the model exacerbating weaknesses in the data by creating a "feedback loop," poor 
+scalability/performance, and selection of a "black box" model without explainability. Unresolved algorithmic 
+risks often result in models that are too opaque for traditional assurance techniques to be applied to model 
+internals.  
+ 
+After the model has been developed, performance risks can plague the deployment and production and 
+monitoring  and maintenance  stages  of the Al lifecycle.  At this point, it  is important  to track  model  drift, as  well 
+as ensure accountability of the Al system. A lack of proper performance maintenance, such as Al -specific red 
+teaming, creates challenges for incident response teams who can  use performance data to quickly react to and 
+mitigate  potential cyber attacks. For these reasons, is it  vital to incorporate  cybersecurity  support  to mitigate 
+risks that arise throughout the Al lifecycle.  
+ 
+ 
+Figure 3.  Risks throughout  the Al development and deployment lifecycle can create cybersecurity 
+vulnerabilities  
+
+
+EY 
+Shape  the future 
+with confidence  OSTP  NITRO  RFI: 
+Al action  plan 
+5  
+ 
+ 
+ 
+ 
+Al security  best practices  
+Al security  must  account  for evolving  attack  vectors,  require  regular  security  assessments,  resilient 
+development  practices, and real -time monitoring. Regular security testing, including adversarial evaluations and 
+red teaming exercises,  help organizations  identify  vulnerabilities  (e.g., data  poisoning,  model inversion and 
+prompt injection attacks) before they can be exploited. Secure development environments  with built -in code 
+validation, dependency management  and vulnerability detection are key to strengthening Al system resilience. 
+Ensuring data integrity through strict access controls, encryption and provenance tracking protects against 
+unauthorized manipulation and supply chain risks.  
+ 
+Additionally  continuous monitoring and automated detection capabilities enable organizations to proactively 
+identify and mitigate emerging threats.  Al-driven threat  modeling  and attack  simulations  further  enhance attack 
+preparedness,  ensuring cybersecurity  teams can adapt to new and evolving risks. As Al adoption expands, 
+greater  attention  to proactive  security  measures,  transparent  risk assessments  and scalable  monitoring 
+strategies  will help organizations  maintain  trust and operational  integrity  while  fostering  responsible  innovation.  
+ 
+Explainability  of Al model  outputs  
+ 
+What  is Al explainabilitv  and when  is it relevant?  
+The National  Institute  of Standards  and Technology  (NIST) has  led efforts  to support  reliable  and trustworthy 
+use of  Al since  the 2019 executive  order  Maintaining  American  Leadership  in Artificial  Intelligence.  A 
+subsequent  NIST study noted that explainability  is "the mechanistic description of how a system made a specific 
+prediction." That is, explainable Al algorithms seek to bring transparency to how a model makes decisions, thus 
+removing the idea of a "black box" algorithm.  
+ 
+There  are two main  levels  of explainability:  
+1) Global  explanation,  which  refers  to the ability  to explain  how a model  makes  predictions  in general  
+2) Local explanation, which focuses on  explaining how the  model arrives at specific predictions for a given 
+set of inputs  
+ 
+In addition to the two levels of explainability,  there are also six different  types of  explainability depending  on the 
+requirements  of the model and the business -specific considerations  (as outlined in the figure below).  
+ 
+ 
+Figure  4. Types  of Al  explainability  
+
+EY 
+Shape  the future 
+with confidence  OSTP  NITRO  RFI: 
+Al action  plan 
+6  
+  
+ 
+ 
+Different models can require different levels and types of explainability. Explainability needs also depend on 
+business specific considerations.  For example, it is crucial for a health care provider to understand why Al has 
+flagged a potential medical diagnosis, but it is less important  for Al to be able to indicate why an email was 
+flagged as spam. In  general, Al  explainability  is necessary when transparency around the modeling design and 
+outputs is necessary to establish model trust, confidence and fairness among its users.  
+ 
+Benefits  of Al explainability  
+Explainability ensures that the Al model is suitable for its intended purpose and is protected against  partiality 
+before being deployed. This transparency builds trust and  confidence and facilitates fairness. The benefits of Al 
+explainability are  numerous.  It allows  for the quick  detection  of errors  and inconsistencies in  Al models, 
+enabling timely corrections.  Furthermore, understanding  the factors affecting  Al model outputs allows for 
+targeted  optimizations, resulting  in improved  performance  and efficiency.  Insights  into the relationships  
+between input features and model outputs/predictions  aids in making informed business decisions. Trust built by 
+providing insights into how Al models make decisions leads to increased adoption of Al systems.  
+ 
+Al explainability  challenges  
+While Al explainability  models provide valuable  insights into Al  model behavior, they also  pose some  challenges, 
+such as:  
+▪ Explainability - performance trade -off: Al models are often designed with the goal of achieving high 
+accuracy or performance on  a given  task.  However, as  models become  more  complex and  powerful, they 
+tend to achieve higher accuracy but become less transparent  and explainable. Highly complex models  
+(e.g., deep neural networks) often provide superior accuracy but are inherently less interpretable, and 
+simplifying  the model for better  explainability may result  in a trade -off with accuracy.  
+▪ Data privacy and  security concerns: Explainability techniques that rely on accessing and analyzing the 
+model's internal information or training data can potentially raise privacy and security concerns. 
+Accessing sensitive data or proprietary model details may introduce risks if not handled properly.  
+▪ Sensitivity to adversarial attacks: Some explainability  techniques may be vulnerable to adversarial 
+attacks, where malicious actors manipulate input features to mislead or deceive the explanations.  
+▪ Interpretation  challenges to non -experts: Although Al explainability techniques aim to make an Al model 
+understandable,  some users may not have the necessary background knowledge to fully understand the 
+explanations provided.  
+ 
+Implementing  Al explainability  
+NIST has  introduced guidance for determining  whether an explanation adequately meets user needs. According 
+to this guidance, an Al system should provide evidence and reasoning for its outcomes, offer understandable 
+explanations  that meet the needs of diverse users, accurately reflect its output generation process, and  operate 
+within its designed conditions while maintaining  sufficient  confidence in its outputs.  
+ 
+To achieve explainability  based  on this guidance, various eXplainable Al  (XAI)  algorithms have been  developed 
+and utilized, often falling into two broad categories:  
+ 
+1) Self-interpretable models, which refer to Al/ML models that are inherently designed to be easily 
+understood and interpreted by humans, with simple and straightforward decision -making processes. 
+Examples of self -interpretable  models include linear regression, logistic regression, Generalized Linear 
+Model  (GLM), Generalized Additive Model  (GAM), decision trees, decision  rules,  and Na'ive Bayes 
+Classifier.  
+2) Post-hoc explanations, which are explanations generated after the Al model has made a prediction. 
+These  post-hoc explanation algorithms are applied to existing complex Al  models to shed  light on their 
+decision -making  processes. Post -hoc explanations can  be global, explaining how a model makes  
+
+ 
+ 
+EY 
+Shape  the future 
+with confidence   
+ 
+OSTP  NITRD  RFI: 
+Al action  plan 
+ 
+predictions in general,  or local,  explaining how the model arrives at specific predictions for  a given  set 
+of inputs. Instances of post -hoc explanations include example -based explanations, Local Interpretable 
+Model -agnostic Explanations (LIME), SHapley Additive exPlanations (SHAP), Individual Conditional 
+Expectation (ICE), Accumulated  Local Effects (ALE), Partial Dependency Plot (PDP),  and Friedman's  H­ 
+statistic.  
+ 
+Each explainability model has unique advantages and disadvantages, including trade -offs between accuracy and 
+interpretability (as discussed above), so selection  of an  explainability approach depends on the specific use case, 
+stakeholders and explanation requirements.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure  5. Explainability  vs. accuracy  for various  Al/ML  models  
+We commend  OSTP  and the NITRD  National  Coordination  Office  for seeking  feedback  on the development  of an 
+Al action  plan. As we have described,  identifying  and managing  risk through  effective  Al governance  will 
+support  confidence  and widespread  adoption  of Al in the US. Embracing  responsibly  Al innovation  will allow the 
+US to realize  the enormous  potential  Al holds for people  and businesses  alike. We look forward  to our continued 
+engagement  with your office  as these  important  policies  are developed.  
+ 
+If you have further questions, please contact  John Hallmark in the EY  Office  of Public Policy 
+Yours sincerely,  
+ 
+ 
+ 
+Ernst & Young  LLP 
+ 
+ 
+ 
+ 
+7 
+

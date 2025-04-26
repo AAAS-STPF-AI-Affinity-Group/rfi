@@ -1,0 +1,214 @@
+1 
+Response to the White House  
+Artificial Intelligence Action Plan  
+AI Action Plan  
+Attn: Faisal D'Souza, NCO  
+2415 Eisenhower Avenue  
+Alexandria, VA 22314  
+This letter is written by AI leaders at UC San Diego Health and UCSF Health and includes co -signatories from 
+other institutions.  
+On January 23, 2025, President Trump signed Executive Order 14179, “Removing Barriers to American 
+Leadership in Artificial Intelligence,” to establish U.S. policy for sustaining and enhancing America's position as a 
+leader in AI through the development of an AI Action Plan focused on  human flourishing, economic 
+competitiveness, and national security.  At the invitation of the Office of Science and Technology Request for 
+Information, we are writing to share policy ideas for the AI Action Plan with a focus on improving American 
+health and healthcare.  
+As health AI leaders within two large health systems  with nationally recognized AI expertise ,1 we appreciate the 
+renewed attention to considering how AI tools should be regulated, governed, and used in the care of patients. 
+The current regulatory environment is fragmented , with multiple federal entities involved in certain aspects of 
+AI regulation to varying degrees . This has stifled innovation by creating  uncertainty among health systems, AI 
+companies, and AI researchers  in how to safely evaluate and implement new and groundbreaking AI tools . The 
+absence of clear federal guidance is leading  to a pa tchwork of state -based regulation, which will further slow 
+adoption of health AI. In this letter, we highlight 3 opportunities to improve AI policy as it pertains to healthcare : 
+1)make AI procurement easier for health systems through improved  transparency; 2) streamline  software -as-
+medical device (SaMD) regulation for health AI tools; and 3) lift restrictions  on the use of AI -powered  translation
+tools.
+1.Make AI procurement easier for health systems through transparency .
+We recommend the adoption of basic transparency requirements for AI companies to ensure health systems 
+can make informed purchasing decisions based on technological merit rather than marketing claims.  
+Currently, the Office of National Coordinator’s HTI -1 Final Rule requires AI developed by certified electronic 
+health record ( EHR) vendors to disclose 31 “source attributes” about predictive AI systems used to support 
+clinical decision -making.2 These source attributes consist of basic facts about a model, like the ingredients of a 
+recipe. We have found the source attributes helpful in screening and evaluating models. Certain information 
+about how an AI model was trained may make it more or less useful  to a health system.  
+We would like to see these same transparency expectations extended to health AI companies, and not just EHR 
+vendors. In the absence of this requirement, AI companies are free to decide which ingredients to share. As a 
+result, health systems often end up maki ng decisions based on misleading marketing claims that are actually 
+artifacts of the way AI tools were trained or tested.  
+
+
+2 Why this is important:  As high -quality evidence begins to link the use of predictive and generative AI with better 
+patient and clinician outcomes , health systems are eager to adopt them . For instance, the deployment of one 
+sepsis predictive AI model at  UC San Diego Health reduced death from sepsis by 17%, leading to about 50 lives 
+saved in our health system annually.3 However, this is a best -case scenario. Health systems often waste a 
+tremendous amount of time and resourc es testing models internally, only to find that they don’t perform 
+adequately or even pos e a risk to patient s. One such example involved a sepsis model deployed at multiple 
+health systems4–6 where the model’s poor performance was attributed to its reliance on the prescription of 
+intravenous (IV) antibiotics as a predictor of sepsis .  This is not helpful clinically because, as you might imagine, 
+once antibiotics are prescribed the physician is already concerned about infection. With dozens  of sepsis models 
+currently on the market, health systems have no way to compare basic facts about AI tools (such as which 
+predictors they rely upon), which can be the difference between a model that saves liv es and one that wastes 
+valuable clinician time.   
+2. Streamline software -as-medical -device ( SaMD ) regulation for health AI tools .
+We recommend that a unified approach be developed for overseeing health AI tools, regardless of whether 
+those tools are developed by electronic health record (EHR) vendors, AI companies, or AI researchers.  While 
+EHR vendors can develop and deploy AI tools in health systems with minimal oversight, AI companies including 
+startups must navigate the Food and Drug Administration’s SaMD processes, which treat many AI tools used for 
+clinical decision support as medical devices.7 While well -intentioned, a series of nonbinding guidance documents 
+from the FDA have led to further confusion about which AI tools are considered medical devices and the 
+resulting implications.  Health systems are hesitant to adopt technology that is not FDA approved when it is 
+unclear whether it constitutes SaMD . 
+Lacking other guidance, i nstitutional review boards responsible for research oversight have pointed to FDA 
+standards to determine the risk of research using AI tools. This has led to inconsistent requirements, where 
+researchers and AI companies have the potential to be subject to more scrutiny than EHR vendors even when all 
+three bodies are deploying models with equivalent functionality (and thus similar risk).  Clarity is also needed on 
+where responsibility lies for the evaluation, deployment, and monitorin g of AI -enabled tools. Health systems are 
+not adequately equipped —either in terms of expertise or resources —to prevent AI -related harms from reaching 
+clinicians and patients.  
+Why this is important: Without unified  guidance , health systems are in the precarious position of having to 
+independently assess whether an AI tool is safe for clinical use. More predictable regulatory pathways would 
+help ensure responsible adoption while reducing legal uncertainty. One area that would especially benefit from 
+a clear regulatory pathway is the  use of AI -powered direct -to-patient chatbots  and voice AI . These  have the 
+potential to expand access to car e but may make mistakes. Standardizing how these are evaluated would greatly 
+help health systems interested in adopting these, especially when they lack local AI evaluation expertise . To put 
+this into context, a recent bill propose s to allow states to authorize  AI to prescribe medications,8 a significant 
+step beyond conversational AI. Before AI is used to practice medicine, there must be clear accountability 
+frameworks for the use of these  tools  for more basic tasks . 
+3. Lift restrictions  on the use of AI -powered translation tools .
+We recommend that restrictions on the use of AI-powered translation tools should be lifted for 
+communicating with individuals who are not fluent in English  in a phased manner , commensurate with the 
+improvement of the quality of the AI tools over time. Currently, Title VI of the Civil Rights Act of 1964 and 
+Section 1557 of the Affordable Care Act require the use of interpreters for patients receiving services covered by 
+
+
+3 the U.S. Department of Health and Human Services.9 If a covered entity uses “machine translation, ” (i.e., AI),  
+those translations must be reviewed by a qualified human translator to ensure accuracy, “when accuracy is 
+essential,” “when the source documents or materials contain complex, nonliteral or technical language,” or 
+“when the underlying text is critical to t he rights, benefits, or meaningful access” of individuals with limited  
+English proficiency ( 45 CFR § 92.201(c)(3) ). We recognize the key role that interpreters play in ensuring accurate 
+in-person communication between clinicians and patients, and that translators play in accurate translation of 
+standardized documents such as consent forms.  However, immediate translation services are often not 
+available, particularly in low -resource settings, leading clinicians to defer conversations or use online translation 
+tools that haven’t been properly vetted for use in patient care. AI -powered translat ion presents a tremendous 
+opportunity to improve access for patients with limited English proficiency.  
+There  has been a substantial shift in how people access healthcare, with much more healthcare taking place via 
+secure text messaging between patients and their care teams  than ever before . Secure text messaging is used to 
+address non -urgent concerns, and it is common for multiple short messages to be exchanged to address an 
+issue. For brief messages, AI tools have been shown to be accurate in generating medical translations for a 
+subset of languages, and patients have shown high satisfaction rates with the use of this technology in multiple 
+studies.10 However, because of regulations restricting the use of AI tools for translation, patients ultimately face 
+a worse experience where messages may be delayed or avoided altogether. Lifting these regulations, if done 
+thoughtfully in a phased approach, will  improve language access for patients with limited English proficiency.   
+We appreciate your consideration of these recommendations. Further, we note that the University of California, 
+UC San Diego Health, and UCSF Health abide by a set of shared principles for the use of AI.11,12 We believe that 
+our recommendations are consistent with these principles, including that the use of AI should be appropriate; 
+transparent; accurate, reliable, and safe; fair and non -discriminatory; respectful of privacy and security; 
+reflective of human v alues; geared towards shared benefit and prosperity; and that we are accountable for its 
+use. 
+Karandeep Singh, MD, MMSc  
+Chief Health AI Officer  
+UC San Diego Health  
+Christopher Longhurst, MD, MS  
+Chief Clinical and Innovation Officer  
+Executive Director, Jacobs Center for Health Innovation  
+UC San Diego Health  Sara Murray, MD, MAS  
+Chief Health AI Officer  
+UCSF Health  
+Atul Butte, MD, PhD, FACMI  
+Distinguished Professor and Director, Bakar 
+Computational Health Sciences Institute  
+University of California, San Francisco  
+
+
+4 Additional signatories:  The following experts  have electronically co -signed our letter. The names  below 
+represent the views of the signatories and not necessarily of their institutions.  
+University of California , Office of the President  
+Noelle Vidal, JD, CHRC (Healthcare Compliance & Privacy Officer, University of California)  
+University of California, Davis  
+Rachael A Callcut, MD, MSPH, FACS  (Asso c. Dean of Data Science and Innovation, School of Medicine ) 
+Scott MacDonald , MD, FACP, FAMIA (Chief Medical Information Officer, UC Davis Health)  
+University of California, Irvin e 
+David Merrill, MS ( Director, Enterprise Data and Analytics,  UC Irvine  Health)  
+Deepti Pandita MD, FACP, FAMIA (CMIO & VP of Clinical Informatics , UC Irvine Health ) 
+University of California, Los Angeles  
+Paul J. Lukac, MD, MBA, MS (Director  of Applied AI, UCLA Health ) 
+University of California, San Diego  
+Jennifer Holland, MS (Director, Analytics and Population Health , UC San Diego Health ) 
+Keisuke Nakagawa, MD  (Director of Strategic Impact & Growth, Jacobs Center for Health Innovation ) 
+Shamim Nemati, PhD  (Director of Predictive Health Analytic s, Depart ment  of Biomedical Informatics ) 
+Amy M. Sitapati, MD ( Chief Medical Information Officer, Population Health, UC  San Diego Health)  
+Berk Ustun, PhD  (Halıcıoğlu Data Science Institute ) 
+University of California, San Francisco  
+Julia Adler -Milstein, PhD  (Chief of the Division of Clinical Informatics & Digital Transformation ) 
+Ki Lai, MS  (Chief Data & Analytics Officer , UCSF ) 
+Case Western Reserve University  / MetroHealth  
+Yasir Tarabichi , MD, MSCR  (Chief Health AI Officer, MetroHealth)  
+Coalition for Health AI  
+Brian Anderson, MD  (Chief Executive Officer)  
+Lucy Orr -Ewing  (Chief of Staff and Head of Policy)  
+Emory University  
+Alistair Erskine , MD, MBA (SVP/Chief Information and Digital Officer, Emory Healthcare and Emory University)  
+University of Michigan , Ann Arbor  
+Aisha Benloucif (School of Information)  
+Sean Meyer, PhD ( Lead Engineer, Machine Learning Operations , Michigan Medicine)  
+Carleen Penoza, MHSA, BSN, RN, NI -BC (Chief Nursing Informatics Officer , Michigan Medicine ) 
+Jodyn Platt, PhD ( Director of Trust, Innovation, and Ethics Research for Responsible AI  Lab) 
+Kayte Spector -Bagdady, JD, MBe, HEC -C (Medical School)  
+Dalya Saleem, MSc  (Medical School)  
+Andrew Wong, MD (Institute for Healthcare Policy and Innovation)  
+NewYork -Presbyterian  
+Ashley Beecy , MD (Medical Director of Artificial Intelligence Operations)  
+
+
+5 Oregon Health & Science University  
+David Dorr, MD, MS, FACMI, FAMIA, FIAHSI  (Director, Center for AI -enabled Learning Health Science ) 
+Shannon McWeeney, PhD (OHSU Knight Cancer Institute)  
+Stanford University  
+Emily Alsentzer, PhD  (Biomedical Data Science ) 
+Lawrence V. Hofmann, MD  (Chief of Industry Partnerships  & Med. Director of Digital Health, Stanford Medicine)  
+Tufts University  
+David Kent , MD, MS ( Director of the Tufts Predictive Analytics and Comparative Effectiveness Center ) 
+University of Utah  
+Donna M. Roach, MS, CHCIO, CDH -E, LFCHIME, LFHIMSS (Chief Information Officer, Univ. of Utah Health)  
+Vanderbilt University Medical Center  
+Adam Wright, PhD, FACMI, FAMIA, FIAHSI  (Director , Vanderbilt Clinical Informatics Center ) 
+Washington University, St. Louis  
+Philip R.O. Payne, PhD (Chief Health AI Officer, Wash U Medicine and BJC Health System)  
+
+
+6 References  
+1. Dyrda L. 11 health systems leading in AI [Internet]. [cited 2025 Mar 10]. Available from:
+https://www.beckershospitalreview.com/healthcare -information -technology/11 -health -systems -leading -in-
+ai.html
+2. Health data, technology, and interoperability: Certification Program updates, algorithm transparency, and
+information sharing (HTI -1) final rule [Internet]. [cited 2025 Mar 10]. Available from:
+https://www.healthit.gov/topic/laws -regulation -and-policy/ health -data -technology -and-interoperability -
+certification -program
+3. Boussina A, Shashikumar SP, Malhotra A, Owens RL, El -Kareh R, Longhurst CA, Quintero K, Donahue A, Chan
+TC, Nemati S, Wardi G. Impact of a deep learning sepsis prediction model on quality of care and survival.
+NPJ Digit Med. Springer Science and Busine ss Media LLC; 2024 Jan 23;7(1):14. PMCID: PMC10805720
+4. Wong A, Otles E, Donnelly JP, Krumm A, McCullough J, DeTroyer -Cooley O, Pestrue J, Phillips M, Konye J,
+Penoza C, Ghous M, Singh K. External Validation of a Widely Implemented Proprietary Sepsis Prediction
+Model in Hospitalized Patients. JAMA Intern Me d. 2021 Aug 1;181(8):1065 –1070. PMCID: PMC8218233
+5. Kamran F, Tjandra D, Heiler A, Virzi J, Singh K, King JE, Valley TS, Wiens J. Evaluation of sepsis prediction
+models before onset of treatment. NEJM AI [Internet]. Massachusetts Medical Society; 2024 Feb 22;1(3).
+Available from: http://dx.doi.org/10.10 56/aioa2300032
+6. Lyons PG, Hofford MR, Yu SC, Michelson AP, Payne PRO, Hough CL, Singh K. Factors associated with
+variability in the performance of a proprietary sepsis prediction model across 9 networked hospitals in the
+US. JAMA Intern Med [Internet]. 2023 Apr 3; Ava ilable from:
+http://dx.doi.org/10.1001/jamainternmed.2022.7182 PMCID: PMC10071393
+7. Center for Devices, Radiological Health. Clinical decision support software - guidance [Internet]. U.S. Food
+and Drug Administration. FDA; 2025 [cited 2025 Mar 10]. Available from: https://www.fda.gov/regulatory -
+information/search -fda-guidance -document s/clinical -decision -support -software
+8. [Cited 2025 Mar 10]. Available from: https://www.congress.gov/bill/119th -congress/house -bill/238
+9. [Cited 2025 Mar 10]. Available from: https://www.hhs.gov/civil -rights/for -individuals/special -topics/limited -
+english -proficiency/index.html
+10. Genovese A, Borna S, Gomez -Cabello CA, Haider SA, Prabha S, Forte AJ, Veenstra BR. Artificial intelligence in
+clinical settings: a systematic review of its role in language translation and interpretation. Ann Transl Med.
+2024 Dec 24;12(6):117. PMCID: PMC11729812
+11. [Cited 2025 Mar 10]. Available from: https://www.ucop.edu/ethics -compliance -audit -
+services/compliance/uc -ai-working -group -final -report.pdf
+12. Healthcare AI at UCSD health [Internet]. [cited 2025 Mar 10]. Available from:
+https://healthinnovation.ucsd.edu/our -principles
+
+

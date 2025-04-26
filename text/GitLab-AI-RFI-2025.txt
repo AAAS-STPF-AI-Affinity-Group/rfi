@@ -1,0 +1,255 @@
+Comments  on the 2025  AI Action  Plan  Request  for Information  
+March  14, 2025   
+Submitted  to 
+Faisal  D’Souza  
+National  Coordination  Office 
+Networking  and Information  Technology  Research  and Development  
+National  Science  Foundation  
+2415  Eisenhower  Avenue  
+Alexandria,  VA 22314  
+ 
+Submitted  by 
+Joel Krooswyk,  Federal  CTO, GitLab  
+Paul Pickhardt,  Senior  Solutions  Architect,  GitLab  
+ 
+Introduction  
+As the United  States  works  to maintain  its global  leadership  in Artificial  Intelligence,  the 
+respondents  from GitLab  appreciate  the opportunity  to provide  input  on the forthcoming  
+AI Action  Plan.  Our response  is influenced  by one of the most  commonly  adopted  
+current  use cases,  which  is the use of generative  AI to aid in the Software  Development  
+Life Cycle  (SDLC).  
+Our response  does  the following:  
+○ Advocates  for establishing  frameworks  that prioritize  government  access  to 
+commercial  AI technologies.  
+○ Explains  our view of AI as a valuable  aid to enhance  human  innovation,  creating  
+efficiencies  that allow  teams  to accomplish  more  with fewer  resources.  
+○ Highlights  the importance  of transparent  governance  frameworks  that protect  
+intellectual  property  and data sovereignty  while  enabling  innovation,  ensuring  
+organizations  have  clear  data handling  policies  when  implementing  AI solutions.  
+○ Provides  recommendations  that aim to balance  technological  advancement  with 
+proper  governance  in service  of strengthening  economic  competitiveness,  
+enhancing  national  security , and serving  the public  interest.  
+1 
+
+About  GitLab  
+GitLab  is the most  comprehensive  AI-powered  DevSecOps  platform.  Founded  in 2011, 
+GitLab  provides  a single  platform  for version  control,  continuous  integration,  
+deployment,  monitoring,  security  and Artificial  Intelligence,  all integrated  into a unified  
+interface.  GitLab  offers a complete,  scalable  solution  that enables  teams  to collaborate  
+seamlessly  from planning  to production.  GitLab’ s open-core  platform  helps  
+organizations  deliver  software  faster  and more  efficiently  while  strengthening  their 
+security  and compliance.  
+1. Prioritizing  and Accelerating  Government  Access  to Commercial  AI Solutions  
+Given  the current  administration’ s strong  focus  on modernizing  legacy  systems  and 
+increasing  government  efficiency , we urge you to institute  an efficient  framework  to 
+prioritize  the authorization  of commercial  cloud-based  systems  which  implement  
+Artificial  Intelligence  for use by government  agencies.  Such  a framework  (likely  as part 
+of FedRAMP)  would  benefit  from prioritization.  
+Continued  AI leadership  depends  on the government  prioritizing  and simplifying  access  
+to cutting-edge  technology  through  streamlined  acquisition  processes,  which  will 
+simultaneously  improve  governmental  efficiency . Not only can commercial  systems  
+replace  numerous  legacy  government  systems,  but also the use of AI-augmented  
+platforms  can dramatically  increase  productivity  and decrease  personnel  requirements  
+when  modernizing  applications  and transitioning  them  to modern,  memory  safe 
+programming  languages.  Further , commercial  cloud  software  systems  offer users  the 
+most  recent  and secure  versions  of software  while  freeing  agencies  from maintenance  
+responsibilities.  
+2. Encouraging  Government/Industry  Collaboration  
+ 
+While  collaboration  is frequently  discussed  in public  forums,  the partnership  between  
+industry  and government  contains  immense  opportunity  for growth.  To strengthen  
+collaboration  between  public  and private  organizations,  consider  continued  solicitation  
+from industry  such  as this RFI. The open-ended  nature  of this particular  RFI enables  
+industry  to share  prioritized  feedback  within  their area of expertise  with fewer  RFI 
+boundary  limitations.  
+ 
+Collaboration  can further  be elevated  through  enhanced  knowledge  sharing.  Recent  
+bills, such  as the SHARE  IT Act and the OPEN  Government  Data  Act, encourage  code  
+sharing  and data sharing  within  government  agencies  - in many  cases  sharing  that data 
+with industry  and with the constituency . We would  similarly  encourage  consideration  of 
+the formation  of open  forums,  working  groups,  workshops,  and events  focused  on 
+2 
+
+furthering  AI leadership,  security , and standards  where  government  and industry  can 
+collaborate  continuously .  
+ 
+3. Understanding  AI’s Strengths  and Opportunities  for Innovation  
+Generative  AI systems  today  excel  at rapidly  generating  configuration,  initiating  
+projects,  providing  solutions,  and analyzing  requirements.  This can serve  as a strong  
+foundation  - what  might  constitute  the first 50-70%  of a project  or task.  AI systems  can 
+quickly  process  large  amounts  of historical  information  through  model  training  and 
+inference,  producing  coherent  outputs  that follow  patterns  they've  learned.  However , 
+these  systems  typically  fall short  of delivering  completely  polished,  contextually  
+appropriate  results  because  they lack the ability  to innovate  and to truly understand  a 
+human's  ultimate  vision  or intended  direction.  
+The remaining  30-50%  of AI-led  project  work  then requires  human  refinement,  
+judgment,  creativity , and iteration.  Humans  bring  crucial  context  about  their specific  
+needs,  organizational  culture,  audience  expectations,  and long-term  goals  - elements  
+that AI does  not readily  provide.  Further , by shifting  the initial  50-70%  of an effort to AI, it 
+gives  people  increased  opportunity  to innovate  and enhance  the initial  AI output  to 
+produce  bold,  new solutions  that AI could  not have  been  trained  on, simultaneously  
+improving  employee  engagement  and satisfaction.  
+4. Governance  Through  Transparency  for Data  Protection  
+The protection  of intellectual  property  and data sovereignty  has become  a crucial  
+consideration  as organizations  adopt  AI technologies.  Open  and transparent  AI 
+statements,  particularly  those  with clear  data handling  policies  and geographical  
+restrictions,  provide  organizations  with the confidence  to leverage  these  tools  without  
+compromising  proprietary  or classified  information.  Organizations  should  make  informed  
+decisions  about  which  AI systems  to use based  on explicit  vendor  statements  about  
+data retention,  model  training  practices,  and geographical  data storage  locations.  
+A comprehensive  example  of clearly  explaining  data handling,  privacy , and continuity  is 
+publicly  available  in GitLab’ s AI Transparency  Center . 
+Organizations  are increasingly  seeking  AI solutions  that offer contractual  guarantees  
+against  using  their data for model  training  or sharing  it with foreign  entities  (DeepSeek,  
+for example).  This is especially  important  for the government,  for industries  with 
+sensitive  intellectual  property , and for those  subject  to strict  regulatory  requirements.  
+The ability  to choose  AI systems  that maintain  data within  specific  geographical  
+boundaries  (like the US, EU, or UK) helps  organizations  comply  with data protection  
+regulations  while  still benefiting  from AI capabilities.   
+3 
+
+Some  companies  and agencies  require  especially  strict  data protection  and/or  
+regulation,  including  government  classified  systems  which  cannot  be connected  to the 
+Internet  to leverage  many  AI services.  These  organizations  should  look to host AI 
+models  within  their own data centers  so that sensitive  data never  leaves  their networks.  
+While  there  is more  overhead  required  with this solution  than using  commercial  cloud  
+services,  the data privacy  and control  advantages  are unquestioned.  Further , the ability  
+to match  specific  models  to your organization’ s individual  needs  can bring  rewards  in 
+terms  of performance  optimization  and resource  utilization.  A self-hosted  AI solution  
+also offers the option  of incorporating  Open  Source  Software  models  for those  users  
+who place  trust in such  architectures  and/or  those  looking  to control  costs.  
+Hybrid  solutions  may also be considered.  For example,  initial  software  development  can 
+be completed  on an unclassified,  Internet-connected  system  which  then gets 
+automatically  synchronized  via a one-way  low-to-high  diode  for completion  of classified  
+development  using  air-gapped  self-hosted  AI models.  This granular  control  over data 
+exposure  allows  organizations  to balance  the benefits  of AI assistance  with their 
+security  requirements.  
+5. Increasing  Efficiency  via AI (Software  Development  Use Case)  
+Generative  AI can be harnessed  throughout  the SDLC  to increase  the efficiency  of 
+modern  software  development,  model  development,  and open  source  development.  
+AI-powered  code  suggestions  and completions  help developers  write  code  faster . When  
+reviewing  code,  AI can automatically  analyze  changes,  summarize  team  comments,  
+suggest  improvements,  and even  explain  complex  code  segments  to reviewers,  
+significantly  accelerating  the review  process.  
+In the software  testing  domain,  AI can generate  test cases  and testing  frameworks  
+based  on the application  code,  reducing  the time developers  spend  on test creation  
+while  improving  coverage.  Similarly , AI can automatically  generate  and update  
+documentation  as code  changes,  keeping  technical  documentation  in sync with the 
+codebase  without  requiring  manual  intervention.  This is particularly  valuable  for 
+maintaining  accurate  documentation  in fast-moving  projects.  
+Software  security  can also be implemented  more  efficiently  using  AI capabilities,  as it 
+can consistently  identify  potential  vulnerabilities  during  the development  itself,  before  
+code  is checked  in and reviewed.  AI can explain  identified  security  issues  to the 
+developer  and either  suggest  remediation  or automate  remediation  of known  
+vulnerabilities  completely . By integrating  these  AI features  directly  into existing  
+workflows,  teams  can maintain  their existing  processes  while  gaining  significant  
+efficiency  improvements.   
+4 
+
+6. Modernizing  Legacy  Systems  using  AI (Software  Refactoring  Use Case)  
+Another  critical  software-related  use case  for Generative  AI is the role it can play in 
+modernizing  legacy  systems,  dramatically  reducing  technical  debt while  maintaining  
+ongoing  operations.  AI-powered  software  development  can analyze  existing  codebases  
+to insert  missing  comments  and documentation,  quickly  remediate  security  
+vulnerabilities,  propose  opportunities  for improvement,  and suggest  specific  
+modernization  approaches.  This automated  analysis  helps  teams  prioritize  which  
+aspects  of their legacy  systems  need  immediate  attention  versus  what  can be 
+addressed  over time.  AI’s ability  to understand  context  means  it can suggest  
+incremental  improvements  that align  with the team's  current  modernization  efforts;  
+however , AI-powered  DevSecOps  can also contribute  substantially  to the complete  
+refactoring  of older  codebases  into Memory  Safe Languages  (MSL)  in keeping  with the 
+urging  of most  cybersecurity  professionals.  
+7. Using  AI to Augment  the Workforce  
+Generative  AI-enabled  platforms  enable  smaller  teams  to accomplish  more  by acting  as 
+a force  multiplier  across  multiple  activities.  AI assistance  in the software  development  
+lifecycle  scenario  can make  teams  more  efficient  in several  key ways,  which  also 
+translates  to other  use cases  that can leverage  generative  AI: 
+a) Automated  code  generation  - AI can automate  code  creation,  complete  functions,  
+and even  generate  entire  components  based  on requirements,  reducing  manual  
+effort and workload  for staff while  diminishing  the need  for additional  personnel  
+for new or complex  projects.  Model  quality  is essential  for optimal  coding  inputs  
+from AI. Model  training  transparency  with auditable  development  processes  is 
+highly  desirable  to minimize  risk of malicious  inclusions.  
+b) AI-led  legacy  application  refactoring  - AI-powered  software  development  features  
+a built-in  refactoring  capability  which  can reduce  code  complexity , improve  
+performance,  simplify  the modernization  of 3rd party  components,  or even  
+translate  entire  codebases  from an outdated  programming  language  to a more  
+modern  one. A capability  such  as this opens  the door to modernization  and 
+innovation  on projects  where  it could  not be previously  considered  due to 
+workforce  limitations,  project  length,  and overall  risk. 
+c) Accelerated  debugging  and root cause  analysis  - AI can identify  bugs,  explain  
+security  vulnerabilities,  suggest  fixes,  and explain  code  behavior , allowing  
+developers  to solve  problems  and remediate  vulnerabilities  far more  quickly , 
+independently , and efficiently  without  having  to rely heavily  on security  staff to 
+review  all issues.  AI-assisted  troubleshooting  in any context  can not only save  
+substantial  time for users,  but it can also minimize  handof fs to other  teams  and 
+the associated  efficiency  losses  due to context  switching.  
+5 
+
+d) Automated  testing  - AI can generate  test cases  for newly  written  code,  relieving  
+the developer  from having  to spend  time on this onerous  task.  More  thorough  
+validation  of any work  prior to its deployment  into real-world  applications  can 
+save  significant  cost and disruption  risk after rollout.  
+e) Augmented  code  reviews  - AI can identify  the best team  members  to perform  
+reviews  while  quickly  summarizing  the changes  and comments  made  by other  
+team  members,  decreasing  the time required  for each  review . Generative  AI is 
+not a replacement  for humans,  but it can augment  their work  substantially  by 
+prioritizing  work,  identifying  unseen  risks and enabling  more  holistic,  
+comprehensive  outcomes.  
+f) Just-in-time  knowledge  - Developers  can leverage  AI to access  expertise  and 
+best practices  in the context  of their work,  closing  skill gaps  and reducing  
+reliance  on senior  developers.  Accessing  AI within  the context  of daily work  
+enables  more  effective  task execution,  more  efficient  ideation,  and a means  to 
+rapidly  overcome  issues  that block  work.  Sufficient  data center  power , adequate  
+compute,  general  systems  availability , and worker  enablement  are critical  to 
+unlocking  this efficiency  at scale,  particularly  as agentic  AI and other  “always  on” 
+AI applications  are being  deployed.  
+g) Rapid  onboarding  - New team  members  can begin  contributing  sooner , and 
+existing  teams  can more  easily  integrate  new members,  maintaining  productivity  
+during  personnel  turnovers.  Turning  to AI for answers  during  onboarding  
+expedites  the time to contribute  for new employees  or for those  new in their role. 
+h) Documentation  generation  - AI can create  and maintain  documentation,  API 
+references,  and comments  automatically , freeing  developers  from these  
+time-consuming  tasks.  Documentation  generation  is a significant  value  that AI 
+presents  in all work  contexts.  
+The most  significant  efficiency  gains  come  from allowing  developers  to focus  on 
+high-level  architecture  and business  logic while  AI handles  repetitive  implementation  
+details.  This doesn't  eliminate  the need  for developers,  but it does  allow  smaller  teams  
+to accomplish  multiples  more  work  while  maintaining  high standards  across  all aspects  
+of development.  The software  development  scenario  can be imagined  across  many  
+other  roles  and industries  to provide  similar  gains  and outcomes,  providing  clear  
+rationale  for requiring  comprehensive  AI model  and system  transparency  before  use. 
+8. Research  to Support  Secure  AI 
+A final topic  that is particularly  important  is continued  research  into the security  
+implications  of generative  AI use in software  development.  Executive  Order  14144  
+tasked  NIST , the Department  of Energy , the DHS  Science  and Technology  Directorate,  
+and the National  Science  Foundation  with prioritizing  research  into the security  of AI 
+6 
+
+coding  assistance,  including  the security  of AI-generated  code.  Given  the clear  future  of 
+pervasive  use of generative  AI in software  development,  it is critical  that the US 
+Government  do everything  it can to ensure  the security  of such  code,  especially  for 
+deployment  into critical  infrastructure  and National  Security  Systems,  and to prevent  the 
+unintentional  or malicious  introduction  of insecure  code  via AI models.  
+Conclusion  
+In summary , the integration  of AI to daily work  represents  a transformative  opportunity  
+for government  efficiency , modernization,  and global  competitiveness.  By establishing  
+frameworks  that prioritize  government  access  to commercial  AI technologies,  we can 
+enable  smaller  teams  to accomplish  more  while  maintaining  high standards  across  all 
+aspects  of development.  The appropriate  balance  of AI augmentation  with human  
+expertise  creates  a powerful  synergy  that accelerates  innovation  while  addressing  the 
+critical  personnel  challenges  facing  government  IT departments.  
+To maximize  these  benefits,  we recommend  that the AI Action  Plan emphasize  
+transparent  governance  frameworks,  support  for diverse  deployment  models  that 
+protect  intellectual  property  and data sovereignty , and continued  research  into AI code  
+security . These  measures  will ensure  that AI adoption  serves  the public  interest  while  
+enhancing  national  security  and economic  competitiveness.  GitLab  stands  ready  to 
+support  the government  in implementing  these  recommendations  and advancing  the 
+responsible  development  and application  of AI technologies.  
+ 
+This document  is approved  for public  dissemination.  The document  contains  no 
+business-proprietary  or confidential  information.  Document  contents  may be reused  by 
+the government  in developing  the AI Action  Plan and associated  documents  without  
+attribution.  
+7 
+

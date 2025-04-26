@@ -1,0 +1,398 @@
+LavaCr ypt, LLC 
+Kadeem Jeffery 
+ 
+Faisal D'Souza, NCO  
+Office of Science and Technology Policy  
+Executive Office of the President  
+2415 Eisenhower Avenue  
+Alexandria, VA 22314  
+Submitted by email to ostp -ai-rfi@nitrd.gov  
+Re: Request for Information (RFI) on the Development of an Artificial 
+Intelligence (AI) Action Plan ("Plan")  
+Date:  March 10, 2025  
+Subject:  AI Action Plan  
+Statement:   
+This document is approved for public dissemination and contains no business -
+proprietary  or confidential information. The government may reuse its contents 
+in developing the AI Action Plan and associated documents without attribution.  
+Summary:  
+LavaCrypt, a research and development company specializing in cybersecurity, 
+AI, and quantum comput ing technologies, commends the Office of Science and 
+Technology Policy (OSTP) and the Networking and Information Technology 
+Research and Development (NITRD) National Coordination Office (NCO) for 
+soliciting public input on the crucial development of an Art ificial Intelligence (AI) 
+Action Plan. A robust and forward -thinking AI Action Plan is essential for 
+maintaining U.S. leadership in AI, fostering economic growth, ensuring national 
+security, and promoting human flourishing. Our recommendations emphasize a 
+balanced approach that prioritizes innovation and responsible development, 
+focusing on secure AI development, workforce readiness, strategic international 
+
+
+ 
+2 
+collaboration, and addressing potential risks while avoiding overly burdensome 
+regulations. Our sugge stions will keep the USA at the top of AI development.  
+ 
+1. Introduction  
+LavaCrypt appreciates the opportunity to contribute to developing the AI Action 
+Plan. As a company deeply involved in cutting -edge AI research and 
+development, particularly in its intersection with cybersecurity and quantum 
+computing, we understand AI's tr ansformative potential and the critical need for 
+a comprehensive national strategy. This plan should focus on advancing AI 
+technology and anticipating and mitigating potential domestic and international 
+risks.  
+ 
+2. Priority Policy Actions for the AI Action Plan  
+LavaCrypt recommends the following priority policy actions for inclusion in the 
+AI Action Plan:  
+ 
+2.1. Secure AI Development & Deployment  
+2.1.1. AI Cybersecurity Standards  
+The establishment of mandatory cybersecurity standards for AI systems 
+requires a comprehensive framework that addresses multiple security layers:  
+Data Provenance and Integrity  
+● Implement cryptographic signatures and blockchain verification to 
+establish immu table audit trails for training datasets.  
+● Develop standardized metadata requirements, documenting data 
+sources, collection methodologies, and processing history.  
+● Establish centralized repositories for verified, high -quality training data 
+with strict access  controls.  
+● Create certification programs for organizations that maintain exemplary 
+data governance practices.  
+Model Robustness and Resilience  
+
+
+3 
+●Mandate stress testing against common adversarial attacks (e.g., evasion
+attacks, model inversion).
+●Establish mini mum performance thresholds under various perturbation
+scenarios.
+●Implementation of defensive techniques such as adversarial training and
+robust optimization is required.
+●Develop quantitative metrics for measuring model resilience against
+specific attack ve ctors.
+Explainability and Auditability  
+●Define tiered explainability requirements based on application risk
+categories.
+●Establish standardized documentation protocols for model architectures
+and training methodologies.
+●Implement interpretability tools appro priate to the model type (e.g.,
+SHAP values, integrated gradients).
+●Create certification programs for third -party auditing organizations.
+Secure AI Lifecycle Management  
+●Establish version control requirements for models, datasets, and related
+artifacts.
+●Implement automated security scanning throughout the development
+pipeline.
+●Define secure procedures for model updates and parameter tuning.
+●Create mandatory incident response protocols specific to AI systems.
+Vulnerability Disclosure and Patching  
+●Establish  a standardized vulnerability scoring system specific to AI
+systems.
+●Create centralized vulnerability reporting platforms with appropriate
+protections for researchers.
+●Define maximum timeframes for addressing critical vulnerabilities.
+●Implement security update verification protocols to prevent exploitation
+of the patching process.
+2.1.2. AI Red Teaming and Penetration Testing  
+
+
+4 
+An effective red team program for AI systems should include:  
+●Formation of specialized AI security assessment te ams with cross -
+disciplinary expertise.
+●Development of standardized testing methodologies for different AI
+system types.
+●Creation of a national certification program for AI security testers.
+●Establishment of a secure information -sharing framework for discov ered
+vulnerabilities.
+●Implementation of progressive financial incentives based on vulnerability
+severity.
+●Development of specialized testing environments that simulate real -world
+deployment conditions.
+●Creation of a national leaderboard recognizing top sec urity researchers in
+the AI space.
+●Regular publication of anonymized findings to benefit the broader
+ecosystem.
+2.1.3. Research into AI Safety and Security  
+The OSTP/NITRD funding program should prioritize:  
+Adversarial Machine Learning  
+●Research into novel attack vectors specific to large language models and
+multimodal systems.
+●Development of mathematical frameworks for quantifying model
+vulnerability.
+●Creation of standardized benchmarks for evaluating defense mechanisms.
+●Investigation of transferability of adversarial examples across different
+model architectures.
+Formal Verification of AI Systems  
+●Development of verification methodologies for neural network
+architectures.
+●Research tractable approaches for verifying properties of large -scale
+models.
+
+
+ 
+5 
+● Creation of automated tools for continuous verification during model 
+development.  
+● Standardization of formal property specifications for different AI 
+application domains.  
+Differential Privacy Applied to AI Models  
+● Research on optimal privacy budget allocation across model training 
+processes.  
+● Development of techniques that balance privacy guarantees with model 
+utility.  
+● Creation of industry -specific guidelines for privacy parameter selection.  
+● Investigation of composit ion effects in complex AI pipelines.  
+Encryption and Privacy -Enhancing Technologies  
+● Research on computational efficiency improvements for full encryption.  
+● Development of specialized hardware accelerators for privacy -preserving 
+computation.  
+● Creation of priva cy-preserving federated learning frameworks.  
+● Investigation of secure multi -party computation techniques for model 
+training.  
+ 
+2.2. Workforce Development and Education  
+2.2.1. AI Skills Gap Initiative  
+The national initiative should implement the following:  
+Curriculum Development  
+● Create age -appropriate AI education modules for K -12 that integrate with 
+existing subjects.  
+● Develop standardized undergraduate curricula covering core AI 
+competencies.  
+● Establish specialized graduate programs addressing emerging AI 
+subf ields.  
+● Create vocational training programs focused on practical AI 
+implementation skills.  
+
+
+6 
+●Develop micro -credential programs targeting specific industry
+applications.
+Teacher Training  
+●Establish summer institutes for K -12 educators to develop AI teaching
+com petencies.
+●Create online certification programs for educators at all levels.
+●Develop comprehensive teaching resources and lesson plans.
+●Form partnerships with industry to provide real -world context and
+examples.
+●Create teacher -mentor networks connecting experienced AI educators
+with newcomers.
+Scholarships and Fellowships  
+●Establish tiered scholarship programs targeting different educational
+levels.
+●Create industry -sponsored fellowships with practical work componen ts.
+●Develop research fellowships focused on specific national priority areas.
+●Implement service -based scholarships with post -graduation public sector
+commitments.
+●Establish re -entry scholarships for professionals changing careers.
+Reskilling and Upskilling  Programs  
+●Develop industry -specific training programs targeting high -demand
+sectors.
+●Create accelerated certification programs for professionals with adjacent
+skills.
+●Establish tax incentives for employers investing in employee AI skill
+development.
+●Implem ent regional training centers in areas impacted by technological
+displacement.
+●Develop online learning platforms with personalized skill development
+pathways.
+Promote Diversity and Inclusion  
+●Establish targeted outreach programs for underrepresented communi ties.
+
+
+ 
+7 
+● Create mentorship networks connecting diverse AI professionals with 
+students.  
+● Implement early intervention programs in underserved educational 
+districts.  
+● Develop scholarship programs specifically targeting diversity gaps.  
+● Create industry partnerships  focused on diversifying AI talent pipelines.  
+ 
+2.2.2. AI Ethics Training  
+A comprehensive ethics component should include:  
+● Development of case -based learning modules drawn from real -world 
+ethical dilemmas.  
+● Creation of simulation environments for ethical dec ision -making practice.  
+● Establishment of cross -disciplinary ethics coursework drawing from 
+philosophy, sociology, and law.  
+● Implementation of certification programs in responsible AI development.  
+● Development of industry -specific ethical guidelines and best practices.  
+● Creation of ethics coaching and consulting resources for organizations.  
+● Establishment of professional standards of conduct for AI practitioners.  
+ 
+2.3. International Collaboration and Competition  
+2.3.1. Strategic Partnerships  
+Effective strategic partnerships require:  
+● Formation of multinational research consortia focused on shared priority 
+areas.  
+● Establishment of talent exchange programs between allie d nations.  
+● Development of shared funding mechanisms for collaborative research 
+initiatives.  
+● Creation of standardized intellectual property frameworks for joint 
+innovations.  
+● Implementation of secure information -sharing protocols for sensitive 
+research.  
+
+
+8 
+●Form ation of industry -led international working groups on standards and
+best practices.
+●Development of shared testing and evaluation facilities.
+●Establishment of joint academic programs between leading institutions.
+2.3.2. AI Diplomacy  
+A robust AI diplomacy a pproach should include the following:  
+●Creation of dedicated AI attaché positions within key embassies.
+●Establishment of multilateral forums explicitly focused on AI governance.
+●Development of international principles for responsible AI development.
+●Formati on of rapid response protocols for addressing emerging AI risks.
+●Implementation of capacity -building programs for developing nations.
+●Creation of shared regulatory frameworks with close allies.
+●Development of international incident response mechanisms.
+●Establishment of global AI ethics observatories.
+2.3.3. Export Controls  
+A practical export control framework should feature the following:  
+●Development of tiered control categories based on potential dual -use
+applications.
+●Creation of streamlined licensing processes for trusted partners and
+allies.
+●Establishment of regular review cycles to adapt to technological
+evolution.
+●Implementation of post -export monitoring mechanisms for critical
+technologies.
+●Development of industry compliance assistance programs.
+●Formation of multilateral control regimes with like -minded nations.
+●Creation of specialized technical advisory committees for control list
+updates.
+●Establishment of expedited processes for humanitarian and research
+applicati ons.
+
+
+9 
+2.4. Fostering Innovation and Avoiding Burdensome 
+Regulations  
+2.4.1. Regulatory Sandboxes  
+Effective sandbox implementation includes:  
+●Creation of sector -specific sandboxes with tailored regulatory
+modifications.
+●Establishment of clear entry criteria a nd operational boundaries.
+●Development of robust monitoring and evaluation frameworks.
+●Implementation of graduated risk management protocols.
+●Formation of multi -stakeholder governance committees.
+●Creation of knowledge -sharing mechanisms between participant s.
+●Establishment of clear pathways to full regulatory compliance.
+●Development of expedited approval processes for successful sandbox
+graduates.
+2.4.2. Principles -Based Regulation  
+A principles -based regulatory approach should:  
+●Establish clear, outcome -focused regulatory objectives.
+●Define flexible implementation pathways suitable for diverse
+organizations.
+●Develop tiered compliance requirements based on application risk
+profiles.
+●Create robust accountability mechanisms without prescribing specific
+technologies.
+●Implement regular stakeholder consultation processes.
+●Establish safe harbor provisions for good -faith compliance efforts.
+●Develop industry -specific guidance documents and be st practices.
+●Create certification programs for regulatory compliance.
+2.4.3. Public -Private Partnerships  
+Effective partnerships require:  
+
+
+ 
+10 
+● Development of clear intellectual property frameworks for joint 
+innovations.  
+● Establishment of shared research facilit ies with flexible access models.  
+● Create coordinated funding mechanisms that blend public and private 
+resources.  
+● Implementation of streamlined contracting vehicles for rapid 
+collaboration.  
+● Formation of industry consortia focused on pre -competitive research.  
+● Development of data -sharing agreements with appropriate privacy 
+safeguards.  
+● Establishment of researcher exchange programs between sectors.  
+● Creation of innovation challenges addressing specific national priorities.  
+ 
+2.4.4. Streamlined Approvals  
+An efficien t approval process includes the following:  
+● Development of risk -based assessment frameworks for prioritizing 
+applications.  
+● Creation of pre -certification programs for established developers.  
+● Establishment of expedited review tracks for innovations addressing 
+critical needs.  
+● Implementation of phased approval processes for iterative deployment.  
+● Formation of specialized review teams with domain -specific expertise.  
+● Development of standardized evid ence requirements by application 
+category.  
+● Creation of post -approval monitoring protocols proportionate to risk.  
+● Establishment of regular process improvement reviews.  
+ 
+2.5. Quantum -Resistant AI  
+2.5.1. Quantum Computing Threat Assessment  
+A comprehensive assessment should include:  
+● Analysis of vulnerability timelines based on quantum computing 
+development projections.  
+
+
+ 
+11 
+● Identification of critical AI systems potentially susceptible to quantum 
+attacks.  
+● Development of risk prioritization framewor ks for remediation efforts.  
+● Creation of classified and unclassified assessment versions for different 
+stakeholders.  
+● Implementation of continuous monitoring of quantum computing 
+advances.  
+● Formation of specialized assessment teams combining quantum and AI 
+expertise.  
+● Establishment of secure reporting channels for newly identified 
+vulnerabilities.  
+● Development of sector -specific vulnerability profiles and mitigation 
+strategies.  
+ 
+2.5.2. Develop and Fund Quantum -Resistant Cryptography  
+A robust funding program shou ld support:  
+● Research into lattice -based, hash -based, code -based, and multivariate 
+cryptographic systems.  
+● Development of standardized implementation libraries for common 
+platforms.  
+● Creation of transition frameworks for migrating existing systems.  
+● Establishment of validation programs for proposed solutions.  
+● Implementation of bug bounty programs specific to quantum -resistant 
+algorithms.  
+● Formation of specialized research centers focused on post -quantum 
+cryptography.  
+● Development of hardware acceleratio n for quantum -resistant 
+approaches.  
+● Creation of compliance testing frameworks for critical infrastructure.  
+ 
+2.5.3. Quantum -Resistant AI Research  
+Priority research areas should include:  
+● Development of learning algorithms with inherent quantum resistance.  
+
+
+12 
+●Creation of encryption methods for model parameters and architectures.
+●Establishment of secure inference protocols resistant to quantum attacks.
+●Implementation of quantum -resistant federated learning approaches.
+●Formation of secure model serving architecture s with post -quantum
+protections.
+●Development of quantum -resistant privacy -preserving computation
+techniques.
+●Creation of secure update mechanisms for deployed AI systems
+●Establishment of certification programs for quantum -resistant AI
+implementations.
+3. Conclusion
+LavaCrypt believes that the AI Action Plan represents a critical opportunity to 
+shape the future of AI in the United States. By prioritizing secure AI 
+development, workforce readiness, strategic international collaboration, and 
+responsible in novation, the U.S. can maintain its global leadership in AI and 
+harness the transformative power of this technology for the benefit of all. We 
+urge the OSTP and NITRD NCO to carefully consider these recommendations 
+and incorporate them into the AI Action P lan. We stand ready to assist in any 
+way possible.  
+
+

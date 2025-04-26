@@ -1,0 +1,144 @@
+CRA’s Response to the Request for Information on the 
+Development of an Artificial Intelligence (AI) Action Plan 
+March 14, 2025 
+Written by: Alex Aiken (Stanford University), Gabrielle Allen (University of Wyoming), 
+Ovidiu Daescu (The University of Texas at Dallas), David Danks (University of 
+California, San Diego), Sebastian Elbaum (The University of Virginia), Rayid Ghani 
+(Carnegie Mellon University), Catherine Gill (Computing Community Consortium), 
+William Gropp (University of Illinois Urbana-Champaign), David Jensen (University of 
+Massachusetts, Amherst), Ming Lin (University of Maryland), Daniel Lopresti (Lehigh 
+University), Brian Mosley (Computing Research Association), Manish Parashar 
+(University of Utah), Rajmohan Rajaraman (Northeastern University), William Regli 
+(University of Maryland), Eve Schooler (Oxford University), Shashi Shekhar (University 
+of Minnesota Twin Cities), Robert Sloan (University of Illinois Chicago), Michela Taufer 
+(University of Tennessee Knoxville), Matthew Turk (Toyota Technological Institute at 
+Chicago), Helen Wright (Computing Research Association), and Holly Yanco (University 
+of Massachusetts, Lowell).  This response is prepared by the Computing Research Association (CRA), 
+assisted by the Computing Community Consortium (CCC) and CRA-Industry 
+(CRA-I). CRA is an association of over 270 North American computing research 
+organizations, both academic and industrial, and partners from six professional 
+computing societies. The CCC's mission, a CRA subcommittee, is to enable the 
+pursuit of innovative, high-impact computing research that aligns with pressing 
+national and global challenges. The mission of CRA-I, another subcommittee of 
+CRA, is to convene industry partners on computing research topics of mutual 
+interest and connect them with CRA’s academic and government constituents for 
+mutual benefit and improved societal outcomes. Please note any opinions, findings, and conclusions or recommendations 
+expressed in this material are those of the authors and do not necessarily reflect 
+the views of the authors’ affiliations, or of the National Science Foundation, which 
+funds the CCC. 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be 
+reused by the government in developing the AI Action Plan and associated 
+documents without attribution. 
+
+
+Artificial Intelligence is rapidly improving and becoming a crucial resource for scientific 
+research across nearly all disciplines, as well as increasingly being adopted throughout 
+industry and the federal government. The United States clearly recognizes the vital 
+importance of maintaining leadership in AI development to enhance global 
+competitiveness and fortify the security of our research ecosystem, and the Computing 
+Research Association welcomes this opportunity to provide recommendations for a 
+national AI Action Plan.  A comprehensive national strategy must prioritize continued federal funding for 
+fundamental academic research in AI. Academic research is often the precursor to 
+industry success, as demonstrated in the National Research Council’s so-called “Tire 
+Tracks” chart, which depicts the evolution of American IT sectors, with university 
+research preceding products and markets for many years. The field of AI research itself 
+was born from academic work dating back many decades by pioneers such as Alan 
+Turing, John McCarthy, and Geoffrey Hinton. More recent examples include the 2024 
+Nobel Prize in Physics, shared by John J. Hopfield and Geoffrey Hinton for their 
+pioneering research in neural networks, and the 2025 Turing Award, (colloquially 
+thought of as the Nobel prize in computing) given to Andrew Barto and Richard Sutton 
+for their foundational work, dating back to the 1990s, in reinforcement learning.  Innovation in AI has historically been driven by a synergy between academic and 
+industry research. The Tire Tracks chart shows that research in industry does not 
+replace university research, nor does university research supplant industry efforts. 
+Instead, the two research communities are complementary. More generally, it is critical 
+that the national AI Action Plan recognizes that research informs and advances 
+application, academia complements and reinforces industry’s efforts, and both play key 
+roles in innovation. The following recommendations detail key strategies for the federal government to 
+undertake to ensure that AI continues to strengthen the American economy, bolster our 
+national security, and benefit all Americans. 
+Fund Precompetitive Research Conducted in Academia 
+●Industry research tends to focus on incremental or product-driven advancements,
+whereas academic research explores foundational innovations, which have the
+potential to revolutionize the technology landscape in five, ten, or more years.
+Additionally, academic research is able to explore a wide breadth of approaches
+and techniques precisely because it is not driven by profit. Foundational research
+involves more than simply improving existing methods for guaranteed returns,
+and academic research labs are best positioned to pursue those questions. It is2 
+
+
+impossible to predict what the next AI breakthrough may be, but it is vital that it 
+come from the US. Therefore, it is critical that the Federal government maintain a 
+broad and diverse portfolio of investments in basic AI research. 
+Establishing Evaluation Frameworks for AI Model Benchmarking/Testing 
+●To mitigate potential risks, robust evaluation infrastructure is critical. This would
+include a tiered sandbox environment where AI systems undergo rigorous testing
+before deployment. Each tier would progressively increase the complexity of the
+testing, to measure the AI model’s impact on individuals, specific regulations, and
+the economy. This multi-faceted approach would enable researchers, developers
+and federal officials to identify and address potential issues before widespread
+deployment, ensuring responsible and beneficial AI development.Fully Fund NAIRR and FASST 
+●The National AI Research Resource (NAIRR) and the Frontiers in Artificial
+Intelligence for Science, Security, and Technology (FASST) initiatives each
+receive strong bipartisan support in both chambers of Congress. NAIRR is
+designed to provide AI resources broadly to researchers and innovators across
+sectors and problems in all US states. At the same time, FASST aims to support
+deep research efforts, specifically scientific and national security challenges
+relevant to the Department of Energy. Both represent important resources that
+enable the Federal government to accelerate innovation and insights in AI, much
+as the government has historically done in astronomy, physics, and other fields.
+These efforts complement one another, and both should be fully funded without
+delay.Computing Efficiency Research  
+●The Lawrence Berkeley National Laboratory’s (LBNL) 2024 Report on US Data
+Energy Use describes how data center energy demands have tripled over the
+past decade, and are expected to double or triple again by 2028, to
+approximately 6.7 to 12 percent of total US electricity supply. These enormous
+increases in electricity demand will necessitate creating new transmission and
+generation networks and infrastructure. However, creating new infrastructure
+does not solve the root of the problem: the energy demand of AI models. The
+Federal government should pursue a multi-agency effort across the Department
+of Energy, NSF, and other relevant Federal research agencies to fund
+fundamental computing research and establish public-private partnerships. Doing
+so would enhance the overall efficiency of all AI models, directly impacting costs
+and enabling both US researchers and companies to better leverage innovative
+AI technologies. These research efforts should address energy efficiency at
+every step of the AI lifecycle, from improved data synthesis and utilization, to3 
+
+
+optimized algorithms, to more energy-efficient computing techniques, to 
+fundamentally new approaches to training and using AI models. 
+Ensuring Human-centered AI 
+●In order to ensure AI models are beneficial to all Americans and the American
+economy, it is critical that we harness the benefits of AI while mitigating the risks.
+This all must be done in ways that center human needs and interests; this is
+especially relevant for rural Americans who may have different needs and uses
+than are the focus of current AI. Opportunities for AI to advance American
+prosperity will not materialize if these systems behave in ways counter to
+personal freedom and human dignity, or if they harm individuals and
+communities. As directed in the first Trump administration (EO 13960), AI models
+and systems must be trustworthy, as well as reliable, safe, and understandable.
+A human-centered approach to AI is particularly important in high-stakes sectors
+and decisions such as healthcare and the law. Substantial research is required
+on the aspects of AI systems that matter for trustworthiness, including
+explainability, interpretability, privacy, safety, security, and much more. At the
+same time, clear national priorities and guidelines, along with dynamic, adaptive,
+intelligent governance (not mere regulations), must be developed to mitigate
+legal ambiguities and advance human-centered and human-supporting AI.Education and Workforce 
+●AI is changing the nature of work, creating jobs in some areas and replacing jobs
+in others. Federal funding must be allocated towards programs to re-skill and
+up-skill the workforce to better prepare Americans for an AI-integrated economy.
+The Federal government should also continue to fund research on how best to
+create AI that augments, rather than replaces, human workers, such as the NSFsponsored Future of Work at the Human-Technology Frontier program.
+●The Federal government can also play an important role in facilitating
+academic/industry partnerships to better prepare the future generation of AI
+researchers for the job market. The NSF’s TIP Directorate is perfectly positioned
+to enable these partnerships and to promote relationships that provide students
+with research experience, as well as academic-industry research collaborations.
+Furthermore, expanding funding to support undergraduate research opportunities
+would increase the likelihood that domestic undergraduate students can gain the
+experience and mentorship needed to pursue advanced degrees, such as a PhD,
+further strengthening the pipeline to AI research careers. These processes could
+also be replicated in other areas of the Federal government.
+4 
+
+

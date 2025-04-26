@@ -1,0 +1,432 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Making  AI Work for All Americans  
+ 
+Submitted  on behalf  of:  
+Laboratory  for Information  and Decision  Systems  (LIDS)  
+ at the Massachusetts  Institute  of Technology  (MIT)  
+ 
+By: Chara  Podimata,  Luca  Carlone,  Marzyeh  Ghassemi,   
+Priya  L. Donti,  Sertac  Karaman,  and Swati  Gupta  
+ 
+March  2025  
+ 
+ 
+ 
+ 
+This document  is approved  for public  dissemination.  The document  contains  no 
+business-proprietary  or confidential  information.  Document  contents  may be reused  by the 
+government  in developing  the AI Action  Plan and associated  documents  without  attribution.  
+ 
+ 
+
+Executive Summary 
+Artificial  intelligence  (AI) has advanced  very rapidly  in recent  years.  These  advances  are 
+grounded  in machine  learning  (ML),  where  extremely-lar ge models  learned  from  unstructured  
+data have  displayed  unprecedented  human-like  ability  on a variety  of tasks.  At this point,  it may 
+seem  that leadership  in AI basically  boils  down  to training  the largest ML models.  Instead,  we 
+argue that establishing  American  leadership  will require  focusing  on further  foundational  and 
+algorithmic  advances  that close  the gap in key qualities  like robustness,  resilience,  and 
+explainability  and transition  these  advances  directly  into applications,  in order  to ensur e AI 
+can develop  and transform  many  sectors  of the American  economy .  
+Sustaining  and enhancing  America’ s leadership  in AI fundamentally  relies  on ensuring  that AI 
+technologies  benefit  all Americans,  fitting  the needs  and requirements  of a multitude  of 
+applications  and economic  sectors.  For instance,  AI technologies  developed  for use in areas  such 
+as electric  power  systems  and autonomous  transportation  must  be inherently  safe and robust,  in 
+order  to avoid  safety-critical  failures  such as large-scale  power  outages  or vehicle  crashes  
+[M+2019,  DK2021].  AI developed  for financial  and healthcare  applications  must  be inherently  
+privacy-preserving,  in order  to avoid  costly  and damaging  leaks  to personal  consumer  data 
+[K+2023 ]. And AI developed  for legal  and governmental  applications  must  be inherently  
+interpretable  and explainable,  to ensure  the alignment  of decision-making  processes  with legal  
+rules  and requirements  [DK2017,  R2019].   
+While  certain  classes  of AI technologies,  such as large language  models  (LLMs),  have  found  
+substantial  commercial  success,  these  technologies  do not satisfy  the above  requirements,  and 
+thereby  only fit the needs  of a very narrow  set of applications  relative  to AI’s significantly  wider  
+potential.  Importantly , requirements  such as safety , robustness,  privacy  preservation,  
+interpretability , and explainability  are not simply  “add-ons”  to existing  AI technologies.  
+Developing  technologies  that meet  these  requir ements  demands  a fundamentally  ground-up  
+and heter ogeneous  appr oach  to AI innovation , supported  by (a) large-scale  investments  in 
+basic  and applied  research,  (b) enabling  infrastructure  such as improved  data,  simulation  
+infrastructure,  compute  access,  and cross-sectoral  innovation  hubs,  and (c) agile  identification  of 
+needs  and ongoing  evaluation  of the state of AI technologies  relative  to these  needs,  in order  to 
+continuously  shape  necessary  oversight  and incentives.  Such  investments  to date have  been  
+critical  in enabling  the development  and ultimate  commercial  success  of AI technologies  such as 
+LLMs,  and similar  continued  investments  are likewise  critical  for replicating  this success  across  
+a wider  range  of AI paradigms  and reaping  the associated  societal  and commercial  benefits.  
+In service  of the above  goals,  this response  provides  recommendations  in three  key areas:  
+1. Supporting  basic  resear ch and innovation  across heter ogeneous  AI areas: Large- 
+scale  investments  in basic  and applied  research,  across  a heterogeneous  range  of AI areas,  
+will be critical  to developing  the next generation  of technologies  satisfying  on-the-ground  
+requirements  such as safety , robustness,  privacy , interpretability , and explainability . 
+1 
+
+2. Impr oving  enablers  such  as data,  simulation,  compute,  & collaboration:  Sustaining  
+and scaling  American  AI innovation  and leadership  requires  improvements  to the 
+underlying  innovation  ecosystem,  spanning  data access  and sharing,  simulation  
+infrastructure  for scientific  and engineering  applications,  and AI compute  infrastructure,  
+in a way that enables  participation  from  a large and broad  range  of stakeholders.  
+3. Establishing  an independent  AI regulatory  body  to foster  innovation  and oversight:  
+We live in a world  where  human  actions  across  the economy  are subject  to oversight  to 
+benefit  and protect  the American  people,  for example,  in healthcare,  finance,  and 
+transportation  sectors.  At the very least,  AI must  not be excluded  from  the same  oversight  
+to which  we subject  humans.  The regulatory  framework  for AI can be complex,  and 
+balancing  innovation  and the protection  of the American  people  will be intricate.  We 
+recommend  focusing  AI regulation  towards  the agile  identification  of needs  and 
+requirements  for AI technologies,  as well as assessment  and oversight  of AI technologies  
+in alignment  with these  requirements,  to provide  ongoing  input  to AI innovation  
+strategies  and ensure  the success  of developed  technologies.  
+ 
+2 
+
+I. Enabling AI to Work for All Americans via a Heterogeneous Approach 
+AI has the potential  to transform  a wide  range  of societal  and commercial  applications,  across  
+sectors  such as heterogeneous  as electric  power  systems,  agriculture,  transportation,  and 
+medicine.  However , this potential  has yet to be realized  for the vast majority  of applications,  as 
+today’ s AI does  not meet  many  of the fundamental  requir ements  of these  applications . For 
+instance,  safety  and robustness  are essential  requirements  when  using  AI in safety-critical  
+infrastructure  such as electric  power  systems  and in many  robotic  systems  [M+2019,  DK2021,  
+G+2024];  privacy  preservation  is critical  in applications  involving  individual  consumer  data 
+(such  as in healthcare  and finance)  [K+2023 ]; and interpretability  and explainability  are crucial  
+for governmental  and legal  applications  that require  public  accountability  [DK2017,  R2019].   
+Developing  AI technologies  that meet  these  requirements  will require  large-scale  research  and 
+innovation  across  a wide  range  of AI and machine  learning  (ML)  paradigms,  including,  for 
+example,  physics-informed  ML,1 safe ML,2 privacy-preserving  ML,3 interpretable  and 
+explainable  ML,4 neuro-symbolic  AI,5 probabilistic  and Bayesian  ML,6 and tiny ML.7 
+Importantly , these  paradigms  are not simply  “retrofits”  to existing  AI techniques  – instead,  AI 
+techniques  must  be designed  from the ground-up  with  these  requir ements  built  in. This is 
+analogous  to the notion  of privacy-by-design  in software  development,  where  intentional  
+up-front  software  design  choices  are necessary  to ensure  that sensitive  data will remain  
+protected,  whereas  retroactive  attempts  to make  non-secure  software  secure  rarely  succeed  
+[I2024].  Unlike  in privacy-by-design  software  development,  however , there  are as-of-yet  no 
+established  “playbooks”  to making  AI private  by design.  Similarly , approaches  to make  AI safe, 
+interpretable,  explainable,  probabilistic,  physics-informed,  and/or  energy efficient  by design  are 
+active  albeit  early-stage  areas of resear ch, requiring  substantial  and concerted  investment  
+in basic  and applied  resear ch to advance  AI technologies  in these  directions . Such  
+investment  is likely  to yield  significant  downstream  societal  and commercial  benefits  by yielding  
+AI technologies  that are well-poised  to catalyze  progress  across  a broad  range  of societal  sectors.  
+7 Tiny ML is a branch of machine learning that focuses on deploying models on ultra-low-power, 
+resource-constrained devices, such as microcontrollers and embedded systems. 6 Probabilistic and Bayesian ML refer to techniques that are able to capture and express some notion of uncertainty 
+and/or confidence in their outputs. 5 Neuro-symbolic AI combines data-driven machine learning techniques with knowledge-guided (symbolic) 
+techniques, in order to obtain the joint benefits of pattern recognition and logical reasoning approaches. 4 Interpretable ML refers to ML techniques whose internals can be easily understood or audited by algorithm 
+developers, users, or regulators. Explainable ML refers to ML techniques that are able to provide (potentially 
+post-hoc) justifications for their outputs.   3 Privacy-preserving ML aims to ensure that de-identified data used to train ML models cannot be re-identified or 
+reverse engineered, via techniques such as (e.g.) differential privacy. 2 Safe ML refers to the development and deployment of ML models that prioritize robustness, security, and reliability 
+to guarantee trustworthy AI decision-making. 1 Physics-informed ML is a branch of machine learning that focuses on integrating physics-based equations and/or 
+physics-based simulations with or within ML techniques. 
+3 
+
+Importantly , just as private-by-design  software  can look fundamentally  different  from  software  
+that is not private-by-design,  AI techniques  look fundamentally  different  depending  on the 
+requirements  with which  they are designed.  For instance,  designing  safe ML approaches  may 
+entail  embedding  safety  criteria  within  neural  network  architectures  [D2022 ], designing  
+risk-sensitive  ML training  techniques  [GF2015,  B+2021],  or combining  techniques  from  ML 
+with techniques  from  control  theory  [G+2024]  or formal  verification  [FP2018].  As another  
+example,  designing  interpretable  ML approaches  may entail  intentionally  constructing  machine  
+learning  models  whose  weights  are easy to analyze,  rather  than (e.g.)  black-box  neural  network  
+architectures  [R+2022].  Accordingly , America’ s appr oach  to AI development  must  be 
+fundamentally  adaptive  and application-driven,  rather  than  reliant  on a singular  class  of 
+models  such  as foundation  models  or large  language  models  (LLMs).  We do not expect  AI 
+benefits  to trickle  down  from  a select  set of methods;  instead,  AI must  be developed  bottom-up  
+with specific  application  needs  in mind  [R+2024].  Additionally , AI development  must  engage  a 
+broad  coalition  of stakeholders,  including  academia,  civil society , and public  institutions,  to 
+foster  foundational  methodological  advances  and an approach  that fundamentally  centers  the 
+needs  of all Americans.  
+In the rest of this section,  we provide  a few concrete,  selected  examples  of important  directions  
+for AI innovation.  These  are not meant  to be exhaustive,  but rather , indicative  of the 
+heterogeneous  approach  to AI that is necessary  to serve  the needs  of different  societal  and 
+commercial  applications.  We conclude  with selected  recommendations  on how to support  the 
+development  of heterogeneous  AI approaches.  
+Example:  AI in Robotics  and Autonomous  Vehicles.  Robotics  and autonomous  systems  are 
+positioned  to revolutionize  and transform  a wide  range  of commercial  and societal  applications.  
+For instance,  robots  are widely  used in retail  and logistics,  where  companies  such as Amazon  
+have  already  deployed  >750K  units,  and where  warehouse  automation  was a $7B market  in 2024  
+that is expected  to grow  to a $54B  market  by 2030  [Z2024].  Agricultural  robotics  is 
+well-positioned  to support  increased  and more  efficient  food production,  with autonomous  
+systems  being  used for functions  such as weeding,  seeding,  harvesting,  spraying,  and milking;  
+precision  agriculture  is expected  to become  $17B  market  by 2030  (~$6B  in 2023)  [F2025].  
+Finally , autonomous  transportation  carries  the promise  of saving  lives  and largely reducing  the 
+social  and economic  costs  of transportation;  for instance,  in 2022,   >42K  people  died in US car 
+crashes  (>1.2M  worldwide),  with autonomous  vehicles  providing  the potential  to reduce  such 
+crashes  by 90% [C2024].  
+Despite  this incredible  potential,  robotics  and autonomous  systems  require  fundamental  advances  
+to ensure  a full and positive  impact.  The “Cambrian  explosion”  we are observing  in robotics  is 
+the result  of better  hardware  (e.g.,  motors  and robotic  hands),  better  algorithms  (importantly , 
+including  AI and ML),  more  data (due to more  deployed  robots  and self-driving  cars),  and more  
+compute  resources.  At the same  time,  robotics  poses  fundamentally  different  challenges  for AI 
+than other  “standard”  applications.  For instance,  widespread  applications  of AI, including  
+4 
+
+LLM-based  applications  like ChatGPT , often  fail to produce  reasonable  answers  when  faced  with 
+out-of-distribution  inputs.  While  this is often  acceptable  when  chatting  with an AI agent,  it can 
+put human  lives  at risk when  it comes  to robotics  applications.  Fundamental  research  is 
+necessary  to tackle  safe and trustworthy  AI of salience  to robotics,  including  topics  such as AI 
+assurance  and robustness,  fault detection  and isolation,  resilience,  communication,  and control.  
+ 
+Example:  AI in Electric  Power  Systems.  Electricity  is a critical  backbone  of modern  American  
+society , but is facing  challenges  with respect  to affordability  and reliability , due to factors  such as 
+aging  infrastructure  and extreme  weather  events.  AI technologies  have  the potential  to transform  
+the operation  of electric  power  systems  in ways  that significantly  enhance  affordability  and 
+reliability , by providing  faster  and more  scalable  algorithms  for the scheduling  and control  of 
+power  generation,  batteries,  and flexible  demand,  thus enabling  the power  grid to be operated  
+more  efficiently  and in a way that is increasingly  adaptive  to unexpected  events  [DK2021].   
+        Despite  this potential,  AI technologies  today  face several  limitations  that preclude  their 
+deployment  in safety-critical  aspects  of power  grid operations  and control.  For instance,  AI 
+outputs  are not guaranteed  to be physically  feasible  (e.g.,  respect  the laws of physics  regarding  
+how power  flows  on a power  grid),  which  has the potential  to lead to large-scale  power  outages,  
+economic  losses,  and loss of lives.  Progress  in physics-informed  and safe ML, including  safe 
+reinforcement  learning,  is thus critical  to enabling  the use of AI for the optimization  and control  
+of electric  power  systems  [S+2024].  AI in power  systems  also fundamentally  operates  on 
+hardware-based  systems,  rather  than purely  in software,  requiring  developments  in tiny ML, 
+hardware  integration  of ML, and ML techniques  that can handle  factors  such as sensor  noise,  
+communication  latency , and actuation  latency  [SG2023,  S+2023].  Transmission  congestion  in 
+power  systems  is also becoming  an increasingly  large problem,  costing  billions  of dollars  per 
+year [W2024];  to address  this, AI is being  considered  for use in applications  such as topology  
+optimization,  which  requires  reasoning  over billions  of topology-switching  actions.  New  
+neuro-symbolic  AI techniques  [GL2023]  for power  systems  may be critical  to enabling  this 
+large-scale  reasoning,  by allowing  intelligent  search  over the large space  of topology  actions.   
+        Basic  and applied  research  in physics-informed  ML, tiny ML, hardware-integrated  ML, and 
+neuro-symbolic  AI is therefore  critical  to enabling  the use of AI in power  systems.  In addition  to 
+research  funding,  the development  of grid simulation  infrastructure  and hardware-integrated  
+testbeds  is critical  to enabling  the development  and testing  of AI approaches  in power  grids.   
+Example:  AI in Healthcar e. Learning  from  health  data requires  models  that are robust  to changes  
+in time (new  populations),  place  (new  hospitals),  and manner  (new  treatments),  rather  than fit to 
+points  (humans)  who lie in the center  of the distribution.  Models  must  also work  for humans  in 
+the tails of health  distributions,  which  requires  general  improvements  to machine  learning,  both 
+in improving  the efficiency  of methods,  and addressing  the downstream  gaps created  by 
+non-robust  models.  In health,  demographic  attributes  like age, gender  and race have  historically  
+been  used to improve  the average  performance  of clinical  models  and scores,  but their inclusion  
+has led to over- or under -estimation  of risk. Given  the demonstrated  gaps that occur  with the 
+5 
+
+naive  inclusion  of demographic  attributes  in state of the art models  in health,  there  must  be 
+strong  criteria  for inclusion  of such attributes  in health  – for instance,  by explicitly  including  
+per-demographic  performance  gap constraints  [SGU2023] . Importantly  “state  of the art” methods  
+like differential  privacy  and distributionally  robust  optimization  have  been  shown  to perform  
+poorly  in health  settings  specifically , as the methods  do not scale  well to data with heavy  tails or 
+attribute  shifts  [S+2021,  Y+2023] . There  must  therefore  be ongoing  efforts to pinpoint  actionable  
+barriers  to model  performance,  such as model  uncertainty  due to data complexity  and quality . 
+Example:  Navigating  Mixed-Fidelity  Data.  AI is increasingly  being  used to generate  fake 
+information,  combine  data sources  with low-quality  and high-quality  signals,  and mimic  human  
+interactions  with decision  systems.  These  AI outputs  are then often  used as inputs  to other  AI 
+models,  such as those  in critical  decision-making  systems  ranging  across  supply  chains,  
+transportation,  and finance.  In other  words,  the quality  of data on which  AI approaches  are 
+trained  can be extremely  unreliable.  This raises  significant  challenges  in terms  of navigating  fake 
+data,  discounting  fake sources  of information  when  training  models,  and learning  from  behaviors  
+that look “human”  but are machine-generated.  In addition  to opening  a huge  opportunity  and 
+market  for high-quality  data,  this also demands  fundamental  research  towards  the development  
+of AI systems  that can detect  fake and/or  low-quality  signals.  
+To foster  the development  of AI technologies  that can meet  the needs  of heterogeneous  societal  
+and commercial  applications,  we provide  several  key recommendations.  
+Recommendations:  
+● Invest  in basic  and applied  resear ch to accelerate  the development  of heter ogeneous  
+AI appr oaches , including  (but not limited  to) physics-informed  ML, safe ML, 
+privacy-preserving  ML, interpretable  and explainable  ML, neuro-symbolic  AI, 
+probabilistic  and Bayesian  ML, and tiny ML. This should  include  funding  for both broad-  
+based  application-agnostic  AI research  and specific  application-driven  AI research,  both 
+of which  are critical  to ensuring  that AI methods  are able to meet  real-world  challenges.  
+● Fund  interdisciplinary  and cross-sectoral  collaborations  where  domain  experts  (in, 
+e.g., power  systems  and healthcare)  work  alongside  AI researchers  to align  AI 
+development  with societal  needs.  These  funding  mechanisms  should  allow  financial  
+support  for both research  institutions  and deployment  partners  (e.g.,  small  businesses  or 
+civil society  organizations)  who are collaborators  on the work.  
+● Fund  application-specific  enabling  infrastructur e, such  as simulation  envir onments  
+and test beds  for scientific  and engineering  applications , that enable  the development  
+of heterogeneous  AI approaches.  For example,  developing  AI applications  for the power  
+sector  can be significantly  accelerated  and improved  via the availability  of software  
+simulation  environments  of the power  grid as well as hardware-integrated  testbeds.  
+ 
+6 
+
+II. Improving Data, Simulation, Compute, and Other Enablers 
+Data  access  is a critical  enabler  of AI research  and development,  and restrictive  data practices  
+disproportionately  benefit  large corporations  while  limiting  academic  and civil society  research.  
+Without  open,  transparent  data-sharing  mechanisms,  academic  institutions  lose the ability  to 
+audit,  validate,  and improve  AI models;  this imbalance  could  significantly  hinder  national  AI 
+competitiveness.  Likewise,  broad-based  access  to computational  infrastructure  is fundamental  to 
+enabling  a wide  range  of stakeholders  to participate  in the development  of AI technologies,  
+which  is critical  both to enhancing  the volume  of overall  AI development  and to advancing  a 
+heterogeneous  set of AI technologies  that serve  the needs  of a wide  range  of applications  and 
+sectors  (see Section  I).  
+Recommendation:  Impr ove Data  Access  and Governance  
+● Provide  clear  federal  guidance  to streamline  compliance  with privacy  and security  
+regulations,  enabling  secure  but accessible  data-sharing  frameworks.  
+● Expand  federal  data-sharing  initiatives  through  agencies  such as CMS  and VA, ensuring  
+that public-sector  data is more  accessible  to researchers.  
+● Increase  enforcement  of data-sharing  requirements  (e.g.,  mandate  open-access  
+publication  of federally  funded  health  research  datasets).  
+● Reduce  barriers  to AI R&D  on federally  controlled  data by expanding  cloud  access  and 
+funding  agreements  that cover  compute  resources  and compliance  costs.  
+● Establish  public-private  data partnerships  to create  new AI-relevant  datasets  from  sources  
+like search  engines  and social  media  platforms,  ensuring  they are accessible  for 
+public-interest  AI research.  
+● Expand  programs  like NIH’ s AIM-AHEAD  to fund private-sector  data curation  
+initiatives  and develop  independent  AI evaluation  centers  for healthcare  applications.  
+● Fund  training  programs  for de-identification  experts  to reduce  bottlenecks  in AI-driven  
+health  research  while  maintaining  strong  privacy  protections.  
+● Establish  sector -specific  data task forces  (e.g.,  in energy, manufacturing,  and healthcare)  
+to identify  data gaps,  access  barriers,  and necessary  incentives  for data sharing.  
+Recommendation:  Impr ove Access  to Computation  and Simulation  Infrastructur e 
+● Provide  affordable,  scalable  cloud  computing  resources  to academic  researchers,  civil 
+society , and small-to-medium  enterprises  to enable  broad-based  AI research  and 
+development.  
+● Fund  the creation  and maintenance  of simulation  tools  and AI testbeds  for developing  AI 
+solutions  in scientific,  engineering,  and safety-critical  sectors  (e.g.,  for power  systems,  
+transportation,  and industrial  applications).  
+ 
+7 
+
+III. Fostering Innovation & Oversight via an Independent Regulatory Body 
+Human  activity  is regulated  across  major  sectors  of the economy , such as healthcare,  finance,  
+transportation,  agriculture,  manufacturing,  and more,  in order  to ensure  American  people  are 
+protected.  AI activity  in such sectors  will inevitably  be regulated.  It would  be counterproductive  
+to regulate  human  activity , but not hold our AI tools  up to similar  standards.  Hence,  whether  or 
+not AI should  be regulated  is not the right  question,  since  some  regulation  of AI is inevitable.  
+The question  is: What  should  be the focus  and the limits  of AI regulation?  The goal is to ensure  
+America  leads  in AI innovation  as well as the protection  of the American  people  from  all aspects  
+of AI, whether  they are developed  domestically  or internationally .  
+We believe  that establishing  American  leadership  in AI requires  mechanisms  to identify  societal  
+needs  and requirements  in an agile  manner , in order  to continuously  shape  necessary  oversight  
+and incentives,  and to evaluate  the alignment  of specific  AI systems  with necessary  
+requirements.  To this end, we propose  the creation  of an independent  AI oversight  body , the 
+Artificial  Intelligence  Regulatory  Commission  (AIRC),  modeled  on the Food  and Drug  
+Administration  (FDA)  but adapted  for AI regulation.  This agency  would  ensure  that AI systems  
+meet  safety , reliability , and accountability  standards.  Proactive  regulatory  oversight  in turn has 
+the capability  to spur further  innovation–as  has been  the case for the FDA  [FDA2024]  – by 
+enabling  the ongoing  identification  of gaps in AI capabilities  and subsequent  prioritization  of 
+these  areas  for research  and innovation  funding.  Establishing  an independent  AI regulatory  body  
+is critical  to achieving  this balance  between  safety  and innovation,  by providing  structured  
+oversight,  evaluating  AI technologies  against  evolving  safety  and accountability  standards,  and 
+shaping  ongoing  innovation  strategies  
+Our recommendation  is to create an Artificial  Intelligence  Regulatory  Commission  (AIRC) , 
+with key responsibilities  including  AI auditing  and maintaining  a best-practices  repository , 
+AI licensing  and risk-based  regulation,  and lifecycle-based  AI evaluation.  In the remainder  of 
+the section,  we expand  upon  each of these  responsibilities.   
+ 
+The first and most  important  responsibility  of such a regulatory  body  would  be the 
+establishment  and maintenance  of standardized  AI auditing  practices . As AI systems  
+increasingly  influence  high-stakes  domains,  including  healthcare,  autonomous  transportation,  
+and financial  decision-making,  a centralized  repository  of best practices  for AI auditing  and 
+evaluation  would  provide  transparency  and accountability . Ensuring  that audit  methodologies  are 
+rigor ous, publicly  accessible , and consistently  updated  would  not only mitigate  risks  but also 
+encourage  AI developers  to integrate  safety  and fairness  measures  from  the outset  ([CRB22],  
+[C24],  [LL+24].   
+ 
+Regulation  must  also adopt  a risk-based  approach,  ensuring  that oversight  is proportionate  to the 
+potential  societal  impact  of different  AI systems.  A licensing  framework  for AI systems , 
+8 
+
+similar  to FDA  approvals  for medical  devices,  could  ensure  that only AI technologies  meeting  
+robust  safety  and ethical  standards  are deployed  in critical  sectors.  Similar  proposals  have  been  
+adopted  for both dataset  [GMV+18]   and machine  learning  models  [MW+2019].  In addition,  
+leaders  from  the tech sector  should  be active  participants  in shaping  the licensing  framework;  
+industry  involvement  is critical  in ensuring  adherence  to required  reporting  mechanisms  and 
+maintaining  transparency  in AI development.  
+ 
+To further  support  AI development  while  maintaining  regulatory  oversight,  the creation  of 
+regulatory  sandboxes  [OECD2023] would  provide  controlled  environments  where  AI systems  
+can be tested  under  real-world  conditions  before  widespread  deployment.  These sandboxes  
+would  allow  developers  to refine  AI models  and address  potential  safety  conc erns while  enabling  
+regulators  to assess  risks  and establish  sector -specific  guidelines.  Additionally , independent  
+oversight  mechanisms  must  be integrated  into the licensing  process,  ensuring  that governments,  
+consumer  advocacy  groups,  and watchdog  organizations  can request  audits  of AI systems  when  
+concerns  arise.  By enabling  independent  audits,  this framework  would  reinfor ce transparency  
+and accountability , ensuring  that AI technologies  align  with public  interest  while avoiding  
+regulatory  capture  or undue  industry  influence  
+ 
+Continuous oversight is essential to maintaining accountability as AI systems evolve. Unlike 
+static regulatory approaches that may quickly become outdated, AI regulation must be dynamic, 
+adapting to technological advancements and emerging risks. By implementing lifecycle-based 
+evaluations, regulators can ensure that AI systems remain aligned with safety, privacy, and 
+fairness requirements long after their initial deployment. Drawing from established best practices 
+in other regulated sectors, such as pharmaceutical and aviation safety, this approach would 
+provide a structured yet ﬂexible mechanism for AI governance. 
+ 
+9 
+
+Refer ences  
+[B+2021]  Bai, Tao, et al. "Recent  Advances  in Adversarial  Training  for Adversarial  Robustness."  
+International  Joint  Confer ence on Artificial  Intelligence  (2021).  
+[C2024]  Center  for Sustainable  Systems,  University  of Michigan.  2024.  "Autonomous  Vehicles  
+Factsheet."  Pub. No. CSS16-18.  
+[C24]  Chouldechova,  Alexandra,  et al. "A Shared  Standard  for Valid Measurement  of Generative  
+AI Systems'  Capabilities,  Risks,  and Impacts."  arXiv  preprint  arXiv:2412.01934  (2024).  
+[CRB22]  Costanza-Chock,  Sasha,  Inioluwa  Deborah  Raji,  and Joy Buolamwini.  "Who  Audits  
+the Auditors?  Recommendations  from  a field scan of the algorithmic  auditing  ecosystem."  
+Proceedings  of the 2022  ACM  Confer ence on Fairness,  Accountability , and Transpar ency. 2022.  
+[DK2017]  Doshi-V elez, Finale,  and Been  Kim.  "Towards  a rigorous  science  of interpretable  
+machine  learning."  arXiv  preprint  arXiv:1702.08608  (2017).  
+[DK2021]  Donti,  Priya  L., and J. Zico Kolter . "Machine  learning  for sustainable  energy 
+systems."  Annual  Review  of Envir onment  and Resour ces 46.1 (2021):  719-747.  
+[F2025]  Fortune  Business  Insights.  “Agricultural  Robots  Market  Size,  Share  & COVID-19  
+Impact  Analysis,  By Product  Type (UAVs/Drones,  Livestock  Farming  Robots,  Robotic  Tractors,  
+Automated  Cultivation  Systems),  By Application  (Farm  Production,  Dairy  and Livestock,  and 
+Others  (Specialty  Crops)),  and Regional  Forecast,  2025-2032.”  (2025).  
+https://www .fortunebusinessinsights.com/agricultural-robots-market-109044   
+[FDA2024]  Food  and Drug  Administration.  “CRDH  Innovation”  (2024).  
+https://www .fda.gov/about-fda/center -devices-and-radiological-health/cdrh-innovation   
+[FP2018]  Fulton,  Nathan,  and André  Platzer . "Safe  reinforcement  learning  via formal  methods:  
+Toward  safe control  through  proof  and learning."  Proceedings  of the AAAI  Confer ence on 
+Artificial  Intelligence . Vol. 32. No. 1. 2018.  
+[GF2015]  García,  Javier , and Fernando  Fernández.  "A comprehensive  survey  on safe 
+reinforcement  learning."  Journal  of Machine  Learning  Resear ch 16.1 (2015):  1437-1480.  
+[GL2023]  Garcez,  Artur  d’Avila, and Luis C. Lamb.  "Neurosymbolic  AI: The 3rd wave."  
+Artificial  Intelligence  Review  56.11 (2023):  12387-12406.  
+[GMV+18]  Gebru,  T., Morgenstern,  J., Vecchione,  B., Vaughan,  J. W., Wallach,  H. M., Daumé  
+III, H., & Crawford,  K. (2018).  Datasheets  for Datasets.  CoRR  abs/1803.09010  (2018).  arXiv  
+preprint  arXiv:1803.09010 . 
+[G+2024]  Gu, Shangding,  et al. "A review  of safe reinforcement  learning:  Methods,  theories  and 
+applications."  IEEE  Transactions  on Pattern  Analysis  and Machine  Intelligence  (2024).  
+[I2024]  EEE Digital  Privacy . “What  Is Privacy-by-Design  and Why  It's Important?”  (2024).  
+https://digitalprivacy .ieee.or g/publications/topics/what-is-privacy-by-design-and-why-it-s-import
+ant  
+[K+2023]  Khalid,  Nazish,  et al. "Privacy-preserving  artificial  intelligence  in healthcare:  
+Techniques  and applications."  Computers  in Biology  and Medicine  158 (2023):  106848.  
+10 
+
+[LL+24]  Lam,  K., Lange,  B., Blili-Hamelin,  B., Davidovic,  J., Brown,  S., & Hasan,  A. (2024,  
+June).  A framework  for assurance  audits  of algorithmic  systems.  In Proceedings  of the 2024  
+ACM  Confer ence on Fairness,  Accountability , and Transpar ency (pp. 1078-1092).  
+[D2022]  Donti,  Priya  L. Bridging  Deep  Learning  and Electric  Power  Systems . Dissertation.  
+Carnegie  Mellon  University  (2022).  
+[M+2019]  Mohseni,  Sina,  et al. "Practical  solutions  for machine  learning  safety  in autonomous  
+vehicles."  arXiv  preprint  arXiv:1912.09630  (2019).  
+[MW+2019]  Mitchell,  M., Wu, S., Zaldivar , A., Barnes,  P., Vasserman,  L., Hutchinson,  B., ... & 
+Gebru,  T. (2019,  January).  Model  cards  for model  reporting.  In Proceedings  of the confer ence on 
+fairness,  accountability , and transpar ency (pp. 220-229).  
+[OECD2023]“Regulatory  sandboxes  in artificial  intelligence”,  OECD  Digital  Economy  Papers , 
+No. 356, OECD  Publishing,  Paris  (2023).  https://doi.or g/10.1787/8f80a0e6-en . 
+[R2019]  Rudin,  Cynthia.  "Stop  explaining  black  box machine  learning  models  for high stakes  
+decisions  and use interpretable  models  instead."  Natur e Machine  Intelligence  1.5 (2019):  
+206-215.  
+[R+2022]  Rudin,  Cynthia,  et al. "Interpretable  machine  learning:  Fundamental  principles  and 10 
+grand  challenges."  Statistic  Surveys  16 (2022):  1-85.  
+[R+2024]  Rolnick,  David,  et al. "Position:  Application-driven  innovation  in machine  learning."  
+Forty-first  International  Confer ence on Machine  Learning  (2024).  
+[SG2023]  Singh,  Raghubir , and Sukhpal  Singh  Gill. "Edge  AI: a survey ." Internet  of Things  and 
+Cyber -Physical  Systems  3 (2023):  71-92.  
+[SGU2023]  Suriyakumar , Vinith Menon,  Marzyeh  Ghassemi,  and Berk  Ustun.  "When  
+personalization  harms  performance:  reconsidering  the use of group  attributes  in prediction."  
+International  Confer ence on Machine  Learning . PMLR,  2023.  
+[S+2021]  Suriyakumar , Vinith M., et al. "Chasing  your long tails:  Differentially  private  
+prediction  in health  care settings."  Proceedings  of the 2021  ACM  Confer ence on Fairness,  
+Accountability , and Transpar ency. 2021.  
+[S+2023]  Shi, Yuanming,  et al. "Communication-ef ficient  edge  AI: Algorithms  and systems."  
+IEEE  Communications  Surveys  & Tutorials  22.4 (2020):  2167-2191.  
+[S+2024]  Su, Tong, et al. "A review  of safe reinforcement  learning  methods  for modern  power  
+systems."  arXiv  preprint  arXiv:2407.00304  (2024).  
+[W2024]  Watt Transmission.  Working  for advanced  transmission  technologies.  (2024).  
+https://www .vermontspc.com/sites/default/files/2024-04/24%20Apr%2017%20W ATT%20GET s
+%20overview%20-%20VSPC.pdf  
+[Y+2023]  Yang, Yuzhe,  et al. "Change  is hard:  a closer  look at subpopulation  shift."  Proceedings  
+of the 40th International  Confer ence on Machine  Learning . 2023.  
+[Z2024]  Zagorodnya,  Zoryana.  “Warehouse  Automation:  How  Cutting-Edge  Tech Supports  A 
+Booming  Market”.  Forbes  (2024).  
+https://www .forbes.com/sites/sap/2024/10/23/warehouse-automation-how-cutting-edge-tech-sup
+ports-a-booming-market/  
+11 
+

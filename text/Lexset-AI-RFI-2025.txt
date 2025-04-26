@@ -1,0 +1,275 @@
+March  13, 2025   
+Office  of Science  and Technology  Policy 
+National Sciences Foundation  
+1650  Pennsylvania Avenue  
+Washington,  DC 20504  
+ 
+Comment  on Request  for Information  on the Deve opment  of an Al Action Plan  
+ 
+Lexset welcomes the opportunity to  respond to  the National Science Foundation's Request for 
+Information (RFI) on  a National Al Action Plan. As a  leading developer of synthetic data and 
+systems for artificial intelligence,  Lexset supports the Trump Administration's  focus on 
+sustaining American Al leadership while removing unnecessary regulatory barriers, as 
+embodied in  Executive Order 14179, "Removing Barriers to  American Leadership in Artificial  
+Intelligence."  Our comments align closely with the administration's directive to enhance 
+America's Al dominance in support of  economic competitiveness  and national security, and to 
+ensure that overly burdensome requirements do not hamper private -sector innovation. We 
+provide evidence of synthetic data's effectiveness and  cost benefits, discuss its  importance in 
+the U.S.-China technological competition, describe  Lexset's  contributions through public -private 
+partnerships, and recommend policies to  drive Al  innovation with minimal regulatory friction.  
+ 
+2. Background  on Lexset  
+ 
+Lexset  is a leader  in synthetic  data development,  harnessing advanced generative techniques 
+to create high -fidelity, photorealistic datasets essential for training state -of-the-art Al models . 
+Founded  in 2018  and based  in Brooklyn, NY  and Gig Harbor, WA,  Lexset is  backed  by top-tier 
+investors such as  Super Ventures and XRC Labs, and has earned recognition as a Verizon 
+"Built on 5G Challenge" winner.  
+ 
+Our flagship platform, Seahaven , revolutionizes  synthetic data generation by combining 
+graph -based scene creation, procedural simulation, and robust physics -based controls . This 
+technology enables the rapid production of diverse training data across multiple sensor 
+modalities -from Synthetic  Aperture  Radar  (SAR) and Radar to EO imagery -addressing 
+critical data shortages that hamper traditional Al development. Lexset's approach not only 
+accelerates the  training  process  but has been  shown  to improve object  detection accuracy by 
+nearly threefold, making it indispensable for  both commercial and defense applications.  
+ 
+Lexset has  successfully partnered with  leading technology companies and manufacturing 
+companies, as well as  U.S. government agencies including the U.S. Air Force, and the U.S. 
+Space Force . Through partnerships - such as our engagements  via the National Security 
+Innovation  Network (NSIN)  and various  DoD Small  Business programs  - we have  demonstrated 
+how synthetic data can enhance autonomous systems, improve intelligence analysis, and 
+support advanced operational scenarios . These collaborations have enabled rapid prototyping 
+and deployment of Al solutions that drive down costs and reduce the need for extensive,  
+real-world  data collection,  supporting  government  spending  efficiency.  
+
+March  13, 2025   
+By integrating cutting -edge synthetic data methodologies with  strong industry partnerships, 
+Lexset  is uniquely positioned  to support the  U.S. government's strategic  objectives  of sustaining 
+Al leadership, ensuring national security, and maintaining a  competitive edge against global 
+rivals . Our commitment to innovation and  collaboration provides a powerful model for how 
+public -private partnerships can transform Al R&D, accelerate technology transfer, and deliver 
+robust, cost -effective solutions for defense and national security applications.  
+ 
+2. The Role  of Synthetic  Data  in Al Development  for Defense and  National  Security  
+ 
+Synthetic data has  emerged as  a critical  tool for  advancing Al. This  is especially true  in domains 
+where real data is  scarce, unstructured  and unwieldy,  or costly to obtain. In  defense and 
+national security applications, synthetic data enables the training and testing of  Al models for 
+scenarios that are difficult or dangerous to  replicate. It  can augment or substitute for real -world 
+data when the  latter  is unavailable or  exhausted .1 For example, the  U.S. Army has  identified that 
+many Al/ML models in  the defense domain suffer from a "bottleneck" of training data; an Army 
+program noted there is "not enough unique defense/intel data available to create highly 
+performant models", and that synthetic data generation could alleviate this shortage.2 By 
+generating realistic sensor feeds, images, or  simulations of  operational environments, synthetic 
+data allows Al systems  to learn to recognize  threats  (e.g. vehicles, targets, or anomalies) 
+without requiring massive real world datasets.  
+ 
+These capabilities are already at work. In  a collaboration with the Air Force Research Lab, 
+Lexset's photorealistic synthetic imagery was used to train computer vision algorithms for 
+unmanned systems, boosting object detection accuracy and overall autonomous system 
+performance. This demonstrates how simulated data of  battlefields or surveillance scenes can 
+sharpen Al perception for warfighters . Similarly, the Department of Homeland Security has 
+recognized synthetic data as a "gamechanger" that allows training Al when real data is  too 
+sensitive or  not available .3 DHS's 2024 solicitation for synthetic data solutions highlights that 
+synthetic data enables model  training while safeguarding privacy and  security, particularly for 
+scenarios involving personally identifiable information. Across the  national security community, 
+there  is growing consensus that  synthetic data  generation  through  simulation and  modeling is  a 
+critical tool to create the large, varied datasets needed for robust Al applications.4 
+ 
+3. Cost -Saving  Benefits  of Synthetic  Data  and Efficient  Al Development  
+ 
+Synthetic data can significantly reduce the cost and time of  Al development, acting as  a force 
+multiplier for government and industry resources. Traditional Al model training often requires 
+collecting and  using  human  laborers to  annotate millions of  real-world data  points,  an expensive 
+and labor -intensive process. In contrast, synthetic datasets are generated in virtual 
+environments with  built-in ground  truth labels, eliminating much  of the manual  labeling  cost.  The 
+ 
+1 House  Artificial  Intelligence  Task  Force  Final  Report  (2024)  
+2 U.S. Army  SBIR  Topic  A214 -042: Sensor Synthetic  Data  Generation  (2021)  
+3 OHS  S&T Announces New  Solicitation  for Synthetic  Data  Generator  Solutions  (2024)  
+4 National Security  Commission  on Al Final  Report  (2021)  
+
+March  13, 2025   
+U.S. Army notes that creating a moderately accurate model might require on the order of 50 
+million real data samples, whereas a synthetic data pipeline can produce unlimited labeled 
+examples on  demand.5 By leveraging synthetic data,  agencies  can avoid  costly  data collection 
+campaigns  and rapidly  produce  specialized datasets  (e.g. satellite images  of missile  launchers 
+or radar signals of  targets) tailored to  their mission needs. There is  no need to wait months or 
+years to  accumulate real -world examples of  every scenario. This on -demand data generation 
+not only saves money but also accelerates development cycles.  
+ 
+Moreover, synthetic data enables extensive pre -testing of  Al systems before real -world 
+deployment,  catching potential issues early and cheaply . Models can be trialed against 
+countless simulated edge cases (e.g., rare conditions, adversarial tactics, and  extreme 
+environments) that  would  be logistically difficult or  expensive to  reproduce in  live exercises . This 
+comprehensive  virtual testing improves reliability and safety, reducing the risk of  costly failures 
+when new systems are fielded . 
+ 
+In the defense context,  battlefield simulations can  ensure  Al-driven systems are  robust  against  a 
+wide range of threat scenarios, thereby avoiding expensive fixes or  mission failures later.  
+Industry analyses reinforce these benefits : synthetic data brings cost efficiency by cutting 
+expenses associated  with real data collection, labeling,  and yields  time savings  by accelerating 
+Al training and testing pipelines.  
+ 
+In short,  every  dollar  invested in  high-quality synthetic data  can return  many  dollars  in saved 
+labor, faster development, and  more reliable Al outcomes. Harnessing synthetic data thus 
+supports government spending efficiency. Agencies retooling for future challenges like  the 
+Department of  Defense and  the Department of Homeland Security can do more with 
+constrained budgets, focusing funds on  critical  hardware or  personnel needs rather than  on 
+protracted data -gathering efforts.  
+ 
+4. Strategic Importance  of Synthetic  Data  in Maintaining U.S.  Al Leadership  
+ 
+Maintaining America's lead in artificial intelligence is  not just an  economic issue but a national 
+security  imperative, especially in  light of strategic  competition  with China.  The People's  Republic 
+of China has declared its  ambition to become the world leader in  Al by 2030, backing this  goal 
+with massive investments and state -driven Al programs . Chinese researchers have already 
+surpassed their U.S. counterparts in  sheer volume of Al research publications in  recent years, 
+and China's private sector and  government spending on  Al are growing rapidly.6 U.S. policy, as 
+articulated in EO 14179, is well -directed to  "sustain and enhance America's global Al 
+dominance" for the sake of economic and  national security .7 In this context, synthetic data is  a 
+strategic asset that can help the United States outpace competitors in Al development.  
+China's advantages in  Al often  stem  from its access to  vast amounts of  data and  a centrally 
+coordinated national Al strategy. The U .S. can counter these advantages by  leveraging  
+ 
+5 U.S. Army  SBIR  Topic  A214 -042: Sensor Synthetic  Data  Generation  (2021)  
+6 Congressional  Research  Service,  Al: Background,  Issues,  and Policy  (R46795,  2021)  
+7 Executive Order  14179,  Removing  Barriers  to American  Leadership  in Artificial  Intelligence (2025)  
+
+March  13, 2025   
+innovation in  synthetic data to overcome our own data limitations. By generating unlimited 
+training data virtually, American researchers and companies can overcome the  challenges in 
+obtaining real data, leveling the playing field or even leapfrogging in  our competitor's 
+capabilities. If  the U.S. leads  in synthetic data  generation technology, it  will lead in the ability to 
+train the most advanced Al systems at scale.  
+ 
+This has direct  national  security implications: superior  Al trained  on richer,  more  diverse  data will 
+enhance  U.S. military  intelligence, autonomous platforms, and  decision -support  systems relative 
+to those of other nations. Conversely, if  the U.S. falls behind, we  risk a world in  which Chinese 
+standards and technologies dominate, a concern expressed by Congress and defense experts 
+who note that Beijing is  aggressively pursuing leadership in Al and even international  Al 
+standards -setting .8 American leadership in  synthetic data and Al  is thus essential to ensure that 
+the values of openness, privacy, and human rights prevail over authoritarian models of Al  use. 
+Synthetic data is strategic infrastructure  for Al superiority . By investing in  it, the United States 
+can accelerate  innovation, maintain a  military -technological  edge,  and blunt  China's  attempts to 
+gain Al dominance . 
+ 
+5. Policy  Recommendations  for Advancing  Al Innovation  
+ 
+In line with Executive  Order  14179's objectives, Lexset offers  the following  recommendations  to 
+support U.S. Al leadership and innovation. These recommendations aim to foster Al 
+development, particularly for defense applications, while minimizing regulatory burdens, thus 
+enabling the U .S. to maintain its edge in  an increasingly competitive global Al landscape:  
+ 
+I. Promote Synthetic Data Adoption Across Federal Al  Initiatives. Federal agencies 
+should explicitly encourage and  fund the use of synthetic data in Al R&D, testing, and 
+evaluation. This  could include directing R&D funding (via NSF, DoD, OHS S&T, etc.) 
+toward synthetic data generation tools and establishing pilot programs where agencies 
+partner with industry to  create synthetic datasets for high -priority Al challenges. By 
+integrating synthetic data into  programs like  the DoD Joint Al  Center  initiatives, the  DoD 
+Data Strategy, and NSF -funded research, the government can amplify Al  progress with 
+limited real -world data. Agencies should develop standards and best practices for 
+validation of synthetic data quality, as  highlighted by the DOD's National Science and 
+Technology Council's 2023 strategy calling for research into verification techniques for 
+synthetic data accuracy and effectiveness.9 Ensuring synthetic data is  rigorously 
+evaluated will  build trust in  its use. We also recommend establishing a public synthetic 
+data catalog or  sandbox (perhaps as  part of  the National Al Research Resource) where 
+researchers and  companies can  access  government -curated  synthetic datasets (with  no 
+privacy issues) for Al development. This would accelerate innovation across academia, 
+industry, and government by making  "open synthetic data" a shared resource.  
+ 
+ 
+8 Congressional  Research  Service, Al:  Background,  Issues, and  Policy  (R46795,  2021)  
+9 National  Defense  Science  & Technology  Strategy  (2023)  
+
+March  13, 2025   
+II. Strengthen Opportunities for  Small  Businesses in  Defense Al  Innovation. The U.S. 
+government should expand mechanisms that allow small innovative Al  companies to 
+contribute to national security missions. Lexset's experience through small business 
+contracts and  the NSIN accelerator suggests that relatively small  investments in  nimble 
+businesses can yield outsized benefits by bringing cutting -edge tech into  government 
+use. We urge the continuation and growth of programs like AFWERX, DIU (Defense 
+Innovation Unit),  NSIN, and DHS's Silicon Valley Innovation Program, which connect 
+non-traditional  vendors/startups  with defense and  security  needs.  Contracting processes 
+should be further streamlined to lower barriers for small Al firms to work with the 
+government (e .g., faster acquisition pathways, flexible intellectual property 
+arrangements, and bridge funding between pilot  projects and full  adoption). By  lowering 
+contracting and  compliance hurdles, the  government can  tap into the full creativity of  the 
+private sector . We also recommend incentives for  large prime  contractors to  incorporate 
+innovative subcontractors  in defense programs, fostering a collaborative ecosystem . 
+Ultimately, robust public -private collaboration will  help ensure the U.S. military and 
+homeland security agencies have access to the best Al technologies available 
+domestically, reinforcing our technological and military dominance.  
+ 
+Ill.  Leverage Synthetic Data to  Improve Government Efficiency and  Reduce  Costs.  As 
+agencies implement Al solutions, they should prioritize cost -effective  strategies like 
+synthetic data pre -testing. We recommend 0MB  and agency leadership issue guidance 
+recognizing synthetic data as a best practice for Al project planning - for instance, 
+requiring that proposals for new Al systems consider the use of synthetic data during 
+development to optimize cost and  performance. By conducting extensive virtual 
+experimentation, agencies can identify failures or biases in Al models without the 
+expense  of live trials,  thus avoiding wasteful  spending . Successful case studies  (such  as 
+the Army's use of  synthetic data to  overcome intel  data gaps)10 should  be shared across 
+government to  illustrate return on investment. Making synthetic data a cornerstone of 
+federal Al development  will maximize the impact per taxpayer dollar, enabling  
+high-performance  Al systems without the  traditionally high  costs  of data acquisition and 
+model training.  
+ 
+IV. Maintain Light -Touch Regulation and Remove Barriers to  Al Deployment. We 
+strongly support the intent of EO 14179 to eliminate or revise policies that needlessly 
+hinder Al innovation. To this end, we  recommend reviewing and rescinding legacy 
+regulations or  agency policies that inadvertently discourage data sharing or  Al adoption. 
+The federal government should also coordinate with state and  local governments to 
+discourage a  patchwork of  Al regulations; a  clear  national  standard  will help American Al 
+companies innovate with  confidence. In  international contexts, U.S.  diplomats and  trade 
+officials should push back against foreign regulations that unfairly disadvantage U.S.  Al 
+products or  that seek to impose another country's values via technology standards . By 
+championing a pro -innovation  regulatory climate at home and abroad, the U.S. can  
+ 
+10 U.S. Army  SBIR  Topic  A214 -042: Sensor  Synthetic Data  Generation  (2021)  
+
+March  13, 2025   
+ensure that its Al developers (large and small) are not hamstrung by red tape, and that 
+American Al systems reach the field faster to  compete globally. We also endorse 
+continued  inter-agency efforts  to clarify  ethical  guidelines and  risk management practices 
+for Al (building on NIST's work),  so that essential guardrails  are in place without 
+imposing heavy -handed rules that deter experimentation.  
+ 
+V. Prioritize  National  Security  Al R&D  and Leadership  Coordination. To secure 
+long-term U.S. leadership,  federal  policy  should  treat Al, including  synthetic  data 
+capabilities, as  a strategic priority  on par with other critical technologies. We  applaud the 
+inclusion of national security considerations  in the Al Action Plan mandate, and we urge 
+sustained focus on defense -related Al in  its implementation. Concretely, this means 
+increasing investments in Al R&D for defense and dual -use technologies . It also means 
+cultivating the Al talent and workforce needed for the defense sector, possibly by 
+expanding scholarships and career pathways for Al engineers to enter public service or 
+defense industry  roles. Another  aspect of  leadership  is international: the U.S. should 
+lead alliances for  Al cooperation - sharing  data (including  synthetic data  techniques) and 
+aligning Al ethics with allies  - to magnify our collective capabilities against adversaries. 
+Finally, high -level coordination is  key. We recommend empowering the White House's 
+science and technology leaders and the National Security Advisor (as named in  EO 
+14179) to continually identify and remove any emerging "barriers to American Al 
+leadership." This could involve quick action to address bottlenecks such as export 
+controls on  certain Al hardware, immigration hurdles for Al talent, or  insufficient tech 
+transfer out of federal labs . By proactively tackling such issues, the Administration can 
+ensure nothing stands in  the way of U.S. technological and military dominance in  Al. A 
+whole -of-government commitment to Al leadership - with defense innovation at its core  
+- will signal  to both allies  and competitors that  the United States intends to  retain its 
+preeminent position in Al for the foreseeable future.  
+ 
+Lexset appreciates the opportunity to contribute to the formulation of the U.S . Artificial 
+Intelligence Action Plan. Synthetic data is  a powerful enabler of Al advancement,  and with 
+thoughtful policy support it can help drive breakthroughs in  defense, security, and  many civilian 
+sectors while saving costs and safeguarding privacy . The United States stands at a pivotal 
+moment. By  embracing innovation and  removing impediments, we  can unleash Al's potential to 
+strengthen our  economy and  secure  our nation.  In drafting  the Action  Plan,  we urge NSF,  OSTP, 
+and NITRO to incorporate the  above recommendations,  focusing on data -driven approaches, 
+strategic investment, and  light-touch regulation,  which align with the mandate of  Executive 
+Order 14179 to sustain American  Al leadership. Lexset remains committed to  partnering with 
+the U.S. government to  achieve these goals. We  are prepared to  share further insights from our 
+R&D efforts and to support initiatives that will ensure the United States continues to  lead in 
+artificial intelligence against any competition. Together, government and  industry can create an 
+environment where Al innovation flourishes on  American soil,  bolstering our  national security 
+and prosperity for years to come.  
+

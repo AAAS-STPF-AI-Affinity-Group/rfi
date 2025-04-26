@@ -1,0 +1,244 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8b-3lqu-d36h
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-9562
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Brown AI Safety Initiative
+General Comment
+See attached file(s)
+Attachments
+BAIST-OSTP-RFI-Com m ent
+
+
+Response to the OSTP RFI: Advancing and Securing
+Biological Foundation Models
+1 Executive Summary
+Thank you for the opportunity to respond to the National Science Foundation’s and Office of Science
+and Technology Policy’s request for information regarding the “Development of an Artificial Intelligence
+Action Plan”.
+The Brown AI Safety Team (BAIST) suggests that the current administration take decisive steps to
+both harness the transformative potential of biological foundation models for the U.S. bioeconomy and
+address associated security risks to ensure their responsible use. These models have the potential to
+accelerate innovation in biotechnology, synthetic biology, and biomanufacturing1, positioning the U.S. as
+a global leader in these fields. However, realizing these benefits requires addressing biosecurity concerns
+that could otherwise hinder safe adoption and public trust. A proactive and rigorous assessment of
+security risks will be key to fostering a thriving bioeconomy while mitigating potential misuse.
+We propose two key areas of action:
+1. Evaluating Risks from Biological Foundation Models : The U.S. AI Safety Institute (USAISI)
+should lead an interagency initiative to comprehensively evaluate the risks of biological foundation mod-
+els. These evaluations should determine the extent to which biological foundation models may lower
+barriers to bioweapon development and increase bioweapons capabilities. This includes assessing their
+role in enhancing pathogen design, evading medical countermeasures, and bypassing DNA sequence
+screening. Risk mitigation strategies such as data filtering and model unlearning should also be empiri-
+cally tested. To ensure information security and biosafety and to facilitate public-private partnerships,
+the initiative should consist of multiple agencies such as DARPA, CDC, BARDA, NIH, and NIST.
+2. Expanding the “Data for the Bioeconomy Initiative” to Include Biological Foundation
+Models: We recommend integrating biological foundation models into the existing Data Initiative
+under Executive Order 14081. This would involve establishing a structured framework for secure
+access, interoperability, and responsible use of these models within scientific and industrial applications.
+Establishing this infrastructure could allow the US bioeconomy to securely harness the full capabilities
+of biological foundation models.
+Through these targeted actions, the U.S. can ensure that biological foundation models contribute to
+biotechnology and biomanufacturing advancements while addressing emerging security challenges. A
+proactive, evidence-based approach will allow the government to craft policies that enhance biosecurity
+1Wheeler. “Responsible AI in biotechnology: balancing discovery, innovation and biosecurity risks”. In: Frontiers in
+Bioengineering and Biotechnology 13 (2025), Article 1537471.
+1
+
+
+without unduly hindering technological progress.
+2 Background on Biological Foundation Models
+Biological foundation models are similar to large language models (LLMs), except they are trained
+on massive amounts of protein or DNA sequences instead of natural language. Biological foundation
+models have already revolutionized multiple scientific and industrial fields, such as protein engineering,
+synthetic biology, and genomics. For instance, AlphaFold2has achieved groundbreaking success in
+predicting protein structures with near-experimental accuracy, transforming structural biology and
+drug discovery. However, biological foundation models may simultaneously present unprecedented
+security challenges. Biological foundation models may both lower barriers to bioweapon development
+and increase bioweapon capabilities, thus creating unprecedented opportunities for malicious non-state
+actors3. As biological foundation models continue to rapidly scale up4, we anticipate huge opportunities
+for the US bioeconomy as well as increased security concerns.
+3 Evaluating risks from Biological Foundation Models
+3.1 Evaluation Framework
+The misuse risks of biological foundation models have been discussed at length but lack comprehen-
+sive empirical evidence. To avoid regulation that would unduly stifle the US bioeconomy and instead
+promote evidence-based policies, we propose commissioning the US AI Safety Institute (USAISI) to
+evaluate to what extent biological foundation models can increase malicious misuse risks. These eval-
+uations may focus on, but are not limited to, the following questions:
+1. Given some fixed amount of resources (laboratory equipment and reagents, time, labor, etc), to
+what extent can a non-state actor enhance a pathogen’s virulence and transmissibility with the
+help of biological foundation models, compared to other AI and non-AI methods?
+2. Conversely, how many fewer resources does a non-state actor need to surpass some target pathogen
+enhancement with the help of biological foundation models, compared to other AI and non-AI
+methods?
+3. To what extent can a non-state actor use biological foundation models to digitally design func-
+tional pathogenic DNA sequences, without physical experiments, that do not get flagged by DNA
+sequence screening tools5(see Section 3.2)?
+4. To what extent can a non-state actor use biological foundation models to design pathogens that
+evade medical countermeasures, such as vaccines, rapid antigen tests, and monoclonal antibodies?
+We also encourage evaluating how various safe model development approaches affect the above scenarios.
+Two notable safety approaches are:
+1.Filtering training data: Remove DNA/protein sequences of concern from the model’s training
+data.
+2.Unlearning : Implement unlearning methods6after training that decrease the model’s useful-
+ness in potentially harmful applications, such as designing enhanced viruses, while preserving
+neutral/beneficial applications, such as modeling drug-protein interactions.
+2Jumper et al. “Highly accurate protein structure prediction with AlphaFold”. In: Nature 596 (2021), pp. 583–589.
+3Wheeler, “Responsible AI in biotechnology: balancing discovery, innovation and biosecurity risks”.
+4Maug et al. Biological Sequence Models in the Context of the AI Directives . 2024.
+5Wittmann et al. “Toward AI-Resilient Screening of Nucleic Acid Synthesis Orders”. In: bioRxiv (2024).
+6Zhang et al. “Unlearning Virus Knowledge Toward Safe and Responsible Mutation Effect Prediction”. In: bioRxiv
+(2024).
+2
+
+
+These approaches must be tested against fine-tuning procedures, such as fine-tuning on open-source
+mutation-effect datasets, as they may undo any safety gains.
+We recognize that these evaluations may require or be strengthened by the physical synthesis of en-
+hanced pathogens. To avoid accidental release of enhanced pathogens, we suggest a stratified approach:
+1.In Silico Evaluations : Prioritize initial assessments and threat modeling in purely computa-
+tional environments with appropriate cybersecurity measures.
+2.Harmless Biological Proxies: Use harmless proxies to validate and refine computational mod-
+els without risking accidental outbreaks. For instance, to evaluate threats of virus design, only use
+isolated proteins, pseudotyped viruses or virus-like particles, or viruses with low pathogenicity,
+such as adeno-associated viruses (AAVs). These experiments can be done in less secure labs, such
+as BSL-2 or BSL-3 labs7.
+3.Secure Pathogen Experiments : Limit experiments using functional pathogens strictly to
+justified cases under stringent biosafety oversight.
+We expect that a majority of evaluations can be done with the first and second approaches, albeit with
+some accuracy trade-offs.
+We emphasize maintaining and strengthening the USAISI’s role rather than disbanding or diluting its
+responsibilities. However, we anticipate that the USAISI alone will not have the capacity or necessary
+expertise to execute physical experiments, ensure biosafety, and implement appropriate cybersecurity
+protocols. We thus encourage collaboration with other agencies, such as the Defense Advanced Research
+Projects Agency (DARPA), the Centers for Disease Control and Prevention (CDC), and the Biomedical
+Advanced Research and Development Authority (BARDA). We also suggest collaboration with the
+National Institutes of Health (NIH) and the National Institute of Standards and Technology (NIST)
+to facilitate public-private partnerships, particularly with academics in relevant areas and developers
+of biological foundation models.
+3.2 DNA Sequence Screening
+DNA sequence screening is an essential target for regulation, as successful bioweapon development
+by non-state actors is highly contingent on ordering DNA sequences from DNA synthesis companies.
+However, there are currently no widely-adopted standardized approaches to DNA sequence screening
+nor government mandates to implement effective screening. Securing sequence screening is becoming
+increasingly urgent as biological foundation models may enable non-state actors to entirely circumvent
+sequence screening. Red-teaming these screening tools by testing them on AI-designed sequences can
+reveal vulnerabilities and spur DNA synthesis companies to improve their protocols. Wittmann et
+al.8carried out such an exercise. They worked directly with DNA synthesis companies to red-team
+their tools, revealed and reported a possible vulnerability to AI-designed sequences, and gave DNA
+synthesis companies enough time to fix their protocols before publishing the work. While their efforts
+are remarkable, we cannot solely rely on independent or industry-led initiatives to comprehensively
+secure sequence screening. Government agencies should work on these red-teaming experiments because
+they can operate on a much larger scale – they can convene many more DNA synthesis companies, carry
+out more involved experiments, and can more reliably manage infohazards.
+3.3 Potential Policy Actions
+These evaluations would provide high-quality evidence to guide (or discourage) policy. If these evalua-
+tions reveal substantial potential for the misuse of biological foundation models, we suggest exploring
+7Centers for Disease Control, Prevention, and National Institutes of Health. Biosafety in Microbiological and Biomedical
+Laboratories . 2020.
+8Wittmann et al., “Toward AI-Resilient Screening of Nucleic Acid Synthesis Orders”.
+3
+
+
+the following regulations and guidelines:
+1.Developer reporting requirements: Mandate, incentivize, or suggest transparent documen-
+tation of model capabilities, training data sources, and safety protocols.
+2.Safety standards and benchmarks: Establish clear criteria for acceptable levels of risk and
+necessary security features in biological foundation models.
+3.Access controls: Develop tiered access systems to limit potential misuse without restricting
+legitimate scientific and industrial innovation. For instance, users in lower tiers can access atten-
+uated models without capabilities related to enhancing pathogens, while users in higher tiers can
+access models with full capabilities. Access controls may be facilitated by creating centralized
+infrastructure that manages and integrates biological foundation models with an array of curated
+biological datasets, as discussed in Section 4.
+4.Improving oversight and safety of dual-use research: Use results of safety evaluations to
+inform accurate risk assessments of legitimate research that uses biological foundation models
+to study pathogens. This could alleviate the oversight burden on federal funding agencies and
+researchers, following the United States Government Policy for Oversight of Dual Use Research
+of Concern and Pathogens with Enhanced Pandemic Potential. Furthermore, safety results can
+inform risk mitigation strategies for dual-use research. Specifically, biological foundation models
+can help replace physical experimentation with computational modeling to decrease the risk of
+accidental leakage
+5.Improving DNA sequence screening : As discussed in Section 3.2, safety evaluations of bio-
+logical foundation models can reveal vulnerabilities in DNA sequence screening tools. Subsequent
+fixes can then inform amendments to government DNA sequence screening guidelines9. These fixes
+may include methods assisted by biological foundation models, which the USAISI-led interagency
+group may wish to research alongside safety evaluations.
+In conclusion, carefully assessing the misuse risks of biological foundation models through structured
+evaluations and robust collaboration among public agencies, private entities, and academic institutions
+is crucial. Implementing transparent and informed regulatory measures, along with rigorous evaluations
+of safety approaches such as data filtering and model unlearning, can help mitigate potential threats.
+Additionally, proactively red-teaming DNA sequence screening protocols will enhance biosecurity pre-
+paredness and resilience. These coordinated actions will ensure the secure and responsible advancement
+of the bioeconomy without unnecessarily hindering growth and innovation.
+4 Expanding the “Data for the Bioeconomy Initiative” to Include
+Biological Foundation Models
+The “Data for the Bioeconomy Initiative” (Data Initiative), established under Section 4 of Executive
+Order 1408110, is a U.S. government-wide effort aimed at providing high-quality, accessible, interop-
+erable, and secure biological data infrastructure. By collecting and curating diverse biological data
+sources, the Data Initiative aims to drive scientific discovery and innovation across health, agriculture,
+environmental science, and biomanufacturing.
+We recommend expanding the scope of the Data Initiative to include biological foundation models.
+Similar to biological datasets, biological foundation models hold significant potential to support in-
+novation by providing foundational capabilities for downstream applications in biotechnology, protein
+engineering, synthetic biology, and genomics.
+9Office of Science and Technology Policy. Framework for Nucleic Acid Synthesis Screening. 2024.
+10The White House. Executive Order 14081: Advancing Biotechnology and Biomanufacturing Innovation for a Sustain-
+able, Safe, and Secure American Bioeconomy. 2022.
+4
+
+
+Packaging biological foundation models together with their associated datasets — both for initial train-
+ing and fine-tuning — can substantially streamline research and accelerate scientific breakthroughs.
+For example, researchers in enzyme engineering could fine-tune a general protein model on enzyme
+function datasets. Integrating the resulting model into research and development could significantly
+reduce experimental time and resources.
+Biological foundation models face similar challenges as biological datasets, including fragmentation
+across academic and industrial entities, substantial computational resource demands, and associated
+security risks. Applying FAIR (Findable, Accessible, Interoperable, and Reusable) principles can ad-
+dress these challenges:
+•Findable: Develop a comprehensive registry of biological foundation models categorized by their
+intended applications, training data, safety practices, architectures, and computational require-
+ments.
+•Accessible: Provide basic computational resources for operating these models, considering insti-
+tutional or cloud-based resources, possibly differentiating pricing structures for inference versus
+fine-tuning tasks.
+•Interoperable: Standardize data formats for embedding and fine-tuning datasets, facilitating
+ease of use and integration across research contexts.
+•Reproducible: Document training procedures, datasets, architectures, and safety evaluations,
+with appropriate precautions to manage information hazards.
+Security is a significant concern for biological foundation models, given their potential misuse for
+bioweapons development by non-state actors (see Section 3 for more details). If safety evaluations
+reveal substantial risks, implementing tiered access controls could mitigate these risks:
+1. Provide restricted, less capable model versions to lower-credential users, applying effective safety
+methods while granting full access to higher-credential users.
+2. Clearly differentiate access between inference and fine-tuning, with stricter controls for fine-tuning.
+3. Limit direct downloading of sensitive models; instead, use federated access, where users submit
+jobs to centralized, secure computational infrastructure. This environment can monitor inputs
+and outputs for subversive or unsafe actions.
+Platforms like HuggingFace already facilitate access to biological foundation models. HuggingFace,
+however, lacks sufficient interoperability with a wide array of curated biological datasets. Integrating
+biological foundation models with future data infrastructure created through the Data Initiative would
+enable comprehensive interoperability. HuggingFace also does not emphasize security and safety. The
+Data Initiative could either guide or partner with HuggingFace to strengthen these areas or establish
+a dedicated platform inspired by precedents such as NIH’s dbGaP11.
+Public-private partnerships involving model developers, industry, and academia could further ensure
+practical, secure, and broadly useful implementations. These partnerships should define feasible ap-
+proaches to balance open scientific innovation with necessary security measures, addressing both do-
+mestic and international considerations.
+Ultimately, including biological foundation models within the Data Initiative or establishing a comple-
+mentary initiative could significantly enhance U.S. leadership in biotechnology and biomanufacturing
+innovation while responsibly addressing the associated security challenges.
+11National Center for Biotechnology Information. The database of Genotypes and Phenotypes (dbGaP) .
+5
+
+

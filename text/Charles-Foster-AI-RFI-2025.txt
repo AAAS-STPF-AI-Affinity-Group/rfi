@@ -1,0 +1,79 @@
+ 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by the  
+government  in developing  the AI Action Plan and associated  documents  without attribution.  
+ 
+ 
+Response to AI Action Plan RFI 
+ 
+I appreciate  the administration’s  commitment  to strengthening  American  leadership  in artificial 
+intelligence  and fostering a thriving domestic AI ecosystem.  I write to recommend  that the new 
+administration should consider how it can support the development, adoption, and 
+standardization of methods for authenticated delegation to AI systems . 
+ 
+“AI agents” are general-purpose AI systems that accomplish  tasks by working independently  for 
+extended periods of time (minutes, hours, perhaps even days) —for instance, letting an agent 
+compile a detailed research report based on proprietary  info or operate a desktop environment  to 
+automate routine tasks . There are many places across the economy, military, and civil society 
+where this technology, once it exists, will potentially have a massive impact. If the rate of AI 
+technological  improvement  continues  as it has in recent years, the first versions of these kinds of 
+general-purpose AI agents will likely be introduced to the world within the current 
+administration, before the year 2028. However, as of January 2025, there is no widely -accepted 
+technical or social infrastructure for delegating to AI agents in a secure, authenticated manner.  
+ 
+To address this, I would recommend an approach called “authenticated delegation”. 
+Authenticated  delegation  is a framework  that lets a user securely authorize an AI agent to act on 
+their behalf by issuing a digitally signed token specifying precise permissions —leveraging 
+protocols like OAuth/OpenID Connect to ensure every action is verifiable and auditable. This 
+approach enables AI systems to act on behalf of individuals or organizations with carefully 
+scoped permissions and verifiable identities, protecting both commercial interests and national 
+security. 
+ 
+Below is a concise summary of the merits of this approach:  
+ 
+● Innovation: Authenticated delegation would promote innovation by creating common 
+and interoperable  standards  for AI-centric businesses.  This has synergies  with the broader 
+adoption of cryptocurrencies and other forms of decentralized finance, as  
+machine-to-machine commerce will likely hook into the same infrastructure.  
+● Security: When AI agents can prove their delegated authority, personnel within our 
+military, law enforcement,  and in enterprises  that touch critical industries  can confidently 
+automate sensitive tasks without fear of handing unlimited amounts of control over to 
+third-party AI providers.  
+
+
+ 
+● Incident Response: Methods for authenticated delegation would provide delegation 
+trails and audit logs that can help allocate liability if something  goes wrong, aiding rapid 
+investigations  and reducing legal uncertainty,  without requiring government  licensing or 
+prescriptive regulation.  
+A paper titled “ Authenticated Delegation and Authorized AI Agents ” has detailed technical 
+specification for how authenticated delegation would work, so in this comment I will mostly 
+refer the reader to that paper, and close this comment out with a few example actions that could 
+be incorporated into the AI Action Plan to support the development, adoption, and 
+standardization of authenticated delegation methods.  
+Public -Private  Standards Initiatives:  
+ 
+● Direct OSTP and NIST to host a working group with AI firms, cybersecurity  experts, and 
+major platforms to draft industry -led guidelines on delegated AI agent credentials  
+● Encourage  or fund open-source toolkits that integrate authenticated  delegation  into 
+existing frameworks, lowering adoption barriers.  
+Federal  Pilot Programs:  
+ 
+● Incentivize  pilot deployments  (e.g., secure government  chatbots, delegated  report-filing 
+agents) that adhere to delegated -credentials best practices. This not only improves 
+efficiency but also sets a baseline standard for the private sector.  
+● Incorporate  these agent-security criteria in upcoming  federal RFPs, thereby signaling 
+market demand and accelerating private adoption.  
+Liability  Clarification  and Incentives:  
+ 
+● Work with agencies like the FTC or SEC to clarify regulatory  guidance so that AI agents 
+operating with authenticated delegation are recognized as legitimate intermediaries in 
+financial or consumer transactions.  
+By championing  authenticated  delegation  for AI agents, the administration  can unlock the next 
+wave of AI -driven services and capabilities. in a manner that respects property rights, bolsters 
+security, and allows America to lead on this new technological horizon.  
+ 
+ 
+Charles Foster  
+
+

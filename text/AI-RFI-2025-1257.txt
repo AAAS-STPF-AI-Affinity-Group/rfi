@@ -1,0 +1,1816 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 13, 2025
+Status: 
+Tracking No. m 87-ya5b-itd0
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1257
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Laszlo Jakusovszky  
+General Comment
+I do not support giving the AI industry a blank check from  the US governm ent.
+Generative AI is a fraud. Open AI, etc. have sold us a lie that AI is som e fantastic technological breakthrough that will revolutionize our
+world. This is far from  the truth.
+Instead they created tech that has not lived up to their prom ises, is frequently wrong, shows m any biases, and has never turned a profit for
+any of these com panies. Yet they want to add this tech to every part of our lives, with no regulation or checks on their actions.
+Very few people have seen any benefit from  this tech. In fact it's creating a generation of people who believe the wrong inform ation
+ChatGPT gives them  (see m y link to a dog euthanasia exam ple.)
+It's also placing real strain on the nation's power grid. We are building nuclear power plants and reopening coal power plants to support
+data centers for an industry that has yet to provide anything of substance to our country.
+In fact even large corporations are beginning to discount the GenAI hype. Microsoft recently announced they are canceling m any data
+center building projects and leases. Since they are a heavy investor in OpenAI, which requires vast am ounts of so-called "com pute" from
+data centers, this clearly indicates they don't see a future for this tech. Add to this that Microsoft's CopilotAI had gained _less than 1%
+m arketshare_ with Office 365 users, m ost of which are com panies.
+https://www.em arketer.com /content/m icrosoft-copilot-faces-growing-pains--declining-user-adoption-after-only-one-year
+Yet OpenAI and other GenAI want the US to rem ove any checks on their actions, stop any regulation effort, and in fact to _rewrite_
+copyright laws to allow them  to continue to steal content from  countless artists and writers with no com pensation!
+Theft of copyrighted m aterial as "training data" is a keystone of GenAI. So far they have lost at least one m ajor lawsuit for stealing
+m aterial. Many m ore suits are pending...
+I'm  attaching a paper from  a form er copyright lawyer to the White House explaining how GenAI com panies steal and _keep_ copyrighted
+m aterials forever on their servers.
+I'm  also including a discussion from  an AI developer explaining exactly the sam e thing in technical term s:
+https://suchir.net/fair_use.htm l
+Again, I do not support this governm ent plan to grant AI com panies unfettered freedom  to do whatever they want.
+References:
+Hallucinations/lying
+
+
+https://apnews.com /article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14
+https://www.scientificam erican.com /article/chatbot-hallucinations-inevitable/
+https://www.cjr.org/tow_center/we-com pared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php
+Ethical problem s
+https://www.m sn.com /en-us/health/other/ai-ceo-proud-of-chatbot-for-convincing-wom an-to-euthanize-her-dog/ar-AA1pn3PE
+https://futurism .com /hallucinating-ai-police-reports
+https://the.ink/p/special-report-in-the-room -where
+https://apnews.com /article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14
+https://www.datacenterknowledge.com /energy-power-supply/ai-is-exhausting-the-power-grid-tech-firm s-are-seeking-a-m iracle-solution-
+Copyright violation
+https://papers.ssrn.com /sol3/papers.cfm ?abstract_id=4924997
+https://suchir.net/fair_use.htm l
+https://copyrightalliance.org/policy/position-papers/artificial-intelligence/
+https://www.reuters.com /legal/thom son-reuters-wins-ai-copyright-fair-use-ruling-against-one-tim e-com petitor-2025-02-11/
+Attachments
+ssrn-4924997
+
+
+Generative AI’s Illusory  Case for Fair Use  
+Jacqueline C. Charlesworth* 
+Pointing to  Google Books , HathiTrust , Sega  and other technology -driven fair use precedents, AI 
+companies and those who advocate for their interests  claim that mass unauthoriz ed reproduction 
+of books, music , photographs, visual art, news articl es and other copy righted works to train 
+generative AI systems  is a fair use of th ose works .  Though acknowledging  that w orks are copied  
+without permission for the training p rocess , the proponents of  fair use  maintain that an AI 
+machin e learns  only uncopyrightable  information  abou t the works  during th at process .  Once  
+trained, they say,  the model does not  comprise  or make use of  the content of the  training  works .  
+As such, they contend , the copying is a fair use under U.S. law .  
+This article challenges  the above narrative  by reviewing  generative AI training and func tionality . 
+Despite  wide employment  of anthrop omorphic terms  to describe their behavior , AI machines do 
+not learn or reason  as hum ans do.  They do not “know ” anything independently  of the works  on 
+which they  are trained , so their output is a function of th e copied  materials .  Large language 
+model s, or LLMs , are trained  by breaking  textual works  down  into small segments , or “tokens ” 
+(typically  individual words  or parts of words ) and convert ing the tokens into vectors —numeric al 
+representations of the tokens and where they appear in relation  to other tokens  in the text .  The 
+training work s thus do not disappear , as claimed , but are encod ed, token by token , into th e model 
+and relied upon to generate output.   AI image generators  are trained through a “diffusion ” 
+process in which they lear n to reconstruct particu lar training images  in conjunction  with 
+associated descriptive  text.  Like an  LLM , an AI image generator r elies on encoded 
+representation s of training works to generate  its output . 
+The exploitation of copied works for the ir intrinsic  expressive  value  sharply distinguishes AI 
+copying from th at at issue  in the technologi cal fair use case s relied upon by AI’s fair use 
+advocates .  In these earlier cases , the determination of fair use turned on the fact that the alleged 
+infringer  was not seeking to capitalize on expressive content —exactly t he opposite of  generative 
+AI. 
+Generative AI ’s claim to fair use is  further  hamper ed by  the propensity of models to generate  
+copies and derivatives of training works , which are presump tively infringing .  In addition, s ome 
+AI models rely on retrieval -augmented generation , or RAG , which searches out and copies 
+materials from online sources  without permission to respond t o user  prompts  (for example,  a 
+query concerning  an event  that postdates the training of the underlying model ).  Here  again, the  
+materials are  being copied and exploited  to make use of  expressive content.  
+For these and other reasons , each of the four factors of section 107 of the Copyright Act weighs 
+against AI’s claim of fair use , especially  when considered  against the backdrop of a  rapidly 
+evolving  market for licens ed use  of training material s. 
+
+
+2 Introduction  
+A common refrain of generative AI companies1 and those who  advocate for  their interests  is that 
+the unauthorized  reproduction  of copyrighted works to  train and  develop  AI models is a fair use 
+of those work s.2  Relying on a handful  of technology -driven  judicial decisions , including  Authors 
+Guild , Inc.  v. Google, Inc . (“Google Books ”),3 Authors Guild , Inc.  v. HathiTrust  (“HathiTrust ”)4 
+and Sega Enterprises  Ltd. v. Accolade, Inc.  (“Sega ”),5 proponents of th is argument assert  that for-
+profit AI entities  are entitled  to copy books, music , photographs, visual art , news articles  and 
+other  protected  works6 at will in order  to train their Al models .7  They claim that o nce an AI 
+* J.D., Yale Law School.  I am indebted to Professor s Jane Ginsburg  and Phili ppa Loengard  of Columbia
+Law School, and Regan Smith, my former colleague at the Copyright Office, for insightful  comments on
+earlier drafts of this article .
+1 The use of the shorthand “AI” throughout this article refers to systems and processes of generative AI
+rather than artificial intelligence in general.  For ease of reference, “AI companies” includes not just the
+companies themselves but entities engaged in AI activities on their behalf.
+2 See, e.g. , Artificial Intelligence and Intellectual Property: Part I –Interoperability of AI and Copyright
+Law: Hearing Before the U.S. H. Comm. on the Judiciary, Subcommittee on Courts, Intellectual Property,
+and the Internet  2 (2023) , https://judiciary.house.gov/sites/evo -subsites/republicans -
+judiciary.house.gov/files/evo -media -document/damle -testimony.pdf  (statement of Sy Damle) (“Damle”)
+(“Foundational copyright cases establish that the use of copyright -eligible content to create non -infringing
+works is protected fair use ….”); Matthew Sag, Copyright Safety for Generative AI , 61 Hous. L. Rev. 295, 
+307-09 (2023), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438593  (“Sag, Copyright Safety ”)
+(reproduction of copyrighted works for purposes of generative AI constitutes a “nonexpre ssive” and
+therefore fair use of those works); Defs.’ Notice of Mot. to Dismiss, Mot. to Dismiss, and Mem. P. & A. in
+Supp. of Mot. to Dismiss at 2, Tremblay v. OpenAI, Inc. , No. 3:23 -cv-03223 (N.D. Cal.  Aug. 28 , 2023)
+(“Tremblay MTD”) (asserting that “[plaintiffs’] claims ... misconceive the scope of copyright, failing to
+take into account the limitations and exceptions (including fair use) that properly leave room for
+innovations like the large language models now at the forefront of artificial intelligence.”) ; Answer of
+Def. Uncharted Labs, Inc. to Compl. at 8 , UMG Recordings, Inc. v. Uncharted Labs, Inc. , No. 1:24 -cv-
+04777 (S.D.N.Y . Aug. 1, 2024) (“ UMG Answer”) (“Under longstanding doctrine, what [defendant’s
+service] Udio has done —use existing sound recordings as data to mine and an alyze fo r the purpose of
+identifying patterns in the sounds of various musical  styles … is a quintessential ‘fair use’ under copyright
+law.”)
+3 804 F.3d 202 (2d Cir. 2015).
+4 755 F.3d 87 (2d Cir. 2014).
+5 977 F.2d 1510 (9th Cir. 1992).
+6 While AI copying includes all manner of copyrighted material, including social media posts and other
+user-generated content, the discussion herein is directed to  typically  market ed works such as the  ones
+listed.
+7 See, e.g. , Damle, supra note 2, at 8 (“[T]raining a model that predominantly creates non -infringing
+outputs easily qualifies for fair use protection.”); Mark A. Lemley & Bryan Casey, Fair Learning , 99 Tex.
+L. Rev. 743, 748 (2021), https://texaslawreview.org/wp -content/uploads/2021/03/Lemley.Printer.pdf
+(“M[achine] L[earning] systems should generally be able to use databases for training, whether or not the
+contents of that database are copyrighted.”).
+
+
+3 model is trained , the works  are “discarded”  and do not exist  as such  in the model .8  According to 
+the fair use proponents, AI systems  merely  derive  information about  the training works  rather 
+than making use of the works themselves .9  Therefore, the argument goes, mass reproduction of 
+copyrighted works  to create AI models should be treated as  a passing  phase  of the AI 
+development process  rather than  a copyright violation . 
+Looking to the four -factor test for fair use in section 107 of the Copyright Act,10 the advocates 
+for unconstrained copying by AI companies claim that the reproduction o f copyrighted works to 
+train AI model s is a “transformative ” use of those work s, thus justifying their appropriation .11  
+They further  contend  that, because the models are not designed to replicate  training data in 
+output and do so only rarely ,12 there i s no cognizable  harm  to copyright owner s.  At the same 
+time, they do not deny that  other  aspects of the fair use calculus —that the use is commercial , 
+involves highly creative works at the core of copyright protection, and entails copying of works 
+in their entirety —point  against  fair use .  But, t hey say, these concerns  must yield to  AI 
+8 Damle, supra note 2, at 7 (“[S]tatistical data is incorporated into the [AI] algorithm, and the original 
+content is discarded….  The model derives unprotectable  information from the billions of works on which 
+it is trained ….”); Notice of Mot. and Mot. of Defs. Stability AI Ltd. and Stability AI, Inc.’s Notice of 
+Mot., Mot. to Dismiss, and Mem. of P. & A. in Supp. of Mot. to Dismiss, Andersen v. Stability AI, Ltd. , 
+No. 3:23 -cv-00201 (N.D. Cal.  Apr. 18, 2023 ), at 1  (“Andersen MTD”) (“[T]raining a model does not 
+mean copying or memorizing images for later distribution.  Indeed, Stable Diffusion does not “store” any 
+images .”) (emphasis in original); see also Sag, Copyright Safety , supra note 2, at 307 (describing process 
+of AI training as “deriving metadata through technical acts of copying and analyzing that dat a”); Lemley 
+& Casey, supra note 7, at 776 ( asserting that purpose of AI training data “is not to obtain or incorporate 
+the copyrightable elements of a work but to access, learn, and use the unprotectable parts of the work”).  
+9 See Damle, supra note 2, at 2 (AI systems merely “learn unprotectable facts” about copyrighted works); 
+Lemley & Casey, supra note 7, at 772 (“M[achine] L[earning] systems generally copy works, not to get 
+access to their creative expression …, but to get access to the uncopyrightable parts of the work —the 
+ideas, facts, and linguistic structure of the works”); Sag, Copyright Safety , supra note 2, at 343 (observing 
+that “the legal and ethical imperative is to train models that learn abstract and uncopyrightable latent 
+features of the training data” rather than memorizing the data) ; Anthropic PBC,  Public Comments of 
+Anthropic PBC , No. COLC -2023 -0006 (U.S. Copyright Office), at 7 ( Oct. 30, 2023 ), 
+file:///C:/Users/user/Downloads/COLC -2023 -0006 -9021_attachment _1.pdf  (describing AI copying as 
+“merely an intermediate step, extracting unprotectable elements about the entire corpus of works”) . 
+10 Section 107 l ists four criteria  to be considered by courts in assessing fair use: the purpose and character 
+of the use; the nature of the work used; the amount and substantiality of the  portion  taken; and the effect 
+on the potential market or value for the work.  17 U.S.C. § 107.   
+11 A significant consideration under the first fair use factor concerning the nature of the copying is 
+whether the secondary use is “transformative.”  In assessing transformativeness, courts evaluate whether 
+the use has a substitutional effect or instead “‘add s something new, with a further purpose o r different 
+character .’”  Andy Warhol Found. for the Visual Arts, Inc. v. Goldsmith , 598 U.S. 508, 528  (2023) 
+(“Warhol ”) (quoting Campbell v. Acuff -Rose Music, Inc. , 510 U.S. 569, 579 (1994) ). 
+12 This claim is  dubious given the frequency with which  close copies of training materials  have been 
+identified in generative AI  output.  See infra notes  60-62 and accompanying text.  
+
+
+4 companies’  overwhelming  need  to ingest massive amounts of  copyrighted material without 
+permission  from or payment  to rightsholders .13   
+The fair us e case for generative AI rests in part on an inaccurate portrayal of the functioning  of 
+AI systems.   Contrary to the suggestion that the works on which AI systems are trained  are set 
+aside  after the training process, in fact they have been  algorithmically incorporated into  and 
+continue to be exploited by the model.   AI copying is thus fundamentally different from  the 
+copying at issue  in the technolog y-driven fair use precedents  relied upon by AI entitie s.  Unlike 
+in these  earlier cases—where the copying served functional ends independent of  the expressive 
+content of the works —generative AI companies exploit  the expressive content of the works they 
+appropriate  for its intrinsic value .  This exploitation is not confined  to the collection of training 
+materials or the training process, bu t is ongoing and the sine qua non  of the resulting AI system.  
+The copying of expressive content of a work for the purpose of generat ing new content from th e 
+copied content capitalizes on the original expressive purpose of the work.  As copyright and 
+technology scholar Benjamin Sobel presciently observed in 2017 , copying for purposes of 
+machine learning allows  computers to derive valuable information from the way authors express 
+ideas  such that , instead of merely  deriving facts from a work , the machine  “glean [s] value from a 
+work’s expressive aspects .”14  Sobel pointed out that this sort of copying is distinct  from th at at 
+issue in technolog ical fair use precedents  such as  Google Books , which  treated copying as a 
+means “to assemble many individual works into non -expressive, factual ‘reference tools.’”15  A 
+few years later —shortly before generative AI exploded into everyday life —Professor Mark 
+Lemley  and colleague Bryan Casey  echo ed this sentiment , observing  that machine learning for 
+the purpose of copy ing expression —“for example, by training a [] …  system to make a song in 
+the style of Ariana Grande ”—presen ted a much “tougher” question of fair use  than copying for 
+nonexpressive  purposes .16 
+13 See, e.g. , Lemley & Casey, supra note 7, at 770 (“[G]iven the large number of works an AI training data 
+set needs to use …. allowing a copyright claim is tantamount to saying, not that copyright owners will get 
+paid, but that no one will get the benefit of this new use because it will be impractical to make that use at 
+all.”) ; Damle, supra note 2, at 3  (“[A]ny royalty providing meaningful compensation to individual 
+creators could impose an enormous financial burden on AI companies that would either bankrupt them or 
+push all but the largest companies out of the market (or out of the country).).”   
+14 Benjamin L. W. Sobel, Artificial Intelligence’ s Fair Use Crisis , 41 Colum. J. L. & Arts 45, 57 (2017)  
+(“Sobel, Fair Use ”).   
+15 Id. at 48, 54-55, 61 (observing that the Second Circuit in Google Books  found Google’s unauthorized 
+reproduction of copyrighted works to be a transformative fair use “largely because Google Books 
+provide[d] information ‘about’ books, not the books’ expression.” ). 
+16 Lemley & Casey,  supra note 7, at 750; see also Peter Henderson, Xuechen Li, Dan Jurasfsky, Tatsunori 
+Hashimoto, Mark A. Lemley & Percy Liang, Foundation Models and Fair Use , arXiv, at 2 (Mar. 28, 
+2023), https://arxiv.org/pdf/2303.15715.pdf  (acknowledging fair use concern).  Interestingly, Lemley is 
+currently defending AI company Stability AI in a class action suit by creators alleging mass infringement 
+of copyrighted works.  See Andersen v. Stability AI Ltd ., No. 3:23 -cv-00201 (N.D. Cal. filed Jan. 13, 
+2023) ( court docket ). 
+
+
+5 This critical distinction between expressive and nonexpressive exploitation sharply differentiates  
+copying to train and develop generative AI models  from  uses determined  to be fair in other  
+technological contexts .  Courts in earlier  cases have been careful to distinguish between  the 
+copying  of expressive  works  to facilitate a functional objectiv e such as  searching, indexing or 
+interoperability , which may be deemed fair,  and the exploitation of  protected expression  for its 
+own sake.17  Examined in this light, the fair use case for mass  unauthorized copying by 
+commercial  AI entities  is revealed as  illusory .  Appropriation  of the world’s literature, art, and 
+music  by for -profit companies  to generate content from that material —including content that 
+competes with the works so appropriated —is not excus ed by any precedent  of fair use .  It is 
+without precedent.   
+I. AI Systems  Are Not Human But Al gorithmically Driven
+AI companies rely on our intuitive understanding of human intellectual ability and 
+anthropomorphic language to encourage the (mis)perception that AI machines learn and create 
+like humans —that is, that they are capable of conceptual thinking and general ization from 
+specific knowledge .  But AI machines do not think as humans do.  T he output of an AI model is 
+fully dependent on, and limited by, the particular  content on which it has been trained.  Its output 
+is a function of its input.  
+Much of the la nguage used to describe  activities  associated with generative AI refer s to human  
+processes.  AI machines are said to “train,” “learn,” “memorize,”18 and “hallucinate.”19  
+Anthropomorphi c language  tends to confuse  and obscure  discussions surrounding generative AI 
+because it encourage s people to ascribe  human intellectual qualities to data -driven machines.  
+But AI models  do not function like humans .  They do not actually “learn” or “know” anything  in 
+an intellectual sense .  Rather, t hey store, access  and process  information  according to prescribed 
+formulas, or algorithms.20  Essentially, an AI model is a highly complex computer program ; its 
+output is a function  of the works it has algorithmically stored  and the programming instructions 
+that govern its use of those stored representations .   
+17 See, e.g. , Google Books , 804 F.3d at 222 -25 (holding Google’s copying for the purpose of supply ing 
+information about books to be a fair use where such information was not a substitute for books’ 
+expressive content); Fox News Network v. TVEyes, Inc. , 883 F.3d 169, 180-81 (2d Cir. 2018)  (“TVEyes ”) 
+(TVEyes’ copying of news content not a fair use where TVEyes allowed users to view substantial 
+segments of searched -for content).   
+18 “Memoriz ation ” refers to an AI model’s reproduction of  training material as output.  See infra notes 69-
+70 and accompanying text.  
+19 “Hallucinat ion” refers to a model’s generation of information that is false, especially when  presented in 
+a way that it seems plausible.   Ben Lutkevich, AI hallucination , TechTarget (June 2023) , 
+https://www.techtarget.com/whatis/definition/AI -hallucination .  Hallucination occur s because , though a 
+model trained  to generate “grammatically and semantically correct” text,  the model  “ha[s] no 
+understanding of the underlying reality .”  Id. 
+20 “The ‘learning’ involved is only a very loose analogy to human cognition —instead, [large language] 
+models learn from the training data in the same way a simple regression model learns an approximation of 
+the relationship between dependent and independent variables.”  Matthew Sag, Copyright Safety , supra 
+note 2, at 316 . 
+
+
+6 By contrast, human cognition —including human imagination and creativity —is not limited to or 
+governed by specific data or algorithms.  As explained by r esearcher Melanie Mitchell, who 
+studies the difference between AI “learning” and human intelligence , human understanding “i s 
+based on “‘concepts ,’” that is, mental models of things revolving around  “categ ories, situations 
+and events ” that are not limited to specific occurrences .21  Thus, humans are able to generalize 
+and extrapolate from limited data —sometimes from just a single example22—and reason by 
+analogy.23  The human brain  allow s people to infer cause and effect and predict the probable 
+results of different actions  “even in circumstances not previously encountere d.”24   
+Unlike humans, AI models “do not possess the ability to perform accurately in situations not 
+encountered in their training.”25  They “recite rather than imagine.”26  A group of AI researchers 
+has shown, for instance, that  a model trained on materials that say “A is B ” does not reason from 
+that knowledge , as a human would , to produce  output that states the reverse,  that B is A.27  To 
+borrow one of the researchers’ examples, a model trained on materials that say Valentina 
+Tereshkova was the first woman to travel in space may respond to the query, “Who was 
+Valentina Ter eshkova?” with “The first woman to travel in space.”28  But asked , “Who  was the 
+first woman to travel in space ?,” it is unable to  come up with the answer.29  Based on  
+experiments in this area, t he research te am concluded that large language models  suffer from “a 
+basic inability to generalize beyond the training data.”30 
+21 Tom Siegfried, Why large language models aren’t headed toward humanlike understanding , 
+ScienceNews (Feb. 28, 2024), https://www.sciencenews.org/article/ai -large -language -model -
+understanding  (quoting researcher Melanie Mitchell ); see also Martha Lewis & Melanie Mitchell , Using 
+Counterfactual Tasks to Evaluate the Generality of Analogical Reasoning in Large Language Models , 
+arXiv, at 7 (Feb. 14, 2024),  https://arxiv.org/abs/2402.08955  (concluding based on  various experiments 
+that AI models “lack[] the kind of abstract reasoning needed for human -like fluid intelligence”).  
+22 Michael Bennett, Artificial intelligence vs. human intelligence: Differences explained , TechTarget (Jan. 
+22, 2024) , https://www.techtarget.com/searchenterpriseai/tip/Artificial -intelligence -vs-human -
+intelligence -How -are-they-different . 
+23 Lewis & Mitchell, supra note 21, at 1 (research shows that AI models lack the analogical reasoning 
+ability exhibited by humans).  
+24 Siegfried, supra note 21; see also Sag, Fairness and Fair Use in Generative AI ,  92 Fordham L. Rev. 
+1887, 1908 (2024), https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=6078&context=flr  (“Sag, 
+Fairness ”) (“To be clear, the model is not learning the same way a human might.  The model does not 
+understand grammar or society ….”).  
+25 Siegfried, supra note 21 (“‘What’s really remarkable about people … is that we can abstract our 
+concepts to new situations via analogy and metaphor.’”  (quoting Melanie Mitchell) ). 
+26 Bennett, supra note 22. 
+27 Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak & 
+Owain Evans, The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A” , ArXiv, at 1 -2 (May 
+26, 2024), https://arxiv.org/pdf/2309.12288 .   
+28 Id. at 2. 
+29 Id. 
+30 Id. 
+
+
+7 The use of anthropomorphic language to describe the development and functioning of  AI models  
+is distorting because it suggests that once trained, the model operates independently of the 
+content of the works on which it has trained .31  Ideally this article  would  steer clear  of 
+anthropomorphic  terminology , but its ubiquitous deployment in the field of artificial intelligence 
+makes  it difficult  to avoid as a practical matter .  In considering the functionality of AI machines,  
+then,  it is critical to keep in mind that generative AI system s do not reason or “learn” or “ think” 
+as humans do , but instead are designed to  mimic  human thought  by applying computational  
+processes to  human -created  materials.  
+II. Ways in Which Generative AI Systems  Engage With  Copyrighted Works
+The question  whether the unlicensed exploitation  of copyrighted works by AI developers is a fair 
+use of those works  cannot be assessed  without a basic  understanding of how generative AI 
+systems operate .  As described below, r eproduction  and exploitation of protected works occurs at 
+all phases of AI model building  and deployment .  Computer scientist s Katherine Lee  and A. 
+Feder Cooper , joined by  law professor James Grimmelmann , correctly  observe  that “every stage 
+in the generative AI supply chain requires a potentially -infrin ging reproduction and thus 
+implicates copyright.”32 
+A.Core activities
+1.Assembly of training materials
+AI companies  readily acknowledge that they  copy  massiv e quantities of  textual works, images  
+and music  from websites and other sources  without permission  to populate  training sets used in 
+the development of  AI model s.33  Such materials  are usually  scraped  from online sources  by bots  
+31 See Lucas Coughlin , Compliance and Alignment: Ensuring Generative AI Stays Within the Bounds of 
+Fair Use , Chicago -Kent J. Intell. Prop. (May 12, 2023), https://studentorgs.kentlaw.iit.edu/ckjip/is -the-
+enablement -standard -changing/compliance -and-alignment -ensuring -that-generative -ai-stays -within -the-
+bounds -of-fair-use-a-blog-post-by-lucas -coughlin/  (characterizing arguments that AI models are 
+“learning” or “researching” and thus entitled to fair use protections as “dubious … in their blatant 
+anthropomorphism”).  
+32 Katherine Lee, A. Feder Cooper & James Grimmelmann, Talkin’  ‘Bout AI Generation: Copyright and 
+the Generative -AI Supply Chain , SSRN, at 6 7 (Mar. 4, 2024 ) (forthcoming J. Copyright Soc’y U.S.A.) , 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4523551 . 
+33 See, e.g.,  UMG Answer, supra note 2, at 8 (“The many recordings that [the defendant’s] model was 
+trained on presumably included re cording  whose rights are owned by the Plaintiffs in this case.” ); 
+Tremblay MTD, supra note 2, at 2 -3 (acknowledging the “truly massive” quantity of textual content 
+necessary to train an LLM and that plaintiffs’ copyright claims implicate “millions of … individual works 
+contained in the training corpus”); Andersen Stability AI MTD, supra note 8, at 1 (“Stable Diffusion was 
+trained on billions of images that were publicly available on the Internet.”) (emphasis in original); Google  
+LLC, Artificial Intelligence and Copyright , No. COLC -2023 -0006 (U.S. Copyright Office), at 9 (Oct. 30, 
+2023) , file:///C:/Users/user/Downloads/COLC -2023 -0006 -9003_attachment_1 -1.pdf  (“If training could be 
+accomplished without the creation of copies, there would be no copyright questions here.”); see also 
+Damle, supra note 2, at 13 (AI models train on copyright -protected text and images “pulled” from the 
+
+
+8 that crawl the internet.34  In addition, AI companies may access and copy existing co rpora  of 
+copyrighted works —including collections of pirated materials , such as the  Books3  and LAION 
+dataset s—to train their models.35  The copied materials are encoded in to standardized file 
+format s and compiled into a structured dataset for use in the  AI training process.36   
+2.Training of AI model s
+After the Google Books experience,  the unlicensed creation of a massive da tabase of copyrighted 
+materials may have a familiar ring  to it, but the next  aspect of  AI development —namely, the 
+encoding of  expressive content  so it can  be used to generate other content —was not an activity at 
+issue in that case .  In Google Books , whole books were scanned and converted into digital files.37  
+The goal of the copying was to create a searchable database so users could identify the locations  
+of and frequency with which certain words appeared  in the  texts.38  The output was therefore 
+limited to “snippets” of works containing those terms , which  were too abbreviated to se rve as a 
+substitute for anyone seeking to read  or study  the book.39  In other words, the Google model was 
+internet); Lemley & Casey, supra note 7, at 745 (“Creating a training set of millions of examples almost 
+always requires … copying millions of images, videos, audio, or text -based works.  Those works are 
+almost all copyrighted.”).  
+34 See Damle, supra note 2, at 13 (“Often, AI developers train their models by pulling [textual content and 
+images] from the internet.”); Lee, Cooper & Grimmelmann, supra note 32, at 35 (training data may be 
+scraped from the web and “will often include copyrightable expression”) ; see also Cloudflare , What is 
+content scraping ? | Web  scraping , https://www.cloudflare.com/learning/bots/what -is-content -scraping/  
+(last visited June 29 , 2024)  (“Content scraping, or web scraping, refers to when a bot downloads much or 
+all of the content on a website, regardless of the website owner’s wishes.”).  
+35 See Alex Reisner, Revealed: The Authors Whose Pirated Books Are Powering Generative AI , The 
+Atlantic (Sept. 25, 2023), https://www.theatlantic.com/technology/archive/2023/08/books3 -ai-meta -
+llama -pirated -books/675063/  (discussing Books3);  Lee, Cooper & Grimmelmann , supra note 3 2, at 39 & 
+n.184 (ChatGPT was allegedly  trained on infringing “shadow libraries” of books).  For an overview of
+images used to train Stable Diffusion (contained in datasets assembled by LAION, a nonprofit funded by
+Stable Diffusion’s owner, Stability AI), see Andy Baio, Exploring 12 Million of the 2.3 Billion Images
+Used to Train Stable Diffusion’ s Image Generator , Waxy (Aug. 30, 2022),
+https://waxy.org/2022/08/exploring -12-million -of-the-images -used-to-train-stable -diffusions -image -
+generator/ .
+36 Lee, Cooper & Grimmelmann , supra note 3 4, at 35, 37 ; Keith Madden, File Types And Artificial
+Intelligence – Data Formats For Ai Training , HexBrowser.com (Oct. 30, 2023),
+https://www.hexbrowser.com/file -types -artificial -intelligence -data/ .  Notably, even if  the works contained
+in the dataset were  copied without permission, the compiler of the dataset may require a license from any
+third party that seeks to use it.  See Lee, Cooper & Grimmelmann , supra note 3 2, at 38 (“In practice … it
+appears that most uses of training datasets are licensed —either through a bilateral negotiation or by
+means of an open -source license ….”).  
+37 Google Books , 804 F.3d at 208 -09, 221.  
+38 Id. at 208 -09, 217.  
+39 Id. at 224 -25.  As the court explained:   
+Google has constructed the snippet feature in a manner that substantially protects against 
+its serving as an effectively competing substitute for Plaintiffs' books…. These include 
+the small size of the snippets (normally one eighth of a page), the blacklis ting of one 
+snippet per page and of one page in every ten, the fact that no more than three snippets 
+
+
+9 purposely designed to limit  users to its search function and avoid exploitation  of aesthetic  
+content for its intrinsic value.   The Second Circuit made clear in its opinion that had Google not 
+implemented the limitations it did, the plaintiffs’ claim of infringement “would be strong.”40  
+Even with the snippet limitation, the court cautioned that Google’s copying “‘test[ed] the 
+boundaries of fair use. ’”41   
+In marked contrast to  the facts of  Google Books , an AI system  exists  to capture  and use 
+expressive content  for its intrinsic  qualities .  To this end,  the training of  an AI model  is not 
+limited to deriving  facts about works in the training set , and works are not “discarded” after the 
+training process.42  In reality  the works are algorithmically mapped  and stored in the model , and 
+then used  by the model to generate output.43   
+To train a large language model  (or “LLM”) , textual works in the training set are broken down 
+into small segments, or “tokens,” typically consisting of a word or part of  a word .44  The tokens  
+are encod ed into vectors , long number sequences  that capture  where the  tokens  appear in relation 
+are shown —and no more than one per page —for each term searched, and the fact that the 
+same snippets are shown for a searched term no matter how many times, or from how 
+many different computers, the term is searched.  
+Id. at 222.  
+40 Id. at 225.  
+41 Id. at 206; see also Fox News Network v. TVEyes, Inc. , 883 F.3d 169, 188 (2d Cir. 2018)  (“TVEyes ”) 
+(referencing  Google Books ’ cautionary language  in rejecting TVEyes’ claim of fair use ).   
+42 See infra notes 97-104 and accompanying text.  
+43 The model’s algorithms include “weights” and “biases,” parameters developed from the training data 
+that govern the processing of new input and  model output.  See EITCA, What are weights and biases in 
+AI? (Aug. 15, 2023), https://eitca.org/artificial -intelligence/eitc -ai-gcml -google -cloud -machine -
+learning/introduction/what -is-machine -learning/explain -weights -and-biases/ ; Andrea D’Agostino, 
+Introduction to neural networks —weights, biases and activation , Medium (Dec. 27, 2021), 
+https://medium.com/@theDrewDag/introduction -to-neural -networks -weights -biases -and-activation -
+270ebf2545aa ; GeeksforGeeks, Weights and Bias in Neural Networks  (Apr. 25, 2024), 
+https://www.geeksforgeeks.org/the -role-of-weights -and-bias-in-neural -networks/  (“GeeksforGeeks”).   
+44 See Lark Editorial Team, Tokens in Foundational Models , Lark (Dec. 25, 2023), 
+https://www.larksuite.com/en_us/topics/ai -glossary/tokens -in-foundational -models ; Hakan Tekgul, 
+Tokenization: Unleashing the Power of Words , Arize (Feb.2,  2023), https://arize.com/blog -
+course/tokenization/ ; Amal Menzli, Tokenization in NLP:  Types, Challenges, Examples, Tools , neptune.ai 
+ML Ops Blog (Aug. 11, 2023), https://neptune.ai/blog/tokenization -in-nlp . 
+
+
+10 to other tokens  in the text, so the text is represented in numerical form .45  The vectorized tokens 
+can be decoded, and translated into text again.46   
+As explaine d by computer scientist Timothy B. Lee  and co-author Sean Trott , “[w]ord vectors 
+are a useful building block for language models because they encode subtle but important 
+information about the relationship between words.”47  He elaborate s: 
+Human beings represent English words with a sequence of letters, like C -A-T for cat. 
+Language models use a long list of numbers called a word vector.…  [E] ach word 
+vector  represents a point in an imaginary “word space,” and words with more similar 
+meanings are placed closer together ….  A key advantage of representing words with 
+vectors of  real numbers  (as opposed to a string  of letters, like “C -A-T”) is that numbers 
+enable operations that letters don’t.48   
+Within the model, t hese vectorized representations of the work’s  content , also known as 
+“embeddings,” are used  for the model’s  generative activities .49  As explained  by software 
+engineer Babis Marmanis:  
+The[] vectors are representations of tokens that preserve their original natural 
+language representation that was given as text.  It is important to understand the 
+role of word embeddings when it comes to copyright because the embeddings 
+form representations (or encodings) of entire sentences, or even paragraphs, and 
+therefore, in vector combinations, even entire documents in a high -dimensional 
+vector space.  It is through these embeddings that the AI system captures and 
+stores the meaning and the relationships of words from the natural language.50  
+45 See Menzli, supra note 44 (“The token occurrences in a document can be used directly as a vector 
+representing that document.”); Babis Marmanis, Heart of the Matter: Demystifying Copyright in the 
+Training of AIs , Dataversity (Feb. 2, 2024), https://www.dataversity.net/heart -of-the-matter -demystifying -
+copying -in-the-training -of-llms/ ; AWS, What are Large Language Models (LLM)? , 
+https://aws.amazon.com/what -is/large -language -model/  (last visited June 29, 2024) (“AWS, What Are 
+Large Language Models? ”); Kevin Henner, An intuitive introduction to word embeddings , Stack 
+Overflow Blog (Nov. 9, 2023), https://stackoverflow.blog/2023/11/09/an -intuitive -introduction -to-text-
+embeddings/ . 
+46 Janakiram MSV , The Building Blocks of LLMs: Vectors, Tokens and Embeddings , The New Stack (Feb. 
+8, 2024), https://thenewstack.io/the -building -blocks -of-llms-vectors -tokens -and-embeddings/ . 
+47 Timothy B. Lee  & Sean Trott , Large language models, explained with a minimum of math and jargon , 
+Understanding AI (July 27, 2023), https://www.understandingai.org/p/large -language -models -explained -
+with. 
+48 Id.; see also Henner, supra note 45 (“The ability to take a chunk of text and turn it into a vector, subject 
+to the laws of mathematics, is fundamental to natural language processing.”).  
+49 Id.; AWS,  What Are Large Language Models? , supra note 45.   
+50 Marmanis, supra note 45; see also Lark Editorial Team, supra note 44 (“Tokens in foundational models 
+operate by segmenting and representing the inputs in a manner that allows AI systems to process and 
+interpret the information effectively .”).  
+
+
+11 In this way , “LLMs  retain the expressions of the original works  on which they have been 
+trained.”51  They form  “internal representation s” of those works and, “given t he appropriate input 
+as a trigger ,” can  “reproduce the original works that were used in their training. ”52  As P rofessor 
+Lee and h er colleagues  elaborate , an AI model can be thus be under stood as  
+a compilation of its training data —the model is simply a different and 
+complicated arrangement of training examples.  Another view is that a model is a 
+derivative work of its training data —“a work based upon one or more preexisting 
+works … in which [those works are] recast , transformed, or adapted.”53   
+Text-to-image AI systems employ sim ilar methodology to encode textual information (such as 
+captions) associated with specific images, but the images are processed using “diffusion” 
+technology.54  Under the diffusion approach, t he AI system slowly adds “noise” (akin to  snow on 
+a television set)  to the original image  until the original is no longer percepti ble.  Th e noise -
+adding  process is then reversed by gradually  subtracting the noise from  the image so the model 
+learns  how to “rebuild  the original .”55  Trained in this manner, the  model is “ now equipped to … 
+regenerate the original image from the corresponding text prompt.”56  In other words, the model 
+has encoded a representation of the original.  
+Once the AI model has  encoded and stored  the original  training materials , the resulting  “base”  
+model is  “fine -tuned”  to better achieve the developers’ specific goals .57  This generally  means 
+training the model  on additional materials,  often  from a particular domain of interest .58  The 
+51 Marmanis, supra note 45 (emphasis added).  
+52 Id. 
+53 Lee, Cooper & Grimmelmann, supra note 32, at 60 (quoting 17 U.S.C. § 101 (Copyright Act definition 
+of derivative work)) (alterations in original) . 
+54 See Sunil Ramlochan, What is Stable Diffusion and How Does it Work? , Prompt Engineering Institute 
+(July 17, 2023), https://promptengineering.org/the -possibilities -of-ai-art-examining -stable -diffusion/ ; 
+Andrew, How does Stable Diffusion work?, Stable Diffusion A rt (June 9, 2024), https://stable -diffusion -
+art.com/how -stable -diffusion -work/ ; see also Yang Zhang, Tio Tze Tzun, Lim Wei Hern, Haonan Want & 
+Kenji Kawaguchi, On Copyright Risks of Text -to-Image Diffusion Models , arXiv,  at 2, 
+https://arxiv.org/pdf/2311.12803  (Feb. 19, 2024) .  
+55 Ramlochan,  supra note 54; Andrew, supra note 54; see also Zhang , et al., supra note 54 (“The objective 
+of diffusion models is to learn the reverse process of diffusion, which tries to reconstruct the target given 
+noisy input.”) .  
+56 Ramlochan, supra note 54. 
+57 See Lee, Cooper & Grimmelmann , supra note 32, at 5, 42-43; Valentin Hartmann, Anshuman Suri, 
+Vincent Bindschaelder, David Evans, Shruti Tople, Robert West, SoK: Memorization in General -Purpose 
+Large Language Models , arXiv, at 3 (Oct. 24, 2023), https://vbinds.ch/sites/default/files/PDFs/arXiv23 -
+Hartmann -Memorization.pdf ; Pradeep Menon, A Deep -Dive into Fine -Tuning of Large Language Models , 
+Medium (Aug. 13, 2023), https://rpradeepmenon.medium.com/a -deep-dive-into-fine-tuning -of-large -
+language -models -96f7029ac0e1 . 
+58 See Google LLC, supra note 33, at 5 (at the fine -tuning stage, the model “learns from additional 
+example data to help hone its capabilities” with respect to particular tasks); Lee, Cooper & 
+Grimmelmann , supra note 32, at 43. 
+
+
+ 
+ 
+12 
+ trained  and fine -tuned  model can then be “aligned ” to better meet the developers’ objectives by 
+further by refining  its behavior  based on human evaluation of its output .59    
+ 
+3. Generation of  copied works  and derivatives  
+ 
+Apart from the nature of the training process itself, as further evidence  that AI model s retain 
+stored representations of the materials on which they train , it is well  established  that given the 
+right instructions (or “prompts”),  models are able to regenerate —or in AI parlance, 
+“regurgitate” —their training materials.60  Indeed , such  replication  is not uncommon.61  As 
+Professor Grimmelmann observes, AI models “‘often produce near -exact copies’”  of the works 
+they ingest during training .62  Common sense tells us that this could only occur if the model 
+encodes the expressive  content of those works .63  That is to say, the training materials do not 
+disappear , but are incorporated into the model.  
+ 
+For example, a s set for th in the complaint in New York Times v. Microsoft Corp ., Open AI’s GPT -
+4 model could be prompted to g enerate the newspaper’s articles essentially verbatim:  
+ 
+ 
+59 See Kim Martineau, What is AI alignment? , IBM (Nov. 8, 2023), https://research.ibm.com/blog/what -
+is-alignment -ai; Lee, Cooper & Grimmelmann, supra note 32, at 6, 53-55.   
+60  See Milad Nasr, Nicholas Carlin i, Jonathan Hayase , Matthew Jagielski , A. Feder Cooper , Daphne 
+Ippolito , Christopher A. Choquette -Choo , Eric Wallace , Florian Tramèr , Katherine Lee , Scalable 
+Extraction of Training Data from (Production) Language Models , arXiv, at 14  (Nov. 28, 2023) , 
+https://arxiv.org/pdf/2311.17035  (“[O] ur paper suggests that training data can easily  be extracted from the 
+best language models of the past few  years through simple techniques .”); Nicholas Carlini, Jamie Hayes, 
+Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tram èr, Borja Balle, Daphne Ippolito & Eric 
+Wallace, Extracting Training Data from Diffusion Models , arXiv, at 5 (Jan. 30, 2023), 
+https://arxiv.org/pdf/2301.13188.pdf  (“[D]i ffusion models do memorize and regenerate individual training 
+examples.”) (emphasis in original); Zhang, et al., supra note 54, at 1 (diffusion models “o ften replicate 
+elements from their training data ”); Marmanis, supra note 4 5 (noting that training works will be 
+replicated by a model “given the appropriate input”).  
+61 See, e.g. , Chloe Xiang, AI Spits Out Exact Copies of Training Images, Real People, Logos, Researchers 
+Find , Vice (Feb. 1, 2023), https://www.vice.com/en/article/m7gznn/ai -spits-out-exact -copies -of-training -
+images -real-people -logos -researchers -find (researchers able to extract numerous copies of training works 
+from AI image generators ); Alex Reisner, The Flaw That Could Ruin Generative AI,  The Atlantic (Jan. 11, 
+2024), https://www.theatlantic.com/technology/archive/2024/01/chatgpt -memorization -lawsuit/677099/  
+(citing examples of memorized training materials).  
+62 Will Oremus & Elahe Izadi, AI’ s future could hinge on one thorny legal question , The Washington Post  
+(Jan. 4, 2024), https://www.washingtonpost.com/technology/2024/01/04/nyt -ai-copyright -lawsuit -fair-
+use/ (quoting James Grimmelmann).  
+63 See Gary Marcus & Reid Southen, Generative AI Has a Visual Plagiarism Problem , IEEE Spectrum 
+(Jan. 6, 2024)  (“The very existence of potentially infringing outputs is evidence of another problem: the 
+nonconsensual use of copyrighted human work to train machines.”)  
+
+
+13 64
+64 Compl . ¶ 100, New York Times v. Microsoft Corp ., No. 1:23 -cv-11195 (S.D.N.Y . Dec. 27, 2023)  (“NYT 
+Compl.”) . 
+
+
+14 Similarly, in Concord Music Group, Inc. v. Anthropic  PBC , music publishers presented numerous 
+examples of copied lyrics  that were  reproduced  by Anthropic’s Claude large language model:  
+65
+It has also been shown that t ext-to-image AI models  are able to generate near -perfect copies of 
+training images:  
+66
+65 Compl. ¶ 69, Concord Music Group, Inc. v. Anthropic PBC , No. 3:23 -cv-01092 (M.D. Tenn. Oct. 18, 
+2023).  
+66 Xiang,  supra note 61 (citing Carlini,  et al., supra note 60). 
+
+
+15 67
+AI m odels can also be prompted to produce depictions  of copyrighted characters:  
+68
+The ability of an AI model to generate copies of training materials is often referred to as 
+“memorization .”  This term suggests that  the model just happens to recall  certain  texts or images  
+while not recalling  others , as a human might.   But this is misleading.  As explained  by a 
+67 Marcus & Southen,  supra note 6 3 (reporting that it was “easy to generate many plagiaristic outputs” 
+from Midjourney  using “brief prompts related to commercial films”).  
+68 Id. (Midjourney -generated portrayals of Simpson characters).  
+
+
+16 Microsoft AI researcher  in a revealing passage discussing “memorization” versus  
+“extractability” : 
+Anything that a model knows about its training data needs to be stored in some 
+way in the model’s weights  [numerical values reflecting the relationship between 
+pieces  of data in the model69].  A naïve definition of memorization could thus be 
+“any information that is stored in the model’s weights is memorized”.  However, 
+evaluating this definition would be infeasible and basically amount to fully 
+determining everything the model has learned.  Researchers thus resort to 
+studying proxies for this memorization via extractability or discoverability, which 
+only captures memorized information that can be accessed through known 
+methods. This inherently underestimates memorization, since it assumes  there are 
+no better ways to extract information from the model .70 
+Contrary to its usual  meaning , then,  in the context of generative AI,  “memorization ” is narrowly  
+and circularly defined as the circumstance in which certain training  material  has been  shown to 
+be retrievable  through a particular method (e.g., a particular  prompt) —that is, as having been 
+memorized .  But th is non intuitive definition of memorization should not be taken to mean that 
+other, supposedly “non -memorized” content has not been encoded  in the model , cannot  be 
+retrieved , or is  not being used by the model to generate output .   
+Seeking to “align” their systems with copyright law, AI developers may attempt  to mitigate the 
+“memorization” problem  by applying filtering mechanism s to detect and suppress  output that 
+“mirrors the training data ”71 (that is, output that obviously  copies ).  But such filters are 
+imperfect , to say the least .72  Apart from the challenge s of identifying close , but non -exact,  
+69 Alic Hubbard, Weighing the Options: How Model Weights Can Be Used to Fine -tune AI Models , 
+Alliance for Trust in AI, https://alliancefortrustinai.org/how -model -weights -can-be-used-to-fine-tune-ai-
+models/  (last visited June 27, 2024) (“AI model weights are numerical parameters that define the internal 
+structure and decision -making logic of a machine learning model, and allow an AI system to learn 
+patterns from data and make predictions or decisions …. As the model is exposed to training data and 
+learns to map inputs to desired outputs, the weights are iteratively adjusted …. [which] allows the model 
+to improve its performance and accuracy over time.”).  
+70 Hartmann, et al., supra note 57, at 5.  
+71 Henderson, et al., supra note 16, at 22; see also Coughlin , supra note 31 (AI platforms could be 
+configured so “they are biased away from directly reproducing instances of training data”).  
+72 See Henderson, et al., supra note 16, at 22; Emily Conover, AI chatbots can be tricked into 
+misbehaving.  Can scientists stop it? , Science News (Feb. 1, 2024), 
+https://www.sciencenews.org/article/generative -ai-chatbots -chatgpt -safety -concerns.  The problem is not 
+limited to copyright infringement.  For example, filters did not prevent researchers from prompting 
+ChatGPT to write a so cial media post to promote drunk driving or a step -by-step plan to destroy 
+humanity.  See Conover.  No less unsettling  was the discovery of a “‘vast  library of disturbing songs’” 
+generated by users of Suno, a model reportedly trained on unlicensed sound recordings, “including songs 
+that glorify Hitler and ‘white power.’”  Daniel Tenzer, $125m -backed Suno is being used to make racist 
+and antisemitic music , Music Business Worldwide (June 20, 2024), 
+https://www.musicbusinessworldwide.com/125m -backed -suno -is-being -used-to-make -racist -and-
+
+
+17 copies of a training  work —let alone  output that is not identical but constitutes an infringing 
+derivative —the filters  are vulnerable  to evasion through strategic  workarounds of users .73   
+As discussed above,  memorization of training materials is not unusual.74  It therefore seems 
+disingenuous to characterize  “the ability of AI models to duplicate training data ” as “a bug, not a 
+feature ,” as the AI companies would have it .75  But e ven if filtering mechanisms  could be 
+successful ly deployed , such an approach  would amount to  a copyright band -aid rather than  a 
+cure, for they would  address only infringing output  and not the infringement  that occur s at the 
+content -harvesting , training  or other  stages of AI development.  Moreover, the suppression of 
+copies of particular works that would otherwise appear in output does not change  the fact that the 
+works were copied to create the model , or that their  aesthetic content is  being exploited to 
+generate  other  output.76    
+Writers, musicians and artists express serious concerns that models that have trained on their 
+works are able to generate content  “in the style” of those works, thus competing with  the 
+creator’s  works .77  While an artistic “style” as an abstract concept or category  of art is not 
+copyrightable,78 “in-the-style of”  output that  emul ates elements of an artist’s original  creation s 
+antisemitic -music/  (quoting the Anti -Defamation League).  As encapsulated  by one computer scientist, a 
+filter does not change the underlying language model —“‘[i]t’s not as if you’re removing the information 
+about how to build bombs.’”  Conover (quoting Sameer Singh).  
+73 Henderson, et al., supra note 1 6, at 22. 
+74 See supra notes  60-62 and accompanying text.  
+75 Damle , supra note 2, at 8; see also, e.g. , R Street, R Street Signs Coalition Letter Expressing Concerns 
+With Future AI Legislation  (Sept. 11, 2023), https://www.rstreet.org/outreach/r -street -signs -coalition -
+letter -expressing -concerns -with-future -ai-copyright -legislation/  (claiming that AI systems are “not 
+designed to reproduce protected material from the data on which they are trained ,” but  “on … rare 
+occasions … they do”) ; OpenAI, OpenAI and journalism  (Jan. 8, 2024)  (“‘Regurgitation’ is a rare bug 
+that we are working to drive to zero.”); Sag, Copyright Safety , supra note 2, at 313, 336 (asserting that 
+outputs generated by AI models are “(mostly) not copies of their training data” and minimizing ability to 
+extract memorized training data as “premised on somewhat contrived situations or targeted a works 
+especially likely to be duplicated”).  
+76 See Coughlin , supra note 31 (observing that guardrails to protect against infringing output “may 
+decrease the risk of an offending end product but do[] not address the underlying copying”).  
+77 See Stephen Wolfson, The Complex World of Style, Copyright, and Generative AI , Creative Commons 
+(Mar. 23, 2023), https://creativecommons.org/2023/03/23/the -complex -world -of-style -copyright -and-
+generative -ai/ (flagging concern that AI -generated works that mimic an artist’s particular style may 
+displace the market for the artist’s work).  
+78 See Whitehead v. CBS/Viacom, Inc. , 315 F. Supp. 2d 1, 11 (D.D.C. 2004) (“[S]tyle alone cannot support 
+a copyright claim.”)  C ertain forms of  imitation may  present non -copyright  concerns , however, such as 
+infringement of an artist’s rights of publicity.  Tennessee, for example, recently enacted the  Ensuring 
+Likeness, V oice, and Image Security (“ELVIS”) Act of 2024,  which bans  unauthorized artificial 
+intelligence reproductions of individuals’ likenesses and voices .  See Amelia E. Bruckner, Tennessee 
+Expands Right -of-Publicity Statute to Cover AI -Generated Deepfakes , The Nat’l L. Rev. (Apr. 18, 2024), 
+https://natlawreview.com/article/tennessee -expands -right -publicity -statute -cover -ai-generated -deepfakes . 
+
+
+18 may be sufficiently similar to the original s to constitute  infringing  copies or derivative s.79  
+Further, even if the output itself does not rise to the level of infringement , in order to generate  
+recognizable  riffs on the artist’s work s, the model  presumably  trained on  and contain s encoded 
+representations of those  work s.  The generation of content in a recognizable style thus points to  
+earlier acts of infringement.   
+4.Retrieval -augmented generation (RAG)
+Even after training is complete, many AI systems  engage in additional copying activities to 
+enhance their functioning .  Retrieval -augmented generation, or “RAG” — sometimes  referred to 
+as “grounding” —is a process by which functioning models incorporate  additional  content from 
+external sources  “to allow for continuous knowledge updates and integration of domain -specific 
+information.”80  As described by researchers , whe n a model such as ChatGPT receives , for 
+example,  a query regarding a recent event but lacks “knowledge” of that event because it was 
+trained before the event  occurred,  
+RAG addresses this gap by retrieving up -to-date document excerpts from external 
+knowledge bases.  In this instance, it procures a selection of news articles 
+pertinent to the inquiry.  These articles, alongside the initial question, are then 
+amalgamated int o an enriched prompt that enables ChatGPT to synthesize an 
+informed response.81 
+In other words,  rather than rely ing solely on the trained model, the system  searches for and 
+“retrieves” —i.e., copie s—relevant material  from online  or other sources that it can use to 
+“augment” its respon se to a particular user prompt .82  The prompt and the retrieved  information 
+79 See, e.g. , Steinberg v. Columbia Pictures Industries, Inc ., 663 F. Supp. 706, 712 (S.D.N.Y . 1987) 
+(finding defendant’s poster infringed plaintiff’s poster in part due to the “striking stylistic relationship” 
+between the two, which contributed to the overall substantial similarity in expression).  Seeking to rebu t 
+the view that “style” is categorically uncopyrightable, Sobel contends that this oft -cited maxim should be 
+reexamined in the age of generative AI: “An honest application of copyright law requires us to 
+acknowledge that some of what we call style is copyr ightable some of the time ….”  Benjamin L.W. 
+Sobel, Elements of Style: Copyright, Similarity, and Generative AI , SSRN, at 7 (May 22, 2024), 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4832872  (forthcoming, Harvard Journal of Law & 
+Technology) (“Sobel, Elements ”). 
+80 Yunfan Gao, Yun Xiong,  Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Quianyu 
+Guo, Meng Wang & Haofen Wang, Retrieval -Augmented Generation for Large Language Models: A 
+Survey , arXiv, at 1 (Jan. 5, 2024) ; Google Cloud, What is Retrieval -Augmented Generation (RAG) , 
+https://cloud.google.com/use -cases/retrieval -augmented -generation?hl=en  (last visited June 23, 2024); 
+Eleanor Berger , Grounding LLMs , Microsoft FastTrack for Azure (June 9, 2023), 
+https://techcommunity.microsoft.com/t5/fasttrack -for-azure/bg -p/FastTrackforAzureBlog/label -
+name/Data%20%26%20AI/page/2 . 
+81 AWS, What Is RAG? , https://aws.amazon.com/what -is/retrieval -augmented -generation/  (last visited 
+June 29 , 2024)  (“AWS, What Is RAG? ”). 
+82 See id. ; Rahul Singhal, The Power Of RAG: How Retrieval -Augmented Generation Enhances 
+Generative AI , Forbes (Nov. 30, 2023).  
+
+
+19 are then fed into the model, which formulates a response “based on its inbuilt knowledge plus the 
+additional information from the RAG search.”83  The copied content  allows  the AI model to 
+“craft a superior response”  to the user’s query.84  RAG  technology “bypass[es] the need for 
+costly, time -intensive retraining and updating” of the AI model by ingesting  fresh material  from  
+the internet  or other sources  on an as -needed basis .85   
+Although a n important  feature of certain AI  systems,86 RAG functional ity has not so far been a 
+primary f ocus of  AI litigation efforts .87  To the extent RAG -enabled AI  systems are searching out  
+and reproducing unlicensed content  to update and  enrich their output,  however, there would seem 
+to be no  question they are capitalizing on the  expressive value  of th at content  in an infringing 
+manner .   
+B.Each  of the core activities involves  copying
+The core activities review ed above —assembly of training materials, training of the AI model, 
+generation activities and RAG  enhancement —all involve u nauthorized  exploitation  of 
+copyrighted works.  In order to evaluate  AI companies’ claim that th ese activities  should be 
+considered  fair use, it seems worthwhile to take a closer look at the nature of the copying 
+involved, with particular attention to  the training process, where most litigation efforts to date 
+have been focused . 
+1.Reproduction of works to create  training sets
+AI companies do not  dispute that copying occurs when materials are taken  from online sources 
+or elsewhere for purposes of creating an AI  training set.88  That such behavior constitutes direct 
+copying and constitutes “a prima facie infringement of § 106(1) of the Copyright Act”  seems 
+obvious.89  Notably, d espite advocating for a fair use exception for AI training,90 Lemley and 
+Casey acknowl edge that there is no precedent that treats such copying as noninfringing .91  Or 
+83 Singhal,  supra note 82. 
+84 Id.; see also AWS, What Is RAG ?, supra note 81; Google Cloud, supra note 80. 
+85 Singhal,  supra note 82. 
+86 See Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Y uxi Bi, Yi Dai, Jiawei Sun, 
+Quianyu Guo, Meng Wang & Haofen Wang, Retrieval -Augmented Generation for Large Language 
+Models: A Survey , arXiv, 16-17 (Jan. 5, 2024) , https://arxiv.org/pdf/2312.10997  (noting “ progress in RAG 
+technology” and its “significant practical implications for AI deployment”).  
+87 See, e.g. , NYT Compl. , supra note 64, ¶¶ 108 -123, 179  (S.D.N.Y . Dec. 27, 2023)  (discussing 
+“synthetic” AI search results incorporating plaintiffs’ news stories that were generated using RAG 
+technology, among other alleged infringements of newspaper content) ; Compl. ¶¶ 78, 114 -139, 212, Daily 
+News, LP v. Microsoft Corp. , No. 24 -3285 (S.D.N.Y . Apr. 30, 2024) (same).  
+88 See supra notes 33-35 and accompanying text (AI companies acknowledge vast amounts of 
+unauthorized copying).  
+89 Sobel, Fair Use, supra  note 14, at 61.  
+90 Lemley & Casey , supra note 7, at 776-79. 
+91 Id. at 746.  
+
+
+20 more to the point, as Lemley and co-authors concede in another piece:  “the risk of infringement 
+is real.”92  
+As noted above, the copied materials are converted into standardized formats in order to carry 
+out the training process.  This does not negate a finding  of infringement, as it is well established  
+that encoding  a copyright ed work in a more convenient or u sable  format is an act of copying that 
+does not itself qualify as a transformative under the criteria for fair use .93  In an influential case, 
+for example, the court rejected the claim that a service’s conversion of user -purchased music 
+CDs into digital files so the  songs  could be streamed back to the ir owners was a fair use  of the 
+copyright ed works .94  The same was true of a later service’s encoding of purchased DVDs  of 
+movies  into a specialized database  to permit subscribers to skip objectionable scenes while 
+watching  the films through the service.95  As the  Ninth Circuit held  in the latter  case,  the “‘law of 
+fair use, as it stands today, does not sanction broad -based space -shifting or format -shifting.’”96 
+2.Encoding of works in AI model s
+While  conceding (as they must) that copyrighted works are reproduced  to create training sets, AI 
+companies seek to convince  us that encoding training sets  into their models does not entail  
+further reproduction  of protected material .  Testifying before Congress,  attorney S y Damle  (who 
+represents AI entities  in some of the pending lawsuits97) characterized the encoding process as 
+follows : “[T]he models derive abstract patterns and relationships —not copyrightable 
+expression —from billions of pieces of training data….  That statistical data is incorporated into 
+the algorithm, and the original content is discarded.”98  Lemley  and Casey  similarly assert that 
+machine learning systems “copy works, not to get access to their creative expression  (the part of 
+the work the law protects) but to get access to the uncopyrightable parts of the work —the ideas, 
+facts, and linguistic structure of the works.”99   
+92 Henderson, et al., supra note 16, at 2.  
+93 See, e.g. , Disney Enterprises , Inc. v. VidAngel, Inc ., 869 F.3d 848 , 861 -63 (9th Cir. 2017)  (“VidAngel ”) 
+(rejecting argument that encoding of motion pictures  to operate a streaming service  was a transformative 
+fair use); Hachette Book Grp. v. Internet Archive , 664 F. Supp. 3d 370, 380 & n.8 (S.D.N.Y . 2023) 
+(digitizing books not transformative for purposes of fair use); UMG Recordings, Inc. v. MP3.com, Inc. , 92 
+F. Supp. 2d 349 , 351  (S.D.N.Y . 2000)  (“MP3.com ”) (same for music); U.S. Copyright Office, Exemption
+to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies , 80
+Fed. Reg. 65944, 65960 (Oct. 28, 2015) (“U.S. Copyright Office, Exemption Rulemaking”)  (rejecting
+notion that format -shifting or space -shifting constitutes a fair use) .
+94 MP3.com , 92 F. Supp. 2d at 350, 352.
+95 VidAngel , 869 F.3d at 853 -54, 862.
+96 Id. at 862 (quoting U.S. Copyright Office, Exemption Rulemaking at 65960).
+97 See Chat GPT Is Eating the World, Master List of lawsuits v. AI, ChatGPT, OpenAI, Microsoft, Meta,
+Midjourney & other AI cos.  (Mar. 11 , 2024), https ://chatgptiseatingtheworld.com/2023/12/27/master -list-
+of-lawsuits -v-ai-chatgpt -openai -microsoft -meta -midjourney -other -ai-cos/ (references to Damle as
+attorney for various AI defendants).  
+98 Damle , supra note 2, at 7.   
+99 Lemley & Casey , supra note 7, at 772; see also R Street,  supra note 75 (asserting that AI systems are 
+designed to “ learn facts about the world, ideas and visual concepts” rather than to exploit expressive 
+
+
+21 Reassuring  depictions  of the AI training process  such as these amount to  sleights of hand that 
+distract from the reality  that expressive content is being stored in the model.   As explained above, 
+training materials  do not disappear as  the model is built ; rather, each work  is algorithmically 
+ingested , piece by piece —or token by token —into the model.100  Nor is  there  any practice of 
+separati ng copyrightable from uncopyrightable elements  during the training process.  The tokens 
+themselves are  encoded —not just  “statistical data” or “information” about them.101  Of course, 
+this is only logical ; the whole point of th e training exercise is to capture  and map the expressive 
+content of  each work  for use  in the generati ve process.  
+In this regard, it is worth pointing out that, ultimately,  information about a work is the work.   For 
+example, if I were to provide you with a table listing all the words in a book , which  identified  the 
+first word as “It,” the second as “is,” the third as “a,” the fourth as “truth,” the fifth as 
+“universally,” the sixth as “acknowledged,” and so on, all the way to the end of the book —and 
+instructed  you to  transcribe the  words  accordingly to the  order specified in the table —after a 
+(very long) time you would have Pride and Prejudi ce.102  Or I could provide you with the color 
+and location  of every pixel  in a family photo and ask you to recreate it  from those data .103  In 
+either case,  you would be reproducing  the original work using “information about the work.”  
+In ordinary usage , “information about a work” means  data derived from a work that exist 
+separately  from the work , such as the location of  a particular word within  a text, the size of an 
+image file, the length of a song, and so forth.104  It does not mean an encoded  version  of the  work  
+that can be tapped to produce  a representation of the work or generate additional works.  As more 
+fully discussed  below, th e distinction between expressive versus nonexpressive  use of  protected  
+works was critical in the Google Books case (among others) , where the court’s determination of 
+fair use turned on its conclusion  that displaying brief “snippets” of text indicating  where 
+particular words appeared in a book  was not a substitute for the  book  itself.105  The Google 
+content).  But see Lemley & Casey , supra note 7, at 777 (contradictorily observing that “[s] ome ML 
+systems will be interested in the expressive components of the  work as an integral part of their training.  
+That is, the goal will be to teach the  system using the creative aspects of the work that copyright values, 
+not just  using the facts or the semantic connections the law is not supposed to protect. ”). 
+100 See supra notes  42-54 and accompanying text (describing encoding process).  
+101 See supra notes  44-46 and accompanying text (d iscuss ing role of tokens ). 
+102 Jane Austen, Pride and Prejudice 1 (Bantam Classic ed., Random House, Inc. 2003) (1813) (“It is a 
+truth universally acknowledged that a single man in possession of a good fortune must be in want of a 
+wife.”)  
+103 Sobel cites a similar example to demonstrate that conventional image files consist of mathematical 
+representations: “An image file might instruct a computer, ‘display a 50x50 pixel grid of alternating rows 
+of white and red pixels.’  That’s a mathematical representation of a white -and-red-striped square.”  Sobel, 
+Elements , supra note 79, at 24.  
+104 See Google Books , 804 F.3d at 217, 225 (describing  purpose of Google’s copying as “to make 
+available significant information about those books ,” including  “whether [] and how often they use 
+specified words or terms”)  (emphasis in original) . 
+105 Id. at 224 -25. 
+
+
+ 
+ 
+22 
+ Books example  stands in marked contrast to the exploitation of copyrighted works by  AI system s 
+and users  of those systems, who are utilizing  stored expressive content to produce  output.  
+ 
+The encoding of text, images and music into machine -readable formats is, of course, nothing 
+new.  Copyright law protects works  stored as code  and in other digital formats .106  As explained  
+above, to convert a work from one format to another is to make a reproduction  of the work  (and 
+not a basis for a claim of fair use) .107  No one would argue, for example, that saving a Word 
+document as a PDF, or an analog photo to a JPG file, alters the protectability of the work in its 
+original format .  Indeed, as recognized by courts and the Copyright Office, the computer  code 
+embodying an aesthetic work and a rendering of the work generated by that code can  properly  be 
+considered one and the same work.108   
+ 
+Copyright law also protects works  that have been digitally stored in segments or  pieces .  In the 
+file-sharing case  Columbia Picture Indus tries, Inc.  v. Fung ,109 for instance, the Ninth Circuit did 
+not hesitate to hold that the unauthorized uploading and downloading of  motion picture s using  
+BitTorrent technology —which  breaks works  into fragments  for rapid  transmission  among  
+simultaneous users —was infringing .110  Cloud storage service s rely on analogous technology, 
+dividing  files into smaller “blocks” for hosting  in multiple locations, from which locations they 
+are more efficiently retrieved (and reconstructed ) for users .111  It would seem foolish to  suggest 
+that a work stored in the cloud loses copyright protection .  
+ 
+Of course, i n the context of generative AI, a training work  is encoded  into an AI model  along  
+with millions of  other  works , all of which  contribute  to the generative capacity of the model.   
+ 
+106 “Copyright protection subsists, in accordance with this title, in original works of authorship fixed in 
+any tangible medium of expression, now know n or later developed, from which they can be perceived, 
+reproduced or otherwise communicated, either directly or with the aid of a machine or device.”  17 U.S.C. 
+§ 102(a); see also Green v. U.S. Dep’t of Justice , No. 23 -5159, 2024 U.S. App. LEXIS 19261, at *7 (D.C. 
+Cir. Aug. 2, 2024) ( Congress enacted the Digital Millennium Copyright Act to protect “‘the movies, 
+music, software, and literary works that are the fruit of American creative genius’” from digital piracy  
+(quoting S. Rep. No. 105 -190, at 8 (1998))) . 
+107 See supra notes 93-96 and accompanying text.  
+108  See U.S. Copyright Office, Compendium of U.S. Copyright Office Practices  § 721.10(A) ( computer 
+program and the screen displays generated by that program “are considered the same work, because the 
+program code contains fixed expression that produces  the screen displays ”); see also Williams  Elecs., Inc. 
+v. Artic Int’l, Inc. , 685 F.2d 870, 874  (3d Cir. 1982) (changing videogame display protectable because 
+fixed in memory device by which it was generated ) (citing Stern Elecs., Inc. v.  Kaufman , 669 F.2d 852, 
+855-56 (2d Cir. 1982)  and Midway Mfg. Co. v. Artic Int’l, Inc. , 547 F. Supp. 999, 1006 -07 (N.D. Ill. 
+1982) , for same principle ).  Of course, computer code that embodies and renders a particular artistic work 
+is distinct from software (such as Microsoft Word) that is used as a tool to create such a work; the two are 
+separate ly protectab le works . 
+109 710 F.3d 1020 (9th Cir. 2013).  
+110 Id. at 1026, 1034.   
+111 See Cloudflare, What is block storage? (last visited June 29, 2024), 
+https://www.cloudflare.com/learning/cloud/what -is-block -storage/ .  
+
+
+23 Due to limitations of generative AI technology, it seems impossible to extract a particular work 
+from a model once  it has been ingested , at least at this point in time .112  But t he fact that a 
+particular work co-exists w ith myriad others —and that the encoding pr ocess  does not permit post 
+hoc removal  of particular works —does not  excuse  the infringement  of that one work.  The illicit 
+copying of a single work is not excused by illicit copying of others .113  AI comp anies seek to 
+minimize  the significance of  copying of individual works by asserting , for example, in the LLM 
+context , that it is “the volume of text used, more than any particular selection  of text, that really 
+matters.”114  But copying more does not mean you are copying less.   In the words of the Supreme 
+Court, “ a taking may not be excused merely because it is insubstantial with respect to the 
+infringing  work .”115 
+Thus understood , and as suggested  by Professor Lee and her  co-authors,  far from being a work 
+created independently of the works it trained on  through  some sort of detached “learning” 
+process, an  AI model is appropriately considered a derivative or compilation of the works it 
+embodies .116   
+3.Regeneration of training works  in output
+AI fair use advocates do not deny that AI -generated output that is substantially similar to 
+copyrighted works on which the system was trained is  a problem .  Nor do they seem to be 
+asserting that such copies —which could serve as substitute s for the originals —fall within the 
+ambit  of fair use .  Instead,  the fai r use camp maintain s that the propensity of AI  models to 
+reproduce  memorized copies of training materials in output  should be viewed as  an “aberration ” 
+or “quirk”117—that is, as inconsequential  collateral damage  that AI companies  are trying to 
+ameliorate and  which should not be held against them .118   
+As discussed above, the generation of infringing copies does not seem especially rare .  In fact, 
+absent the development of truly effective filtering systems , it would appear  to be a possibility 
+112  Stephen Pastis, A.I.’ s unlearning problem: Researchers say it’ s virtually impossible to make an A.I. 
+model ‘forget’ the things it learns from private user data , Fortune (Aug. 30, 2023), 
+https://fortune.com/europe/2023/08/30/researchers -impossible -remove -private -user-data-delete -trained -
+ai-models/  (“‘If a machine learning -based system has been trained on data, the only way to retroactively 
+remove a portion of that data is by re -training the algorithms from scratch.’”) (quoting New York 
+University computer scientist Anasse Bari) ). 
+113 See, e.g. , Sony Music Entm’t v. Cox Comm c’ns, Inc. , 93 F.4th 222, 236 -37 (2024) (upholding 
+infringement claims in case involving mass infringement of numerous  plaintiffs’ copyrighted musical 
+works and sound recordings).  
+114 Tremblay MTD, supra note 2, at  2 (emphasis in original); see also Damle , supra note 2,  at 13 (arguing 
+that AI companies must operate without licenses due to the need to train on “virtually the entire internet”).  
+115 Harper & Row, Publishers, Inc. v. Nation Enters. , 471 U.S. at 539, 565 (1985) (“ Harper & Row ”) 
+(emphasis in original) (copied material, though comprising a small part of defendant’s work, was 
+infringing) . 
+116 See infra notes  182-84 and accompanying text.  
+117 See, e.g. , Damle, supra note 2, at 8.  
+118 See supra note 75 and accompanying text (AI companies and advocates characterizing generation of 
+infringing output as rare occurrence).   
+
+
+ 
+ 
+24 
+ with respect to a ny work  in the training set should the right  prompt (or other method of 
+extraction) be employ ed.119  In any event,  regardless of how often  “regurgitation ” occur s, or the 
+particular prompt s that cause it to manifest , even AI companies seem to acknowledge that such 
+output is appropriately  considered infringing . 
+ 
+4. RAG activities  
+ 
+Last but not least, a s explained above, RAG -enabled AI systems  ingest content from websites  
+and other sources to feed into user queries  in order to augment  the substance and relevance of 
+system output .  It is thus apparent  that RAG technology is exploi ting third -party  content  for its 
+expressive value.120  At the same time, RAG has only recently  emerged  as a significant mode of 
+unauthorized exploitation .  We have not yet heard much  from AI companies regarding a  legal 
+justification for  the ongoing unlicensed copying required to enable RAG functionality .  
+ 
+III. Fair Use  Analysis  
+ 
+Section 107 of the Copyright Act  sets forth the factors courts are to consider in evaluating a 
+claim of fair use.121  A review of those factors and relevant decisional law confirms that there is 
+no established  principle of fair use that sanctions  the mass reproduction and exploitation of 
+copyrighted works to develop, build and operate AI system s for profit . 
+A. The cases relied on by AI companies  
+ 
+Pointing to a handful of technology -drive n fair use cases, AI companies and their advocates 
+claim that large -scale reproduction of copyrighted works to develop and populate AI systems 
+constitutes  a fair use of those works.122  But Google Books , HathiTrust , Sega  and other key 
+ 
+119 See supra notes 69-76 and accompany ing text (discussing memorization and challenges of filtering ). 
+120 See supra notes 82-85 and accompanying text.  
+121 Section 107 provides in pertinent part as follows:  
+[T]he fair use of a copyrighted work, including such use by reproduction in copies or 
+phonorecords or by any other means specified by that section, for purposes such as 
+criticism, comment, news reporting, teaching (including multiple copies for classroom 
+use), scholarsh ip, or research, is not an infringement of copyright. In determining whether 
+the use made of a work in any particular case is a fair use the factors to be considered 
+shall include —  
+(1) the purpose and character of the use, including  whether such use is of a commercial 
+nature or is for nonprofit educational purposes;  
+(2) the nature of the copyrighted work;  
+(3) the amount and substantiality of the portion used in relation to the copyrighted work 
+as a whole; and  
+(4) the effect of the use upon the potential market for or value of the copyrighted work.  
+17 U.S.C. § 107.  
+122 See supra notes 2-7 and accompanying text ( summari zing fair use claims by AI companies and their 
+representatives).  
+
+
+25 precedents relied upon by AI companies to defend their unlicensed copying123—mainly  Kelly v. 
+Arriba  Soft Corp. ,124 Perfect 10, Inc. v. Amazon.com, Inc. ,125 A.V . v. iParadigms , LLC  
+(“iParadigms ”),126 Sony Computer Entertainment, Inc. v. Connectix  Corp.  (“Sony Computer ”)127 
+and Google , LLC  v. Oracle  America, Inc. (“Oracle ”)128—are all in a different category with 
+respect  to fair use .  That is because these cases were concerned with functional  rather than 
+expressive  uses of copied works.  The copying  challenged in each was to enable  a technical  
+capabilit y such as  search function ality or software interoperability .  By contrast, copying by AI 
+companies serves to enable exploitation of protected expression .   
+1.Earlier cases address different conduct
+AI companies seem to place their greatest faith in  the mass book copying cases,  Google Books  
+and HathiTrust .  But  to claim that the se Second Circuit decisions legitimize the sorts of copying 
+engaged  in by AI systems is  to take the ir carefully limited holdings  a bridge  unquestionably  too 
+far.   
+There was no general declara tion in  either Google Books or HathiTrust  that mass reproduction of 
+copyrighted works to construct  a product predicated upon on  large -scale  copying has any 
+presumptive  claim to fair use.  To the contrary, the Google Books panel was careful to cabin its 
+holding to the particular  circumstances before it ,129 including the fact that Google’ s search 
+functionality  returned only snippets of text that did not permit  meaningful  consumption  of 
+expressive content .130  Although Google made full -text copies of the book s, it was not seeking to 
+capitalize on , or allow  users to exploit , the aesthetic value  of those works .  Even so, the court 
+considered Google’s copying to “test the boundaries of fair use.”131  Indeed,  the court pointedly 
+observed that had Google permitted users greater access to “the expressive content of the 
+123 See Damle, supra note 2, at 5-8 (characterizing Google Books, HathiTrust  and Sega  as “foundational 
+precedents” that establish the use of copyrighted works to develop AI systems as “quintessentially fair ”), 
+5-6 nn.10 -23 (citing additional technological copying cases ); Sag, Copyright Safety , supra note 2, at 304 -
+09 (asserting legitimacy of AI copying under Google Books and HathiTrust ); Sag, Fairness , supra note
+24, at 1903 -06, 1913 -14 (interpreting technological fair use cases to support claim that AI copying is fair
+use).
+124 336 F.3d 811 (9th Cir. 2003).
+125 508 F.3d 1146 (9th Cir. 2006).
+126 562 F.3d 630 (4th Cir. 2009 ).
+127 203 F.3d 596 (9th Cir. 2000).
+128 593 U.S . 1 (2021) .
+129 See Google Books , 804 F.3d at 207, 222, 224 -25, 229  (qualifying its holding with terminology such as
+“at least under present conditions,” “in these circumstances,” “at this time,” “at least as presently
+structured,” “as … presently constructed,” “at least as … presently designed,” “[o]n the present record,”
+etc.); see also Matthew Sag, The New Legal Landscape for Text Mining and Machine Learning , 66 J.
+Copyright Soc’y of the U.S.A. 291, 294 (2019), file:///C:/Users/user/Downloads/SSRN -id3331606.pdf
+(noting that Google Books and HathiTrust “were a product of the particular factual circumstances”) .
+130 See supra note 39 and accompanying text (describing snippet functionality).
+131 Google Books , 804 F.3d at 206.
+
+
+ 
+ 
+26 
+ original,” such exploitation  “would most likely constitute copyright infringement if not licensed 
+by the rights holders.”132   
+ 
+The determination  of fair use in HathiTrust was similarly  confined  to the facts of that case .  
+There, t he search results were even more limited, listing only  the page number s on which , and 
+number of times , a specific term appeared  in the relevan t text.133   
+ 
+In both Google Books and HathiTrust , the court established  a dividing line between uses that 
+were functional and nonsubstitutional in nature , and uses that were not .  Despite its superficial 
+similarity  to the mass  copying in Google Books and HathiTrust , then, AI copying  cannot be 
+squared with the fair use finding in either of these cases , the holdings of which were careful to 
+preserve copyright owners’ legitimate interest in the expressive content of their wo rks. 
+ 
+In Kelly , an earlier technological copying  case, a  professional photographer  challenged a search 
+engine’s reproduction  and indexing of  images taken from his own  and licensee website s.134  In 
+respon ding to user queries , the engine returned small, low-quality reproductions that users could 
+click on to access linked , full-sized version s of the works .135  The court held that the defendant ’s 
+copying of photos to provide a search and indexing service was a  transformative  fair use  because 
+the low -quality thumbnails “serve [d] a different function”  than the originals —namely, 
+“improving access to information on the internet .”136  The court pointedly distinguished this 
+purpose from copying to capitalize on  “artistic expression.”137  It found the search engin e’s use to 
+be nonsubstitu tional  because,  unlike Kelly’s photos,  the search and indexing  function  was 
+“unrelated to any aesthetic purpose .”138   
+ 
+Like Kelly , Perfect 10 involved unlicensed copying and indexing of online images, in this case 
+by Google, which displayed  thumbnail s of Perfect 10’s copyrighted photos to users of its search 
+technology.139  Users similarly  could  access the full -sized images via a link to the originating 
+website.140  Invoking Kelly , the Ninth Circuit once again held that a search engine’s copying of 
+images for thumbnail display was a transformative fair use because the images were not being 
+used for their intrinsic purpose but to create “an electronic reference tool.”141 
+ 
+In each of the above cases, the fair use determination turned on the fact that the defendant was 
+not exploiting expressive content for its intrinsic aesthetic value.  So, too, in iParadigms.   
+ 
+132 Id. at 226.  
+133 HathiTrust , 755 F.3d at 91.  The HathiTrust  court pointedly observed that its determination was made 
+without foreclosing future claims “based on a different record.”  Id. at 101 . 
+134 Kelly , 336 F.3d  at 815 -16. 
+135 Id. 
+136 Id. 818-19. 
+137 Id. at 819.  
+138 Id. at 818 -19. 
+139 Perfect 10 , 508 F.3d at 1155 -56. 
+140 Id.  
+141 Id. at 1164 -65, 
+
+
+27 iParadigms considered student author s’ challenge to  iParadigms’  “Turnitin” plagiarism detection 
+servic e, which  digitally compare d school papers a gainst an archive of previously submitted 
+papers to identify  instances of copying .142  The student plaintiffs alleged  that the archiving of 
+their papers in the Turnitin database violated their copyrights.143  Here again, the court focused 
+on the fact that the defendant’s use of the copied content  “had an entirely different function and 
+purpose than the original works,” emphasizing that the use was “unrelated to any creative 
+component” of the student works.144  The fact that iParadigms was not seeking to exploit student 
+essay content as such  readily distinguish es the copying at issue in  iParadigms from that engaged 
+in by generative AI systems .  
+Sega, Sony Computer and Oracle  are even farther afield from the types of copying engaged in by 
+AI companies .  In each of these cases,  the copying was  undertaken  with respect to  a specific 
+work  to facilitate  interoperability —clearly  not the objective  of AI copying.   
+In Sega , for instance,  defendant  Accolade copied Sega’s videogame code  in order to  “reverse 
+engineer” it to identify  the functional requirements that would allow Accolade to develop its own 
+videogames that would play on Sega  console s.145  As a result of  this process, Accolade identified 
+a small  segment of code in Sega’s  program that served to limit  the game’s operability  to Sega 
+consoles.146  Although Accolade had engaged in “wholesale” copying of the  videog ame program 
+to identify th e digital lock, it included only th e brief segment of functional code ( for which Sega 
+did n ot pursue  a separate claim of infringement) in its own product.147  The Ninth Circuit held 
+Accolade’s  “intermediate” copying of Sega’s program to be  a fair use  because it served  a 
+“legitimate, essentially non -exploitative purpose” —that is, to discover the functional aspects  of 
+Sega’s code in order to produce  compatible works .148  Observ ing that intermediate copying was  
+“the only means” by which Sega  could access unprotected elements  of the console code, the 
+court ex pressed concern that a finding of infringement would  grant  Sega a “de facto  monopoly ” 
+over functional  aspects  of the code .149  In concluding that the reverse engineering was fair use, 
+the court  also emphasized  that Accolad e’s works did not incorporate any of Sega’s creative 
+expression.150  The intermediate copying in Sega cannot be equated with copying by AI systems, 
+the very different purpose of which is to capture and use expressive content.    
+The Ninth Circuit  adhered to the Sega precedent in Sony Computer , another reverse engineering 
+case in which the court  held that  the defendant’s intermediate copying of  plaintiff Sony’s console 
+code  to create a “virtual” gaming sta tion that would allow users to play Sony games  on a 
+142 iParadigms , 562 F.3d at 634.  
+143 Id. at 635.  
+144 Id. at 639, 641 -42. 
+145 Sega, 977 F.2d at 1514 -15, 1522.  
+146 Id. at 1516.  
+147 Id. 
+148 Id. at 1522 -23. 
+149 Id. at 1523-27. 
+150 Id. at 1570 (“ [T]here is no evidence in the record that Accolade sought to avoid perform ing its own 
+creative work”) . 
+
+
+28 personal computer  was a fair use.151  Once again, t he holding was premised on the court’s 
+determination that the code at issue “contain[ed] unprotected functional elements ” that could not 
+be accessed or studied without copying.152   
+Such i ntermediate copying —an interim step in the software development process to ascertain 
+functional requirements  for a technical purpose —is not comparable to the copying that occurs in 
+the context of generative AI .  As its name  would suggest, intermediate copying does not involve 
+ongoing engagement with or exploitation of protected content .  The  defendants in Sega and Sony 
+Computer were not seeking to replicate or profit from the plaintiffs’ artistic works but instead to 
+produce independently  created , compatible  products .153  An AI model , by contrast, is designed 
+permane ntly to exploit  copied  creative expression .  
+Finally, in Oracle , the Supreme Court concluded  that Google’s copying of Java “declaring” 
+code —a widely use d system to call up  computer function s—so coders could  more easily write 
+programs for Android phones was a fair use.154  In so holding, the Court emphasized  the 
+functional nature of the code appropriated by Google , the copyrightability  of which it found 
+questionable .155  Google’s copying targeted  a widely used, utilitarian aspect of computer  code 
+that the Court viewed as  far from the “core of copyright’s protection.”156  The Court was 
+persuaded that G oogle did not copy the lines of Java code  “because of their creativity, their 
+beauty, or even (in a  sense) because of their purpose,”  but so Java-trained programmer s writing 
+software for Android phones could  rely on commands that “they [were]  already familiar with to 
+call up particular tasks .”157  In other words, t he Court  was focused on  the interoperability of 
+human programmers.158   
+In short , none of the  fair use precedents on which AI companies purport to rely addressed a 
+product designed to copy and exploit third -party  expressi ve content  to derive new content, 
+151 Sony Computer , 203 F.3d at 601, 608.  
+152 Id. at 603 -04. 
+153 See Sega at 1518 (intermediate copying of object code fair use where it was only means of access to 
+elements not  protected by copyright); see also Sony Computer at 598 (resulting product did not contain 
+any copyright -protected material).  
+154 Oracle , 593 U.S.  at 11-15. 
+155 See i d. at 29 (“[T]he declaring code is, if copyrightable at all, further than are most computer programs 
+... from the core of copyright.”) .  In a nuanced  analysis of  the majority opinion, Professor Jane Ginsburg 
+suggests  that “[i]n effect, the fair use determination achieved the same result as ruling the [copied code] 
+uncopyrightable, but attained that objective through the back end of a copyrigh t excepti on rather than the 
+front end of applying the idea/expression distinction ….” ).  Jane  C. Ginsburg, Fair Use in the US Redux , 
+Singapore J. Legal Stud. 3 (Mar. 2024) , https://law.nus.edu.sg/sjls/wp -
+content/uploads/sites/14/2024/05/firstview -march24 -JaneGinsburg.pdf . 
+156 Oracle , 593 U.S.  at 29.  
+157 Id. at 13-14. 
+158 See id. (Google copied Oracle’s code “because programmers had already learned to work with the 
+[Java] system, and it would have been difficult, perhaps prohibitively so, to attract programmers to build 
+its Android smartphone system without them.” ). 
+
+
+ 
+ 
+29 
+ including potentially competing and infringing content.  None involved copying  and use  of 
+expressive content  for its intrinsic value .  
+ 
+This critical distinction between expressive and nonexpressive use of copyrighted works in a 
+technological context is well illustrated by the Second Circuit’s post-Google Books decision in 
+Fox News Network v. TVEyes, Inc.159  In that case, the court considered  an unlicensed  service 
+that recorded “essentially all television broadcasts” and the closed -caption text that accompanied 
+them in order to create a text-searchable database  of the copied video .  By  typing in  a search 
+term, users would receive a list of news clips in which the term appeared , which references  could 
+then be clicked on and played.160    
+ 
+In defending its copying, TVEyes relied primarily on Google Books.161  But t he court firmly 
+distinguished  that precedent  to hold TVEyes ’ systematic exploitation of Fox’s news  content to be 
+an infringing, rather than  fair, use.162  Significantly, the court’s rejection of fair use was 
+predicated on its core finding that the use of Fox’s content  was “ both ‘extensive’ and inclusive of 
+all that is ‘important’ from the copyrighted work .”163  Unlike in Google Books , TVEyes  had built 
+a business based on the appropriation  of expressive content : 
+ 
+The success  of the TVEyes business model demonstrates that deep -pocketed consumers 
+are willing to pay well for a service that allows them to search for and view selected 
+television clips, and that  this market is wor th millions of dollars in the aggregate.   
+Consequently, there is a plausibly exploitable market for such access to television 
+content, and it is proper to consider whether TVEyes displaces potential Fox revenues 
+….164   
+ 
+Taking  note of the Second Circuit ’s cautionary language  in Google Books  that, notwithstanding  
+the guardrails  implemented by Google to  prevent e xpressive use of the copied book s, Google’s 
+conduct  “‘test[ed] the boundaries of fair use,’” the TVEyes court concluded that  defendant  
+TVEyes  had “exceeded those bounds .”165   
+ 
+2. There is no presumption that a use is f air if the end product  is 
+noninfringing  
+ 
+A favored argument  of those advocating on behalf of AI companies is that the appropriation of 
+copyrighted works to train AI systems is a fair use of those works so long as the resulting product 
+does not infringe  copied expression .  Damle, for instance , states in his congressional testimony 
+ 
+159 883 F.3d 169 (2d Cir. 2018).  
+160 Id. at 175.  
+161 Id. at 177.  
+162 Id. at 174 -75, 179 -81. 
+163 Id. at 179.  
+164 Id. at 180.  
+165 Id. at 174 (quoting Google Books , 804 F.3d at 206).  
+
+
+30 that “[a]n unbroken line of cases establishes that the use of a copyrighted work to create a non -
+infringing final product is quintessential fair use.”166  Sag puts it a little differently,  avowing  that 
+U.S. fair use cases “have consistently held that technical acts of copying which do not 
+communicate an author’s original expression to a new audience are fair use .”167  The theory  
+seems to be  unless an outsider can see  the infringement, there is no infringement.  
+In advocating for this approach , Damle is not entirely clear as to whether he means the resulting 
+model is noninfringing, its output is noninfringing, or both .  For the reasons discussed above,  
+however, none of these  is a valid  proposition .168  It is not  reasonable  to assume that the AI model 
+itself is not infringing or that it will not communicate  authors’ original expression, in all or in 
+part, to users when  generating output .169   
+In any event,  no court has ever articulated a canon  of fair use  such as that posited  by Damle and 
+Sag.  Indeed, the Ninth Circuit’s Sega  opinion , on which  both rely ,170 expressly rejected  any such  
+standard .  Addressing  a similar  argument by the defendant —that its intermediate copying  had to 
+be fair because its final product was noninfringing —the court was clear  that “intermediate 
+copying of computer object code may infringe the exclusive rights granted to the copyright 
+owner in section 106 of the Copyright Act regardless of whether the end product of the copying 
+infringes those rights .”171  This principle was reaffirmed by the Ninth Circuit nearly twenty years 
+later in Sony Computer ,172 another case often invoke d to justify AI copy ing.173  In short, there is 
+no “unbroken line” line of  fair use precedent that immunizes AI copyin g as noninfringin g if the 
+generated output is considered  noninfringing .   
+B.AI copying under the fair use factors
+1.The purpose and character of AI copying
+The first fair use factor  of section 107  considers the purpose and character of the challenged use, 
+including —under judge -made law —whether the use  is “transformative ,” and whether it is for a 
+commercial purpose.174  The advocates of AI fair use do not claim that the training of for -profit 
+166 Damle, supra note 2, at 5, 7.   
+167 Sag, Fairness , supra note 24, at 1903.  Sag relatedly  contends  that AI copying is a “nonexpressive” use 
+of the copied works.  See id. at 1914 ; Sag, Copyright Safety , supra note 2, at 307-09. 
+168 See supra notes 97-119 and accompanying text  (discussing  encoding of training works in  AI model 
+and their regeneration in output ). 
+169 See supra notes  60-68 and accompanying text  (discussing replication of training works ).   
+170 See Damle, supra note 2, at 6; Sag, Fairness , supra note 24, at 1904.  
+171 Sega , 977 F.2d at 15 17-19 (emphasis added) .  The court instead grounded its fair use finding on the 
+fact that the copying was undertaken solely to identify functional elements rather than to exploit Sega’s 
+creative expression.  Id. at 1522 -23. 
+172 See Sony Computer , 203 F.3d at 602 -03 (“In Sega , we recognized that intermediate copying could 
+constitute infringement even when the end product did not itself contain copyrighted material.”)  
+173 See, e.g. , Damle, supra note 2, at 6 n.21;  Sag, Fairness , supra note 24, at 1903 n.100.      
+174 See Warhol , 598 U.S.  at 527-29; Campbell , 510 U.S. at 578-79.  
+
+
+ 
+ 
+31 
+ AI models falls within any of the favored purposes listed in section 107 —criticism, comment, 
+news reporting, teaching, scholarship, or research.175  Instead, they look to the technological fair 
+use precedents  discussed above to argue that the use is transformative.   As shown,  however,  
+those cases  were careful to distinguish  copying and exploitation of expressive content for its 
+intrinsic  value f rom the technological  copying they found to be fair .  These cases thus  point  in 
+the opposite direction of fair use with respect to copying  by AI entities , as do the purpose and 
+character of such copying .176   
+ 
+a. AI copying is not transformative  
+ 
+For purposes of fair use, a transformative use is one that “‘adds something new, with a further 
+purpose o r different character’”  and does not supplant  the original.177  In Google Books , for 
+example , the Second Circuit  held that  the digital scanning of books in order to provide a search 
+function was transformative because it “augments public knowledge by making available 
+information about Plaintiffs’ books without providing the public with a substantial substitute for 
+matter protecte d by the Plaintiffs’ copyright interests in the original works or derivatives of 
+them.”178  The HathiTrust  court reached a similar conclusion , holding that the copying of books 
+to create a searchable database was a transformative use that  “add[ed] … something new with a 
+different purpose and a different character.”179  In Sega , a competing videogame manufacturer 
+disassembled Sega’s c onsole c ode, not to copy Sega’s creative expression, but to develop its own 
+original, compatible games.180  The “transformativeness” of the use in each of  these cases turned 
+on the fact that aesthetic  content was not being exploited for its own sake —either by  defendants 
+themselves or users of the ir products . 
+ 
+Copying of protected  works  by generative AI systems  has no similar  claim to transformative ness.  
+Works are copi ed in their entirety and mechanically  encoded  in the AI model without offering 
+any search functionality or  other utility  to users , let alone criticism or commentary.  They are 
+copied to capture their expressive value.   
+ 
+Fair use proponents contend that the training process merely record s “unprotected facts”  about 
+the training works but, as shown above, th at is not the case .181  In fact, the AI model maps and 
+store s the expressive content  of each work so it can be tapped to enable the model’s generative 
+capabilities.  That the works are parsed into  small segments , or “tokens ,” and mathematically 
+mapped  into vectors , does not negate the appropriation of expressive content.   
+ 
+ 
+175 See 17 U.S.C. § 107.  
+176 In addition to being relevant to claims of direct infringement, the purpose and design  of AI models 
+present significant issues  of secondary copyright liability arising from user activities, a rich subject in 
+itself that is beyond the scope of this paper . 
+177 Warhol , 598 U.S.  at 528 (quoting Campbell , 510 U.S. at 579).   
+178 Google Books , 804 F.3d at 207 .   
+179 HathiTrust , 755 F.3d at 97 -98. 
+180 Sega , 977 F,2d at 1522 -23. 
+181 See supra notes  100-05 and accompanying text.  
+
+
+32 A process that mechanically converts works so they can be exploited in a more convenient 
+format does not qualify as a transformative purpose .  To be sure, copyrighted works are 
+“transformed ” when they are encoded in an AI model , but not in the senses of fair use 
+“transformativeness” —rather, in the sense of creating a derivative.   Under the Copyright Act, the 
+owner of a protected work has the exclusive right to prepare, or authorize the preparation of, a 
+derivative of that work,182 defined in the Act as “a work based upon one or more preexisting 
+works,” including “any … form in which a work may be recast, transformed or adapted.”183  An 
+AI model , created by reproducing and encoding —or “recasting” —copyrighted works  into the 
+model , falls within  this definition.   An AI model may also  be considered a compilation, that is, “a 
+work formed by the collection and assembling of preexisting materials or of data that are 
+selected, coordinated, or arranged in such a way that the resulting work as a whole constitutes an 
+original work of authorship.”184  Whether a derivative work or a compilation , however,  the 
+model makes  unauthorize d use of copyrighted works.  
+Fair use advocates may a ssert that, in assessing transformativeness,  that the purpose of the 
+copying  to be considered is not that of building  and operating AI models —its immediate 
+objective —but the ultimate  goal of allowing  users to generat e new content  from the works 
+encoded in the model s.  This alternative argument for transformativeness falls short , for several 
+reasons.      
+To begin with,  the generation of new content by an AI model based on a user prompt is 
+inextricably bound up with the expressive exploitation of the copied works .  It is not a  content -
+neutral  function  akin to  search capability or interoperability.  As explored above, AI machines do 
+not “think” independently; their production  of new content is a function of and limited by the 
+creative content they have ingested.185  Accordingly, the use of copyrighted works to facilitate AI 
+generation does not align with the reasoning of Google Books , HathiTrust or other technological 
+cases in which the copying was found  to be transformative  because it did not exploit expressive 
+content .   
+Next , as discussed above, AI machines not infrequently generate infringing cop ies and 
+derivative s of the works on which they are trained .186  While this may not be a desired outcome, 
+it appears to be an unavoidable feature of AI systems , at least  at present .187  To state the obvious, 
+AI companies cannot claim transformativeness based on  output  that merely reproduce s all or part 
+of a training work or works , even if it is done in a complicated way .  An AI model’s generation of 
+text or an image that is a copy of a training work  and could serve as substitute for the original is 
+182 17 U.S.C. § 106 (“[T]he owner of a copyright … has the exclusive right[] to … prepare derivative 
+works based upon the copyrighted work.”).  
+183 17 U.S.C. § 101 (definition of “derivative work”).  
+184 17 U.S.C. § 101 (definition of “compilation”).  
+185 See supra notes  18-31 and accompanying text.  
+186 See supra notes  60-68 and accompanying text.  
+187 See supra notes 71-73 and accompanying text.  
+
+
+ 
+ 
+33 
+ presumptively nontransformative.188  Nor is there anything inherently transformative about 
+combining elements of one work with those of anoth er work or works , which implicates the 
+copyright owners’ derivative work rights.189  As Professor Jane Ginsburg observes, “AI outputs 
+may incorporate the source works’ expression in a new production; but that output generally will 
+not comment, criticize, shed light on or otherwise be about the copied expression.”190   
+ 
+Notably, i n Andy Warhol Foundation  for the Visual Arts, Inc. v. Goldsmith ,191 the Supreme Court 
+warned  against “an overbroad concept of transformative use” that encroaches upon  copyright 
+owners’ derivative work rights, explaining that an interpretation of transformativeness “ that 
+includes any further purpose, or any different character ” could “swallow”  the copyright owner’s 
+exclusive right to create derivative works.192   To this end, the Court criticized overzealous 
+application of “transformativeness”  to encompass any work that  “adds  some new expression,  
+meaning , or message .”193  Drawing on its earlier explication of fair use in Campbell ,194 the Court 
+emphasized th at the secondary user must  have an independent justification for use of the work  in 
+question .  That a copied  work may be useful to convey a new meaning or message  is not 
+justification enough .195 
+ 
+AI-generated content  that is not a recognizable copy or derivative of a training work or works —
+that is, the type of content  AI companies  claim to be the intended output of their systems —by 
+definition does not comment  or shed light  on any particular work .  It is therefore  difficult to see 
+how AI entities can stake a  claim to transformative  use of training work s based on  output  that 
+does not convey commentary  or criticism  with respect to those works .  Nor, as noted, does AI 
+output  facilitate  a utility -expanding function such as searchability or indexing .   
+ 
+188 See Warhol , 598 U.S. at 53 2-33 (first fair use factor likely to weigh against fair use where “an original 
+work and a secondary use share the same or highly similar purposes, and the secondary use is of a 
+commercial nature”).  
+189 See, e.g. , Warhol , 598 U.S.  at 537, 550-51 (2023) (unlicensed commercial use of plaintiff’s 
+photogra ph, as incorporated into a n Andy Warhol silkscreen derivative, was nontransformative and 
+therefore infringing); Dr. Seuss Enters., L.P . v. ComicMix  LLC, 983 F.3d 443, 451 -55 (9th Cir. 2020) 
+(“Seuss ”) (ComicMix’s unlicensed book consisting of a “mashup” of Dr. Seuss and Star Trek characters 
+that mimicked Dr. Seuss illustrations was a nontransformative  use of Seuss’s works ). 
+190 Ginsburg, supra note 155, at 29.  
+191 598 U.S. 508 (2023).  
+192 Warhol , 598 U.S. at 529, 541 .  In keeping with this instruction, t he Court determined  that a magazine’s 
+commercial use of a silkscreen image created by Andy Warhol from plaintiff Goldsmith’s photographic 
+portrait of Prince was not transformative because  it served as a substitute for Goldsmith’s original photo .  
+Id. at 523-24. 
+193 Id. at 541.  
+194 In Campbell , the Court considered 2 Live Crew’s use of Roy Orbison’s classic song “Pretty Woman”  
+in a rap parody, finding the use transformative  because it was necessary to copy portions of Orbison’s  
+work in order to mock it .  See Campbell , 510 U.S. at 579 -83. 
+195 See Warhol , 598 U.S. at 53 0-33 (“If an original work and a secondary use share the same or highly 
+similar purposes, and the secondary use is of a commercial nature, the first factor is likely to weigh 
+against fair use, absent some other justification for copying.”), 54 6-48 (“Copying might [be] helpful to 
+convey a new meaning or message.  It often is.  But that does not suffice under first factor.”) . 
+
+
+34 This leaves us with the bare claim  that AI  copying should be considered transformative because 
+it enables the generative capabilities of AI models .  This broad contention  is untethered to the use 
+of any particular work or works , but instead  boils down to a n assertion  that mass  appropriation  of 
+protect ed works is justified  because extensive copying is necessary to build and o perat e such 
+system s.  In effect, then, it amounts to  a poli cy argum ent that the rights of copyright owners must  
+yield to the presumed  social  benefits of generative AI technology . 
+Courts sometimes  consider the public benefit of a challenged use in evaluating the question of 
+transformativeness.  In Google Books , for instance , the court determined that “Google’s making 
+of a digital copy to provide a search function is a transformative use, which augments public 
+knowledge by making available information about Plaintiffs’ books without providing the public 
+with a substantial substitute.”196  In Sega , the court was concerned that a failure to permit reverse 
+engineering would “confer[] on  the copyright owner a de facto  monopoly” over unprotectable 
+ideas and functional concepts in it s computer code  that others could build upon.197  In Oracle , the 
+Court reason ed that utilizing  Java declaring code would enable Java -trained programmers to 
+“expand the use and usefulness” of Android phones.198   
+AI copying does not fit within these paradigmatic examples  of technologically driven copying .  
+To begin with , none of these cases held the extraction of creative value from  protected works to 
+be a transformative  use.  Moreover, unlike in the case of  generative AI, in each of these cases, the 
+beneficial purpose  could not have been achieved without copying the specific work or works at 
+issue .  That is, t here was a clear nexus between the appropriated  work s and the  claimed social 
+benefit .  In Google Books , for example, Google could not have provided a search function that 
+would locate a term in a book without copying the book in question.  In Sega , the court 
+determined that copying Sega’s console code was necessary to access the functional aspects of 
+the code in order to create independent games.  The same was true in Oracle ; the only way to 
+harness  the collective knowledge of  Java programmers was to emulate  the Java command 
+structure.  The same cannot be said of generative AI systems , which copy millions  of works  in an 
+indiscriminate  fashion.  The generalized nature  of AI copying is inconsistent with claim s that the 
+copying serves a transformative purpose vis-à-vis the copied works .199 
+The c laim that AI companies’ mass copying  is transformative seems  largely premised on the 
+view  that generative AI  is remarkable technology with the power to  enhance creativity and 
+improve society .200  But a generalized assertion  of public good  such as this does not  justify the 
+196 Google Books , 804 F.3d at 207 (emphasis in original).  
+197 Sega , 977 F.3d at 1573 -74. 
+198 Oracle , 593 U.S. at 30.  
+199 Cf. Seuss , 983 F.3d at 454 (finding no transformative use where defendant ComicMix had no particular 
+need to use Seuss’s material for its story).     
+200 See, e.g. , Damle, supra note 2, at 1 (“The AI tools of the present and near future will impact almost 
+every aspect of the human experience ….  They will transform the way humans learn and work.  They 
+will enable anyone to more fully unlock their creative potential.  In short, AI has the potential to transform 
+our economy and improve our society as a whole.”);  Wayne Brough & Ahmad Nazeri, Regulatory 
+
+
+ 
+ 
+35 
+ use of particular copyrighted works or qualify as a transformative purpose .201  If it did , fair use  
+could be claimed w ith respect to any beneficial technological  advance  that sought to capitalize 
+on copyrighted works  for free.202   
+ 
+Finally, a claim of transformativ e purpose is especially weak where , as here, the unauthorized 
+copying is supplanting the licensed use of copyrighted works  for the same purpose —namely,  to 
+train and operate AI systems —as discussed  below .203  As the Supreme Court emphasized in 
+Warhol , where use of an original work and a secondary use “share the same or highly similar 
+purposes, and the secondary use is of a commercial nature, the first factor is likely to weigh 
+against fair use, absent some other justification for copying.”204  AI companies have not  
+articulated any justification  for their mass unauthorized copying apart from generalized  
+assertions  that it is necessary  to build their systems  and that licensing would be too difficult .205  
+Neither of these constitutes a transformative purpose under copyright law .  Moreover,  as shown 
+below, the second claim  in particular  is contrary to the facts.  
+ 
+b. Commercial purpose  of copying  
+Leading AI developers, including  OpenAI, Stability AI and Anthropi c, not to mention the tech 
+giants Google, Meta and Microsoft, indisputably engage in  for-profit  activities , including the sale 
+of AI pro ducts  to the public .206  The use of copyrighted works to develop  and o perate a 
+ 
+Comments Before the U.S. Copyright Office Library of Congress In the Matter of Artificial Intelligence 
+and Copyright , R Street (Oct. 30, 2023), https://www.rstreet.org/outreach/regulatory -comments -before -
+the-u-s-copyright -office -library -of-congress -in-the-matter -of-artificial -intelligence -and-copyright/  (“AI 
+promises to bolster the American economy, amplify the capabilities of creatives and catalyze 
+advancements in science and the arts.”)    
+201 On the question of public benefit, it is worth noting that  although generative AI may have the potential 
+for positive impact in various  areas of human endeavor,  it comes with significant social concerns, among 
+them  its ability to  generate false information ; impersonate individuals  (including by producing 
+“deepfakes”) ; and amplify racism and bias —not to mention its staggering energy needs .  See, e.g.  Öykü 
+Isik, Amit Joshi & Lazaros Goutas, 4 Types of Generative AI Risk and How to Mitigate Them , Harv. Bus. 
+Rev. (May 31, 2024), https://hbr.org/2024/05/4 -types -of-gen-ai-risk-and-how-to-mitigate -them  (reviewing 
+and categorizing various risks of generative AI); Kate Crawford, Generative AI’ s environmental costs are 
+soaring —and mostly secret , Nature (Feb. 20, 2024), https://www.nature.com/articles/d41586 -024-00478 -
+x (“Within years, large AI systems are likely to need as much energy as entire nations.”).   
+202 Interpreting the Oracle decision, Ginsburg aptly observes that if “verbatim copying ‘to create new 
+products’ were deemed ‘tran sformative’ in general, it would be difficult to imag ine what kind of copying, 
+short of outright p iracy  of the entire work, would not be transformative.”   Ginsburg, supra note 155, at 7 ; 
+see also Harper & Row , 539 U.S. at 569 (“Any copyright infringer may claim to benefit the public by 
+increasing public access to the copyrighted work.”).  
+203 See infra notes  212-33 and accompanying text.    
+204 Warhol , 598 U.S. at 532 -33. 
+205 See supra  notes 33 and 114 and accompanying text  (AI systems must  train on millions of works); infra 
+note 223 and accompanying  text (licensing would be impossible) . 
+206 See OpenAI, Pricing , https://openai.com/chatgpt/pricing/  (last visited May 15, 2024) (listing 
+subscription fees for OpenAI’s ChatGPT products); Stability AI , Stability AI Membership , 
+https://stability.ai/membership  (last visited May 15, 2024) (listing membership fees for Stability AI 
+
+
+36 commercially marketed  AI system is by definition  commercial in nature.207  Although not  in 
+itself  dispositi ve, this factor weighs significant ly against fair use.208 
+2.AI companies copy highly creative works
+With respect to the  second factor, the  “nature of the works” at issue , AI companies acknowledge 
+that they have copied countless  expressive  work s—such as books, movies and visual art —that lie 
+at the heart of copyright.209  This presumptively weighs against fair use.210   
+3.AI companies copy works in their entirety
+Factor three  considers the amount  of the work that was copied .  There is no dispute that AI 
+companies reproduce copyrighted works in the ir entirety  to assemble training set s.  Further, as 
+explained above, during the training process, each work is broken down into small segments and 
+algorithmically encoded  into the model.  The c ore activities of AI development, then, involve the 
+reproduction of entire works.  
+products); Anthropic, Meet Claude , https://www.anthropic.com/claude  (last visited May 15, 2024) (listing 
+subscription fees for Anthropic’s Claude products).  
+207 This holds true even though, i n some cases , AI companies  acquire training materials assembled by 
+academic  and other nonprofit  researchers.  See Andy Baio , AI Data Laundering: How Academic and 
+Nonprofit Researchers Shield Tech Companies from Accountability , Waxy (Sept. 30, 2022), 
+https://waxy.org/2022/09/ai -data-laundering -how-academic -and-nonprofit -researchers -shield -tech-
+companies -from -accountability//  (discussing common practice of “technology companies working with 
+AI to commercially use datasets and models collected and trained by non -commercial research entities 
+like universities or non -profits”).  Even if a researcher’s activities are conducted under the auspices of a 
+nonprofit institution , this does not negate the commercial purpose of the follow -on AI entity.  Nor  does it 
+negate a finding of for-profit use  on the part of the researche r.  In Weissman v. Freeman , 868 F.2d 1313  
+(2d Cir. 1989) , for example, the Second Circuit determined that an academic’s copying of a scientific 
+paper, though not for monetary gain, was nonetheless a for -profit activity for purposes of the first fair use 
+factor.  Id. at 1324  (“Particularly in an academic  setting, profit is ill -measured in dollars. Instead, what is 
+valuable is recognition because it so often influences professional advancement and academic  tenure. ”); 
+see also Harper & Row , 471 U.S. at 562 (“ The crux of the profit/nonprofit distinction is not whether the 
+sole motive of the use is monetary gain but whether the user stands to profit from exploitation of the 
+copyrighted material without paying the customary price.”) ; Worldwide Church of God v. Phila. Church 
+of God, Inc ., 227 F.3d 1110,  1117 (9th Cir. 2002) (same);  Am. Geophysical Union v. Texaco Inc. , 60 F.3d 
+913, 914-15, 921 -22, 931 (2d Cir. 1994)  (“Texaco ”) (photocopying of journal articles by Texaco scientists 
+for internal research purposes held not a fair use in part because Texaco reaped indirect economic 
+advantage and “avoid[ed] having to pay at least some price to copyright holders”).  
+208 See Campbell , 510 U.S. at 585 (commercial use is a factor that “‘tends to weigh against fair use’”) 
+(quoting Harper & Row , 471 U.S. at 562)).  
+209 Id. at 586 (“This factor calls for recognition that some works are closer to the core of intended 
+copyright protection than others, with the consequence that fair use is more difficult to establish when the 
+former works are copied.” ). 
+210 Id.; Sony Corp. v. Universal City Studios, Inc. , 464 U.S. 417, 455 n.40 (1984) (copying a news 
+broadcast may have different fair use implications than copying a motion picture).  
+
+
+ 
+ 
+37 
+  
+On the output  end, as discussed above, works from training materials may be  replicated  in all or 
+in part  in AI productions .  Further, in canvassing  the internet for additional material to enhance 
+output , RAG technology appropriates the entirety or significant  portions of the external source s it 
+gathers . 
+ 
+In short, factor three weighs heavily against fair use , especially since the works are being used 
+for their expressive content rather than functional purposes .211 
+ 
+4. AI copying harms the market for the copied works   
+ 
+The final fair use factor  concerns t he effect of the use upon the potential market for or value of 
+the copyrighted work.  In the AI context, this factor encompasses at least three  different 
+concerns :  harm to the market for the original works based on generation of competing copies 
+thereof ; harm to the market for licensed derivativ es bas ed on those works ; and harm to the 
+licensing  market for  training use of the works . 
+ 
+A close copy of a work  that can serve as a  substitute for the  original  invades  the market for the 
+original.  Likewise, a derivative based on a copied work may supplant or interfere with  licensing 
+opportunities for adaptations of the original .  Especially in a commercial context, both types of  
+output weigh against fair use.212 
+ 
+Creators and owners of copyrighted works are deeply concerned that generative AI systems that 
+copy their works in the training process have the capacity  to generate products that, even if not 
+overt reproductions, are stylistically similar enough to the original works to serve as competing 
+substitutes.213  Imitative content may incorporate elements of a copyrighted original or originals 
+ 
+211 Compare Google Books , 804 F.3d at 221 -22 (“While Google makes an unauthorized digital copy of the 
+entire book, it does not reveal that digital copy to the public ….  Google [thus] satisfies the third factor 
+test.”) with TVEyes , 883 F.3d at 179 (“Th[e] [third] factor clearly favors Fox because TVEyes makes 
+available virtually the entirety of the Fox programming that TVEyes users want to see and hear.”).  
+212 See Warhol , 598 U.S. at 536 (where secondary work is both substitutional and used for commercial 
+purposes, this “counsels against fair use, absent some other justification”) ; Campbell , 510 U.S. at 590 
+(fair use analys is must consider  not only harm to original work but market for derivative s). 
+213 For example, as articulated in the record labels’ suit against AI music generator Udio:  
+ 
+The capacity for a generative AI service to produce convincing imitations of genuine 
+sound recordings starts with copy ing a vast range of sound recordings.  When those who 
+develop such a service steal copyrighted sound recordings, the service’s synthetic musical 
+outputs could saturate the market with machine -generated content that will directly 
+compete with, cheapen, and ultimat ely drown out the genuine sound recordings on which 
+the service is built.  
+ 
+Compl. ¶ 4, UMG Recordings, Inc. v. Uncharted Labs, Inc. , No. 1:24-cv-04777 (S.D.N.Y .  June 
+24, 2024)  (“UMG Compl.”) ; see also Kashmir Hill, This Tool Could Protect Artist from A.I. -
+Generated Art That Steals Their Style , N.Y . Times (Feb. 13, 2023), 
+
+
+38 that render the imitation an infringing derivative.214  In other instances , however,  generative 
+output may not meet the tradition al test for substantial similarity.215  Even if not technically 
+infringing , output  that is recognizabl e as derived from a particular creator’s  works  should  weigh 
+against  a claim that the AI model’s  copying of such works  during training  was a fair use .  That is , 
+even if infringement cannot be  establish ed based on generated output , output  that obviously 
+imitates an artist’s distinctive style may establish  market harm  resulting from  copying at the 
+training stage  because  that copying yielded  a competing substitute .216   
+AI companies rely on  unauthorized copying —largely  accomplished by scraping the internet —to 
+develop their models .  Most  creators and copyright owners bec ame aware of  the appropriation of 
+their works by AI companies only after generative AI burst into public view in 202 2.  One 
+consequence of this revelation has been a  flood  of lawsuits filed by writers, visual artists, 
+musicians and others asserting copyright infringement claims and additional  causes of action.217  
+A second  consequence is a quickly  developi ng market  for licensing of copyrighted content  to AI 
+companies  for training and operation  of their systems .   
+Since 2023 , OpenAI , the company behind ChatGPT, has entered into content licensing deals with 
+Axel Springer, the publisher of  POLITICO and Business Insider ; News Corp, which owns the 
+Wall Street Journal, the New York Post, the Times and the Sunday Times; Dotdash Meredith, a 
+large  publisher  of online content ; and t he Associated Press , to name just some.218  Google  
+https://www.nytimes.com/2023/02/13/technology/ai -art-generator -lensa -stable -diffusion.html  
+(discussing concerns of visual artists whose work is being imitated by generative AI).  
+214 See supra  note 79 and accompanying text  (discussing derivative output).  
+215 See Sobel, Elements , at 38 -41 (explaining why it may be difficult to establish substantial similarity in 
+artistic style).  
+216 The production of imitative content may also be probative of copying at the training stage.  
+217 See, e.g. , Andersen v. Stability AI, Ltd. , No. 3:23 -cv-00201 (N.D. Cal. filed Jan. 13, 2023) (visual art); 
+Tremblay v. OpenAI, Inc. , No. 3:23 -cv-03223 (N.D. Cal. filed June 28, 2023) (books) and Silverman v. 
+OpenAI, Inc. , No. 3:23-cv-03416 (N.D. Cal. filed July 7, 2023)  (books) ( Tremblay and Silverman now 
+consolidated in In re OpenAI ChatGPT Litig. , No. 23-cv-03223 ); Concord Music Group, Inc. v. Anthropic 
+PBC , No. 3:23 -cv-01092 (M.D. Tenn. filed Oct. 18, 2023) (song lyrics); New York Times v. Microsoft 
+Corp ., No. 1:23 -cv-11195 (S.D.N.Y . filed Dec. 27, 2023) (news articles);  UMG Recordings, Inc. v. Suno, 
+Inc., No. 1:24 -cv-11611 (D. Mass. filed June 24, 2024)  (sound recordings) ; UMG Recordings, Inc. v. 
+Uncharted Labs, No. 1:24 -cv-04777 (S.D.N.Y . filed June 24, 2024)  (sound recordings) . 
+218 Angela Cullen & Jackie Davalos, OpenAI to Pay Axel Springer Tens of Millions to Use News Content , 
+Bloomberg Law (Dec. 13, 2023), https://news.bloomberglaw.com/tech -and-telecom -law/openai -to-pay-
+axel-springer -tens-of-millions -to-use-news -content ; Guardian staff and agencies, Open AI and Wall Street 
+Journal owner News Corp sign content deal , The Guardian (May 22, 2024), 
+https://www.theguardian.com/technology/article/2024/may/22/openai -chatgpt -news -corp-deal; Sara 
+Fischer, OpenAI inks licensing deal with Dotdash Meredith , Axios (May 7, 2024), 
+https://www.axios.com/2024/05/07/openai -dotdash -meredith -licensing -deal; Matt O’Brien , ChatGPT -
+maker OpenAI signs deal with AP to license news stories , AP (July 13, 2023), 
+https://apnews.com/article/openai -chatgpt -associated -press -ap-f86f84c5bcc2f3b98074b38521f5f75a . 
+
+
+ 
+ 
+39 
+ reached an agreement  with Reddit to use Reddit data to train its AI models .219  Universal Music  
+has entered into  a partnership with AI technology company SoundLabs  to provide an “ethically ” 
+trained voice cloning tool  for its artist s.220  Disney Music has licensed  AI music startup 
+AudioShake to “open up” Disney’s historic catalog of works to new uses.221  The Copyright 
+Clearance Center, an organization that licenses journal articles and other text -based materials, 
+has extended its collective licensing service to cover AI uses.222  These are just some of the 
+licensing arrangements  that have been publicly disclosed ; undoubtedly there a re many deals  that 
+have not been made public or are still in the  pipeline . 
+ 
+The narrative being promoted by AI companies and their defenders is that  licensing content  to 
+train and develop AI systems  is “impossible .”223  But AI companies have  demonstrated that they 
+are capable of entering into license arrangements  when  they see value in the licensed content .  
+We are still in the early days o f generative AI licensing, so the marke t is not yet mature.  But it is 
+active .224  In addition to  licensing deals for large  corpora of works , we will likely see  growth in 
+niche markets for specialized content and works of individual creators  who choose  to participate .   
+ 
+AI advocates have been know n to assert  that the appropriation of copyrighted works to develop 
+and operate AI models does not interfere with copyright owners’ legitimate economic interests 
+because the authors of books, movies and music  did not produce th ose works with the intent  of 
+populating gener ative  model s.225  While such an assertion may be true as far as it goes,  the claim 
+ 
+219 Annelise Gilbert, Google -Reddit AI Deal Hearlds New Era in Social Media Licensing , Bloomberg Law 
+(Mar. 7, 2024), https://news.bloomberglaw.com/ip -law/google -reddit -ai-deal-just-the-start-for-social -
+media -licensing ,  
+220See Mandy Dalugdug, Universal Music artists get access to AI voice cloning tool via UMG’ s new deal 
+with tech startup SoundLabs , Music Business Worldwide (June 19, 2024), 
+https://www.musicbusinessworldwide.com/universal -music -artists -get-access -to-ai-voice -cloning -tool-
+via-umgs -new-deal-with-tech-startup -soundlabs/ .  
+221 Murray Stassen, Disney Music Group Strikes Deal With AI Music Startup AudioShake to ‘Unlock New 
+Listening and Fan Engagement Experiences’ for Its Catalog , Music Business Worldwide (July 15, 2024), 
+https://www.musicbusinessworldwide.com/disney -music -group -strikes -deal-with-ai-music -startup -
+audioshake -to-unlock -new-listening -and-fan-engagement -experiences -for-its-catalog/ . 
+222 Ed Nawotka, CCC Launches Collective Licensing for AI , Publishers Weekly (July 16, 2024), 
+https://www.publishersweekly.com/pw/by -topic/digital/copyright/article/95512 -ccc-launches -collective -
+licensing -for-ai.html . 
+223 See Damle, supra note 2, at 3, 12 -16 (“[E]veryone agrees that it is impossible for AI developers to  
+negotiate and acquire licenses from every rightsholder who owns a[] copyright interest in the data used to 
+train AI models.”); Lemley & Casey, supra note 7, at 770 (“[G]iven the large number of works an AI 
+training data set needs to use and the fact that thousands, if not millions, of different people own those 
+works, AI companies can’t simply license all the underlying photographs or text ….”); see also R Street , 
+supra  note 75 (“A system that required follow -on creators to negotiate with and pay those they learned 
+from would inhibit, rather than promote, the very artistic progress our IP laws seek to encourage.”).  
+224 Pointing to the robust market for “immensely valuable” user data, Sobel asserted in 2017 that “there is 
+already a thriving market for the data that fuel expressive machine learning.”  Sobel, Fair Use , supra note 
+14, at 76.  
+225 See, e.g. , Lemley & Casey, supra note 7, at 776 ( “The copyright owner of a book or photograph 
+doesn’t create that work in hopes of selling it to AIs.”).  
+
+
+40 is unconvincing .  Authors and artists of just a few decades ago likely did not  anticipate that their 
+works would  be accessed and consumed through mobile phones or watches.  But no  doubt  they 
+expect ed their copyrights to continue to protect the expressive content  embodied in those  works 
+even if that content was exploited  through means  yet to be known .   
+In evaluating market impact,  it is critical to assess not only  existing modes of exploitation,  but 
+future markets as well.  As the Supreme Court has emphasized, the statutory mandate is to 
+consider “ ‘the effect of the use upon the potential  market for or value of the copyrighted 
+work ’”226—not just the current market —including  opportunities “ that creators of original works 
+would in general develop  or license others to develop .”227  This includes potential markets for 
+derivative uses.228  In other words, any potential market , including a nascent  or still -developing  
+market , is to be considered.  In American Geophysical Union v. Texaco  Inc.,229 for instance, the 
+Second Circuit rejected Texaco’s fair use defense to unlicensed copying of journal articles for 
+internal  research purposes  when licenses were available from the copyright owners.  230  The 
+court determined that p ublishers’ lost licensing  revenues  would result in  “substantial harm to the 
+value of their copyrights .”231 
+As the Second Circuit has repeatedly affirmed, “‘[i]t is indisputable that, as a general matter, a 
+copyright holder is entitled to demand a royalty for licensing others to use its copyright ed work, 
+and that the impact on potential licensing revenues is a proper subject for consideration in 
+assessing the fourth factor.’”232  The licensing market for AI training materials i s alread y far from  
+hypothetical.  The fact that AI companies are commercially motivated entities, many with 
+significant economic resources, points to continued growth in this area .233  The existence of a 
+rapidly evolving  market for materials to build  and operate AI systems weighs powerfully against 
+a finding of fair use that could extinguish  that market .   
+226 Campbell , 510 U.S. at 590 (quoting 17 U.S.C. § 107 (emphasis added)) ; Harper & Row , 471 U.S. at 
+566 (same) . 
+227 Campbell , 510 U.S. at 592; see also Seuss , 983 F.3d at 460 (same).  
+228 Id. at 590 (fair use analysis “‘must take account not only of the harm to the original but also of harm to 
+the market for derivative works’”) (quoting Harper & Row , 471 U.S. at 56 8)).  
+229 60 F.3d 913. 
+230 Id. at 930 -31 (“Though the publishers still have not established a conventional market for the direct 
+sale and distribution of individual articles, they have created, primarily through the C[opyright] 
+C[learance] C[enter], a workable market for institutional users to obtain licenses for the right to produce 
+their own copies of individual articles via photocopying.”).  
+231 Id. at 931.  
+232 TVEyes , 883 F.3d at 180 (quoting Bill Graham Archives v. Dorling Kindersley Ltd. , 448 F.3d 605, 624 
+(2d Cir. 2006) ); see also Texaco , 60 F.3d at 929 (same) .  
+233 See Lemley  & Casey , supra note 7, at 765 (“Commerciality often goes hand in hand with a market 
+effect ….  M[achine] L[earning] companies might be natural candidates for a licensing market: large for -
+profit companies that stand to benefit financially from using copyrighted works …. ”). 
+
+
+ 
+ 
+41 
+ Conclusion   
+ 
+The Copyright Act protects works of human authors, not of machines .234  At this early stage, we 
+do not yet know  how generative AI will impact human authorship , or creative culture in general .  
+Will there be less incentive for humans to create works , and for publishers to invest in and 
+disseminate those works , because the human works are competing with AI -generated content ?  
+Conversely, will humans find it worthwhile to spend time engaging with AI systems to produce 
+content that is not protected by copyright and can be freely exploited by others?  If human 
+authorship declines, will there be a corresponding decline in the appeal of AI-generated content 
+as AI machines re ly on  the same materials over and over?  Is the  ability to produce an infinite 
+number of texts, images or songs unconnected with a human artist actually of meaningful social 
+value?235  Is an essentia l aspect  of the human experience of and appreciation for art the fact that 
+it is made  by a human author?236 
+ 
+This article explains  why unauthorized copying by AI companies to build and operate generative 
+AI systems is not, as claimed, “quintessential fair use.”  There is no fair use  precedent t hat 
+legitimizes  mass  copying and  exploitation of  the expressive content  of creative works  by for -
+profit entities .  Apart from doctrinal concerns, a n overly broad application  of fair use to exempt 
+unconstrained copying by AI companies could effect  a potentially enormous  transfer of value 
+from the creators and owners of copyrighted works to the commercial  entities  that seek to exploit  
+  
+ 
+234  As confirmed in  Thaler v. Perlmutter , 687 F. Supp. 3d 140 , 147 -48 (D.D. C. 2023), which upheld the 
+Copyright Office’s refusal to register an AI -generated work, in referring to “authors” the Copyright Act 
+means human authors.  Id. at 147.  As the Thaler court explained, although copyright “is designed to 
+adapt with the times,”  there has been “ a consistent understanding that human creativity is the sine qua non 
+at the core of copyrightability , even as that human creativity is channeled through new tools or into new 
+media. ”  Id. at 146 . 
+235 See, e.g. , UMG Compl. , supra  note 213, ¶ 12 (alleging that AI defendant Udio generates 10 music files 
+per second, or 6 million files per week , from copyrighted sound recordings).  
+236 Some more broadly question whether the  enormous  investment in generative AI will yield net social 
+benefits .  As encapsulated by MIT professor Daron Acemoglu in an AI -focused report by Goldman Sachs : 
+ 
+Technology that has the potential to provide good information can also provide bad 
+information and be misused for nefarious purposes.  I am not overly concerned about 
+deepfakes at this point, but they are the tip of the iceberg in terms of how bad actors 
+could misuse generative Al.  And a trillion dollars of investment in deepfakes would add 
+a trillion dollars to GDP, but I don’t think people would be happy about that or benefit 
+from it.  
+ 
+Nathan, Grimberg & Rhodes, Gen AI: Too Much Spend, Too Little Benefit , Goldman Sachs, at 5 
+(June 25, 2025) (interview of Daron Acemoglu) ; id. at 10 (“AI technology is exceptionally 
+expensive, and to justify those costs, the technology must be able to solve complex pro blem s, 
+which it isn’t designed to do.”) ( interview of Jim Covello, head of Goldman Sachs global equity 
+research).  
+
+
+42 them .  An unprecedented exception to copyright with such far -reaching consequences  is not a 
+question of fair use but rather  a fundamental  question of copyright policy  for Congress  to 
+decide .237  
+237 “The Congress shall have Power … To promote the Progress of Science and useful Arts, by securing 
+for limited Times to Authors and Inventors the exclusive Right to their respective Writings and 
+Discoveries.”  Const. art. I, § 8, c l.8.  In fact, Congress has already begun to consider  the challenges 
+presented by gen erative  AI.  See, e.g. , Artificial Intelligence and Intellectual Property: Part II – Identity 
+in the  Age of AI: Hearing Before the U.S. H. Comm. on the Judiciary, Subcommittee on Courts, 
+Intellectual Property, and the Internet , 118th Cong. (Feb. 2, 2024 ); Oversight of A.I.: Legislating on 
+Artificial Intelligence: Hearing Before the U.S. S. Comm. on the Judiciary , 118th Cong.  (Sept. 12, 2023); 
+Artificial Intelligence and Intellectual Property: Part I –Interoperability of AI and Copyright Law: 
+Hearing Before the U.S. H. Comm. on the Judiciary, Subcommittee on Courts, Intellectual Property, and 
+the Internet , 118th Cong.  (May 17, 2023) .  In examini ng these issues, Congress has the benefit of advice 
+from the U.S. Copyright Office, which has undertaken a mult ipart study on copyright and artificial 
+intelligence .  See U.S. Copyright Office, Artificial Intelligence Study , 
+https://www.copyright.gov/policy/artificial -intelligence/  (last visited July 8, 2024 ) (“Copyright Office AI 
+Study”) .  The Copyright Office issued the first installment  of its study  in July  2024, recommend ing 
+legislation to address AI-generated “digital replicas,” or deepfakes, that imitate individuals’ images or 
+voices.   U.S. Copyright Office , Copyright and Artificial Intelligence: Part 1: Digital Replicas  57 (2024) , 
+https://www.copyright.gov/ai/Copyright -and-Artificial -Intelligence -Part-1-Digital -Replicas -Report.pdf  
+(“The Copyright Office agrees with the numerous commenters that have asserted an  urgent need for new 
+protection at the federal level. ”)  A bipartisan bill to protect against deepfakes was introduced by the 
+Senate  on July 31, 2024 .  See Nurture Originals, Foster Arts, and Keep Entertainment Safe (NO FAKES) 
+Act of 2024, S. 4875 , 118th Cong. (2024).  
+
+

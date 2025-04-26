@@ -1,0 +1,407 @@
+ 
+ 
+NSF AI Institute for ARtificial and Natural Intelligence ARNI 
+ 
+   
+https://arni-institute.org 
+ 
+Response to the NSF Request for Information on the Development 
+of an Artificial Intelligence (AI) Action Plan 
+ 
+ 
+Contributors:  
+Richard  Zemel,  Director  (Columbia  University)  
+Xaq Pitkow , Associate  Director  (Carnegie  Mellon  University)  
+Spyridon  Mylonas,  Managing  Director  (Columbia  University)  
+Co-PIs:  Kathleen  McKeown  (Columbia  University),  Ken Miller  (Columbia  University),  Liam  
+Paninski  (Columbia  University)  
+Other  ARNI  Faculty:  Nikolaus  Kriegeskorte  (Columbia  University),  Tony Ro (CUNY  Graduate  
+School)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document  is approved  for public  dissemination.  The document  contains  no 
+business-proprietary  or confidential  information.  Document  contents  may be (90 FR 9089 ) 
+reused  by the government  in developing  the AI Action  Plan and associated  documents  without  
+attribution.  
+  
+This Institute is supported by the National Science Foundation and by DoD OUSD (R&E) under Cooperative 
+Agreement PHY-2229929 
+ 
+
+
+Introduction 
+ 
+NSF ARNI’ s mission  is to reach  the next level  of brain-like  AI. We aim to achieve  strong  
+generalization  by connecting  the remarkable  progress  in AI systems  with the revolution  that is 
+happening  in our understanding  of the brain.  This interdisciplinary  research  is what  we call 
+“NeuroAI.”  Progress  in this field has the potential  to transformatively  impact  the economy  and 
+society  in the next decade.  
+ 
+Despite  stunning  advances,  there  are three  huge  weaknesses  for AI systems:  they depend  on 
+enormous  training  data,  burn huge  amounts  of energy, and, most  critically , can make  egregious  
+errors.  We seek to overcome  these  obstacles  by drawing  inspiration  from  the brain’ s 
+architectures,  circuits,  and learning  mechanisms.  Our goal is to develop  AI with stronger  
+generalization  and more  human-like  efficiency  and adaptability . 
+ 
+The current  boom  in AI in fact is driven  by neural  network  models  inspired  by biological  neural  
+networks.  The idea was that by taking  many  artificial,  simplified  nerve  cells,  or neurons,  and 
+learning  how to connect  them,  we could  do hard computations  like the human  brain.  This 
+learning-based  approach  to AI was totally  different  from  earlier  approaches  based  on logic  and 
+design.  Eventually , with enough  data and computational  power , the neural  network  models  
+started  working.  Once  that idea took root, massive  engineering  efforts eventually  led to successes  
+in language  models,  generative  images  and video,  and robotics.  This approach  was so successful  
+compared  to other  approaches  that one of the luminaries  of the field and recent  Turing  Award  
+winner , Richard  Sutton,  penned  a short  essay  called  “the Bitter  Lesson”  in which  he said that our 
+cleverest  ideas  didn’ t help:  only more  data and bigger , brute  force  compute  mattered.  We had to 
+“go big.”  This current  approach  has its costs.  
+ 
+First,  progress  was powered  by voracious  data centers,  burning  city-scale  energy and using  
+thousands  of times  more  energy than our brains.  Some  engineering  efforts,  like DeepSeek  from  
+China,  have  claimed  to dial back  the amount  of energy required,  but the consumption  of energy 
+remains  huge.  
+ 
+Second,  even  with unlimited  energy, we’re  running  out of data.  Language  models  are now 
+trained  on essentially  all text ever published  by humans.  We cannot  just use machines  to generate  
+more  text without  poisoning  the data by snowballing  mistakes.  
+ 
+Third,  our best AI systems  remain  largely inscrutable,  still making  errors  that range  from  
+amusing  to appalling.  They  cannot  be trusted  with important  decisions  in medicine,  economics,  
+business,  law, and many  other  domains  where  common  sense  and reasoning  are critical.  
+ 
+We believe  NeuroAI  is poised  to address  many  of these  challenges.  AI was originally  
+revolutionized  by brain-inspired  neural  networks.  We now have  much  richer  knowledge  of the 
+brain’ s inner  workings.  The time is right  for a NeuroAI  revolution,  one that incorporates  our 
+impressive  new neuroscience  knowledge  about  biological  intelligences  honed  over eons.  
+ 
+In the last decade,  neuroscience  has made  groundbreaking  progress  in measuring  and 
+understanding  neural  activity  and learning.  We can now measure  up to a million  neurons  at the 
+1 
+
+same  time in a functioning  brain.  We have  now reconstructed  the wiring  of hundreds  of 
+thousands  of neurons.  With these  data,  our analyses  have  discovered  core principles  of how 
+countless  neurons  act together  to encode  information  about  the world,  make  decisions,  and drive  
+complex  movements.  Neurotechnology  continues  to improve  rapidly . 
+ 
+However , these  neuroscience  insights  have  yet to be integrated  into AI. Through  biologically  
+inspired  architectures,  neuromorphic  computing,  and principles  of cortical  learning,  NeuroAI  
+research  can lead to breakthroughs  in continual  learning,  energy-ef ficient  inference,  and 
+explainable  AI. While  the impressive  and attention-grabbing  models  of the last couple  years  
+made  advances  through  heavy  compute  and data,  our aim is to “Go Small”,  to take the brain  as 
+an existence  proof  that we can use to inspire  advances  in these  directions.  
+ 
+Additionally , Large Language  Models  (LLMs)  and Vision  Language  Models   (VLMs)  have  
+created  a paradigm  shift in  AI, taking  systems  to a level  far beyond  what  was possible  even  five 
+years  ago. These  models,  however , still have  significant  problems  in performance.  They  tend to 
+hallucinate,  making  up facts  out of thin air, causing  difficulties  in using  them  in deployment;  for 
+example,  recently  Apple  was forced  to take down  its news  summarizer  after it incorrectly  
+covered  a BBC  news  report.  Models  operate  as black  boxes  making  explainability  and 
+interpretability  difficult.  They  encode  the distribution  of their training  data,  making  accurate  
+generalization  difficult  when  the distribution  shifts.   
+ 
+There  is clear  competition  internationally , including  European  initiatives  like the Human  Brain  
+Project  and China’ s aggressive  state-backed  investments  in neuromorphic  chips,  brain-inspired  
+algorithms,  and next-generation  AI systems.  Leadership  in the face of such unconventional  rivals  
+calls for stronger  interdisciplinary  collaborations  between  AI, neuroscience,  and cognitive  
+science  — as fostered  by our NSF AI Institute.  
+ 
+This document  presents  our recommendations  for incorporating  NeuroAI  into the NSF AI Action  
+Plan.  
+ 
+Our thesis:   
+Investing  in interdisciplinary  Neur oAI resear ch at the intersection  of AI, neur oscience,  and 
+cognitive  science  is critical  for the U.S. to maintain  its leadership  in artificial  intelligence,  
+particularly  as Europe and China  make  significant  advances  in this field.  
+ 
+Our Recommendations on Research and Development 
+Priorities 
+ 
+Our recommendations  can be divided  according  to the essential  focus  on the bidirectional  
+interaction  between  AI and neuroscience/cognitive  science.  We first present  priorities  that 
+address  how cognitive  science  and neuroscience  can inspire  AI, and then on AI’s contributions  to 
+advancing  these  fundamental  areas  of research.  We then discuss  additional  recommendations  
+considering  how AI research  can play key roles  in society  and internationally . 
+2 
+
+I. Gaining inspiration from neuroscience and cognitive science to 
+advance 
+ 
+Brain-Inspired AI Architectures 
+● NSF should  prioritize  research  in biologically  plausible  neural  networks  at both the 
+hardware  and software  level.  Relevant  approaches  to explore  include  spiking  neural  
+networks  (SNNs),  neuromorphic  computing,  networks  with recurrence  and feedback,  
+networks  with excitatory  and inhibitory  cells and their subtypes,  and roles  of dendrites  in 
+computation.   
+● Strategically  support  commercialization  of neuromorphic  chips,  which  remains  limited.  
+● Encouraging  collaboration  between  AI researchers  and neuroscientists  to develop  AI 
+models  that leverage  brain-like  processing  for improved  learning  and generalization.  
+● Supporting  the development  of hybrid  architectures  combining  traditional  deep  learning  
+and neuroscience-inspired  models.  
+ 
+Developing Neuroscience Foundation Models 
+● Create  multimodal  foundation  models  capable  of translating  and predicting  neural  
+activity  across  different  brain  regions  and behaviors.  
+● Leverage  self-supervised  learning  on large-scale  datasets  to enable  cross-subject  
+generalization.  
+● Improve  BCI adaptability  and robustness  with minimal  training  data and cross-species  
+learning.  
+● Ensure  accessibility  by providing  open-source  models  and APIs  for broad  research  
+adoption.  
+ 
+Establishing Neuroscience Benchmarks 
+● Launch  benchmarking  challenges  to assess  model  performance  on diverse  neural  
+datasets.  
+● Focus  on evaluating  generalizability , robustness,  and prediction  accuracy  across  species  
+and recording  conditions.  
+● Utilize  models  for quality  control,  detecting  artifacts,  and refining  neural  datasets.  
+ 
+Neuroscience-Informed Learning Models 
+● Prioritize  funding  research  into biologically  inspired  learning  mechanisms  such as local  
+rules  of synaptic  plasticity , along  with possible  gating  of learning  by modulatory  factors  
+and by inhibition  of top-down  inputs;  memory  consolidation;  and predictive  coding.  
+● Exploring  the role of sleep  and replay  mechanisms  in AI model  optimization  and 
+continual  learning.  
+● Consider  modules  that focus  on different  forms  of learning,  inspired  by the major  
+divisions  of vertebrate  intelligence.  These  include  a cerebellum,  which  is involved  in 
+3 
+
+online  learning  from  feedback  about  errors,  and basal  ganglia,  a center  for reward  
+learning  and for procedural  learning.  The vertebrate  brain  also includes  a forebrain  or 
+telencephalon,  which  in mammals  has primarily  become  the cerebral  cortex,  which  does 
+associative  learning  and builds  complex  world  representations.  There  is a rich interplay  
+between  the three.  Understanding  the principles  behind  this modular  design  might  benefit  
+AI, and conversely , exploring  AI built upon  such modules  might  help reveal  these  
+principles.  
+● Another  modular  design  feature  to explore  is the division  within  the cortex  between  
+episodic  and factual  learning  (“knowing  that”),  which  depends  on the hippocampus  and 
+its interplay  with the rest of cortex;  and motor  and procedural  learning  (“knowing  how”),  
+which  depends  on the interplay  between  cortex  and basal  ganglia.   
+● Promote  energy-ef ficient  AI algorithms  inspired  by the brain’ s adaptive  learning  
+processes.  
+ 
+Neuro-Symbolic AI for Explainability 
+● Encouraging  the development  of hybrid  Neuro-Symbolic  AI systems  that integrate  neural  
+network  learning  with symbolic  reasoning,  inspired  by hierarchical  processing  in the 
+brain.  
+● Investigating  how cognitive  neuroscience  insights  can improve  AI’s ability  to abstract,  
+reason,  and generalize  across  tasks.  
+● Supporting  research  in AI models  that mimic  hierarchical  decision-making  observed  in 
+the human  brain.  
+ 
+Advancing AI through Neural and Cognitive Mechanisms 
+● State-of-the-art  models  hallucinate  and inherit  skews  based  on their training  data,  
+preventing  strong,  reliable  generalization.  
+● While  humans  and other  animals  learn  continuously , gaining  abilities  in new tasks  and 
+domains  while  not losing  past skills,  current  models  forget when  tuned  to new data.  
+● Incorporating  memory  mechanisms  in current  AI models  is a promising  approach.  
+● Prioritize   funding  on continual  learning  to develop   new learning  approaches  based  on 
+cognitive  memory  mechanisms.  Improved  evaluation  of models’  ability  to learn  over 
+time.  
+ 
+Energy-Efficient AI Inspired by Biology 
+● Encouraging  research  on neural  network  architectures  and objectives  that yield  more  
+energy-ef ficient  models.  
+● Encouraging  research  on neural  network  models  that can flexibly  trade  off different  costs,  
+such as energy, errors,  and inference  time.  
+● Supporting  theoretical  work  on the energy-ef ficiency  of neural  computations  in biological  
+and engineered  systems.  
+● Supporting  research  into neuromorphic  computing  hardware  inspired  by the brain’ s 
+low-power  processing.  
+4 
+
+● Aligning  NSF’ s AI hardware  initiatives  with brain-like  computing  models  to enable  
+sustainable  AI advancements.  
+● Supporting  faster  commercialization  of neuromorphic  computing  advancements.  
+ 
+Neuroscience-Inspired AI Safety and Robustness 
+● Exploring  how biological  mechanisms  such as uncertainty  estimation,  adaptation,  and 
+fault tolerance  can improve  AI safety . 
+● Support  development  of AI models  that incorporate  robustness  and resilience  similar  to 
+biological  cognitive  processes.  
+● Supporting  research  in adversarial  robustness  using  principles  from  the brain’ s error  
+correction  mechanisms.  
+ 
+II. Using AI to Advance Neuroscience and Cognitive Science 
+ 
+AI for Understanding Brain Function 
+● Promoting  AI-driven  analysis  of large-scale  neural  datasets  to accelerate  neuroscience  
+discoveries,  leading  to new hypotheses  and insights  about  brain  function,  and improved  
+understanding  of cognitive  processing.   
+● Supporting  research  to develop  AI models  that replicate  cognitive  functions  such as 
+attention,  perception,  and memory . 
+● AI for improved  neural  signal  and behavioral  video  processing  
+ 
+AI for Mental Health and Neurological Disorders 
+● Advancing  AI applications  for interpreting  neural  data can assist  in early  diagnosis  and 
+treatment  of neurological  conditions  such as Alzheimer ’s, Parkinson’ s, and epilepsy . 
+● Developing  AI-powered  mental  health  tools  that leverage  brain-inspired  modeling  for 
+personalized  treatment  approaches.  
+● Addressing  challenges  related  to transparency , and ethical  considerations  in AI-driven  
+healthcare  solutions.  
+ 
+AI and Brain-Computer Interfaces (BCIs) 
+● Investing  in AI-driven  BCIs  for medical  and assistive  technologies,  including  
+neuroprosthetics,  sensory  and motor  prostheses,  neural  population  decoding  methods,  and 
+neurostimulation  protocols.  
+●  and adaptive  rehabilitation  systems.  
+● Ensuring  ethical  AI development  in BCIs,  addressing  concerns  regarding  privacy  and 
+security . 
+● Supporting  real-time  adaptive  AI algorithms  for improved  human-AI  interaction  via 
+neural  interfaces.  This requires  algorithms  for using  both input  and output  hardware,  
+reading  from  and writing  to the brain.  
+ 
+5 
+
+Understanding Animal Cognition through AI 
+● AI models  trained  on human  cognition  can help study  non-human  intelligence  and 
+cognitive  evolution.  
+ 
+III. Additional Priorities 
+ 
+Enhancing AI Benchmarks,  Evaluation and Methods for Vision and Language 
+Tasks 
+● Research  is needed  into new benchmarks  for challenging  tasks,  along  with appropriate  
+evaluation  methods.   
+○ This will enable  extension  of LLMs  and VLMs  to new, creative  tasks,  where  they 
+have  been  shown  to perform  poorly .  
+○ Research  has shown  that human  evaluation  of LLM  output  is flawed,  likely  due to 
+the fluency  of the language,  and new human  evaluation  protocols  are needed.  
+○ At the same  time,  automatic  metrics  that can accurately  judge  novel  tasks  are also 
+needed  (e.g.,  has stance  been  conveyed  when  generating  perspective  summaries?).   
+● Promising  directions  for improvement  in hallucination  includes  grounding  generation  in 
+intermediate  knowledge,  detecting  and addressing  subjectivity  in the output,  and the use 
+of  interacting  agents  that can critique  each other  through  approaches  like red-teaming,   
+● As we move  to new tasks  involving  creativity , promising  directions  include  synthetic  data 
+generation  when  paired  with good  verifiers.   
+○  Inference  time scaling  and post training  are incredibly  powerful  for tasks  with 
+verifiers.   
+○ Developing  verifiers  for creative  tasks  is still in its infancy .  
+● Research  in cognitive  modeling  can help in developing  new approaches  that are better  
+aligned  with human  behavior , helping  to guide  a model  in where  to focus  attention  in data 
+to avoid  encoding  skewed  distributions  and to learn  how to update  knowledge  
+appropriately  over time.  
+●  For all methods,  we need  new approaches  that are computationally  more  efficient.   
+○ Research  into text diffusion  models  is in early  stages  and shows  promise,  in some  
+cases  showing  similar  performance  as LLMs  at a fraction  of the cost.  
+ 
+Societal Implications of NeuroAI 
+● Addressing  policy  concerns  related  to AI systems  that mimic  human  cognition  and 
+decision-making  processes.  
+● Establishing  guidelines  for the responsible  use of NeuroAI  in critical  applications,  
+including  medical  and defense-related  domains.  
+● Encouraging  public  engagement  and discussion  on the societal  impact  of AI systems  
+modeled  after human  brain  functions.  
+ 
+6 
+
+International Competition and the Need for U.S. Leadership in NeuroAI 
+● China,  UK, and Switzerland,  followed  by the European  Union,  Canada,  and Japan  are 
+heavily  investing  in Neur oAI resear ch, recognizing  its strategic  importance  for 
+futur e AI advancements . Areas  of focus  pertain  neuromorphic  hardware,  computational  
+models  of cognition,  and frontier  areas  of research  e,g, brain-inspired  deep  learning,  
+reinforcement  learning,  spiking  neural  networks  and robotics  to name  a few. In particular , 
+China  has launched  major  national  initiatives  in brain-inspired  computing,  neuromorphic  
+chips,  and cognitive  AI, integrating  neuroscience  with AI to enhance  efficiency , 
+intelligence,  and adaptability .  
+● The Chinese  government  has established  dedicated  research  centers,  significantly  
+increased  funding,  and fostered  collaborations  between  industry  (Huawei,  Cambricon  
+technologies,  Baidu  Brain)  and academia  (Peking  University , Fudan  University)  to 
+accelerate  progress  in this domain.  Their  major  initiatives  include  China  Brain  Project  
+and the New  Generation  AI Development  Plan (2017-2030)  that prioritize  human  
+brain-inspired  AI research.   
+● To maintain  U.S. leadership  in AI, it is crucial  for NSF and other  federal  agencies  to  
+○ provide  sustained   strong  funding  and infrastructure  support  for research  at the 
+intersection  of AI, neuroscience,  and cognitive  science  
+○ Support  the ever-growing  AI hardware  sector  (BCIs  and neuromorphic  chips)  
+○ Invest  on academia-industry  consortia   
+○ workforce  development  
+ 
+Training the Next Generation of  Global Leaders in Neuroscience and AI 
+● AI & Neur oscience  Curriculum : Support  the development  of specialized  curricula  at 
+the intersection  of AI, neuroscience,  and cognitive  science.  For instance,  ARNI,  in 
+collaboration  with Neuromatch  Academy , has been  co-developing  a NeuroAI  course  that 
+explores  shared  principles  of intelligence  between  brains  and machines.  
+● Interdisciplinary  Training:  Establish  joint AI-Neuroscience  Ph.D.  programs,  
+postdoctoral  fellowships,  and research  institutes  to foster  cross-disciplinary  expertise  and 
+drive  innovation  at the interface  of AI and neuroscience.  
+ 
+Industry-Academia Collaboration: 
+● Public-Private  Partnerships:  Facilitate  collaboration  between  academia,  industry , and 
+government  to accelerate  AI advancements  and ensure  real-world  applications  of 
+NeuroAI  research.   
+● Data  Sharing:  Encourage  companies  to share  available  data-sets  through  mutual  
+collaboration.  Companies  contributing  data can benefit  from  AI-driven  insights  and 
+collaborative  research  
+● Strengthening  industry-academia  collaborations:  Faster  commercialization  of AI 
+innovations  from  academia  
+● Joint  Academia-Industry  Resear ch Consortia:  Encourage  joint research  initiatives  
+where  academic  institutions,  industry  partners,  and startups  co-develop  AI models  and 
+applications  inspired  by neuroscience.  
+7 
+
+● Government-Industry  seed funding  and compute  resour ces  provided  to accelerate  
+startup  launch  from  academia.  
+● AI-Neur oscience  Talent  Pipeline:  Develop  targeted  funding  programs,  internships , and 
+fellowship  opportunities  to train the next generation  of AI and neuroscience  researchers  
+in both academia  and industry . 
+● AI Regulation  and Ethics  Frameworks:  Work closely  with industry  stakeholders  to 
+create  responsible  AI policies  that balance  innovation  with ethical  and societal  
+considerations.   
+Infrastructure and Computing Needs 
+● High-Performance  Computing  for Neur oscience : Invest  further  in computing  clusters  
+for large-scale  neural  simulations  and brain-inspired  AI training.  These  are strategic  
+assets  in the AI economy  era.  
+● Long-T erm Resear ch Funding : Provide  sustained  support  for foundational  AI and 
+neuroscience  research  beyond  short-term,  application-driven  funding  cycles.  
+Brain-inspired,  energy-ef ficient  research  will provide  the innovating  country  with a 
+lasting  advantage  in optimizing  and advancing  AI applications.  
+● Data  Sharing  and Accessibility : Establish  standardized,  secure  platforms  for sharing  
+neuroscience  and AI datasets  while  ensuring  ethical  use and privacy  protections.  
+The Role of the 27 NSF-Funded National AI Research Institutes 
+The National  AI Research  Institutes  were  established  to drive  long-term  interdisciplinary  AI 
+research  and reinforce  U.S. academic  leadership  and global  competitiveness  in an AI-driven  
+world.  We strongly  recommend  expanding  their  role as strategic  assets  within  a National  AI 
+Plan for Innovation.    
+ 
+Each  institute,  with its unique  research  focus,  serves  as a critical  hub for government,  academia,  
+and industry  collaboration.  Strengthening  support  and funding  will enable  these  institutes  to 
+accelerate  AI innovation,  drive  real-world  applications,  and foster  the growth  of startups  that can 
+become  the next Google!  Additionally , they play a pivotal  role in training  the next-generation  AI 
+workforce  in interdisciplinary  AI research  and by developing  field-defining,  specialized  
+curricula.  An example  is the co-developed  ARNI-Neuromatch  NeuroAI  course  for graduate  
+students  and postdoctoral  fellows.    
+ 
+Expand  Funding : Enhance  the National  AI Research  Institutes’  capacity  to drive  innovation,  
+commercialization,  and support  workforce  development.    
+Leverage  Specialized  Expertise : Develop  targeted,  high-impact  interdisciplinary  training  
+programs  to nurture  the future  global  AI leaders.    
+Support  Resear ch Commer cialization : Strengthen  pathways  for translating  AI research  into 
+impactful  technologies,  applications,  and startup  ventures.  
+ 
+8 
+
+Conclusion 
+ 
+NeuroAI  has the potential  to revolutionize  AI by making  it more  efficient,  interpretable,  and 
+aligned  with human  cognition.  NSF should  actively  support  interdisciplinary  research  between  
+AI and neuroscience  communities,  fostering  innovation  in brain-inspired  AI models  and their 
+responsible  application.  Our recommendations  highlight  the key areas  where  NeuroAI  can 
+contribute  to the AI Action  Plan,  ensuring  that future  AI systems  are both advanced  and ethically  
+sound.  
+ 
+Academic  research  has long driven  American  innovation,  from  the birth  of Silicon  Valley  to 
+Boston's  emer gence  as a global  biotech  hub to the deployment  of AI and energy advancements.  
+These  contributions  fuel economic  growth,  create  jobs,  and secure  lasting  advantages  for the 
+U.S. in an evolving  global  landscape.  Increased  funding  towards  academic  research  alongside  a 
+stronger  partnership  with industry , will be able to advance  AI and sustain  US dominance  in the 
+field.   
+ 
+We welcome  the opportunity  to discuss  these  recommendations  further  and contribute  to shaping  
+the NSF AI Action  Plan.  
+9 
+

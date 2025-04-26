@@ -1,0 +1,211 @@
+    March 1
+1 
+Comments of News Corporation to the Office of Science and Technology Policy and 
+National Science Foundation 
+Re: Development of an Artificial Intelligence (AI) Action Plan 
+Artificial intelligence is reshaping the global economy, and America’s leadership 
+depends on securing its key inputs: chips, energy, and data. While the U.S. has implemented 
+strategies to bolster semiconductor production and energy infrastructure, it lacks a clear policy to effectively protect and incentivize domestic data production—an essential component for AI. This gap risks undermining both America’s AI competitiveness and national security. 
+News Corporation (“News Corp”) submits these comments to the Office of Science and 
+Technology Policy and the National Science Foundation in response to the request for input on an Artificial Intelligence Action Plan (“AI Action Plan”). As a leading global media and information services company—including properties such as The Wall Street Journal and the New York Post—News Corp produces high-quality journalism, an indispensable data source for AI models. Yet,  U.S. policies fail to safeguard effectively this critical resource—in which 
+America should have a crucial comparative advantage, especially relative to China—allowing AI firms to exploit content without permission or compensation. 
+Just as the U.S. has prioritized chips and energy, it must now protect and foster domestic 
+data, or content, production. President Trump has laid the groundwork for such a strategy, emphasizing the need to stop foreign entities from “stealing our intellectual property” and reinforcing that respecting intellectual property is essential to AI development.
+1 The White 
+House’s AI Action Plan should build on this by incentivizing high-quality data creation and protecting American-made data from foreign interests. As a first step, the White House should investigate content as a critical input in the AI supply chain, an area that is currently poorly understood because of the “black box” nature of AI development. Absent a clear understanding of content’s criticality for AI, it will not be possible to create and effectuate an AI Action Plan.  
+Second, the AI Action Plan should assess what steps are required for protecting American content resources from digital parasites and pirates, including foreign AI rivals. Without decisive action, the U.S. risks ceding its AI advantage to competitors like China . 
+1 Fact Sheet: President Donald J. Trump Encourages Foreign Investment While Protecting National Security , The 
+White House (February 21, 2025) https://www.whitehouse.gov/fact -sheets/2025/02/fact -sheet-president-donald-j-
+trump-encourages- foreign-investment -while-protecting- national-
+security/#:~:text=The%20Trump%20Administration%20will%20consider,Civil%20Fusion%20(MCF)%20strategy ; 
+Artificial Intelligence for the American People, Trump White House Archives 
+https://trumpwhitehouse.archives.gov/ai/  (“The United States has long been a champion and defender of the core 
+values of … respect for intellectual property, and opportunities to all to pursue their dreams. The AI technologies we develop must also reflect these fundamental American values”.).  
+
+
+2 The U.S. Lacks a Plan to Produce and Protect Data—a Key AI Input 
+Large language models and their AI applications depend on three primary inputs: model 
+design, computing power, and data. The design of AI models is driven by talent, as researchers 
+and engineers develop the architectures that drive innovation. Computing power relies on 
+advanced chips and a steady supply of energy to train and run AI systems efficiently. Increasing 
+volumes of high-quality data, in the form of a constant flow of new and diverse information, is necessary for training and deploying larger and more advanced AI. As AI advances, competition for these essential resources continues to intensify. 
+To secure its position in the global AI arms race, America has focused thus far on 
+dominance in just chips and energy. To boost domestic chip manufacturing, for example, the prior Administration issued tens of billions of dollars in financial incentives and tax breaks . 
+President Trump is successfully encouraging private-sector investment, recently announcing a $100 billion-dollar TSMC-backed investment in domestic chip manufacturing. In terms of energy, the Administration declared a national energy emergency and announced the Stargate Project, which at $500 billion dollars is the largest investment in AI infrastructure in history. At the same time, the U.S. has moved to protect its advantage by imposing export controls that limit China’s access to advanced chip technology, reinforcing America’s competitive edge.
+2 
+Just as America has prioritized chips and energy, it must protect and control another 
+critical input for AI: data. While chips and energy power AI systems, data is the fuel that enables them to learn, improve, and remain competitive. The ability to produce, access, and safeguard high-quality data is therefore essential. Without a clear strategy to secure data production and its protection, America risks falling behind in the global AI race. 
+U.S. Economic Policy Currently Disincentivizes Domestic Data Production 
+Advancements in AI depend on access to vast amounts of high-quality data.
+3 To 
+illustrate, Meta’s Llama 1 model, released in February 2023, trained on approximately 1.4 
+trillion “tokens” of content, while Llama 2 increased that to 2 trillion.4 Llama 3, released in April 
+2024, was trained on 15 trillion tokens—a staggering 650 percent increase in data volume.5 To 
+2 The White House, a bove n 1 (February 21, 2025) (“The Trump Administration will consider new or expanded 
+restrictions on U.S. outbound investment to China in sensitive technologies, including semiconductors, artificial 
+intelligence”.). 
+3 Meta, Introducing Meta Llama 3: The most capable openly available LLM to date  (2024) 
+http://ai.meta.com/blog/meta -llama-3/ (“To train the best language model, the curation of a large, high -quality 
+training dataset is paramount.” ), 
+4 GenAI, Meta, Llama 2: Open Foundation and Fine -Tuned Chat Models  (2023) 
+https://ai.meta.com/research/publications/llama -2-open-foundation -and-fine-tuned-chat-models/.  
+5 Meta, above n 3 (2024) (“Llama 3 is pretrained on over 15T tokens that were all collected from publicly available 
+sources. Our training dataset is seven times larger than that used for Llama 2 ”.).  
+
+
+3 put this in perspective, if the model trained solely on news articles, 15 trillion tokens equates to 
+approximately 31 billion articles.6  
+But quantity alone isn’t enough—the quality of data is critical. AI models follow a 
+“garbage in, garbage out” principle: high-quality content leads to superior performance, while 
+poor data degrades results.7 As Apple put it, “data quality, much more so than quantity, is the 
+key determining factor of downstream model performance.”8 Realizing this, Chinese AI firms 
+DeepSeek and 01.AI developed models that rival American LLMs, despite using older chips and 
+less computing power, simply by prioritizing higher quality datasets.9 
+One of the most valuable sources of high-quality data for AI is professional journalism, 
+of which News Corp is a leading producer. The datasets widely used for AI training, such C4 and WebText, list American news sites among their ten most common sources.
+10 News content is 
+highly valuable for AI because, beyond documenting and contextualizing past and current events, it provides “sentences with proper grammar, vocabulary, and syntax.”
+11  
+6 Axios reports that, “The average word count for news articles has fallen from about 449 in September 2019 to 
+about 380 in February 2020 .” Sara Fischer , The new era for long -form journalism , Axios (March 9, 2021) 
+https://www.axios.com/2021/03/09/journalism -podcasts-longreads- phones-word-count?utm . The 31 billion figure 
+comes from taking the 380 figure in combination with the source at footnote 12, where authors state , “one token 
+usually corresponds to around 0.8 words”.  
+7 Lora Aroyo et al., Data Excellence for AI: Why Should You Care , arXiv (2021) https://arxiv.org/abs/2111.10391  
+(“Real-world datasets are often ‘dirty’, with various data quality problems and present the risk of ‘garbage in = 
+garbage out’ in terms of the downstream AI systems we train and test on such data.”).  
+8 Tom Gunter et al., Apple Intelligence Foundation Language Models , Apple (2024) 
+https://arxiv.org/pdf/2407.21075 . See also: Notice of Inquiry on Artificial Intelligence & Copyright: Reply 
+Comments of Meta Platforms, Inc. , Meta (2023) https://www.regulations.gov/comment/COLC -2023-0006-10332 
+(“machine learning models do not work without ‘high quality’ data —meaning that the data must be complete, de -
+duplicated, and free of errors.”); Llama Team, AI @ Meta, The Llama 3 Herd of Models , Meta (2024) 
+https://ai.meta.com/research/publications/the -llama-3-herd-of-models/ (“We found that a strong focus on high -
+quality data, scale, and simplicity consistently yielded the best results.”).  
+9 Eleanor Olcott,  Chinese AI groups get creative to drive down cost of models , Financial Times (Oct 19, 2024) 
+https://www.ft.com/content/0a6da1bb- 2bda-40f3-9645-97877eb0947c?shareType=nongift  (“Chinese AI players 
+have been competing over the past year to develop the highest quality data sets to train these “experts” to set 
+themselves apart from the competition.”); 01.AI, Yi: Open Foundation Models by 01.AI , ARXIV (2024) 
+https://arxiv.org/html/2403.04652v1  (“our data engineering principle is to promote quality over quantity for both 
+pretraining and finetuning” ). 
+10 Jesse Dodge et al., Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled  Corpus, 
+arXiv (2021), https://arxiv.org/abs/2104.08758 (documenting characteristics of the C4  datasets); Alan D. Thompson, 
+What’s in my AI? A  Comprehensive Analysis of Datasets Used to Train GPT -1, GPT-2, GPT-3, GPT-NeoX-20B, 
+Megatron -11B, MT- NLG, and Gopher , (2022), https://LifeArchitect.ai/whats- in-my-ai. 
+11 Meta, above n 8 (2023) (“a Generative AI system like a large language model trained on a dataset containing 
+sentences with proper grammar, vocabulary, and syntax will be more useful than a language model trained on 
+garbled or incomplete text. ”). Meta cites the following study as support for its learnings about quality: Lukas 
+Budach, The Effects of Data Quality on Machine Learning Performance , arXiv (2022), 
+https://arxiv.org/abs/2207.14529  (setting out dimensions for assessing data quality such as “consistent” (that content 
+refers to concepts by only one representation e.g., “New York” is not also “NYC” or “NY”), “completeness” (that 
+sentences are complete and do not contain missing values suc h as “unknown” or “NaN”), and “accuracy” (that 
+words are used correctly). Professional news journalism is clearly ‘quality’). 
+
+
+4 Every article we produce requires a significant financial investment —often thousands, if 
+not tens of thousands, of dollars. We employ journalists, subject-matter experts, photographers, 
+videographers, fact checkers, editors, and administrative staff, while also maintaining offices, equipment, and a global network of correspondents, to deliver accurate, high-quality reporting. A groundbreaking investigative series, such as the New York Post’s coverage about Hunter Biden’s 
+laptop, takes months of time-intensive work. 
+Despite the high costs of producing this high-quality “data,” the current market dynamics 
+in the U.S. disincentivizes its production. With some very limited exceptions, AI firms obtain 
+news content, including from News Corp, not by paying for it, but by scraping and copying the content from publishers’ websites—without permission or compensation. In effect, they “steal” this content, depriving the original creators of the ability to recoup their investment and disincentivizing the continued production of high-quality content for AI.
+12  
+This isn’t just the work of rogue actors. Tech giants like Meta and Microsoft scrape 
+publisher content for AI without authorization or payment.13 Others leverage their dominant 
+position to pressure news organizations into providing their journalism for free, or avail themselves of the spoils of a black market trade in stolen content.
+14 Like all producers of high-
+quality content, we face a daily barrage of unrelenting web attacks by covert third parties visiting 
+our sites and copying our works for AI training and grounding. The result: AI firms profit off these “stolen” inputs while producers of those inputs bear the cost. Such freeriding is a market 
+failure that threatens America’s AI leadership.  
+AI firms are also freeriding on publishers’ investments by deploying applications that 
+repurpose publishers’ content to provide substitute outputs. A Bing executive highlighted this 
+when explaining how Microsoft’s AI technology, built using publishers’ content without asking or paying them, means he’s “now able to stop wasting [his] time reading those sites.”
+15 This is a 
+“transfer of wealth from rightsholders to developers,” which obviously reduces production incentives.
+16  
+12 AI firms’ failure to pay for high -quality content also exacerbates America’s data shortage crisis at a time when AI 
+development already faces an impending bottleneck in written training materials. See: Pablo Villalobos et al., Will 
+We Run Out of Data? An Analysis of the Limits of Scaling Datasets in Machine Learning,  ARXIV (2022), 
+https://arxiv.org/abs/2211.04325  (warning that data online will run out this decade, potentially as soon as 2026).  
+13 Llama Team, above n 8 (2024) (“Much of the data we utilize is obtained from the web”.); Mustafa Suleyman, 
+CEO of Microsoft AI speaks about the future of artificial intelligence at Aspen Ideas Festival , NBC News (June 25, 
+2024) https://www.youtube.com/watch?v=lPvqvt55l3A , describing web content as “freeware”.  
+14 Such as ‘content contractors’ that sell the underlying contents of , for example,  a search index, including News 
+Corp’s journalism, to AI firms. In doing so, these actors harm creators who might seek to license their work  directly. 
+15 Michael Schechter, VP – Search Growth and Distribution, Microsoft , at the Microsoft Start conference in March 
+2023. 
+16 Brent A. Lutes ed., Identifying the Economic Implications of Artificial Intelligence for Copyright Policy: Context 
+and Direction for Economic Research , U.S. Copyright Office  (2025) (“If this is done without compensation to 
+rightsholders, it will serve purely as a transfer of wealth from rightsholders to developers … clearly diminishing 
+
+
+5 The issue is straightforward and critical. Just as lax shoplifting policies in certain U.S. 
+cities led to the collapse of downtown retail districts, a permissive “shoplifting policy” for digital 
+content threatens the future of content production. Imagine if chip manufacturers were forced to provide their semiconductors to AI firms for free—would they continue investing in production? 
+Of course not. The same principle applies to equally to news works, which are costly to 
+originate. The Administration’s AI policy must not reward piracy.  
+Faced with the unchecked theft of content, content creators across industries—news 
+producers, authors, movie studios, academics, musicians, and recording artists—have been forced to spend time and money on legal action to defend their property rights. Lawsuits are mounting, but litigation is an expensive, slow-moving process that only further discourages investment in content production and investor confidence. Instead of supporting AI growth, the 
+current system punishes those who create the very data that AI depends on. Without the 
+continued creation of quality content to fuel AI’s growth, AI products will stall and be vulnerable to being overtaken by foreign competitors. 
+To support America’s continued dominance in AI, the AI Action Plan should incentivize 
+domestic data production—a key AI input—by better securing property rights for content producers. As a first step, the White House should further investigate content as a critical input in the AI supply chain. Protecting the ownership of high-value data is an economic imperative that 
+implicates national security. 
+U.S. Economic Policy Fails to Protect American Content from Foreign Appropriation 
+Unfortunately, China’s AI firms deploy the same playbook of covertly visiting content 
+sites to copy American-made content to advance China’s competitive standing. China’s 01.AI 
+trained its advanced ‘Yi’ model on mostly English-language content.
+17 ByteSpider, one of 
+ByteDance’s web crawlers used to copy web content for training Chinese AI models,18 is known 
+to be scraping web content at 25 times the rate of OpenAI’s GPTBot and 3,000 times the rate of 
+Anthropic’s bots.19  
+Despite News Corp’s investment in state-of-the-art content protection measures, Huawei 
+accessed subsidiary Dow Jones properties, including The Wall Street Journal and MarketWatch, 
+approximately 4.2 million times in a recent seven-day period, potentially copying all pages that it 
+human creators’ incentives. Diminished incentives would lead to a reduction in new human -generated works (in 
+terms of quantity, quality, or both). ”). 
+17 01.AI, above n 9 (2024). 
+18 Dark Visitors, Bytespider  (2025) https://darkvisitors.com/agents/bytespider.  
+19 Kali Hays, TikTok’s parent launched a web scraper that’s gobbling up the world’s online data 25 times faster 
+than OpenAI , Fortune (October 3, 2024) https://fortune.com/2024/10/03/bytedance -tiktok-bytespider -scraper-bot/. 
+
+
+6 accessed. Bots we attribute to China overall visited Dow Jones websites approximately 31 
+million times over the course of the same seven days. Every time a bot accesses one of our sites, 
+it can copy our content without us knowing—for AI. 
+Domestic firms have also been leaking American-made content to foreign parties—
+without producers’ knowledge or authorization. California-based CommonCrawl covertly made copies of the American web, including millions of journalistic pieces,
+20 then pooled and 
+marketed the content to third parties—including Chinese AI firms; DeepSeek and 01.AI used CommonCrawl’s dataset to supplement their web scraping activity and create AI models.
+21 
+01.AI’s Yi model is known to have prioritized training on news works,22 in order to create a
+model comparable in performance to GPT3.5 at a lower cost—thanks “primarily to [Yi’s] dataquality.”
+23 Indeed, Chinese firms have identified accessing high-quality American content as a
+means for circumventing effective U.S. export controls on chips to develop competitive AI.
+While the U.S. fails to protect its content assets from advancing Chinese AI, China  
+protects its own domestic content assets via the Great Firewall, a system of legislative and technological mechanisms that regulate, throttle and block cross-border internet traffic.
+24 The 
+Great Firewall doesn’t just stop what people in China see, it also appears to stop people outside peering in. While China may be on a path to achieve cyber sovereignty by implementing export controls on content, America has no reciprocal policy. In addition to incentivizing domestic content production, an AI Action Plan must protect content from foreign appropriation.  
+20 In one month in 2018 alone, Common Crawl copied more than 180,000 works belonging to the Chicago Tribune , 
+180,000 works belonging to the Washington Post , and 230,000 works belonging to The Wall Street Journal . Based 
+on analysis of the publicly available Common Crawl June 2018 scraped dataset: https://commoncrawl.org/blog/june -
+2018-crawl-archive-now-available.   
+21 DeepSeek AI, DeepSeek LLM Scaling Open -Source Language Models with Longtermism , ARXIV (2024) 
+https://arxiv.org/pdf/2401.02954v1  (acknowledging use of Common Crawl); 01.AI, above n 9 (2024) (“We start 
+with web documents from Common Crawl”) ; Alexandra (Sasha) Luccioni & Joseph D. Viviano, What’s in the Box? 
+A Preliminary Analysis of Undesirable Content in the Common Crawl Corpus,  2021 Proc. of the 59th Annual 
+Meeting of The Ass’n for Computational Linguistics, 182 (“Common Crawl has been used to train many of the 
+recent neural language models in recent years … [it] often represents the majority of data used to train these 
+architectures.”).  
+22 01.AI, above n 9 (2024) (“We further categorize web documents into specific themes using a topic model 
+predicting labels like as news, ads, and knowledge -based content. In the final pretraining dataset, we down -sample 
+less helpful content, mostly advertisements”.).  
+23 01.AI, above n 9 (2024) (“The underlying principle is … to make sure the data used are of high quality, rather 
+than training the model on large raw data”; “Yi achieves near GPT -3.5 benchmark scores”.).  
+24 China’s 2017 Cyber Security Law mandates that data collected within China be stored domestically, and the 2021 
+Data Security Law imposes stringent controls on data transfers outside the country.  See also: Stephanie Yang, As 
+China shuts out the world, internet access from abroad gets harder too , Los Angeles Times (June 23, 2022) 
+https://www.latimes.com/world -nation/story/2022 -06-23/china-great-firewall-foreign-domestic- virtual-censorship  
+(“academics and journalists, are finding it increasingly frustrating to penetrate China’s cyber world from the 
+outside.”). 
+
+

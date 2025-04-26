@@ -1,0 +1,386 @@
+Securing American Leadership:  
+Recommendations and Implications for a National AI Action Plan 
+Parv Mahajan1, Cyra Alesha, Jaehun Baek, Merritt Hornbuckle, Adelaida Jaramillo, Bratee 
+Podder, Kishor Shanmugavel, Seth Shoneman, Emalee Collins, Andrew Wei, Dwayne Wilkes2 
+Executive Summary 
+This authorship group was organized by and represents the AI Safety Initiative3, a 
+community of technical and policy researchers at Georgia Institute of Technology and Georgia 
+Tech Research Institute interested in mitigating risks to American and human interests from 
+advanced artificial intelligence. 
+Frontier AI models represent a critical national security asset requiring immediate 
+action to ensure America's economic competitiveness and geopolitical dominance. The 
+recommended dual approach involves classifying frontier models as vital security assets while 
+fostering commercial applications that drive innovation and economic growth. Success requires 
+substantial investment in infrastructure, intelligence networks, and public-private partnerships, 
+alongside comprehensive education and workforce development initiatives. In our response, we 
+split AI models into two main classes - (1) frontier AI models and (2) their commercial 
+applications - and provide four classes of recommendations: (1)National Security, Defense, and Research Dominance: Secure frontier AI development
+through establishing classified partnerships between AI labs and DoD/IC government
+agencies, implement multi-layered defense strategies, secure human capital through
+3 AI Safety Initiative. (2025). Research. https://www.aisi.dev/research 2 Parv organized, led, and managed the authoring group, and wrote the introduction, among other sections. All other 
+authors are ordered alphabetically. 
+AI Safety Initiative at Georgia Tech: Parv, Cyra, Jaehun, Bratee, Seth, Andrew, Dwayne 
+School of Public Policy, Georgia Institute of Technology: Adelaida, Emalee, Merritt 
+School of Cybersecurity and Privacy, Georgia Institute of Technology: Kishor 1 Corresponding author. 
+1 
+
+
+competitive retention programs, prioritize explainable AI over AGI, and strengthen IP 
+protection and procurement controls. 
+(2)Technical Infrastructure and Model Development: Develop resilient model evaluation
+tools, expedite domestic hardware manufacturing through the CHIPS Act, secure critical
+mineral supply chains beyond China, and invest in energy-efficient computation
+technologies.(3)Innovation and Education: Support industry research on AI adoption best practices,
+develop comprehensive workforce training programs, accelerate government AI
+adoption, and build AI literacy across K-12 education.(4)Balancing Autonomy and Safety: Enforce strict data handling policies, establish NIST
+as the primary regulatory body for commercial AI, incorporate Probabilistic Risk
+Assessment methodologies, and support market-driven solutions like incident reporting
+systems.
+Introduction 
+AI dominance should be a vital national security priority. Through this lens, we 
+provide concrete US government policy recommendations and examine the implications of these 
+policies. Our recommendations encompass defense applications, infrastructure development, 
+innovation strategy, education policy, and research funding for sustaining American leadership 
+and strengthening the US economy in the years to come. 
+Our discussions are broadly split into two focus areas: (1) frontier AI, or highly capable 
+foundation models with never-before-seen capabilities, such as GPT 4o; and (2) commercial 
+applications  of these frontier models which interface with consumers, businesses, or government 
+partners directly, such as ChatGPT. The US government should rapidly promote an open, 
+economically competitive environment for commercial applications, while treating the most 
+sensitive components of frontier AI as critical national security assets. 
+2 
+
+
+The price of ineffective action is high: Extremely transformative AI is likely to come 
+during this presidential term, and, unless managed responsibly, will result in acute negative 
+consequences for American interests globally across almost every sector. We acknowledge the 
+risks involved and provide recommendations to mitigate them in four (4) sections: 
+(1) National Security, Defense, and Research Dominance: Why are frontier models so vital to
+national security, and what can be done to protect American dominance? 
+(2) Technical Infrastructure and Model Development: What resources and infrastructure does
+frontier AI dominance require, and how can the United States rapidly protect these resources? 
+(3) Innovation and Education: What educational and economic systems are necessary to
+ensure commercial AI application dominance, and how can these be innovatively promoted? 
+(4) Balancing Autonomy and Safety: What are the risks of integrating commercial AI
+applications in businesses and governments, and how can these risks be managed responsibly? 
+(1) National Security, Defense, and Research Dominance
+Why frontier AI is a national security asset: Advanced AI systems can perform highly 
+complex tasks, such as analyzing vast datasets, automating decision-making, and even simulating 
+scenarios for defense and intelligence purposes, with efficiency and quality rivaling human 
+experts, and will continue to gain in intelligence, likely exceeding human experts sometime this 
+decade4. Nations that develop and control these human-exceeding frontier models will gain an 
+insurmountable edge in everything from cybersecurity and military strategy to economic 
+forecasting. For these reasons, frontier AI models should be treated with the same level of 
+classification as advanced nuclear research and intelligence-gathering systems. 
+Implications of underinvestment: Inaction and underinvestment in AI will have 
+devastating economic, military, and geopolitical consequences as America risks losing its global 
+AI dominance. If geopolitical counterparts such as China and the EU begin to outpace US 4 Grace, K., Stewart, H., Sandkühler, J. F., Thomas, S., Weinstein-Raun, B., & Brauner, J. (2024, January 5). 
+Thousands of AI Authors on the Future of AI. ArXiv.org. https://arxiv.org/abs/2401.02843 
+3 
+
+
+investment and innovation in AI-driven national defense, the US military will be technologically 
+outmatched and unable to withstand catastrophic security threats by adversaries. With other 
+nations controlling the most advanced AI systems and critical electronic components, the US 
+would find itself increasingly dependent on adversaries such as China, heightening its 
+vulnerability to cyber warfare and strategic coercion5.  
+Emerging threats to frontier AI models: American frontier AI models face constant 
+threats from nation-state adversaries, particularly China, who aim to steal model weights, corrupt 
+training pipelines, or embed malicious code at the supply-chain level. These sophisticated threats 
+extend beyond traditional cyberattacks, employing covert surveillance of research facilities, 
+exploitation of open-source libraries, and injection attacks designed to manipulate system 
+outputs. As frontier AI capabilities increase, these models become even more valuable 
+targets, attracting increasingly advanced and persistent threats. If not proactively addressed, 
+foreign adversaries will erode stakeholder trust in our systems and technological dominance. 
+Mitigating threats: To safeguard America's frontier AI capabilities against sophisticated 
+threats, the federal government must implement a coordinated, multi-layered defense strategy 
+spanning the entire AI lifecycle. Since cutting-edge models predominantly reside with private 
+corporations, we recommend establishing formalized partnerships between leading AI 
+laboratories and key government agencies, with frontier model research and data classified at 
+the SECRET/TS level. This classification necessitates streamlined security clearance processes 
+for qualified researchers while maintaining rigorous standards. 
+Within this classified framework, we propose a division of agency responsibilities: 
+Cybersecurity and Infrastructure Security Agency (CISA) should lead the implementation of 
+Zero Trust architecture across national AI research facilities, ensuring continuous verification of 
+all access requests with advanced cyber-physical protection measures implemented at data 
+centers housing frontier AI systems. Concurrently, Defense Advanced Research Projects Agency 5 Special Competitive Studies Project. (2022). Mid-Decade Challenges to National Competitiveness. 
+https://www.scsp.ai/wp-content/uploads/2022/09/SCSP-Mid-Decade-Challenges-to-National-Competitiveness.pdf 
+4 
+
+
+(DARPA) and Intelligence Advanced Research Projects Activity (IARPA) should allocate 
+funding for comprehensive adversarial testing and vulnerability assessments, utilizing 
+established frameworks such as MITRE ATLAS6 and OWASP7 to systematically identify and 
+remediate security vulnerabilities. 
+For enhanced threat detection capabilities, CISA should develop and deploy advanced 
+anomaly-monitoring systems throughout federal and contractor-operated facilities, creating an 
+early warning network for potential intrusions. By integrating these security measures under 
+federal coordination and aligning them with existing intelligence capabilities, the United States 
+can establish a dynamic, adaptive defense posture that evolves alongside emerging AI risks, 
+thereby preserving America's technological advantage in this critical domain. 
+Securing human capital: US dominance in artificial intelligence depends on advanced 
+technologies and the skilled professionals behind that innovation. Yet, a major concern is the 
+potential loss of talent when researchers and engineers are drawn to foreign competitors or rival 
+companies8. To counter this risk, the federal government should work with public 
+universities and University-Affiliated Research Centers to develop strong AI workforce 
+retention programs. These programs should include competitive grants, fellowships, and clearly 
+defined career paths designed to attract and keep top experts. In addition, the State Department 
+should simplify visa and immigration processes to help recruit leading AI professionals from 
+allied nations. At the same time, Intelligence Community (IC), such as the National Security 
+Agency (NSA) and Federal Bureau of Investigation (FBI), must enhance personnel evaluations 
+and insider-threat detection to prevent any adversarial impact. By consistently investing in skill 8 Marks, D., & Frenkel, O. (2025, February 11). America’s Technology Lead Depends on High-Skilled Workers. 
+American Leadership Initiative. 
+https://www.american-leadership.org/issues/americas-techology-lead-depends-on-highskilled-workers-7yytz 7 Sotiropoulos, J., Rosario, R. F. D., & Rosario, S. C. (2024, December 16). Announcing the OWASP LLM and Gen 
+AI Security Project Initiative for securing agentic applications. OWASP Top 10 for LLM & Generative AI Security. 
+https://genai.owasp.org/2024/12/15/announcing-the-owasp-llm-and-gen-ai-security-project-initiative-for-securing-ag
+entic-applications/ 6 MITRE. (2024). Atlas Matrix. https://atlas.mitre.org/matrices/ATLAS 
+5 
+
+
+development, professional growth, and international partnerships, the federal government can 
+build an attractive pipeline of AI talent. This strategy not only reduces the risk of intellectual 
+capital draining to non-ally entities but also supports a secure and innovative ecosystem that 
+benefits US agencies, private enterprises, and the overall national interest. 
+Explainability, not AGI: For the most strategic pathway forward in AI development, the 
+US should steer clear of initiating a single, massive project focused on AGI development and 
+pursue a more holistic framework. An aggressive, monolithic push towards developing 
+superintelligent AI could destabilize global relations and provoke similar initiatives by our 
+adversaries, particularly nations like China. Instead, fostering innovation through public-private 
+partnerships can promote responsible AI advancement without escalating geopolitical risks. 
+Additionally, the inner workings of all frontier models are currently opaque, reducing their 
+reliability in defense and intelligence applications. Enhancing Explainable AI (xAI) is crucial for 
+building trust and facilitating informed decision-making, as it focuses on developing models that 
+provide clear, understandable explanations for their outputs. We encourage research 
+investment from DoD/IC stakeholders, specifically into mechanistic and non-mechanistic 
+interpretability of frontier AI models. 
+Intellectual property and procurement controls: To protect intellectual property and 
+optimize procurement in AI, the government should adopt strategic measures that target both 
+security and efficiency. This includes tightening counterintelligence and law enforcement in 
+coordination with LEOs to combat state-sponsored theft of AI technologies, prosecuting 
+espionage attempts, imposing trade sanctions on recipients of stolen IP, and enhancing 
+cybersecurity for defense contractors and AI firms9. Additionally, classified research programs 
+will help safeguard critical innovations by ensuring sensitive projects are conducted in 
+secure facilities with strict access controls. On the procurement front, streamlining acquisition 
+processes by employing agile, tech-friendly approaches, such as using fast-track acquisition 9Godefroy, J. (2024, March 7). How Does Artificial Intelligence Affect Intellectual Property Protection? Rouse.com. 
+https://rouse.com/insights/news/2024/how-does-artificial-intelligence-affect-intellectual-property-protection 
+6 
+
+
+models and Other Transaction Authority (OTA) agreements, can reduce development timelines 
+and facilitate rapid integration of AI solutions. Enhanced unclassified public–private channels for 
+less sensitive national security applications, including the establishment of AI test beds, 
+innovation hubs, and exchange programs between industry and federal agencies, will further 
+ensure that cutting-edge AI technology is effectively deployed to meet agency needs. 
+Opportunities for stronger export controls: Global governance of AI demands a 
+balanced approach that promotes allied innovation while strictly controlling the export of 
+sensitive technologies; US investments in chips manufacturing represent a unique opportunity to 
+effectively enforce export regulation through technical controls. We encourage work from the 
+Bureau of Industry and Security to study and test geo-tagging American exports to Tier 1/2 
+Countries, and recommend that National Institute of Standards and Technology (NIST) codify 
+geo-tagging standards, which will make it efficient to identify any attempts of refurbishment or 
+smuggling. These protections may be complemented with end-use agreements to bestow legal 
+onus for smuggling on responsible parties. 
+(2) Technical Infrastructure and Model Development
+The need for evaluations: As emerging race dynamics between AI labs have shown, 
+frontier AI advancements are extremely rapid, even outpacing the capacity of traditional means 
+to share research effectively. We expect this to continue most acutely around evaluations of top 
+AI models. For this reason, the Administration must immediately develop resilient model 
+evaluation tools and benchmarks in key fields of national security, including CBRN threats, 
+intelligence-gathering, cybersecurity, and strategic planning. These efforts must be shared and 
+developed across DoD/IC agencies, allowing for accurate assessment of US model capabilities 
+and data-backed model alignment with US interests.  Hardware as a key resource: The recently enacted CHIPS and Science Act of 2022 
+initially served to incentivize domestic chip manufacturing by providing $53 billion to US 
+manufacturing facilities; however, due to bureaucratic delays, the federal government was slow 
+7 
+
+
+ 
+to allocate grants. Many companies did not receive the funding that they were promised; 
+therefore, in order to promote timely critical hardware manufacturing and development, 
+legislators should aim to expedite bureaucratic grant-delivering processes. By facilitating 
+efficient public-private collaboration, the US will accelerate its path toward increased domestic 
+hardware protection and become less reliant on other countries, thereby strengthening national 
+security.  Establishing data centers in allied countries is essential to address domestic 
+constraints on compute resources. We recommend the US establish partnerships to maintain 
+data centers in allied states while ensuring the security and integrity of these facilities.   In order to ensure long-term sustainability and efficiency, the US must secure its supply 
+chain of critical minerals for AI development. Currently, the US relies heavily upon China for 
+minerals that are crucial for semiconductor production, such as germanium, gallium, palladium, 
+and polysilicon10. This allows China to exert control over the American AI sector through 
+restricting exports, as was done in December 202411. Any disruptions to the AI supply chain 
+could compromise national security. Therefore, the US should bolster strategic international 
+relationships with countries such as Australia, Canada, South Africa, Namibia, and various South 
+American nations–all of whom have access to rare earth elements and other equally important 
+minerals. Additionally, policymakers should develop bilateral trade agreements for other 
+countries to export their mineral resources to the US. In doing so, the US can enhance 
+production efficiency by minimizing supply chain vulnerabilities, ultimately fortifying national 
+security.   Efficiency increases: Emerging technologies and operational practices are offering 
+promising pathways to mitigate the energy intensity of AI infrastructure. AI-driven optimization 
+systems are themselves becoming critical tools for improving data center efficiency, as they can 
+11 Ministry of Commerce notice 2024 no. 46: Notice concerning strengthening controls on exports of relevant 
+dual-use items to the United States. (n.d.). Center for Security and Emerging Technology. Retrieved March 15, 2025, 
+from https://cset.georgetown.edu/publication/china-rare-earth-export-ban/ 10 Menell, B. (2025, March 3). China’s critical mineral monopoly threatens U.S. national security. The Washington 
+Times.https://www.washingtontimes.com/news/2025/mar/3/chinas-critical-mineral-monopoly-threatens-us-national-
+security/ 
+8 
+
+
+monitor, analyze, and optimize energy usage in real time, precisely identifying inefficiencies and 
+reducing wasted power12 13. At the hardware level, fundamental innovations in chip architecture 
+are yielding significant efficiency gains. In order to incentivize the production, distribution, and 
+usage of these emerging technologies, the NSF should allocate additional funds toward 
+research institutions as well as prominent software/hardware companies for the study of 
+energy-efficient computation. 
+(3) Innovation and Education It is not enough for the United States to host and protect frontier models - the 
+Administration should actively support an open environment for their commercial applications. 
+Support industry research on best practices and adoption methods: As AI is able to 
+automate more jobs, productivity advantages will accrue disproportionately to AI-proficient 
+individuals and organizations, underscoring the importance of effective AI adoption strategies 
+for American companies to stay competitive14. Key research to be federally funded through the 
+Small Business Administration should include: (1) comprehensive impact assessments across 
+sectors, (2) evidence-based AI utilization frameworks, (3) research on effective teaching methods 
+for building both practical skills and conceptual understanding of AI (including its limitations, 
+risks, and benefits), (4) developmental frameworks examining AI's effects on youth cognitive 
+and social development, and (5) frameworks for Human-AI partnerships that amplify human 
+strengths and creativity rather than attempting to substitute for human capabilities. 
+Workforce AI training and development: A workforce prepared for AI integration 
+demands both technical proficiency and enhanced human-centric skills. In government, AI 
+training needs to be a standard requirement for both new and existing employees to ensure a 
+14 Marquis, Yewande & Oladoyinbo, Tunbosun & Olabanji, Samuel & Olaniyi, Oluwaseun & Ajayi, Samson. 
+(2024). Proliferation of AI Tools: A Multifaceted Evaluation of User Perceptions and Emerging Trend. Asian 
+Journal of Advanced Research and Reports. 18. 30-55. 10.9734/AJARR/2024/v18i1596.  13 Meta AI Research. (2023). Machine learning for data center efficiency (Research bulletin 2023-07). 
+https://ai.meta.com/research/publications/ml-for-data-centers 12 Singh, A., & Martinez, C. (2024). AI-driven optimization for sustainable data centers. Journal of Green 
+Computing, 5(2), 112-128. https://doi.org/10.1145/3542895.3542901 
+9 
+
+
+workforce proficient in AI tools. In the public sector, the Department of Labor, in partnership 
+with research institutions, should conduct thorough studies on occupations at risk of AI 
+disruption. This research should guide the development of targeted training programs that build 
+on existing worker expertise while also enhancing digital skills through online, industry-aligned 
+micro-credentials and college courses. Additionally, the Department of Commerce should 
+establish a national skills database to track evolving job requirements across sectors, enabling 
+educational institutions and individuals to adapt rapidly to market demands.  
+Private sector applications: AI adoption in highly controlled industries like healthcare, 
+finance, and energy should be guided by clear standards set by specific regulatory bodies, such as 
+the FDA for healthcare, the SEC for finance, and the FERC for energy. The use of regulatory 
+sandboxes, as seen in the UK's Financial Conduct Authority15 model, would allow these sectors 
+to safely test AI systems under supervision, ensuring their effectiveness without compromising 
+safety or integrity. Key applications—such as AI for diagnostic analysis in healthcare, financial 
+reporting in finance, and predictive maintenance in energy grids—should be selectively 
+scrutinized by these agencies to maintain industry standards while promoting innovation. 
+To further encourage AI innovation, the Small Business Administration (SBA) 
+should provide targeted subsidies and clear guidelines for cloud computing and AI usage to 
+small and medium-sized enterprises. These incentives could include grants, tax breaks, and 
+educational resources on integrating AI into business operations, helping smaller firms more 
+quickly adapt to technological advancements. This would help bridge the gap between large and 
+small businesses, fostering innovation across a wider range of industries while ensuring that 
+ethical AI practices are upheld. 
+Bureaucratic adoption of AI: To maximize AI’s impact in government, agencies must 
+take strategic steps to enhance efficiency, decision-making, and citizen engagement. Government 
+agencies should expand AI-powered public interfaces—including chatbots and virtual 15 Financial Conduct Authority. (2024). AI Update. https://www.fca.org.uk/publication/corporate/ai-update.pdf 
+10 
+
+
+assistants—to improve citizen engagement and simplify access to public services. AI-driven 
+decision-making tools - building on GSAi16 - should be embedded in government operations to 
+enable real-time data analysis, refine policy outcomes, and enhance democratic governance. We 
+recommend the OPM prioritize AI-driven automation of routine administrative tasks to 
+reduce inefficiencies and free up public servants for higher-value work throughout the 
+federal government. Automating data entry, scheduling, and document processing will improve 
+operational efficiency and service delivery to the American people. 
+Build AI capabilities among youth: AI literacy should be integrated across K-12 
+curricula, merging technical skills, responsible use, and critical evaluation of AI systems. 
+Building on the foundation set by the 18 states that mandate media literacy classes, efforts should 
+expand to include AI competencies.17 We recommend establishing an AI Education 
+Coordination Office within OSTP. This board should consist of educators, AI researchers, 
+ethicists, and industry representatives responsible for developing comprehensive AI literacy 
+standards. Given AI’s rapid evolution, the advisory board should conduct quarterly curriculum 
+relevance reviews, feeding into a structured curriculum update every 18 months—significantly 
+faster than traditional cycles. Additionally, OSTP should oversee a specialized rapid response 
+team responsible for promptly creating supplemental educational materials addressing major AI 
+breakthroughs. These materials may be made available through a digital repository, continuously  accessible to schools and students nationwide, and tailored to different audience ages. 
+Assessment methods should transition to portfolio-based evaluations, enabling students to 
+demonstrate AI competencies practically, highlighting technical, nuanced understanding, and 
+reasoning skills on AI.  
+17 Justin Klawans. (2024, April 2). The push for media literacy in education amid the rise of AI. The Week. 
+https://theweek.com/tech/media-literacy-AI-schools 16 Kelly, M., & Schiffer, Z. (2025, March 7). DOGE Has Deployed Its GSAi Custom Chatbot for 1,500 Federal 
+Workers. WIRED. https://www.wired.com/story/gsai-chatbot-1500-federal-workers/ 
+11 
+
+
+(4) Balancing Autonomy and Safety
+Data Handling and Protection: Government agencies must enforce strict policies on 
+data usage and cross-border data sharing that clearly define permissible data flows, limit 
+inference risks, and comply with privacy regulations, while emergency data-erasure protocols 
+can be used to swiftly remove compromised information in the event of a breach18 19. By aligning 
+these measures with international standards and rigorous screening processes, the federal 
+government can safeguard data integrity and privacy while enabling secure AI operations 
+throughout their lifecycle. 
+Risk assessments & regulatory Frameworks: Establishing effective risk assessments 
+and regulatory frameworks is essential to ensuring that AI technologies are developed and 
+deployed responsibly without stifling innovation. Existing regulatory bodies, such as the Federal 
+Trade Commission (FTC), have already taken steps to address AI-related risks, but regulations 
+should be streamlined further to avoid overburdening developers, especially smaller companies 
+and startups, which may struggle with compliance costs.20 We recommend that NIST take a 
+leading role in creating and overseeing commercial AI regulations, acting as the primary 
+body for monitoring AI development and working with the FTC to ensure that companies 
+are held accountable for their commercial AI applications. Additionally, the OECD’s 
+Principles on Artificial Intelligence21, which were established under the previous Trump 
+administration, provide valuable guidance for crafting regulations that promote innovation while 
+protecting public safety and ensuring fairness. Probabilistic Risk Assessment (PRA)22 is one 
+widely accepted methodology that leverages data modeling to evaluate the likelihood of risks 
+22 NRC. (2020, July 7). Probabilistic Risk Assessment (PRA). NRC Web. 
+https://www.nrc.gov/about-nrc/regulatory/risk-informed/pra.html 21 OECD. (2019). AI principles. OECD. https://www.oecd.org/en/topics/sub-issues/ai-principles.html 20 Staff in the Office of Technology and the Division of Advertising Practices. (2024, December 31). AI and the Risk 
+of Consumer Harm. Federal Trade Commission. 
+https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/ai-risk-consumer-harm 19 Zanfir-Fortuna, G. (2025). What to Expect in Global Privacy in 2025. Future of Privacy Forum. 
+https://fpf.org/blog/what-to-expect-in-global-privacy-in-2025/ 18 Pugh, B., & Ward, S. (2024). International Association of Privacy Professionals. Iapp.org. 
+https://iapp.org/news/a/what-does-ai-need-a-comprehensive-federal-data-privacy-and-security-law 
+12 
+
+
+occurring and their potential impact. In the context of AI, PRA could address issues like 
+algorithmic bias, security vulnerabilities, and ethical concerns early in the development process. 
+To further enhance the responsible development of AI, we recommend prioritizing the 
+integration of PRA into FTC AI policy frameworks.  
+In addition to structured risk assessments, market-driven solutions like AI incident 
+reporting systems are effective tools for identifying and addressing emerging threats. Voluntary 
+initiatives like the AI Incident Database (AIID)23 serve as independent fact-checking resources 
+that document real-world AI failures, fostering transparency and promoting industry-wide 
+learning. To strengthen the reliability of these systems, we recommend efforts to improve their 
+data quality and standardization, recognizing that while there are challenges24 encouraging the 
+development of similar initiatives can still play a valuable role in promoting accountability 
+without the need for heavy-handed regulations. By supporting the FTC’s leadership and building 
+on these frameworks, the US can foster a balanced regulatory environment that encourages 
+growth while safeguarding societal interests. 
+Conclusion Frontier AI models represent a critical national security asset requiring immediate 
+action—they will determine America's economic competitiveness and geopolitical stability in the 
+coming years. We advocate a dual approach: classifying and securing frontier models as vital 
+national security assets while simultaneously fostering commercial applications that drive 
+innovation and economic growth. This strategy demands substantial investment in physical 
+infrastructure, robust intelligence-sharing networks, and public-private partnerships with frontier 
+AI labs.  The Administration must mobilize the full DoD/IC apparatus to mitigate security risks 
+while integrating AI capabilities across defense applications, bureaucratic systems, and industry 
+24 Stanley, J. C., & Dorton, S. L. (2023). Exploring Trust With the AI Incident Database. Proceedings of the Human 
+Factors and Ergonomics Society Annual Meeting, 67(1), 489–494. https://doi.org/10.1177/21695067231198084 23 AI Incident Database. (2025). Artificial Intelligence Incident Database. Incidentdatabase.ai. 
+https://incidentdatabase.ai/ 
+13 
+
+
+sectors. The US cannot neglect its citizens in its journey to AI dominance - we must establish 
+educational programs for youth, hone the technical workforce, and protect existing human 
+capital.  The technological revolution before us offers unprecedented opportunity, but only if 
+America acts decisively now—because in the race for AI dominance, there are no silver medals. 
+Acknowledgements 
+We especially thank, in no particular order, Olajide Olugbade and Sue Bae from the 
+School of Public Policy at the Georgia Institute of Technology for high-level mentorship and 
+feedback on an earlier draft of this submission.  
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution. 
+The arguments expressed and policies recommended in this document do not necessarily 
+reflect the views of the Georgia Institute of Technology, a public R1 research university, or the 
+Georgia Tech Research Institute, the nonprofit, applied research organization of the Georgia 
+Institute of Technology. 
+14 
+
+

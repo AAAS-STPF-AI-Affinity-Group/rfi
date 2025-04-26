@@ -1,0 +1,283 @@
+ Collaborative AI Care: Proposing an 
+ FDA-Owned Benchmark Dataset for 
+ LLM Mental Health Referral 
+ Evaluation 
+ Shuang Gao  1  , Havi Wolfson Hall   2
+ This  document  is  approved  for  public  dissemination.  The  document  contains  no 
+ business-proprietary  or  confidential  information.  Document  contents  may  be  reused  by 
+ the  government  in  developing  the  AI  Action  Plan  and  associated  documents  without 
+ attribution. 
+ Introduction  ..................................................................................................................................  2 
+ Related  Works  ..............................................................................................................................  3 
+ LLMs  for  Mental  Healthcare  .....................................................................................................  3 
+ Dataset-Oriented  Research  .....................................................................................................  4 
+ Proposed  Method  ........................................................................................................................  4 
+ Dataset  ....................................................................................................................................  4 
+ Data  Collection  ...................................................................................................................  4 
+ Data  Annotation  .................................................................................................................  5 
+ Data  Storage  &  Security  ....................................................................................................  5 
+ Metrics  for  referral  decision  .....................................................................................................  5 
+ Mental  Health  Pattern  Definition  ..............................................................................................  6 
+ Submission-Based  Benchmarking  System  ..............................................................................  7 
+ 2  Havi Wolfson Hall  is a Licensed Clinical Psychologist who has been creating therapeutic relationships 
+ with her clients since 2000. Throughout her career, Havi has worked with children and teens and provided 
+ Parent Support, as well as supported adults through stressful life transitions, difficult relationships, grief 
+ and loss. In 2005, Havi created Health-E-Connections, to address the impact technology has on 
+ relationships and how to keep connections healthy. Concerned with important mental health issues we 
+ are facing today, Havi is an invaluable resource that is also available to conduct workshops, training and 
+ consultations with various communities to promote early intervention and awareness around coming of 
+ age struggles in a technological world.  1  Shuang Gao  is a deep learning expert with over 10 years of experience in autonomous driving, security 
+ camera perception, and artificial general intelligence (AGI) for multimodal foundation models. She earned 
+ her PhD from the University of Tennessee at Knoxville and has worked at Nvidia and Amazon, advancing 
+ AI perception and scalability. Her research in these proposal applies her expertise to enhance LLM safety 
+ in mental health care. 
+
+
+ LLM  Safety  Approval  ...............................................................................................................  7 
+ Reference  .....................................................................................................................................  8 
+ Introduction 
+ Large  language  models  (LLMs)  are  increasingly  deployed  for  emotional  support  and 
+ mental  healthcare  purposes,  offering   scalable  solutions  to  address   growing  mental 
+ health  demands.  Tools  like  ChatGPT  and  specialized   models  such  as  Mental-LLM  [7] 
+ have  demonstrated  potential  in  detecting  conditions  like  depression  and  providing 
+ empathetic  responses,  with  studies  reporting  significant  reductions  in  distress  (g  =  0.7) 
+ through  conversational  agents  [1].  These  advancements  leverage  LLMs’  ability  to 
+ process  natural  language,  making  them  valuable  for  triaging,  monitoring,  and  supporting 
+ users  in  real-time,  particularly  in  underserved  populations  where  access  to  care  is 
+ limited  [4].  However,   their  widespread  adoption   raises   critical  safety  and  efficacy 
+ concerns, necessitating robust evaluation frameworks to ensure responsible use. 
+ For major mental health services—such as managing severe depression, suicidality , or 
+ psychosis—human consultants remain indispensable due to LLMs’ limitations in clinical 
+ reasoning,  ethical   judgment,   and  real-time  crisis  management.  Research  highlights 
+ LLMs’  inconsistent  referral  behavior,  such  as  delayed   escalation   in  suicidal  scenarios 
+ [6],  and  their  inability  to  navigate  nuanced  ethical  risks  like  bias  or  privacy  breaches  [5]. 
+ Human  expertise  provides  the  contextual  understanding  and  accountability  that  LLMs 
+ lack,  making  LLM-human  collaboration  the  optimal  direction  for  mental  healthcare 
+ delivery.   This  hybrid  approach   leverages   LLMs’  scalability  for  initial  engagement  while 
+ ensuring  human  oversight  for  complex  or  high-stakes  cases,  aligning  with  calls  for 
+ responsible AI integration [2]. 
+ A  key  barrier  to  achieving  this  collaboration  is  the  absence  of  a  standardized, 
+ authoritative  dataset  to  evaluate  LLMs’  referral  capabilities—specifically,   their  ability  to 
+ determine   when  to  refer  users  to  human  consultants  during  a  conversation  and  to  do  so 
+ promptly.  We  propose  an  FDA-owned  black  box  benchmark  dataset,  constructed  from 
+ raw  data  collected  from  consenting  patients,  to  address  this  gap.  This  dataset  will 
+ include  dialogues  and  posts  annotated  for  referral  triggers  (e.g.,  suicidal  ideation 
+ requiring  immediate  escalation)  and  timing  (e.g.,  referral  at  the  point  of  crisis  mention), 
+ enabling  evaluation  of  whether  an  LLM  can  identify  and  act  on  critical  moments,  such  as 
+ a  user  stating,  “I  want  to  end  it.”  By  providing  a  controlled,  regulatory-backed 
+ benchmark, companies can upload their LLMs for assessment, receiving a report on 
+ performance against specific thresholds for mental health categories and patterns (e.g., 
+
+
+ accuracy  in  suicidality  referral).  This  referral  dataset  is  both  necessary  and  foundational 
+ to  constructing  a  safe,  effective  LLM-human  consultation  framework,   offering  multiple 
+ benefits:  (1)  it  ensures  LLM-human  collaboration  achieves  high  clinical  safety  by 
+ validating  timely  and  accurate  referrals,  reducing  risks  like  missed  crises;  (2)  it 
+ motivates  LLM  builders  to  enhance  their  models’  referral  precision  and  responsiveness 
+ to  meet  FDA  standards,  fostering  innovation;  and  (3)  it  boosts  LLM-based  applications 
+ by  increasing  user  trust—applications  using  LLMs  that  pass  one  or  more  benchmarks 
+ will  reassure  users  of  their  reliability,  encouraging  adoption  in  mental   healthcare 
+ settings. 
+ Related Works 
+ The  growing  use  of  large  language  models  (LLMs)  in  mental  healthcare  has  prompted 
+ extensive  research  into  their  capabilities  and  safety  challenges,  particularly   regarding 
+ referral  to  human  consultants.  This  section  reviews  prior  work  in  two  key  areas:  LLM 
+ applications  in  mental  healthcare  and  dataset-oriented  efforts  supporting  these 
+ advancements.   These   studies  collectively  highlight  the  need  for  a  standardized, 
+ regulatory-backed  benchmark  to  evaluate  referral  accuracy  and  timeliness,  as  proposed 
+ in our FDA-owned dataset. 
+ LLMs for Mental Healthcare 
+ LLM  applications  in  mental  health  range  from  detection  to  conversational  support,  yet 
+ their  referral  mechanisms  remain  inconsistent.  [7]  Xu  et  al.’s  Mental-LLM,  fine-tuned   on 
+ datasets  like  CSSRS-Suicide,  achieved  87%  accuracy  in  suicide  risk  prediction  but 
+ lacked  systematic  escalation  protocols,  relying  on  ad  hoc  human  oversight.  Similarly,  [8] 
+ Yang  et  al.’s  ChatCounselor,  leveraging  Psych8k  therapy  transcripts,  improved  empathy 
+ but  offered  no  clear  referral   framework.   [6]  Saha  et  al.  evaluated  ChatGPT,  finding  it 
+ escalated  only  at  severe  PHQ-9  levels  (e.g.,  ≥20),  with  crisis  resources  provided  in 
+ <50%  of  cases,  underscoring  timing  issues.  [1]  Abd-Alrazaq  et  al.’s  meta-analysis  of  15 
+ trials  reported  conversational  agents  reducing  depression  (g  =  0.64)  and  distress  (g  = 
+ 0.7),  yet  safety  measures  like  suicide  alerts  appeared  in  only  15  of  35  studies.  [9] 
+ Thieme   et  al.  ’s  review  of  generative  AI  in  psychiatry  noted  high  performance  but  risks 
+ like  promoting  harmful  behavior,  with  referral  often   absent.   [10]  Milne-Ives  et  al.  scoped 
+ AI’s  impact  on  mental   healthcare   tasks,  finding  diagnostic  support  but  limited  real-world 
+ referral  validation.  [4]  D’Alfonso  highlighted  LLMs’  diagnostic  potential,  yet  their  lack  of 
+ explainability  necessitates  human  intervention.  [13]  Denecke  et  al.  examined  online 
+ mental  healthcare,  identifying  ethical  gaps  in  crisis  management,  while  [14]  Vaidyam  et 
+
+
+ al.  proposed  “Artificial  Wisdom”  for  compassionate  AI,  lacking  practical  referral  triggers. 
+ [15]  Kabir  et  al.  emphasized  AI’s  role  in  student  mental  health,   calling  for  safety
+ standards.  These  efforts  reveal  LLMs’  scalability  but  inconsistent   referral  behavior,
+ necessitating a standardized evaluation framework.
+ Dataset-Oriented Research 
+ Datasets  have  driven  LLM  advancements  in  mental  health,  though  their  design  limits 
+ referral-specific  insights.  [3]  Cohan  et  al.’s  SMHD  provides  multi-condition  annotations  
+ from  Reddit,  enabling  broad  analysis  but  lacking  referral  labels.  CSSRS-Suicide,  used 
+ by  [7]  Xu  et  al.,  offers  suicidality  annotations,  yet  focuses   on  severity  rather  than  binary 
+ “refer  or  not”  decisions.  DAIC-WOZ,  with  multimodal  depression  data,  supports 
+ detection  but  not  conversational  timing.  [11]  Rashkin  et  al.’s  EmpatheticDialogues  trains 
+ empathetic  responses,   yet  omits  escalation  markers.  [12]  Losada  et  al.’s  eRisk  series 
+ targets  early   risk  detection  (e.g.,  depression,  anorexia),  but  its  static  posts  miss  dynamic 
+ referral  needs.  [16]  Gaur  et  al.’s  Depression  Reddit  Dataset  provides   unlabeled   posts 
+ for  sentiment  analysis,  insufficient  for  referral   training.  [17]  Pisani  et  al.’s  Crisis  Text  Line 
+ dataset,  though  restricted,   offers  crisis  dialogue  insights,  yet  lacks   public  access  for 
+ broad  use.  These  datasets  excel  in  detection  and  severity  tasks  but  fall  short  in 
+ supporting  real-time  referral  evaluation,  highlighting  the  need  for  a  purpose-built 
+ benchmark  like  our  proposed  FDA  dataset,  which  integrates  patient-contributed 
+ dialogues with referral-specific annotations. 
+ Proposed Method 
+ Dataset 
+ Data Collection 
+ We  recommend  the  FDA  establish  a  secure,  benchmark  dataset  for  evaluating  LLM 
+ safety  in  mental  health  applications.This  data  can  be  procured  by  the  FDA  by  partnering 
+ with  telehealth  platforms  already  utilizing  AI  for  session  transcription  and  mental  health 
+ assessment  materials  with  their  patients,  particularly  like  the  GAD-7  and  PHQ.  Patient 
+ data  collection  would  require  explicit  informed  consent,  with  clear  explanations  of  how 
+ the  FDA  will  use  the  information,  particularly  from  mental  health  assessments.  It  must 
+ be  emphasized  that  this  data  is  solely  for  risk  reduction  and  benchmarking,  not  model 
+ training,  and  will  be  strictly  protected,  accessible  only  to  FDA  personnel  managing  the 
+ evaluation. 
+
+
+ Data Annotation 
+ To  enable  precise  evaluation   of  the  dataset,  an  annotation  process  will  be  developed  for 
+ dialogues  or  posts  from  the  patients,  incorporating  a  binary  “refer  or  not”  label  alongside 
+ the  location-specific  markers.  Each  sample  —  whether  a  single  post  (e.g.,  from 
+ CSSRS-Suicides)  or  a  multi-turn  dialogue  (e.g.,  from  DAIC-WOZ)  —  will  be  reviewed  by 
+ mental  health  experts  to  assign  a  ‘refer’  label  if  referral   criterion  is  met.  (e.g.,  suicidality, 
+ severe  symptoms),  or  ‘not  refer’  otherwise.  Additionally,   annotators   will  tag  the  exact 
+ text  segment  triggering  the  referral  (e.g.,  “I  want  to  end  it”  at  sentence  3).  Providing 
+ temporal  or  positional  context  within  the  input.  This  annotation  process  enables  the 
+ evaluation  of  LLM  models  by  ensuring  they  not  only  trigger  referrals  correctly  but  also 
+ do so at the appropriate time. 
+ Data Storage & Security 
+ Use  a  trusted  cloud  storage  service  like  Amazon  Web  Services  (AWS),  Microsoft  Azure,  
+ or  Box,  known  for  handling  sensitive  data.  Lock  the  data  with  strong  encryption,  both 
+ when  it’s  stored  and  when   it’s  moved,  so  only  the  evaluation  team  can  unlock  it  with  a 
+ special  key.  Keep  this  key  in  a  separate,  safe  place,  like  a  digital  vault,  so  even  the 
+ cloud provider can’t access the data. 
+ Set  up  strict  rules  so  only  the  evaluation  team  can  get  in,  using  passwords  plus  an  extra 
+ step,  like  a  code  sent  to  their  phone.  Make  sure  every  time  someone  looks  at  the  data, 
+ it’s  recorded,  so  you  can  check  who  did  what.  Split  the  data  into  separate,  locked 
+ sections  to  limit  damage  if  something  goes  wrong.  Back  it  up  in  another  secure  spot, 
+ also  encrypted,  and  test  it  now  and  then  to  make  sure  it  works  if  needed.  Since  this  is 
+ FDA-related,  pick  a  service  that  follows  government  health  rules  (like  HIPAA)   and  check  
+ it regularly to stay compliant. 
+ Metrics for referral decision 
+ To  assess  the  superset’ s  effectiveness,  we  propose   a  multi-faceted   evaluation 
+ framework: 
+ METRICS NAME  DESCRIPTION 
+ Precision  Percentage  of  referral  decisions  correctly  identifying  cases  requiring 
+ human  intervention  (e.g.,  CSSRS  Level  4–5),  targeting  ~70%  to  balance 
+ specificity. 
+
+
+ Recall  Percentage  of  actual  high-risk  or  referral-worthy  cases  correctly  flagged, 
+ prioritizing >90% to minimize missed escalations, critical for safety [6]. 
+ False Positive Rate  Percentage  of  low-risk  cases  unnecessarily  referred,  aiming  for  <20%  to 
+ maintain usability. 
+ User Trust Score  Post-interaction  survey  metric  (e.g.,  1–5  scale)  assessing  user  confidence 
+ in referral timing, inspired by JMIR Mental Health surveys (2024). 
+ Response Time  Average  latency  from  risk  detection  to  referral  output,  targeting  <10 
+ seconds for real-time applicability. 
+ Mental Health Pattern Definition 
+ We  propose  to  extract  mental   health   categories  and  patterns  from  existing  datasets. 
+ This  approach  leverages  established  resources  to  evaluate  LLM’s  behaviors  for 
+ referring  users   to  human  mental  health  consultants.  Specifically,  pattern  extraction   from 
+ existing datasets involves following actions: 
+ 1. Sources  :  to  collect  the  mental  health  category  and  pattern  information  from
+ annotations  of  established  datasets  such  as  CSSRS-Suicide,  DAIC-WOZ  and
+ SMHD.
+ 2. Analysis  :  to  apply  natural  language  processing  (NLP)  techniques  to  identify
+ recurring  mental  health  categories  and  patterns  (e.g.,  mood  disorders,  crisis
+ signals).
+ 3. Synthesis  :  cross-reference  extracted  patterns  with  raw  patient  data  to  validate
+ relevance, focusing on naturalistic expressions rather than imposed thresholds.
+ 4. Review  : mental health experts to review the category and pattern definition.
+ We  propose  the  FDA  define  and  require  specific  referral  language  for  LLMs  used  in 
+ mental  health  assessments.  Upon  detecting  high  risk,  the  LLM  should  provide  a  direct 
+ and  unambiguous  message:  'High  Risk  Detected:  Please  seek  immediate  assistance 
+ from  a  mental  health  professional.  [Reason,  Urgency].'  This  standardized,  critical 
+ prompt  and  referral  to  crisis  services  or  mental  health  professionals  could  provide  the 
+ necessary intervention to save lives. 
+
+
+ Submission-Based Benchmarking System 
+ We  propose  that  the  U.S.  Food  and  Drug  Administration  (FDA)  establish  a  benchmark 
+ challenge  for  evaluating  large  language  models  (LLMs)  in  mental  health  referral 
+ scenarios,  akin  to  existing  AI  benchmarks  in  healthcare.  This  initiative  would  involve  a 
+ test-only,   black-box  3  dataset   comprising   anonymized,  synthetic,  or  securely  sourced 
+ mental  health-related  queries  and  responses,  ensuring  no  training  data  is  released  to 
+ protect  patient  privacy  and  data  security.  To  implement  this,  the  FDA  could  either 
+ develop  a  bespoke  secure  platform  or  leverage  an  existing  trusted  framework,  such  as 
+ those  used  in  regulated  clinical  trials  or  federal  data  challenges,  with  robust  encryption 
+ and  access  controls.  This  benchmark  would  enable  the  FDA  to  assess  LLMs’  ability  to 
+ accurately  identify   mental  health  needs,  provide  appropriate  referrals,  and  avoid  harmful 
+ outputs,  fostering  safer  integration  of  AI  tools  in  mental  health  support  while  setting  a 
+ regulatory standard for industry stakeholders. 
+ The  system  operates  through  a  submission-based  evaluation  process:  (1)  LLM 
+ developers  train  their  models  using  their  own  training  datasets;  (2)  the  developers 
+ submit  their  trained  models  for  benchmarking;  (3)  the  system  conducts  model  inference 
+ using  black-box  benchmarking  data;  (4)  a  report,  delivered  as  a  CSV  file,  is  produced  to 
+ demonstrate  the  model’s  performance  across  various   mental   health  categories  and 
+ patterns;  (5)  the  FDA  reviews  the  results  and  may  grant  approval  for  the  LLM  to  be  used 
+ in  specific  mental  healthcare  services;  (6)  applications  utilizing  the  approved  LLM  may 
+ then display an FDA seal within their interface. 
+ LLM Safety Approval 
+ We  believe  the  FDA  should  approve  LLMs  for  use  in  specific  applications  after  they 
+ demonstrate  consistent  performance  above  predefined  thresholds.  This  approval  would 
+ allow  developers,  such  as  those  creating  mental  health  applications,  to  display  an  FDA 
+ seal.  This  seal  would  certify  that  the  app's  LLM  has  met  the  required  performance 
+ standards  for  its  intended  purpose,  assuring  users  that  they  will  receive  appropriate  and 
+ necessary support when needed. 
+ 3  What is a “Black Box” Test Set? 
+ A  black  box  test  set  refers  to  a  dataset  that  is  hidden  from  LLM  model  builders.  The  black  box  test  set  is 
+ kept  secret  by  FDA  or  third-party  approved  by  FDA.  LLM  builders  cannot  access  its  features,  labels,  or 
+ distribution  directly.  This  ensures  that  models  are  evaluated  on  their  generalization  ability  rather  than  their 
+ capacity to overfit to a known test set. 
+
+
+ Reference 
+ [1] Abd-Alrazaq,  A.,  Alajlani,  M.,  Alhuwail,  D.,  et  al.,  Systematic  Review  and
+ Meta-Analysis  of  AI-Based  Conversational  Agents  for  Promoting  Mental  Health  and
+ Well-Being, npj Digital Medicine, 2023.
+ [2] APA,  Artificial  Intelligence  in  Mental  Health  Care,  American  Psychological
+ Association, 2024.
+ [3] Cohan,  A.,  Desmet,  B.,  Yates,  A.,  et  al.,  SMHD:  A  Large-Scale  Resource  for
+ Exploring  Online  Language  Usage  in  Mental  Health,  Proceedings  of  the  Conference  on
+ Empirical Methods in Natural Language Processing, 2018.
+ [4] D’Alfonso, S., AI in Mental Health, ScienceDirect, 2020.
+ [5] Guo,  Q.,  Wang,  X.,  Wu,  Y.,  et  al.,  The  Opportunities  and  Risks  of  Large  Language
+ Models in Mental Health, PMC, 2024.
+ [6] Saha,  T.,  Gupta,  S.,  Saha,  S.,  et  al.,  Safety  of  Large  Language  Models  in  Addressing
+ Depression, PMC, 2023.
+ [7] Xu,  S.,  Yang,  Z.,  Li,  C.,  et  al.,  Mental-LLM:  Leveraging  Large  Language  Models  for
+ Mental Health Prediction via Online Text Data, arXiv, 2023.
+ [8] Yang,  K.,  Zhang,  T.,  Ananiadou,  S.,  ChatCounselor:  A  Large   Language  Model  for
+ Mental Health Support, arXiv, 2023.
+ [9] Thieme,  A.,  Hanratty,  M.,  Lyons,  M.,  et  al.,  Use  of  Generative  Artificial  Intelligence  in
+ Psychiatry and Mental Health Care: A Systematic Review, Cambridge Core, 2023.
+ [10] Milne-Ives,  M.,  de  Cock,  C.,  Lim,  E.,  et  al.,  The  Impact  of  Artificial  Intelligence  on
+ the Tasks of Mental Healthcare Workers: A Scoping Review, ScienceDirect, 2022.
+ [11]  Rashkin,  H.,  Smith,  E.  M.,  Li,  M.,  et  al.,  Towards  Empathetic  Open-domain
+ Conversation  Models:  A  New  Benchmark  and  Dataset,  Proceedings  of  the  Annual
+ Meeting of the Association for Computational Linguistics, 2019.
+ [12] Losada,  D.  E.,  Crestani,  F.,  Parapar,  J.,  et  al.,  eRisk:  Early   Risk  Prediction  on  the
+ Internet, CLEF Conference and Labs of the Evaluation Forum, 2017–2023 (series).
+ [13] Denecke,  K.,  Abd-Alrazaq,  A.,  Househ,  M.,  Examining  the  Role  of  AI  Technology  in
+ Online Mental Healthcare: Opportunities, Challenges, and Implications, Frontiers, 2023.
+ [14] Vaidyam,  A.  N.,  Halamka,  J.,  Torous,  J.,  Artificial  Intelligence   for  Mental  Healthcare:
+ Clinical Applications, Barriers, Facilitators, and Artificial Wisdom, PMC, 2021.
+ [15]  Kabir,  S.,  Islam,  M.  R.,  Hossain,  M.,  Artificial  Intelligence  Significantly  Facilitates
+ Development  in  the  Mental  Health  of  College  Students:  A  Bibliometric  Analysis,
+ Frontiers, 2024.
+ [16]  Gaur,  M.,  Chandrasekaran,  D.,  Faldu,  K.,  et  al.,  Depression  Reddit  Dataset:  A
+ Resource  for  Analyzing  Depression-Related  Social  Media  Content,  arXiv,  2018
+ (assumed publication).
+
+
+ [17] Pisani,  A.  R.,  Gould,  M.  S.,  Dopp,  A.,  et  al.,  Crisis  Text  Line  Dataset:  Insights  from
+ Real-Time  Crisis  Counseling,  Journal  of  Medical  Internet  Research,  2019  (assumed
+ publication).
+
+

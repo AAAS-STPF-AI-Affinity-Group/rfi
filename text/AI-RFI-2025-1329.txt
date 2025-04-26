@@ -1,0 +1,285 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 88-uijd-0b33
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1329
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Mindset DC (Insurance Coalition)
+General Comment
+See the attached docum ent.
+Attachments
+FINAL_Mindset Mem o_ Insurance Coalition AI RFI Letter
+
+
+1 
+March 14, 2025  
+By electronic submission to:  
+The White House Office of Science and Technology Policy  
+1650 Pennsylvania Avenue NW  
+Washington, D.C. 20504  
+Re: Request for Information on Artificial Intelligence Accountability and Policy Frameworks  
+Docket No.: OSTP -2025- 0001 
+To Whom It May Concern:  
+On behalf of the Insurance Coalition, a consortium of life, property, and casualty insurers 
+engaged in federal policy development, we submit these comments in response to the Office of 
+Science and Technology Policy’s Request for Information (“RFI”) on Arti ficial Intelligence 
+Accountability and Policy Frameworks. Our members operate at the intersection of state -
+regulated insurance markets and federally supervised holding company structures, positioning us to provide unique insights into harmonizing AI governance across jurisdictional boundaries.  
+In our view, Artificial Intelligence and Machine Learning technologies hold transformative potential for enhancing economic security and consumer protections within insurance markets—
+a critical economic sector supporting $1.4 trillion in annual premiums.
+1 Insurers have pioneered 
+responsible AI deployment through risk -weighted governance frameworks that balance 
+innovation with consumer protections. These sector -specific implementations offer actionable 
+models for national AI policy development, particularly  in three key areas:  
+1.State- Federal Regulatory Coordination : The insurance industry’s existing McCarran -
+Ferguson framework demonstrates how federal baseline standards coexist with state -
+level innovation in AI oversight. Colorado’s Consumer Protections for AI Act (2023),Texas SB815, and the National Association of  Insurance Commissioners’ (NAIC) Model
+Bulletin on AI Systems  provide template architectures for outcome -based governance.
+2.Algorithmic Accountability Infrastructure : Insurers have operationalized AI risk
+management standards through continuous monitoring systems that audit training dataprovenance, model drift, and decision- making patterns.
+3.Public -Private Compliance Partnerships : Collaborative efforts, such as the NAIC’s Big
+Data and Artificial Intelligence Working Group, serve as successful examples ofstakeholder engagement models that the OSTP could consider.
+The Coalition strongly endorses the RFI’s emphasis on sector -specific governance approaches 
+that build upon existing regulatory architectures rather than layering overlapping requirements. Our analysis demonstrates that state insurance regulators have alre ady implemented rigorous 
+AI oversight mechanisms, including mandatory algorithmic impact assessments, third -party 
+model validation protocols, real -time bias detection systems, and actuarial certification 
+requirements. Together, these initiatives ensure a r obust framework for AI governance in the 
+insurance sector.  
+1 According to the Insurance Information Institute , U.S. insurance industry net premiums written totaled $1.4 trillion in 2021, with
+premiums recorded by property/casualty (P/C) insurers accounting for 53 percent. Premiums by life/annuity insurers accounting  for 
+47 percent, according to S&P Global Market Intelligence. International Cooperative and Mutual Insurance Federation (ICMIF). 
+(2023, June 30). https://www.icmif.org/wp -content/uploads/2024/04/ICMIF -Global -Mutual -Market -Share -2024- ENG.pdf  
+
+
+2 
+We propose adapting these insurance -sector models through OSTP’s AI Action Plan to create a 
+national governance framework that preserves state regulatory primacy while addressing cross -
+sector AI risks. Subsequent sections detail specific policy recommendat ions informed by seven 
+years of operational AI deployment across underwriting, claims processing, and fraud detection 
+systems. 
+I. Federal- State Coordination Mechanisms
+A. McCarran- Ferguson Framework Adaptation
+Under the Dodd- Frank Act, insurance companies that are also ISLHCs are subject to oversight 
+at the holding company level by the Federal Reserve.2 However, per the McCarran -Ferguson 
+Act (“McCarran- Ferguson”), enacted in 1945, states regulate the business of insurance.3 While 
+the Dodd-Frank Act created the Federal Insurance Office (FIO) to monitor the insurance sector and represent the U.S. in prudential aspects of international insurance matters, the Office was 
+not granted regulatory authority over the industry.  
+McCarran -Ferguson sets up a “reverse preemption” regime in which state laws regulating the 
+insurance business are not preempted unless Congress explicitly states its intention to do so in 
+federal legislation.
+4 State insurance regulation includes solvency regulation and consumer 
+protection regulation. This includes regulating policies, rates, and the conduct of insurance 
+companies in the market through continuous market conduct examinations. All 50 states have 
+an insurance commissioner who regulates insurance companies and their products. The 
+National Association of Insurance Commissioners (“NAIC”), a non -governmental body 
+comprising state insurance commissioners and staff, also establishes minimum accreditation 
+standards for capital and other prudential requirements that are largely uniform across the 
+states. While in all states, regulators examine AI tools, oversight by states varies. In some states, prior approval is required to use AI tools in healthcare setti ngs, while other states 
+examine the use of AI as part of ongoing market conduct exams.  
+The NAIC’s Innovation and Technology Task Force was established in 2019 to (1) provide a forum for state commissioners to study the issues at the intersection of insurance regulation and 
+emerging technologies and (2) propose model laws and regulations for application to the 
+insurance industry.
+5 Within the Task Force is the Big Data and Artificial Intelligence Working 
+Group, which explicitly studies the use and impact of AI in the business of insurance and makes 
+recommendations to the larger Task Force. In August 2020, the NAIC unanimously adopte d a 
+set of principles that originated from the Working Group, and which outline five key tenets for AI: 
+Fairness, Accountability, Compliance, Transparency, and Security.6 
+State insurance regulation includes robust laws and regulations under which insurers currently operate, including privacy protections, safeguarding health information, and restrictions on unfair discrimination.
+7 This includes prohibitions on the use of any factor in underwriting that is 
+2 31 USC § 313.
+3 15 USC § 1011.
+4 Id.
+5 National Association of Insurance Commissioners (NAIC), Innovation and Technology (EX) Task Force, NAIC, June 30, 2021,
+https://content.naic.org/cmte_ex_ittf.htm . 
+6 Id.
+7 See, e.g., NAIC Insurance Information and Privacy Protection Model Act (1992); NAIC Privacy of Consumer Financial and Health
+Information Regulation (2017); NAIC Unfair Trade Practices Model Act (2004).  
+
+
+3 
+not indicative of risk. The reverse preemption framework under 15 U.S.C. § 1011 continues to 
+empower state- level innovation while enabling the establishment of federal baseline standards. 
+This balance is demonstrated through the 2024 OSTP -NAIC Memorandum of Understanding, 
+which promotes the joint development of AI safety benchmarks for cross -sector adoption. 
+Additionally, 39 states now mandate that insurers align their AI governance programs with the NIST AI Risk Management Framework (RMF) profiles to enhan ce bias detection and model 
+validation. The Federal Reserve has also coordinated with state regulators to issue joint 
+supervisory guidance on AI’s impacts on financial stability, particularly concerning life insurance 
+reserving practices. This cooperative model successfully mitigates systemic risks while avoiding 
+regulatory duplication, a balance highlighted in the U.S. Chamber of Commerce’s November 
+2024 comments to the NTIA, cautioning against overlapping federal mandates. 
+B. Third -Party AI Governance Innovations
+The American InsurTech Council’s (AITC) November 2024 attestation model proposal 
+introduces an innovative accountability framework for third -party AI vendors. It mandates annual 
+certifications to ensure compliance with the NAIC Model Bulletin and state unf air trade practices 
+acts. Additionally, the proposal includes contractual obligations granting insurers the right to audit vendors and ensure their cooperation with regulators. Similarly, it offers safe harbor 
+provisions for those utilizing NAIC- accredited AI validators to further provide protection and 
+regulatory certainty.  
+This approach builds on Colorado’s ADAI enforcement provisions, which jointly hold insurers and vendors liable for algorithmic discrimination. Over 60% of large insurers have already implemented attestation clauses in vendor agreements, according to NAIC 2 024 market data. 
+II. State Regulatory Frameworks
+The insurance sector’s AI governance landscape has evolved significantly since 2023, with 21 states and the District of Columbia adopting the NAIC Model Bulletin on the Use of Artificial Intelligence Systems by Insurers as of December 2024.
+8 This represents a 62% increase in 
+jurisdictional coverage compared to 2023, demonstrating accelerated recognition of AI’s risks 
+and opportunities. States like Iowa,9 Massachusetts,10 and Maryland have implemented 
+additional requirements beyond the Model Bulletin, including mandatory third- party audits for 
+high-impact underwriting systems and real -time bias monitoring protocols.11 
+Colorado continues leading regulatory innovation through its Anti-Discrimination in AI Act 
+(ADAI), effective February 1, 2026. This bill prohibits algorithmic discrimination across seven key decision- making areas, such as insurance underwriting and claims. It also mandates that 
+8 The NAIC adopted the model bulletin in December 2023. Since then, eleven states  have adopted the bulletin: Alaska (adopted
+February 1, 2024), Connecticut (adopted February 26, 2024), Illinois (adopted March 13, 2024), Kentucky (adopted April 16, 20 24), 
+Maryland (adopted April 22, 2024), Nevada (adopted February 23, 2024), New Hampshi re (adopted February 20, 2024), 
+Pennsylvania (adopted April 6, 2024), Rhode Island (adopted March 15, 2024), Vermont (adopted March 12, 2024), Washington 
+(adopted April 22, 2024). Quarles & Brady LLP. (2025, March). States Adopt NAIC Model Bulletin on Insurers' Use of AI. https://www.quarles.com/newsroom/publications/states -adopt -naic-model -bulletin -on-insurers -use-of-ai
+9 In its November 7, 2024 bulletin , Iowa noted that the Iowa Insurance Division anticipates providing supplementary guidance on the
+governance of third -party AI systems.  
+10 Massachusetts HD 3750  would require health insurers to disclose AI use in processes like claims review and submit annual
+reports regarding training sets and bias minimization attestations.  
+11 Maryland has taken additional steps beyond adopting the NAIC Model Bulletin. House Bill 820,  introduced in the 2025 Regular
+Session, requires carriers, pharmacy benefits managers (PBMs), and private review agents (PRAs) that use AI, algorithms, or o ther 
+software tools for utilization review to ensure these tools are used in a specified manner.  
+
+
+4 
+consumers receive clear, plain -language disclosures about AI interactions, ensuring 
+transparency in how systems operate. Additionally, the ADAI grants the Attorney General 
+enforcement authority and rulemaking powers to address evolving risks associated with AI.  
+Texas has positioned itself as a pioneer in regulating algorithmic systems within insurance 
+practices through Senate Bill 815 (2025), marking a significant legislative step in overseeing AI -
+driven utilization processes in health benefit plans. The bill prohibits review agents from relying 
+solely on AI algorithms to “deny, delay, or modify coverage determinations related to medical 
+necessity.” These restrictions extend to full and partial claim adjustments, effectively closing 
+loopholes that could allow auto mated systems to make coverage decisions without human 
+oversight. The bill also mandates that physicians or other licensed providers must validate any 
+AI-generated recommendations. Furthermore, it grants the Texas Department of Insurance 
+(TDI) broad author ity to conduct real- time audits of AI systems used by insurers, including 
+modifying algorithms, retraining staff, or suspending AI deployment entirely for non -compliant 
+systems. 
+While Texas joins California, Colorado, and New York in regulating insurance AI, SB815 
+introduces novel requirements that push the regulatory frontier:  
+State  Key Features  Texas Differentiation  
+California  Individualized data requirements Real-time audit authority  
+Colorado  Broad anti -discrimination focus Medical specialty validation mandates  
+New York  Transparency reporting  Physician -led algorithm oversight  
+Texas  Hybrid human- AI decision protocols  Unannounced compliance inspections  
+These dev elopments reflect states’ growing emphasis on outcome -based regulation rather than 
+prescriptive technical standards, aligning with the NAIC’s risk -weighted oversight principles.  
+III. Examples of Uses of AI by Insurers
+Underwriting  
+Risk- based pricing is fundamental to the business of insurance and is the best way to ensure 
+that insurance is available, affordable, and reasonably priced. AI/ML technologies have been successfully integrated into existing insurer business processes. One of the most transformative 
+uses of AI/ML technologies by insurers is in the underwriting process. Larger data sets and 
+advanced analytical tools present the opportunity for improved pricing models and expanded 
+coverage.
+12 This allows insurers to provide a more seamless customer experience by creating 
+efficiencies in the sometimes lengthy underwriting process. AI tools may also enable insurers to identify previously undiscovered risk pools of underserved policyholders simil arly exposed to a 
+niche (or previously uninsurable) risk. This would allow for more tailored coverage, expanded policies, and/or lower costs for policyholders.  
+12 McKinsey & Company, Insurance 2030 —The impact of AI on the future of Insurance, March 12, 2021,
+https://www.mckinsey.com/industries/financial -services/our -insights/insurance -2030- the-impact -of-ai-on-the-future -of- insurance ; 
+see also ≈https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/article -risk-and-compliance -implications -of-ai.pdf . 
+
+
+5 
+AI/ML -enabled pricing models can also be dynamic. Technologies like telematics, which allow 
+insurers to analyze consumer behavior on an ongoing basis via a network of connected devices 
+(“internet of things” or “IoT”), and predictive modeling can alert a po licyholder to activities that 
+will, or may, raise coverage cost, which in turn could encourage lower -risk behaviors.13 
+Lastly, AI -enabled applications can help consumers better understand their property’s worth and 
+propose coverage accordingly. When purchasing a renter’s or homeowner’s policy, customers can use an app to take photos of their property and personal articles to determine appropriate 
+coverage amounts.  
+Claims Processing  
+AI/ML technologies can improve claims processing and overall customer satisfaction. An insurer can be immediately notified of a possible triggering event through integrated and real -time data, 
+and more accurate damage assessments can be made. Furthermore, the coverage provider 
+can proactively reach out to a policy holder to begin the claims process.
+14 By way of example, if 
+a heavy rainstorm, forest fire, or tornado is reported in the close vicinity of a store, the store 
+owner could receive an automatic communication from their insurer inquiring if the store was 
+impacted and if the owner wishes to file a claim. Similarly, AI can augment image files to 
+eliminate smoke residue, allowing forest fire assessment before it is even safe to enter the area. Such processes have the added benefit of significantly shortening response and recovery time 
+while improvin g the overall customer experience. However, some guardrails around the use of 
+technology in risk determination have been established as well. For example, Pennsylvania and 
+Maryland Insurance Commissioners have declared that drone footage is insufficient fo r 
+cancellation or non -renewal of homeowners’ policies.  
+Another application of AI for improved claims processing is chatbots, which are AI software that provides a chat conversation with a customer in place of a phone conversation.
+15 Automated 
+chat presents the opportunity to vastly improve overall efficiency by serving as a means of triaging claims. This allows insurers to handle claims and improve customer satisfaction by reducing long wait times.  
+Fraud Detection  
+Dynamic pricing through analysis of integrated consumer data not only creates a more efficient 
+underwriting process but can also help improve fraud detection. Through various third -party and 
+internal insurer data sources, AI models can analyze the likeliho od of fraud indicators in real 
+time when a claim is filed, which can significantly improve both hard and soft fraud detection.
+16 
+Consumer Protections  
+As discussed, there is a wide array of potential uses of AI/ML technologies by insurers that would allow for lower costs and improved customer experiences. While the manner in which the 
+data is collected and analyzed differs from traditional practice, its potential uses do not change. 
+13 Id.
+14 National Association of Insurance Commissioners, Artificial Intelligence, NAIC, October 30, 2019,
+https://content.naic.org/cipr_topics/topic_artificial_intelligence.htm.  
+15 Id.
+16 Cem Dilmeganni, 9 AI Insurance Applications/Use Cases in 2021: In -depth guide, AI Multiple, May 7, 2021,
+https://research.aimultiple.com/ai -insurance/ . 
+
+
+6 
+Therefore, we believe existing legislative and regulatory frameworks that ensure insurers are 
+good stewards of policyholder data can apply to integrating AI/ML technologies. 
+To support the efficacy, fairness, and accuracy of utilizing an AI model for detecting claims 
+fraud, guardrails and best practices can be implemented to mitigate potential bias. For example, 
+maintaining human involvement in designing and monitoring AI models can help identify and 
+correct potential biased outcomes long after an AI model is developed, tested, and launched. 
+Involving both humans and AI models will provide continuous feedback on the model’s 
+performance and allow insurers to continue to detect and mitigate potential bias.  
+When receiving consumer data from third parties that track consumer habits (e.g., wearable IoT devices, budgeting and health apps, or other geolocation technologies), ensuring that the third 
+party is also a good steward of customer data and that the consumer is aware of the use and transfer of their data is imperative. To achieve this goal and other important policy goals, the Coalition supports a federal data privacy standard with clear federal preemption language that 
+will protect consumers through requir ements like transparency in privacy notices.  
+IV. Policy Recommendations
+The Insurance Coalition makes two policy recommendations: continued support for the existing 
+regulatory framework and support for a regulatory framework that encourages innovation.  
+Support of Existing Regulatory Framework  
+Using AI in the insurance processes should not create new requirements for companies. Still, 
+this capability should be appropriately implemented to meet existing regulatory requirements. 
+Consistent with existing technologies and methodologies, looking thro ugh the lens of outcomes 
+rather than process is essential. Further, reviewing AI systems and processes should follow a 
+risk-based analysis. The Insurance Coalition recommends that before federal regulators issue 
+regulations that would apply to ISLHCs, they  first consider the adequacy and adaptability of the 
+existing regulatory framework and collaborate with the NAIC and state commissioners and 
+legislatures. Doing this will avoid duplicative or conflicting regulations with which ISLHCs must 
+comply. 
+Similarly, if an AI/ML regulation is created, it should be harmonized with existing federal laws 
+and regulations that apply to ISLHCs. These laws include, but are not limited to, those 
+governing the use or transfer of consumer data (e.g., GLBA and HIPAA) and state laws. By harmonizing regulations or creating a safe harbor for compliance with existing and overlapping 
+laws and regulations, insurers and other businesses can understand their compliance 
+obligations as clearly as possible.  
+Encourage Innovation  
+A proper balance that guarantees adequate oversight and establishes strong safeguards protecting consumer data while fostering an environment that encourages innovation and 
+integration of new technologies into the insurance business. As shown by the use ca ses above, 
+AI has significant potential to benefit consumers. To the extent that AI/ML technologies present 
+novel issues that are not adequately addressed by existing regulatory and legislative 
+frameworks, the Coalition urges that any new regulation be narrowly tailored to achieve the 
+desired goal and focused on the use of the technologies, not the technology itself.  
+
+
+7 
+V. Conclusions
+Insurers fully embrace our responsibility to create opportunities for more Americans and strive to 
+meet significant societal needs, including closing wealth gaps and broadening financial well -
+being. AI/ML technologies can assist the insurance industry in those efforts by improving 
+underwriting, claims processing, fraud detection, and other day -to-day business activities. The 
+Coalition believes the existing regulatory framework is adequate to address concerns regarding 
+the use of AI and its potential for dis crimination. Any new regulations by federal regulators of 
+AI/ML technologies should be considered in this context. Particular appreciation should be given to the state -based regulatory regime of insurers and state regulators’ ongoing work in this 
+space, th e need to harmonize with existing laws governing data use, and the need to foster an 
+environment that encourages innovation while protecting consumers. 
+The Insurance Coalition appreciates the opportunity to contribute to this critical policy 
+discussion. We look forward to continued engagement as the process unfolds. 
+Sincerely, 
+Zach Ostro 
+Principal, Cybersecurity Working Group The Insurance Coalition  
+
+

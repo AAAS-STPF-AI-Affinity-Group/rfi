@@ -1,0 +1,62 @@
+Response to OSTP RFI on AI 
+Adam Berinsky, Antonio Torralba, Asu Ozdaglar, Daniel Huttenlocher, Daron Acemoglu, David 
+Goldston, Dylan Hadfield-Menell, Jacob Andreas, Manish Raghavan, Sendhil Mullainathan, 
+Yoon Kim, members of the MIT ad hoc group on AI Governance. 
+Thank you for seeking comment on ideas for the Administration’s Artificial Intelligence (AI) 
+Action Plan.  In this response, we – a group knowledgeable about AI from across the 
+Massachusetts Institute of Technology (MIT) – focus on ways in which we believe the 
+government can play a critical role in helping advance America's AI leadership and innovation. 
+The first is to take a practical approach to AI governance, for specific tasks rather than 
+abstract notions of AI risks. A good starting point is to ensure that in areas where human 
+activities are subject to oversight, such as in medicine or finance, AI models are also subject to the same regulations.
+ The second is to develop AI that serves hard-working Americans, by 
+marshaling the resources of the government, the private sector, and the nation’s STEM research universities, to develop AI that broadly raises the standard of living – what we term “pro-worker AI.” The third is to develop new educational models for the workforce of the AI age, by leveraging new pedagogies and new curricula that prepare students to work alongside and in collaboration with new AI tools. 
+The thoughts we provide briefly here draw on two  papers from a broader series of AI 
+Policy Briefs that were released starting in the fall of 2023: https://computing.mit.edu/wp-
+content/uploads/2023/11/AIPolicyBrief.pdf and https://computing.mit.edu/wp-
+content/uploads/2023/11/Pro-Worker-AI-Policy-Memo20.pdf. We see these briefs as having 
+grown even more relevant since their release, with continued developments in AI, its use, and its oversight.  
+We believe that the basic principle of AI governance should be that the use of AI is 
+governed in the same manner as an activity or task would be governed if performed without AI, and to the extent possible by the same laws, regulations, norms and agencies used when AI is not employed. If, for example, AI is developed and used to dispense medical advice, the provider of the AI system and those using it should be held to the same standards as a human providing medical advice without the use of AI.  To take another example, self-driving vehicles should be 
+governed by the same laws and rules as vehicles driven by humans (and today primarily are). This approach provides both flexibility and certainty for AI development, innovation, and use. 
+An entirely new structure of law is not needed to govern AI, nor should the use of AI be a 
+means of circumventing existing laws or regulations.  The starting point should be applying 
+existing governance to AI before embarking on new approaches.  In the case of laws that depend 
+on determinations of intent, the laws may need to be clarified.  But fundamentally, the current array of law governing licensing, contracts, liability and the performance of specific activities should be the basis for governing AI. 
+
+
+A simple thought experiment for the governance of AI is the “fork in the toaster” test.  
+It’s widely known and accepted that if you put a fork in a toaster and get a shock, it’s your own 
+fault.  That’s because the consumer can reasonably be expected to understand risk of electric shock and proper practices, and the toaster has been designed to limit mishaps.  A similar set of norms and rules need to evolve for AI systems, where it’s clear who’s responsible when something goes wrong and how to avoid the most obvious dangers. To facilitate this form of governance, providers of AI systems that are intended for specific purposes should identify those intended uses before an AI system is deployed.  Providers of general-purpose AI systems might be required to list whether certain uses are not intended and whether “guardrails” have been put 
+in place to try to prevent such uses.   
+Auditing approaches and an auditing ecosystem could be developed to ensure AI systems 
+in domains where their use is governed are performing as expected.  Auditing systems could be mandatory or voluntary – or a mix, with mandates in place for the highest risk uses and a 
+voluntary approach relied on for others. Auditing standards might be established by a non-profit entity akin to the Public Company Accounting Oversight Board or by a government entity like the National Institute of Standards and Technology. The practice of auditing AI systems remains an active area of research, though, and investments are needed to develop ways to test and evaluate models for their reliability, predictability, and vulnerabilities, which will ultimately enhance a system's performance, usefulness, and security. 
+ AI systems will often be built “on top of” each other and may interact in unexpected 
+ways. Means of governing these “AI stacks” will be particularly important. We believe that the general principle should be that the ultimate provider and user of an AI service should be responsible for its performance, although there may be instances in which the provider of an AI system that is an element of the stack would share responsibility, if that system were not performing as expected. Auditing of system behavior can play a helpful role in determining such responsibility. 
+Governance will need to evolve with the technology, and with evolving public 
+understanding, attitudes and expectations.  Indeed, one goal of any AI governance approach should be to make expectations clearer, while also encouraging more research by the private sector, universities and other on how to make AI systems more reliable and safer. 
+The second area where the government has an important role to play in American AI 
+leadership is facilitating the development and deployment of AI that broadly raises the standard of living for hard-working Americans. There is considerable fear about AI not only displacing workers but also disproportionately doing so for good jobs that enable workers to support a family and to improve their skills so as to position themselves for better jobs in the future. Simply displacing workers is never good for the labor market, but that may be a natural initial focus for deployment of AI.  
+Another path is available where AI would be complementary to most humans—
+augmenting their capabilities—including both white-collar and blue-collar workers. By 
+encouraging the development of AI models and applications that can increase worker 
+
+
+productivity and expertise, it is possible to help workers become more productive while creating 
+and maintaining good, well -paying jobs for a broad range of Americans.  
+Policy approaches such as equalizing tax rates on employing workers and on owning 
+equipment/ algorithms may help achieve this by leveling the playing field between people and AI 
+systems. Increasing funding and tax credits for human-complementary technology research and 
+development can raise the priority for such work both in the private sector and in university research. Such policies can foster the development of AI to create and support new occupational tasks and new capabilities for workers – enabling office workers, nurses, medical technicians, electricians, plumbers and other workers to do more expert work. This can raise productivity and boost pay by leveling workers up.  
+The third area where the government has an important role to play in American AI 
+leadership is support for the development of new educational models to provide people with actionable skills  for the AI workforce, as well as to be informed citizens in this new age. As jobs change with AI it will be critically important for American workers to be able to develop the skills to work alongside AI and to integrate it into their work. Much as with developing AI that can help produce better jobs, education and training of the new workforce for these jobs is important to success of the AI economy. Currently, the main uses of AI in education are for students to access information via tools such as Chatbots and for schools to be able to automate 
+some teaching tasks. This does not even begin to scratch the surface when it comes to teaching 
+students how to learn better with AI, and how to work effectively with AI systems. This promise entails integrating AI holistically into curricula, classrooms, and more hands-on, practical, student-centric and experiential learning. This type of job-relevant education for the AI future would have a transformational impact on individual livelihood and economic vitality.  
+As noted above, we offer more detail in the above referenced Policy Briefs on the first 
+two of these topics. But what we emphasize in these brief comments is how the government can 
+help ensure that AI research, development and deployment keeps the nation at the forefront of AI and brings broad benefits to Americans and to our economy. 
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+

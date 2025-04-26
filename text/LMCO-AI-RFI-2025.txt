@@ -1,0 +1,994 @@
+1 
+ 
+ 
+ 
+ Lockheed Martin Corporation  
+2121 Crystal Drive #100 Arlington, VA 22202 
+Telephone 703•413•5747 Facsimile 703•413•5908 
+ 
+ 
+Mr. Faisal D’Souza 
+National Coordination Office 
+National Science Foundation 
+2415 Eisenhower Avenue 
+Alexandria, VA 22314 
+Email Submission:  Document Number: 2025-02305   
+Re: Request for Information on the Development of an Artificial Intelligence (AI) Action Plan1 
+Dear Mr. D’Souza: 
+Lockheed Martin Corporation (Lockheed Martin, LM) appreciates the opportunity to submit 
+these comments in response to the Networking and Information Technology Research and 
+Development (NITRD) National Coordination Office’s (NCO), National Science Foundation (NSF) 
+Request for Information (RFI), Development of an Artificial Intelligence (AI) Action Plan .2 
+Lockheed Martin commends the White House for its strong AI leadership, as evidenced by 
+Executive Order  14179: Removing Barriers to American Leadership in Artificial Intelligence .3 
+Undoubtably, the U.S. must sustain and enhance its significant global AI leadership to promote 
+economic competitiveness, national security, and human flourishing—the AI Action Plan will 
+play a critical role in achieving this objective.  
+Lockheed Martin is a global enterprise principally engaged in the research, design, 
+development, manufacture, and integration of next-generation technologies, systems, 
+products, and services for both government and commercial customers worldwide—many of 
+which are seeking to leverage AI. One such Lockheed Martin example is the development of AI 
+agents for the Defense Advanced Research Projects Agency’s (DARPA) AlphaDogfight trials, a 
+three-day competition designed to demonstrate advanced algorithms capable of performing 
+ 
+1 This document is approved for public dissemination. The document contains no business-proprietary or 
+confidential information. Document contents may be reused by the government in developing the AI Action 
+Plan and associated documents without attribution. 
+2 NSF, Request for Information on the Development of an Artificial Intelligence (AI) Action Plan (rel. Feb. 6, 
+2025).  
+3 EO 14179: Removing Barriers to American Leadership in Artificial Intelligence (Jan. 23, 2025). 
+
+
+2 
+ 
+ 
+ 
+ simulated, within-visual-range air combat maneuvering.4 We also recognize the important role 
+that industry partnerships will play in furthering the science and application of both AI and 
+machine learning (ML). For example, Lockheed Martin has engaged in strategic partnerships 
+covering a breadth of infrastructure needs with companies such as NVIDIA, Microsoft, and 
+Meta; and, through joint technology agreements with companies such as Intel and IBM, is 
+working to advance the science of state-of-the-art technologies, such as neuromorphic 
+computing—where elements of a computer seek to mimic the operation of a human brain. 
+Given the significant battlespace role potential for AI, Lockheed Martin has also made enduring 
+investments in its own in-house AI capabilities, including establishing the AI Center,5 and a 
+subsidiary company, Astris AI.6 These investments have yielded significant results, including the 
+deployment of hundreds of large language model applications, processing over 3,000,000,000 
+tokens per week. Appendix I to these comments presents an LM-authored Institute of Electrical 
+and Electronics Engineers (IEEE) paper highlighting these successes.  
+Lockheed Martin offers the following for consideration as part of the AI Action Plan: 
+National Security and Defense  
+For AI in national security applications, Lockheed Martin believes a “human-in-the-loop” is 
+always necessary to ensure human judgement and oversight of a system’s decisions, regardless 
+of other nations’ stated positions on the matter. Additionally, and as discussed in the 
+Explainability and Assurance of AI Model Outputs  section below, decision traceability 
+requirements should similarly be more stringent for national security applications—Lockheed 
+Martin has similarly endorsed this principle as part of the Defense Innovation Board’s principles 
+for the ethical use of AI. 
+The United States Government (USG) should also consider further investing in edge-AI 
+technologies and low-power systems for use in the field—examples are those developed by 
+Lockheed Martin under DARPA’s Artificial Intelligence Reinforcements contract. Edge-AI is 
+already yielding significant benefits to our military: Lockheed Martin has successfully made 
+AI/ML updates to the Navy’s Aegis Combat System improving how Navy destroyers counter 
+Houthi missile and drone attacks in the Red Sea.7  
+ 
+4 See https://www.darpa.mil/news-events/2020-08-26 .  
+5 See https://www.lockheedmartin.com/en-us/capabilities/artificial-intelligence-machine-learning.html .  
+6 For more on Astris AI, see https://astrisai.com/ .  
+7 See https://www.defensenews.com/naval/2024/03/21/us-navy-making-aegis-updates-training-changes-
+based-on-houthi-attacks/ .  
+
+
+3 
+ 
+ 
+ 
+ Edge processing provides servicemembers with critical advantages during combat operations by 
+leveraging the Department of Defense’s (DoD) vast data streams to develop actionable 
+intelligence, without having to upload significant amounts of raw data to the cloud; and 
+similarly, low-power systems could prolong the use of an AI capability in the field during 
+persistent operations without requiring the transport and carry of additional energy resources.  
+Finally, as the battlespace will not be segregated into individual silos based upon security 
+classifications, AI training environments cannot be compartmentalized. Those few settings 
+designed for mixed classification use are not properly configured to support AI model training. 
+Lockheed Martin recommends considering whether AI-specific security classification reform is 
+necessary to enable the multi-classification training environment which most accurately mimics 
+the real world. 
+Regulation and Governance  
+Clear regulatory guidelines can be enabling to any fast-paced, burgeoning industry, and AI is no 
+exception. Generally, Lockheed Martin is supportive of AI policy and regulation that clearly 
+establishes guardrails for acceptable behaviors. However, and echoing Vice President Vance’s 
+AI Action Summit speech,8 LM cautions against an overly burdensome regulatory regime which 
+may inadvertently stifle innovation—thus placing U.S. AI leadership on precarious footing. A 
+strong USG-industry partnership will be able to identify regulatory roadblocks to innovation, 
+overlaps, and gaps. We applaud the Administration’s efforts to-date to create a business- and 
+innovation-friendly regulatory environment while also recognizing the need for public 
+discussion. 
+A federal regulatory and governance regime is critical to ensuring that innovators are not 
+subject to a patchwork of inconsistent state-level requirements. Some such proposals mimic 
+the European Union’s more restrictive approach to AI. Given President Trump’s desire to 
+promote innovation and focus on deregulation, federal AI governance leadership may seek to 
+minimize the potential for significant differences among states, which can impose additional 
+costs and burdens.  
+There exists a vast array of AI models and capabilities, many of which are tailored to specific 
+tasks—regulatory regimes should be similarly constructed. Specifically, it is important to clearly 
+differentiate between AI as a component of a national security system, and what many 
+legislative proposals term “high-risk AI use cases”, i.e., AI used in making decisions with 
+materially legal or otherwise significant impacts to consumers ( e.g., access to lending services, 
+insurance, etc.). Several draft federal and state proposals have resulted in confusion regarding 
+ 
+8 Remarks by Vice President Vance at the AI Action Summit (Feb. 11, 2025).  
+
+
+4 
+ 
+ 
+ 
+ whether national security systems are within scope—often because these proposals rely on 
+multiple preexisting, conflicting terms. As such, it may also be necessary to create new 
+definitions for use in the AI context to best ensure an intended outcome is achieved.  
+For any federal AI legislation/regulation, it would also be helpful to create an exemption 
+process for AI developed exclusively for national security use cases or integration into a 
+national security system as it relates to “high-risk AI use cases.” It may likely also be necessary 
+to develop a complementary set of requirements exclusive to national security AI.  
+Hardware and Chips 
+Access to the necessary chips and hardware is critical to the success of the U.S. AI industry, as 
+well as mitigating associated national security vulnerabilities—such as supply chain disruptions 
+due to any number of factors. We emphasize the imperative of, and strongly recommend that, 
+the USG substantially invest in domestic semiconductor capabilities—both manufacturing 
+infrastructure and expertise. Such investment will help to guarantee the U.S.’ chip supply, 
+providing a critical competitive advantage while also increasing supply chain resilience and 
+shoring up the associated national security concerns. Lockheed Martin notes the 
+implementation of the CHIPS Act is expected to play a key role in strengthening domestic 
+capabilities. 
+With respect to national security applications for AI specifically, we also believe it is important 
+to ensure that access to chips and other necessary technologies be guaranteed to the DoD and 
+the defense industrial base (DIB). Lacking guaranteed access, the DIB’s small scale may not be 
+able to compete with commercial demand during a supply crisis.  
+Data Centers and Energy  
+Training and developing AI systems and ML models requires significant amounts of data storage 
+and computing power. While data centers are well-equipped to meet these needs, they 
+consume vast quantities of electricity and water, with one Department of Energy (DOE) study 
+predicting data centers will consume 6.7-12% of total U.S. electricity by 2028.9 To address this 
+demand, the U.S. should stimulate investment in the research & development of baseload 
+generation infrastructure, such as small modular nuclear reactors; smart grid technologies that 
+can better match electric supply and demand in real-time; and improved energy storage 
+technologies, e.g., batteries, which would increase data center resilience. 
+ 
+9 DOE, DOE Releases New Report Evaluating Increase in Electricity Demand from Data Centers (Dec. 20, 
+2024), https://www.energy.gov/articles/doe-releases-new-report-evaluating-increase-electricity-demand-
+data-centers .  
+
+
+5 
+ 
+ 
+ 
+ Resilience will also be essential for electric substations and transmission systems. For instance, 
+large power transformers take months to construct and have long lead times—if one such 
+substation transformer servicing a data center were to go down, the center’s power supply may 
+be disrupted for months absent power being supplied from a secondary source or a 
+replacement transformer being readily available. 
+Increased energy demand will require that data centers themselves seek to adopt new and 
+emerging technologies to achieve greater efficiency. Example technologies include specialized 
+semiconductors for data centers and AI training use cases, as current graphics processing unit-
+based capabilities are costly in terms of energy consumption and waste heat generation; and 
+brain-inspired, neuromorphic computers, which can be less energy intensive than current data 
+center systems.  
+Streamlined regulations for permitting, access to energy, and environmental processes are 
+essential to the U.S.’ ability to lead the world in AI; multi-year regulatory processes slow down 
+American companies, and can both drive offshoring to more permissive regulatory countries 
+and provide other nations with valuable time to catch up to the U.S.  
+Model Development and Risk  
+AI will continue to gain in prevalence, and so too will the associated risks, thus we recommend 
+developing standardized risk classifications and a use-case specific risk identification 
+framework—as risk(s) will depend greatly upon an AI model’s intended use. Further, and in 
+coordination with industry and academia, we believe the Department of Commerce’s (DOC) 
+National Institute of Standards and Technology (NIST) is uniquely suited to develop an AI risk 
+management framework (RMF), which is essential for the development of traceable, trustable 
+AI. NIST’s previous successes in developing cybersecurity standards demonstrate its capacity to 
+develop an AI RMF.  
+We also recommend enhancing existing standards and regulations for incident reporting, to 
+include high-risk, high-impact AI-related incidents; creating sector-specific assurance 
+mechanisms for critical infrastructure sectors; and developing an authoritative database of 
+trusted AI models, given concerns related to open-source model provenance.  
+National security AI use cases are significantly different than for other applications. While we 
+support a national security exemption for “high-risk AI use cases”, as discussed in the above 
+Regulation and Governance section, AI for national security should not be exempted from an 
+RMF. The DoD and the DIB should collaborate to identify the appropriate risk tolerances and a 
+national-security specific RMF. While these risk tolerances should flow top-down, there should 
+also be an appropriate amount of flexibility to adjust to program-specific needs.  
+
+
+6 
+ 
+ 
+ 
+ Open-Source Development 
+Lockheed Martin believes an AI Bill of Materials (AIBOM) is key to building safe, trustworthy AI. 
+Beyond the above discussion regarding provenance, open-source models present unique 
+challenges. For instance, it is challenging to determine whether open-source models are 
+compliant with AI principles, and they often lack supply chain transparency and validation. 
+This tacitly shifts the burden to consumers, who are unequipped to judge model “goodness”. 
+An AIBOM would greatly increase consumer confidence in open-source models and would be 
+even more valuable for DIB systems, which represent prime targets for adverse action by state 
+and non-state actors alike. An AIBOM is not dissimilar from a software bill of materials, which 
+the Cybersecurity & Infrastructure Security Agency (CISA) has recognized as “a key building 
+block in software security and software supply chain risk management”,10 with an AIBOM’s 
+additional requirements helping to address the greater complexity and opacity associated with 
+AI models.  
+Standards such as digital signatures for AI models and provenance tracking would also assist in 
+assessing open-source models. Tamper-proof digital signatures could prove especially useful. If 
+a model is altered without access to the cryptographic signing credential held by the true author 
+or publisher, the signatures will no longer match—indicating an (potentially malicious) 
+alteration to the model. Further, the widespread acceptance of these techniques could 
+themselves provide an additional layer of security, as consumers are likely to look upon 
+unsigned (or otherwise unverified) models with additional scrutiny, as verification would be the 
+expected norm.  
+We also believe fostering the development of open-source models is critical to enabling a 
+competitive development environment and will further assist in system interoperability. It 
+would be detrimental to U.S. leadership for AI to be developed primarily in proprietary 
+ecosystems. Likewise, encouraging modular, interoperable AI solutions will help customers—
+including federal agencies—avoid vendor lock-in.  
+Explainability and Assurance of AI Model Outputs 
+The absence of regulatorily-standardized explainability requirements has slowed the adoption 
+of AI, especially as it relates to “high-risk” models, in regulated industries, such as the financial 
+sector. Explainability is critical for assessing model accuracy, fairness, and transparency, which 
+in turn impacts trust and confidence in a given model. It’s also unlikely all use cases and models 
+will require the same level of explainability. Lockheed Martin recommends explainability 
+requirements ( e.g., what constitutes sufficient explainability) be based upon the above-
+discussed risk classifications, and further that safety of life and other critical systems be 
+required to display higher degrees of traceability.  
+ 
+10 CISA, Software Bill of Materials (accessed Mar. 5, 2024) https://www.cisa.gov/sbom .  
+
+
+7 
+ 
+ 
+ 
+ Cybersecurity  
+AI has the potential to address the escalating speed, complexity, and frequency of cyber 
+threats, providing a powerful new tool against malign cyber actors. High-risk AI models, 
+however, are themselves targets for cyber-attack and are vulnerable to unique cyber threats. 
+We recommend the development of cybersecurity standards to counter AI-specific attacks, 
+including, but not limited to: model inversion, where the output of a model is used to infer 
+something about a model’s parameters or architecture, i.e., the non-public characteristics of a 
+system; prompt injection, which, similar to traditional Structured Query Language injection 
+attacks, obfuscate malicious prompts to manipulate an AI system into ignoring its guardrails, 
+e.g., leaking sensitive data; and data poisoning, where the training dataset of an AI model is 
+intentionally compromised to influence or manipulate the operation of that model.  
+As discussed in Model Development and Risk , we believe NIST’s solid track record on developing 
+cybersecurity standards makes it a logical choice for developing standards to address AI-specific 
+cyber threats. LM also recommends leveraging Federally Funded Research and Development 
+Centers (FFRDC) given their instrumentality in developing AI cybersecurity norms based upon 
+cyber principles.11  
+Conclusion 
+Lockheed Martin looks forward to working with the Administration, on the development of the 
+AI Action Plan, and, more generally, on ensuring that the United States remains the undisputed 
+global leader in AI.  
+Sincerely,  
+ 
+LOCKHEED MARTIN CORPORATION  
+Jennifer A. Warren 
+VP, Global Regulatory Affairs & Public Policy 
+ 
+Andrew D. Farquharson 
+Global Regulatory Affairs & Public Policy 
+Analyst 
+ 
+11 See, e.g., https://www.mitre.org/news-insights/publication/principles-reducing-ai-cyber-risk-critical-
+infrastructure-prioritization  (Oct. 25, 2023).  
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix I 
+ 
+ 
+ 
+ 
+
+
+XXX-X-XXXX-XXXX-X/XX/$XX.00 ©2025 IEEE Lockheed Martin AI Factory 
+Generative AI and MLOps for Engineering, Enterprise and Edge
+Mark Maybury  
+Vice President, IEEE Fellow 
+Engineering and Technology 
+Lockheed Martin  
+Chelmsford, MA  USA 
+ Greg Forrest 
+Director, AI Foundations 
+Lockheed Martin AI Center  
+Shelton, CT, USA 
+ Donna O’Donnell 
+Chief Revenue Officer 
+Astris AI 
+Westport, CT USA 
+Abstract—This article reports on the rapid creation and 
+deployment at scale of hundreds of Large Language Model (LLM) 
+applications, highlighting several across enterprise, engineering 
+and edge use cases. This outcome was accelerated by the creation 
+of an open architecture, secure and scalable generative AI Factory, 
+a platform that empowers thousands of developers and over 
+50,000 end users across a diverse set of data types and use cases 
+throughout our global enterprise. The approach reveals how to 
+affordably deploy generative AI to create value securely at scale.  
+Keywords—Generative AI, AI Factory, LLMs, scale, security 
+I. INTRODUCTION  
+Generative AI promises significant value creation driven by 
+improvements in innovation, productivity, and cost avoidance. 
+Illustrative task acceleration benefits include 29% faster 
+programming for novices, 25% faster consulting, and 34% 
+faster customer service [1]. Automation and productivity 
+opportunities levering LLMs are present in all domains and 
+analysts project $2.6-$4.4 trillion in value creation potential 
+across 66 use cases [2]. In spite of this exciting potential, most 
+organizations are stuck in pilot purgatory, stalled by unclear 
+outcomes, limited LLM access, risk aversion, and/or inability 
+to scale. After describing a range of dozens of operational use 
+cases at Lockheed Martin, this article exemplifies use cases 
+deployed responsibly and at scale in a new distributed machine 
+learning operations and generative AI platform which currently 
+supports over 10,000 engineers and developers and 50,000 
+LLM users, processing over 3B tokens per week. Given 
+continuous evolution, we introduce the Astris AITM platform as 
+the next phase of the Lockheed Martin AI Factory TM. 
+II. GENERATIVE AI USE CASES  
+Lockheed Martin’s hundreds of use cases can be described 
+by their purpose, be it for enhanced engineering, enterprise 
+operations, or edge customer missions. Figure 1 illustrates  some 
+of the broad range of use cases in operation at Lockheed Martin 
+used within and across businesses in air, space, missiles, and 
+rotary and mission systems. We illustrate these classes in turn. 
+   
+Fig. 1.  Example use cases A. Engineering Use Cases 
+Large language models are effective not only at processing 
+(summarizing, paraphrasing, or translating) natural language, 
+but equally at transforming formal languages such as genetic 
+code, computer code, and mathematical formulas or logic. For 
+example, as shown on left side of Figure 2, LM engineers 
+enhance their productivity [3] as well as code quality (efficiency, 
+readability, security) by employing the Jiminy co-pilot, an 
+internally hosted Visual Studio Code Extension agent embedded 
+in our software development environment. The Jiminy co-pilot 
+accelerates core software development operations such as code 
+autocompletion, unit test generation, code translation from one 
+language to another, documentation generation, code 
+optimization, and bug detection. Copyright risks are mitigated 
+by, first, tuning LLMs with Lockheed Martin IP and, second, 
+training developers to use Jiminy not to generate algorithmic 
+solutions but also to assess code safety and security, create 
+software tests of developed code, improve its readability, and 
+document it. A natural language interface answers questions 
+about the code base or developer documentation naturally.  
+ 
+Fig. 2.  Engineering use cases 
+In support of advanced military programs like F-22, AI 
+Factory's low-code RAGaaS (Retrieval Augmented Generation 
+as a Service) was used to build a chatbot that provides a user-
+friendly interface to access Joint Simulation Environment (JSE) 
+information. The JSE, led by the Naval Air Warfare Center 
+Aircraft Division (NAWCAD), is a critical component of the US 
+military's training and testing infrastructure, enabling simulation 
+of complex scenarios to enhance readiness and reduce costs. 
+The chatbot was trained on a vast corpus of data, including 
+government documentation, online resources, code samples, and 
+header files, and deployed on enterprise AI infrastructure. It has 
+brought significant value to the developing program in Skunk 
+Works by providing a centralized knowledge hub that reduces 
+This effort supported by Lockheed Martin Corporate  
+
+
+time and effort to find critical information, enables faster and 
+more informed decision-making, and improves the overall user 
+experience. Other programs, starting with F-22, are well 
+positioned to apply this capability quickly. 
+Another LLM engineering use case, shown on the right of 
+Figure 2, extends our Model Based System Engineering 
+(MBSE) environment with an assistant that imports existing 
+Systems Modeling Language (SysML) models. More important, 
+it autogenerates SysML from natural language descriptions of 
+system requirements. The MBSE assistant also supports Q&A 
+on SysML models. The assistant accelerates and enhances 
+accuracy and consistency of generative design cycles. Given use 
+of the AI Factory framework for deploying LLMs to cloud 
+independent networks, the platform supports classified or “air-
+gapped” program deployments.  
+B. Enterprise Use Cases 
+While engineering tools support thousands of our 60,000 
+engineers, the Lockheed Martin Navigator shown on the left side 
+of Figure 3 provides safe access to multiple LLMs with over 
+50,000 active users (42% of employees) enabling text 
+summarization, email drafting, document interrogation, 
+brainstorming, Q&A, proofreading, and other generative tasks 
+across the enterprise, amplifying knowledge-worker efficiency, 
+speed, and effectiveness.  
+ 
+Fig. 3.  Enterprise use cases 
+Another use case within our Space business area is illustrated 
+on the right side of Figure 3. In this proposal development 
+assistant, model tuning with previously successful proposals, 
+effective prompt engineering, retrieval augmented generation 
+(RAG), automated critique, and human review has enabled the 
+generation of responses to over a thousand requests for 
+proposals by generating recommendations for proposal content 
+that helps grow sales. Proposal assistance enhances speed, 
+accuracy, affordability, compliance, and win rates while 
+simultaneously broadening employee knowledge. 
+The value of enterprise deployments such as these is 
+enhanced by tuning open source LLMs with enterprise specific 
+knowledge captured in structured, unstructured and semi-
+structured documents containing information such as corporate 
+policies and procedures, project and quarterly reports, product 
+catalogues, supplier descriptions, customer requirements and 
+insights, financial records, and competitive intelligence. Tuning 
+requires careful exclusion of any classified, export control 
+and/or sensitive information as well as appropriate user access control of resultant LLMs to ensure appropriate privacy, 
+security, and confidentiality. The resultant authoritative sources 
+can greatly enhance enterprise knowledge workflows. In related 
+research, Bloomberg uses financial data to fine tune its internal 
+Bloomberg GPT to enable AI assisted journalism through 
+capabilities including automating headline generation, chart 
+summarization, table understanding, story summarization, and 
+financial story generation (including countering adversarial 
+attacks) [4]. AI assisted journalism provides Bloomberg with a 
+speed and capacity advantage while emphasizing accuracy and 
+trust.  
+C. Edge Use Cases 
+In addition to enterprise value, AI Factory has accelerated 
+many missions for Lockheed Martin’s customers. MLOps is 
+critical to supporting missions in denied or disconnect 
+environments, where models need to be trained at the edge to 
+meet rapidly changing mission environments. AI Factory 
+ensures teams of engineers and operators can securely train at 
+the edge to meet the needs of a given mission. AI Factory 
+provides the warfighter with an automated, repeatable, and 
+robust end-to-end machine learning pipeline and the ability to 
+confidently retrain and deploy new models at the speed of 
+relevance. Although not GenAI, robust MLOPs processes were 
+used in a recent example shown on the left of Figure 4 in which 
+the U.S. Navy and Lockheed Martin developed and fielded 
+software updates for destroyers shooting down Houthi missiles 
+and drones in the Red Sea [5].   
+More specially, in collaboration with the USN, LM 
+developed an Aegis Speed to Capability process that allows for 
+small changes to be rapidly fielded, instead of waiting to 
+incorporate them into the next major baseline upgrade to the 
+combat system software, reducing the time to produce updates 
+from months to days, and eventually hours. The data feeds LM’s 
+AI Factory machine learning operations (MLOps) pipeline, 
+which is used to automate training of new machine learning 
+models for use in both offline analysis and online deployment. 
+Analogous to the Continuous Integration / Continuous 
+Deployment (CI/CD) pipelines used to automate software 
+update and testing, artifacts are produced for peer review of 
+results by U.S. Navy and LM technical experts, enabling rapid 
+assessment of performance improvements each update will yield 
+before graduation to at-sea testing.  
+ 
+Fig. 4.  Edge use cases 
+Within the aerospace industry, as shown in the right of 
+Figure 4, AI Factory was employed to develop an F-35 Action 
+Request Submittal Assistant. Customer service was enhanced by 
+
+
+supporting 100Ks action requests for F-35 sustainment 
+activities, automatically generating recommendations based on 
+historical precedence.  
+III. AI  FACTORY ML OPERATIONS PLATFORM  
+Designed for scaling, security and flexibility, the Lockheed 
+Martin AI Factory and its commercial release, the Astris 
+GenesisTM (AstrisAI.com) platform, is a self-hosted platform 
+architecture to enable thousands of AI/ML engineers at 
+Lockheed Martin to operate safely and efficiently, driving 
+critical design elements. More specifically, the AI Factory is a 
+scalable, secure, and flexible end-to-end ecosystem designed to 
+support the full lifecycle of artificial intelligence (AI) and 
+machine learning (ML) models. This modular architecture 
+enables AI teams to build, train, deploy, and sustain AI solutions 
+efficiently, while ensuring automation, monitoring, and security 
+at all phases of the deep learning lifecycle. By codifying AI best 
+practices into reusable components, pipelines, and playbooks, 
+AI Factory enhances developer productivity and facilitates the 
+sharing of expertise across the enterprise. 
+The Lockheed Martin AI Factory is a Kubernetes-based 
+ecosystem that leverages open architecture design to scale 
+operationally at low cost across a diverse enterprise, avoiding 
+commercial vendor lock and monolithic software solutions. This 
+approach enables the efficient implementation of a modern 
+AI/ML tech stack through collaboration with commercial tech 
+companies and small to medium sized businesses. By applying 
+MLOps and AI DevSecOps practices, AI Factory streamlines 
+the development and operational utility of models through 
+infrastructure, data, and machine learning pipelines. 
+The AI Factory is guided by the following design principles: 
+ Scalability : Scale across Lockheed Martin business areas 
+with minimal cost to adopting programs. 
+ Infrastructure Agnosticism : Remain agnostic to data storage 
+and compute infrastructure. 
+ Modularity : Utilize only the environments, tools, and 
+components that are valuable to each program. 
+ Comprehensive Lifecycle Support : Cover the entire AI/ML 
+lifecycle and inject capabilities unique to Lockheed Martin's 
+mission. 
+By adhering to these principles, AI Factory provides a 
+reusable and scalable solution for the full AI/ML lifecycle, 
+enabling Lockheed Martin to efficiently develop and 
+productionize AI solutions at scale 
+Figure 5 describes the model creation pipeline of the Astris 
+Genesis platform steps of which are described in turn. These are 
+designed to support not only different stages in the life cycle but 
+also different types of users including designers, developers, and 
+managers as well as different types of end users from functional 
+experts (e.g., finance, legal, IT, HR, cybersecurity) to program 
+managers to mission operators to executives.   
+  
+Fig. 5.  AstrisAI GenesisTM AI Factory pipeline 
+A. Model Development 
+Model development supports the ingestion and cleansing of 
+data enabling model training and testing. This Integrated 
+Development Environment (IDE) helps data scientists rapidly 
+and safely build, train, test and deploy AI models using popular 
+frameworks such as TensorFlow and PyTorch.  
+B. Model Deployment 
+Automated deployment of models to production 
+environments is supported by containerization and orchestration 
+using Kubernetes.  
+C. Model Monitoring 
+Real-time monitoring and logging of model performance 
+feeds into a metric store which drives alerts and notifications for 
+anomalies which can be displayed in intuitive dashboards.  
+D. Model Management 
+Centralized management of models, data, and infrastructure, 
+enables services including model registration, version control, 
+access control, auditing and collaboration. 
+E. Distributed Processing 
+A differentiating design feature illustrated in Figure 6 is the 
+transformation from centralized to decentralized AI. In contrast 
+to conventional machine learning pipelines which require data 
+to be pushed to a centralized data pool, data and models are 
+distributed to edge nodes. This Astris Genesis distributed 
+solution enables AI processing to occur at edge nodes. This 
+architecture is motivated by real-world operational needs 
+driving a design philosophy of not bringing the data to the AI 
+but rather bringing the AI to the data. This is essential in cases 
+such as remote critical infrastructure, driver safety in 
+autonomous vehicles, secure/classified air-gapped 
+environments, and remote operating locations.  
+ 
+Fig. 6.  Astris GenesisTM distributed AI Factory  
+The AI Factory MLOps platform supports the secure, 
+efficient MLOps pipeline shown in Figure 5. This enables rapid 
+retraining and deployment of a wide range of AI models—
+covering computer vision, machine learning, and advanced large 
+
+
+language models— right at the edge. By leveraging Kubernetes 
+and Red Hat Device Edge, this enables:  
+ Rapid model updates without requiring a network 
+connection 
+ Safe and secure data handling, model retraining, and 
+over-the-air updates, essential for real-time use cases 
+ Flexible deployment through containerization and 
+orchestration 
+ A modular, open-source design that facilitates adaptation, 
+customization, and scaling 
+IV. ASTRIS GENESISTM  GENERATIVE AI PLATFORM  
+As illustrated in Figure 7, the Astris Genesis generative AI 
+platform is built on top of the AI Factory MLOps platform 
+which in turn is supported by processing and storage 
+infrastructure. The Genesis AI platform offers engineers and 
+developers a low code/no-code self-hosted, on-premises 
+solution for generative artificial intelligence, enabling 
+organizations to enhance innovation, streamline operations, 
+and drive digital transformation while adhering to stringent 
+security, compliance, and data governance standards. 
+ 
+ 
+Fig. 7.  Astris GenesisTM Technology Stack 
+In contrast to cloud-based AI solutions, the Astris Genesis 
+platform provides a distinct advantage in terms of security, 
+control, and flexibility. By hosting the platform on-premises, 
+organizations can maintain full control over their data and 
+applications, tailoring them to meet specific requirements. This 
+approach ensures the protection of sensitive data and intellectual 
+property, providing a secure foundation for various applications, 
+including business process automation, insight generation, and 
+the development of innovative products and services. 
+The Astris Genesis platform's architecture is designed to 
+provide a reliable and secure environment for AI-driven 
+innovation, allowing organizations to leverage the benefits of 
+generative AI while minimizing the risks associated with cloud-
+based solutions. By choosing an on-premises deployment, 
+organizations can ensure that their sensitive data remains within 
+their control, reducing the risk of data breaches and unauthorized 
+access 
+The self-hosted platform architecture was created to enable 
+thousands of AI/ML engineers at Lockheed Martin to operate 
+efficiently, driving critical design elements. These include: 
+ 
+ Best-in-class Open Source Models : utilization of the most 
+current, leading open source models ensures user access to 
+the highest levels of performance and innovation  Safety: Enterprise access to internally hosted leading 
+foundational models eliminates need for off-premise access 
+ Affordability : leverage of open source models reduces costs 
+associated with proprietary model use such as per-token and 
+licensing fees 
+ Secure by Design : designed with data security and 
+compliance in mind, minimizing the need for sensitive data 
+sharing with third parties.  
+ Flexible and Scalable: built to handle large-scale datasets 
+and complex workflows, making it an ideal solution for 
+organizations of all sizes 
+ Ease of Integration : integrates seamlessly with existing 
+infrastructure and workflows, minimizing disruption and 
+downtime 
+V. LM NAVIGATOR 
+Safe, accessible and intuitive access to generative AI is 
+essential to foster adoption, improve business operations and 
+drive innovation for a broad set of customers. LM Navigator has 
+been applied across a range of use cases including generating 
+and testing software code, accelerating post-mission analytics, 
+and extracting answers from extensive production line 
+documentation [6]. Its creation was a partnership between the 
+Lockheed Martin’s AI Center (LAIC) and the corporation’s 
+1LMX digital transformation team. Careful attention to data 
+access and protection ensures that generative AI models have 
+appropriate access and access control to empower thousands of 
+engineering users to deliver automated and repeatable AI 
+capabilities into high assurance applications. Given the dynamic 
+nature of AI across a multidomain and multinational enterprise, 
+Lockheed Martin’s use of a “hub and spoke” talent development 
+model motivates LM Navigator to deliver the latest LLMs from 
+a centralized, secure platform across a diverse set of globally 
+distributed engineers and disciplines.  
+VI. RESPONSIBLE SCALING 
+Hardened by battlefield requirements, AI Factory was 
+designed to meet the high performance, high security needs of 
+highly regulated industries (e.g., finance, healthcare, energy), 
+dynamic operations (e.g., technology, manufacturing, customer 
+service), and contested missions (e.g., defense, critical 
+infrastructure). Resilient deployment at scale in a large, global 
+enterprise requires a responsible AI strategy that wholistically 
+considers governance via policy, people and technology.  
+A. Responsible AI Principles 
+Lockheed Martin employs ethical principles [7] across the 
+entire AI life cycle through responsible  design, development, 
+deployment and use monitoring, equity by mitigating 
+unintended biases in development and training and use [8], 
+traceability  by ensuring clear specifications, training and 
+explanation,  transparency  by providing clear insights into AI 
+system operations and decision-making processes for 
+stakeholders, reliability  through testing, validating and verifying 
+across the life cycle, and governability by ensuring quality 
+performance, supporting oversight, risk management, failure 
+mode analysis, and, if needed, deactivation [7].  An  Artificial 
+Intelligence Ethics Advisory Committee (AI EAC) both at the 
+
+
+board level and across major businesses ensures implementation 
+of these principles. While it is impossible to eliminate all risks 
+in the face of active adversaries, persistent technology change 
+and zero day vulnerabilities, collectively, these principles foster 
+a culture to enhance AI safety, security and assurance. 
+B. Governance 
+Responsible governance emphasizes continuous risk 
+management that prioritizes use cases that create high value with 
+nominal risks, residuals of which are mitigated with 
+countermeasures.  Early identification of a broad set of potential 
+risks (e.g., financial, privacy, IP, reputation) and associated 
+harms enables the creation of policy, technical, operational and 
+training mitigations. For example, on premise access to open 
+source models ensures no public release of personal, proprietary 
+or otherwise harmful information during model tuning, prompt 
+engineering, or response generation. It simultaneously 
+discourages risky access to off premise sources and services.  
+Continuous threat monitoring and mitigation is essential 
+given rapidly advancing generative AI technology and 
+adversarial attacks. Controls can be applied across the life cycle 
+including training, tuning, or inference/use stages. This 
+centralization can ease monitoring, model drift, as well as 
+performance impacts influenced by changes in operational or 
+environment conditions. Centralized control will become more 
+complicated with the emergence of distributed, multi-agent 
+systems.  
+C. Partnerships 
+The Lockheed Martin AI Factory MLOps ecosystem and 
+Astris Genesis Generative AI platform have been designed to 
+leverage a diverse ecosystem of technologies from leading big 
+tech companies, commercial off-the-shelf (COTS) software 
+providers, and open-source communities. With a total 
+investment of over $132 billion in AI software from commercial 
+companies in our tech stack, we have established direct 
+partnerships with industry leaders including Meta, HPE, 
+Microsoft, and NVIDIA to drive innovation and collaboration. 
+Our platform integrates a combination of open-source and 
+proprietary software, ensuring seamless integration with 
+industry-standard tools and frameworks. Lockheed Martin has 
+also invested tens of millions of dollars in software development 
+for AI Factory, encompassing the MLOps platform, Generative 
+AI Platform, and Enterprise Chatbot. Furthermore, our internal 
+AI Consulting services plays a critical role in evaluating and 
+integrating new technologies from our partnership intake 
+pipeline, which includes many smaller engineering partners and 
+commercial tech companies. By embracing an open and 
+collaborative ecosystem, we have created a future-proof 
+platform that can be easily customized and extended to meet the 
+unique needs of Lockheed Martin's customers and partners. This 
+modular and extensible approach allows the Lockheed Martin 
+AI Factory software and the Astris Genesis platform to scale to 
+edge and classified environments, while providing the flexibility 
+to adapt to evolving AI workloads and emerging technologies.  
+D. Data Protection 
+Given the centrality of data to model creation and evolution, 
+emphasis is placed on data governance including availability, 
+quality, provenance and protection. This includes a focus not only on training data but also on model versioning, access 
+control, and logging/monitoring. Attention focuses on 
+protection of personally identifiable information, protected 
+health information, and intellectual property, including 
+copyrighted as well as export controlled and third party 
+information.  
+E. Infrastructure Reslience 
+As deployments scale, careful architecture is essential to 
+ensure affordability, security and resilience. For enterprise 
+deployments such as LM Navigator supporting 50K users, on 
+premise access to, tuning of, and integration of open source 
+models are supported by centralized compute including a 
+NVIDIA DGX SuperPOD [9]. This centralization delivers faster 
+and more cost effective service than by external token 
+consumption and also supports better use prediction enabling 
+long term financial and operational planning, including ensuring 
+access to constrained AI microprocessor supply. Embedded 
+teams across the corporation are supported by a centralized 
+development and support team in the Lockheed Martin AI 
+Center (LAIC). Decentralized deployments are enabled by 
+bringing AI Factory to the data at the edge to enable efficiency, 
+security, and resilience. Centralization also helps accelerate a 
+diversity of operational missions examples of which range from 
+lunar and mars space travel to better detecting, predicting and 
+fighting wildfires [9].  
+F. Talent 
+Generative AI literacy is expected by all employees, even if 
+only occasional users. Mandatory training on appropriate uses 
+and risk management is necessary prior to use of LM Navigator 
+or AI Factory and helps drive employee upskilling and 
+reskilling. New use cases and development plans are reviewed 
+prior to development and deployment by the AI EAC to both 
+drive enterprise value and mitigate risk.  
+Given the criticality of AI engineering and functional 
+expertise, as part of Lockheed Martin’s 21st Century Security 
+(21CS) vision, we cultivate AI talent via AI Learning Pathways,  
+curated online self-paced learning materials which are linked to 
+Lockheed Martin’s AI role competencies. Together with live 
+instructor led training, these enable staff to acquire digital 
+badges, credentials earned after completing a set of expert-
+vetted learning experiences that demonstrate proficiency in 
+critical skills. For example our hands-on AI/ML Fundamentals 
+Program includes a cohort of 50 students who enter the program 
+at appropriate levels based on their objectively assessed skill 
+level. They must complete an applied AI capstone project 
+working with a qualified mentor. Customized learning programs 
+are available for advanced upskilling and continuing education, 
+including unlimited access to multiple third party learning 
+platforms (e.g., DataCamp ).   
+VII. RISKS AND MITIGATION  
+Enterprise success requires a wholistic strategy that 
+accelerates deployment by incorporating cross disciplinary risk 
+mitigation up front. Just as its important to employ policy, 
+technology and human controls across the ML operations life 
+cycle shown in Figure 5, so too it is important to anticipate 
+intentional attacks on or unintentional failures in confidentiality, 
+
+
+integrity and availability [10]. These classes of failures can 
+result in breeches, errors, and denial of service.  
+In addition to these traditional threats directly against LLMs, 
+generative AI can be employed by adversaries to plan and 
+execute novel attacks at scale. For example, voice and video 
+deep fakes have already been employed successfully by 
+adversaries [11] and high quality social media attacks at scale 
+are feasible. Human users regularly fail to distinguish high 
+quality audio and video deepfakes. Even inexpensively spoofed 
+text chat conversations now elude human detection. In a five 
+minute evaluation of historical chat bot psychoanalyst Eliza, it 
+could only trick 22% of 500 test users that it was human. In the 
+same test, humans assessed other humans as human only 66% 
+of the time. However, those same 500 users believed GPT-4 was 
+human 54% of the time [12]. In this study, the most effective 
+countermeasures to human detection were direct accusation, 
+logic and math, human experience and current event questions. 
+In another case, LLMs were trained to identify cyber 
+vulnerabilities and generate exploits in software. This strategy 
+should unfortunately increase the frequency of zero day exploits. 
+However, just as important, these same methods can be applied 
+by defenders to counter these threats.  For example, defenders 
+can automate the detection and patching of software 
+vulnerabilities during design or test prior to release and, 
+similarly, in real time or proactively search for and detect deep 
+fakes across various media [13].  
+Because of the rapid development of LLMs, AI/ML risk 
+frameworks are new and require continuous refinement. For 
+example, building upon the Adversarial Tactics Techniques and 
+Common Knowledge (ATT&CK®) framework [14], MITRE’s 
+Adversarial Threat Landscape for AI Systems (ATLAS™) [15] 
+catalogues AI attack tactics, techniques and mitigations as well 
+as case studies of previous attacks. Both are essential knowledge 
+sources to inform threat analysts, inspire table top cybersecurity 
+training, or guide penetration tests and/or red teams. In addition, 
+the NIST AI Risk Management Framework [16] building upon 
+the prior NIST RMF, identifies a broad set of AI risks and 
+methods for measuring and controlling them.  
+However, it is not yet clear how to prioritize limited 
+mitigation resources against various types of risk. Accordingly, 
+all levels of the organization, from practitioners up to the board, 
+and all business areas and functions (e.g., finance, IT, HR) need 
+to collaborate to mitigate the risks of AI and GenAI while 
+delivering its value. Organizations can mitigate threats and 
+vulnerabilities through responsible AI policy (e.g., guidelines 
+for acquisition, development and use of data and models, 
+privacy and IP policies), technology (e.g., prompt and 
+generation guardrails, bias detection and mitigation, grounding 
+knowledge to limit hallucination, marking and tracking of 
+generated IP), operations (e.g., on premise deployment for 
+sensitive data and models), and people (e.g., training for 
+responsible use as well as deep fake detection, red teams, 
+penetration attacks).  Related research identifies common attack 
+surfaces across the life cycle of model development, tuning, and 
+inference/use and details threats against integrity, 
+confidentiality, and availability. It considers attacks against 
+generative AI as well as adversarial use of generative AI to 
+formulate and implement attacks, and offers a diversity of methods to counter the weaknesses of biased, brittle, and 
+baroque foundational models [10]. 
+FUTURE DIRECTIONS  
+Ensuring the sustained realization of value from LLMs will 
+require rapid deployment of future generations of foundational 
+models while simultaneously mitigating evolving attack 
+surfaces. Accordingly, the Astris Genesis and AI Factory 
+solutions will evolve through continuous assessment and 
+integration of rapidly evolving foundational LLMs. Moreover, 
+the platform embodies design aspects that help minimize LLM 
+vulnerabilities and reduce potential harms.  
+Second, new directions in LLMs will be embraced including 
+emerging agents who use plans and actions to support and 
+advance the intentions and goals of human users. Early work on 
+communicative actions [17] can be leveraged to support 
+intentional agents that achieve outcomes through carefully 
+selected actions, applicable into well-defined preconditions with 
+anticipated post conditions and disablements. Related, 
+Lockheed Martin’s advancement of a Cognitive Mission 
+Manager (CMM) combines real time sensor data with course of 
+action planning and model based digital twins to decrease 
+response time and increase human effectiveness in life critical 
+missions such as wildfire fighting [18].  
+Building on these advancements, the Astris Genesis 
+platform and the Lockheed Martin AI Factory tool will 
+incorporate agentic architectures that redefine traditional 
+approaches to AI deployment. These architectures, 
+fundamentally modular in design, enable the creation of 
+reusable generative AI agents that can be rapidly adapted and 
+orchestrated to perform a wide range of tasks. Specialized 
+orchestration agents  will coordinate workflows across multiple 
+stages of a process, ensuring seamless execution, while 
+communicator agents  will facilitate the sharing of information 
+among agents, enabling effective collaboration. Task-oriented 
+agents, such as planner and research agents, will focus on 
+specific functions, such as mapping processes or gathering and 
+synthesizing information to support decision making.  
+To ensure continuous improvement, the Astris Genesis 
+platform and the Lockheed Martin AI Factory software will 
+implement robust feedback mechanisms that refine agent 
+performance, enhance collaboration, and streamline task 
+orchestration. For example, a fleet of generative AI agents 
+could interact with inventory, supply chain, and analytics 
+systems to autonomously monitor stock levels, identify low 
+inventory, and generate purchase orders - eliminating the need 
+for complex integrations and significantly improving 
+operational efficiency.  
+With the rise of agentic architectures, distributed agents will 
+play a critical role in planning, coordinating, and executing tasks 
+collaboratively. Ensuring trust between humans and machines 
+will remain paramount, requiring robust mechanisms for 
+validating agent competencies and understanding the 
+consequences of delegated authority. Related, the growth of 
+cooperative robotics and humanoid robots not only in 
+manufacturing but also in broader society (e.g., delivery, 
+healthcare, companionship) will introduce new opportunities 
+and challenges. Accordingly, we should anticipate attacks on AI 
+
+
+trust and the need for improved understanding of human and 
+agent competencies and trustworthiness.  
+In conclusion, realizing the full potential value for generative 
+AI use cases will require increasing the quality and depth of 
+representation and reasoning coupled with improvements in 
+policy, technology, and talent development to help ensure our 
+countermeasures keep pace with increasingly sophisticated and 
+motivated threat actors.  
+ACKNOWLEDGMENT  
+The Astris Genesis platform (astrisai.com/astris-genesis) 
+was originally engineered at the Lockheed Martin AI Center 
+(LAIC). In order to enhance protection of ML operations in 
+regulated industries concerned with safety and security, it was 
+made available commercially with initial application to 
+autonomous vehicle safety and other US government customers. 
+We are grateful to James Droskoski, Adriana Luedke, Shawn 
+Frasher and Irene Helley for comments on earlier versions of 
+this paper.  
+REFERENCES  
+[1] S. Peng, E. Kalliamvakou, P. Cihon, and M. Demirer, “The Impact of AI 
+on developer productivity: Evidence from GitHub copilot,” Microsoft 
+Research/GitHub, MIT Sloan, 2023. [Online]. Available 
+arxiv.org/abs/2302.06590.  
+[2] M. Chui et al., “The economic potential of generative AI: The next 
+productivity frontier,” McKinsey, June 2023. [Online]. Available: 
+www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-
+economic-potential-of-generative-ai-the-next-productivity-frontier 
+[3] “From the Battlefield to the Boardroom: Real-Time AI Decisions at the 
+Edge,” Astris AI. 2024. [Online]. Available: astrisai.com/solutions/edge-
+intelligence. 
+[4] C. Quinonez and E. Meij, “A new era of AI-assisted journalism at 
+Bloomberg,” Summer 2024. AI Magazine. [Online]. Available: 
+www.aimagazine-digital.org/aimagazine/library/item/ 
+summer_2024/4204593  
+[5] M. Eckstein, US Navy making Aegis updates, training changes based on 
+Houthi attacks, Defense News, March 21, 2024. [Online]. Available: www.defensenews.com/naval/2024/03/21/us-navy-making-aegis-
+updates-training-changes-based-on-houthi-attacks  
+[6] “Lockheed Martin Deploys Powerful, Secure Generative AI Tools Across 
+the Enterprise,” October 8, 2024. [Online]. Available: 
+www.lockheedmartin.com/en-us/news/features/2024/empowering-
+innovation-with-secure-generative-ai-across-enterprise.html 
+[7] “Ethical development and use of artificial intelligence,” Lockheed 
+Martin CPS-022, 2023. [Online]. Available: 
+www.lockheedmartin.com/content/dam/lockheed-
+martin/eo/documents/ethics/Ethics-Code-of-Conduct-2023.pdf 
+[8] “Understanding algorithmic bias and how to build trust in AI,” PwC, 
+2024. [Online]. Available: www.pwc.com/us/en/tech-effect/ai-
+analytics/algorithmic-bias-and-trust-in-ai.html 
+[9] “Boosting innovation and cutting costs through Lockheed Martin’s AI 
+Factory,” NVIDIA, 2024.  [Online]. Available: www.nvidia.com/en-
+us/case-studies/lockheed-martin-ai-factory-with-dgx-superpod . 
+[10] M. Maybury, “Mitigating biased, brittle and baroque generative AI,” 
+IEEE International Conference on AI and Data Analytics, Boston, MA, 
+24 June 2025, unpublished.  
+[11] H. Chen and K. Magramo , “Finance worker pays out $25 million after 
+video call with deepfake ‘chief financial officer’,” CNN, February 4, 
+2024. [Online]. Available: www.cnn.com/2024/02/04/asia/deepfake-cfo-
+scam-hong-kong-intl-hnk/index.html . 
+[12] C. R. Jones and B. K. Bergen, “People cannot distinguish GPT-4 from a 
+human in a Turing test," Univ. CA San Diego, 2024. [Online]. 
+Available: arxiv.org/abs/2405.08007  
+[13] DARPA Semantic Forensics (SemaFor) Program. [Online]. Available: 
+www www.darpa.mil/research/programs/semantic-forensics . 
+[14] Adversarial Tactics Techniques & Common Knowledge (ATT&CK)®.  
+[Online]. Available: attack.mitre.org 
+[15] Adversarial Threat Landscape for AI Systems (ATLAS) 
+(atlas.mitre.org), MITRE, 2023. [Online]. Available:  
+github.com/mitre-atlas/atlas-navigator-data 
+[16] “AI Risk Management Framework (RMF),” NIST AI 600-1, 2024. 
+[Online]. Available: www.nist.gov/itl/ai-risk-management-framework 
+[17] M. Maybury, “Generating Multisentential Text using Communicative 
+Acts,” 1991, Ph.D. thesis. University of Cambridge. CL TR 239. [Online]. 
+Available: doi.org/10.17863/CAM.16365.   
+[18] A. Robbins, “NVIDIA and Lockheed Martin team up with state and 
+federal forest services to fight wildfires with AI,” 2021 .  [Online]. 
+Available: blogs.nvidia.com/blog/lockheed-martin-wildfires-ai.  
+ 
+ 
+ 
+
+

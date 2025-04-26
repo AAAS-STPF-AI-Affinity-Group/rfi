@@ -1,0 +1,201 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 88-zw0k-6ld0
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1371
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  AI Alliance
+General Comment
+Please find the AI Alliance's com m ents in the attached docum ent.
+Attachments
+AI Alliance Com m ent to NSF_OSTP AI Action Plan
+
+
+AI Alliance Comment in Response to the RFI on the Development of an AI Action Plan  
+Submitted by the AI Alliance  
+March  14th , 2025  
+90 FR 9088; 2025 -02305  
+About the AI Alliance: The AI Alliance  is a community of organizations, large and small 
+companies, academic and non -profit institutions, representing developers, researchers, and 
+business leaders who are focused on accelerating and disseminating open innovation across the 
+AI technology landsca pe. They aim to improve foundational capabilities, safety, security, and trust 
+in AI, and to responsibly maximize benefits to people and society everywhere. The AI Alliance 
+brings together a critical mass of compute, data, tools, and talent to accelerate o pen innovation 
+in AI. The Alliance has already played a pivotal role in advancing community driven projects in 
+specific technology areas such as AI Evaluation Taxonomy, Domain -specific Risk Assessments, 
+the launch of Safety BAT (an interactive benchmark le aderboard on Hugging Face), etc. to support 
+Testing and Evaluation of general purpose and specialized AI applications. These initiatives not 
+only bolster trust in AI but also reinforce the U.S. commitment to open, innovation -driven 
+leadership in the global  AI landscape.  
+We value the opportunity to provide input to the National Science Foundation’s (NSF) and Office 
+of Science and Technology Policy’s (OSTP) request for information regarding the “Development 
+of an Artificial Intelligence Action Plan.”1 
+The open -source community broadly agrees that traditional software -focused definitions of 
+“open -source” licensing need modification to be effectively applied to AI models or systems. 
+Since there is a lively ongoing discussion in the technical community about defining “open -
+source AI”, we believe it is premature to adopt a formal definition of “open -source AI” here. In 
+lieu of a formal definition, we use the words “open” and “openness” below to refer to conditions 
+in which foundation model weights are publicly available under a permissive license t hat allows 
+for research and commercial use.  
+1. An open source AI ecosystem is good for the US economy
+There are a number of compelling reasons why the Administration should prioritize the
+development of an open AI ecosystem.   First, the economic benefits of AI will accrue most when
+open foundation models are made widely available.  Foundation models will increase worker
+productivity and grow economies. According to Goldman Sachs  Research, the widespread
+adoption of foundation mo dels could increase U.S. productivity by 1.5% on an  annual basis.2
+1 The content in this response is provided by the AI Alliance and is not intended to reflect the views of any 
+particular member organization.  This document is approved for public dissemination. The document 
+contains no business -proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution.  
+2 Goldman Sachs, Research, AI may start to boost US GDP in 2027 , Nov. 7, 2023,    
+https://www.goldmansachs.com/intelligence/pages/ai -may-start-to-boost -us-gdp-in-2027.html. 
+(“Generative artificial intelligence has the potential to automate many work tasks and eventually boost 
+global economic growth … In the baseline  scenario, the Goldma n Sachs Research economists estimate 
+
+
+Another report, from the International Monetary Fund, The Macroeconomics of 
+Artificial  Intelligence  forecasts that “AI might be applied to a substantial share of the tasks  done 
+by most workers … and massively boost productivity in those tasks.”3 That is no small 
+outcome.   As the IMF notes, productivity is the single largest determinant of “the wealth of nations 
+and the living  standards of their people.”4 Overall, according to an estimate by the consulting firm 
+McKinsey, foundation models may generate between $2.6 trillion to $4.4 trillion in economic 
+growth across the  global economy.5  
+Second, openness creates increased competition in the foundation model marketplace by enabling 
+downstream developers to build innovative, custom products.6 Growing the number of foundation 
+model -based  products reduces overall market concentration and increases options for enterprise 
+customers and end  users.7 The availability of open foundation models is also likely applying 
+market pressure on closed   developers to lower prices and “compete against free.”8 This has wide 
+benefits; in general, as the White   House has noted, “when firms have to compete for customers, 
+it leads to lower prices, higher quality   goods and services, greater variety, and more innovation.”9  
+Third, open foundation models are often the most affordable, cost -effective option for 
+entrepreneurs and small - and medium -businesses. Building a new, enterprise -specific foundation 
+model often requires  prohibitively expensive investments in model training. Access to open 
+foundation models, which are typically free to procure and more affordable to customize than 
+starting from scratch, substantially lowers the barrier to entry. These models also enable a thriving 
+ecosystem of foundation model development support and cloud service providers serving open 
+foundation models to enterprise customers. This makes it possible for more businesses to build 
+foundation models at lower cost, ensuring that corporate reso urces are not the sole determinant of 
+whether a company can realize the benefits of a bespoke foundation model. This spreads the 
+productivity benefits of foundation models to more sectors of the economy.  
+AI could increase US productivity growth by 1.5 percentage points annually assuming widespread 
+adoption over a 10 -year period.”)   
+3 Erik Brynjolfsson and Gabriel Unger, The Macroeconomics of Artificial Intelligence, International 
+Monetary Fund, Dec. 2023, https://www.imf.org/ -
+/media/Files/Publications/Fandd/Article/2023/December/20 -25-Brynjolfsson -final.ashx.  
+4 Id. 
+5 See McKinsey & Company, The Economic Potential of Generative AI: The Next Productivity Frontier , 
+Jun. 2023,  https://www.mckinsey.com/capabilities/mckinsey -digital/our -insights/the -economic -potential -of-
+generative -ai-the-next productivity -frontier.   
+6 See Will Douglas Heaven, The open -source AI boom is built on Big Tech’s handouts. How long will it 
+last?, MIT Technology   Review, May 12, 2023, 
+https://www.technologyreview.com/2023/05/12/1072950/open -source -ai-google -openai -eleuther -
+meta/   (“if the trend  toward closing down access continues, then not only will the open -source crowd be 
+cut adrift —but the next   generation of AI breakthroughs will be entirely back in the hands of the biggest, 
+richest AI labs in the world.”).  
+7 See https://arxiv.org/abs/2403.07918 (access to model weights promotes innovation in downstream 
+markets by “helping to  reduce market concentration at the foundation model level from vertical cascading”).   
+8 See Tyler Cowen, Open -Source Software Is Worth a Lot More Than You Pay for It, Bloomberg, Feb. 26, 
+2024, https://www.bloomberg.com/opinion/articles/2024 -02-26/open -source -software -is-worth -a-lot-more -
+than-you-pay-for-it. 
+9 See Heather Boushey and Helen Knudsen, The Importance of Competition for the American Economy, 
+U.S White House Blog, Jul.   9, 2021, https://www.whitehouse.gov/cea/written -materials/2021/07/09/the -
+importance -of-competition -for-the-american economy/.
+
+
+2. The Administration should prioritize government use of open source models
+To maintain global leadership in AI, the U.S. government must lead by example in adopting AI to
+enhance public sector efficiency, service delivery, and national security.  Recognizing that specific
+national security and sensitive use cases might require additional diligence and considerations,
+federal agencies should accelerate AI adoption by leveraging machine learning models for tasks
+such as document processing, anomaly d etection, and predictive analytics. This can drive
+operational efficiencies while set ting a precedent for responsible AI deployment.
+Additionally, the Administration should direct agencies not to prefer proprietary models over open 
+source, updating AI procurement guidelines to prioritize open models and interoperable AI 
+solutions whenever feasible, in order to ensure flexibility, transp arency, and long -term 
+sustainability. The Office of Management and Budget (OMB), the General Services 
+Administration (GSA), and the National Institute for Standards  and Technology (NIST) should 
+work collaboratively to establish a government -wide AI strateg y that standardizes best practices, 
+facilitates interagency cooperation, and supports workforce upskilling initiatives to maximize AI’s 
+benefits across public administration.  
+Expanding AI’s role in government operations will also provide a testing ground for regulatory 
+approaches, allowing policymakers to better understand AI risks and opportunities. A structured 
+approach to AI deployment across federal agencies, with clear per formance metrics and ethical 
+safeguards, will enhance the U.S. government’s ability to harness AI while setting a model for 
+industry and international partners. USG should also invest in infrastructure and testbeds that can 
+facilitate public -private testin g for national security. For example, if the government continues to 
+have concerns about national security -related deployments of AI, it needs to unify AI expertise 
+from the private sector with national security expertise from the government. It is critica l that the 
+US continue to advance the state of the art around evaluations and threat modelling. To that end, 
+it is important for the Government to retain the expertise and resources necessary to collaborate 
+with industry on national security -related risks,  as well as for research and development.  
+The Administration should also encourage governmental adoption of open source AI to facilitate 
+scientific research. According to OSTP nominee Michael Kratsios: “The shape of future global 
+order will be defined by whomever leads across AI, quantum, nuclear,  robotics, and other critical 
+and emerging technologies. Chinese progress in nuclear fusion, quantum technologies, and 
+autonomous systems all press home the urgency of the work ahead.”10 Governmental adoption 
+may enable training open source AI on expert, scientific data with limited availability for particular 
+research problems (i.e. such as robotics, aircraft telemetry, and material science).  
+To accelerate new technological breakthroughs, the U.S. government should actively foster 
+collaborative partnerships with academia, industry, and civil society. Joint research initiatives and 
+public –private partnerships can serve as catalysts for innovatio n by leveraging the diverse 
+expertise and resources of these stakeholders. For example, establishing innovation hubs and 
+consortiums that bring together leading research universities, industry pioneers, and non -profit 
+organizations can help translate cutti ng-edge research into practical applications across sectors. By 
+supporting these partnerships, the government can stimulate the development of advanced AI 
+models and solutions that drive both economic growth and innovation.  
+10 Trump science policy nominee calls China most formidable technology, science competitor, 
+https://www.reuters.com/world/us/trump -science -policy -nominee -calls-china -most -formidable -technology -
+science -2025 -02-24. 
+
+
+There are also other, sector -specific actions the government should consider to  facilitate the 
+adoption of critical open source AI technologies. For instance,  government action with ecosystem 
+stakeholders to facilitate interoperability and sharing of healthcare data with proper safety, privacy 
+and security controls, as well as establishing a framework and process for assessing and approving 
+AI use in clinical a pplications, could help radically accelerate the use of AI in the healthcare sector.  
+3. The Administration should formalize the National Artificial Intelligence Research
+Resource (NAIRR)
+Formalizing the NAIRR would accelerate research in fields ranging from healthcare and drug
+discovery to environmental science and advanced manufacturing. This access can serve as a
+catalyst for breakthroughs in critical areas, ultimately positioning the United States as a global
+leader in both the technological and ethical aspects of AI development.
+The White House could work with Congress to pass the Bipartisan Creating Resources for Every 
+American To Experiment with Artificial Intelligence Act (CREATE AI Act) that would make 
+NAIRR a permanent, publicly accessible resource, opening doors to advanced computational 
+power and data previously limited to well -funded institutions.  
+Central to the AI Alliance’s mission of open innovation of AI, the NAIRR would support the 
+expansion of resources to democratize AI research, fostering an ecosystem that enables scientific 
+advancements, economic growth, and American AI leadership.  
+4. The Administration should support global competitiveness of American companies by
+avoiding export controls on open models
+Overly restrictive policies on AI -related exports would hinder American companies'
+competitiveness while failing to prevent adversarial nations from developing their own AI
+capabilities. Policymakers should not adopt export controls on open models to ensur e that AI
+innovations remain accessible to global markets.
+Strategic engagement with allies on coordinated AI export policies will also help prevent 
+regulatory fragmentation and maintain the U.S.’s position as the leader in AI research and 
+commercialization.  By promoting open source models, the Administration can set standards for 
+interoperability and security that will become the gold standard internationally. This approach 
+democratizes access to AI technologies and empowers global partners to build upon U.S.  
+innovations, ensuring that the foundation for AI remain s open, accountable, and conducive to rapid 
+advancement.11 
+AI transcends national boundaries, making it crucial for frameworks to be aligned across 
+jurisdictions to promote interoperability. The US Government should leverage a proactive 
+diplomatic approach12 to ensure global AI policies align with US best practices, and to ensure US 
+influence over key standard -setting bodies. The Government should spearhead efforts to shape 
+international AI governance by advocating for risk -based, interoperable frameworks tha t promote 
+innovation while safeguarding national security.  
+11 Eric Schmidt and Dhaval Adjodah, “Will China’s open -source AI end U.S. supremacy in the field?”  
+https://www.washingtonpost.com/opinions/2025/01/28/china -deekseek -ai-us-supremacy/  
+12 Ben Brooks & Michelle Fang, “US leadership in AI requires open -source diplomacy”, 
+https://thehill.com/opinion/technology/5079721 -china -ai-open -source -threat/  
+
+

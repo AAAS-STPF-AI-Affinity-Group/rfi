@@ -1,0 +1,371 @@
+Robert W . Taylor 
+Of Counsel  
+Telephone: 
+Facsimile: 
+E-Mail:
+Vincent J. Allen  
+Partner 
+Telephone: 
+Facsimile: 
+E-Mail:
+March 14, 2025
+Via Email: 
+Mr. Faisal D’Souza 
+Networking and Information Technology Research and Development (NITRD) 
+National Coordination Office (NCO), National Science Foundation 
+2415 Eisenhower Avenue 
+Alexandria, VA 22314 
+Re:   Request for Information on the Development of an  
+Artificial Intelligence (AI) Action Plan 
+These comments are submitted on behalf of Carstens, Allen & Gourley, LLP, an 
+intellectual property and technology law firm.  We have an extensive AI practice advising 
+developers and deployers of AI technologies as well as AI infrastructure providers, including AI 
+data center developers and self -contained AI solutions for AI computer chips.  Our clients range 
+from AI startups to global Fortune 100 companies actively building and deploying AI solutions.  
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+1. Currently many businesses struggle with whether they can lawfully send customer
+data to a third-party LLM due to the patchwork of state data privacy r egulations,
+thereby impeding adoption of AI which could be solved with a safe harbor
+exemption.
+An AI Action Plan should pursue the adoption of a safe harbor exemption from
+restrictions on data transfers to third parties when using a third party LLM instance, provided it 
+meets all the following criteria: 
+a.LLM is from an LLM vendor with  U.S. global headquarters;
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 2 
+b. The LLM is used in an instance dedicated to a single tenant deployer (or an AI
+service provider platform, provided that all user data is logically separated from
+other users of the AI platform);
+c.the LLM vendor has no access to the data in the instance;
+d. the LLM vendor does not retrain its LLM from data ingested by the LLM in the
+dedicated instance; and
+e.The LLM instance is hosted in a data center located in the U.S.A.
+Data, and specifically customer specific data or personally identifiable information (PII) 
+is the fuel that is needed for companies to leverage AI.  Businesses must be able to use this data and send it to LLMs to generate the outputs that the businesses need to improve the 
+user/customer experience, drive operational efficiencies, accomplish tasks in rapid fashion, and 
+secure a competitive advantage. 
+A third-party LLM instance that meets these safe harbor requirements identified above 
+satisfies any concerns from a data privacy perspective because: (i) the instance is under the 
+control of the data controller, (ii) the third party LLM vendor doesn’t have access to the data in 
+the instance, (iii) the LLM vendor can’t retrain the LLM model with data inputs or outputs that 
+would otherwise create a risk of data leakage, and (iv) by restricting to U.S. LLM vendors and 
+U.S. data centers, eliminates the privacy and security concerns that data is being processed on servers outside U.S. jurisdiction, and avoids the possibility of foreign nation state access. 
+Establishing this safe harbor exemption would encourage U.S. companies to use U.S. 
+vendors and U.S. data centers, thereby helping achieve the Trump Administration’s objective of 
+supporting U.S. AI companies and innovation. 
+2. Current Policy of the United States Patent and Trademark Office (USPTO) should
+be revised to protect inventions discovered by AI.
+Current policy at the USPTO limits patents on inventions discovered by artificial
+intelligence to those where a human makes a “significant contribution.” This requirement is 
+unduly restrictive and inconsistent with both the United States Constitution and the historical 
+practice of granting patents even for accidental discoveries.    
+Article I, Section 8, Clause 8 of the U.S. Constitution grants Congress the power to 
+“promote the Progress of Science and useful Arts, by securing for limited Times to Authors and 
+Inventors the exclusive Right to their respective Writings and Discoveries.”  The explicit mention 
+of “discoveries” underscores the Framers’ intent to extend patent protection to new knowledge 
+even if it emerges unexpectedly or is revealed through means other than direct human design.   
+Just as accidental discoveries have historically led to important patented inventions, AI 
+processes can also produce groundbreaking innovations that meet the requirements for patentability. If the resulting invention is novel, nonobvious, and useful, the public interest is 
+served by conferring patent rights on whoever recognizes its value and discloses it. Accidentally discovered technologies have earned patent protection when their discoverers understood their 
+significance and made them known to the public. It is inconsistent to withhold these same 
+protections from AI-based discoveries that offer similar potential for advancing science and 
+industry.  
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 3 
+ 
+ 
+Below are several notable examples of accidental discoveries that received patent 
+protection. In each instance, the inventors recognized the value of their unexpected results, 
+disclosed them, and ultimately secured patents that helped bring these innovations to the world.  
+Teflon  
+In 1938, Dr. Roy J. Plunkett intended to create a new refrigerant, but instead 
+found that a gas had polymerized into a waxy solid inside a pressurized 
+container. Recognizing its high heat resistance and low friction, he patented the 
+substance now known as Teflon, which has since been used in countless applications ranging from cookware to aerospace engineering.  
+Microwave Oven  
+In 1945, Percy Spencer discovered that microwaves from a magnetron melted a 
+candy bar in his pocket, demonstrating that microwave energy could cook food. 
+Recognizing this powerful application, he patented the first microwave oven, 
+transforming how people prepare meals worldwide.  
+Post-it® Notes  
+In 1968, Spencer Silver at 3M was attempting to develop a strong adhesive to 
+use for aircraft construction but accidentally developed one that was weak and 
+“low-tack.” The adhesive was patented, and later another inventor at 3M found 
+the adhesive worked well for temporarily sticking paper onto surfaces without 
+damage. The product was eventually launched as the Post-it Note, revolutionizing how people communicate and stay organized.  
+These examples show the long tradition of granting patents to those who discover an 
+invention unexpectedly, whether by an errant experiment or by chance. The key factor is not the manner by which the discovery occurs, but that the discoverer grasps its importance, verifies its 
+novelty and utility, and discloses it to the public. The same reasoning applies to AI-discovered 
+inventions. If an algorithm yields a new and useful concept, and a human recognizes and 
+articulates its novelty, there is no principled reason to deny patent eligibility. Such an approach 
+aligns with the Constitution’s language encompassing “discoveries” and with our country’s broader commitment to incentivizing innovation for the benefit of society.  
+Encouraging the public disclosure of AI-generated discoveries broadens the base for 
+further innovations, which is essential to fulfilling the Founders’ intent of promoting the progress of science. When inventors receive patent protection, they must publicize technical details that 
+can inspire others and drive new breakthroughs. If protection is denied solely because an 
+invention emerged from AI without “significant contribution” from a human, innovators may 
+respond by guarding their discoveries as trade secrets. This secrecy slows the progress of science 
+by keeping others in the dark, effectively stalling progress and undermining the very purpose of our nation’s patent system.  
+The United States Patent and Trademark Office should revise current policy to allow 
+discoveries of inventions generated by AI so that accidental discoveries and AI-discovered inventions are treated consistently.  Such policy will help protect American innovators and keep us at the forefront of the AI revolution.  
+  
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 4 
+3. The United States Copyright Office should adopt a policy that does not exclude or
+scrutinize works generated by AI from registration, so long as there is a
+representation in the application that a human provided the essential elements of
+creativity and originality.
+The current policy of the United States Copyright Office is to refuse registration for
+works generated by artificial intelligence with no modifications or arrangement by a human.  The 
+Copyright Office does not view providing prompts to a GenAI model as sufficient creativity 
+because the prompts do not control the expressive elements of the GenAI output according to the 
+Copyright Office. This bright-line approach does not recognize that substantial creativity can be 
+provided via prompt engineering, nor does it consider traditional forms of copyrightable artwork, 
+which are unpredictable based on the inputs.  
+The U.S. Constitution empowers Congress to grant authors copyright protection “to 
+promote the Progress of Science and useful Arts,” which underscores the importance of 
+encouraging creative expression in all its forms. By taking a bright -line stance against AI-derived 
+creations, the Copyright Office risks stifling innovation and discouraging authors from sharing 
+works incorporating new technologies in transformative ways.  
+It is well established that copyright requires only a minimal degree of creativity . The 
+Supreme Court, in Feist Publications, Inc. v. Rural Telephone Service Co. , made clear that even a 
+“modicum of creativity” is sufficient to qualify for protection. Historically, courts have embraced 
+a broad, flexible view of creativity, granting protection to works that require only a tiny spark of 
+originality. This underscores why a rigid policy excluding all AI-generated outputs without 
+examining the precise role of the human creator is inconsistent with the fundamental principles 
+of copyright law. Whether an author uses a pen, a paintbrush, a camera, or a sophisticated AI 
+model to achieve their desired expression, the law has long recognized the end result as 
+copyrightable if it demonstrates even a slight intellectual and creative touch.  
+Many forms of traditional art and performance that have been granted copyright 
+protection show that not all expressive elements are within the creator ’s absolute control.  Rigid 
+control of the output has never been a requirement of copyright law . For example, avant-garde 
+painters like Jackson Pollock famously relied on a degree of chance in their drip techniques. 
+These works remain protectable despite the absence of perfect control over every final detail. 
+The courts have found that originality may be inadvertent and still satisfy the requirements of 
+copyright. “A copyist’s bad eyesight or defective musculature, or a shock caused by a clap of 
+thunder, may yield sufficiently distinguishable variations. Having hit upon such a variation 
+unintentionally, the ‘author’ may adopt it as his and copyright it.” Alfred Bell & Co. v. Catalda 
+Fine Arts, Inc., 191 F.2d 99, 105 (2d Cir. 1951); see Chamberlin v . Uris Corp., 150 F.2d 512 (2d 
+Cir. 1945); Florabelle Flowers, Inc. v. Joseph Markovits, Inc., 296 F. Supp. 304 (S.D.N.Y. 
+1968) (the “accidental or laboriously contrived” may nevertheless be original). Generative AI 
+(“GenAI”), similarly, may inject unforeseen variation, but the creator’s overall conceptual 
+framework, prompts, or instructions can still be profoundly influential in shaping the final work. 
+According to a recent report from the Copyright Office on Artificial Intelligence, the 
+Office claims that prompts offered to generative AI systems do not give the human user enough 
+“control” over the expression in the output to establish authorship. While generative AI tools can 
+have unpredictable elements, the same can be said of many collaborative or s emi-random 
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 5 
+processes in the arts. The critical point is that authors often craft detailed prompts, specify 
+stylistic parameters, and iterate their instructions to guide the AI toward a unique, expressive 
+work. These choices can be every bit as intentional and distinctive as decisions made when using 
+conventional tools. Simply put, the capacity to shape an outcome through carefully formed 
+guidance can demonstrate significant human creativity, even where no changes are made to the 
+output of the generative AI system.  
+Moreover, creators already rely on a variety of digital tools without any special scrutiny 
+by the Copyright Office. Photographers frequently use image-editing software like Adobe 
+Photoshop to enhance or transform their photographs, which software now inclu des generative 
+AI tools as well. Musicians employ Auto-Tune or comprehensive digital audio workstations to refine vocals or compose layered tracks. Writers lean on word processors, grammar-check tools, 
+or text-generation assistants to refine prose. Filmmakers rely on editing applications such as 
+Adobe Premiere Pro or DaVinci Resolve to craft visual narratives. None of these tools disqualify 
+a resulting work from copyright protection, and there is no principled reason to subject AI-assisted creations to a higher threshold of scrutiny.  
+An individual who provides significant prompts, instructions, and conceptual guidance to 
+Generative AI is more than a mere bystander. These prompts can be meticulously crafted to shape style, tone, structure, and thematic content, reflecting the human author’s original 
+conception. Denying copyright protection under a blanket “AI exclusion” rule  disincentivizes 
+creators from publishing AI-generated works. The public dissemination of creative works is what 
+fosters cultural enrichment and fuels further artistic advancements.  
+Finally, the question of whether a particular work contains enough human authorship to 
+be eligible for copyright is best left to the courts, which are fully equipped to apply existing legal doctrines to the facts of each case. The Copyright Office need not, and should not, delve deeply 
+into the specifics of how a work was created or how heavily the creator relied upon AI. The 
+established copyright standards—originality, fixation, and the minimal creative spark—are more 
+than adequate to allow for nuanced, case-by-case determinations by the judiciary. By maintaining 
+its current bright-line rule, the Copyright Office risks overriding these established legal mechanisms and discouraging an entire category of emerging creative expression.  
+The Copyright Office should adopt a policy that does not exclude or scrutinize works 
+generated by AI from registration, so long as there is a representation in the application that a human provided the essential elements of creativity and originality . This approach aligns with 
+constitutional principles, encourages the free flow of new and inventive works, and ensures that disputes regarding copyright eligibility will be resolved by the courts in a manner consistent with our longstanding legal tradition. 
+4.A primary objective of an AI Action Plan should be the adoption of tax incentives to
+encourage investment in the development and construction of AI data centers over
+other capital projects.
+There is an insatiable demand for AI data centers and the associated compute power and
+energy capacity.  Google CEO: We’re working on 1GW data centers, seeing money going into 
+SMRs, The Critical Power Channel, Sept. 23, 2024 
+(https://www.datacenterdynamics.com/en/news/google-ceo-were-working-on-1gw-data-centers-
+seeing-money-going-into-smrs/).  Google expects 2025 capex to surge to $75bn on AI data 
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 6 
+ 
+ 
+center buildout, The Investment & Markets Channel, Feb. 5, 2025 
+(https://www.datacenterdynamics.com/en/news/google-expects-2025-capex-to-surge-to-75bn-
+on-ai-data-center-buildout/). 
+Bringing AI data centers online is a multiphase capital intensive process that involves 
+sourcing suitable raw land, securing energy capacity from electrical grid operators and/or other sources (creating powered land), constructing electrical, network, telecom, wireless, satellite and 
+other infrastructure, constructing the data center building, and finishing out the data center with 
+required computing infrastructure and facilities. 
+In an effort to ensure that the use of resources dedicated to AI data center development 
+are prioritized and that participants have an incentive to dedicate these resources to AI data 
+center development over any other use, a federal tax exemption should be adopted that provides 
+tax incentives to all the participants and constituent parts needed to develop an AI data center and bring it online. 
+Any investor (either cash, debt, or contributions in kind) in an AI data center 
+development project should receive an immediate 100% tax credit equal to the amount of the investment (or then current appraised value of contributions in kind) in the project that can be 
+applied to any income tax owed by the investor, with any excess credits being carried forward to 
+subsequent tax years until the tax credit has been fully applied to future income.  Contributions 
+in kind could be anything used in data center development, including but not limited to raw land, 
+powered land, infrastructure, electrical generation equipment, other equipment, facilities, 
+improvements, costs of construction, and engineering or other professional services.  This 
+approach would give a tax based incentive for any contributor in kind to give preference to 
+dedicating these resources to AI data center development purposes rather than for any other 
+project or purpose.  
+Because AI data center demand is accelerating the power capacity needs to support their 
+operation, developers, owners and operators of AI data centers are looking for any energy 
+sources that can meet the demand.  An AI Action Plan should consider tax credits and incentives 
+for any projects incorporating on-site power generation, including small modular reactors 
+(SMRs), natural gas, and hybrid renewable systems. In addition, federal loan guarantees for AI 
+data centers and/or private power projects co-located with AI data centers would further ensure that these projects have access to capital required to fund their development. 
+The sale of raw land, powered land, data center projects, data center buildings, and 
+associated data center infrastructure should be exempt from capital gains or any income tax.  Further, additional tax incentives or credits should be adopted to the extent these AI data center projects incorporate on-site and private power generation. 
+5. Legacy laws and regulations applicable to technology should be revisited to ensure 
+they are not unnecessarily burdensome to the adoption of AI, and if so, implement 
+changes as needed. 
+The Administration may decide that its AI Action Plan will not adopt any new 
+regulations on AI that might curtail growth.  Even so, certain highly regulated industries are 
+already subject to legacy laws and regulations regarding technology generally. Although these 
+regulations do not necessarily mention AI by name, the regulations still apply as AI, particularly 
+Generative AI and Agentic AI, are just newer forms of technology.   The legacy technology 
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 7 
+solutions are fundamentally different from these newer forms of AI.  Consequently, the legacy 
+compliance framework is not fit for purpose for managing AI risk, thereby making it difficult, if 
+not impossible, for these regulated companies to achieve compliance , leading to a reluctance to 
+adopt new AI technology.  Therefore, the Trump Administration should set a principal policy objective to reexamine legacy laws and regulations that have been adopted by government 
+agencies and departments and revise as necessary, to ensure the compliance framework maps to 
+AI risk in an effective and appropriate manner, and thereby removes unnecessary obstacles and 
+barriers that have curtailed AI adoption in these regulated industries  under current frameworks. 
+For example, certain industries such as banking, operate under a complex compliance 
+regime that applies to technology, and by extension applies to AI. As a bank grows in size and 
+complexity, it is required to implement and scale a standardized, enterprise-wide risk 
+management framework that adequately identifies, assesses, measures, monitors and controls its 
+financial and non-financial risks across its organization. Costs associated with on -going 
+compliance in industries like these can be overwhelming prior to AI adoption.   AI introduces 
+added layers of complexity around data privacy, ethics, models, cyber and information security 
+that will need to demonstrate compliance with existing regulations (e.g. , SR 11-7, FFIEC, 
+GDPR, CCPA etc.), in addition to new or pending AI regulatory requirements.   Additional complexity will drive an increase in the frequency of compliance and reporting activities, which 
+will directly translate to the addition of resources and technology to keep up.  All of this potentially negates the efficiencies banks could otherwise realize through AI adoption.  Failure to 
+demonstrate compliance with regulatory requirements can result in legal/regulatory fines up to 
+Consent or Cease & Desist Orders.  These legacy regulations and the complexities involved are 
+one reason why banking has been either reluctant or slow to adopt AI in their business and 
+operations.   
+Repealing of executive orders alone will not encourage rapid adoption of AI. While 
+adoption of AI technology must be responsible from a safety and soundness perspective, it is 
+paramount that legacy regulations be lessened in tandem to provide industries such as banks, 
+with a comfort level that they will not be held to heightened regulatory scrutiny that is unattainable.  
+6. The U.S.A. needs a federal Artificial Intelligence Act (“AI Act ”) not to provide
+onerous regulations on AI but rather to stem the tide of state and local governments
+racing to adopt inconsistent and unduly restrictive laws and regulations on AI.
+Executive Order 14179 of January 23, 2025 revoked Executive Order 14110 of October
+30, 2023, and set in motion the revocation of any policies, actions, regulations and orders at 
+federal executive departments and agencies that “act as barriers to American AI innovation .” 
+However, this Executive Order can only go so far as it is limited to executive departments and 
+agencies. 
+An AI Act could extend the reach of the Trump Administration’s objective beyond 
+executive agencies and any limits of Executive Order action to create a broader, federal law on 
+AI, AI policy, and AI regulation. 
+Absent a federal AI Act, unnecessarily burdensome and inconsistent laws and regulations 
+by state and local governments will continue to arise.  State and local governments are rapidly 
+adopting a patchwork of inconsistent laws and regulations that apply to developers and deplo yers 
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 8 
+of AI that serve to create unnecessary complexity and to frustrate the ability of these companies 
+to adopt and implement uniform AI solutions throughout the U.S.A.  Examples include: 
+a.Colorado AI Act (https://leg.colorado.gov/bills/sb24-205)
+b. Utah Artificial Intelligence Policy Act
+(https://le.utah.gov/%7E2024/bills/static/SB0149.html)
+c.California
+i.Assembly Bill 2013 – Generative artificial intelligence: training data
+transparency
+(https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=2023
+20240AB2013)
+ii.Senate Bill No. 942 – AI Transparency Act
+(https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=2023
+20240SB942)
+d. Rhode Island Senate Bill 627 – Artificial Intelligence Act
+(https://webserver.rilegislature.gov/Billtext25/SenateText25/S0627.htm )
+e.Texas
+i.Senate Bill 668 - disclosure of information with regard to artificialintelligence
+(https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=S
+B668)
+ii.House Bill - Relating to the regulation and reporting on the use of artificial
+intelligence systems by certain business entities and state agencies;
+providing civil penalties
+(https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=H
+B1709)
+f. Virginia House Bill 2094 – High-risk AI (https://lis.virginia.gov/bill-
+details/20251/HB2094)
+We suggest that the primary purposes of an AI Act should be: 
+a.To cement a federal approach to AI policy and establish a federal framework for
+doing so.
+b. To designate a single new or existing federal agency with broad exclusive federal
+regulatory authority over AI (the “AI Agency” or “AIA”) and the ability to
+preempt state laws that conflict with or frustrate its actions.
+c.To establish a federal framework for addressing issues concerning AI, and, if a
+position or regulation is adopted on a topic, prohibit state and local jurisdictions
+from adopting a different or more restrictive standard.  For example, the federal
+government could determine that “bias” is an overly broad ill-defined term that is
+an end-run around existing discrimination laws.
+
+
+Faisal D’Souza, NITRD, NCO, NSF  
+Comments of Carstens, Allen & Gourley, LLP – AI Action Plan  
+March 14 , 2025 
+Page 9 
+d. To establish a single executive agency with authority on implementing AI policy
+and directing other executive agencies and departments to take actions and
+implement policies in furtherance of the AI agency’s policies.
+7. In the interim before an AI Act can be adopted, a single federal executive agency,
+department or liaison should be appointed to coordinate federal and state policy onAI, including to oversee, monitor, and handle complaints concerning any
+unnecessarily complex or burdensome laws and regulations that are inconsistent
+with Executive Order 14179 or the AI Action Plan, and pursue enforcementmeasures as appropriate.
+The Trump Administration has at its disposal federal funding authority and grants that
+could be leveraged to ensure states adopt policies, laws, and regulations that are consistent with 
+Executive Order 14179 and the AI Action Plan. 
+Conclusion 
+We hope that these comments will be useful for stimulating discussion and ideas for 
+developing specific policies and actions that will further the goal of removing unnecessary and 
+burdensome regulation and fostering a climate where AI innovation and adoption is allowed to 
+flourish and position the U.S.A. as the dominant global player in AI.  These comments should not 
+be attributed to any specific firm client.  We would welcome the opportunity to be involved in 
+further discussions with the Trump Administration on the ideas outlined in these comments. 
+Very truly yours, 
+Robert W. Taylor 
+Vincent J. Allen 
+
+

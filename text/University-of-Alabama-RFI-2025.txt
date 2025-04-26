@@ -1,0 +1,628 @@
+Response  to the AI Action  Plan  RFI
+The  University  of Alabama
+March 5, 2025
+This  document  is approved  for public  dissemination.  The document  contains  no business-
+proprietary  or confidential  i nformation.  D ocument  c ontents  m ay  b e r eused  by t he  govern-
+ment  in developing  the AI Action  Plan  and associated  documents  without  attribution.
+Technical  POC:
+Dr. Bryan  W. Boudouris,  Vice  President  for Research  & Economic  Development
+1 Pr´ecis
+Artificial  intelligence  (AI)  is rapidly  transforming  research,  education,  industry,  and  societ y,
+requiring  institutions  of higher  education  (IHE)  to play  a crucial  role both  in the advancement
+of AI technologies  and in the preparation  of future  generations  for an AI-driven  world.  This
+document  identifies m ajor c hallenges , o pportunities , a nd  p olicy  recommendations
+that  can guide  the integration  and development  of AI in science,  engineering,  healthcare,
+cybersecurit y, education,  and the humanities.  By fostering  interdisciplinary  collaboration,
+investing  in data  accessibility  and AI ethics,  and supporting  workforce  development,  this
+report  underscores  the need  for a strategic,  responsible,  and forward-thinking  approach  to
+AI research  and implementation.
+2 Subject  Areas
+2.1 AI in Science
+Scope and  challenges:  Last  year’s  Nobel  Prizes in Physics  and Chemistry  have empha-
+sized  the important  role of AI in recent  scientific b reakthroughs.  T he  u se o f m odern  AI
+algorithms  enables  researchers  and engineers  to quickly  analyze  big data,  identify  complex
+patterns  in high-dimensional  datasets,  predict  outcomes,  optimize  designs,  and ultimately
+drive innovation  and groundbreaking  discoveries.
+Despite  the exponential  growth  in data  collection  capabilities,  the reality  is that  there  is
+simply  not enough  high-quality  scientific data  that  is ready  for AI t raining.  There  is often
+no systematic  way to report  data  collection  methods  or to document  the context  in which
+data  was acquired.  Sometimes,  data  are generated  from  both  computational  models  and
+experimental  observations,  which  can differ  greatly  in terms  of format,  resolution,  and  reli-
+abilit y. This  discrepancy  creates  additional  challenges  when  attempting  to integrate  diverse
+datasets  into a unified  AI f ramework.  Another  challenge  is the  lack  of negative data,  which
+are datasets  that  capture  instances  of failure  or non-occurrence.  Negative data  are essen-
+tial for training  models  that  can accurately  discern  valid  signals  from  noise,  but are rarely
+1
+
+
+reported. In some situations, the cost of extracting, cleaning, and maintaining high-quality
+datasets can be very high. Many groups opt to publish only the methods by which data were
+generated, rather than the data themselves. Also, researchers do not receive proper credit
+when others utilize their data.
+Opportunities: One of the major hurdles is obtaining data from diverse sources, includ-
+ing proprietary datasets, and ensuring that data-sharing practices benefit scientists. Novel
+frameworks would need to be created to ensure that researchers receive proper credit and
+that data contributors are rewarded, thereby encouraging more organizations to share high-
+quality data without compromising proprietary interests.
+Another opportunity lies in developing and enforcing FAIR standards by establishing
+guidelines at a national level to promote a culture of transparency and quality in data.
+Those include finding better ways to search for good quality data in the published literature.
+Furthermore, data storage and management still remain a challenge as the volume of scientific
+data grows exponentially. Our focus also has to cover the development of innovative storage
+solutions to secure and manage large datasets, ensuring that the infrastructure keeps pace
+with the increasing demands of AI-driven research.
+Policy recommendations: A critical step toward broader AI integration into science and
+engineering is prioritizing the conversion of research data into AI-compatible formats, and
+establishing mechanisms to store and manage data effectively. Specific recommendations
+include:
+•Develop and enforce policies that promote FAIR data standards.
+•Establish centralized data repositories and data science centers that serve as hubs for data
+storage/management and provide essential infrastructure for data curation and bench-
+marking, making high-quality data accessible and citable.
+•Invest in academic programs and training initiatives. The University of Alabama intends
+to introduce an undergraduate minor (or even a full program) in data management and
+analytics for science.
+•Support pilot projects that facilitate data sharing from proprietary sources through inno-
+vative public-private partnerships. This would involve developing frameworks that protect
+proprietary interests while making valuable datasets available for academic research.
+•Encourage the development of advanced tools and indexing systems to search scientific
+literature and supplementary materials.
+•Build AI models which are not as data-hungry, i.e., can generalize better with fewer data.
+•Artificial intelligence can benefit from existing domain knowledge, e.g., symbolic regres-
+sion, physics-informed AI, symmetry-aware AI, etc.
+Beyond these policy actions, UA should aim to become a national leader in scientific
+data accessibility. By establishing robust data storage and management standards, UA can
+shape the future of AI-driven research and make high-quality, citable data available to the
+scientific community.
+2
+
+
+2.2 Quantum AI and Emerging Technologies
+Scope and challenges: Traditional computing is approaching fundamental limitations and
+faces serious challenges in terms of scalability, performance, and sustainability. Quantum
+computing offers a promising alternative that leverages the unique properties of quantum
+systems to perform calculations more accurately and exponentially faster, enabling break-
+throughs in fields like materials science, drug discovery, financial modeling, artificial intelli-
+gence, and cryptography. One emerging area of research is the confluence of quantum com-
+puting and machine learning: or quantum machine learning (QML). Quantum machine
+learning focuses on quantum algorithms that perform machine learning tasks on quantum
+computing hardware. Despite the relatively rapid progress in the development of quantum
+computing and quantum machine learning, the most promising direction at the moment is
+offered by hybrid approaches in which quantum and conventional machine learning modules
+operate together symbiotically. However, fully quantum models are desired in the future.
+Open challenges include:
+•Developing practical quantum machine learning algorithms for the existing hybrid
+computing platforms built with noisy intermediate-scale quantum (NISQ) devices.
+•Optimal integration of the quantum andclassical components of the hybrid QML mod-
+els. What are the most promising quantum technologies for such integration?
+•Identifying universally accepted benchmarks to quantify near-term quantum AI utility .
+Opportunities: In the long term, quantum computing hardware will increasingly become
+a commercial commodity. Building up capabilities for quantum AI algorithm development
+is paramount to maintaining the USA’s leadership role in the field. The federal government
+can support the development of this emerging field with targeted funding opportunities and
+timely investments for modernizing the current workforce development and training, with
+an emphasis on developing a quantum AI curriculum.
+Policy recommendations: The existing effort in Quantum AI algorithm development at
+the University of Alabama provides an opportunity to lead innovation in this area. Specific
+recommendations include:
+•Increase the funding opportunities for complex, multidisciplinary projects on Quantum
+AI algorithm development and applications in targeted fields across science, engineering
+and medicine, whose success typically relies on teams of experts from different areas such
+as physics, quantum information science, mathematics, computer science, engineering and
+domain experts.
+•Establish close relationships with the Quantum Research groups at the National Labs
+as well as partnerships with the industry leaders in quantum technology. Encourage
+incubators of AI and Quantum research and spin-off technologies.
+•Fund National Research Traineeship efforts specifically in fundamental and quantum AI
+algorithm development. Facilitate joint opportunities that combine expertise in academia
+and industry in quantum AI technology.
+3
+
+
+2.3 AI for Cyberinfrastructure & Cybersecurity
+Scope and challenges: The rapid expansion of AI-driven research requires robust in-
+frastructure serving as an AI Research Testbed capable of supporting high-performance
+computing (HPC), scalable storage solutions, and secure systems.
+•Future Proofing - AI is a very dynamic field, and computing resource needs are sky-
+rocketing with the introduction of new generative AI models. Many new researchers are
+now entering the field of AI. All of this presents a challenge in forecasting and meeting
+short-, mid-, and long-term requirements.
+•Technical architecture - Researchers interact with HPC systems in different ways.
+Hence, cyberinfrastructure must be flexible enough to accommodate diverse user prefer-
+ences and levels of technical expertise.
+•Resource Allocation - Computational needs vary across researchers and projects. De-
+veloping an optimal adaptive strategy for resource allocation remains a challenge.
+•Security and Privacy - AI-driven systems are inherently vulnerable to security breaches,
+model exploitation and data privacy issues. Prioritizing and enforcing effective security
+countermeasures is critical to protecting infrastructure, models, and sensitive datasets.
+•Industry Partnerships - The university must seek industry collaborations, while en-
+suring compliance with best practices and fostering innovation.
+Opportunities: To fully leverage AI’s potential in cyberinfrastructure and cybersecurity
+(C&C), UA must create an integrated, forward-thinking framework that supports both re-
+search and real-world applications. Key opportunities include:
+•Assistance with AI Research Needs - UA should establish a one-stop shop that
+provides researchers with a full spectrum of training, documentation, hands-on workshop
+tutorials, and technical support for AI-driven research.
+•Interdisciplinary Collaboration - UA should take initiative by forming interdisci-
+plinary teams of collaborators and incentivize innovative ideas.
+•Inference API - Large language models have become a commonplace tool for AI research,
+hence, the HPC at UA should consider providing inference API services.
+Policy recommendations: Specific recommendations on C&C include:
+•AI-aided workflow - Explore AI to automate existing workflows. Partnering with state
+agencies, local businesses and other stakeholders can help identify high-impact use cases.
+•AI in Education - Strengthen AI literacy through partnerships with local magnet
+schools, community colleges and HBCUs to ensure workforce readiness.
+•Accountability of AI Models - Promote awareness of AI accountability, transparency
+and fairness by carefully selecting models and integrating educational programs focused
+on ethical AI use.
+4
+
+
+2.4 AI in Water, Environmental, and Earth Sciences
+Scope and challenges: The role of AI in Earth and Environmental Sciences (EES) has
+expanded significantly in the past decade. The increasing volume of AI-related EES pub-
+lications reflects AI’s growing influence, particularly in areas that rely on remote sensing
+data. The ability to utilize large data sources has led to many unanticipated insights and
+discoveries throughout EES.
+One of the most pressing challenges is determining the primary objectives AI should ad-
+dress, as many environmental goals are inherently in conflict. For example, habitat restora-
+tion and flood control often require opposing approaches. In some ecosystems, floods are
+a natural and necessary part of the ecological balance, yet AI-driven solutions designed to
+mitigate flooding may inadvertently disrupt these systems. Multi-objective optimization can
+help balance such competing priorities.
+Another challenge is the plethora of scales on which EES phenomena occur, the complex
+interactions crossing scales and the data management that comes along with those interac-
+tions. This includes temporal scales ranging from seconds to centuries, and spatial scales
+ranging from sub-meter to entire continents. Another corresponding issue is the variety of
+scales at which predictions are needed for users of AI models in EES. These are challenges
+that make way for research opportunities and we can overcome them.
+Opportunities: AI has the potential to significantly enhance forecasting accuracy and
+resource management in EES. In the hydrosphere, for instance, our ability to forecast floods
+and droughts has improved due to recent scientific advances in machine learning. This creates
+opportunities for enhanced hazard forecasting at the national level, attracting investment
+from both government and private industry.
+Natural resources management has opportunities to take advantage of better prediction
+and optimization that comes with AI. One specific opportunity is synthesizing large-scale
+environmental datasets and providing actionable insights for management. Another oppor-
+tunity is balancing competing resource demands, but this requires overcoming the challenge
+of defining primary objectives.
+Policy recommendations:
+•Prioritize training on high quality data. Given the wide range of uncertainty in EES,
+consideration of data sources, limitations and reliability should be made.
+•Prioritize generalization to new scenarios beyond the range of training data. Evalu-
+ation metrics should represent applications to unknown conditions.
+•Prioritize assessments of uncertainty and accounting for unknowns. This may include
+uncertainty reporting, sensitivity analysis, and integration of probabilistic approaches.
+•Prioritize operationalization of the most promising AI methods for increasing forecast-
+ing skill and optimizing natural resources management.
+5
+
+
+2.5 AI in Transportation
+Scope and challenges: The integration of AI in transportation introduces complex tech-
+nical, operational, and policy considerations, particularly in ensuring trust and reliability in
+predictive modeling for control and operations. AI-driven systems depend on high-quality
+ground truth data, yet gaps in sensor coverage, data accuracy, and environmental variabil-
+ity introduce biases that can compromise decision-making. Furthermore, AI models must
+function within the constraints of physical reality, where uncertainties in input data, model
+assumptions, and dynamic operational conditions can lead to errors in prediction and control,
+potentially compromising safety and efficiency.
+A critical challenge is ensuring trust, adaptability, and explainability in AI-powered trans-
+portation systems. Many AI models operate as “black boxes,” limiting the ability of engi-
+neers, policymakers, and end-users to understand or validate decisions. Liability concerns
+further complicate AI adoption—who is responsible when AI-driven transportation systems
+fail? Without clear insights into model reasoning, trust in AI-driven transportation systems
+remains a significant barrier to widespread implementation. Addressing these issues requires
+structured oversight, human-AI interaction research, and regulatory frameworks that ensure
+responsible deployment.
+Opportunities: AI presents transformative opportunities for transportation by enabling
+predictive analytics, real-time traffic optimization, infrastructure resilience, and autonomous
+systems. Domain-specific large language models (LLMs) can integrate insights across engi-
+neering, environmental science, hydrology, and operations management, allowing for more
+holistic mobility solutions. This capacity to operate at the interface of multiple applications
+not only accelerates discovery but also expands the scope of scientific inquiry, encouraging
+a shift from siloed investigations to integrated analyses.
+Beyond research advancements, AI also provides a critical opportunity to strengthen part-
+nerships between academia, government, and the private sector. Transportation systems are
+deeply intertwined with commercial industries, from logistics and freight to mobility services
+and infrastructure development. Integrating human factors, psychology, and behavioral sci-
+ence is key to ensuring safe and effective AI-human interactions in workforce development.
+AI can enhance driver monitoring systems, detect fatigue or distraction, and provide adap-
+tive feedback based on cognitive workload. Behavioral AI models can also predict how users
+interact with autonomous systems, mitigating automation complacency and increasing trust
+in AI-powered mobility. These advancements ensure that AI supports rather than replaces
+human decision-making, fostering a seamless transition to AI-integrated transportation.
+Policy recommendations: To harness AI’s potential in transportation, policy efforts
+should prioritize strengthening public-private partnerships, workforce development, and struc-
+tured oversight. Research-driven guidance will enhance the quality and impact of AI-driven
+discovery in transportation and will be critical as AI becomes increasingly embedded in the
+control aspects of transportation system users and infrastructure.
+As such, policy efforts should prioritize:
+•Data Reliability & AI Explainability – Improve data-sharing frameworks and promote
+transparent, interpretable AI models to enhance trust and accountability.
+6
+
+
+•Human-AI Interaction Research – Invest in cognitive science and human factors studies
+to optimize AI-driven systems for various users.
+•Liability & Safety Standards – Develop clear legal frameworks defining AI accountabil-
+ity in autonomous vehicles and intelligent infrastructure.
+•Public-Private Partnerships – Strengthen collaboration between academia, industry,
+and transportation agencies to accelerate AI-driven mobility solutions.
+•Workforce Development – Expand AI and human factors training programs to prepare
+engineers, psychologists, and policymakers for AI-integrated transportation.
+By integrating AI with human-centered design, interdisciplinary research, and structured
+oversight, we can create safer, smarter, and more resilient transportation systems while en-
+suring ethical and responsible AI deployment in mobility and infrastructure management.
+Funding should support education programs that enhance “AIQ,” equipping individuals with
+essential AI literacy and applied skills in data science, predictive modeling, and AI-driven
+decision-making. By investing in AI education, professional development, and policy over-
+sight, policymakers can position the U.S. as a leader in AI-driven transportation innovation.
+2.6 AI in Autonomous Experimentation (AE) and Robotics
+Scope and challenges: AI-driven robotics significantly impacts research, industry, and
+society by enabling self-optimizing systems that enhance efficiency and precision. In sci-
+entific research, AE accelerates material discovery by integrating AI-driven data analysis
+with robotic automation, leading to rapid hypothesis testing and validation. In industry, ad-
+vanced manufacturing powered by AI and robotics improves manufacturing processes, quality
+control, and automated supply chain management, to reduce costs and increase scalability.
+In society, these autonomous systems equipped with AI and robotics technologies address
+workforce shortages, can increase safety, and improve the quality of work environments.
+Despite these advancements, several challenges hinder the integration of AI in robotics
+and AE. Perception and adaptability remain significant hurdles to allow robots to navigate
+unpredictable environments. Control and assurance mechanisms must ensure the safety
+and reliability of autonomy in critical applications such as autonomous vehicles, eldercare,
+process automation, and equipment operation. Computational constraints, including real-
+time processing and energy efficiency, further challenge widespread adoption. Ethical and
+regulatory considerations, including data privacy, liability, and human-robot teaming, must
+be addressed to ensure responsible deployment.
+Opportunities: The integration of AI and robotics presents numerous opportunities to ad-
+vance autonomy in experimentation and manufacturing. AI enhances perception, enabling
+robots to interpret complex sensory inputs and adapt to environmental changes. Autonomous
+decision-making capabilities optimize industrial processes, from damage diagnosis to adap-
+tive motion planning. In material sciences, AE accelerates discovery cycles, significantly re-
+ducing the time required to develop new materials. Various materials systems are expected
+to benefit, including structural metals, functional ceramics, soft materials, and semiconduc-
+tors, all of which are essential for applications in aerospace, energy storage, and biomedical
+7
+
+
+devices. Furthermore, AI-powered human-robot teaming fosters safer and more intuitive
+collaboration, augmenting human capabilities rather than replacing human companions.
+Policy recommendations: To maximize the potential of AI in robotics and AE, policy
+initiatives must focus on funding, infrastructure, and workforce development. Increased in-
+vestment in AI-driven robotics research through NSF, DOE, and other agencies will enhance
+safety, performance, and generalizability in AI-powered autonomous systems. Establishing
+regional innovation hubs will foster collaboration between academia, industry, and gov-
+ernment and promote real-world applications of autonomous robotics and AI. Additionally,
+workforce reskilling initiatives will equip professionals with AI and robotics expertise
+to address labor market shifts and ensure a seamless transition to AI-augmented workplaces
+and laboratories. A significant emphasis must be placed on fostering public-private part-
+nerships to drive commercialization and scalability of AI technologies, such that innovations
+transition effectively from research laboratories to industrial applications.
+Strengthening U.S. competitiveness in AI and robotics is critical to ensuring domestic in-
+novation, securing leadership in advanced manufacturing, and safeguarding national security.
+By investing in resilient supply chains, AI-driven automation, and cutting-edge research, the
+U.S. can maintain its technological edge, promote economic growth, and reinforce its position
+as a global leader in AI-powered robotics and manufacturing.
+2.7 AI in Health and Life Sciences
+Scope and challenges: Health and life sciences span from molecular biology to public
+health, integrating biological, technological, and environmental factors. Despite advance-
+ments, critical challenges persist. At the molecular level, DNA, proteins, and biomolecules
+drive cellular processes, forming tissues, organs, and systems essential for homeostasis. Pub-
+lic health research tracks disease patterns and informs strategies, yet disparities in healthcare
+access remain. Cutting-edge technologies like DNA sequencing, MRI, and wearable devices
+enable precise health monitoring, but gaps persist in integrating these insights into effective
+care. AI, bioinformatics, and biomedical engineering are revolutionizing diagnostics, drug
+discovery, and medical devices, while knowledge representation enhances data integration
+and decision-making. However, addressing social determinants of health is just as crucial as
+technological innovation. Bridging these gaps across biological and societal scales is imper-
+ative for advancing effective healthcare.
+Integrating AI across these dimensions can foster a holistic, intelligent health ecosystem.
+Self-explaining and autonomous AI systems enhance personalized care, while multi-scale
+AI reasoning frameworks unify molecular insights, clinical data, and environmental factors
+for a more comprehensive understanding of health. AI-powered decision-making platforms
+empower clinicians, researchers, and policymakers to optimize health outcomes efficiently.
+Additionally, human-AI collaboration is advancing diagnostics, treatment, and disease pre-
+vention in a responsible and ethical manner. By leveraging these innovations, healthcare
+can become more precise, accessible, and proactive, addressing complex challenges across
+biological and societal scales.
+To drive these advancements, federal policies must prioritize investments in AI grounding,
+alignment, and continuity, alongside efforts to enhance workflow transparency and ensure
+8
+
+
+privacy-preserving healthcare pipelines. Equipping healthcare professionals with AI literacy
+and establishing policies that align AI-driven solutions with patient-centered care are essen-
+tial for fostering ethical, effective, and humane AI adoption in healthcare. Specific challenges
+are:
+•Grounding : ensures AI models are biologically and physically sound across all dimen-
+sions of health and life sciences, guaranteeing reliability in clinical decision-making.
+•Alignment prioritizes patient-centered health outcomes over cost-driven objectives and
+broader societal benefits, reinforcing ethical AI adoption.
+•Continuity bridges the gap between research and policy through clinical training, insured
+coverage, and regulatory frameworks at both state and federal levels.
+Opportunities: A unified data and knowledge fabric enables the seamless integration of
+molecular, clinical, and environmental health data while ensuring privacy through federated
+learning and secure computation. Multi-scale AI reasoning frameworks allow AI to pro-
+cess and infer insights across biological hierarchies, linking molecular markers to systemic
+health and population trends. AI-augmented decision-making platforms enhance real-time,
+evidence-based recommendations by leveraging predictive analytics, digital twins, and clin-
+ical decision support systems. Additionally, human-AI collaborative intelligence ensures
+that AI enhances rather than replaces human expertise, facilitating explainable AI-assisted
+diagnostics, robotic surgery, and patient engagement tools.
+Policy recommendations:
+•Establish AI-driven health data infrastructures to support fundamental research to en-
+hance the interpretability of multimodal healthcare data at the individual level, ensuring
+AI-driven insights are robust and explainable.
+•Invest in research to AI-enabled decision-making and improving AI-transparency in healtI-
+care workflows, integrating scientific interpretability, patient-centered outcomes, and research-
+to-policy implementation.
+•Enforce privacy-enhanced AI governance and equitable AI-driven healthcare pipelines that
+uphold ethical standards and ensure access to high-quality care across patient populations.
+•Promote AI literacy and workforce development, equipping healthcare professionals with
+the skills to navigate AI-integrated healthcare systems.
+•Encourage AI-driven healthcare solutions that expand access to rural populations, ensur-
+ing telehealth and predictive diagnostic models prioritize patient well-being.
+2.8 AI for Humanities, Arts, and Social Sciences
+Scope and challenges: Artificial intelligence is reshaping research and practice across dis-
+ciplines, yet its integration into the Humanities, Arts, and Social Sciences (HASS) presents
+unique challenges and opportunities. HASS disciplines encompass the study of human cul-
+ture, society, and behavior, engaging with complex, qualitative, and interpretive methods
+that often differ from the data-driven paradigms dominant in AI research. While AI offers
+9
+
+
+powerful tools for analyzing texts, artifacts, and behaviors, a digital research divide threatens
+to limit its transformative potential in HASS fields.
+A key challenge is the digital research divide—distinct from broader digital access dis-
+parities—which affects access to AI tools, training, and computational infrastructure. Many
+HASS scholars lack the resources or institutional support to incorporate AI into their re-
+search, creating disparities in the ability to engage with emerging technologies. Furthermore,
+disciplinary barriers constrain cross-, trans-, and interdisciplinary research, making collabo-
+ration with computational fields difficult. Cultural heritage preservation also faces hurdles,
+as AI-driven reconstruction and analysis require high-quality datasets, expertise, and long-
+term funding—resources that are often scarce. Additionally, while AI can enhance efficiency,
+its implementation in HASS research demands substantial investment in training, new data
+collection methods, and human oversight to ensure ethical and interpretive integrity. With-
+out these considerations, AI risks reinforcing rather than alleviating resource constraints in
+HASS.
+Opportunities: Despite these challenges, AI holds promise for HASS. It can reconstruct
+lost artifacts, decode ancient texts, and enhance cultural preservation efforts, providing new
+modes of discovery. AI models can also support research on human behavior, creativity,
+and ethics, benefiting from HASS insights to improve interpretability and contextual aware-
+ness. Crucially, AI should not be framed as a cost-saving tool but as a research accelerator
+that complements human expertise rather than replacing it. AI can alleviate routine tasks,
+allowing HASS scholars to focus on complex analysis, theory-building, and interpretation.
+However, these benefits require sustained investment in faculty bandwidth, data resources,
+and collaborative partnerships to ensure AI integration strengthens, rather than disrupts,
+existing research methodologies.
+Policy recommendations: To bridge the digital research divide, higher education institu-
+tions should invest in dedicated AI funding that includes medium-scale computing resources,
+data infrastructure, and long-term faculty support. Interdisciplinary AI labs should be es-
+tablished, alongside literacy training that equips HASS scholars with computational skills.
+Additionally, faculty must be given the time and institutional support necessary to fully
+engage with AI methodologies. By prioritizing these investments, institutions can position
+themselves at the forefront of AI-driven innovation in HASS.
+2.9 AI in Ethics
+Scope and challenges: As AI systems become increasingly embedded in education, re-
+search, industry, and daily life, ensuring their responsible development and use is critical.
+Without ethical safeguards, AI can reinforce existing inefficiencies, amplify misinformation,
+and produce unintended consequences that undermine trust and accountability. Higher ed-
+ucation institutions have a unique responsibility to prepare students not only to use AI
+effectively but also to anticipate and mitigate its risks. This requires moving beyond ab-
+stract discussions of fairness and transparency and overemphasis on compliance to practical
+applications that help students, faculty, and professionals navigate complex ethical challenges
+involving competing principles, stakeholders, and interests. By prioritizing critical thinking,
+ethical reasoning, and responsible implementation, universities can equip future leaders to
+10
+
+
+make informed decisions about the role of AI in society.
+AI ethics require attention at multiple levels: teaching, research, workforce development,
+and institutional governance. Several key challenges hinder the effective integration of ethics
+pedagogy in university settings:
+•Faculty Preparedness and Training Gaps – Many faculty members lack confidence
+in teaching AI ethics or incorporating ethical discussions into their courses. Concerns
+include unfamiliarity with ethical frameworks, fear of controversy, and uncertainty about
+practical applications.
+•Limited Institutional Coordination – Ethics-related AI efforts are often siloed across
+departments, leading to duplicated efforts and inconsistent messaging. There is a lack of
+centralized guidance or university-wide standards for integrating AI ethics into curricula.
+•Moving Beyond Principles to Practice – AI ethics education is often limited to ab-
+stract discussions of fairness, transparency, and bias. Universities must develop methods
+for teaching applied AI ethics through case studies, project-based learning, and workforce-
+aligned curricula.
+•Slow Curriculum Development Processes – Approvals for new courses and programs
+are slow, making it difficult to adapt to the rapidly evolving ethical landscape of AI.
+•Lack of Alignment with Broader AI Workforce Needs – Ethical considerations
+in AI are not always well integrated into technical AI training or workforce preparation
+programs, limiting students’ ability to apply ethical reasoning in industry contexts.
+•AI and the Digital Divide – Institutions must address the ethical dimensions of AI’s
+role in widening gaps in access to education, workforce training, and research opportuni-
+ties, particularly in rural and under-resourced areas.
+•Undergraduate versus Graduate Needs – Undergraduate students require broad AI
+literacy and ethics education, integrated into general education and introductory courses.
+Graduate students, particularly in technical fields, need more targeted interventions fo-
+cused on applied ethics in research, professional practice, and policy development.
+Opportunities: The University of Alabama is well-positioned to take a leading role in
+AI ethics education by leveraging interdisciplinary expertise, existing AI initiatives, and
+faculty-driven projects. Key opportunities include:
+•Developing AI Literacy and Ethics Courses – A foundational AI literacy course with
+an ethics component could be implemented for undergraduates, while graduate students
+could engage with discipline-specific AI ethics training tailored to their research and
+professional trajectories.
+•Creating Applied AI Ethics Modules – Modular, field-specific AI ethics training
+could be developed for STEM, humanities, business, and social sciences programs, ensur-
+ing that ethical considerations are embedded across curricula.
+11
+
+
+•Faculty Incentives for AI Ethics Training – Faculty need structured support to en-
+gage with AI ethics training and integrate it into their teaching. Workshops, AI “sandbox”
+events, and microcredentialing in AI ethics pedagogy could help bridge this gap.
+•Collaboration Across Departments and Institutions – UA can partner with other
+universities and community colleges to expand AI ethics education beyond individual
+programs.
+•Strengthening Industry and Workforce Connections – AI ethics should be inte-
+grated into career readiness programs, with partnerships across industry, government, and
+nonprofit sectors to ensure students receive real-world exposure to ethical dilemmas in AI.
+•Developing a Research Hub for AI Ethics Education – A centralized AI ethics
+research initiative at UA could study best practices for teaching AI ethics, workforce
+applications, and the impact of AI on different learning and professional environments.
+•Building and Supporting Ethical Cultures in AI – Beyond individual courses,
+universities must cultivate a broader ethical culture around AI usage, development, and
+implementation. This requires integrating ethics discussions into faculty training, institu-
+tional policies, and research initiatives. The Office of Research Ethics and Compliance, for
+example, can play a central role in supporting faculty and students in navigating ethical
+challenges related to AI.
+Policy recommendations: To support AI ethics education and responsible AI deployment,
+UA recommends the following actions to NSF/OSTP:
+•Increase Funding for AI Ethics Education Research – NSF should prioritize re-
+search funding for interdisciplinary AI ethics education, including studies on effective
+teaching strategies, workforce applications, and long-term impacts.
+•Support for Interdisciplinary AI Ethics Curricula – Federal funding should enable
+universities to develop and scale AI ethics courses, stackable microcredentials, and training
+modules tailored to different fields of study.
+•Investment in Faculty Training and Professional Development – NSF should fund
+AI ethics training programs for faculty, with incentives for integrating ethics discussions
+into technical and non-technical courses.
+•Research on AI and Access to Education and Workforce Preparation – AI ethics
+research should address gaps in AI education and training, ensuring that students across
+different regions and institutional types can engage with AI literacy.
+•Institutional Collaboration and Infrastructure Development – NSF should sup-
+port the creation of centralized AI ethics resource hubs at universities, fostering collabo-
+ration between departments and external partners.
+2.10 AI in Education and Workforce Development
+Scope and challenges: Significant challenges in AI education and workforce development
+at UA include fostering AI literacy and skills for faculty, staff, and students while addressing
+12
+
+
+faculty hesitation due to stigma, fear, or being overwhelmed. A foundational AI course may
+be necessary, but curriculum development remains slow, with approval processes hindering
+responsiveness. Collaboration with HPC resources and workforce partnerships could enhance
+AI integration, but faculty need training to leverage these tools effectively. Addressing these
+challenges will require a coordinated, cross-campus effort to align AI education with work-
+force needs while ensuring ethical considerations are embedded throughout the curriculum.
+Opportunities: The University of Alabama has numerous opportunities to enhance AI
+education and workforce development by expanding AI literacy, integrating ethics into cur-
+ricula, and aligning programs with industry needs. To maximize these efforts, the university
+must explore innovative approaches and establish a centralized infrastructure to coordinate
+AI-related initiatives. Key opportunities include the following:
+•Expand AI literacy courses and faculty training incentives, including AI-focused work-
+shops, to ensure foundational knowledge and promote AI education. Integrate AI ethics
+into the curriculum to prepare students for responsible AI use.
+•Align educational programs with workforce demands by identifying industry needs, estab-
+lishing AI learning outcomes based on career clusters, and creating tailored educational
+pathways. Explore alternative learning models like stackable micro-credentials for flexible
+skill development.
+•Strengthen AI workforce connections through industry, community, and state partner-
+ships, leveraging initiatives such as Office of Teaching Innovation and Digital Education
+(OTIDE)/CrossingPoints to support young adults with intellectual disabilities. Expand
+internships and special education funding to enhance workforce readiness.
+•Establish a centralized university infrastructure to track AI-related courses and resources,
+improving coordination and reducing redundancy. Ensure rapid curriculum updates to
+keep pace with AI advancements and expand workforce initiatives to support reskilling,
+upskilling, and K-12 AI programming across Alabama and nationally.
+Policy recommendations: Based on current AI initiatives and successes at UA, the uni-
+versity recommends that NSF/OSTP prioritize funding to enhance AI education, ethics,
+and workforce development. Strategic investments are needed to support interdisciplinary
+research, faculty upskilling, workforce-aligned training and curriculum development. Key
+funding priorities include the following:
+•Supporting interdisciplinary research on AI teaching, ethics and applications across un-
+dergraduate and graduate programs.
+•Assessing AI’s impact on institutions, communities, and workforce sectors to address
+concerns about the digital divide.
+•Scaling faculty/staff upskilling initiatives to ensure educators can effectively integrate AI
+into their teaching and programming.
+•Integrating AI literacy and ethics into curricula to prepare students for responsible AI
+use and development.
+13
+
+
+•Developing workforce-aligned training programs and experiential learning opportunities
+that equip students with the skills needed for jobs of the future.
+•Building ethical AI cultures within institutions by moving beyond compliance to applied,
+actionable ethics in AI design, deployment, and usage.
+•Creating sustainable, equitable AI education models that keep pace with technological
+advancements and industry demands.
+•Creating opportunities for faculty-industry connections that may lead to use-inspired
+research collaborations and potential commercialization.
+By prioritizing these initiatives, NSF/OSTP can help institutions like UA lead in AI
+education and workforce development while addressing critical ethical challenges.
+3 Summary
+The previous discussion highlighted AI’s transformative potential across multiple domains,
+while also underscoring key challenges that must be addressed to ensure responsible and
+effective implementation. From fundamental research to applied solutions, AI is reshaping
+science, engineering, healthcare, and the humanities in profound ways. To harness these
+advancements, institutions must prioritize interdisciplinary collaboration, robust infrastruc-
+ture, ethical considerations, and workforce development. Additionally, stronger public-
+private partnerships (PPPs) will be essential for accelerating AI research, technology
+transfer, and workforce training. The following key themes emerged as critical areas for
+future investment and policy focus:
+•Data Accessibility and Quality – Many fields struggle with data-related challenges, includ-
+ing limited availability, inconsistent formatting, and proprietary restrictions that hinder
+AI’s effectiveness. Addressing these barriers requires public data repositories, standard-
+ized metadata, and the development of AI models capable of working with diverse and
+incomplete datasets.
+•AI and emerging quantum technologies – The next frontier of AI is Quantum Machine
+Learning, which leverages the advantages of quantum computing and modern GPU archi-
+tectures. QML models can address future challenges in machine learning through their
+high expressiveness, faster convergence, and potential for higher accuracy with a smaller
+number of model parameters.
+•Interdisciplinary Collaboration – The complexity of AI applications necessitates collabo-
+ration across disciplines. Whether in quantum AI, environmental sciences, or transporta-
+tion, integrating domain knowledge with AI methodologies is essential for meaningful
+advancements.
+•Ethics, Transparency, and Accountability – Concerns over AI’s “black box” nature and
+its ethical implications were raised across multiple disciplines. Ensuring AI models are
+interpretable, unbiased, and aligned with societal needs will require stronger regulations,
+workforce training, and educational initiatives in AI ethics.
+14
+
+
+•Workforce Development and AI Literacy – AI education must be expanded beyond tech-
+nical fields to include healthcare, social sciences, and the humanities. Faculty training,
+curriculum updates, and interdisciplinary programming/courses are critical to preparing
+students for AI-integrated careers. UA’s AI workforce efforts should aim to improve ed-
+ucational outcomes both internally and externally as it aligns with the state’s economic
+development plan and fosters industry-academia-community partnerships.
+•Cybersecurity and Infrastructure – As AI adoption grows, so do challenges related to secu-
+rity, privacy, and computational resources. Institutions must invest in high-performance
+computing infrastructure while ensuring robust security measures for AI-driven systems.
+The integration of Quantum AI technologies into the existing HPC infrastructure will be
+a key challenge in the near-term future.
+•AI for Societal Impact – From healthcare and environmental sciences to transportation
+and humanities, AI presents significant opportunities to improve quality of life, sustain-
+ability, and decision-making. However, responsible deployment and governance are key
+to maximizing benefits while mitigating risks.
+•AI-Driven Data Innovation – Beyond addressing existing data limitations, AI itself presents
+opportunities to transform data management and utilization. Emerging AI techniques
+can enhance data collection, automate curation, and extract meaningful insights from
+unstructured or multimodal datasets. Establishing FAIR (Findable, Accessible, Interop-
+erable, Reusable) data principles and interdisciplinary data-sharing frameworks will be
+critical to unlocking AI’s full potential in research and industry.
+•Autonomous Experimentation and Robotics – AI-driven robotics has the potential to rev-
+olutionize scientific discovery, manufacturing, and industrial automation. However, chal-
+lenges related to perception, adaptability, and ethical considerations must be addressed
+to ensure responsible and scalable deployment. Increased investment in autonomous ex-
+perimentation could accelerate breakthroughs in materials science, engineering, and other
+domains.
+•Public-Private Partnerships (PPPs) as AI Accelerators – Collaboration between academia,
+industry, and government is crucial for AI innovation. PPPs can accelerate technology
+transfer, ensure AI research aligns with real-world applications, and create workforce
+training programs that prepare students for AI-driven industries. Structured partnerships
+will be essential for expanding AI’s impact in sectors such as healthcare, transportation,
+cybersecurity, and manufacturing.
+By addressing these challenges and leveraging AI’s transformative potential, institutions
+like the University of Alabama can drive the next generation of AI innovation. Strate-
+gic investment in research, infrastructure, and public-private collaboration will
+enable universities to serve as catalysts for AI-driven advancements that push
+technological frontiers while ensuring societal benefits. By fostering ethical AI devel-
+opment, strengthening interdisciplinary partnerships, and expanding access to AI education,
+academic institutions can position themselves as national and global leaders in AI re-
+search and application, shaping a future where AI serves as a tool for scientific
+discovery, economic growth, and societal well-being.
+15
+
+

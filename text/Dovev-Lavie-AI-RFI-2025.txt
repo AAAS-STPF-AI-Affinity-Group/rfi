@@ -1,0 +1,2472 @@
+CERTIFIC ATION OF BUSINESS PRACTICES AND ALGORITHMS  
+AS A COMPLEMEN TARY APPROACH  TO PLATFORM REGULATION† 
+DOVEV LAVIE 
+Bocconi University 
+ORESTE POLLICINO 
+Bocconi University 
+TOMMASO VALLETTI 
+Imperial College London 
+South Kensington Campus 
+SW7 2AZ, London, U.K.  
+A paper forthcoming in the Academy of  Management  Perspectives 
+Special Issue on Platform Regulation 
+Submitted: O ctober 25, 2023 
+Revised: July 17, 2024 
+Revised: January 27, 2025 
+Accepted: February 6, 2025 
+Keywords : Digital platforms, Regulation,  Inspection,  Certification,  Business pr actices, Algorithms 
+†The authors are listed alphabetically and contributed equally to this stud y. We are grateful for the 
+research assistance of Giuseppe  Muto and for the feedback received from participants of a seminar at 
+the Institute for Policymaking (I EP) at Bocconi University and of participants at the 2025 Brux 
+Conference of the Capital Forum in Brussels and the 2nd European Digital Platform Research Summit 
+at the University College London. We also appreciate the feedback received from Kerstin Neumann. 
+Dovev Lavie acknowledges his affiliation with the Invernizzi Center for Innovation, Organization, 
+Strategy and Entrepreneurship (ICRIOS)  at Bocconi University as well as with the IEP at Bocconi 
+University, with which Oreste Pollicino is also affiliated. Tommaso Valletti acknowledges the support 
+of the Leverhulme Trust . The authors declare no conflicts of interest.  
+
+
+CERTIFICATION  OF BUSINESS PRACTICES AND ALGORITHMS   
+AS A COMPLEMENTARY APPROACH TO PLATFORM REGULATION  
+ABSTRACT  
+Digital platforms have transformed markets and created considerable value, mostly for their owners. 
+As the Big Tech firms have leveraged their platforms to capture dominant market positions, concerns 
+have been raised about their unfair business practices, abuse of market power, exploitation of 
+stakeholders, and harm to society. Policy makers have sought to apply antitrust law and promot e 
+regulation to constrain the dominant platforms, yet the effectiveness of th is approach has been limited. 
+We discuss the types of harm inflicted on end user s, business users, competitors, and society at large , 
+and analyze the recent regulation of digital platforms in the US and the EU, pointing to its limitations. 
+We proceed by introducing the notion of inspection and certification of business practices and 
+algorithms as a complementary approach that relies on market incentives to encourage competition 
+and align the business practices of digital platforms with the interests of stakeholders. We explain the 
+merits of this approach versus regulation, outline a plan for implement ing it while coping with 
+expected challenges , and offer practical recommendations for policy makers.  
+INTRODUCTION 
+In 1998, two Stanford PhD students outlined  a search engine that could index the web efficiently , 
+expecting  that advertising- funded search engine to be inherently biased toward the advertisers and 
+away from end users ’ needs. The students, Sergei Brin and Larry Page, introduce d Google’ s search 
+engine using that advertising model. A year later, the 1999 book Information Rules  by Carl Shapiro 
+and Hal Varian (the latter became Google ’s chief economist) explained  the use of network 
+externalities and lock -in effects in digital platforms. Amid these innovations, the US Department of 
+Justice (DOJ)  brought an antitrust case to stop Microsoft from leveraging its monopoly in operating 
+systems in the web browsers and media player markets. That case fostered an era in which digital 
+platforms  will not face  an antitrust case in the US for the next 25 years. Competition has not thrived, 
+however. Network externalities, lock- in effects, large capital investments , and biases in consumer 
+behavior have violated the first theorem in welfare economics , according to which a competitive 
+equilibrium maximizes social welfare. Since 2010, Google ’s market share in search engines has 
+exceeded 90  percent, suggesting that competition for the market remains a theoretical concept.  
+In the mid-2000s, when Facebook was an upstart social media platform challenging market leader 
+Myspace, it pledged to protect privacy. Such healthy competition in the market soon dissipated. 
+Following Facebook ’s acquisitions of Instagram and WhatsApp, Facebook revoked its users ’ ability 
+
+
+to contest changes to its privacy policy at a time when no alternatives were left (Srinivasan, 2019). 
+Besides price, healthy competition involves quality, choice, and innovation, all of which affect 
+consumer welfare. The focus of policy on prices is often irrelevant , because digital platforms have 
+been built around “free” services with monetization in related markets such as advertising. With set 
+“zero” prices, loss of data protection and privacy reduce s quality. These examples illustrate some 
+harmful practices of digital platforms.  
+Platforms have disrupted markets and restructured relations with  stakeholders such as end users, 
+business user s, and competitors  by enhancing coordination and aligning interdependent activities 
+(e.g., Adner, 2017; Cennamo et al., 2022; Kretschmer et al., 2022). These platforms have transformed 
+markets into multi- sided transaction s, complementary innovation, or information markets (Cennamo, 
+2021). They have employed  various business models to create and capture value by capitaliz ing on 
+the benefits furnished  to their members (McIntyre et al., 2021) . Whereas at their growth phase, 
+platforms have attracted  stakeholders by offering virtuous incentives and satisfying their needs, as 
+they mature d, dominant digital platforms created market failures that restricted the gains to their 
+stakeholders (Cennamo & Santal ó, 2019; Parker, Petropoulos, & Van Alstyne, 2021). They have 
+leveraged their exclusive access to information and the se stakeholders’ dependence to exert excessive 
+power over them (Gawer, 2022; Zhu & Liu, 2018) . Digital platforms have transformed the 
+competitive landscape, but at what cost?  
+With accumulated evidence on the deviant practices of digital platform owners and the harms they 
+inflict on stakeholders, policy makers have resorted to antitrust laws  and promoted regulation, while 
+bringing the Big Tech firms to court. For example , in 2023 Meta was charged a €1.2 billion fine for 
+violating the General Data Protection Regulation ( GDPR) and transferring user data from the EU to 
+the US. Several lawsuits have been filed against Meta, Google, and ByteDance , while the Federal 
+Trade Commission (FTC) accused Amazon of enrolling millions of consumers into its paid Prime 
+service without their consent. In August 2024, Google lost its first antitrust case, in which the  DOJ 
+charged Google for leveraging its market power to ensure exclusivity of its search engine that was 
+
+
+preinstalled on smartphones. In September 2024, Google’ s second trial began, in which it was accused 
+of illegally monopoliz ing the digital advertising industry . Unfortunately , current antitrust laws often 
+do not apply to  digital platforms that do not restrict output or inflate  prices (Jenny, 2021). Moreover, 
+the crafting of regulation is too slow to catch up with the elusive business models of digital platforms , 
+fails to incentivize competition, and may stifle innovation (Cennamo & Sokol, 2021) . The US 
+Congress has contemplated break ing up the Big Tech firms, but the de facto regulation in the US has 
+been lenient  since Microsoft ’s trial. In the EU , new regulation has been advanced to cope with market 
+failures. Regulation s uch as the Digital Markets Act (DMA)  assigns responsibility to very large online  
+platforms  (VLOPs) that operate as gatekeepers , with the aim of stopping their harmful or unfair 
+business practices. However, this regulation falls short of challenging the hegemony  of dominant 
+digital platforms and may hamper value creation and innovation (Cennamo et al., 2023) . On both 
+sides of the Atlantic , policy makers struggle to enact an effective plan for fostering competition  that 
+can challenge the Big Tech  firms.  
+Our study introduces the notion of voluntary inspection and certification of business practices and 
+algorithms as a complementary approach to regulation for aligning the business practices of digital 
+platforms with stakeholders ’ interests. We start by identifying the various types of harm caused by 
+the practices of dominant digital platforms and the affected stakeholders. We next analyze the 
+applicable recent regulation in the US and EU, underscoring its limitations. We then discuss the 
+benefits of relying on certification  for mitigating the harms of digital platforms relative to the 
+shortcomings of the regulation. Departing from the discourse about sanctioning Big Tech firms and 
+the merits of regulation in protecting end user s, business users, competitors, and society, we offer a 
+complementary approach that encourages competition without undermining innovation. Unlike 
+regulation that penalizes violations ex post, we propose profound scrutiny of platform algorithms and 
+the provision of positive market incentives to motivate a change in business practices ex ante. We 
+outline suitable inspection and certification processes and suggest scorecards for evaluating business 
+practices and algorithms by an independent third- party organization. We draw upon the  ISO 9001 and 
+
+
+B Corps examples to illustrate our approach and underscore its practical implications .  
+We envision that complementing protective regulation with a system that motivates platforms to 
+not harm their stakeholders but rather  serve their interests  will allow  contenders  that differentiate 
+based on the reputation ascribed to certification to rise. We expect some Big Tech firms and other 
+dominant digital platforms that seek to avoid loss of market share to follow suit, acknowledging 
+boundary conditions  that may require regulatory intervention that would mandate Big Tech firms to 
+certify their platforms . Hence, we con tribute to research and policy relating to  the regulation of digital 
+platforms by proposing an innovative approach that can compensate for the drawbacks of regulation. 
+HOW DIGITAL PLATFORMS HARM THEIR STAKEHOLDERS  
+The Big Tech firms are among the largest in market capitalization, with valuations exceeding $1 
+trillion each. They control the technological infrastructure and dictate the way we communicate, shop, 
+search for information, read news, and exchange ideas. Their digital platforms use algorithms that 
+classify, extract, and process personal data to predict and guide decisions, and leverage big data analytics to accumulate “algorithmic ” and “computational” power (Balkin, 2018; Danaher, 2016; 
+Durante, 2021) . This power allows them to execute “quasi-public functions without the need to rely 
+on the oversight of a public authority” ( De Gregorio, 2022) . They have leveraged their dominance to 
+violate end-user data protection and privacy rights, and exploit business users by engaging in practices 
+and deploying algorithms that cause various harms . They also lobby for their agenda, abuse 
+employees, avoid paying taxes, and acquire rival and complementary businesses, but this  rests beyond 
+our discussion. We rely on Cennamo’ s (2021) taxonomy to identify types of digital platforms that 
+cause harm. This taxonomy distinguishes multi -sided transaction markets that connect users such as 
+businesses and their customers (e.g., Amazon Marketplace, Booking.com), and complementary 
+innovation markets that enable other firms to introduce complementary products (e.g., Apple ’s iOS, 
+Google’s Android), from information markets that facilitate information exchange (e.g., Google 
+Search, Microsoft Bing) including social media (e.g., Facebook, Instagram). Table 1 details harmful 
+practices of these platforms . These practices, p owered by algorithms , serve the corporate purpose but 
+
+
+incite extensive market dynamics  that undermine end users’ welfare and fair competition  while 
+squeezing  business users . The harmful practices transpire despite applicable regulation and are not 
+limited to a particular type of platform. Although their business models  differ, the platforms inflict 
+various types of harm : they restrict access, introduc e biases, overcharg e end users, intrude on their 
+privacy, facilitat e addiction, mislead users, and abus e them. For simplicity, Figure 1 depicts  the harms  
+that each group of practice s causes and identifies its direct and indirect effects on the stakeholders.  
+Exclusion. C ontractual restrictions that keep out the platform ’s rivals can be harmful . For instance, 
+in 2011 Google modif ied the appearance of rival comparison -shopping providers on its search result s. 
+Its Panda filter algorithm demoted rivals, irrespective of their quality, while exempting Google 
+Shopping from that  filter, positioning it prominently in its search results. Consequently, the European 
+Commission (EC) fined Google €2.4 billio n for increasing advertising costs  and reducing choices, 
+which made it more difficult for customers  to find the most relevant shopping opportunities. In 
+another case, Google signed binding agreements with mobile phone manufacturers  to ensure a 
+common user  experience on Android devices. In 2018, the EC fined Google €4.34 billion for 
+foreclosing rivals and  extending its power in the mobile search market , which restricted competition  
+and reduced end users’ surplus (Caffarra & Etro, 2023). Not until 2023 did the DOJ initiate legal 
+action against Google for these exclusionary practices, demonstrating the slow reaction of the 
+authorities.  Exclusion was also practiced in Amazon’s “Buy Box” algorithm that prioritize s its private 
+label and logistics service despite there being  better alternatives (Nadler & Cicilline, 2020). This 
+practice harms competitors and business users while indirectly harming end user s.  
+Discrimination.  Platform owners practice discrimination, which harms end user s and indirectly 
+society as well by imposing restrictions and causing inherent biases. Digital platforms offer targeted 
+ads that enable advertisers to reach eligible customers , but by using personal and behavioral data they 
+discriminate against end users who may be excluded from receiving information  because of  
+advertisers ’ targeting choices. This concern is particularly acute in the credit, employment , and 
+housing domains , as when Facebook  was accused of encouraging, enabling, and causing violations 
+
+
+of the Fair Housing Act. Discrimination can also “skew” ad delivery unintentionally, making some 
+end users less likely to view certain ads based on their demographic characteristics. Provi ng 
+discrimination is challenging without access to the ad delivery algorithm, user data, and advertiser 
+data. Still, it has been demonstrated that despite neutral targeting parameters , gender and racial 
+discrimination  occurs on Facebook because of market and financial optimization as well as the 
+platform’s algorithmic predictions of ad  relevance to different end -user groups (Ali et al., 2019).  
+Censorship.  Platforms  can censor end users by excluding them or restricting their engagement 
+with the platform for no justifiable reason, with no explanation or without possibility of appeal. 
+Censorship is often automated by algorithms that track policy violations, but whose instructions are 
+arbitrary or insufficiently refined to discern violations from legitimate behavior. For instance,  
+Facebook profiles may be eliminated because of the platform ’s change in terms of service rather than 
+because of end users’ posted content. This practice directly harms end users and has indirect 
+implications for society, e.g., when considering freedom of speech. In turn, the platform may fail to 
+remove fake profiles and misleading content that is retained because it generates revenue. In 2021, 
+the UK’s Competition and Markets Authority sued Amazon and Google for such practice. 
+Exclusivity.  Besides end users, competitors and business user s also suffer from exclusivity that 
+forces business user s to operate only on a certain platform. Amazon ’s algorithm penalizes the display 
+of products of business user s that offer cheaper prices on other platf orms besides Amazon ’s 
+Marketplace. Similarly, Apple has required apps to be installed only through its App Store  and 
+charged a 30 percent commission . Exclusivity restricts competitors and overcharges business user s, 
+which can indirectly harm customers who are left with  fewer choices and pay higher prices.1  
+Price targeting. Platforms can leverage their access to customer data for p rice targeting . With this 
+1 Exclusivity can sometimes benefit end users , for instance , by ensuring consistent product quality and user experience. 
+Moreover, it is business users who often bear the direct costs of exclusivity. However,  here we refer to exclusive 
+engagements with dominant platforms  that enjoy  economies of scale and can leverage their market power to convince 
+business users to complete most of their dealings on the platform, which forecloses rivals and limits their growth . Such 
+exclusivity can be  presumed harmful to end users (Fumagalli & Motta, 2024). 
+
+
+practice, cu stomer  behavior is traced across apps, enabling the platform’s algorithm to assess the 
+customer’s willingness  to pay with personalized price offers. This practice supports first-degree price 
+discrimination  and is difficult to detect without access to the algorithm, because one cannot observe 
+the offer made to the end user without following the same behavioral pattern . Price targeting is 
+harmful to end users that face intrusion and are overcharged.  
+Algorithmic collusion.  Platforms can also overcharge using collusion whereby their algorithm s 
+coordinate to sustain higher prices  (Competition and Markets Authority , 2021). The availability of 
+pricing data and automated pricing systems facilitate explicit coordination, enabling platforms to 
+respond to price deviations while restricting accidental deviations. For example, RealPage used a 
+rent-setting algorithm that enabled landlords to illegally fix  apartment pricing. RealPage contract ed 
+with competing landlords who agree d to share private competitive information on rental rates , which 
+served for training RealPage’s algorithmic pricing software. RealPage’s algorithm harmed millions 
+of Americans  by recommend ing rental pric es that deprived renters of the benefits of competition in 
+the rental  market (Calder-Wang & Kim, 2024). W hen platforms  use the same algorithmic system to 
+set prices , this “hub-and-spoke” structure facilitate s collusion. Many platforms offer tools and 
+algorithms to help business user s set prices. , e.g., Amazon Marketplace provides automated pricing 
+for its third -party sellers. Some platforms recommend prices  and allow or require business user s to 
+delegate pricing to the platform. Finally, “autonomous tacit collusion” can occur when  pricing 
+algorithms learn to collude without coordination using techniques such as deep reinforcement 
+learning. Hence, artificial intelligence (AI) algorithms  learn to tacitly collude without communication 
+and human intention (Calvano et al., 2020).  
+Ranking.  End users are likely to purchase items placed at the top of their search results, so by 
+manipulating th e items’ ranking, platforms nudge end users to purchase more expensive items. As an 
+example, Orbitz promoted more expensive  hotels to Apple customers . Similarly, Google end users 
+often cannot tell organic search results (unbiased result s) from paid ads (reflect ing an advertiser ’s 
+willingness to pay). Manipulating the ranking and visibility of search result s is a harmful practice that 
+
+
+ad-funded s earch platforms such as Google use to maximize profits . For example, Booking.com 
+enhanced the  ranking of hotels that placed  most of their listings on its website , while demoting hotels 
+that have worked with competing online travel agencies. Besides demoting business users  and 
+indirectly withdrawing traffic from competing platforms , this practice harms end users through 
+intrusion, bias, and overcharging. 
+Behavioral manipulation . Platforms can manipulate users ’ behavior by relying on algorithm s that 
+influence decisions  using defaults, framing, and decoy options. A platform can adjust it s presentation 
+of choices to end user s based on their personal characteristics and  past behavior , showing different 
+versions of a website using A/B testing or field trials. Such experimentation and optimization are 
+powered by algorithms  that analyze the impact of the user interface on consumers, including their 
+time spent on a webpage, buttons clicked, and actions  taken. This “choice architecture” includes the 
+order of products in search results, the number of steps needed to cancel a subscription, and whether 
+an option is selected by default. For this manipulation, platforms leverage behavioral biases and steer 
+attention and choice in ways that are profitable to the platform but suboptimal for end user s. For 
+instance, Amazon ma de it difficult to canc el Amazon Prime , putting multiple layers of questions and 
+offers before  final cancellation . This example demonstrates  how behavioral manipulation can involve 
+dark patterns, e.g., deliberately manipulating the  end-user experience to make it hard to act in the  end 
+user’s best interest . Behavioral manipulation also includes dark nudges  that make it easy for end users 
+to take action s that are not in their interest, such as one -click purchase.  These manipulations harm  
+end users by restricting and biasing choices, intruding, overcharging, fostering addiction, and 
+misleading. They also disadvantage business user s and harm society , as evidenced by Facebook ’s 
+manipulation in the Cambridge Analytica case (Gang, 2018).  
+Data privacy violation . A related practice relies on ubiquitous data collection that violates data 
+privacy. Digital platforms engage in “concealed” data practices (Kemp, 2020) by imposing service 
+terms with weak privacy protection that are not well understood but still accepted by end user s who 
+lack alternatives , thus leveraging the platform ’s market power and information asymmetry vis -à-vis 
+
+
+end users . For example, Meta aggregates  end users’ personal information across services  such as 
+WhatsApp and Instagram and tracks them  across various websites and apps, even when these end 
+users block web tracking.  Because end users are forced to accept loose privacy terms, the platform 
+gains an advantage vis -à-vis competitors, entrenches its dominant position, extract s profit, and 
+imposes even stricter privacy terms on end users (Condorelli & Padilla, 2024). End users suffer when 
+privacy is breached, often unknowingly. The “privacy paradox” – the idea that end users care about 
+privacy but seldom take steps to share less data – is often raised to dismiss privacy concerns. However, 
+end users face a pervasive and invisible collection of personal data and rarely read long and obscure 
+privacy polic ies. The lack of transparency and its implications make end users unable to properly 
+assess the costs of revealing personal data. They consider the immediate benefits of retaining 
+functionality but cannot assess the impact of giving away their data, so their preferences do not 
+reliably indicate how data privacy should be valued ( Acquisti, 2019; Barth & de Jong, 2017). 
+Exposure to online harm . Digital platforms  such as Meta expose end users to harm by using 
+algorithms that foster engagement and addiction (Hsieh et al., 2020). This can generate an  undesirable 
+societal equilibrium where end users would be better off reducing engagement with the platform but 
+are collectively trapped by a “fear of missing out ” (Bursztyn et al. 202 3), with addiction among 
+adolescents being akin to substance abuse disorders. Most end users stay in their own filter bubble, 
+while the hyper-targeted algorithm recommendations expose  them to distinctive information that they 
+cannot validate. It is difficult to assess the societal impact of algorithmic recommendations  that shape 
+public opinion. For example, Google’s DoubleClick algorithm  placed ads on 80 percent of the 
+websites linked to misinformation about the presidential election (Skibinski, 2021). Such algorithms 
+enable digital platforms to conceal the identities of advertisers and convey refined messages to targeted users, which makes it hard to discern fake news , thus imposing enormous risk for society.  
+Thus, profit-driven algorithms amplify disinformation and online hate speech (Llansó et al., 2020). 
+ 
+In sum, the Big Tech firms rely on digital platforms to dominate their stakeholders. They offer free 
+services and leverage network externalities to suppress competition, while reinforcing their advantage 
+
+
+with exclusionary practices such as preinstalled defaults and self -preferencing ( Jenny, 2021) . By 
+using harmful practices, they leverage information asymmetry, dictate unfavorable terms, and charge 
+excessive fees, to also capture value at the expense of business user s (Eckhardt, Ciuchta, & Carpenter, 
+2018). End users enjoy accessible and seemingly affordable services, but the dominant platforms have 
+increased their switching costs, eliminated alternatives, and violated data privacy rights, which eroded 
+their end users’ utility. Finally , digital platform practices have harmed society by inflicting 
+psychological harm, influencing political views, and polarizing perspectives (Acemoglu, 2021).  
+*********** Insert Table 1 and Figure 1 about here ********** 
+RECENT  REGULATION OF DIGITAL PLATFORMS  
+In response to the harmful practices of dominant digital platforms , EU policy makers have sought 
+to scrutinize them  (European Commission, 2020), but in the US, where digital platforms have been 
+considered essential  economic agents , regulators have encountered challenges  that have culminated 
+with the investigation of Amazon, Apple, Meta, and Google . The House of Representatives Judiciary 
+Committee (2019)  accused these firms of eliminating options for end users, limiting innovation and 
+entrepreneurship, undermining the free and diverse press, and compromising privacy (Nadler & 
+Cicilline, 2020). The committee called for tackling anticompetitive practices , strengthening the 
+enforcement of monopol y regulation, and reinforcing antitrust provisions  (Scott Morton, 2023) . 
+However, its proposals failed to pass the scrutiny of Congress (Disruptive Competition Project, 2023; 
+Kelly, 2022) , while current American antitrust law  encompasses  intricate and ambiguous criteria  that 
+may fail to challenge dominant digital platforms  (Candeub, 2023) . We review the most recent relevant 
+regulation in Europe and the US ( see Tables 2  and 3 in the Appendix) , underscoring its limitations.  
+Regulation for d ata protection and privacy. In Europe, EU institutions initiated “digital 
+constitutionalism” (De Gregorio, 2021; Pollicino, 2021)2 to mitigate the excessive power and abuse  
+2 ECJ cases, e.g., Google France  (C-236/08, C -237/08, C -238/08), Google Spain (Case C-131/12), Digital Rights Ireland  
+(C-239/12, C -594/12), Schrems I  (C-362/14), and Schrems II (C-311/18), have tackled the shortcomings of the legal 
+framework in governing privacy, data protection, and freedom of expression in digital platforms.  
+
+
+of digital platforms . The GDPR  elevated the right to privacy and data protection to constitutional 
+values, using an accountability framework (De Gregorio & Dunn, 2022; Gellert, 2020; Macenaite , 
+2017). This regulation sought to restrict  illicit data collection , e.g., as used in the customiz ed ranking 
+of search results , in behavioral manipulation, or for price targeting. The GDPR address es illegal 
+discrimination  following personal data  processing (unlike the AI Act [AIA], which scrutinizes  the 
+discriminatory impact of automated algorithms , including those using non- personal data) . The 
+GDPR’s limitations  include difficulties in quantifying privacy improvements and assessing the impact 
+on consumer awareness and control of personal data  (Johnson, 2023). It may stifle innovation by 
+restricting data collection and use, and can impose substantial compliance costs, particularly 
+burdensome for smaller platforms  (Brill, 2011; Goldfarb & Tucker, 2012; Phillips, 2019). Its 
+formalistic approach, focusing on the personal nature of data without considering context or purpose, 
+limits effective legal protection  (De Gregorio, 2022). Moreover, i ts principle- based nature restricts its 
+practical implementation (De Gregorio, 2022)  and requires an interpretive intervention of the 
+European Court of Justice ( ECJ), which undermines legal certainty . 
+Compared to the EU, the US lacks comprehensive privacy and data protection laws, instead relying 
+on a “patchwork ” of federal and state regulations  (The White House, 2014) . Federal consumer privacy 
+laws vary by industry s ector, and their regulatory differences vis-à-vis the EU could prevent the 
+transmission of personal data overseas and cause adverse effects for firms and for US -EU trade.3 This 
+lack of certainty poses challenges for other stakeholders. At the US state level, the 2020 California 
+Consumer Privacy Act (CCPA)  was amended by the 2023 California Delete Act (CDA) and California 
+Privacy Rights Act (CPRA), which impose stricter regulations on how businesses collect, use, and 
+share personal information. The y secure the rights to know what personal data is collected and to 
+3 To address this, the EU and US have  sought to agree on data transmission.  However, twice ( Schrems I  and Schrems II, 
+the so-called Schrems saga), the ECJ, citing non -compliance with EU human rights criteria and inadequate judicial redress 
+for EU citizens, has blocked such transmission (Nicola & Pollicino, 2020; Schwartz & Peifer, 2017;  Weiss & Archick, 
+2016). In March 2022, the EC president and US president announced a Trans -Atlantic Data Privacy Framework (TADPF ) 
+that was later challenged by the ECJ, although its monitoring and review mechanisms were deemed compliant.  
+
+
+refuse its s ale, set requirements for data security , and promot e transparency and accountability in data 
+handling. A lthough the protections offered by the CCPA and CPRA are almost comparable to those 
+of the GDPR  (Nicola & Pollicino, 2020), differences such as the presumed requirement for consent 
+suggest that the Californian privacy and data protection are not on par with those in the EU .  
+Like the GDPR, the Omnibus Directive and Platform to Business  Regulation (P2B Regulation) 
+seeks to embed constitutional values in the EU digital policy but  encounters limitations.  Both resort 
+to sectoral regulations and grant broad discretion to member states, while buttressing the European 
+“fortress” that protects data privacy (Petkova, 2019), leading to fragmentation. Relying on a regional 
+system to regulate digital platforms could isolate Europe from major hubs (Pollicino & Bassini, 
+2014), so the EU and US resort to bilateral privacy agreements that balance economic needs with the 
+protection of fundamental rights. Thus, the  jurisdictional and geographical scope  of the regulation 
+imposes constraints while its  fragmentation enables platform operators t o exploit disparities across 
+legal regimes. This fosters adverse selection, whereby less responsible platforms are likely to operate 
+in jurisdictions with weaker regulations, as well as forum shopping, whereby platforms select  the 
+most favorable leg al environment for resolving disputes, which weaken s enforcement.  
+Regulation for restraining dominant digital platforms. I n 2022, the EU passed the Digital 
+Services Package (DSP), composed of the DMA and the Digital Services Act (DSA). The goal was 
+to revamp the responsibilities of digital platforms  and “tame the giants ” (Eifert et al., 2021) by 
+countering the  Big Tech firms’  power with a procedural approach that extends beyond sectors. The 
+DSA aims to support the proper functioning of digital market s by imposing duties on platform owners 
+to ensure a “safe, predictable and trusted online environment .” It also aims to limit manipulation for 
+economic gain, the proliferation of harmful content, disinformation, and algorithm s that unfairly 
+censor individuals and restrict freedom of expression. Its provisions seek to minimize such harms by 
+enhancing transparency about the practices of platform owners. Accordingly, VLOPs and very large 
+online search engines (VLOSEs) are required to assess and mitigate systemic risks entailed by their 
+services, including algorithm s for content dissemination and personalized  advertisement s. The DSA 
+
+
+also require s  ensuring transparency in recommendation systems for content curation and not handl ing 
+consumers’ complaints “solely on the basis of automated means ” (DSA, art. 27). The DMA 
+complement s the DSA with rules for the contestability and fairness of digital markets  but adopts a 
+prescriptive approach (Moreno Belloso & Petit, 2023) . It sets rules for “gatekeepers ” offering “ core 
+platform services ” to avoid market failures  ex ante by restricting  exclusion, discrimination , 
+manipulation  of search results,  and exclusiv ity.  
+Despite their  merits, th ese regulations suffer from several limitations. The procedural focus of the 
+DSP can undermine accuracy, flexibility , and legal certainty, which unfair ly impacts stakeholders. 
+The DSA’s obligations and associated penalties may result in unintended censorship. Additionally, 
+the DMA operates on top of a web of EU and national competition laws , so digital platforms may 
+find it challenging to comply with  conflicting rules, and encounter increasing legal cost, making 
+compliance overly burdensome for small and medium- sized enterprises ( SMEs). The DSP also 
+requires EU states to translate the se directives  into national law s, resulting in  a patchwork of  laws 
+that are slightly different. Hence, the DSP raises ambiguity that necessitates judicial interpretation , 
+which engenders legal uncertainty ; its inherent  incompleteness and inconsistencies create negative 
+externalities for stakeholders, e.g., selective and weak enforcement, which can hinder competition. 
+Regulation of AI systems . The AIA follows a risk-based approach  (De Gregorio & Dunn, 2022) 
+to ensure that AI systems respect fundamental rights  and to promote a proper governance of those 
+systems, provide legal certainty , and prevent market fragmentation, thus limiting harms such as price 
+targeting, ranking, behavioral manipulation, and discrimination . However, whereas  the GDPR 
+addresses these harms by ensuring that personal information is collected and used transparently and 
+responsibly , the AIA sets rules to govern the development and deployment of algorithms that utilize 
+this data to prevent its misuse. Similarly, whereas  the DSA discourage s harm by setting obligations 
+and prohibitions, the AIA ensures that AI systems operate within safe and ethical boundaries.  
+Compared to the DMA, t he AIA seeks to avoid exclusionary practices more direct ly by addressing 
+abusive practices involving algorithm s. However, t he AIA lacks sufficient safeguards for fundamental 
+
+
+rights and c annot ensure AI’s legal trustworthiness . For instance, it offers no individual remedies or 
+rights to seek redress for regulation breaches, which challenges its protecti on of fundamental rights . 
+It also lacks sufficient protection against AI-made manipulation  and social scoring  (Ebers et al., 
+2021). Moreover, i t provides flexibility to EU states to set provisions, with that inconsistency leading 
+to regulatory forum shopping. 
+The AIA’s inclusion of “trustworthiness” as a synonym for “acceptability of risks ” is insufficient 
+to build trust (Laux, Wachter , & Mittelstadt, 2022 ): how can one trust a system that assigns the 
+responsibility for oversight  to operators using self-assessment ? Although the AIA outlines notified 
+bodies, their services are rarely called upon, and the operators  can simply assess their own compliance 
+and mark the systems as conforming. The notification applies only to high-risk applications related 
+to biometric identification , categorization, and emotion recognition (AIA, Annex III, 2024), assuming 
+that self-assessment would be sufficient. Yet self-assessment has been proven ineffective and creates 
+market inequalities, harming firms that invest more in compliance  (Veale & Zuiderveen Borgesius, 
+2021). Relying on administrative bodies for control encourages platform owners to engage in cost -
+benefit evaluations concerning potential penalties that  often pale compared to the profits from unfair 
+business practices.  Similarly to the GDPR , the AIA offers only ex post remedies, addressing harms 
+that have  materialize d. This reactive approach lag s novel and potentially harmful practices that 
+emerge with advancements in AI. Also, the AIA’s regulatory scope is limited to  high-risk practices , 
+allowing for moderately harmful practices . Still, the requirement to consider all foreseeable risky use s 
+imposes exorbitant costs, especially for SMEs , thus reinforcing the dominance of the Big Tech firms 
+(Draghi, 2024; Hacker, Engel, & Mauer, 2023 ). Finally, reliance on self-regulation limits consistent 
+implementation , as certain platforms  may prioritize their interests over responsible AI development.  
+In the US , the 2023 Executive Order on AI  emphasized the need for safe, secure, and trustworthy 
+development and use of AI, but this call’s impact was limited to articulating guiding principles in the 
+absence of binding legal frameworks or regulatory mechanisms. In parallel, a new version of the 
+Algorithmic Accountability Act (AAA) , addressing similar harms as the AIA , was proposed to ensure 
+
+
+that firms are held responsible for algorithms that play a role in making decisions  that impact 
+individuals (McCarthy, 2019). The AAA mandates firms to evaluate the effects of the ir automated 
+systems, make their use transparen t, and grant discretion to end users in automated decisions . The 
+AAA applies to firms using “augmented critical decision processes ” that deploy “automated decision 
+systems,” tasking the FTC to set regulations requiring these firms to comply with risk assessment and 
+mitigation duties. Still, the regulation’ s scope is limited because it applies only to “larger firms. ” More 
+importantly, in January 2025, on his first day in office, President Trump revoked the 2023 Executive 
+Order on AI , signaling a major shift in policy that  departs from the regulatory approach of the Biden  
+administration and casts doubt about the ultimate approval of the AAA.  
+Summary of the limitations of regulation.  In conclusion, t he current regulation often fails to 
+effectively remedy  the ramifications of digital platforms.  Both EU and US regulators have been slow 
+to identify the platforms ’ harmful practices, with extensive harm inflicted before reactin g ex post. 
+Then, consensus -building, drafting, and approval of regulation takes years, with  complicat ions 
+ascribed to the international scope of digital platforms, the lobbying by the Big Tech firms , and 
+governments’ conflicting interests , e.g., the Schrems saga in privacy regulation. T he DSP, TADPF, 
+and new AI  regulation strive to balance market -oriented and constitutional interests , but regulating 
+an international  phenomenon using legal instruments with strict territorial scope is restrictive , as also 
+evidenced with  the GDPR, DSA, CCPA, CPRA, CDA, and AAA . In fact, the struggle to promptly 
+adapt to the rapid advancement of algorithms  has resulted in a  formalistic approach that inadvertently 
+grants discretion to enforcement authorities , leading to fragmentat ion and legal uncertainty , as in the 
+GDPR and AAA . The AIA, DSA, and DMA  are rather ambiguous and complex, featuring loopholes, 
+incompleteness, and inconsistencies. Moreover , self-assessment , e.g., as in the AIA, coupled with 
+lack of accountability and of judicial redress system s, incentivizes platform owners  to engage in 
+adverse selection and cost -benefit analysis of potential sanctions , with unfair practices still pay ing 
+off. Self-regulation and weak enforcement rarely result in prosecution , with prolonged legal 
+proceedings imposing inconsequential sanctions. The offenders often manage to find workarounds or 
+
+
+leverage recent regulation in their favor , and stakeholders do not always benefi t, because they  do not 
+gain from the  penalties that may be rolled over to them  and because the risk-based approach of 
+regulation such as the GDPR and AIA prohibits certain harmful practices  rather than incentiviz ing 
+virtuous conduct. Past harms are often irreversible, and the competition ’s loss cannot be restored. 
+Furthermore , the regulatory requirements reinforce the advantage of the Big Tech firms , which have 
+the capacity  for compliance, while deterring small emerging competitors  and business user s that are 
+burdened by these requirements and are not incentivized by the regulation. T his is the case for  the 
+DMA, which unlike the DSA operates on top of a web of concurrent legal frameworks . Despite the 
+expanding scope of regulation, it suffers from ambiguous requirements, lax enforcement, insufficient 
+resources, and limited accountability . Moreover, for regulation such as the DSA, information 
+asymmetry between regulators and platform owners enables the latter to avoid disclosure that carries 
+penalties (Dobbin & Sutton, 1998). Hence, it is doubtful that the current regulation is sufficient to 
+cope with the exploitation of stakeholders by digital platform owners . Tables 2–3 (see Appendix) 
+elaborate on the se regulations. Additional mechanism s for protecting stakeholder interests should be 
+considered , but what could be a complementary approach?  
+INSPECTION AND CERTIFICATION OF BUSINESS PRACTICES AND ALGORITHMS  
+Although regulation is considered a  strong form  of governance , under certain circumstances 
+voluntary certification that leverages market forces can effectively complement it. Specifically , 
+certification can be useful when regulation is extensive yet ambiguous  and difficult to enforce (Lucas, 
+Grimes, & Gehman, 2022). This is because the lack of a credible system for social verification may 
+encourage firms that are authentic in striving to deliver value to their stakeholders to adopt rigorous 
+governance standards (Barnett & King, 2008). Such a tendency is reinforced by the broader scope of 
+regulation, which can increase the future cost of non -compliance (Pedriana & Stryker, 2004). Finally, 
+the authentication of ethical conduct, corporate social responsibility, and stakeholder orientation is 
+called upon when stakeholders attempt to evaluate firms ’ claims concerning these values (e.g., 
+Radoynovska & Ruttan, 2023) and when firms seek to differentiate themselves with respect to  
+
+
+accountability and responsibility for their stakeholders (York, Vedula, & Lenox, 2018) . This is 
+especially the case under weak regulatory regimes that allow for the fabrication or misrepresentation 
+of such values  (Lehman et al., 2019)  and when the certified practices counter the norm (Grimes, 
+Gehman, & Cao, 2018) . Relying on certification becomes a strong form of governance under such 
+conditions, which apply in the case of  digital platforms . 
+Certification refers to the definition and documentation of standards that manifest in performing 
+practices that  are subject to third -party evaluation to ensure compliance with those standards 
+(Gehman, Grimes, & Cao, 2019). Third-party assessment is essential because, in practice, firms rarely 
+disclose relevant information to their stakeholders (Dranove & Zhe Jin, 2010). However, voluntary 
+certification may also involve deficient standards and lax enforcement, so it is essential that the 
+standards are strict while the corresponding practices are consistently and rigorously verified in audits 
+to ensure alignment with the applicable standards. For digital platforms, this entails certification of 
+algorithms in addition to business practices  that do not always reveal conduct.  
+An example of an effective certification system is the ISO 9001 standard for quality management 
+that was introduced by the International Organization for Standardization  (ISO) in 1987. This 
+standard requires firms to document their quality system, with the aim of satisfying stakeholder needs , 
+meeting regulatory requirements, and incorporating quality management in their business practices. 
+At the end  of 2023, 1,249,317 sites in 189 countries were certified (ISO, 2024).4 ISO is an 
+independent, non- governmental international organization with affiliation of 169 national standards 
+bodies. The certification is conducted by independent third parties accredited by the International 
+Accreditation Forum . Firms adopt this standard to meet customer expectations, in response to  
+competitive pressure, and to improve quality and efficiency while enhancing their corporate image. 
+Most studies find a positive association between ISO 9001 certification and financial performance 
+4 Only a handful of dominant digital platforms act as monopolies in some core digital markets. On the one hand, this 
+suggests that these platforms have weaker incentives for certification. On the other hand, once some platforms are 
+certified, their small number would reinforce the dynamics of adoption, because uncertified platforms would be 
+immensely disadvantaged. Digital platform certification can be  thus more powerful for adoption and differentiation.  
+
+
+(Matradi & Mounir, 2022), yet the value of certification for new adopters has declined, as most firms 
+have already adopted it (Benner & Veloso, 2008).5  
+Another case in point is the B Corp certification by the B Lab, an independent nonprofit 
+organization founded in 2006 to enhance environmental, social, and governance (ESG)  sustainability 
+and to balance shareholder value with commitments to stakeholders  such as customers and 
+employees . This certification is granted to firms that adopt a benefit corporation governance structure 
+that is held accountable to all stakeholders, achieve high ESG performance based on the B Impact 
+Assessment tool, and maintain transparency about this performance. As of December 2024, 9,470 
+firms have obtained the B Corp certification in 161 industries across 105 countries (B Lab, 2024). 
+The B Impact Assessment measures the quality  of corporate governance and the extent to which firms 
+have a prosocial  impact on their employees, consumers, the community , and the environment . The B 
+Lab ensures that the certified firms’ commitments are substantial rather than merely symbolic. The B 
+certification authenticate s and verifies these firms’ commitments to their stakeholders  in a context 
+wherein compliance with the regulation has been poor (Lucas et al., 2022).6 Although a B Corp 
+certification can confer competitive advantage (Fosfuri, Giarratana, & Roca, 2016) , it carries a short-
+term drop in revenue growth (Parker et al., 2019) and equity ratio (Patel & Dahlin, 2022), probably 
+because this certification pays off mostly in the long term and because it serves to authenticate 
+stakeholder orientation rather than increase financial gain  (Gehman et al., 2019; Grimes et al., 2018).  
+Accordingly, given the limitations  of the regulation of digital platforms, their inspection and 
+5 Certification s such as the ISO 9001 work well for private goods  for which quality is difficult to observe , but in the 
+context of digital platforms we need to consider  externalities , such as the case wherein personal data of users who do not 
+care much about their privacy supports processes that undermine data privacy of other users who do care about their 
+privacy. Although certification cannot eliminate such externalities, it can better help those who are concerned about such harms to identify the hazards and opt for alternative platforms. Eventually, as they lose market share, the expectation is 
+that some Big Tech firms would be pressured to revise their undesirable business practices.  
+6 For instance, despite their mandate, most uncertified benefit corporations do not deliver societal or environmental 
+benefits to stakeholders ( André, 2012), and less than 10 percent comply with regulatory reporting requirements (Murray, 
+2015). In contrast, the B Corp three -year certification effectively holds firms accountable for their ESG commitments 
+because it requires demonstrating efforts to benchmark and meet standards for corporate purpose, transparency, and 
+accountability (El Khatib, 2015). Only 7.5 percent of those taking the Impact Assessment survey meet the threshold for 
+certification (Kim & Schifeling , 2022), and only 13 to 26 percent manage to retain their certification over five renewal 
+cycles, depending on the scope of benefit corporation legislation in their state of incorporation (Lucas et al., 2022).  
+
+
+certification  can be a valuable complementary approach . To ensure the rigor and comprehensiveness 
+of the proposed process, the assessment should not be limited to these platforms ’ business practices 
+but also encompass  their software algorithms.  Although the DSA and DMA regulations may already 
+require access to data and algorithms, the certification makes this requirement a default applicable in 
+every inspection rather than a rare occasion in which a severe violation of the regulation has been 
+identified. A software algorithm is a sequence of instructions programmed to perform a specific task 
+or solve a complex computational problem, and it encompasses automated decision systems using 
+machine learning and AI. The algorithms of digital platforms include the source code of the platforms ’ 
+software infrastructure. Regulation such as the AIA and the General-Purpose AI Code of Practice 
+(GPAICP) call for self -assessment of impact or ban systems that create unacceptable risk (Mökander 
+et al., 2022). It  sets essential requirements for high -risk AI systems but delegates the specification  of 
+standards to private entities without guidelines. In the absence of enforcement by public bodies, these 
+entities may disregard  ethical considerations and fundamental rights  (Cantero Gamito & Marsden, 
+2024; Tartaro, 2023) , which could restrict the effectiveness of enforcement and the prevention of  
+harms. The certification of algorithms can overcome th ese limitations.  
+GUIDELINES FOR INSPECTION AND CERTIFICATION OF DIGITAL PLATFORMS  
+A focus on algorithms rather than exclusively on business practices . Digital platforms adjust 
+their business practices at will and devise or  invent new practices  to bypass  or leverage the evolving 
+regulation. For example, Google, Apple, and Meta used  the GDPR to restrict  complementors’ access 
+to end-user data, which harms end users (Damien et al., 2021). Because undesirable practices are 
+identified only after inflicting harm, and regulation is slow to adapt (Portuese, 2021), restricting focus 
+to transitory business practices is insufficient  for protecting against harmful practices. Moreover, 
+platforms  may misrepresent their practices, disguise them, or maintain secrecy, to avoid being caught  
+violating regulations. Indeed, “some tech companies will avoid revealing their practices formally in 
+writing. The scraps of data that tech companies let fall from the table are not enough to govern with. Instead, government regulators need expanded access to the datasets and code that power today ’s 
+
+
+technology companies ” (Engler, 2020). It is essential to access platform data and subject it to third -
+party inspection given the extensive influence of digital platforms on various spheres of life and the 
+obscurity of their algorithms ( Kak & West , 2023). Algorithms can expose the inner working of the 
+platform’s practices and conclusively reveal how the platform conducts its operations and manages 
+its interactions with stakeholders  even when the inspection of practices fails to do so. The inspection 
+of algorithms does not replace the assessment of the platform’s practices but complements it by 
+providing the means to expose the true nature of the se practices  and clarify essential but overlooked 
+nuances. Certain practices may be considered  legitimate until their details are exposed.    
+The subject matter of inspection. The inspection and certification apply to digital platforms, not 
+firms. If a firm operates multiple platforms, each should be inspected. For example, the inspection 
+should be applied separately to Facebook, WhatsApp, and Instagram, rather than to Meta. Indeed, 
+different types of platforms are more likely to feature distinct types of harms and benefits to stakeholders, but the indicators for desirable and undesirable practices are generic. It is only the manifestations  of such harms or benefits that vary by type of platform. For example, self -preferencing 
+by Amazon Marketplace (multi-sided transaction market) involves featuring products that enjoy 
+greater prominence, more customer reviews, lower prices, greater eligibil ity for Prime benefits, and 
+faster shipping (Farronato, Fradkin, & MacKay, 2023). In contrast, Google (information market) self -
+preferences its ad exchange product (AdX) in the ad selection auction by informing it in advance of 
+the best bids from competitors, so it can win the auction, or by having Google Ads favor AdX over 
+competing ad exchanges (European Commission, 2023). Here, self -preferencing takes different forms 
+that cause a similar type of harm by excluding competitors. Even if certain practices are inherently 
+related to certain types of digital platforms, the scorecard ratings of the inspected platforms would 
+not be biased because they can be standardized by the applicable number of scorecard indicators  in 
+the inspection, and besides, stakeholders compare alternative digital platforms within platform type. 
+The purpose of the inspection is to reduce information asymmetry, increase transparency , and clear 
+up uncertainties relating to the microprocesses of digital platforms. It would include inquiries with 
+
+
+business managers, product managers, and programmers with relevant responsibilities for the digital 
+platform’s design and operations. The inspectors should also review relevant corporate documents, 
+information systems  with their corresponding documentation, and software code, all  at the platform’s 
+premises per the inspectors’ discretion and using prespecified evaluation scorecard s. As part of the 
+inspection, the inspectors would run queries and test platform algorithms using test data to identify 
+boundary conditions and anomalies. Detailed documentation of training data and model specification 
+used in machine learning are  crucial for identifying or verifying possible harms. Access to these data 
+sources can  enable the inspection team to assess whether the outcomes of the business practices are 
+in line with the platform managers ’ statements and how the platform fares vi s-à-vis the scorecard 
+requirements. The inspection can rely on a separate testing environment in which the algorithms 
+would run without interfering with the ongoing platform operations (sandbox testing) . It can also 
+involve testing the source code, configuration, and architecture of the algorithm application (white -
+box testing), and external scraping of data from the platform and inference about the algorithms using 
+reverse engineering, big data analytics, and statistical methods (black- box testing). In the case of AI 
+algorithms, the inspection should assess the sources and curation process used for training an 
+algorithm as well as its performance metrices to identify incidents of harmful content (Hacker et al., 
+2023). In this case, sandbox testing offers a dynamic setting to assess real-world scenarios and receive 
+real-time feedback that helps  identify potential harms.7  If the inspection by external experts does not 
+reveal unlawful practices, it may serve the platform ’s efforts to dismiss allegations and build 
+stakeholders’ confidence in the legitimacy of its practices (Galli & Calzolari, 2021) . There is further 
+merit in the inspection as a preventive measure that deters devising harmful practices. 
+7 With their superior resources, the Big Tech firms could attempt to make sandboxes work to their benefit ( Buocz, 
+Pfotenhauer , & Eisenberger, 2023; Engels, Wentland , & Pfotenhauer, 2019). For example, Google continuously modified 
+its privacy terms for online advertising , which it has been testing in its Privacy Sandbox in the UK since 2019.  This has 
+delayed the adoption of a standard for collecting privacy-preserving information on end users on various digital platforms. 
+That being said, sandboxes have proven invaluable for innovation in regulated sectors such as finance and healthcare, as 
+well as in the emerging field  of AI (Hellmann, Montag , & Vulkan, 2024). Numerous examples, e.g., in Spain, the UK, 
+Norway, and Singapore , demonstrate  how AI sandboxes expedite the development of AI systems by providing a controlled 
+environment for pre-commerciali zation testing (Moraes, 2023;  Porciuncula , 2024; Truby et al., 2022).    
+
+
+The organization performing the inspection.  One of the weaknesses of current regulation 
+concerns the national boundaries of its judiciary system and the need to coordinate across countries 
+and states with diverse regulatory frameworks. The global operations of digital platforms call for 
+inspection by an international organization that can overcome discrep ancies across regional and 
+national boundaries and oversee multinational digital platforms. The inspection can  be performed by 
+an international independent accreditation organization dedicated to this purpose. This organization 
+can be affiliated with a n international institution  or a specialized association that is unprejudiced and 
+independent . Given the need to review corporate documents relating to business practices and 
+software code that executes  these practices, the inspection team should be interdisciplinary , with 
+complementary skills  in computer science, law, and business  administration . Team members need to 
+have relevant qualifications, including a background in computer science, familiarity with relevant 
+software programing languages, and expertise in program ming. To attract top talent, the certifying 
+organization can  organize conferences, publish white papers, and operate as a think tank that advises 
+government agencies on related topics . The inspectors must undergo periodical training to ensure that 
+they are up to date with the most recent technologies. H aving experts apply a consistent inspection 
+process is a prerequisite for effective assessment .  
+A related question is whether the inspection would be performed by an international institution  
+such as ISO or rather by a  private nonprofit organization such as the B Lab. There are pros and cons 
+for each choice. An international unit can enjoy greater legitimacy in the eyes of platform managers 
+and stakeholders given that a dedicated nonprofit organization may be less transparent and perhaps 
+guided by private interests. However, the international unit can be influenced by politics and the 
+interests of powerful governments. I t may require prolonged deliberation, negotiation, compromise , 
+and reconciliation among member states that seek to shape policies. This replicate s some pitfalls of 
+the regulatory approach and may be inefficien t compared to a more agile private organization that 
+requires less coordination. But a private organization may have limited resources or may depend on 
+private funds, which may raise concerns of conflict of interest if funding is somehow related to the 
+
+
+inspected platforms. Given the urgency, however, rather than set up a new organization, it is 
+advantageous to have the responsibilities of an existing certif ying body expanded to encompass the 
+certification  of digital platforms. Such a solution leverages the experience, available infrastructure 
+and processes , and established reputation of the certifying organization or unit. 
+Finally, the certifying organization can leverage stakeholder collaboration. End users, university 
+researchers, and devoted volunteers of NGOs that monitor digital platforms can flag emerging harms 
+and notify the certifying organization (e.g., Ha cker et al., 2023). Even if not tech savvy, end  users can 
+identify worsening terms of service. For example, FREENOW  customers in Italy noticed that the taxi 
+hailing app sought to introduce a dynamic intermediation service fee in December 2024  to replace its 
+€3 fixed fee with a variable amount of up to €10 based on the demand for  ride requests, which was 
+not forbidden by regulation but reduce d end-user surplus. Additionally , engineers  who develop 
+platform algorithms and become aware of their undesirable consequences for users and society can 
+submit anonymous tips to the certifying organization without risking their job as whistleblowers, 
+which was  the case of Timnit Gebru who exposed biases in Google’ s algorithms (Ka hn, 2020). Such 
+tips can help focus the inspection team’s inquiries on specific practices and algorithms.  
+Protecting the platform ’s proprietary intellectual property  and trade secrets . The platform 
+owner may object to sensitive aspects of the inspection or at least seek to avoid undesirable spillover 
+of proprietary knowledge and trade secrets to competitors. To reduce this risk and to avoid prejudice 
+against or for the inspected platform, the inspecting unit can adopt policies that eliminate conflict of 
+interest. For instance, inspectors should not have been employed by the inspected firm or its competitors for a sufficient period before and after the inspection. Nondisclosure agreements with the 
+inspected platform can serve as a possible remedy. The inspecting unit could also offer attractive 
+employment terms, tenure, and a career development track to its inspectors, so that they would not be 
+tempted to seek employment with the inspected firm or its competitors. The inspection would be 
+performed at the platform’s premises while technical measures such as firewalls and policies such as 
+“no cellphones allowed on site ” are implemented to ensure that proprietary data and information do 
+
+
+not leak. T hese  inspection practices are commonly used by governmental and non-governmental 
+certification bodies. For example, ISO  27001 certification for information security management 
+systems requires exposure of trade secrets and sensitive pricing information, yet there has been no 
+breaching of confidentiality obligations because such breaches carry irreparable reputational damage 
+and criminal charges  for the certifying organization (Šikman  et al., 2019).  
+The motivation of platforms to undergo certification.  Although the Big Tech firms ’ dominant 
+positions may suggest they face disincentive to undergo inspection and certification, in recent years 
+we have witnessed growing public concerns about the harm s inflicted by  digital platforms. For 
+instance, in an Ipsos-UNESCO (2023) global survey , 85 percent of respondents were concerned  about 
+the impact of disinformation in their country. Such concerns can influence market performance , as 
+illustrated by the #StopHateForProfit campaign in which more than  a thousand advertisers  boycotted 
+Facebook (Hsu & Lutz, 2021). In fact, the American Institutional Confidence poll reported that 
+between 2018 and 2021, digital platforms such as Facebook, Amazon, and Google suffered the 
+greatest loss in confidence compared to all US government, nonprofit, and commercial institutions 
+surveyed (Kates, Ladd, &  Tucker, 2023). Hence, we expect increasing  social pressure on  digital 
+platforms to avoid harmful practices and undergo certification  as a means to retain and attract users . 
+Just as the outcomes of inspection can damage a platform owner’s reputation, certification  can 
+contribute to the platform’s reputation, enhance its market success, and hence improve its financial 
+performance ( e.g., Fosfuri et al., 2016) . As in the cases of ISO 9001 and B Corp certifications , digital 
+platforms that score well in the inspection may gain competitive advantage relative to those failing to 
+obtain the certification or receiv ing inferior scores. Certified digital platforms can draw more end 
+users, business user s, and employees , enjoy enhanced reputation, grow their business, and outperform 
+competitors while benefiting stakeholders rather than gaining at their expense. For these reasons, 
+some digital platforms would be motivated to voluntarily undergo certification . In turn, other 
+dominant digital platforms may rely on their users’ dependence and lack of viable alternatives as well 
+as on the platform’s superior efficiency and low -cost position to persist with harmful practices and 
+
+
+refrain from certification.  For the Big Tech firms operating these platforms, the gains from harmful 
+practices and the readjustment cost of amending their practices may outweigh the benefits of 
+certification. However, if market incentives are insufficient to motivate dominant digital platforms to 
+undergo certification, regulators, especially in the EU, may make certification mandatory for VLOPs 
+and VLOSEs , as noted below. Certification would initially pay off mostly for small entrepreneurial 
+contenders such as Mastodon, Thrivemarket , Brightly, Signal, Proton, and Jitsi Meet , and once the 
+competitive pressure increases, also for some dominant digital platforms . Yet some dominant  
+platforms may find it more profitable not to certify, unless forced to by regulators.  
+Scaling up the certification system. Despite being voluntary and disserving the immediate 
+financial interests of some dominant digital platforms , the certification could be widely adopted given 
+its support for  differentiation, network externalities , competitive pressure, and possible regulatory 
+intervention. The adoption of the certification system depends on several enabling and precipitating 
+conditions as well as on incentives and disincentives (Baker, 1975). As a necessary condition for 
+scaleup, i.e., wide adoption of the certification system, users must recognize the value of certification, 
+which depends on the quality of the inspection and certification processes, the reputation of the certifying organization, and effective dissemination of information about certifications.  
+We foresee f our scenarios for scale-up of the certification system. In Scenario 1 (Preemption) , 
+dominant platform s would be among the first to certify to preempt contenders and protect their market 
+positions. Competitive pressure  would facilitate the adoption of the certification system by other 
+dominant platforms, which would greatly benefit users given these platforms ’ substantial installed 
+base. This scenario is highly unlikely given the current weak incentive for Big Tech firms to align 
+their business practices with stakeholder interests. In Scenario 2 (Limited Adoption) , there could be a 
+limited number of emerging contenders that would seek to increase their market share by leveraging 
+early certification to differentiate their digital platforms and improve their market position vis -à-vis 
+the dominant platforms (Fosfuri et al., 2016; York et al., 2018). Their certification would help attract mindful users that value the platforms’  socially desirable practices , but these platforms’ accumulated 
+
+
+market share would be insufficient to challenge the dominant platforms , which may even  attempt to 
+acquire these contenders  with the aim of discontinuing their certification efforts.   
+In Scenario 3 (Sufficient Adoption) , there would be a sufficient number of certified contenders 
+seeking differentiation or reacting to competitive pressure imposed by other early adopters of 
+certification. The adoption by contenders would be reinforced by network externalities whereby end 
+users realizing the benefits of certifi cation join certified platforms and attract business users and vice 
+versa. In this scenario, the contenders would increase their  market share  at the expense of dominant 
+platforms, but the lost market share would be insufficient to encourage the  Big Tech firms to amend 
+their harmful business practices and undergo certification of their dominant platforms given the 
+greater value that they can extract  using harmful practices.  This scenario of sufficient adoption 
+corresponds to the current state of B Corp certification. In Scenario 4  (Market-Driven Adoption) , the 
+market share captured by early certifiers, i.e., the contenders, would impose sufficient competitive 
+pressure on some dominant platforms that rely on harmful business practices . Witnessing their 
+potential or actual  loss of market share , these dominant platforms would voluntarily modify their 
+business practices and the corresponding algorithms to match up with their contenders, and then opt 
+for inspection and certification to offset their disadvantage. Once a dominant platform has undergone  
+certification, competitive pressure would facilitate certification by other dominant platforms  
+operating in its domain. Optimal distinctiveness ( e.g., Taeuscher & Rothe, 2021) may enable the 
+remaining dominant platforms to differentiate w ithout certification by offering their loyal  users an 
+efficient low -cost service or a personalized immersive experience that relies on harmful business 
+practices. However, this would not discourage other platforms from certifying, and certified platforms 
+could gain a meaningful market share, so that certification would eventually reach wide adoption as 
+in the case of ISO 9001, whereby digital platforms that have not undergone certification could be disadvantaged (e.g., Benner & Veloso, 2008).  
+With the exception of the improbable Scenario 1, scale-up would be driven by emerging 
+contenders. In Scenario 2, successful scale-up would depend on regulation to make certification 
+
+
+mandatory for dominant digital platforms. However, regulators are unlikely to force certification 
+before the viability of the certification system has been established . Regulatory interventions would 
+be also needed to incentivize emerging contenders to seek certification, e.g., by offering funding to startups and open-source projects  that develop prosocial digital platforms  and undergo certification 
+(Lavie, 2023) , while preventing the Big Tech firms from acquiring rival platforms that seek 
+certification. In Scenario 3, regulatory intervention that mandates  certification for dominant digital 
+platforms is not needed given the prevalence and perseverance of contender platforms, but it could 
+facilitate scale -up. Hence, whereas Scenario 4 is market- driven, Scenarios 2-3 entail complementary 
+regulatory intervention for a viable pathway for the scale- up of certification.  Different scenarios may 
+materialize in distinct platform domains.
+8 Figure 2 presents our analysis, illustrating how Scenarios 
+1 and 4 rely on competitive pressure to motivate dominant platforms  to certify, whereas Scenarios 2 
+and 3 achieve this with regulatory intervention that increases the adoption of certification.  
+The inspection scorecard . Whereas regulation penalizes digital platforms that cause harm, 
+certification could contribute to the platforms ’ reputation and market position if they benefit 
+stakeholders and society. Therefore, t he inspection process should separately examine the extent s to 
+which a platform’s business practices and algorithms avoid harming stakeholders (“ Do No Harm ”) 
+versus benefit stakeholders by meeting the sustainable development goals (SDGs) (“ Do Good”).  
+The “Do Good” scorecard can  draw from  the United Nations ’ 17 SDGs with their 169 targets  
+(Montiel et al., 2021) . The SDG Compass provides a possible guide for assessing the business 
+practices of firms per the SDG targets. For example, t he B Corp certification, which uses the Impact 
+Assessment survey for evaluating a firm ’s sustainability management and performance along social, 
+governance, and environmental indicators , can serve as a basis for a scorecard to assess the positive 
+8 Albeit speculative, w e conjecture that m arket-driven adoption (Scenario 4) is most likely in complementary innovation 
+markets given the aligned incentives of the platform and business users. In multi -sided transaction markets with endemic 
+harmful practices and fragmented end users , regulation may be needed to compel dominant platforms to certify (Scenario 
+3). Finally, it would be most challenging to find a pathway for certification in information markets given the hegemony 
+of dominant platforms that rely on ad-funded business models , which call s for regulatory mandate (Scenario 2).  
+
+
+contributions of digital platform practices to the common good. The five thematic areas of the survey 
+are governance, workers, community, environment and sustainable products , and inclusive business 
+models. The survey is customized to various setting s based on firm size, industry, and market type. 
+The scorecard  is accompanied by a well-specified certification process. Although the scorecard  
+covers the 17 SDGs to different extents, it centers on a firm ’s business practices rather than on digital 
+platform algorithms. However, digital platform s can be considered  an industry sector for which 
+questions can be adapted  per the typical  process of the B Lab, which serves as the certifying 
+organization. Besides th is survey, several off-the-shelf tools for assessing sustainability performance 
+are available, such as the SDGMonitor , that can be adapted to the context of digital platforms. There 
+are also software tools for automating the assessment and reporting of SDG performance , such as 
+uImpact, that provide a sustainability assessment and reporting tool for startups and investors. 
+Common to these tools, including the industry- specific ones, is that they are not tailored to the context 
+of digital platforms. The adaptation of the scorecard to this context would be the first step in 
+establishing the inspection and certification process es by the certifying organization. Table 4 
+illustrates some adapted question  items based on the B Lab Impact Assessment survey. Each item can 
+be assessed on a scale that captures the extent to which the platform benefits stakeholders and society 
+along the corresponding dimension, which can then be used for creating an integrated positive score . 
+Although this scale is rather subjective, once inspectors gain experience with assessing various 
+platforms, they can converge on a consistent assessment method.  
+The “Do No Harm” scorecard can be based on the list of 10 undesirable practices (Table 1), which 
+summarizes the main ways by which digital platforms cause harm to stakeholders  at the present time . 
+This list can be updated regularly as new practices emerge or are uncovered. Assessment questions 
+can be developed for the “ Do No Harm” scorecard much like for the “Do Good” scorecard. Relevant 
+questions may refer to whether the platform excludes participants for competitive or commercial 
+reasons or for unjustified  reasons; whether the platform prioritizes its own products or services over 
+equivalent alternatives ; whether it profiles and discriminates  against minorities and other deprived 
+
+
+users;  whether it requires exclusivity and prevents business user s from operating on competing 
+platforms or charges exorbitantly high service fees that do not reflect its added value ; whether it 
+engages in price targeting that seeks to extract all end-user surplus or engages in manipulations that 
+drive end-user choice and purchasing behavior in ways that do not serve end users’ interests, etc. To 
+illustrate, Table 4 provides additional question items. The answers to the se questions should be  
+evaluated on a scale of severity, yielding an integrated score.   
+The results of the inspection and the specific scores assigned to the platform should be made 
+publicly available  and accessible to stakeholders , so they can independently assess the extent to which 
+and ways in which the platform harms or benefits them. At the inspection ’s conclusion, the inspectors 
+can recommend how to adjust the platform  algorithms in ways that could improve the platform ’s 
+ratings on both scales. The inspection and certification could be conducted annually to balance the 
+effort and depth of the inspection with the speed of evolving algorithms and business models. 
+Legal feasibility of the proposed certification system . The certification complements the 
+prevalent regulation, and under the more rigorous European l aw9 it should comply with three levels 
+of justifiability : (1) assess the appropriateness of the means employed to attain public interest 
+objectives (suitability test) ; (2) scrutinize whether the action represents the least restrictive option 
+among theoretically viable alternatives to achieve the same practical objectives  (necessity test); and 
+(3) conduct  a comparative evaluation of the goods and constitutional interests relinquished by 
+weighing competing interests (proportionality test) (Scaccia, 2019). The first two criteria can be met , 
+but challenges may arise with the third. According to the European courts, a thorough assessment is 
+vital to harmonize public objectives with the protection of individual liberties when alternative means 
+are equally appropriate, efficient, and intrusive, yet adherence to the public interest may necessitate an action that does not represent the least restrictive alternative (Sauter, 2013).  Likewise, under US 
+constitutional law, the Eighth Amendment relates to proportionality, but it is common for US case 
+9 ECJ cases (C -19/92, Dieter Kraus; Case C- 55/94, Gebhard; C -491/01, British American Tobacco ) and European Court 
+of Human Rights (25702/94, K. and T. v. Finland; 57813/00, S.H. and Others v. Austria; 46470/11, Parrillo v. Italy ). 
+
+
+law to deviate from this balancing test for a compelling interest. I n the context of “strict scrutiny, ” a 
+US statute that satisfies the initial two inquiries would be upheld, irrespective of whether the 
+infringement on rights exceeds the benefit in furthering imperative interests (Jackson, 2014) . Thus, 
+the certification can meet the proportionality test in the EU and, even more so, in the US . 
+Moreover , the DSP and pertinent US legislation do  not conflict with certification . Digital platforms 
+opting for a voluntary certification would still be oblig ed to adhere to the legal statute requirements , 
+just as for the inspection process. The DSA (Article 44 ) supports voluntary standards that promote 
+compliance with due diligence  obligations . The legislator ’s endorsement is motivated by  the potential 
+contribution of widespread adoption of certification systems to resolving the limitations of digital 
+platform regulation, for example in relying on legal instruments with strict territorial jurisdiction  for 
+handling an international phenomenon. In practice, the certifying organization can operate via 
+national chapters, much like the ISO organization, and dispatch experts to conduct inspections across 
+multiple geographical sites , thus overcoming the geographical constraints of regulation. As we 
+subsequently explain, the proposed certification system is not only consistent with and extends 
+current regulation but also complements it by compensating for its weaknesses. Together, regulation 
+and certification can be more effective in  steering digital platforms per stakeholders’ interests.   
+The practical feasibility of the proposed certification system . Although the inspection process 
+is rather complex and may involve multiple algorithms running against numerous data points dr awn 
+from several software applications  and calling for state -of-the-art technical expertise, such inspection 
+effort is manageable. Much like ISO and B Lab audits, the inspection involves only a subset of the 
+internal audits that are conducted regularly when digital platforms are being launched or updated. The 
+digital platform would make its algorithms available  for inspection, but most of the inspection effort 
+involves replicating internal procedures, which could leverage simulated data rather than private user data. Automated AI- powered software review tools such as DeepCode  and CodeGuru
+ can assist in 
+the inspecti on of the platform ’s algorithms. Although the cost of conducting such an inspection is not 
+negligible, it is certainly lower than the fines that the Big Tech firms pay for violating regulations. As 
+
+
+a point of reference, the EC has estimated that the cost of conducting a conformity assessment process 
+for a typical AI project (a rather sophisticated system) by a third party amounts to between two and 
+five percent of the project cost ( Hatala & Bryson, 2022). Overall, the certification system can be less 
+costly than compl ying with regulations and coping with antitrust court cases. For example, the GDPR 
+has increased firms ’ costs while reducing their revenue and profitability (Johnson, 2023). In contrast, 
+the certification fees can be adjusted based on the platform ’s size and market dominance, so that the 
+Big Tech firms would subsidize the inspection of emerging small contenders. In fact, regulators can 
+sponsor inspections using part of the fines that the Big Tech firms have paid for violating regulation. 
+Government al institutions  can also fund the certifying organization. Unlike regulations that require 
+allocating internal personnel  for auditing, the certification system would rely mostly on the personnel 
+of the certifying organization, so that small contenders would not be disadvantaged if certification 
+costs are distributed across multiple digital platforms  in proportion to their size.  
+The complementary  benefits of certification vis-à-vis regulation. The advancement of 
+voluntary inspection and certification of algorithms  could be more advantageous than further 
+development and refinement of the current regulation of digital platforms  because it  overcomes many 
+of the regulation’ s limitations (see Table 5). Although not every regulation is subject to all these 
+limitations, the certification enjoys various advantages relative to  certain elements of various 
+regulations. First, as noted above, whereas the regulation is geographically bound, certification 
+consistently applie s across regions. Second, by design, certification balances the interests of multiple 
+stakeholders, i.e., end users, business users, competitors, and society, as opposed to certain regulation 
+that often prioritizes a particular group while disregarding the interests of other s. For example, the 
+GDPR benefits end users but imposes a burden on business user s that may lose access to data that 
+digital platforms retain or on competitors that must invest in meeting compliance requirements 
+(Damien et al., 2021; Johnson, 2023). Third, the certification ’s ex ante incentives for improving 
+business practices complement the ex post penalties imposed by regulation for harmful practices. 
+Moreover, w hereas the introduction of regulation reveals a slow reaction to substantial harm that has 
+
+
+been accumulated , certification can prevent such harm  ex ante with a swift updat ing of the inspection 
+scorecards to ensure that a platform ’s practices are continuously aligned with evolving stakeholder 
+interests and societal values.  Hence, the inspection can overcome the enforcement and compliance 
+challenges of regulation such as the GDPR that often cannot  observe harmful practices in real time 
+(Johnson, 2023).10 Fourth, whereas the regulation delineates a boundary beyond which harmful 
+practices are prohibited, the certification provides a benchmark for desirable practices as well as  a 
+method for assessing practices on a range of harmfulness (and desirability ). Thus, whereas the 
+regulation prohibits severely harmful practices , the inspection can capture more nuanced practices 
+that are not prohibited yet still undesirable. Fifth, as noted earlier, the certification of algorithms is 
+more strict, comprehensive, and precise in capturing the essence of the platform ’s business model 
+compared to the rather ambiguous  and sometimes  inconsistent and incomplete directives of the 
+regulation, which concern observed norms of behavior and their outcomes, and thus follow a more 
+formalistic approach that may necessitate judicial interpretation . Sixth, the inspection is carried out 
+by an independent third party rather than by self-assessment as in the case of AIA and AAA regulation.  
+Seventh, the certification relies on market -driven incentives such as customer  choice, competitive 
+pressure, and business growth, which can be more effective in shaping corporate behavior than the judiciary system that enforces regulation through penalties. Eighth, the certification aligns corporate 
+purpose with societal values, whereas the regulation assumes that corporate purpose is misaligned 
+with stakeholders ’ interests. Ninth , unlike regulation that is imposed on all firms that meet certain 
+criteria (e.g., minimum firm size), firms voluntar ily subject themselves to inspection and certification . 
+Although certification is voluntary, its enforcement applies consistently across all certified platforms 
+rather than selectively to those occasionally prosecuted for not meeting specific regulatory 
+10 It takes many years to accumulate evidence on a new type of harm before protective regulation is introduced. For 
+example, self -preferencing ha d been practiced for more than a decade before the EC published a proposal for regulating 
+dominant digital platforms in December 2020. The DMA rules became applicable only in September 2023, and then 
+compliance requirements were extended to March 2024. In contrast, with certification, a new harmful practice can be 
+introduced to the inspection scorecard immediately once it is identified, thus restricting the harm before it accumulates.  
+
+
+requirements. Tenth, certification relies on positive incentives such as establishing a differentiation  
+advantage and enhanc ing reputation as opposed to the regulation that relies on negative incentives 
+such as avoiding penalties and reputational damage following failure to comply. Eleventh, other than 
+its violations, the regulation does not disclose vital information about specific platforms to the public, 
+whereas the certification reduces information asymmetry by revealing relevant information about the 
+merits and faults of certain platforms. Twelfth, the remedies imposed by regulation such as fines may 
+not directly benefit stakeholders, who could in fact experience an increase in  subsequent charges to 
+compensate for those fines, whereas the certification directly benefit s stakeholders by motivating 
+favorable changes i n the platform’s business practices. Thirteenth , whereas the regulation can 
+discourage platforms that violate its requirements without incentivizing competition, certification actively promotes competition by offering a means for differentiation and for improving competitive 
+positions. Finally, whereas the regulation prohibits certain practices, and consequently challenges the 
+logic of business models and their network externalities (Martens , 2021), certification only flags 
+potential harms caused by such practices without restricting the underlying business models or stifling 
+innovation. In fact, certification  may foster innovation by encouraging competition and by invoking 
+innovative business models that leverage network externalities without inflicting harm. For all these 
+reasons, certification can effectively complement regulation. Although certification also faces 
+challenges, remedies are available for such challenges , as noted earlier (see Table 6).  
+*********** Insert Figure 2 and Tables 4-6 about here ********** 
+CONCLUSION 
+Recent research is cognizant of the drawbacks of digital platforms, directing attention to how 
+dominant platforms leverage their market power to exploit their stakeholder s and capture value at 
+their expense while inflicting harm on society (e.g., Gawer, 2022; Lavie, 2023) . These platforms deter 
+competition and take advantage of  business user s and end users by pursuing practices such as self -
+preferencing  and forced exclusivity, and by charging excessive intermediation fees, collecting and 
+abusing personal data, increasing  switching costs, and degrading quality ( Eckhardt et al., 2018). To 
+
+
+combat th is, new legislation, regulation, antitrust laws , and enforcement by judicial system s have 
+been advanced. But it is difficult to apply antitrust laws to multi-sided platforms in which end user s 
+are not directly subject to excessive prices or output restrictions, despite the losses  to other 
+stakeholders (Biggar  & Heimler, 2021). The unique features and complexity of digital platforms 
+render established approaches for analyzing and reacting to their market power inadequate (Moss, 
+Gundlach, & Krotz, 2021). The adaptation of regulation is slow and lags  the business model 
+innovations of digital platforms. The report filed by the US House Judiciary Committee following its 
+investigation of the Big Tech firms calls for extreme measures such as their  breakup, yet in practice,  
+regulation in the US has been sectorial and lenient, in part due to lobbying and preemption by the Big 
+Tech firms . In contrast, the EU regulation such as the D MA is extensive but lax, with self-governance 
+that reinforces the dominance of the Big Tech firms .  
+We propose the idea of inspection and certification of business practices and algorithms as a  novel 
+approach for aligning the business practices of digital platforms with the interests of various 
+stakeholders and society at large. This approach involves setting standards for desirable practices  and 
+identifying undesirable practices , while using scorecards to assess and benchmark digital platforms. 
+The inspection would be carried out by an independent third- party organization with relevant 
+expertise, resources, and processes to scrutinize the inner  workings of the platforms. The certification 
+of the digital platforms can help differentiate platforms that benefit their stakeholders, thus leveraging 
+end-user preferences and competitive market pressures  as positive incentives that motivate change in 
+practices ex ante as opposed to penalizing undesirable practices ex post. Even though inspection and 
+certification are voluntary, this approach c an effectively overcome some limitations of the current 
+regulation. Besides ensuring ex ante alignment of corporate purpose with stakeholder interests , the 
+proposed certification is more balanced, independent, systematic, comprehensive, and meticulous  in 
+discerning the platform ’s business practices and motivating adaptation. The experience with ISO 9001 
+and B Corp certifications offers a glimpse into the merits of this approach, but also expose s some 
+potential challenges . In particular, the success of certification  hinges on the quality of the assessment 
+
+
+scorecard and inspection process as well as on the independence and reputation of the certifying 
+organization. Although focusing on specific measurable indicators may jeopardize the overall purpose 
+of the inspection, the co mprehensiveness of these indicators, as well as the consideration of both 
+business practices and algorithms, can ensure that this risk is minimized .  
+The proposed certification complements rather than replaces digital platform regulation. Whereas 
+the regulation can set baseline expectations and penalize deviations from such threshold requirements, 
+the certification can point to high standards to which digital platforms should aspire, and reward those 
+adhering to these standards. A key advantage of certification is that, unlike some recent regulation, it 
+proactively motivates competition and does not undermine innovation efforts that have been central 
+to the evolution of digital platforms (e.g., Ce nnamo & Sokol, 2021). Still, the proposed solution 
+cannot address all concerns, such as tax evasion, uncompetitive behavior involving serial acquisitions, 
+and regulatory forum shopping. However, with certification, owners of digital platforms who consider 
+pursuing harmful practices would consider not only the penalties  imposed by the judicial system but 
+also the reputational damage and loss of market share associated with  such harmful practices . Instead 
+of balancing the  power of the judiciary system and digital platforms, certification uses market 
+pressure to align corporate mission with the public interest . We discussed how certification can 
+overcome the limitations of regulation, and how to cope with its own limitations. Indeed, not all 
+digital platforms would opt to certify. Some would continue to rely on harmful practices to deliver 
+personalized and efficient service, whereas others might opt to benefit specific stakeholders or 
+specialize in addressing certain aspects of the inspected practices. But overall, the certification would 
+benefit many stakeholders and favorably shape the evolution of digital platforms.  
+Our study offers important policy implications because , given the merits of certification, policy 
+makers may  proactively promote the design and implementation of the certification system. The 
+processes and inspection scorecards we outlined can facilitate deliberation and  the establishment of 
+the certifying organization. Policy makers can channel funding and provide institutional support for such an organization as well as  make voluntary certification mandatory for the Big Tech firms with 
+
+
+the aim of  f acilitating the adoption of certification. Policy makers can also leverage the certification 
+system and its scorecards to blacklist practices via regulation and disseminate valuable information 
+to stakeholders about desirable and undesirable practices of digital platforms, much like the UK traffic 
+light system for labeling the nutritional quality of food (e.g., Kunz et al., 2020). Accordingly, 
+government agencies and public universities may require their units to use certified digital platforms. Additionally, national innovation authorities  can provide monetary incentives in the form of grants 
+and loans  to contenders that need funding to develop and introduce prosocial digital platforms , while 
+setting the grant amount or interest rate based on their certification score . Finally, as algorithms 
+become more sophisticated and capture the essence of digital platform  operations, more attention 
+should be paid to their important role in driving behavior and outcomes. What we offer here is not  a 
+mere academic discourse but a practical proposal to policy makers with detailed rationale and illustration s of the desirable and undesirable practices, and their corresponding measurement , thus 
+paving the way for a novel approach that  complements regulation.  
+REFERENCES  
+Acemoglu, D. (2021). Harms of AI . NBER Working Paper  29247. 
+Acquisti, A. (2019, September 17 ). How much is your privacy really worth? OneZero . 
+Adner, R. (2017). Ecosystem as structure: An actionable construct for strategy . Journal of  
+Management , 43(1): 39 –58. 
+Ali, M., Sapiezynski , P., Bogen, M., Korolova, A., Mislove, A., & Rieke, A. (2019). Discrimination 
+through optimization: How Facebook ’s ad delivery can lead to biased outcomes. Proceedings of 
+the ACM on Human-Computer Interaction, 3(CSCW ): 1–30. 
+André, R. (2012). Assessing the accountability of the benefit corporation: Will this new gray sector 
+organization enhance corporate social responsibility? Journal of Business Ethics , 110(1): 133–150. 
+Artificial Intelligence Act (Regulation (EU) 2024/1689), Official Journal version of  13 June 
+2024’. Interinstitutional File: 2021/0106(COD) . https://artificialintelligenceact.eu/annex/3/  
+B Lab Website. (2024). Accessed on December 17 , 2024. https://www.bcorporation.net/en-us/  
+Baker, M.  J. (1975). A model of the new product adoption process. In Marketing New Industrial 
+Products. London: Palgrave.  
+Balkin, J. M. (2018) . Free speech in the algorithmic society: Big data, private governance, and new 
+school speech regulation. U.C. Davis Law Review , 51: 1149–1210.  
+Barnett, M. L., & King, A. A. (2008). Good fences make good neighbors: A longitudinal analysis of 
+an industry self-regulatory institution. Academy of Management Journal , 51(6): 1150–1170. 
+Barth, S., & de Jong, M. (2017). The privacy paradox – Investigating discrepancies between 
+expressed privacy concerns and actual online behavior – A systematic literature review . Telematics 
+and Informatics , 34: 1038–1058. 
+Benner, M. J., & Veloso, F. (2008). ISO 9000 practices and financial performance: A technology 
+coherence perspective. Journal of Operations Management , 26(5): 611–629. 
+
+
+Biggar, D., & Heimler, A. (2021). Antitrust policy toward digital platforms and the economic 
+foundation of competition law. Industrial and Corporate Change , 30(5): 1230–1258. 
+Brill, J. (2011). The intersection of consumer protection and competition in the new world of privacy. 
+Competition Policy International , 7: 7–23. 
+Buocz, T., Pfotenhauer, S., &  and Eisenberger, I. (2023) . Regulatory sandboxes in the AI Act: 
+Reconciling innovation and safety? Law, Innovation and Technology , 15(2): 357–389. 
+Bursztyn, L., Handel, B., Jimenez -Duran, R., & Roth, C. (2023). When product markets become 
+collective traps: The case of social media. George J. Stigler Center for the Study of the Economy 
+& the State Working Paper No. 336.  
+Caffarra, C. , & Etro, F. (2023). Extension of its search monopoly: The EC case against Google 
+Android. In J. Kwoka, Jr., T. Valletti, & L. White (eds.), Antitrust economics at a time of upheaval: 
+Recent competition policy cases on two continents . Chicago: CPI Publishing. 
+Calder-Wang, S. , & Kim, G. H. 2024. Algorithmic pricing in multifamily rentals: Efficiency gains 
+or price coordination? Wharton School Working Paper . 
+Calvano, E., Calzolari, G., Denincolo, V., & Pastorello, S. 2020. Artificial intelligence, algorithmic 
+pricing, and collusion. American Economic Review , 110(10): 3267–3297. 
+Cantero Gamito, M., & Marsden, C. T. (2024). Artificial intelligence co-regulation? The role of 
+standards in the EU AI Act. International Journal of Law and Information Technology , 32(1).    
+Candeub, A. (2023, March 7 ). Reining in dominant digital platforms : Restoring competition to our 
+digital markets. Senate Judiciary Committee. Subcommittee on Competition Policy, Antitrust, and 
+Consumer Rights. [https://www.judiciary.senate.gov/committee -activity/hearings/reining -in-
+dominant- digital-platforms -restoring-competition -to-our-digital-markets].  
+Cennamo, C. (2021). Competing in digital markets: A platform- based perspective. Academy of 
+Management Perspectives , 35(2): 265–291. 
+Cennamo, C., Diaferia, L., Gaur, A., & Salviotti, G. (2022). Assessing incumbents ’ risk of digital 
+platform disruption. MIS Quarterly Executive, 21(1): 55–74. 
+Cennamo, C., Kretschmer, T., Constantinides, P., Alaimo, C., & Santaló, J. (2023). Digital platforms 
+regulation: An innovation- centric view of the EU ’s Digital Markets Act. Journal of European 
+Competition Law & Practice , 14(1): 44–51. 
+Cennamo, C., & Santal ó, J. (2013). Platform competition: Strategic trade -offs in platform markets. 
+Strategic Management Journal , 34(11): 1331–1350.   
+Cennamo , C., & Santaló, J. (2019) . Generativity tension and value creation in platform ecosystems. 
+Organization Science , 30(3): 617–641. 
+Cennamo, C., & Sokol, D. D. (2021). Can the EU regulate platforms without stifling innovation? 
+Harvard Business Review Digital Articles , 19.3.2021.  
+Competition and Markets Authority. (2021). Algorithms: How they can reduce competition and harm 
+consumers.  
+Condorelli, D., & Padilla, J. (2024). Data-driven envelopment with privacy- policy tying. The 
+Economic Journal , 134(658): 515–537. 
+Damien, G., Theano, K., & Dimitrios, K. (2021). GDPR myopia: How a well -intended regulation 
+ended up favouring large online platforms  — The case of ad tech . European Competition Journal , 
+17(1): 47–92. 
+Danaher, J. (2016). The threat of algocracy : Reality, resistance and accommodation. Philosophy & 
+Technology, 29: 245–268. 
+De Gregorio, G. (2021). The rise of digital constitutionalism in the European Union. International 
+Journal of Constitutional Law, 19(1): 41–70. 
+De Gregorio, G. (2022). Digital constitutionalism in Europe: Reframing rights and powers in the 
+algorithmic society. Cambridge: Cambridge University Press. 
+De Gregorio, G., & Dunn, P . (2022). The European risk-based approaches : Connecting constitutional 
+dots in the digital age. Common Market Law Review , 59(2): 473–500. 
+
+
+Disruptive Competition Project. (2023, January 6). AICOA ’s Failure and the Future of Competition 
+Policy in Congress. Accessed October  25, 2023. [https://www.project-
+disco.org/competition/010623- aicoas-failure-and-the-future-of-competition -policy-in-congress]. 
+Dobbin, F., & Sutton, J. R. (1998). The strength of a weak state: The rights revolution and the rise of 
+human resources management divisions. American Journal of Sociology , 104(2): 441–476. 
+Draghi, M. (2024). The future of European competitiveness – A competitiveness strategy for 
+Europe, 9 September 2024, https://commission.europa.eu/topics/strengthening-european-
+competitiveness/eu -competitiveness -looking-ahead_en. 
+Dranove, D., & Zhe Jin, G. (2010). Quality disclosure and certification: Theory and practice . Journal 
+of Economic Literature , 48: 935–963. 
+Durante, M. (2021). Computational power: The impact of ICT on law, society and knowledge . 
+Abingdon: Routledge. 
+Ebers, M., Hoch, V. R. S., Rosenkranz, F., Ruschemeier, H., et al. (2021). The European 
+Commission ’s proposal for an Artificial Intelligence Act—A critical assessment by members of 
+the Robotics and AI Law Society (RAILS) . J – Multidisciplinary Scientific Journal, 4(4): 589–
+603.  
+Eckhardt, J. T., Ciuchta, M. P., & Carpenter, M. (2018). Open innovation, information, and 
+entrepreneurship within platform ecosystems. Strategic Entrepreneurship Journal , 12(3): 369–
+391. 
+Eifert, M., Metzger , A., Schweitzer , H., & Wagner, G. (2021). Taming the giants: The DMA/DSA 
+package. Common Market Law Review , 58: 987–1028. 
+El Khatib, K. (2015). The harms of the benefit corporation. American University Law Review , 65(1): 
+151–190. 
+Engels, F., Wentland , A., & Pfotenhauer , S. (2019). Testing future s ocieties? Developing a framework 
+for test beds and living l abs as instruments of innovation governance. Research Policy, 48. 
+Engler, A. (2020). Tech cannot be governed without access to its data. Brookings . Accessed August 
+27, 2023. [www.brookings.edu/articles/tech- cannot-be-governed-without- access-to-its-data/]. 
+European Commission. (2020). Communication from the Commission to the European Parliament, 
+the Council, the European Economic and Social Committee and the Committee of the Regions on the European Democracy Action Plan. COM(2020) 790 final.  
+European Commission (2023, June 14). Antitrust: Commission sends Statement of Objections to 
+Google over abusive practices in online advertising technology. EC Press Release, Brussels.  
+Farronato, V., Fradkin, A., & MacKay, A. (2023). Self -preferencing at Amazon: Evidence from search 
+rankings. AEA Papers and Proceedings , 113: 239–243.  
+Fosfuri, A., Giarratana, M. S., & Roca, E. (2016). Social business hybrids: Demand externalities, 
+competitive advantage, and growth through diversification. Organization Science , 27(5): 1275–
+1289.  
+Fumagalli, C. , & Motta, M. (2024). Economic principles for the enforcement of abuse of dominance 
+provisions. Journal of Competition Law & Economics , 20(1-2): 85–107. 
+Galli, N., & Calzolari, G. (2021). Auditing of Algorithms: Closed -Door Panel of the Florence 
+Competition Summer Conference, Robert Schuman Centre for Advanced Studies Research Paper.  
+Gang, A. (2018, May 2). The Facebook and Cambridge Analytica scandal, explained with a simple 
+diagram. Vox.com. 
+Gawer, A. (2022). Digital platforms and ecosystems: Remarks on the dominant organizational forms 
+of the digital age. Innovation: Organization & Management , 24(
+1): 110–124. 
+Gehman, J., Grimes, M. , & Cao, K. (2019). Why we care about certified B Corporations: From 
+valuing growth to certifying values practices. Academy of Management Discoveries , 5(1): 97–101. 
+Gellert, R. (2020). The risk-based approach to data protection. Oxford: Oxford University Press. 
+Goldfarb, A., & Tucker, C. (2012). Privacy and innovation. Innovation Policy and the Economy , 
+12(1): 65–90. 
+
+
+Grimes, M. G., Gehman, J., & Cao, K. (2018). Positively deviant: Identity work through B 
+Corporation certification. Journal of Business Venturing, 33(2): 130–148. 
+Hacker, P., Engel, A., & Mauer, M. (2023). Regulating ChatGPT and other large generative AI 
+models. Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency, 
+Chicago, 1112–1123. 
+Hatala, M., & Bryson, J. J. (2022, March ). Reflections on the EU ’s AI Act and how we could make it 
+even better. TechREG Chronicle, Competition Policy International , 2–14. 
+Hellmann, T., Montag, A., & Vulkan, N. (2024). The impact of the regulatory sandbox on the f in 
+tech industry [https://ssrn.com/abstract=4187295]. 
+House of Representatives Judiciary Committee. (2019, June 3) . House Judiciary Committee Launches 
+Investigation into Competition in Digital Markets. Accessed May 22, 2023. 
+[http://judiciary.house.gov/media/press- releases/house- judiciary-committee -launches-
+investigation -into-competition -in-digital]. 
+Hsieh, A., Morton, F. S., Rosenquist, J.  N., & Weinstein, S. (2020, October 27). Addictive social 
+media: Why we need regulation and competition for digital platforms. Promarket . 
+Hsu, T., & Lutz, E. (2021, October 5). More than 1,000 companies boycotted Facebook. Did it work? 
+The New York Times .  
+International Organization for Standardization. (2024, October 31) . ISO survey of certifications to 
+management system standards – 2023. https://www.iso.org/the- iso-survey.html. 
+Ipsos-UNESCO. (2023, September ). Study on the impact of online disinformation during election 
+campaigns.  
+Jackson, V. C. (2014). Constitutional law in an age of proportionality. Yale Law Journal , 124(8): 
+3094–3196. 
+Jenny, F. (2021). Changing the way we think: Competition, platforms and ecosystems. Journal of 
+Antitrust Enforcement , 9: 1–18. 
+Johnson, G. (2023). Economic research on privacy regulation: Lessons from the GDPR and beyond. 
+NBER Working Paper 30705. 
+Kahn, J. (2020, December 3). Google ethics researcher ’s departure renews worries the company is 
+silencing whistleblowers . Fortune. [https://fortune.com/2020/12/03/google -fires-ai-ethics-
+researcher -timnit-gebru- silencing-whistleblowers/] . 
+Kak, A., & West, S. M. (2023, April 11). Algorithmic accountability: Moving beyond audits, AI Now 
+2023 Landscape: Confronting Tech Power, AI Now Institute  
+[https://ainowinstitute.org/publication/algorithmic -accountability].  
+Kates, S., Ladd, J., & Tucker, J.  A. (2023, June 14 ). How Americans ’ confidence in technology firms 
+has dropped: Evidence from the second wave of the American Institutional Confidence poll . 
+Brookings Research.  
+Kelly, M. (2022, December 20). Congress blew its last chance to curb Big Tech ’s power. The Verge. 
+Accessed October 25, 2023. [https://www.theverge.com/2022/12/20/23517807/big- tech-antitrust-
+bills-congress-omnibus]. 
+Kemp, K. (2020). Concealed data practices and competition law: Why privacy matters . European 
+Competition Journal , 16: 628–672. 
+Kim, S., & Schifeling, T. (2022). Good corp, bad corp, and the rise of B Corps: How market 
+incumbents’ diverse responses reinvigorate challengers. Administrative Science Quarterly , 67(3): 
+674–720. 
+Kretschmer, T., Leiponen, A., Schilling, M., & Vasuveda, G. (2022). Platform ecosystems as meta -
+organizations: Implications for platform strategies. Strategic Management Journal , 43(3): 405–
+424. 
+Kunz, S., Haasove, S., Rieß, J., & Florack, A. 2020. Beyond healthiness: The impact of traffic light 
+labels on taste expectations and purchase intentions. Foods , 9(2): 134. 
+
+
+Laux, J., W achter, S ., & Mittelstadt, B. (2022, September 26). Trustworthy artificial intelligence and 
+the European Union AI Act: On the conflation of trustworthiness and the acceptability of risk. 
+[ssrn.com/abstract=4230294].  
+Lavie, D. (2023). The cooperative economy: A solution to societal grand challenges . Abingdon: 
+Routledge. 
+Lehman, D. W., O ’Connor, K., Kovács, B., & Newman, G. E. (2019). Authenticity. Academy of 
+Management Annals , 13(1): 1–42. 
+Llansó, E., van Hoboken, J., Leerssen, P., & Harambam, J . (2020). Artificial Intelligence, Content 
+Moderation, and Freedom of Expression. T ransatlantic Working Group. Accessed December 13, 
+2021. [https://www.ivir.nl/publicaties/download/AI- Llanso-Van-Hoboken- Feb-2020.pdf]. 
+Lucas, D.  S., Grimes, M. G., & Gehman, J. (2022). Remaking c apitalism: The strength of weak 
+legislation in mobilizing  B Corporation certification . Academy of Management Journal , 65(3): 
+958–987. 
+Macenaite, M. (2017). The “riskification ” of European data protection law through a two- fold shift. 
+European Journal of Risk Regulation, 8(3): 506–540. 
+Martens, B. (2021). The economic perspective on data and platform market power. SSRN. 
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783297]. 
+Matradi, S., & Mounir, Y. (2022). The effect of ISO 9001 certification on financial performance: A 
+systematic review.  International Journal of Accounting, Finance, Auditing, Management and 
+Economics , 3(2–1): 83–99. 
+McCarthy, M. (2019). An Examination of the Algorithmic Accountability Act of 2019. 
+[www.ivir.nl/publicaties/download/Algorithmic_Accountability_Oct_2019.pdf]. 
+McIntyre, D., Srinivasan, A., Afuah, A., Gawer, A., & Kretschmer, T. (2021). Multi-sided platforms 
+as new organizational forms. Academy of Management Perspectives , 35(4): 566–583. 
+Mökander, J., Juneja,  P., Watson, D. S., & Floridi, L. (2022). The US Algorithmic Accountability Act 
+of 2022 vs. the EU Artificial Intelligence Act: What can they learn from each other ? Minds and 
+Machines, 32: 751–758. 
+Montiel, I., Cuervo- Cazurra, A., Park, J., Antol ín-López, R., & Husted, B. W. (2021). Implementing 
+the United Nations ’ Sustainable Development Goals in international business . Journal of 
+International Business Studies , 52: 999–1030. 
+Moraes, T. (2023). Regulatory sandboxes for Artificial Intelligence – hype or solution? 
+[https://www.law.kuleuven.be/ai- summer-school/blogpost/Blogposts/regulatory-sandboxes]. 
+Moreno Belloso, N., & Petit, N. (2023, April 5) . The EU Digital Markets Act (DMA): A competition 
+hand in a regulatory glove. SSRN. [https://papers.ssrn.com/abstract=4411743]. 
+Moss, D.  L., Gundlach, G. T., & Krotz, T. T. (2021, June ). Market power and digital business 
+ecosystems: Assessing the impact of economic and business complexity on competition and remedies. American Antitrust Institute.  
+Murray, J. H. (2015). An early report on benefit reports. West Virginia Law Review , 118(1): 25–58. 
+Nadler, J., & Cicilline, D.  N. (2020). Investigation of competition in digital markets —Majority staff 
+report and recommendations, Subcommittee on Antitrust, Commercial and Administrative Law of 
+the Committee on the Judiciary, U.S. House of Representatives, United States. 
+Nicola, F. G., & Pollicino, O. (2020). The balkanization of data privacy regulation. West Virginia Law 
+Review, 123(1): 61–115 . 
+Parker, G., Petropoulos, G., & Van Alstyne , M. (2021). Platform mergers and antitrust. Special Issue 
+on Regulating Platforms and Ecosystems. Industrial and Corporate Change , 30(5): 1307–1336. 
+Parker, S.  C., Gamble, E.  N., Moroz, P. W.,
+ & Branzei, O. (2019). The impact of B Lab certification 
+on firm growth. Academy of Management Discoveries, 5: 57–77. 
+Patel, P. C., & Dahlin, P. (2022). The impact of B Corp certification on financial stability: Evidence 
+from a multi-country sample. Business Ethics, the Environment and Responsibility , 31: 177–191. 
+
+
+Pedriana, N., & Stryker, R. (2004). The strength of a weak agency: Enforcement of Title VII of the 
+1964 Civil Rights Act and the expansion of state capacity, 1965–1971. American Journal of 
+Sociology , 110(3): 709–760. 
+Petkova, B. (2019). Privacy as Europe’ s First Amendment. European Law Journal, 25(2): 140–154. 
+Phillips, N. (2019). Keep it: Maintaining competition in the privacy debate . Remarks for Internet 
+Governance Forum. 
+Pollicino, O. (2021). Judicial protection of fundamental rights on the internet: A road towards digital 
+constitutionalism ? Oxford: Hart.   
+Pollicino, O., & Bassini, M. (2014). The law of the internet between globalisation and localisation. 
+Porciuncula , L. (2024, September 11). From catching up to leading: How sandboxes can shape the 
+future of technology for people and planet . Datasphere Initiative  
+[https://www.thedatasphere.org/news/from- catching-up-to-leading-how-sandboxes- can-shape-
+the-future-of-technology- for-people-and-planet/]. 
+Portuese, A. (2021, May ). The Digital Markets Act: European precautionary antitrust . Information 
+Technology & Innovation Foundation. 
+Radoynovska, N., & Ruttan, R. (2023). A matter of transition : Authenticity judgments and attracting 
+employees to hybridized organizations. Organization Science , 34(6): 2373–2391. 
+Sauter, W. (2013). Proportionality in EU law: A balancing act? Cambridge Y earbook of European 
+Legal Studies , 15: 439–466. 
+Scaccia, G. (2019, February 20) . Proportionality and the balancing of rights in the case -law of EU 
+Courts. Federalismi.it, no. 4.  
+Schwartz, P. M., & Peifer, K-N. (2017). Transatlantic data privacy law . Georgetown Law Journal , 
+106: 115–179. 
+Scott Morton, F. (2023, March 7 ). Reining in dominant digital platforms: Restoring competition to 
+our digital markets . Senate Judiciary Committee. Subcommittee on Competition Policy, Antitrust, 
+and Consumer Rights. Accessed June  25, 2023. [https://www.judiciary.senate.gov/committee -
+activity/hearings/reining -in-dominant- digital-platforms -restoring-competition -to-our-digital-
+markets]. 
+Šikman, L., Latinović, T., & Paspalj, D. (2019). ISO 27001 – Information systems security, 
+development, trends, technical and economic challenges . ANNALS of Faculty Engineering 
+Hunedoara – International Journal of Engineering, Tome XVII:  Fascicule 4, 45 –48. 
+Skibinski, M. (2021). How some of the world’s largest brands funded the misinformation behind the 
+Capitol riot. NewsGuard Report. 
+Srinivasan, D. (2019). The antitrust case against Facebook . Berkeley Business Law Journal , 19: 39–
+101. 
+Taeuscher, K., & Rothe, H. (2021). Optimal distinctiveness in platform markets: Leveraging 
+complementors as legitimacy buffers . Strategic Management Journal, 42(2): 435–461. 
+Tartaro, A. (2023, April 13/14). Towards European standards s upporting the AI Act: Alignment 
+challenges on the path to trustworthy AI. In B. Müller (Ed.), Proceedings of the AISB Convention 
+2023, Swansea University , 98–106.  
+Truby, J., Dean Brown, R., Ibrahim, I., & Caudevilla Parellada, O. (2022) . A sandbox approach to 
+regulating high-risk a rtificial intelligence applications. European Journal of Risk Regulation, 13: 
+270–294. 
+Tuori, K., Maduro, M., & Sankari, S. (eds.), Transnational law: Rethinking European law and legal 
+thinking. Cambridge: Cambridge University Press. 
+Veale, M., & Zuiderveen Borgesius , F. (2021). Demystifying the Draft EU Artificial Intelligence Act 
+– Analysing the good, the bad, and the unclear elements of the proposed approa ch. Computer Law 
+Review International , 22(4): 97–112. 
+Weiss, M. A., & Archick, K. (2016). US-EU Data Privacy: From Safe Harbor to Privacy Shield. 
+Congressional Research Service, 6.  
+
+
+The White House. 2014. Big Data: Seizing Opportunities, Preserving Values. Executive Office of the 
+President, 22 May. [https://obamawhitehouse.archives.gov/sites/default/files/docs/big_data_ 
+privacy_report_may_1_2014.pdf]. 
+York, J. G., Vedula, S., & Lenox, M. J. (2018). It’s not easy building green: The impact of public 
+policy, private actors, and regional logics on voluntary standards adoption. Academy of 
+Management Journal , 61(4): 1492–1523. 
+Zhu, F., &  Liu, Q. (2018). Competing with complementors: An empirical look at Amazon.com. 
+Strategic Management Journal , 39(10): 2618–2642. 
+
+
+Table 1: Harms inflicted by digital platforms  
+Business 
+practice Description and harmful impact Applicable platforms  Applicable 
+regulation  
+1. Exclusion  Exclusionary practices, such as self -preferencing  in which the p latform owner favors its 
+own products at the expense of business user s, leverage the platform owner ’s market 
+power to deter, restrict, or foreclose market access to competitors or business user s. End 
+users also face fewer alternatives,  higher prices, and lower quality 
+- Example: Google imposes contractual restriction s on mobile phone manufacturers for 
+access to its Android operating system   
+- Example: Amazon’s “Buy Box” algorithm unfairly favor s its own products − Multi-sided transaction markets (e.g. , 
+Amazon Marketplace)  
+− Complementary innovation markets 
+(e.g., Apple iOS, Microsoft Office and 
+Teams, Google Android ) 
+− Information markets (e.g., Google 
+Search) AI Act 
+ 
+AAA  
+ 
+P2B Regulation  
+ 
+DMA 
+2. Discrimination  Algorithmic systems may yield (unintended) illegal discrimination  
+- Example: g eographic targeting, as in Amazon prioritizing deliveries in areas with 
+many Prime members, which excludes many Black neighborhoods 
+- Example: Facebook doe s not show relevant ads for employment or housing 
+opportunities to certain groups based on gender and race  
+- Example: biased algorithms trained on past recommendations contain a bias, which is 
+reinforced due to feedback loops , and harm  users with protected characteristics.  − Multi-sided transactions (e.g. , 
+Amazon) 
+− Information markets (e.g., YouTube, 
+Google Search) AI Act 
+ 
+AAA  
+ 
+GDPR 
+ 
+DMA 
+3. Censorship  Unfairly exclude or restrict users following a moderation policy — the platform monitors 
+the behavior of users and can exclude their post s or discontinue their enrollment without 
+explanation or a possibility for appeal  
+- Example: eliminatin g Facebook profiles of users who supposedly violated terms of 
+service, or restricti ng activity of non -paying subscribers following change in terms  − Information markets (e.g. , Facebook, 
+Google News) DSA 
+ 
+ 
+4. Exclusivity  Dictate terms that require business user s to commit to the platform exclusively, 
+forbidding or penalizing  engagement with competitors  
+- Example: Amazon penaliz es business user s that offer products on other sites at a lower 
+price 
+- Example: Apple force s developers to offer iPhone apps exclusively through the App 
+Store, while charging a 30 percent commission  − Complementary innovation markets 
+(e.g., Apple App Store, Google 
+Android) 
+− Multi-sided transaction markets (e.g., 
+Amazon Buy Box) DMA 
+5. Price targeting  Collect and analyze vast end-user data to estimate willingness  to pay and charge different 
+prices based on end user s’ personal characteristics and price sensitivity (first -degree 
+personalization) 
+- Example: platforms present higher -priced products ( “price steering ”) to particular 
+customers who are not shown cheaper alternatives to these products  − Information markets (e.g. , Google 
+Shopping) 
+− Multi-sided transaction markets (e.g., 
+Amazon Buy Box) 
+− Complementary innovation markets (e.g., Amazon Web Service and 
+Microsoft Azure)  AI Act 
+ 
+AAA  
+ 
+GDPR 
+ 
+GPAICP 
+ 
+6. Algorithmic 
+collusion  End users pay high prices due to algorithms that prompt coordination by detecting and 
+responding to deviations in prices, delegating pricing decisions to intermediar ies, and 
+relying on automated systems that tacitly collude  − Multi-sided transaction markets (e.g. , 
+Amazon Marketplace )  
+
+
+Business 
+practice Description and harmful impact Applicable platforms  Applicable 
+regulation  
+- Example: RealPage, a real estate software provider, enabled collusion among landlords 
+to inflate rent al prices 
+- Example: Amazon automates pricing for its third -party sellers on Amazon Marketplace  − Information markets (e.g. , Google 
+Shopping automated price 
+adjustments)  
+7. Ranking  Manipulate ranking of results to favor commercial ties over those  more beneficial to end 
+users 
+- Example: personalized ranking determine s which results are shown to each end user 
+(“choice architecture”) 
+- Example: Bookings.com alter s search results to give an advantage to the hotel that 
+pays the highest commission; end users are misled to think that the ranking is unbiased 
+- Example: difficult to distinguish organic search results from paid ads  on Google Search  − Multi-sided transaction markets (e.g. , 
+Amazon Buy Box, Bookings.com) 
+− Complementary innovation m arkets 
+(e.g., Apple App Store)  
+− Information m arkets (e.g., Google 
+Search) DMA 
+ 
+AI Act 
+ 
+AAA  
+8. Behavioral 
+manipulation  
+ Use machine learning techniques to identify and exploit biases and unrecognizable end-
+user vulnerabilities that reduc e end-user utility and distort product composition 
+- Example: changing behavior per incentives such as receiving “ likes” and exploiting 
+emotional vulnerability and digital addiction to market products that match temporal 
+emotional state, thus misguiding customers  who choose inferior products 
+- Example: larger and more visible buttons make it easier to purchase or select an option   
+- Example: by  manipulating information at a large scale, platforms promote hate crimes 
+and restrict media plurality  − Multi-sided transaction markets (e.g. , 
+Amazon Marketplace)  
+− Complementary innovation m arkets 
+(e.g., Apple “in-app prompt ,” 
+Microsoft video games) 
+− Information m arkets (e.g., Google 
+Maps, YouTube)  AI Act 
+ 
+AAA  
+ 
+GDPR 
+ 
+DMA 
+ 
+GPAICP 
+ 
+DDDDA 
+9. Data privacy 
+violation Track users ’ online activity, collect ing, processing, and analyz ing personal information 
+across various websites, to construct an individual user profile  and capture end-user 
+surplus (e.g., via price discrimination), charge advertisers for targeting end users, share 
+personal information with third parties, and shape behavior in ways that do not serve end 
+users’ interests; the acquired personal information is not needed for service provision ; 
+end users have no opportunity to preserve privacy because of lack of  alternative services 
+- Example: by violating data privacy at a large scale, platforms can undermine the 
+integrity of elections , as in the Cambridge Analytica case, where the harvesting of 87 
+million Facebook profiles served to bias perspectives and promote polari zation 
+- Example: Facebook’s “ concealed ” data practices aggregate personal information of its 
+users across various services  including WhatsApp and Instagram to track users across 
+different websites and apps outside the Facebook platforms  − Information markets (e.g. , Google, 
+Facebook, Instagram)  
+− Multi-sided platforms (e.g., Amazon) 
+ 
+ GDPR 
+ 
+California 
+Delete Act  
+ 
+California 
+Consumer 
+Privacy Act  
+ 
+ 
+10. Exposure to 
+online harm Algorithms or other users /hackers expose users to harms, including  addiction to 
+gambling, offensive content including hate speech, terror, bullying, child abuse, and 
+sexually explicit content; disinformation that shapes opinions and drives protest or 
+voting; content that undermines public health ; sale of undesirable products such as 
+weapons, drugs, and human trafficking; e xposure to cyberattacks, scams, and identity 
+theft; extremism, boycotts, and fake news − Information markets (e.g. , Google 
+Hangouts, You Tube, Facebook, 
+Instagram)  
+− Multi-sided platforms ( e.g., Amazon) 
+− Complementary innovation m arkets 
+(e.g., Microsoft video games)  DSA 
+ 
+DDDDA 
+
+
+Table 4:  Illustrative indicators for “Do  Good” and “Do No Harm” scorecards† 
+Desirable 
+practice Indicators for “Do Good” Inspection  
+1. Mission 1.1. The platform ’s mission with its corresponding business practices reveals commitment to making positive social and environmental 
+impact 
+1.2. The platform ’s mission underscores corporate social responsibility  
+1.3. The platform ’s mission commits to benefiting stakeholder groups in need 
+1.4. The platform ’s training programs, management roles, incentive systems, and internal review processes incorporate social and 
+environmental initiatives with explicit indicators  
+2. Stakeholders  2.1. The platform is cognizant of its stakeholders ’ interests and attempts to serve these interests through its business practices  
+2.2. The platform ’s stakeholders are represented in its governance bodies 
+2.3. The platform has policies for engaging stakeholders, including underrepresented groups 
+2.4. The platform has formal processes for gathering feedback from stakeholders and acting upon that feedback 2.5. The platform reports the results of its stakeholder engagement performance to stakeholders and to the public 2.6. The platform measures and reports social and environmental performance  
+2.7. The platform is fair to stakeholders, offering them a share of the value created that is proportional to their contribut ions 
+3. End-user 
+orientation  3.1. The platform’s business model addresses social or economic needs of end users 
+3.2. The platform relies on algorithms that directly serve end users’ interests and minimizes opportunities to indirectly harm them 
+3.3. All end users can join the platform irrespective of their demographic profile 
+3.4. The platform minimizes information asymmetry and maintains transparency to support end users’ informed decisions 
+3.5. The platform minimizes attempts to misguide end users and influence their behavior counter to their interests and preferences, thus 
+promoting free choice 3.6. The platform has protective policies, traces harmful behavior of end users, and excludes end user s that violate its policies and engage in 
+harmful behavior 3.7. The platform incentivizes cooperation and rewards cooperative behavior whereby end user s contribute to and help each other 
+3.8. The platform facilitates unmediated interaction among end user s in the community  
+3.9. The platform redistributes value, enabling end user s to capture surplus 
+3.10. The platform promotes responsible consumption and voluntary simplicity including avoidance, recycling, reuse, and donation of products and services  
+3.11. The platform empowers or supports deprived or unprivileged populations 
+3.12. The platform monitors and reports business user ratings including third-party or end-user ratings  
+3.13. The platform receives feedback from end users and monitors end -user satisfaction  
+3.14. The platform monitors how end user s benefit from the use of the platform and its products and services, including social impact and 
+well-being 
+3.15. The platform provides product or service guarantees, warranties, or protection  
+
+
+3.16. The platform implements policies for end-user data privacy and protection, retaining only the personal information necessary for 
+providing its services 
+3.17. The platform has programs for continuous improvement of its end -user experience 
+3.18. The platform has policies for minimizing human rights violations and the selling of harmful products or services such as gambling, 
+trade of weapons, and pornography  
+4. Supply 
+chain 
+management  4.1. The platform screens business user s for social and environmental impact using formal screening and verification processes  
+4.2. The platform relies on formal quality control procedures to screen and promote business users 4.3. The platform prioritizes business users based on measurable criteria such as price, quality, sustainability, and proximity to customers   
+4.4. The platform sets fair prices that benefit both business users and end users , in line with its social mission, while maintaining 
+transparency about the price-setting process 4.5. The platform ensures availability of products and services to all end users, without discrimination or preferencing of certain end -user 
+groups 4.6. The platform charges reasonable and consistent fees from end users and business users 
+4.7. The platform has programs or policies for reducing transport and shipping distances 4.8. The platform ensures that business users comply with local law, regulations, and international policies and standards 
+4.9. The platform avoids contracting with business users that violate human rights and undermine labor conditions or the welfare of local 
+communities  
+5. Competition  5.1. The platform does not engage in anti -competitive behavior  
+5.2. The platform avoids offering products or services that compete with those of its business users 5.3. The platform minimizes self -promotion and prioritization of its own offerings that compete with those of its business users 
+5.4. The platform encourages the entry of new business user s, especially small local businesses that compete with large multinational firms  
+5.5. The platform ’s business user s are allowed to market their products and services on other platforms without binding pricing constraints  
+6. Community  6.1. The platform creates specific positive benefits to stakeholders such as end users, business user s, and local communities  
+6.2. The platform ’s activities respect local cultures, values, traditions, and social networks and structures 
+6.3. The platform ’s policies provide representations to minority groups relating to gender, ethnicity, age, and other demographic 
+characteristics  
+6.4. The platform ’s policies promote diversity, equity, and inclusion among end users and business users 
+6.5. The platform prioritizes or benefits local businesses 6.6. The platform donates to and invests in the community, hosts events, and collaborates with local charitable organizations  
+6.7. The platform provides resources or supports public programs for enhancing social and environmental performance  
+7. Employee 
+welfare 7.1. The platform prioritizes salaried employment over temporary employment or employment by subcontractors and independent 
+contractors  
+7.2. The platform grants equity to its employees 7.3. The platform offers high-quality positions and professional development  7.4. The platform offers inclusive employment opportunities 
+7.5. The platform encourages employees to practice their profession of choice  
+
+
+7.6. The platform offers competitive salaries and employment terms  
+7.7. The platform minimizes salary differences among employees 
+7.8. The platform offers attractive health, wellness, and benefit plans 7.9. The platform has policies that prohibit discrimination, harassment, and abuse, while offering mechanisms for resolving grievances   
+7.10. The platform is transparent with employees about their employment terms 
+7.11. The platform does not discourage employee associations or collective bargaining  
+8. 
+Environmental impact 8.1. The platform ’s business practices are designed to reduce environmental impact  
+8.2. The platform ’s business practices minimize overconsumption and promote sharing and reuse of products and services 
+8.3. The platform ’s facilities are certified by an accredited green building program 
+8.4. The platform ’s facilities and business practices minimize carbon emission and the consumption of energy, water, and other natural 
+resources  
+8.5. The platform has policies for minimizing, managing, disposing of, and recycling waste, including hazardous waste 
+8.6. The platform has an environmental management system for monitoring and meeting stated environmental targets  
+9. Ethics and 
+transparency  9.1. The platform has a written code of conduct  
+9.2. The platform implements policies for ensuring business ethics  9.3. The platform conducts periodical ethics risk assessments 9.4. The platform has internal processes for reviewing ethical concerns 9.5. The platform makes information about its business practices and engagement with stakeholders publicly available 9.6. The platform ’s communications with stakeholders such as business users and end users are transparent and clarify their dealings with 
+them 
+9.7. The platform avoids engaging in bribery, fraud, or corruption 
+9.8. The platform avoids lobbying and political contributions to promote its interests  
+†Question items adapted from the B Lab Impact Assessment survey  
+ 
+          
+
+
+Undesirable 
+practice Indicators for “Do No Harm ” Inspection  
+1. Exclusion  1.1. The platform prioritizes its own products and services over those of business user s although it does not offer superior quality to them 
+1.2. The platform features its own products and services more prominently than those of competitors  
+1.3. The platform deters competitors that seek to operate on the platform 1.4. The platform restricts the activities of competitors that operate on the platform 
+1.5. The platform restricts accessibility or complicates end users’ ability to find competitors ’ products or services on the platform   
+2. 
+Discrimination  2.1. The platform profiles users based on their demographic characteristics  
+2.2. The platform limits users’ access to products or services based on their demographic characteristics  
+2.3. The platform discriminates by offering restricted products or services to users based on their demographic characteristi cs 
+2.4. The platform discriminates against minorities and other deprived populations 2.5. The platform relies on targeting algorithms that exclude users with certain demographic characteristics 
+2.6. The platform relies on algorithms that generate biases that discriminate against users with protected characteristics  
+3. Censorship  3.1. The platform unfairly excludes or restricts the activities of users  
+3.2. The platform relies on algorithmic moderation policy that excludes or restricts users without offering clear means to contest decisions  
+3.3. The platform excludes user  content or discontinues users ’ enrollment with the platform without providing sufficient explanations 
+3.4. The platform restricts users ’ activities or excludes users following change s in service terms without sufficient justification or remedies  
+4. Exclusivity  4.1. The platform requires business user s to operate exclusively on the platform by forbidding them from operating  on other platforms  
+4.2. The platform requires business users not to offer products or services with more attractive terms on their own sites or other platforms 
+4.3. The platform forbids business user s from engaging with its competitors  
+4.4. The platform penalizes business user s that collaborate with its competitors or offer products or services at more attractive terms 
+elsewhere  
+4.5. The platform charges excessive fees from business user s that have limited alternative means to reach end users 
+5. Price 
+targeting 5.1. The p latform collects and  analyzes end-user data to assess each end user’s willingness  to pay 
+5.2. The platform maximizes profits by charg ing different prices for the same product or service based on end users’ price sensitivity  
+5.3. The platform prevents or restricts access of certain end users to more attractive offerings based on their willingness  to pay  
+6. Algorithmic 
+collusion  6.1. The platform relies on algorithms whose interactions with other algorithms may result in price collusion  
+6.2. The platform promotes price collusion by delegating pricing decisions to intermediaries 
+6.3. The platform relies on algorithms that learn to engage in tacit collusion  
+7. Ranking 7.1. The platform personalizes the set of choices or alternatives presented to end users in ways that do not benefit these end users 
+7.2. The platform relies on algorithms that exclude information or provide biased information to influence behavior not in the end users’ interest 
+7.3. The platform manipulate s ranking of products and services to favor commercial relationships  over end-user interest 
+7.4. The platform fails to communicate to end users that its rankings are not objective or biased to favor paying business users 
+7.5. The platform makes it difficult for end users to distinguish organic results from paid ads 
+7.6. The platform promotes paid offerings relative to more relevant offerings per the end user’s search criteria  
+
+
+8. Behavioral 
+manipulation  
+ 8.1. The platform collects and analyzes demographic or end-user behavior data in order to personalize its offerings in a way that limits end 
+users’ access to certain products or services  
+8.2. The platform use s algorithms and end -user data to exploit behavioral biases and vulnerabilities of end users in order to  manipulate their 
+purchasing decisions 
+8.3. The platform provides incentives that exploit end users’ emotional vulnerability to misguide end -user behavior 
+8.4. The platform uses algorithms that manipulate end users to choose inferior offerings  
+8.5. The platform uses personalization to promote digital addiction  
+8.6. The platform relies on algorithms to extend users’ engagement on the platform 8.7. The platform uses algorithms that manipulate end users to make impulsive purchases they would otherwise avoid 
+8.8. The platform relies on graphical user interface and website design elements to manipulate end users’ selections and choices  
+8.9. The platform is not transparent about the use of algorithms for manipulating prices, offers, or other options made availabl e to its users  
+8.10. The platform relies on information asymmetry  to take advantage of its users  
+8.11. The platform provides misguiding information to take advantage of its users  
+8.12. The platform conceals relevant information to manipulate or exploit its users 
+9. Data privacy 
+violation 9.1. The platform track s end users’ activities and collects sensitive personal information beyond what is needed for providing its services  
+9.2. The platform processes  and analyzes excessive sensitive personal information beyond what is needed for providing its services 
+9.3. The platform integrates end -user information across various websites without the end user’ s awareness  
+9.4. The platform constructs individual end -user profiles using sensitive personal information 
+9.5. The platform uses sensitive personal information to discriminate, exploit, or manipulate the behavior of end users, not per their interests  
+9.6. The platform shar es sensitive personal information with third parties 
+9.7. The platform does not provide end users with a genuine opportunity to preserve their privacy 9.8. The platform excludes end users who declin e its privacy policy 
+9.9. The platform does not clearly disclose to end users what information is gathered about them and how this information is being used  
+10. Exposure 
+to online harm 10.1. The platform uses algorithms that expose end users to various types of harm  
+10.2. The platform uses algorithms that enable end user s to inflict harm on each other 
+10.3. The platform ’s algorithms expose end users to harm caused by third parties such as hackers or criminals  
+10.4. The platform fosters addiction to undesirable products or services  
+10.5. The platform expos es users to offensive or exploitative content, e.g., hate speech, terror, bullying, child abuse, sexually explicit content 
+10.6. The platform fosters disinformation that shapes opinions and drives action such as protest or voting  10.7. The platform provides content that undermines public health, e.g., may lead to suicide or to forgoing medical treatment 10.8. The platform provides content that promotes the sale of undesirable products such as weapons, drugs, and human trafficking  10.9. The platform exposes users to cyberattacks, scams, and identity theft  10.10. The platform facilitate s or amplif ies extremism, hate speech, boycotts, disinformation, or fake news  
+10.11. The platform restricts media plurality, biases  media reports and perspectives , or promotes polarity in society  
+ 
+ 
+
+
+Table 5: How certification overcomes the limitations of regulation  
+Limitations of Regulation  Advantages of Certification  
+- Jurisdiction and geographical scope limits  
+- Typically serves a specific stakeholder group 
+- Ex post remedies after harm was done 
+- Slow reaction to new harmful practices  
+- Covers only forbidden harmful practices 
+  
+- Ambiguity  requiring judicial interpretation and 
+causing legal uncertainty  
+- Incompleteness , inconsistencies , and 
+formalistic interpretation  
+- Reliance on self -regulation 
+- Selective and weak enforcement  
+- Negative incentive (avoid penalties) 
+- Misaligned societal and corporate values  
+- Retains information asymmetry  
+- Remedies may not benefit stakeholders 
+- Fails to promote competition  
+- Stifling innovation by restricting practices  Consistent ly applies across geographies  
+ Serves multiple stakeholder groups 
+ Ex ante remedies to avoid harm 
+ Swift update of inspection scorecard 
+ Covers desirable practices and harmful yet 
+unforbidden practices  
+ 
+ Sets clear standards and enables  benchmarks  
+ Precise due to focus on algorithms 
+ Comprehensive scorecard  
+ 
+ Reliance on third-party inspection 
+ Voluntary but consistent for all certified  
+ Positive incentive (market share)  
+ Aligned societal and corporate objectives  
+ Reduces information asymmetry  
+ Remedies directly benefit stakeholders  
+ Promotes competition  
+ Encouraging innovation to  serve stakeholders  
+ Table 6: Limitations of certification and their remedies  
+Factors that Limit Certification Effectiveness  Remedies to Enhance Certification 
+Effectiveness  
+- Stakeholders care little about harms  
+- Lack of alternative platforms  
+ 
+- Limited competitive pressure  
+- Excessive certification cost  
+- Dominant platforms disincentivized  
+ 
+- Insensitivity to reputation spillover 
+- Users’ high switching costs 
+- Lack of qualified inspectors 
+- Risk of losing proprietary knowledge 
+- Difficulty of identifying new harms   Increasing backlash and media reaction  
+ Differentiation advantage for contenders  
+ Regulatory incentives for contenders 
+ End-user choice drives competitive pressure 
+ Government sponsorship, size- based fees  
+ New entrants and small platforms certify first  
+ Regulatory intervention forces certification 
+ Information sharing across stakeholders 
+ Establishing reputation and legitimacy  
+ Hiring experts, training, attractive terms  
+ Practices for IP protection and non- compete 
+ Stakeholder collaboration to tip inspectors  
+ 
+   
+ 
+    
+  
+
+
+Figure 1: Practices of digital platforms and their harmful impact on stakeholders  
+     
+                          
+                Direct        
+                  Indirect  
+          
+Exclusion  
+Discrimina�on  
+Censorship  
+Exclusivity  
+Price Targe�ng  
+Algorithmic 
+Collusion  
+Ranking  
+Behavioral 
+Manipula�on  
+Data Privacy 
+Viola�on  
+Exposure to 
+Online Harm  
+Business  
+Prac�ces  
+Restrict  
+Bias 
+Overcharge  
+Intrude  
+Addict  
+Mislead  
+Types of  
+Harm  
+Abuse  
+ 
+Compe�tors  
+ 
+Business Users 
+ 
+End Users  
+(Customers ) 
+ 
+Society  
+Harm to  
+
+
+Figure 2: Scenarios for the adoption and scaleup of digital platform certification   
+                             
+ 
+    
+    
+     Low                          Extent of platform certification                         High 
+Scenario 1 : Preemption  (Unlikely) 
+Scenario 2:  Limited Adoption  (Likely) 
+ Scenario 3: Sufficient Adoption  (Very likely) 
+Scenario 4: Market-Driven Adoption  (Somewhat likely) 
+Preemptive 
+Dominant 
+Platform  
+Contender 
+Platform s 
+Network 
+externalities  
+Contender 
+Platform s 
+Network 
+externalities  
+Competitive 
+pressure  
+Contender 
+Platform s 
+Network 
+externalities  
+Competitive 
+pressure  
+ Some 
+Dominant 
+Platform s 
+Competitive 
+pressure  
+Competitive 
+pressure  
+Differentiation  
+Differentiation  
+Differentiation  
+Other 
+Dominant 
+Platform s 
+Competitive 
+pressure  
+ 
+Dominant 
+Platform s 
+Regulatory  
+mandate  
+Regulatory 
+incentives & 
+protection 
+Dominant 
+Platform s 
+Competitive 
+pressure  
+Optional 
+regulatory  
+mandate  
+Uncertified  
+Platform s 
+Optimal 
+distinctivenes
+ 
+Necessary Conditions for Adoption  
+Users recognize 
+the value of 
+certification  
+Quality of 
+inspection 
+Reputation of certifying 
+organization  
+Disseminated 
+information on 
+certifications  
+Low           Extent of regulatory Intervention             High           
+
+
+ONLINE APPENDIX  
+ 
+Table 2: The chronological development of relevant regulation in the EU  
+Phase I Attempts of regulation as a reaction to digital liberalism  
+Implications  Limitations  
+Data Protection Directive  
+Directive 95/46/EC of the European 
+Parliament and of the Council of 24 
+October 1995 on the protection of 
+individuals with regard to the processing of personal data and on the free 
+movement of such data  1. First regulatory communitarian attempts to establish rules 
+for the protection of personal data  
+2. Aims to find a balance between safeguarding individuals’ 
+privacy and enabling the free flow of personal data in the EU 1. Lack of harmonization: leaving ample margin of 
+maneuver to the Member States  
+2. Did not set a solid system of compliance on the data 
+controller and processor  
+3. Possible to transfer personal data in non -EU countries, 
+where an adequate level of protection is not guaranteed   
+E-commerce Directive  
+Directive 2000/31/EC of the European Parliament and of the Council of 8 June 
+2000 on certain legal aspects of 
+information society services, in particular, electronic commerce, in the Internal 
+Market 1. Created a system of liability for service providers (mere 
+conduit, caching , and hosting). No direct liability on the 
+part of the service provider for any unlawful content 
+2. The service provider incurs liability when it fail s to 
+ensure the removal of any manifestly unlawful content, despite effectively being aware of it  1. Expression of digital liberalism: the aim is to promote e-
+commerce services without paying for  the protection of 
+relevant rights  
+2. The absence of any editorial liability, also with regards to copyright infringement, led to maintaining the flow of online content as free ly as possible, without any strict 
+regulatory “conditioning ” 
+Audiovisual Media Services Directive 
+(AVMS) 
+Directive 2010/13/EU of the European 
+Parliament and of the Council of 10 
+March 2010 on the coordination of certain provisions laid down by law, regulation or 
+administrative action in Member States 
+concerning the provision of audiovisual 
+media services  1. Broadened the scope of action including both “linear” 
+services (traditionally broadcasted by television networks), and “non- linear” or “on-demand” services 
+(platform -based services)  
+2. Created a framework for editorial responsibility ( but did 
+not apply to social media and social networks, due to the 
+exemptions set out by the E-c ommerce Directive)  1. Interpretative issues due to the many notions of AVMS 
+(art. 1 (1))  
+2. The territorial scope of the application was unclear 
+about providers established in non- EU states but 
+broadcasting content in the EU  
+Phase II The remedial dimension : Actions to limit abuses of power and reactions to the judicial activism  
+Implications  Limitations  
+AVMS Directive – Refit 
+Directive (EU) 2018/1808 of the 
+European Parliament and of the Council 
+of 14 November 2018 amending Directive 
+2010/13/EU 1. Established further rules concerning the regulation of 
+AVMS providers while also developing a new legal 
+framework for video -sharing platform service providers, 
+including new media services  
+2. New rules on jurisdiction and content management  1. Notions such as a “principal purpose ” and “essential 
+functionality” were unclear and led to judicial intervention 
+2. Grants more power to the Member States, also with 
+regard to enforcement (rules on minors, harmful 
+content, public interest) , with a risk of fragmentation 
+across states  
+
+
+General Data Protection Regulation 
+(GDPR) 
+Regulation on the protection of natural 
+persons with regard to the processing of 
+personal data and on the free movement 
+of such data, and repealing Directive 
+95/46/EC 1.New system of liability, with a risk -based approach,
+mainly residing in the principle s of transparency, data
+minimization , and accountability
+2. By establishing new rights and obligations, it was the first
+and more complete attempt to codify many of the rules
+that had previously been developed within the case law of
+the ECJ (i.e., the case law on the right to be forgotten,
+data retention , and transfer of personal data)
+3.Elevated the right to data protection from an
+economically informed interest under Directive 95/46 intoa right to privacy inherent to the constitutional framework
+that had in the meantime been codified in the Charter of
+Fundamental Rights, in article s 7 and 8
+4. Reflected many constitutional values of the EU by
+creating a model for other States (the Brussels Effect).1.Fragile enforcement of the GDPR due to the high -level
+compliance requested from data controllers /processors
+2.Principles-based regulation created challenges in the
+practical application of the compliance measures. The
+case-by-case regulation can  undermine legal certainty
+3.Its technologically neutral approach created challengesfor identifying the adequate level of protection of the
+data subjects’ rights (i.e., concerns of cybersecurity)
+4. The GDPR is overfocused on the nature of the data (i.e.,
+health, personal, related to criminal records), rather than
+on their application or the actual context in which the
+data are processed
+Digital Single Market Directive (DSM 
+Directive)  
+Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 
+2019 on copyright and related rights in the 
+Digital Single Market and amending Directives 96/9/EC and 2001/29/EC 1.Set rules on copyright protection within the digital
+context, while amending the previous liability regime
+2. Creates new copyright exceptions, such as text and data
+mining exceptions that are introduced in the interest of
+universities and research centers
+3. The Directive aims at rebalancing the unequal distribution
+of the value generated by the digital exploitation of
+protected works and content among the various actors in
+the chain, in particular between authors and service
+providers offering “ space” for the online distribution of
+the content generated by the former (the so- called best
+efforts clause)1.The DSM set new copyrights for press publishers whose
+content is posted by digital platforms  that must
+remunerate the publisher for their use, but this may
+make access to information available only to those who
+can afford paying a subscription fee
+2. Article 17 also requir es video sharing platforms, such as
+YouTube, to obtain a license for copyrighted content
+uploaded by users or to filter such content, which makes
+the platform a paid service
+3.These two provisions were not consistently translated byall the Member States, creating challenges for the
+implementation and actual enforcement of the law
+Omnibus Directive  
+Directive (EU) 2019/2161 of the 
+European Parliament and Council of 27 
+November 2019 amending Council 
+Directive 93/13/EEC and Directives 
+98/6/EC, 2005/29/EC and 2011/83/EU of the European Parliament and Council for 
+the better enforcement and modernization 
+of Union consumer protection rules  1.A reaction to the increasing power of the platforms in
+setting prices;  establishes new transparency rules, since it
+forces platforms to inform users about the criteria used to
+classify platform offers and establish es stronger penalties
+for violations of these criteria1.Risk of fragmentation on the implementation and
+enforcement of the Directive, as well as of the complex
+framework of EU consumer law
+
+
+P2B Regulation  
+Regulation (EU) 2019/1150 of the 
+European Parliament and of the Council 
+of 20 June 2019 on promoting fairness 
+and transparency for business users of 
+online intermediation services  1. As in the case of the Omnibus Directive, the P2B 
+Regulation establishes new transparency rules for 
+platforms to favor smaller businesses and traders relying 
+on search engines and online platforms such as online 
+marketplaces, app stores, certain price comparison tools , or 
+business pages on social media for their activities  1. A risk of establishing a high level of compliance that 
+fragments the business user ’s (and end user’s ) rights 
+while not being as strong as expected, since the 
+regulation mainly deal s with transparency obligations 
+(namely, it sets out compliance rules that impact the 
+contents of their terms and conditions)  
+Phase III The horizontal approach to reverse the risk of fragmentation: Toward the procedural dimension  
+Implications  Limitations  
+Digital Services Act (DSA)  
+Regulation (EU) 2022/2065 of the 
+European Parliament and of the Council 
+of 19 October 2022 on a Single Market 
+For Digital Services and amending 
+Directive 2000/31/EC 
+ 1. Addresses issues such as the responsibility of online 
+intermediaries for content uploaded by third parties, online user safety , and asymmetric due diligence 
+obligations for the various providers of information society services, thereby amending the original provisions 
+on e-commerce set out in Directive 2000/31/EC  
+2. Adopts a quantitative approach as per the scope of 
+application of the Regulation: it applies to those digital platforms that, taking account of the number of users and 
+the volume of data to which they have access, are 
+considered particularly influential on the digi tal market  
+3. From a normative point of view, and following the path 
+opened by the GDPR, the DSA follows a risk- based 
+approach with the aim of balancing the information 
+asymmetry of users vis-à-vis providers  1. On a substantive note, the introduction of obligations, 
+and of the connected penalties, might give rise to concerns regarding the risk of collateral censorship to 
+the detriment of users. The regulation tries to temper 
+these possible backlashes by introducing provisions that seek to mitigate these risks, especially through the 
+introduction of measures aimed at fostering 
+transparency concerning the activities of providers  
+2. Unlike a regulation, which applies directly across the EU, a directive can lead to a patchwork of slightly 
+different laws across member state s 
+3. The obligations in the directive are especially costly for 
+SMEs and self -defeating for the digital sector  
+Digital Markets Act (DMA)  
+Regulation (EU) 2022/1925 of the 
+European Parliament and of the Council 
+of 14 September 2022 on contestable and 
+fair markets in the digital sector and 
+amending Directives (EU) 2019/1937 and (EU) 2020/1828 1. The DMA constitutes a new regulatory instrument 
+designed to limit the economic power held by 
+“gatekeepers” (quantitative approach), i.e., digital 
+platforms that mediate  between business and end users 
+2. Establishes a new set of rules by centralizing the 
+enforcement and control of the competition and antitrust 
+law in the hands of the European Commission. It also 
+adopts a risk-based approach by presuming monopoly 
+power and anticompetitive effects of those actors  
+3. Aligns with the P2B Regulation concerning  the role of 
+online intermediation service (consequences for banks that deal with online platforms while providing them with 
+payment service – i.e., the Apple wallet investigation)  1. The DMA, unlike the DSA, does not amend and 
+substitute a previous law. A web of concurrent legal instruments surrounds the DMA , e.g., the EU and 
+national competition laws; arts.  101 and 102 of the 
+Treaty on the Functioning of the European Union 
+(TFEU) or a national law equivalent. The parallel 
+application of these instruments could result in duplicate 
+proceedings, in breach of the principle that protects 
+individuals from being prosecuted or punished twice  
+2. The DMA abandons the ex post approach of competition 
+law, opting instead for the imposition of ex ante  
+obligations. Once designated as a gatekeeper, a firm 
+becomes subject to the DMA obligations independently 
+from the actual risks of abuse and prohibition  
+
+
+3. Creates a gr ay area with regards to the compliance 
+obligations of online intermediation service  
+4. Unlike a Regulation, which applies directly across the 
+EU, a Directive can lead to a patchwork of slightly 
+different laws across member states  
+Both the DSA and the DMA, in contrast to previous legislation on platforms and service providers, adopted a horizontal and procedural application that characterizes  the second 
+season of European digital constitutionalism  
+Phase III The peculiarities of the artificial intelligence (hybrid) regulatory approach  
+Implications  Limitations  
+AI Act  
+Regulation (EU) 2024/1689 of the 
+European Parliament and of the Council 
+of 13 June 2024, establishing  harmonized 
+rules for artificial intelligence and 
+amending Regulations (EC) No 300/2008, 
+(EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 
+2019/2144 and Directives 2014/90/EU, 
+(EU) 2016/797 and (EU) 2020/1828 
+(Artificial Intelligence Act)  1. The first attempt to regulate the use and deployment of 
+artificial intelligence systems; b y adopting a risk- based 
+approach, the regulation underlines five areas of 
+application of AI  
+2. Sets a new definition for AI and creates compliance 
+measures for AI users ; builds on the GDPR, taking its  
+structure and some of the principles, such as transparency  
+3. Unlike the DSA and the DMA, the AI Act does not follow a horizontal approach, but adopts a product- wise 
+one, focusing more on the application of the AI systems and the implications of consequent decisions; lacks 
+concern toward the imbalances of powers that are instead 
+the core focus of both the DSA and the DMA 1. The first potential issue concerns the legal basis for the 
+AI Act: article 16 TFEU on personal data and a rticle 
+114 TFEU, which provides a broad competence for 
+approximating the internal markets of EU Member 
+States 
+2. Broad margin of maneuver ability to Member States for 
+establishing specific rules for the deployment of biometric systems for public interest, as well as 
+defense (which is not under the scope of the 
+Regulation) 
+3. The AI Act fails to address specific concerns on the programming phase of an artificial intelligence system,  
+by only establishing quite broad and general rules. The 
+risk is indeed to rely solely on the GDPR, which does 
+not specifically concern this aspect but focuses more 
+on the origin of data (art. 6). Ultimately, the risk is the lack of bridge with other disciplines, as art. 16 is used 
+as a legal base for the Act, and with other regulatory 
+attempts ( Council of Europe Convention on AI) 
+4. The risk-categorizing AI tools, without considering 
+further circumstances, realizes an imprecise evaluation of the level of risk associated with AI 
+5. The regulatory approach is far from the proportionality 
+test required in assessing fundamental rights  
+6. The AIA’s inclusion of “trustworthiness ” as a synonym 
+for “acceptability of risks” is an insufficient foundation 
+for such a wide -ranging and potentially transformative 
+legislative framework  
+
+
+7. The AIA requires defining technical requirements and 
+compliance specifications for AI systems, but delegat es 
+the specification of details to private organizations that 
+may overlook ethical considerations and fundamental 
+rights, complicate public oversight and enforcement as 
+a result of varied governance and regulatory 
+capabilities  
+8. The obligations in the regulation are especially costly 
+for SMEs and self- defeating for those operating in the 
+digital sector  
+Second Draft  of the General-Purpose 
+AI Code of Practice 1. The code covers transparency and copyright rules, 
+systemic risk assessment, technical mitigation of 
+systemic risk, and governance risk mitigation 
+2. Emphasizes the need for a proportional approach to 
+different types of risk, distribution strategies, and 
+implementation contexts, with respective  measures and 
+KPIs adapted to the model’s risk level and  provider’s 
+capacity (e.g., SMEs and startups) 
+3. Introduces a taxonomy of systemic risks, including cyber 
+risks, loss of human control, manipulation, 
+disinformation, and AI “lawlessness,” to  identify and 
+mitigate risks of general -purpose AI models  
+4. Providers must ensure transparency by publishing updated versions of their frameworks and model reports, 
+with possible redactions to protect commercially 
+sensitive information  
+5. The code follows a co-regulation approach, involving 
+public and private actors, where the law defines objectives and standardization organizations provide the 
+means to achieve them  1. The code relies on a co -regulation approach, delegating 
+the definition of technical standards to private 
+standardization organizations. This raises concerns 
+about democratic legitimacy, the influence of 
+commercial interests, and the accountability of the 
+private entities involved  
+2. The code also delegates the definition of ethical 
+aspects and fundamental rights to standardization 
+bodies, which are inherently complex, contextual, and 
+difficult to standardize  
+3. The code, in trying to cover a wide range of aspects, 
+can be complex and difficult to implement for 
+providers, especially small and medium -sized 
+enterprises. There could be overlaps with existing regulations  
+4. Some commitments and measures are still vague and 
+need further clarification to be implemented in 
+practice; t he lack of clarity can lead to different 
+interpretations and difficulties in the uniform 
+application of the code  
+AI Liability Directive (proposal)  
+Proposal for a Directive of the European 
+Parliament and Council on adapting noncontractual civil liability rules to 
+artificial intelligence  
+COM(2022) 496 final  1. Sets out rules on the burden of proof of potential 
+damages provoked by a rtificial intelligence systems  1. The Directive does not take into consideration whether 
+to assign specific legal subjectivity to AI systems ; it 
+does not take a  position on this matter , and civil 
+liability is assigned to programmers/deployers  
+
+
+Table 3:  The chronological development of relevant regulation in the US 
+The (liberal) approach to online platforms  
+Implications  Limitations  
+Communication s  
+Decency Act  
+Title V of the 
+Telecommunications Act of 
+1996, Pub. L. No. 104 (Feb. 
+8, 1996) 1.Safe harbor doctrine (Section 230(c)(1)): online intermediaries
+are exempted from liability for the unlawful conduct of third
+parties on their platforms
+2. Good Samaritan Clause (Section 230(c)(2)): digital platforms
+that voluntarily decide to intervene and remove content –
+uploaded by third parties and considered inappropriate – cannot
+be found liable
+3. This approach encourages the development of information
+society services, protecting freedom of economic initiatives and
+avoiding holding liable actors that do not have effective control
+over the contents they host1.The scope of the regulation is unclear: Section 230 does not
+provide immunity for federal criminal law claims
+2.Lack of coherence: some states have more stringent duties and
+responsibilities for online intermediaries
+Digital Millennium 
+Copyright Act  
+Pub. L. No. 105- 304, 112 
+Stat. 2860 (Oct. 28, 1998) 1.The Act adopted an “omnibus approach, ” applicable to any
+violations of any copyrighted materials
+2.Introduced a notice and takedown mechanism (Sec. 512).1.The scope of the Act is limited exclusively to content infringing
+copyright and does not cover any other type of illegal content
+2.Sec. 512 still reflects an imagery of digital platforms as neutral
+and passive actors, which is inconsistent with the developments
+in the past couple of decades
+Privacy protection between the EU and the US federal law  
+Implications  Limitations  
+Safe Harbor Privacy 
+Principles  
+(2000–2015) 1.US firms could self -certify compliance with “adequate level of
+protection” requirements set by the EU  law
+2.US firms could transfer data of EU citizens1.Did not provide EU citizens  substantial protection of their
+fundamental rights, such as the possibility of a judicial redress
+2.Firms did not have to undergo annual compliance checks, since
+it was a self -certification mechanism
+Judicial Redress Act  
+[H.R. 1428] Public Law 114–126 114th Congress, 
+24 February 2016 1.Demonstrat es the US’ dedication to addressing data protection
+concerns raised by the EU, with the hope of enhancing trust in
+US data protection standards
+2. Expanded the judicial redress provisions of the US Privacy Act
+of 1974 to include foreign countries with whom the US entered
+into agreement s that guarantee appropriate privacy protection1.Uncertain impact on the US’ ability to meet EU data protection
+standards or resolve the concerns about US government accessto personal data in the trade sector
+EU-US Privacy Shield 
+(2020) 1.Strengthened the obligations of US firms that import personal
+data from the EU, requir ing robust commitments concerning the
+processing of personal data and guaranteeing EU data subject1.No explicit obligation for firms to delete personal data once its
+processing was no longer necessary for the purpose of its
+collection;
+
+
+rights (e.g., notice obligations, data retention limits, higher 
+security requirements)  
+2. Stronger enforcement of the provision was guaranteed thanks to
+the monitoring compliance activity performed by the
+Department of Commerce
+3.US authorities provided assurances that clear limitations,safeguards, and oversight mechanisms will govern the handling
+of EU personal data
+4.Redress mechanism s were provided for users to directly
+complain to firms or to EU data protection authorities, with t he
+possibility of providing an alternative dispute resolution
+mechanism2.Assurances from US officials, safeguards of bulk data access
+were deemed insufficient by the EU  Court of Justice . The
+Privacy Shield was deemed insufficient under the GDPR
+Trans-Atlantic Data 
+Privacy Framework (TADPF)  
+(2022) 
+Still under review  1.Data can flow freely and safely between the EU and US firms
+2.A comprehensive set of regulations and enforceable protections
+will be implemented to restrict US intelligence agencies ’ access
+to data within the boundaries of necessity and proportionality
+3.A new system will be introduced to address the complaints ofthe Europeans about access to their data by US intelligence
+authorities. The system will have two levels of redress,
+including a file to the Data Protection Review Court (DPRC)
+4.The duty for firms that process data transferred from the EU to
+self-certify their adherence to the principles through the US
+Department of Commerce will remain in place , and there will be
+strong obligations for them to comply with, with  monitoring and
+review mechanisms1.The DPRC would not act as a court, but rather as an executive
+body within the US government, and the appeal proceedingwould not meet the standards of a judicial remedy as required by
+the EU
+2. The DPRC, when addressing complaints, would not disclose to
+individuals whether they have been targeted by intelligence
+3. It would not be ensured that the words “necessary ” and
+“proportionate” hold an identical definition in the US legal
+system as they do in the EU legislation
+Privacy protection at state -law level in comparison to GDPR  I† 
+Issues CCPA and CPRA  GDPR CCPA and CPRA  
+Limitations 
+Law enforcement body The Attorney General of the State of California (USA)  EU Member States Privacy 
+National Authorities  1.These regulations  only
+apply to for -profit
+businesses that meet
+certain thresholds for data
+collection and sale or
+disclosure of personal
+information. This excludesApplicability  Businesses operating for profit in California that meet any of the 
+following criteria: (i) have a gross annual revenue exceeding $25 million; (ii) buy, sell, or share personal information of more than 
+100,000 California households, residents, or devices; o r (iii) Any entity, firms (including 
+nonprofit organizations), natural persons, public bodies, etc., based 
+† This section of the table is based on Nicola and Pollicino (2020). See also www.iubenda.com/it/help/19153- guida-ccpa. 
+
+
+generate 50  percent or more of their annual revenue by selling the 
+personal information of California residents  in the EU and offering goods or 
+services to EU citizens  many nonprofit 
+organizations and smaller 
+businesses  
+2. Compared to the GDPR , 
+these regulations lack 
+strong “data minimization ” 
+requirements. Businesses 
+still have significant 
+leeway in the amount of data they collect on 
+consumers 
+3. Currently , these regulations  
+lack a private right of 
+action, meaning consumers cannot directly sue 
+businesses for violations. 
+Enforcement relies on the 
+California Attorney 
+General’s office, which has 
+limited enforcement 
+capacity 
+4. These regulations include 
+exemptions for certain data 
+categories, such as employee data and non-
+public education 
+information. This limits the 
+overall reach of the 
+legislation  Scope All information that relates to or can be associated with a particular 
+consumer or household, with the exception of public records  All information referable to an 
+individual  
+Requesting consent prior to 
+treatment  Only for minors and in cases of previous opt -out Always (except based on specific 
+law) 
+Obligation to give users the possibility to object or 
+withdraw consent  Yes, opt-out requests must be implemented via link Do Not Sell My Personal Information on the relevant website Users have both the right to 
+withdraw consent and the right to 
+object to processing (also 
+applicable in cases where 
+processing is justified by a legal 
+basis other than consent)  
+Protections also applicable in a B2B context No, the CCPA and CPRA only protect consumers The GDPR makes no distinction 
+between B2B and B2C, but simply applies its protections to “data subjects, ” i.e., any 
+“identifiable natural person ” 
+residing in the EU  
+Security requirements  The CCPA and CPRA do not provide for specific safety requirements, but they give consumers the right to sue for damages resulting from a firm’ s failure to implement adequate safety 
+measures The GDPR requires both 
+controllers and processors to 
+implement appropriate security 
+measures in line with the latest 
+standards  
+Consequences of non-compliance  Penalties of up to $7500 per single violation. In addition, consumers have the right to sue companies that violate the law  Fines of up to €20 million or up to 
+4 percent of annual worldwide 
+turnover (whichever is greater) in 
+liability damages. The GDPR also gives data subjects the right to 
+take legal action if their rights are 
+violated 
+Privacy protection at state -law level in comparison to GDPR II  
+Issues California Delete Act  GDPR California Delete Act  
+ Source of law  Amendment to Civil Code  EU Regulation  The California Delete Act 
+supplements the CCPA,  
+focusing on the right of data’ s 
+subject to delete their own Data agent  “Data broker ” means a business that knowingly collects and sells to 
+third parties the personal information of a consumer with whom the 
+business does not have a direct relationship  “Controller ” means the natural or 
+legal person, public authority, 
+agency, or other body which, 
+
+
+alone or jointly with others, 
+determines the purposes and 
+means of the processing of 
+personal data  information. Refer to the table 
+above for limitations  of the 
+CCPA 
+Timing of enactment By January 1, 2026, the agency is tasked with creating an accessible 
+deletion mechanism that:  
+1.Maintains reasonable security procedures and practices
+2.Allows a consumer to request that any personal informationrelated to that consumer held by the data broker or associated
+service provider or contractor will be deleted
+3.Allows a consumer to selectively exclude specific data brokers
+from the request 
+4.Allows a consumer to alter a previous request
+Beginning January 1, 2028, regular audits of data brokers’ 
+compliance every three years are mandated, with reports submitted
+to the California Privacy Protection Agency.In force 
+Deletion request  The mechanism enables consumers to request the deletion of their 
+personal information held by data brokers through a single, verifiable Request  The data subject has the right to 
+obtain the erasure of personal data from the controller without undue 
+delay if, among others :  
+1. The data are no longernecessary for their original
+purpose
+2.The data subject withdraws
+consent
+Refusal of delete A broker can deny the request of deletion on different grounds, such as the request is not verifiable, the request is not made by a 
+consumer, the request calls for information exempt from deletion, it 
+is reasonably necessary for the data broker to keep the personal 
+information to fulfil a legitimate purpose  The right to erasure is not 
+permitted when processing is necessary for , among others :  
+1. Exercising the right of freedom
+of expression and information .
+2. Complying with legalobligations or performing tasks
+in the public interest or official
+authority
+Timing for deletion  A mandatory requirement for data brokers to delete consumer 
+information at least once every 45 days after a deletion request  The data subject shall have the 
+right to obtain from the controller 
+
+
+the erasure of personal data 
+without delay  
+Fines Data broker that fails to comply with the requirements pertaining to 
+the accessible deletion mechanism described above is liable for 
+administrative fines, fees, expenses, and costs. In particular, an 
+administrative fine of $200 for each deletion request for each day 
+the data broker fails to delete information as required  Each supervisory authority shall 
+ensure that the imposition of administrative fines in respect of 
+infringements of the GDPR shall 
+in each individual case be 
+effective, proportionate, and 
+dissuasive  
+The US regulation of AI  
+ Implications  Limitations  
+Algorithmic 
+Accountability Act of 2023  
+ 1. Establishes a fundamental obligation for firms to evaluate the 
+effects of automatic decision -making, encompassing both 
+existing and newly automated decision processes  
+2. Imposes evaluation of the impact on both the firms implementing critical decisions and the technology developers 
+enabling these processes  
+3. Mandates the submission of specific impact assessment 
+documents to the FTC 
+4. Entails that the FTC annually releases an aggregated report on trends, with anonymized data, and establishes a repository 
+where consumers and advocates can access information about firms’ automated critical decisions  
+5. Establishes a dedicated Bureau of Technology to enforce the legislation and provide technical support to the EU Commission 
+in matters related to technology  1. Applicable solely to “large companies ,” i.e., meeting any of the 
+following criteria: (i) having an annual turnover exceeding $50 
+million, (ii) possessing an equity value surpassing $250 million, 
+or (iii) handling the information of more than 1 million users. 
+Government agencies and local govern ments are excluded  
+2. Aims to promote fair decision-making by ensuring equal 
+treatment of individuals and equitable outcomes for protected groups. However, this is challenging and difficult to fully 
+comply with, since besides significant economic investments, 
+this may hinder the ac tivities of the actors involved  
+3. Much less detailed than the EU AI Act; many important choices 
+on policy design are delegated to the FTC 
+California Defending 
+Democracy from 
+Deepfake Deception Act 
+of 2024 (DDDDA)  1. The act defines “materially deceptive content ” as one created or 
+digitally altered to falsely appear authentic, includ ing deepfakes 
+and chatbot outputs. Such  content could harm a candidate ’s 
+reputation, undermine trust in elections, or deceive voters 
+2. Major online platforms should have procedures to identify and 
+remove deceptive content, label content as “inauthentic ” or 
+“manipulated, ” and provide explanations to users. Such content 
+must be removed within 72 hours of notification  
+3. Major platforms must provide an easy way for California 
+residents to report content that should be removed or labelled  1. The act only relates to elections in California.  
+2. The restrictions on content removal and labelling apply only near elections time (120 days before election for candidates) 
+3. The act aims to balance freedom of expression with the need to 
+protect the integrity of elections. The definitions of “deceptive 
+content” are targeted and narrow to avoid excessive restrictions  
+4. The act, particularly the sections amending the civil procedure 
+code, is valid until January 1, 2027, unless extended by further 
+legislation  
+
+
+Dovev Lavie is a full professor of strategic management at Bocconi University. He earned his PhD 
+at the Wharton School of the University of Pennsylvania. His current research focuses on the design 
+of prosocial digital platforms for addressing societal challenges per his book The Cooperative 
+Economy (Routledge, 2023). H e also studied value creation and capture in alliances and the 
+balancing of exploration and exploitation.  
+Oreste Pollicino is a full professor of Constitutional L aw at Bocconi University . He earned his PhD 
+at the University of Milan. His research focuses on the intersection of constitutional law, digital 
+rights, and AI governance, with a particular emphasis on European media regulation and platform 
+accountability . He serves as the Italian representative at the European Union Agency for 
+Fundamental Rights and has acted as the Honest Broker for the Code of Practice against 
+Disinformation. Additionally, he is an editorial board member of leading journals on digital law and 
+has advised EU institutions on regulatory matters shaping the digital landscape. 
+Tommaso Valletti is a professor of economics at Imperial College London and adjunct professor at 
+the Norwegian School of Economics. He is an expert in industrial organization and competition 
+policy. His current research focuses on the link between market power and political power. Between 
+2016 and 2019 he was the Chief Competition Economist of the European Commission.  
+
+

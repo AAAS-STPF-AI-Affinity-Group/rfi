@@ -1,0 +1,227 @@
+ 
+ 
+ 
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated documents without 
+attribution.         Observer Research Foundation  
+ 
+ 
+Artificial Intelligence ( AI) Action Plan: Recommendations to the National 
+Science Foundation and the Office of Science & Technology Policy  
+ 
+ 
+Introduction  
+ 
+On January 23, 2025, President Trump issue d the Executive Order 14179 , marking a shift in 
+American  domestic and foreign policy towards AI development. The objective of the Trump 
+administration is to “sustain and enhance America’s global AI dominance in order to promote 
+human flourishing, economic competitiveness, and national security.”i To achieve the stated 
+objectives, the US  will need to balance a pro -innovation approach domestically with a pro -security 
+foreign policy. The following sections suggest two  regulatory themes towards this end: 
+reprioritizing domestic policy through the AI Safety Institute and federal regulations  and  adjust ment  
+of export controls towards strategic partners . 
+ 
+ 
+ 
+1. Modifying the mandate and operations of the US AI Safety Institute  
+  
+  
+The US AI Safety Institute (AISI) was established  in 2023  with a focus on  AI risk mitigation, 
+regulatory oversight, and responsible AI deployment. However, with  President  Trump’s emphasis 
+on the “removal of barriers to American AI innovation” and “global leadership in AI ,” ii the Institute’s 
+priorities  may  need to shift towards minimizing bureaucratic  and regulatory  hurdles,  boosting  AI 
+competitiveness, and  building  a pro -business AI ecosystem.  The following actions could be 
+considered.  
+  
+1.1 Shifting towards  self -regulation and  market -driven AI governance  
+  
+   •     Industry  self -regulation:  Increasingly, the AISI will need to advocate for  market -driven AI 
+ governance, and light -touch  regulations.  For certain sectors, it  could work towards 
+ replacing  AI compliance requirements embedded in law  with  voluntary industry -driven 
+ standards  akin to Australia’s Voluntary AI Safety Standard, which includes guardrails that 
+ apply to all organizations across the AI supply chain. iii Such an approach would encourage 
+ self -regulation, while allowing businesses to scale AI applications rapidly.  The AISI must 
+ push for industry’s self -regulation  commitments to be upheld, with the establishment of 
+ mechanisms for transparency and information -sharing. iv 
+ 
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated documents without 
+attribution.  •Light-touch transparency requirements:  Prior to Executive Order 14179 issued by the
+Trump administration, Executive Order 14110v issued by the previous administration had
+served as a federal guidance for AI regulation. In the absence for a federal regulation, the
+American AI landscape is being governed primarily by state -led initiatives. Given that
+Executive Order 14179 calls to establish  a pro-innovation approach without introducing
+onerous regulatory burdens for the AI sector, issuing federal transparency requirements for
+highly capable multi -modal frontier AI models  can be considered  as a light-touch measure .
+Developers can be directed to ensure that AI generated outputs from models that cross a
+defined monthly user threshold have latent identification elements like machine -readable
+watermarks. The approach will facilitate inter -state regulatory consistency and dovetail
+with state -led bills like the Artificial Intelligence Policy Actvi passed by the state of Utah and
+AI Transparency Actvii passed by the state of California in 2024.
+•Legal  compliance:  In areas  such as national security and critical infrastructure,  however,
+more stringent  requirements for legal  AI compliance should be retained. The AISI could 
+identify and list these domains,  clearly differentiating them from those where self -
+ regulation  may  suffice.  
+1.2 Adopting a pro -business approach to the AISI’s Strategic  Goals  
+•AI regulatory sandboxes:  The AISI’s Strategic  Goals  calls for addressing the  underdeveloped
+testing, evaluation, verification and validation  (TEVV)  methods  for AI. viii The Institute could 
+actively  begin  supporting  the establishment of AI  regulatory sandboxes where firms can 
+experiment with advanced AI models and associated TEVV in real -world settings before 
+full-scale deployment. This would also enable AI startups and corporations  to develop 
+breakthrough applications without regulatory delays.  
+•AI skilling:  The AISI present Strategic Goals also highlight  the importance of “supporting
+institutions, communities and coordination, around AI safety .” ix This needs to be expanded 
+to consider supporting AI  sustainability  rather than safety alone.  A core element of AI 
+sustainability – in keeping with President Trump’s vision of job creationx – will be to create 
+new jobs through AI re -skilling. The AISI should therefore prioritize the design  and execution 
+of AI workforce training and re -skilling  programs  which include an element of 
+sensitization about AI safety. The launch of a  National AI Workforce Initiative  within  
+the AISI, which  partners  with private firms to train American workers in  AI-driven 
+industries,  could be considered.  
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated documents without 
+attribution.  1.3 Building  R&D capacities and leveraging  international collaborations  
+• National AI Acceleration Fund:  AI innovation and leadership will require greater
+investments in domestic research and development (R&D), and a  National AI
+Acceleration  Fund  could be set up  within  the AISI to drive R&D investment in  areas
+including  autonomous systems, defense AI, and industrial automation.
+•Public-interest AI:  The establishment of computing clusters that serve public interest may
+help align domestic policy with President Trump’s stated goal of using AI to promote human
+flourishing. For instance,  California has introduced CA SB53 to construct a public
+computing cluster, ‘CalCompute, ’ xi  to offer researchers and businesses the resources to
+develop AI that serves the public interest.  Similarly, t he federal government can establish a
+National Compute Cluster to facilitate the development of frontier open -source AI models.
+Given that Chinese open -source frontier models have emerged as a critical threat to
+American leadership in the global AI landscape, fronti er models facilitated by a National
+Compute Cluster will help sustain American competitiveness in the open -source market.
+• International Network of AI Safety Institutes:  The US AISA is a part of the International
+Network of AI Safety Institutes launched in 2024. xii It must  collaborate with the Network’s
+members on joint R&D  projects which could  eventually  boost domestic capacities for
+innovation.  As the AISA reprioritizes its areas of work it must strategically seek out these
+international partnerships.
+2.Adding flexibility to export controls to foster strategic partnerships
+2.1 Increasing export caps through the Validated End Use r Authorization  program  
+On January 15 , 2025 , the Bureau of Industry and Security  released the Framework of Artificial 
+Intelligence Diffusion (FAID) as the latest amendment  to US export controls for regulating the 
+diffusion of advanced chips and computing capacity . The methodology adopted by the FAID divides 
+countries into three tiers. Entities based in top -tier countries are eligible for ‘Universal Validated 
+End User’ (UVEU) authorization , thus allowing them to manufacture, deploy and export cutting -
+edge chips  with negligible restrictions in top -tier countries . 
+While the FAID succeeds at setting clear standards for  acquiring licenses, a case -by-case 
+approach towards middle -tier countries may prove to be beneficial.  Longitudinally, i ncreasing the 
+export cap on compute capacity from UVEUs to National Validated End User (NVEU)  entities  in 
+countries that have economic and military agreements with the US  should be considered . For 
+instance, the export limit on compute for NVEU  authorized entities and one -time export licenses 
+for entities in  middle -tier countries should be increased if the host country implements adequate 
+
+
+ 
+ 
+ 
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated documents without 
+attribution.  protocols for cybersecurity, supply -chain independence from embargoed countries, physical 
+systems security, model weight security and so forth.  Increasing compute export to  large  and 
+strategic markets will ensure that favored middle -tier countries , such as those participating  in 
+alliances like I2U2 (India, Israel, UAE, US)  are better able to meet their compute requirements, 
+ensuring a deeper integration into the US supply chain  and meeting President Trump’s stated goal 
+of sustaining American leadership in AI development.  
+ 
+ 
+2.2 Creating a pathway to acquire UVE U Authorization  
+ 
+In order to cultivate a cooperative geopolitical and technological international order that 
+disincentivizes  bad actors, US export controls should incentivize  regulatory and governance 
+alignment with strategic partners. Middle tier -countries  may be more likely to  establis h supply 
+chain independence from embargoed nations  if a pathway for acquiring UVEU status is present .xiii 
+Private entities and countries in the middle -tier may perpetually face uncertainties in developing 
+local AI ecosystems in the absence of such a pathway which will in turn hinder the consolidation 
+of a U S-led global AI ecosystem. On the basis of government -to-government agreements, 
+compliance verification  and regularly validated security proto cols, formulating a pathway to a 
+Conditional Universal Validated End User  status  for middle -tier countries  in the forthcoming AI 
+Action Plan  should be considered . 
+ 
+2.3 Exempting Open -Weight Frontier Models  
+ 
+An exemption to US export controls in the FAID applies to AI developers in middle -tier countries 
+that develop open -source models, even when said models exceed the 1026 FLOP s limit .xiv 
+However, the recent release of open -weight models like DeepSeek R1 suggests that algorithmic 
+distillation and optimization techniques can be used to develop open models competitive with 
+closed US frontier AI models. Narrowing US export controls to restrict the development of open 
+models in middle -tier countries may run counter to US interests by allowing China to position itself 
+as an alternative provider of open -source stack s.xv To avoid this scenario, international 
+partnerships , accelerator programs  and research collaborations can be utilized to cultivate an 
+open -source ecosystem that aligns with US interests. Building on previously stated 
+recommendations, establishment of an International Democratic Compute Cluster between the 
+US and key partners should  be considered.   
+ 
+ 
+ 
+Conclusion  
+ 
+The recommendations stated in this paper are pursuant to  the Trump administration’s objective of 
+sustaining and enhancing US leadership in AI development. The recommendations articulate 
+necessary regulatory tools like R&D initiatives, acceleration funds, public -interest compute 
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated documents without 
+attribution.  clusters  while minimizing regulatory burden on AI developers based in the US. However, given that 
+the AI supply chain and consumer base is globally distributed, sustaining US leadership will involve 
+incentivizing countries to integrate into the US AI ecosystem. To facilitate this integration, 
+introducing gradations in the middle -tier of the FAID based on inter -governmental ties and  
+agreements can be useful. Recent advances in open -weight frontier model development in China 
+present  the possibility of an alternative AI ecosystem misaligned with strategic and national 
+security interests of the US and its allies. While narrow export controls may be effective in the short 
+term, a balanced approach that acco unts for the computing and infrastructure needs of 
+geopolitically aligned  countries may prove to be more sustainable for ensuring US leadership.  
+i The White House, Removing Barriers to American Leadership in Artificial Intelligence , United States 
+Government, 2025, https://www.whitehouse.gov/presidential -actions/2025/01/removing -barriers-to-
+american -leadership -in-artificial-intelligence/   
+ii “Removing Barriers to American Leadership in Artificial Intelligence”, The White House , 
+https://www.whitehouse.gov/presidential -actions/2025/01/removing -barriers-to-american -leadership -in-
+artificial-intelligence/   
+iii https://www.industry.gov.au/publications/voluntary -ai-safety-standard#:~:text=   
+iv Melissa Heikkila, “AI companies promised to self -regulate one year ago. What’s changed?”, MIT Technology 
+Review, July 22, 2024, https://www.technologyreview.com/2024/07/22/1095193/ai -companies -promised -
+the-white-house-to-self-regulate-one-year-ago-whats-changed/ .  
+v The White House, Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial 
+Intelligence , United States Government, https://bidenwhitehouse.archives.gov/briefing -room/presidential -
+actions/2023/10/30/executive -order-on-the-safe-secure-and-trustworthy -development -and-use-of-artificial-
+intelligence/   
+vi Jason I. Epstein et al., “Utah Law Makes AI Subject to Consumer Protection Laws ,” The National Law Review , 
+March 21, 2024, https://natlawreview.com/article/utah -law-makes-ai-subject-consumer -protection -laws  
+vii Titus Wu, “ Law on AI Watermarks , Detection Tool Enacted in California,” Bloomberg  Law, September 19, 
+2024, https://news.bloomberglaw.com/artificial -intelligence/law -on-ai-watermarks -detection -tool-enacted-
+in-california  
+viii “The United States Artificial Intelligence Safety Institute: Vision, Mission and Strategic Goals”, NIST 
+https://www.nist.gov/system/files/documents/2024/05/21/AISI -vision-21May2024.pdf   
+ix “The United States Artificial Intelligence Safety Institute: Vision, Mission and Strategic Goals”, NIST 
+https://www.nist.gov/system/files/documents/2024/05/21/AISI -vision-21May2024.pdf  
+x Jack Kelly, “Revitalizing the job market: Key takeaways from President Trump’s address”, Forbes, March 5, 
+2025, https://www.forbes.com/sites/jackkelly/2025/03/05/revitalizing -the-job-market-key-takeaways -from-
+president -trumps-address/   
+xi “Senator Wiener Introduces Legislation to Protect AI Whistleblowers & Boost Responsible AI Development,” 
+February 28, 2025, https://sd11.senate.ca.gov/news/senator -wiener-introduces -legislation -protect-ai-
+whistleblowers -boost-responsible -ai 
+xii “Mission Statement”, International Network of AI Safety Institutes, November 20 –21, 2024, 
+https://www.nist.gov/system/files/documents/2024/11/20/Mission%20Statement%20 -
+%20International%20Network%20of%20AISIs.pdf  
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated documents without 
+attribution.  xiii Barath Harithas, “ The AI Diffusion Framework: Securing U.S. AI Leadership While Preempting Strategic 
+Drift,” Center for Strategic & International Studies , February 18, 2025, https://www.csis.org/analysis/ai -
+diffusion -framework -securing-us-ai-leadership -while-preempting -strategic-drift  
+xiv Lennart Heim, “ Understanding the Artificial Intelligence Diffusion Framework,” RAND, January 14, 2025, 
+https://www.rand.org/pubs/perspectives/PEA3776 -1.html  
+xv Gregory C. Allen, “DeepSeek, Huawei, Export Controls, and the Future of U.S. -China AI Race,” Center for 
+Strategic & International Studies , March 7, 2025, https://www.csis.org/analysis/deepseek -huawei-export-
+controls-and-future-us-china-ai-race  
+
+

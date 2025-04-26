@@ -1,0 +1,181 @@
+March 14, 2025 
+NSF RFI: 90 FR 9088  
+Organization : Massive Data Institute at the McCourt School of Public Policy, 
+Georgetown University 
+Subject: Request for Information on the Development of an Artiﬁcial Intelligence (AI) 
+Action Plan 
+Primary POC: Elissa M. Redmiles, Ph.D., Georgetown University 
+; this response was compiled by the Primary POC Elissa M. Redmiles, but represents 
+contributions from the collaborators listed below. 
+In collaboration with: 
+Lucy Qin, Ph.D., Georgetown University 
+Allison McDonald, Ph.D., Boston University 
+The Massive Data Institute (MDI) at the McCourt School of Public Policy at Georgetown 
+University oﬀer the following comments in response to Oﬃce of Science and 
+Technology Policy (OSTP) and the Networking and Information Technology Research 
+and Development (NITRD) National Coordination Oﬃce (NCO) at the National Science 
+Foundation (NSF)’s Request for Information on the Development of an Artiﬁcial 
+Intelligence (AI) Action Plan. 
+The Massive Data Institute at the McCourt School of Public Policy at Georgetown 
+University is an interdisciplinary research institute that connects experts across 
+computer science, data science, public health, public policy, and social science to 
+tackle societal scale issues and impact public policy in a way that improves people's 
+lives through responsible evidence-based research. 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or conﬁdential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution. 
+1 
+
+
+Generative AI can o ﬀer a superpower [1] to improving the lives of Americans. America's 
+AI action plan can prioritize what Michael Kratsios described in his con ﬁrmation 
+hearing as an “American free market approach to scienti ﬁc discovery” by supporting 
+narrow and speci ﬁc research into mitigations that protect American families, 
+businesses and national security from speci ﬁc AI harms like sexualized deepfakes 
+without restricting free-speech or AI progress [2]. 
+American’s AI Action plan must protect the sanctity of our families, our national 
+security and our free speech without placing burdensome requirements on 
+private sector AI innovation by: 
+➔funding scienti ﬁc research to develop and evaluate mitigations that are narrowly
+scoped to address sexual deepfakes without infringing on private sector
+innovation or free speech via NSF sources such as SaTC, TIP, and CAREER and
+DoD sources such as DARPA, including the YFA program
+➔holding technology companies accountable for
+◆implementing narrowly-scoped, privacy- & free-speech preserving
+mitigations that work to stop the output of sexual deepfakes by
+generative AI models, the promotion and monetization of tools dedicated
+to “nudiﬁcation”, and the upload of sexual deepfakes to online platforms
+◆removing child sexual abuse material (CSAM) and non-consensual
+images depicting adults from training data
+➔hosting White House round tables as well as agency listening sessions focused
+on bringing together technical , legal and social science experts focused on
+sexual deepfakes to ensure executive orders and regulation centers rigorously
+evaluated, eﬀective mitigations that will not adversely impact AI progress
+Sexual AI Deepfakes are a threat to American Families. The Bipartisan House AI 
+Task Force report [3] states that there have been at least 100,000 victims of sexual 
+deepfakes. The majority of these victims are American children, especially girls. Our 
+research [4] shows that anyone – even those with no technical skills -- can make sexual 
+deepfakes for an average of $0.34 per image.  
+Sexual AI Deepfakes are a threat to National Security. AI-created deepfakes, 
+particularly sexual ones in which Americans are depicted nude, can be used by foreign 
+actors to blackmail and extort Americans. Prior research ﬁnds a majority of those 
+targeted are children, “although cyber sextortion against men by foreign o ﬀenders is 
+the most rapidly expanding type of cyber sextortion” [5]. These attacks are coordinated 
+sexual content blackmail schemes in which foreign actors target Americans, eventually 
+getting the target to share sexual images of themselves.  
+Our ongoing research ﬁnds that the proliferation of deepfakes is making it even easier 
+2 
+
+
+for foreign actors to attack Americans: attackers no longer need the target of sextortion 
+to send sexual images of themselves. As one organization that helps victims recover 
+from sextortion described, attackers “haven't even got to…  got to go through the 
+motions of building up that relationship and getting the person to send images 
+anymore, they can just use their proﬁle picture and make an image.” 
+Tackling sexual deepfakes does not require slowing AI development.  Instead, a 
+forward-looking ecosystem-wide agenda of research and policy can ensure American 
+families & national security remain secure while America continues to lead AI progress. 
+To ensure this future, we must engage in research to forecast how attackers might 
+use AI so we can narrowly and speci ﬁcally de ﬁne potential harms and develop 
+mitigations. By engaging in scienti ﬁc research early we can work in parallel with AI 
+innovation to stop harms before they happen.  Exemplar research directions include 
+technical research to develop computational metrics that can be used to detect when 
+someone’s likeness is being illicitly output by an AI model, model adjustment and 
+post-processing techniques that stop the generation of child sexual abuse, as well as 
+sociotechnical research to develop resilience against deepfakes in the American public 
+or strengthen young computer scientist’s skills in AI threat forecasting and mitigation. 
+As part of developing and evaluating mitigations against the output of sexual 
+deepfakes from closed-source AI models without slowing the progress of model 
+development, it is important to evaluate proposed mitigations . Speciﬁcally, how 
+well mitigations will work in practice and what consequences may be AI model 
+performance and free speech. For example, our ongoing research evaluates the 
+proposed mitigation of “concept cleaning” from generative models [6]: to prevent 
+harmful content generation (e.g., child sexual abuse material), concept cleaning 
+proposes the removal or separation of training data related to the harmful output (e.g. 
+images of children, images of nude adults). We attempted 5 diﬀerent approaches to 
+implementing this proposal. Our initial results [7] suggest that due to labeling errors, 
+concept fuzziness, and model compositionality the mitigation may (a) be less eﬀective 
+than hoped and (b) signi ﬁcantly erode model performance due to needing to remove 
+many related concepts. Engaging in such evaluations requires signi ﬁcant funding 
+and expertise; for example the evaluation described here required retraining models 
+from scratch and a team of 5 Ph.D.-trained computer scientists. 
+Many companies, not just AI model providers, are part of the pipeline of sexual 
+deepfakes. Engaging in mitigations across the technology ecosystem will be more 
+eﬀective and less detrimental to AI progress than only focusing on AI models and the 
+companies that create them.  
+3 
+
+
+For example, our research studying 20 of the most popular nudi ﬁcation websites, many 
+of which have been used on children [8,9], ﬁnds that cryptocurrency is available as a 
+payment method on 17 out of 20 of the websites we studied [4]. The use of 
+cryptocurrency to process payments for AI sexual deepfakes threatens the 
+legitimacy of cryptocurrency. Paypal and Visa are advertised as processing 
+payments on 8 and 7 of 20 websites we study, respectively. Cryptocurrency exchanges 
+and mainstream payment processors need to be held accountable for their role in 
+powering the sexual deepfake ecosystem. 
+Similarly, social media platforms & app store providers can prevent the promotion 
+of sexual deepfake creation tools. Reporting from 404 Media found that ﬁve di ﬀerent 
+nudiﬁcation applications were being advertised on Meta’s platforms [10]. Platforms 
+must be held accountable for such ads and be urged to proactively identify and 
+remove similar ads. Similarly, apps that oﬀer to create sexual deepfakes of Americans 
+should be banned from app stores without the need for journalists to raise awareness 
+before such action is taken [11]. 
+Finally, research has found that real child sexual abuse material [12] and adult 
+non-consensual intimate images [13] are being used by American AI companies and 
+researchers to train their AI models. We must ensure that American’s AI progress is 
+not powered by sexual abuse material. 
+References 
+[1] IMPAULSIVE. 2024. The Donald Trump Interview EP. 418. Retrieved from
+https://www.youtube.com/watch?v=xrFdHO7FH8w .
+[2] The Heritage Foundation. 2018. Deep Fakes: A Looming Challenge for Privacy,
+Democracy, and National Security. Retrieved from
+https://www.heritage.org/homeland-security/event/deep-fakes-looming-challenge-priv
+acy-democracy-and-national-security .
+[3] House Bipartisan Task Force on Arti ﬁcial Intelligence. 2024. Bipartisan House Task
+Force Report on Arti ﬁcial Intelligence – 118th Congress. Retrieved from
+https://science.house.gov/2024/12/house-bipartisan-task-force-on-arti ﬁcial-intelligenc
+e-delivers-report.
+[4] Gibson, C., Olszewski, D., Brigham, N. G., Crowder, A., Butler, K. R. B., Traynor, P.,
+Redmiles, E. M., and Kohno T.. Forthcoming. Analyzing the AI Nudi ﬁcation Application
+Ecosystem. To appear in USENIX Security 2025. Retrieved from
+https://arxiv.org/abs/2411.09751.
+4 
+
+
+[5] O’Malley, R. L., & Holt, K. M. 2022. Cyber sextortion: An exploratory analysis of
+diﬀerent perpetrators engaging in a similar crime. Journal of interpersonal violence,
+37(1-2), 258-283.
+[6] Thorn and All Tech Is Human. 2024. Safety by Design for Generative AI: Preventing
+Child Sexual Abuse. Retrieved from
+https://info.thorn.org/hubfs/thorn-safety-by-design-for-generative-AI.pdf.
+[7] Redmiles, E.M., Qin, L., Bargal, S.A., Cretu, A., Kireev, K., Troncoso, C., Brigham,
+N.G., Wei, M., Kohno, T., Cintaqia, P., McDonald, A., Aya, A., Kumar, D., Butler, K.,
+Gibson, C., Tranor, P., Eaton, A., AI can create synthetic non-consensual intimate
+imagery. Retrieved from: https://georgetown.box.com/v/ai-ibsa-onepager .
+[8] U.S. Department of Justice. 2024. Recidivist Sex O ﬀender Sentenced for
+Possessing Deepfake Child Sexual Abuse Material. Retrieved from:
+https://www.justice.gov/archives/opa/pr/recidivist-sex-o ﬀender-sentenced-possessing
+-deepfake-child-sexual-abuse-material .
+[9] Verma, P. and Harwell, D. 2024. In novel case, U.S. charges man with making child
+sex abuse images with AI. Retrieved from:
+http://washingtonpost.com/technology/2024/05/21/doj-arrest-ai-csam-child-sexual-ab
+use-images/ .
+[10] Maiberg, E. 2024. Instagram’s Nudify Ads. 404 Media. Retrieved from
+https://www.404media.co/email/d2bebba9-5808-44fc-8352-d93d1791a5 ﬀ/?ref=daily-s
+tories-newsletter.
+[11] Maiberg, E. 2024. Apple Removes Nonconsensual AI Nude Apps Following 404
+Media Investigation. 404 Media. Retrieved from
+https://www.404media.co/apple-removes-nonconsensual-ai-nude-apps-following-404-
+media-investigation/ .
+[12] Thiel, D. 2023. Stanford Internet Observatory, Cyber Policy Center. Identifying and
+eliminating CSAM in generative ML training data and models. Retrieved from
+https://stacks.stanford.edu/ ﬁle/druid:kh752sm9123/ml_training_data_csam_report-202
+3-12-23.pdf.
+[13] Arya, A., Cintaqia, P., Kumar, D., McDonald, A., Qin, L., and Redmiles, E. M.. 2024.
+NeurIPS EvalEval Workshop. (Mis)use of nude images in machine learning research.
+Retrieved from https://evaleval.github.io/accepted_papers/EvalEval_24_Arya.pdf .
+5 
+
+

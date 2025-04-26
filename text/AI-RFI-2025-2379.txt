@@ -1,0 +1,210 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-ks06-2d59
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-2379
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Virginie Berger  
+Email: 
+General Comment
+In response to the White House Office of Science and Technology Policy’sRequest for Inform ation on the U.S. Artificial Intelligence
+Action Plan, I have subm itted the attached docum ent, which outlines critical concerns regarding AI training on copyrighted m aterials.
+The subm ission addresses the m isuse of fair use doctrine, the econom ic and ethical im plications for creative industries, and the technical
+reality of AI as a data com pression system  rather than true learning. Additionally, it presents policy recom m endations to ensure AI
+developm ent aligns with intellectual property protections, industry sustainability, and long-term  innovation.
+I strongly encourage OSTP to review the full docum ent to consider these argum ents and proposed solutions.
+Sincerely, 
+Virginie Berger
+Attachments
+AI_Copyright_and_Fair_Use
+
+
+Virginie Berger,  March 15th, 2025  
+White House Office of Science and Technology Policy (OSTP) Executive Office of the 
+President Washington, D.C. 20502 
+Subject: Response to the Request for Information on the U.S. Artificial Intelligence Action 
+Plan – Copyright, Fair Use, and AI Training Practices 
+Dear OSTP Review Committee, 
+I appreciate the opportunity to submit comments on the White House Office of Science and 
+Technology Policy’s Request for Information regarding the U.S. Artificial Intelligence Action 
+Plan. This response focuses on the legal and technical implications of AI model training, 
+particularly the misuse of fair use doctrine by AI companies, the risks of unchecked data 
+scraping, and actionable policy recommendations to ensure a sustainable balance between 
+technological progress and intellectual property rights. 
+1. The Legal Framework: Copyright, Fair Use, and AI Training
+At the core of the AI copyright debate is the interpretation of fair use under 17 U.S.C. §107 of 
+the Copyright Act. AI companies such as OpenAI and Google argue that their training 
+methods qualify as fair use, enabling transformative AI applications. However, the reality is 
+that large-scale AI training on copyrighted materials is fundamentally different from 
+traditional fair use cases recognized by the courts. 
+1.1. Key Legal Precedents and Fair Use Considerations: ●Google v. Oracle (2021): The Supreme Court ruled that Google’s use of Java APIs
+was fair use due to their transformative application in software development.
+However, this decision was specific to functional software interfaces and does not
+provide justification for AI models ingesting expressive copyrighted content such as
+books, articles, music, and images.●Authors Guild v. Google (2015): The Second Circuit upheld Google's scanning of
+books for search indexing as fair use because it allowed for snippet-based previews
+rather than creating substitutes for the original works. However, AI-generated content
+trained on such works can directly compete with original creators, raising questions
+about market harm.●Thomson Reuters v. Ross Intelligence (Ongoing): A federal judge ruled that Ross
+Intelligence’s AI model, trained on Westlaw’s proprietary legal research materials,
+could potentially infringe copyright, rejecting an early dismissal of the case. This
+underscores the principle that AI training does not automatically qualify as fair use if it
+competes with or replaces the original work’s market function.1.2. The Flawed Fair Use Argument by AI Companies 
+AI companies claim that training models do not store or reproduce works verbatim, but rather 
+extract linguistic, stylistic, and contextual insights. This argument is flawed because: 
+
+
+● AI models function as data compression machines, encoding and retaining statistical 
+patterns from training data. Rather than simply analyzing data, they internalize and 
+reproduce the essence of creative works, which raises concerns about market 
+displacement and compensation. ● Even with fine-tuning, AI systems retain latent copies of training data, meaning they 
+can reproduce substantial portions of original works when prompted. This is 
+particularly problematic in text generation, music composition, and visual arts, where 
+AI-generated outputs can directly compete with human creators. ● When users request content in the "style of" a specific author or artist, the AI system 
+generates outputs that closely mimic the original, making attribution or licensing 
+necessary. This blurs the lines between inspiration and direct replication, 
+undermining the originality of human-created works. ● Transformation in fair use law requires a fundamentally new purpose, but AI training 
+replicates and monetizes existing creative works without meaningful transformation. 
+AI models do not engage in critique, commentary, or parody, recognized fair use 
+exceptions, but rather replicate and redistribute creative labor without compensation. 
+Furthermore, AI companies have built their business models on the assumption that they 
+can freely use copyrighted data without consequences. This raises critical ethical and 
+economic questions: 
+● Why should creators subsidize AI companies' business models? A model that is 
+entirely dependent on obtaining training data for free, while monetizing the results, 
+shifts costs onto creative industries and content owners, creating an unfair economic 
+imbalance. ● AI systems derive value from data, not from the algorithm itself. While AI models like 
+GPT-4 and Gemini rely on sophisticated architectures, their commercial and 
+functional value comes from the vast amounts of copyrighted material they ingest 
+and encode. Without access to these works, the AI itself would be significantly 
+weaker, proving that the true value lies in the data, not the system. 
+2. The Technical Reality: AI Training as Data Compression, Not Learning 
+Machine learning models do not "learn" in the way humans do. Instead, they operate as 
+massive data compression and pattern-recognition systems, capturing and storing vast 
+amounts of pre-existing human knowledge without generating fundamentally new ideas. The 
+training process involves: 
+● Ingesting copyrighted data to build probability distributions that reflect linguistic, 
+musical, or artistic styles. This enables AI to replicate and produce content in these 
+styles upon demand, making its outputs dependent on pre-existing works. ● Storing these patterns in model weights, making it possible for AI to reproduce 
+training data with a high degree of fidelity, even when unintended. 
+● Fine-tuning not being transformative enough to prevent AI from unintentionally or 
+intentionally regurgitating copyrighted materials when prompted. This is particularly 
+evident in models that generate highly specific, derivative works based on input 
+prompts that mimic existing authors, composers, or artists. 
+
+
+Under this framework, unrestricted AI training constitutes unauthorized commercial 
+exploitation of copyrighted materials, warranting stronger regulatory oversight. Additionally, 
+the claim that limiting AI training on copyrighted data would harm national security is 
+misleading: 
+●Creative content is not a national security asset. Unlike foundational scientific or
+military data, books, music, and artistic works do not provide a strategic advantage in
+geopolitical conflicts.●Restricting AI training does not limit AI advancement in defense or security
+applications. National security concerns around AI focus on adversarial attacks,
+cybersecurity, and misinformation, not whether AI can generate human-like poetry.●The argument that China has an advantage in AI due to access to data ignores the
+importance of proprietary datasets. U.S. companies already lead in AI due to access
+to exclusive, high-quality training datasets, including those derived from corporate
+and academic research, rather than copyrighted creative content.
+Thus, the claim that AI companies should be granted broad fair use exemptions under 
+national security grounds is a misdirection meant to deflect from the core issue: AI models 
+rely on copyrighted content to function effectively, and compensation for creators is 
+necessary. 
+3. Economic and Ethical Implications: Who Benefits, Who Loses?
+Unchecked AI training on copyrighted content creates an unfair economic imbalance where: 
+●AI companies extract value from copyrighted content without compensation, while
+creators lose licensing revenue. In 2022, arts and cultural economic activity
+accounted for 4.3% of the U.S. GDP, totaling $1.10 trillion (BEA, 2022).
+●The market for original works shrinks, as AI-generated alternatives flood digital
+platforms, reducing demand for human-made work. This could lead to significant job
+displacement in creative industries, with estimates suggesting up to 30% of creative
+industry jobs may be affected by 2030 (World Economic Forum, 2023).●A monopolization of AI-powered creativity occurs, where a few large tech companies
+profit from vast datasets collected without consent, leaving smaller creators unable to
+compete. This mirrors past concerns in the streaming and publishing industries.●Journalistic integrity and misinformation risks rise, as AI models produce content
+without proper attribution, leading to concerns about trustworthiness in news
+reporting. AI-generated content has already been linked to misinformation, including
+fabricated news articles and deepfakes (MIT Technology Review, 2023).●The erosion of U.S. soft power and cultural influence, as AI-generated content dilutes
+the authenticity of creative industries that contribute to America's global image and
+cultural exports. The U.S. media and entertainment industry is the largest globally,
+valued at $649 billion, representing 23% of the global market (Trade.gov, 2023). If
+AI-generated content undermines traditional media and film production, the U.S. risks
+losing its leading role in global storytelling and influence.●Financial risks to key sectors such as film, music, and publishing, which collectively
+generate $877 billion in revenue annually and support over 5.1 million jobs in the
+
+
+U.S. (BEA, 2021). Uncompensated AI training on copyrighted works threatens the 
+economic sustainability of these industries, discouraging investment in new projects. 
+●A weakened creative ecosystem, where diminishing financial returns discourage
+artistic innovation, impacting everything from Hollywood blockbusters to independent
+journalism and music production. This was evident in the 2023 WGA and
+SAG-AFTRA strikes, where a central issue was AI replacing creative professionals
+without proper compensation or consent, underscoring the growing tensions between
+AI and human creativity.
+4. Policy Recommendations: Building an Equitable AI Copyright
+Framework
+To ensure that AI development does not come at the expense of intellectual property rights, 
+the following proactive policy measures should be implemented: 
+4.1. Establish a Licensing and Compensation Framework for AI Training 
+○Require AI companies to obtain licenses for copyrighted materials included in
+training datasets, similar to compulsory licensing systems in the music
+industry.○Develop an AI copyright registry where content creators can register works
+they do not want included in training datasets, making exclusion legally
+binding.○Implement collective bargaining frameworks for AI dataset licensing, ensuring
+fair compensation for creators, akin to collective rights management
+organizations in the music and publishing sectors.○Introduce AI-specific copyright tariffs, requiring AI companies to pay into a
+fund that distributes royalties to content creators based on dataset usage
+analytics.
+●4.2. Mandate Transparency and Attribution in AI Training
+○Require public disclosure of training datasets used in AI development to
+ensure compliance with copyright laws.
+○Enforce attribution requirements for AI-generated content that mimics specific
+styles, ensuring recognition of original creators.
+○Develop watermarking technologies to distinguish AI-generated content from
+human-created works, potentially using blockchain-based provenance
+tracking.○Prohibit the use of copyrighted materials without compensation in the
+development of autonomous AI agents, ensuring that future AI systems (e.g.,
+agentic AI, AGI) cannot exploit copyrighted works as foundational knowledge
+without proper licensing.
+●4.3. Future-Proofing Copyright Policy Against Emerging AI Risks
+
+
+○Regulate AI training with quantum computing capabilities, ensuring that
+exponentially more powerful AI models do not bypass copyright laws through
+hyper-efficient data extraction.
+○Establish governance over AGI to ensure that future AI systems respect
+intellectual property at scale and do not create self-improving models that
+continuously absorb copyrighted material without oversight.○Address anthropomorphic AI risks, ensuring that AI-generated personas
+trained on existing creative works do not mislead consumers or infringe upon
+the artistic identities of real individuals.○Mandate digital identity protection for creators, preventing AI models from
+replicating the styles, voices, or likenesses of human artists and writers
+without explicit consent.
+●4.4. Support for Creative Industries and AI Ethics
+○Introduce AI tax incentives for ethical development, rewarding AI companies
+that license training data responsibly rather than relying on scraped or
+unauthorized content.○Fund research into AI-driven creative tools that enhance rather than replace
+human creators, fostering collaboration between AI and artistic professionals.
+○Create public grant programs to support artists, musicians, and journalists
+impacted by AI disruptions, ensuring that AI-driven changes do not erase
+creative careers but instead encourage sustainable innovation.○Develop AI literacy programs for the creative sector, ensuring that
+professionals understand how AI affects their industries and how they can
+leverage AI tools while safeguarding their rights.
+These proactive measures will ensure that AI development does not undermine intellectual 
+property laws, cultural industries, or creative labor markets while promoting innovation that 
+aligns with ethical AI principles and economic fairness. 
+5. Conclusion
+As AI technology continues to evolve, it is crucial that policymakers do not allow AI 
+companies to redefine fair use in their favor. The U.S. must protect its creative industries, 
+ensure fair competition, and promote ethical AI development. The above recommendations 
+provide a structured approach to balancing innovation with intellectual property protections. 
+I strongly urge OSTP to incorporate these recommendations into the U.S. Artificial 
+Intelligence Action Plan to create a regulatory framework that safeguards creators while 
+fostering responsible AI advancements. Sincerely,  
+Virginie Berger 
+
+

@@ -1,0 +1,396 @@
+1 Response to the NITRD NCO RFI on 
+Development of an Artificial Intelligence (AI) 
+Action Plan  
+March 14, 2025  
+The Transparency Coalition  
+This document is approved for public dissemination. The document contains no business -
+proprietary or conﬁdential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution.  
+Overview  
+About the Transparency Coali4on  
+The Transparency Coalition ’s mission is to champion policies that ensure AI technologies 
+are developed and used in ways which prioritize safety, transparency, and the public good.  
+We believe artiﬁcial intelligence has the potential to be a powerful tool for human progress 
+if properly trained and deployed within guardrails that protect both US citizens  as well as 
+businesses adopting generative AI in their products.   
+We believe policies must be created to ensure model developers respect the rights of 
+creators, reduce the potential for harmful disinformation, protect personal privacy , as well 
+as fulﬁll their legal duty of care to both their business customers and end -users. This is 
+accomplished by providing transparency and accepting accountability for the  inputs and 
+outputs of generative AI . 
+
+
+2 Key Insights 
+A lack of trust is stalling corporate adop4on of genera4ve AI.  
+In a Q4/2024 report from Deloitte on the State of Generative AIi,  mistrust in generative AI 
+(Gen AI) was identiﬁed as a key barrier to business uptake:  
+•35% of responding organizations said their top potential barrier to adopting Gen  AI is
+mistakes / errors with real -world consequences .
+•29% were reluctant due to a general loss of trust due to the potential for bias,
+hallucinations and inaccuracies.
+•25% were worried about the liability of intellectual property contained in the training
+data used by the model being incorporated into their own product oWerings.
+These data points show that potential customers are deeply concerned about their ability 
+to trust what went in to and comes out of Gen AI models.  
+These “duty of care” product liability concerns can only be addressed by 
+the Gen AI developers themselves. 
+Potential customers wanting to deploy products that depend on large language models 
+(LLMs) understand they are ultimately bound by the longstanding “duty of care” doctrine 
+that underpins all modern product liability lawii and they are right to be concerned about 
+putting their trust in Gen AI.  Presently, the risk inherent in creating products and solutions 
+powered by Gen AI developers passes straight through  to the deployers and their derivative 
+products since these LLM developers are today  largely unaccountable.   
+Would -be corporate deployers of Gen AI have legitimate concerns on both sides of the 
+model. Data being used to train  the model can cause problems that range from copyright 
+infringement to disclosure of personally identiﬁable information (PII).  Furthermore, even a 
+harmless  model could be trained with biased data that skews its output.  
+Problems with content generated  by a model can range from just giving incorrect 
+responses that are somewhat oW base to completely made -up “hallucinations” where the 
+answers have no factual basis whatsoever. Then there is the problem of Gen AI developers 
+not automatically labeling and p roviding user -viewable provenance that the content 
+created was made with AI.  Doing so would not only mitigate the impact of the 
+unintentional disinformation ; it would also help contain the spread of malicious deepfakes, 
+soci al media posts and phishing emails that disinform, misinform and defraud our citizens.  
+
+
+ 3 Some of the very worst instances of these problems have intersected to contribute to 
+despondent users’ self -harm after  being subjected to a dangerous chatbot conversation , or 
+after learning of malicious pornographic deepfakes of themselves . iii 
+Innova4ng with Gen  AI today is too risky for most American companies.  
+Today, this unmet duty of care means innovating on top of a Gen AI  model is too risky for all 
+but the largest corporations that can aWord to build their own trust, risk and security 
+scaWolding  around LLM outputs  to mitigate risk.iv  In contrast, a single issue with a 
+hallucination, copyright or PII violation could put a startup out of business,  and it  can take 
+months for the underlying Gen AI developer  to remedy with their current reactive approach.  
+America cannot continue to lead in Gen AI adoption and innovation when the rest of the AI 
+ecosystem is concerned they will  proliferate and amplify the risk s that the Gen AI  model 
+developer s presently pass onto them  in their models without consequence  or assurances.    
+Cybersecurity is threatened when the data supply chain is unsecured . 
+It is nearly  impossible to guarantee data integrity and security  in Gen AI  imple ment ations  
+without strict adherence to data governance  and cybersecurity best practices .  
+Securing the data supply chain is a foundational component of such practices  and requires 
+full disclosures on  training data  provenanc e and outputs. Only by following best practices 
+is it possible  to ensure that contaminated generative digital content is not used unwittingly 
+to train and adversely impact future generations of models . 
+Emerging state regula4ons on Gen AI developers mandate a duty of 
+care that help s businesses deploying AI as much as private  ci4zens. 
+Several states are working on or  have already enacted legislation to hold Gen AI developers 
+accountable to their duty of care  responsibilities by mandating  copyright protection, 
+personal privacy  preservation , user safety  protocols,  and the labeling of Gen AI model 
+outputs , which in turn helps businesses deploying  Gen AI  meet their duty of care.    
+Rec4fying training data problems in LLMs reac+vely  is very expensive 
+for Gen AI developers and too slow a remedy for users and deployers.  
+While the state -of-the-art in AI changes daily, at present there is technically no way to 
+completely remove the impact of a single data point from a Gen AI large language model 
+without removing the data and then retraining  the entire  model completely from the start . 
+Retraining an LLM like Open AI’s ChatGPT or Anthropic’s Claude can take months to 
+complete which means the aWected user whose PII was exposed  or copyright infringed  will 
+
+
+ 4 wait months  for a remedy.  This also means that an AI deployer’s product leveraging a Gen 
+AI LLM could be in violation of several state and international copyright, privacy and AI 
+safety regulations from the moment they deploy and stay that way until the Gen AI 
+developer retrains to  resolve the underlying data issues.  Retraining also cost hundreds of 
+millions of dollars every time  it is performed with the newest models being expected to 
+cost more than one billion dollars to train.v   
+The ecosystem deﬁnitely needs to move away from these reactive remedies, but that does 
+not mean we should allow the Gen AI developers to be unaccountable for these copyright 
+and privacy violations.  
+The next wave of legisla4on  and industry ac4on will drive  proac+ve 
+transparency  from Gen AI  developer s.  
+Moving the industry to proactive and programmatic model and data transparency protects 
+US citizens and AI deploying organizations alike by making it easy for Gen AI developers to 
+cost -eWectively address their duty of care.   
+A proactive approach allows content owners and users to control whether their data is 
+used to train a model in the ﬁrst place . In this manner t hey can prevent  many, if not most , 
+data infringements before they can happen.  This in turn will lead to models that are safer to 
+deploy with fewer risks or adverse outcomes . Which will then result in more deployers who 
+build on foundational models to move forward with deployments. Furthermore, these 
+legislative approaches will also facilitate the creation of Small Language Models (SLMs) 
+that contain curated and properly licensed domain -speciﬁc data that are intended to 
+address speciﬁc use cases/domains. A combination of these industry actions, in response 
+to thoughtful legislation, will allow the U.S. economy to achieve the full beneﬁts of an AI 
+roll-out without falling victim to scaling  challenges. When content owners control their data 
+and its use as AI training material, GenAI developers and deployers will have the assurance 
+they need to innovate without the legal uncertainty of copyright infringement or data 
+misuse.   
+Our recommendations for enabling this proactive transparency make up the remainder of 
+this document.
+
+
+ 5 Recommend ed Ac6ons 
+To enable proactive and programmatic model and data transparency, Transparency 
+Coalition recommends the following policy actions  by legislators which can in turn, be 
+implemented  by a Gen  AI developer  in a straightforward manner : 
+•Make it clear when  content  is AI -generated
+-Inform consumers when an image, video, sound, or text has been created or 
+modiﬁed by AI. Embed that information in all AI -generated material.  
+•Publish AI training data ingredient lists
+-Developers of AI systems should be required to provide documentation for the 
+training data used to develop an AI model.  
+•Require opt -in consent to use personal data
+-Flip the paradigm and put people in charge of their personal data. Require 
+consumers to intentionally "opt -in" to allow tech companies to collect and use 
+their personal information.  
+•Minimize the personal data collected and kept
+-Limit data collection to information necessary to perform a transaction or 
+optimize a user's website experience —and nothing more.
+Make it clear when content is AI- generated .  
+The ability to know whether an image, video, sound, or text was created by AI is critical to 
+the healthy functioning of society. Deepfake videos and other misused AI can cause 
+profound harm to critical components of our society, including the criminal justice system, 
+medical industry, and electoral process.   
+AI Developers should always Inform consumers when an image, video, sound, or text has 
+been created or modiﬁed by AI  and  attach  that information in all AI -generated material . 
+Require the embedding of provenance meta data  in AI created content  
+Lawmakers should require AI developers and deployers to embed provenance data within 
+all digital objects created or modiﬁed by a Gen  AI system. Provenance data is coded within 
+metadata for the purpose of verifying the digital content’s authenticity, origin, or history of 
+modiﬁcation.  
+
+
+ 6 Require Gen AI  companies to provide a tool to detect provenance metadata in 
+their generated content ; Require large o nline content p latforms to  use it . 
+Gen AI  companies must oWer a  tool to detect the embedded provenance metadata and 
+large online platforms where content can be shared must be required to use it and make 
+the latent provenance data available for the end user to view.  
+Provenance d isclosure as a legal baseline  and foundational requirement . 
+California will require this embed -and -disclose capability beginning on Jan. 1, 2026, due to 
+the AI Transparency Act (SB 942). Other  states should enact similar legislation to give their 
+citizens the ability to sort authentic evidence from machine -made make -believe. State 
+laws requiring AI disclosure tools set a fair and appropriate legal baseline for the tech 
+industry, protecting ethi cal AI companies from bad actors oWering deceptive and malicious 
+products.   
+AI disclosure laws like SB 942 incentivize the creation of ethical AI tools and products while 
+driving unethical and malicious actors out of the marketplace. They establish appropriate 
+guardrails that encourage high -quality innovation and discourage the sp read of 
+misinformation and deceptive imagery.  
+Content Credentials provenance technology is available today . 
+Some leading companies —including Adobe, Nikon, and Microsoft —are already working 
+with a tool known as Content Credentials  which is based on an open technical 
+speciﬁcation developed and maintained by 
+the Coalition for Content Provenance and 
+Authenticity (C2PA) . C2PA  is a cross -
+industry standards development 
+organization  whose steering committee 
+includes Google, Amazon, Adobe, Meta, 
+Microsoft, and OpenAI  as well as several 
+traditional content providers like Sony and 
+the BBC  who intend to include provenance 
+data with their news and entertainment 
+content to establish its authenticity in the 
+ﬁght against disinformation and knockoWs . 
+Content Credentials embeds provenance 
+data in a digital object  that accompanies the 
+content . Clicking a small pin reveals that 
+information, as seen in ﬁgure 1  
+Figure 1-Adobe’s implementation of Content Credentials  
+
+
+ 7 To be clear, this technology is available today  and can be adopted by media companies, the 
+Gen AI  developer s and content sharing platforms like Facebook and YouTube immediately .  
+There is no barrier to these AI and media leaders adopting C2PA —they helped make the 
+technology ! 
+Other forms of provenance  are also available  to developers . 
+Other readily available techniques used to embed provenance in an AI -created image or 
+video include:  
+•Watermarking : These are visible or invisible marks added to digital media ﬁles to 
+indicate their origin or ownership. Watermarks can be textual or graphical symbols 
+that are embedded in images, videos, or audio ﬁles. (e.g. Most people are familiar 
+with the well -know n Getty Images watermark, which allows users to view the image 
+while preserving Getty’s copyright protections.)
+•Digital Signatures : Digital signatures use public -key encryption to generate a 
+unique code that is attached to a digital media ﬁle. The code can be veriﬁed by 
+anyone who has access to the public key of the signer. 
+•Blockchain : Blockchain can be used to create and manage digital assets on the 
+web, such as cryptocurrencies, tokens, smart contracts, etc. Blockchain can also 
+be used to record and preserve provenance data for AI -generated content, such as 
+source, cr eation process, ownership, and distributio n.
+
+
+ 8 Publish AI training data ingredients lists . 
+Developers of AI systems should be required to provide high -level documentation for the 
+training data used to develop an AI model.  
+The Transparency Coalition has 
+formulated a Data Declaration  (Fig. 
+2) that would contain basic 
+information about the data used to 
+train the AI model.  TCAI’s Data 
+Declaration is fully compliant with 
+California AB 2013 ’s requirements.  
+California’s training data disclosures 
+will be required starting on Jan. 1, 
+2026. Legislators in several  other 
+states are considering introducing 
+versions of AB 2013 for their 
+jurisdictions in the sessions that 
+open in Jan. 2025.  
+This type of auditable information 
+set provides transparency and 
+assurance to deployers, consumers, 
+and regulators.  It is similar to 
+industry -standard SOC 2 reports , 
+which assess and address the 
+cybersecurity risks associated with 
+software or technology services . 
+To be clear, a Data Declaration is not necessarily tied to government oversight. Rather, it 
+should become a standard component of every AI model —expected and demanded by AI 
+system deployers as a transparent mark of quality and legal assurance.   
+The technology to provide Data Declarations exists already and is being 
+standardized by D &TA.  
+Data and Trust Alliance's  (D&TA) Data Provenance Standards define the declaration of 
+name-value pairs for several industry use cases and the export of that metadata into 
+several standard markup formats including JSON, XML and YAML.  Furthermore C2PA, the 
+same technology that powers Content Credentials, could be used in conjunction with 
+Figure 2- Transparency Coalition's Data Declaration Template  
+
+
+ 9 D&TA’s  data declarations as provenance information about the model itself  and not just the 
+content it creates . 
+Training Data is not a trade secret . 
+As the need for AI training data transparency gains traction in policy circles, some of the 
+most powerful AI companies are pushing back. They argue that this basic descriptive 
+information about the data used to train AI models constitutes proprietary information. In 
+other words, they claim it’s a trade secret. It’s not.  
+The ingenuity in AI does  not lie in the datasets. In fact, m any of today’s AI systems were 
+trained on datasets like the Common Crawl, WebText2, Books1, and Wikipedia  that have 
+been shown to be problematic in the ways noted earlier . 
+The innovation in AI lies in the construction of the model itself. Developing an AI model 
+requires months or years of work envisioning the system, lining up compute power, creating 
+the algorithms, training the model, weighting the data, and building the end -user interface.  
+Data Declarations destroy Gen AI  developer ’s plausible deniability . 
+The real fear of Gen AI  developer s in disclosing this most basic information is explicitly 
+assert ing whether the training data contains copyrighted materials or PII. Many of the initial 
+“frontier ” models were trained on raw, unlicensed data that may not have been legally 
+obtainedvi or properly anonymized.  
+ 
+
+
+ 10 Require opt -IN consent to use personal data  to train AI.  
+Flip the paradigm and put people in charge of their personal data. Require consumers to 
+intentionally "opt -in" to allow tech companies to collect and use their personal 
+information.  
+Most privacy laws in the United States operate on an opt -out basis, meaning that users are 
+assumed to have consented to the use of their personal data unless they actively decline, 
+i.e., opt -out.   The EU’s General Data Protection Regulation (GDPR), by contrast, is an opt -in 
+mechanism. That means companies may not use personal data unless an individual 
+actively oWers consent to do so, i.e., opts -in. 
+State  and federal lawmakers should require opt -in consent from consumers to use an 
+individual’s data to train an AI system. In other words: Companies should assume they 
+have no right to use an individual’s data unless that individual gave them aWirmative 
+conse nt.  
+Individuals are the rightful owners of their personal data. Companies should assume they 
+cannot collect, store, or use personal data to train AI models unless given  aWirmative 
+consent. Opt -in should not only be the industry standard; it should be the law of the land . 
+California’s Privacy laws were amended to cover personal data used to train AI and even go 
+so far as to classify the insights into  a user’s  personal data made by AI as also belonging to 
+the use r and other states are drafting similar legislation.  
+It’s much easier for everyone to leave personal information out of the training 
+data by default than to try and remove it later . 
+It is expensive in terms of time, money and energy consumption to retrain a frontier model 
+just to remove the impact of one piece of improperly obtained personal data, and it’s no 
+harder than the GDPR cookie consent pop -up to implement explicit opt -out.    It’s the right 
+thing to do for consumers and it will save the Gen AI  developer s billions in retraining costs 
+by not including the personal data in the ﬁrst place.  
+Minimiz e the personal data collected and kept .  
+‘Data minimization’ is a privacy principle that limits personal information collected from a 
+consumer to data strictly relevant and necessary to accomplish a speciﬁc purpose.  
+While not strictly an “AI action” data minimization legislation prevents the collection and 
+abuse of personal information before it starts, which does include  Gen AI  developer s. 
+ 
+
+
+ 11 Data minimization includes limits on both data collection and data retention:  
+•Collection:  Only collect personal information that is directly relevant and 
+necessary to the purpose. 
+•Retention:  Only keep the data for as long as it is necessary to fulﬁll the purpose. No 
+perpetual storage.
+Data minimization best practices  
+Data minimalization best practices map directly to similar legislative requirements  
+•Time limitations: Establish retention policies for various data types. For example, 
+retain email data for 90 days, retain employment data every year -end for 5 years.  
+•Establish periodic reviews of retained data: Identify  when and how personal 
+information is being deleted or purged.  
+•Establish solutions for deleting personal information upon an individual's request.  
+•If personal information is used as a unique identiﬁer (such as a social security 
+number), consider whether it is possible to use or create an alternate ID.  
+Respect “Do Not Train” data set and website designa4ons  
+Labeling a certain set of data as “Do Not Train” should prevent all AI developers from using 
+the data to train AI models.   The eWect of a Do Not Train (DNT) data designation would be 
+similar to a copyright page in book publishing or a robots.txt ﬁle in web crawling ; it 
+announces  that the following  material is oW -limits for use as AI training data.  
+Implementing “Do Not Train”  
+Currently the AI community is coalescing around the use of “ai.txt” as an AI version of the 
+robots.txt directive. An ai.txt ﬁle embedded in a website’s root directory allows or denies AI 
+developers the use of a domain’s text or media ﬁles to train AI mod els.  
+An early version of DNT data designation has been created by Spawning.ai, an independent 
+third party AI governance start -up. Spawning maintains a Do Not Train registry and provide 
+machine -readable opt -out tools for domain hosts. Two of the world’s biggest AI developers, 
+Stability and HuggingFace, have partnered with Spawning and agreed to honor their DNT 
+registry. Stability is the creator of the Gen  AI image -creation system Stable DiWusion. 
+HuggingFace is the world’s largest repository of models and datase ts.  
+Starting in January 2025, many state legislatures will consider bills to enhance the safety 
+and transparency of AI systems  and  those proposals should require Gen  AI developers to 
+honor the ‘DNT data’ designation, just as search engines today honor the directives of 
+robot s.txt as they crawl the digital world.  
+
+
+ 12 Transparency Coalition’s t raining data reques t prompt s 
+As part of our mission to create AI safeguards for the greater good, Transparency Coalition 
+is introducing new command concepts designed to infuse Gen  AI systems with a new level 
+of transparency.  
+Training Data Requests (TDRs) oWer content creators, copyright owners, and individuals a 
+basic level of agency in the use of their data property. We have developed two of these 
+TDRs for consideration in AI -related bills during the upcoming 2025 state legi slative 
+sessions:  
+Training Data Veriﬁcation Request (TDVR)  
+This is a mechanism by which a primary content owner submits a veriﬁed request to a Gen  
+AI developer to inquire if their content is included in the AI model’s training dataset.  
+Training Data Deletion Request (TDDR)  
+This is a mechanism by which a primary content owner submits a veriﬁed request to a 
+developer to delete content that was or will be included in a generative artiﬁcial 
+intelligence training dataset.  
+Designating a dataset as ‘Do Not Train’ data may be done only by the primary owner of that 
+speciﬁc data. Similarly, TDDRs may be sent only by primary content owners.  
+A “Primary content owner” means a person, partnership, or company that owns, in full or 
+part, digital data, content, or objects that are subject to copyright protection. The deﬁnition 
+is also meant to include an individual with personally identiﬁable infor mation (PII) whose 
+PII has been included in the Gen AI  model’s training dataset.  
+Hold Gen AI Developers accountable for privacy and copyright viola4ons 
+by giving them a deadline to move to a proac4ve and scalable  data 
+removal process.  
+Transparency  is foundational to the creation of a vibrant and safe American AI ecosystem .  
+The current  reactive approach that has arisen  to remedy data set problems in Gen AI 
+doesn’t serve anyone in the ecosystem well  and needs to be addressed to prevent  
+America’s AI innovation  from stalling and  to allow  consumers to get  a timely remedy.  
+Give Gen AI developers a deadline by which they must move to proactive and 
+programmatic data  and model  transparency  using the recommendations described in this 
+document. This protects US citizens ’ rights , mitigates the risk of  AI deploying organizations 
+and makes  it easy for Gen AI developers to cost -eWectively address their duty of care  by not 
+training on the problematic data in the ﬁrst place.  
+
+
+ 13 Resources  
+The Transparency Coalition maintains  a resource repository for legislators, policy makers, 
+journalists, thought leaders, and researchers. The modules, articles, and guides presented 
+here are intended to explain fundamental concepts in artiﬁcial intelligence and AI 
+governance in accurate and  non -technical language. New articles are added as the 
+technology and language of AI evolve —and they’re evolving quickly.  
+To learn more about the Transparency Coalition’s top remedies for current risks in AI safety 
+and transparency, see our Solutions page.  
+https://www.transparencycoalition.ai/  
+  
+
+
+ 14 Endnotes  
+ 
+i https://www2.deloitte.com/content/dam/Deloitte/us/Documents/consulting/us -state -of-gen -ai-q4.pdf  
+ii https://www.transparencycoalition.ai/learn/what -is-a-duty -of-care -and -how -does -it-apply -to-ai 
+iii https://theconversation.com/deaths -linked -to-chatbots -show -we-must -urgently -revisit -what -counts -as-
+high -risk -ai-242289  
+iv https://www.mckinsey.com/capabilities/quantumblack/our -insights/the -state -of-ai 
+v https://hai.stanford.edu/ai -index/2024 -ai-index -report  
+vi https://www.technologyreview.com/2024/07/02/1094508/ai -companies -are-ﬁnally -being -forced -to-cough -
+up-for-training -data/  
+
+

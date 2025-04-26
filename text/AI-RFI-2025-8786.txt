@@ -1,0 +1,136 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8b-2p7f-xldn
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-8786
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Jed Brown    
+Email: 
+General Comment
+The AI industry is built on the m ass laundering of behavior that would be clear copyright infringem ent if done by a hum an (e.g., near-
+verbatim  replication of pages of copyright software). Many of the behaviors of deployed system s would be illegal if perform ed by a hum an
+(violating civil rights law, m edical and legal licensure laws, em ploym ent law, etc.). The m ost crucial innovation of this industry is to exploit
+am biguities and loopholes in existing law to create system s that allegedly evade liability. The products would never pass safety or fitness
+for purpose standards that other industries are expected to com ply with. 
+https://spectrum .ieee.org/ai-code-generation-ownership
+https://doi.org/10.1145/3531146.3533158
+https://doi.org/10.1145/3442188.3445922
+And yet these AI com panies have been an investor's dream  speculation instrum ent because of the prom ise of m ass exploitation of a
+captive populace. Having reached m arket saturation and being over-extended with respect to copyright law, these com panies are
+increasingly desperate for governm ent assistance to justify their extrem e valuations. (None of these com panies have a profitable product
+and their P/E ratios are huge. They will need to spike revenue soon, but the product isn't good enough for people to pay that prem ium
+voluntarily.) The governm ent assistance they seek will com e at the cost of constitutional rights and global hum an rights, as well as severe
+global environm ental harm .
+It's im portant to realize that AI does not have a m eaningful technical definition. NAIRR (https://www.ai.gov/wp-
+content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf) attem pted such a technical definition, yet it clearly applies to all operational
+num erical weather prediction since their dawn in the 1950s. And yet AI practitioners will invent additional criteria to exclude such
+"classical" techniques. Indeed, there is a spectrum  between m echanism -first and data-first system s, with often-fruitful synergies between
+them . 
+While bearing negligible technical inform ation, use of the nam e "AI" is a cultural affinity signal of disregard for harm s caused by shoddy
+system s. Any future AI initiative should engage deeply with how the field is repeating the crisis confronted by the com putational fluids
+com m unity in the 1980s (see attached editorial board statem ent for the Journal of Fluids Engineering). The aerospace industry and
+research com m unity of the 1980s were forced to clean up their own house because they were not awash with hundreds of billions in
+investm ent dollars with governm ent standing by to rescue them  from  consequences for producing unreliable and poorly-perform ing
+aircraft. Rigorous Verification and Validation practices em erged from  the 1980s crisis in fluids engineering, and have served well to
+im prove efficiency and capability while avoiding the m assive engineering catastrophes of earlier eras.
+The AI industry needs to stop dodging liability and reckon with a m andate to ensure their products are safe and reliable, fit for purpose,
+and able to pass strict regulatory scrutiny, m uch like the aerospace industry. If AI com panies wish to establish that training is not copyright
+infringem ent, they should adopt practices capable of establishing that with hum an agents, nam ely clean-room  design
+(https://en.wikipedia.org/wiki/Clean-room _design). Today's AI system s are incapable of being trained by clean-room  design, but doing so
+would be a real advance. If a hum an doing a task would be liable, the operators of an AI system  assigned that task should assum e the
+sam e direct liability. If a task would be illegal if perform ed by a hum an, it m ust also be illegal to operate an AI system  perform ing that task.
+Insisting on such criteria will create m any research opportunities, and we will find that m any previously-claim ed results (as well as industry
+practices) do not stand up to scrutiny. NSF should focus convergent research attention on the design of effective regulation and standards.
+
+
+Attachments
+RoacheGhiaWhite-JFEEditorialPolicyStatem entControlOfNum ericalAccuracy-1986
+
+
+Editorial Policy Statement on the Control of Numerical Accuracy 
+A professional problem exists in the computational fluid 
+dynamics community and also in the broader area of com­
+putational physics. Namely, there is a need for higher stan­
+dards on the control of numerical accuracy. 
+The numerical fluid dynamics community is aware of this 
+problem but, although individual researchers strive to control 
+accuracy, the issue has not to our knowledge been addressed 
+collectively and formally by any professional society of jour­
+nal editorial board. The problem is certainly not unique to the 
+JFE and came into even sharper focus at the 1980-81 
+AFOSRHTTM-Stanford Conference on Complex Turbulent 
+Flows. It was a conclusion of that conference's Evaluation 
+Committee1 that, in most of the submissions to that con­
+ference, it was impossible to evaluate and compare the ac­
+curacy of different turbulence models, since one could not 
+distinguish physical modeling eerors from numerical errors 
+related to the algorithm and grid. This is especially the case for 
+first-order accurate methods and hybrid methods. 
+The practice of publishing comparisons based on coarse 
+grid solutions, without systematic truncation error testing, 
+may have been acceptable in the past. Certainly ten to fifteen 
+years ago any calculation was of interest, and much of the ex­
+ploratory work deserved publication, as many researchers 
+lacked the computational power or funds to do a thorough 
+and systematic error estimation. We are of the opinion that 
+this practice, however understandable in the past, is outmoded 
+and that, with powerful computers becoming more common, 
+Emmons, H. W. (Chairman), "Evaluation Committee Report," pp. 
+979-986 in Proc. 1980-81 AFOSR-HTTM-Stanford Conference on Complex 
+Turbulent Flows, Vol. II, "Taxonomies, Reporter's Summaries, Evaluation, 
+and Conclusions," Thermosciences Division, Mechanical Engineering Depart­
+ment, Stanford University. standards should be raised. Consequently, this journal hereby 
+announces the following policy: 
+The Journal of Fluids Engineering will not accept for 
+publication any paper reporting the numerical solution 
+of a fluids engineering problem that fails to address the 
+task of systematic truncation error testing and accuracy 
+estimation. 
+Although the formal announcement of this journal policy is 
+new, it has been the practice of many of our conscientious 
+reviewers. Thus the present announcement is not a change in 
+policy so much as a clarification and standardization. 
+Methods are available to accomplish this task, such as 
+Richardson extrapolation (when applicable), calculations with 
+a high- and low-order method on the same grid, and 
+straightforward repeat calculations with finer or coarser grids. 
+As in the case of experimental uncertainty analysis, "... any 
+appropriate analysis is far better than none as long as the pro­
+cedure is explained."2 Whatever the authors use will be con­
+sidered in the review process, but we must make it clear that a 
+single calculation in a fixed grid will not be acceptable, since it 
+is impossible to infer an accuracy estimate from such a 
+calculation. Also, the editors will not consider a reasonable 
+agreement with experimental data to be sufficient proof of ac­
+curacy, especially if any adjustable parameters are involved, 
+as in turbulence modeling. 
+We recognize that it can be costly to do a thorough study, 
+and that many practical engineering calculations will continue 
+to be performed on a single fixed grid. However, this practice 
+is insufficient for publication in an archival journal. 
+Kline, S. J ., "The Purposes of Uncertainty Analysis," ASME JOURNAL OF 
+FLUIDS ENGINEERING, Vol. 107, June 1985, pp. 153-164. 
+Patrick J. Roache 
+KlrtiN.Ghia 
+Frank M. White 
+JFE Editorial Board 
+Contents (continued) 
+18 Call for Papers - Symposium on Turbulent Shear Flows 
+33 Erratum on a Previously Published Paper by T. Bulaty and H. Niessner 
+38 Erratum on a Previously Published Paper by A. M. Lynnworth and L. C. Lynnworth 
+46 Transactions Change of Address Form 
+63 Call for Papers-1987 Fluids Engineering Spring Conference 
+70 Call for Papers - Symposium on Parallel Processor Applications in Fluid Mechanics 
+122 Announcement - 1987 Spring Meeting 
+2/Vol. 108, MARCH 1986 Transactions of the ASME 
+Copyright © 1986 by ASME
+  Downloaded 12 Jul 2010 to 129.132.59.11. Redistribution subject to ASME license or copyright; see http://www.asme.org/terms/Terms_Use.cfm
+
+

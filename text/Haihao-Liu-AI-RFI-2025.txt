@@ -1,0 +1,66 @@
+1 This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution. 
+March 5, 2025 
+To: 
+Mr. Michael J.K. Kratsios 
+Assistant to the President for Science and Technology 
+Director, Office of Science and Technology Policy 
+Dear Mr. Kratsios, 
+In light of the recent release of a near-SotA AI model (R1) from the Chinese company 
+DeepSeek, I am writing to propose some concrete actions the Administration can consider taking 
+in response to these developments, as part of the nation’s AI Action Plan. 
+As you are likely aware, DeepSeek’s models stand out for several key reasons: 
+● They are all released under the MIT License with “open weights” and most with
+accompanying technical reports detailing their implementation freely available on arXiv.
+This lowers the bar for setting up local deployment of the models as well as their
+unrestricted modification.
+● R1’s performance on a variety of benchmarks is nearly on par with SoTA LLMs like
+OpenAI’s GPT-4o and o1, despite being a significantly smaller model by number of
+parameters and cost of inference.
+● DeepSeek is a small startup with under 200 employees, only founded in July 2023.
+According to the company, its V3 model cost only $6 million to train, compared to $100
+million for OpenAI’s GPT-4, and used about one-tenth of the compute used to train
+Meta’s comparable Llama 3.1 model.
+● DeepSeek achieved this in spite of the US’s export controls on advanced Nvidia GPUs,
+forcing them to use an older, less powerful chipset.
+All of these factors contributed to the massive $1 trillion loss in the market value of US tech 
+companies, with Nvidia alone accounting for $600 billion of that. It is clearly a moment to pause 
+and reevaluate our national AI research and development strategy. 
+Days before the release of R1, the President announced the Stargate Project, a $500 billion AI 
+infrastructure investment by and into the private tech sector, led by OpenAI, Oracle, and 
+SoftBank. Much of that is planned to go into building more and larger data centers, the idea or 
+hope being that scaling laws will continue to hold. 
+But DeepSeek calls those assumptions into question. As figures like Gary Marcus have vocally 
+expressed for years now1, outside of Silicon Valley many AI experts and academics are skeptical 
+1 https://open.substack.com/pub/garymarcus/p/breaking- news-scaling-will-never 
+
+
+2 that the scaling paradigm will be what leads to the next breakthrough  in AI, let alone AGI. The 
+compute-quality correlation is an empirically observed phenomenon, with no theoretical basis as 
+of yet. Therefore, there’s no guarantee that higher compute won’t hit some plateau in quality  (as 
+OpenAI’s new GPT-4.5 is beginning to show), nor that we can’t achieve the same quality with less compute, as DeepSeek suggests (as do techniques like distillation).  
+Thus, my proposal is that we begin considering realigning both funding and research efforts 
+somewhat in the next few months. The National Artificial Intelligence Research Resource 
+(NAIRR) Pilot launched last year is one such avenue. For a fraction of the i nvestment needed to 
+build massive new data centers, I propose allocating a portion of the NSF appropriations into establishing a new graduate fellowship program focused on AI, similar to the DoE NDSEG  or 
+CSGF, and complementing the existing NSF GRFP (of which I was a fellow). In particular, there should be equal emphasis on theory and foundational research as on the business and industrial 
+applications of AI. 
+As the first holder of your office, Vannevar Bush, wrote in his epochal 1945 report
+2: 
+“Progress … depends upon a flow of new scientific knowledge. … This essential, new 
+knowledge can be obtained only through basic scientific research. … With some notable 
+exceptions, most research in industry and Government involves application of existing  scientific 
+knowledge to practical problems. It is only the colleges, universities, and a few research institutes that devote most of their research efforts to expanding the frontiers of knowledge.”  
+It would serve us well to remember and heed Bush’s advice. No doubt there will be pushback 
+from industry, as increased investment into basic science will in the short term likely compete 
+with funding for their own product-driven research efforts. But in the long run, as we have seen 
+time and time again, from the Internet to mRNA vaccines, the return on investment of basic 
+research is nigh incalculable. 
+Very respectfully submitted, 
+Haihao Liu 
+ Founder, Lead AI 
+Researcher 
+2 https://nsf- gov-resources.nsf.gov/2023 -04/EndlessFrontier75th_w.pdf  
+
+

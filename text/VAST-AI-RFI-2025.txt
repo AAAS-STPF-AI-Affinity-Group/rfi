@@ -1,0 +1,421 @@
+VAST Federal  
+RFI Response: Development of an AI Action Plan  
+Strategies and supporting policies  for managing data 
+throughout the lifecycle of an AI model  
+Kim Stephenson  
+Federal  Sales Director  
+Capitol  Hill Accounts  Jesse  Mundell  
+Senior Systems Engineer 
+Capitol  Hill Accounts  
+Mark  Maynard  
+Author 
+Senior Systems Engineer 
+Data Management for AI and Analyti cs 
+This document is approved for public dissemination. The document 
+contains no business -proprietary or confidential information. 
+Document contents may be reused by the government in developing 
+the AI Action Plan and associated documents without attribution.
+
+
+VAST Federal  
+VAST Federa l 2 
+Executive Summary  
+The VAST Data Federal team appreciates the opportunity to provide guidance on developing 
+strategies to successfully create and derive value from AI models as well as the policies 
+needed to support  those strategies.  Ultimately, the strateg ies and supporting policies the 
+government implements should encourage the creation of AI models that: 
+•Produce accurate and worthwhile output.
+•Are available for use when needed.
+•Respond in a timely fashion.
+To achieve this, AI strategies and policies must consider all the steps of the AI lifecycle used to build, train, deploy,  and maintain AI models: 
+1.Collect and stor e relevant data : Identify all available sources of data and extract
+and store a copy of all data relevant to the AI model.
+2.Prepar e the collected data for model training : Create and use an automated
+process to reformat the collected data.
+3.Acquire and train the model : Develop or acquire an AI model and train it using the
+reformatted data.
+4.Deploy the trained model for use : Prepare and deploy the model in an environment
+that logs all queries, responses , and the data used to create each response.
+5.Make new data available to the model : Periodically collect, prepare, and make new
+data relevant to the model available to it .
+6.Monitor and improve the model : Periodically review the model’s output and refine
+the model as needed to address any accuracy or other issues encountered.
+Moreover, AI strategy and policy must also address the following to ensure the government derives the greatest possible value from its investment in creating AI models : 
+•AI Governance: Ensure AI models are used ethically and produce unbiased output topromote fair, transparent, and explainable results.
+•Securing data: Preventing data from being modified or stolen is crucial to ensuringmodel accuracy and protecting data privacy.
+•Securely sharing data : The ability to easily and securely share data between AI
+models increases both the speed of model creation and the value of model output.
+•Simplifying AI platforms: Minimizing the number and complexity of the on-premisesand cloud solutions used to build the IT platforms to perform all steps of the AIlifecycle is essential to meeting availability and performance requirements.
+•Leveraging COTS (commercial off -the-shelf) solutions : Building AI platforms with
+cost-effective COTS solutions will increase the portion of limited budgets that can beallocated to AI model creation, training, and maintenance tasks.
+•Strategic use of cloud resources: Leveraging commercial cloud resources, whenappropriate, will reduce the time and cost to create AI models.
+•Resource efficiency: Minimizing the datacenter space and power used by AIplatforms will lower  costs and help ensure sufficient  resources are always available.
+Finally, the primary barrier to using AI to solve problems and improve the wellbeing of US citizens is the number of qualified AI professionals.  That said, a component of the government’s AI strategy should be to encourage students to pursue AI related careers and inspire technological innovations that reduce the level of effort to create AI models.
+ 
+
+
+VAST Federal  
+VAST Federa l 3 
+Table of Contents  
+Executive Summary ..................................................................................................................  2 
+Introduction ..............................................................................................................................  4 
+AI Governance. .........................................................................................................................  5 
+Producing output based solely on relevant data. ................................................................ . 5 
+Producing output that adheres to all relevant law. ..............................................................  5 
+Maintaining a log of all queries, generated output, and supporting data. ..........................  5 
+Data security. ............................................................................................................................  6 
+Securely sharing data between AI models. .............................................................................. 8 
+Addressing multiple data types. ...........................................................................................  8 
+Addressing multiple data access protocols. ......................................................................... 9 
+Addressing data distributed across multiple locations and location types. .......................  10 
+Addressing data sharing between models that change data. ............................................ 10 
+Building simple and easy to manage AI platforms. ................................................................  11 
+Using COTS solutions to build AI platforms. ........................................................................... 12 
+Strategically leveraging cloud resources to create AI models. ...............................................  13 
+Minimizing the datacenter resources needed to create and host AI models. .......................  13 
+Conclusion  ..............................................................................................................................  14 
+
+
+VAST Federal  
+VAST Federa l 4 
+Introduction 
+Your VAST Data Federal account team appreciates the opportunity to respond the RFI 
+(Request for Information) on the Development of an Artificial Intelligence (AI) Action Plan .  
+As experts in providing data management services to AI models and analytic systems, our goal is to provide recommendations for developing the data management portion of the government’s AI strategies and supporting policies.  It is our intention to help the government  to encourage the creation of AI models that: 
+•Produce accurate and worthwhile output.
+•Are available for use when needed.
+•Respond in a timely fashion.
+To achieve this, our recommendations will be applicable to all the steps of the AI lifecycle 
+used to build, train, deploy, and maintain AI models: 
+1.Collect and stor e relevant data :
+a. Catalog all available sources of data.b.Determine what data in each source is relevant to the AI model.
+c.Copy all relevant data to a data repository.
+2.Prepar e the collected data for model training :
+a. Determine how the data should be formatted for model training.b.Purchase or create the software to reformat all collected data.
+c.Remove redundant data to ensure that it does not unduly impact the results.
+3.Acquire and train the model :
+a. Purchase or create the AI model.b.Train the model using the prepared data.
+c.Prepare the trained model for operation.
+4.Deploy the trained model for use :
+a. Provide users with access to the model.b.Record all queries.
+c.Record all results to include the data points used to generate the results.
+5.Continuously make new data available to the model :
+a. Identify new sources of relevant data and eliminate old sources that are no
+longer relevant.
+b.Copy new relevant data to the data repository and reformat it.
+c.Make the new data available to the model using RAG (Retrieval-AugmentedGeneration) or an abbreviated training effort.
+6.Continuously monitor and improve the model :
+a. Periodically review a sample of the model’s activity.b.Determine if the model is producing accurate and worthwhile output.
+c.Address any model accuracy or other issues encountered.
+Finally, our recommendations will be broken out into seven  high level categories: 
+1.AI governance.
+2.Data security.
+3.Securely sharing data between AI models.
+4.Building simple and easy to manage AI platforms.
+5.Using  COTS (commercial off-the-shelf) solutions to build AI platforms.
+6.Strategically leveraging cloud resources to create AI models.
+
+
+VAST Federal  
+VAST Federa l 5 
+7.Minimizing the datacenter resources needed to create and host AI models.
+AI Governance. 
+Without governance, AI models have the potential to create output that mirrors human bias 
+and encourages unethical activity.  Given consensus on what defines ethical behavior for a particular situation is rare, mandating ethical behavior will require an approach based on having organizations document what data they make available to AI models as well as all model activity.  That said, to ensure fair, transparent, and explainable results, VAST recommends the government institute policy that requires AI model builders and the organizations that use those models to: 
+•Produce output based solely  on relevant data.
+•Produce output that adheres to all relevant law.
+•Maintain a log of:
+oAll queries.
+oThe output produced by each query.
+oThe data used by the model to generate and substantiate all output.
+Producing output based solely on relevant data.  
+AI models produce output based exclusively on the data made available to them during the training, deployment, and operational phases of the AI pipeline. 
+To ensure the use of only relevant data, model builders and the organizations that use them 
+should be required to define what types of data a model will use to produce output and implement data discovery tools to validate all the data made available to the model fits within that definition.   
+Moreover, all data discovery tools should be required to log their activity, and model 
+builders and organizations should be required to write those logs to data repositories that prevent the log data from being changed. 
+Finally, the government should define how long model builders and organizations are 
+required to retain their data discovery logs and require the use of data repositories that don’t permit the log data to be deleted until the required retention period has expired. 
+Producing output that adheres to all relevant law.  
+People  using AI models to produce information to guide their decisions will at times need 
+help to ensure they are complying with all federal, state, and local law. 
+To help ensure AI models don’t generate information that would lead people  within 
+organizations to make decisions that violate the law, the government should require AI 
+model builders to include the ability to assess the legality of the model’s  output based on 
+data about the laws governing organizational decision makes.  Moreover, the government should require organizations using  AI models to define what laws are relevant to their 
+decisions and make data about those laws available to their AI model implementations. 
+Maintaining a log of all queries, generated output, and supporting data.  
+The government should require organizations using AI models to be able to prove what data was used by the model to generate output for each query (both data relevant to the model and data about the laws governing the organization’ s decisions).  
+
+
+VAST Federal  
+VAST Federa l 6 
+For organizations to be able to meet that requirement, the government should also require 
+organizations to maintain a log of every query, the output generated to answer each query, and the data used by the model to produce the output.  Moreover, the government should also define the retention period for these logs and require the logs to be stored in data 
+repositories that don’t allow data to be changed or deleted until the retention period has expired. 
+Data security . 
+In today’s world, Zero Trust is synonymous with cybersecurity and data security.  In short, Zero Trust is a security model that assumes that networks can never be made completely secure, so it is necessary for all hardware and software on the network to include features 
+to enforce relevant security policy. 
+With regards to data, hardware and software used to store and process data needs to 
+include all the audit, governance, tagging, monitoring, encryption, loss prevention, and access control features required by the Zero Trust data pillar. 
+Table 1: Summary of the components of the Zero Trust Data pillar: 
+4.1 - Data Catalog Risk 
+Assessment  Audit an organization’s data and security capabilities to identify and prioritize security gaps and manage security risks. 
+4.2 - DoD Enterprise Data 
+Governance DoD policies and practices to manage and secure data across the entire enterprise. 
+4.3 - Data Labelling and 
+Tagging Label and tag data to document its sensitivity level. 
+4.4 - Data Monitoring and 
+Sensing  Track and trend data access and usage patterns. Alert on anomalous behaviour. 
+4.5 - Data Encryption & 
+Rights Management Encrypt data when at rest and in flight. Ensure any digital rights management is enforced. 
+4.6 - Data Loss Prevention 
+(DLP)  Prevent unauthorized data sharing and use. 
+4.7 - Data Access Control Include technology that enforce policies governing access to data. 
+Addressing all components of the Zero Trust data pillar is critical across all steps of the AI lifecycle to ensure data is never stolen or maliciously modified.  If data is stolen, organizations are at risk of both violating data privacy laws and any other consequences associated with the dissemination of proprietary or classified information.  If data is maliciously modified, AI models are at risk of reporting inaccurate results. 
+VAST recommends that the government require the following features to address all 
+components of the Zero Trust Data pillar and provide comprehensive protection from data modification, corruption, loss, and theft: 
+1.Audit logging (Zero Trust Data pillar component 4. 4):
+a.All data access activities (reads, writes, and updates) should be logged.
+b.All hardware telemetry data (errors, failures, space and performance capacityalerts, and other issues that could potentially interrupt access to data orcause data loss) should also be logged.
+
+
+VAST Federal  
+VAST Federa l 7 
+c.It should be possible to forward all log entries to an external system (such as
+syslog or Splunk) to enable the log data to be analyzed.
+2.Data labeling  (Zero Trust Data pillar components 4. 1 and 4. 3):
+a. Data repositories should support attaching key paired labels (example:
+custom descriptor = user defined value, “data_subject = AI_policies”) to filesand objects (such as NFS extended file attributes and S3 tags) indicating whatdata is in the files and objects as well as the sensitivity or classification levelof the data.
+b.Data repositories should also support automatically adding labels to files orobjects based on the file directory or object bucket they are placed into.
+c.Data repositories should also maintain a searchable list of all files and objectsadded to the repository to include traditional file metadata (name, creationdate, last modified date, size, etc.) and any data labels.
+3.Backup and recovery (Zero Trust Data pillar component 4. 2):
+a. Provide some means (such as data snapshots) to enable organizations to
+quickly recover the contents of a data repository should the data becorrupted or destroyed.
+b.Given modern ransomware targets backup systems as well as primary datarepositories, there should be a feature to enforce backup retention policiesthat prevents backups from being modified or deleted.
+4.Data encryption  (Zero Trust Data pillar component 4. 5):
+a. All data transmitted over a network and written to non-volatile storage
+(SSDs, mechanical disks, tapes, etc.) should be encrypted using a FIPS 140-3validated crypto module.
+b.Given  it is often necessary to make it impossible to recover data from a data
+repository (such as when decommissioning outdated IT equipment)encryption keys need to be stored in a key manager (internal or external)that supports deleting the keys and making it impossible to recover the data(a process often referred to as “crypto shredding”).
+5.Disaster Recovery (Zero Trust Data pillar component 4. 2):
+a. Provide some means (such as real time data replication) to auxiliary data
+repositories located in the same datacenter and located at an alternatedatacenter or a cloud provider.
+b.This ensures data will still be available in the event of catastrophic hardwarefailure or the complete loss of a datacenter.
+6.Enterprise authentication  (Zero Trust Data pillar components 4. 6 and 4. 7):
+a. All systems storing data should leverage a common enterprise authentication
+system (such as LDAP or Microsoft Active Directory) to authenticate usersand authorize data access.
+b.This ensures consistent user access to data across all data repositories.
+7.Multi-Tenancy  (Zero Trust Data pillar components 4.6 and 4.7):
+a. All data management systems should have the ability to be logically divided
+into multiple virtual data management systems each with their own networkinterfaces, data repositories, and configurations.
+b.This makes it possible to improve security by isolating datasets and allassociated users to a private solution without introducing excessiveadministrative or financial overhead.
+
+
+VAST Federal  
+VAST Federa l 8 
+8.RBAC and ABAC (Zero Trust Data pillar components 4.6 and 4.7):
+a. Both RBAC and ABAC should be required:
+i.RBAC: Role based access control.
+ii.ABAC: Attribute based access control.
+b.This will ensure only particular users, users in particular groups, or users that
+possess particular attributes can access data.
+9.System management APIs (Zero Trust Data pillar component 4. 2):
+a. All data management systems should have an API (Application Programming
+Interface) that enables administrators to leverage automation systems (suchas Red Hat Ansible) to automate all steps of the configuration process.
+b.This will help ensure that all data management systems are properly andconsistently configured which in turn will reduce the chances that aconfiguration error creates a security vulnerability.
+Securely sharing data between AI models. 
+Just as different groups of people use similar or overlapping datasets to consider different aspects of a problem or situation, organizations often create multiple AI models to do the same thing.   In these cases, the ability to securely share data between AI models will dramatically reduce the level of effort and data management resources required to collect and prepare data as these steps will only need to be done once for each group of AI models using a common dataset. 
+As explained in the data security section, addressing all components of the Zero Trust Data 
+Pillar is critical to securing data.  This is especially true when multiple AI models controlled by different groups need to securely share data. 
+Additionally, enabling AI models to securely share datasets requires a data management 
+platform that also addresses the following challenges: 
+1.There are multiple types of data.
+2.There are multiple protocols used to access data.
+3.Data is often distributed across many locations and location types.
+4.Having two or more AI models share datasets when there is a risk that each model’ s
+data changes could impact the results of one or more other models.
+Addressing multiple data types.  
+AI models use three basic types of data: 
+1.Structured : Data with a standard format that is self-describing and can be stored in
+tabular form, examples include:
+a.Telephone records.
+b.Banking transactions.
+c.Stock trading history.
+2.Unstructured : Data files and objects that do not have a fixed structure and must be
+described and given structure by the data management solution, examples include:
+a.Audio.
+b.Photo.
+c.Video.
+3.Semi -structured : Structured data that either includes links or references to
+unstructured files or objects, or data that has a less rigid organization than the
+
+
+VAST Federal  
+VAST Federa l 9 
+structured data examples given above (this data may also include links or references 
+to unstructured data), examples include: 
+a. Structured data about people (name, phone number, birthday, etc.) that
+includes links to relevant unstructured data files (photographs, files theycreated, etc.).
+b.Structured data about sales transactions (product name, purchase date,price, etc.) that includes links to relevant unstructured data files (purchaseorder, receipt , etc.).
+c.HTML files (commonly include links to audio, photo, or video files).
+d.Email messages (include links when one or more files are attached to the
+email).
+e.Log files.
+f.Configuration files.
+Historically, organizations have had to acquire , integrate, and maintain separate data 
+management solutions for structured, unstructured, and sometimes even semi-structured 
+data.  Maintaining multiple data management solutions naturally takes more effort and that effort  increases as additional solutions are added. 
+However, the most challenging aspect of maintaining separate systems for structured and unstructured data is the storage of semi-structured data.  Given semi-structured datasets contain both structured and unstructured data, they have often had to divided between at least two data management solutions (one for the structured portion and one for the unstructured portion).  This creates challenges for IT operations teams as they must ensure backups, disaster recovery replication, data management software upgrades, and other activities are coordinated to avoid data consistency issues when doing recoveries or 
+excessive downtime when upgrading data management systems. 
+In recent years, products that store both structured and unstructured data have been 
+introduced.  In addition to the decrease in administrative effort that comes with only having to maintain a single data management solution, many also automatically coordinate backups and disaster recovery activity. 
+That said, the government should require the use of a data management solution that 
+stores and manages structured data (in both database tables and files), unstructured data (as both files and objects), and semi-structured data (in a way that enables AI models to easily access both the structured portion and follow the links to the unstructured portion) to effectively support all AI efforts.  Additionally, as there are still AI and other platforms that store a portion of the data on block “LUN” devices, the government should require all data management solutions to support them as well. 
+Addressing multiple data access protocols.  
+There are three primary protocols for accessing unstructured data: 
+1.NFS: A network filesystem protocol commonly used by UNIX and Linux systems.
+2.SMB : A network filesystem protocol commonly used by Windows and MacOS
+systems.
+3.S3: An object storage protocol invented by AWS that has been used by so manyapplications and data management solutions that it has become a de facto standard.
+
+
+VAST Federal  
+VAST Federa l 10 
+When developing AI models, many factors go into determining which protocol or 
+combination of protocols to use.  Moreover, the protocol best suited to one AI model may not be a good choice for another. 
+Structured data is generally stored in databases and later retrieved using SQL (Structured 
+Query Language) commands.  However, when developing AI models, it is sometimes advantageous to use structured file formats (such as Parquet) to store and process structured data.  This enables AI models to use the unstructured data protocols (NFS, SMB, and S3) to store and retrieve structured data. 
+The following features should be required by the government to ensure different AI models 
+are able to share data: 
+1.Unstructured data can be stored using NFS, SMB, or S3.
+2.All stored unstructured data is accessible using NFS, SMB, and S3 regardless of theprotocol used to store the data.
+3.Structured data can be stored and retrieved using SQL commands.
+4.Structured data can also be stored and retrieved by using  the unstructured data
+protocols (NFS, SMB, and S3) to store and retrieve structured file formats (such asParquet).
+The combination of these requirements will ensure all structured and unstructured data is accessible to AI models regardless of how each model needs to store and retrieve data. 
+Addressing data distributed across multiple locations  and location types.  
+For various reasons, organizations often face the need to have data (to include portions of a single dataset) distributed across multiple locations and a mix of location types (edge, on-premises, and cloud).  While the simple answer would be to copy all data to every location, this is rarely possible and always expensive. 
+For those reasons, organizations creating AI models that need data from multiple locations 
+must create and maintain complicated processes to search the data at every location.  This 
+often results in models not incorporating all relevant data and producing sub-optimal output.  This is especially prevalent in dynamic environments where locations and datasets within locations are regularly added, altered, or eliminated 
+To avoid this issue, the government should require the use of a data management platform 
+that:  
+•Allows AI models to search for data at any location and have that searchautomatically extend to every location.
+•Allows AI models to retrieve data from every location without having to connect tothe data management system at every location.
+•Can be used at all edge, on-premises, and cloud locations.
+Addressing data sharing between models that change data.  
+There are times when AI models must make changes to the data as they process it.  When two or more models are sharing data, each model’s changes can cause other models to produce inaccurate output or fail. 
+
+
+VAST Federal  
+VAST Federa l 11 
+While it is possible to make a full copy of a dataset for each model’s exclusive use, doing so 
+wastes precious time and expensive data management resources.  This is especially problematic when dealing with the large datasets typically used by AI models. 
+To avoid these issues, the government should require the use of data management 
+platforms that can create pre-deduplicated copies of data. 
+Because these data copies are pre-deduplicated (meaning no data is physically copied when 
+they are created), they consume no additional storage space and can be created in seconds regardless of the dataset size. 
+However, because each copy is a full and separate copy (just pre-deduplicated), going 
+forward writes to each copy are only visible and available to the AI model using that copy 
+and each copy only consumes enough disk space to store the differences between the copy and the original source. 
+Thus, with the ability to create pre-deduplicated copies of data, the government will always 
+be able to make a separate copy of each dataset for the exclusive use of each AI model 
+without wasting time or data management resources. 
+Building simple and easy to manage AI platforms. 
+AI models work with large datasets, need to be able to read from and write to those datasets as fast as modern CPUs and GPUs can process the data, and should always be 
+available when needed.  As a rule (and data management systems are no exception), the more complicated an IT solution is, the more likely it will scale poorly, perform slowly, and 
+fail often. 
+Regarding data management, the government should require all data management 
+platforms used by AI models to have the following features, capabilities, and characteristics to avoid complexity: 
+1.Scale:
+a. Have a single inventory of both data capacity and storage performance.b.Be able to independently scale data capacity and storage performance.
+c.Realize linear gains in performance as capacity is increased.
+2.Performance:
+a.Use only high -performance solid-state storage.
+b.Provide peak performance without the need to tune system settings.
+3.Availability:
+a. Provide a means to automate all administrative activity.b.Support non-disruptive software upgrades.
+c.Support non-disruptive capacity and performance upgrades.
+Legacy data management platforms are comprised of controllers (nodes that process read and write requests) or redundant pairs of controllers directly connected to some number of SSDs.  Moreover, these controllers and controller pairs can be clustered together to increase 
+performance and capacity.  However, because the SSDs are directly connected to 
+controllers, all reads and writes to those SSDs must be processed by the controller they are connected to.  As a result, each controller (or controller pair) and its directly connected SSDs form a separate inventory of storage performance and data capacity.  These legacy architectures create three problems for large AI models: 
+
+
+VAST Federal  
+VAST Federa l 12 
+1.These clusters will yield poor performance if even a single controller (or controller
+pair) becomes overloaded.
+2.These clusters cause workloads to fail for lack of free space if the SSDs connected toa single controller (or controller pair) run out of free space even when there is plentyof free space throughout the rest of the cluster.
+3.These clusters often require controllers (or controller pairs) to exchange data witheach other to process read and write requests.  As the clusters grow larger, thepercentage of the cluster’s performance capacity used to manage thiscommunication increases.  As a result, each subsequent upgrade to the clusterprovides a smaller increase in performance.
+Legacy data management platforms also use some combination of high-performance solid-state storage, mechanical disks, and tape to store data.  These “tiered” storage systems (as they are often called) operate under the premise that only a small portion of a dataset is accessed enough to warrant the use of more expensive flash storage.  The portion of the data that is less frequently accessed is relegated to slower mechanical disk and even tape storage.  While some workloads do fit this premise, most AI models regularly make use of all 
+stored data making it impossible for these tiered systems to provide the needed performance for the portion of the dataset not located on flash storage. 
+Additionally, many legacy data management systems also require administrators to 
+understand and use large numbers of complex configuration “best practices” and tunable 
+parameters to achieve optimal performance.  These “best practices” and tunable parameters are often in place to overcome the complexities associated with having to manage multiple inventories of performance and capacity as well as the need to store data across a combination of storage tiers.  Sadly, these “best practices” and tunable paramete rs 
+are generally not well understood and as a result cause more performance and scalability problems then they solve. 
+Administrators of legacy data management systems have historically had to manually 
+configure them using a web browser or command line interface.  Given the number and complexity of steps required to configure  a data management system, this often resulted in 
+configuration errors that negatively impacted both performance and availability. 
+Moreover, many legacy data management systems require administrators to schedule 
+downtime to perform software, capacity, and performance upgrades.  Downtime (whether measured in hours, days, or weeks) is always impactful to AI model owners and users. 
+However, modern data management systems include the features, capabilities, and 
+characteristics needed to avoid these complexities.  When using these modern systems, administrators can provide data management systems that minimize complexity and deliver scalable, performant, and highly available solutions. 
+Using COTS solutions to build AI platforms. 
+To avoid expending budgets and available DEVOPS resources recreating solutions that already exist, AI model designers and developers should always use commercial off-the-shelf (COTS) solutions whenever possible.  Many available COTS solutions are capable, feature rich, thoroughly tested, reliable, can be acquired from opensource projects at minimal cost, and can dramatically reduce the level of effort associated with the data collection, data preparation, and model monitoring phases of AI pipelines. 
+
+
+VAST Federal  
+VAST Federa l 13 
+When used, these COTS solutions enable organizations to direct a larger portion of their 
+limited budgets and DEVOPS resources creating and optimizing software capabilities that don’t currently exist. 
+To encourage the use of COTS software, government agencies should require contractors to 
+justify all cases where they propose to recreate software capability that could be purchased from commercial sources. 
+Strategically leveraging cloud resources to create AI models. 
+While all phases of the AI pipeline are resource intensive, model training is extraordinarily so.  Moreover, the GPU and CPU resources required to conduct model training are: 
+•Expensive.
+•Often difficult to source due to supply chain constraints.
+•Likely to become obsolete in less than a year after they are acquired.
+However, these issues are easily overcome by utilizing (renting) cloud resources to conduct model training. 
+Unfortunately, copying the data needed to train models to the cloud can be complicated 
+and time consuming.  Moreover, many cloud data management services use different APIs and interfaces then their on-premises equivalents which requires developers to refactor training software before it can be used in the cloud. 
+These issues can be easily overcome by leveraging data management solutions that are 
+available for use in both on-premises and cloud locations.  These data management solutions almost always include utilities for migrating data between locations and use consistent APIs and interfaces for reading and writing data. 
+By requiring contractors to use data management services available for use in both on-
+premises and cloud locations, government agencies can be assured the cost of contractor provided AI models will not be unnecessarily inflated by these costs. 
+Minimizing the datacenter resources needed to create and 
+host AI models. 
+The amount of datacenter space, power, and cooling resources used by data management 
+solutions is directly tied to the amount of data written to SSDs.  While it’s unreasonable to 
+suggest that organizations simply store less data, it is possible to use software features to compress, deduplicate, and otherwise reduce the amount of solid-state storage required to store the data. 
+Government agencies should require contractors to leverage software features that reduce 
+the amount of solid-state storage required to store the data for the following reasons: 
+1.Datacenter resources are expensive :  Many storage management vendors using
+these technologies can reduce the amount of solid-state storage required to storedatasets by a factor of three or more.  This in turn can reduce the datacenter costsassociated with storing data by 66% or more.
+2.Datacenter resources are  often in short supply :  Leveraging software features to
+reduce the amount of datacenter resources required by an AI model, makes it easier
+
+
+VAST Federal  
+VAST Federa l 14 
+to find and acquire datacenter environments with sufficient resources to train and 
+host the AI models they create. 
+Conclusion 
+As experts in providing data management services to AI models and analytic systems, VAST is confident that the recommendations contained in this document for developing the data management portion of the government’s AI strategies and supporting policies will help the government to encourage the creation of AI models that: 
+•Produce accurate and worthwhile output.
+•Are available for use when needed.
+•Respond in a timely fashion.
+These recommendations will help ensure that: 
+1.Contractors provide secure solutions that will protect the government’s data.
+2.The government can acquire solutions that enable their AI models to share data.
+3.The government’s AI models are hosted on simple and easy to manage platforms.
+4.Contractors use low -cost COTS (commercial off-the-shelf) solutions to provide
+needed functionality whenever possible.
+5.AI models strategically leverage cloud resources to reduce costs.
+6.Contractors build AI models that require a minimal amount of datacenter resources.
+Finally, VAST recommends the government takes the following steps to determine if any other data management capabilities are needed to successfully build, deploy, and operate their AI models: 
+1.Invite data management providers to participate in a pilot program to measure theability of their solutions to meet the needs of government AI models.
+2.Invite government AI model owners to evaluate the capabilities, performance,availability, and other key metrics of each vendors’ data management solution.
+3.Encourage the defense, intelligence, and other government communities that oftenoperate in extreme conditions to evaluate the ability of each vendors’ datamanagement solution to meet their specific environmental requirements.
+
+

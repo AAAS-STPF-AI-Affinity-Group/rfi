@@ -1,0 +1,447 @@
+To: Faisal D’Souza, NCO 
+Office of Science and Technology Policy              
+2415 Eisenhower Avenue 
+Alexandria, VA 22314        
+1 March 14, 2025 
+SemiAnalysis LLC 
+3896 Coastal Highway 
+Crawfordville, Florida, 32327 
+2415Eisenhower Avenue This document is approved for public dissemination. The document 
+contains no business-proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution.    
+Re: 90 FR 9088 Request for Information on the Development of an Artificial Intelligence (AI) Action 
+Plan 
+Response prepared by Dylan Patel and AJ Kourabi. 
+Introduction 
+To win in AI, the US needs to win in AI infrastructure. We outline specific problems facing the US from 
+winning the infrastructure race and key steps to overcome them.  
+We propose recommendations in four areas: 
+Summary of Key Recommendations 
+(1) US-based chip manufacturing:
+a. Heavily incentivize three key manufacturing capabilities: advanced logic, packaging, and
+HBM manufacturing.
+b. Work across industry to enable the development and expansion of Intel Foundry’s R&D.
+c. Fast-track or exempt chip manufacturing facilities from onerous permitting requirements.
+d. Set a national goal for domestic capacity to meet 50% of AI chip demand by 2028.
+(2) Energy supply for datacenters
+a. Speed up grid interconnections (connecting local grids with power surplus to larger grids)
+for both power generators and power consumers and promote flexible next-generation
+solutions to improve overall grid utilization.
+b. Simplify permitting datacenters to build their own power generation and natural gas
+infrastructure by reducing EPA regulatory requirements for air pollution permits.
+c. Increase transparency on data center electricity use to strengthen market efficiency,
+improve pricing, and support investment growth.
+(3) Export Control Regulations
+a. Expand controls to accommodate for interconnect bandwidth and networking technology.
+b. Control the Nvidia H20 GPU to limit China’s ability to develop advanced AI domestically.
+c. Control semiconductor machine subsystems to prevent China from reengineering its way
+around controls.
+(4) Export Control Enforcement
+
+
+  
+2 
+ a. Increase funding and resources allocated to the Bureau of Industry and Security (BIS) for 
+export enforcement. 
+b. Pursue stronger coordination with allied countries on export controls to prevent stockpiling 
+of restricted technologies. 
+AI is the critical technology change of the next few decades. We believe that AI will increasingly replace 
+traditional software and expand capabilities in every aspect of technology and industry.  
+Traditional software has been labor-intensive but capital–light. Generative AI and large language models 
+are not capital-light and represent a paradigm shift in infrastructure requirements. 
+An important observation in AI is Scaling Laws, which demonstrates that an increase in computing 
+power, data, and parameters corresponds to an increase in capabilities for a model. The continuous 
+increase in capabilities means that while AI may not be able to fulfill many aspects of economic activity 
+today, continued progress in computing power should lead to a meaningful impact in almost all 
+knowledge work in the future.  
+Like how most businesses were run not on the Internet pre-2000 and the following 20 years were about 
+moving business and everyday functions to be Internet-enabled, AI will impact almost all information 
+industries, such as biomedical engineering, manufacturing, software development, and military 
+capabilities. The “digital transformation” will give way to AI transformation.  
+Most leading US technologies understand the critical importance of AI. Chinese counterparts such as 
+DeepSeek and Alibaba understand that that large-scale infrastructure is a key competitive advantage in 
+pursuing AI capabilities. Both American companies and Chinese counterparts are now engaging in a 
+trillion-dollar arms race – and it is important the US government enables better and faster industrial 
+production to support the United States companies and industries that are pursuing AI capabilities.  
+We believe that the US government can accomplish meaningful support to the burgeoning AI industry by 
+following our four key suggestions. Starting with US manufacturing of the key element of AI: Compute.  
+1) US-Based Manufacturing 
+Today, we are at the lowest level of domestic semiconductor manufacturing in this country's history. 
+Despite inventing the semiconductor  and creating most of the value from its subsequent 
+industrialization, the U.S. struggles to produce semiconductors domestically today. Taiwan is 
+committed to ensuring that the leading technologies remains in Taiwan and not be moved over to the 
+U.S., despite considerable subsidies, including Research and Development (R&D).  
+Supply of semiconductors must be guaranteed by onshoring manufacturing. Without capacity, all other 
+capabilities pursued by the U.S. could be cut off very quickly. An analogy is owning power plants 
+operating on natural gas but having to import natural gas. If we cannot produce the core supply needed 
+for AI, it's hard for the U.S. to have AI self-sufficiency.  
+
+
+3 Were access to TSMC’s Taiwan manufacturing capabilities cut off today, AI chip shipments would drop 
+to zero. Even in the most optimistic timeline, it would take five years at minimum to build new U.S. 
+manufacturing capacity to replace what Taiwan can build in 2025: 
+Figure 1 - Losing TSMC production today would create at least a five-year gap in AI chip supply—a blow to 
+U.S. competitiveness. Source: SemiAnalysis 
+In the meantime, China would catch and surpass the Western world in advanced semiconductor 
+manufacturing. While their capabilities today are ~5 years behind, the U.S. would lose advanced R&D 
+along with Taiwanese manufacturing. There is no prospect of restoring leading-edge R&D capability from 
+zero in a 5-year timespan. It is critical that the U.S. maintain leading-edge semiconductor R&D. The 
+only U.S. entity capable of this today is Intel Foundry. Thus, it must be kept alive for economic and 
+national security reasons. 
+Our analysis considers the multiple parts needed to make a leading high end AI chip today. There are 
+separate manufacturing capabilities needed to produce these chips: advanced logic for GPUs , DRAM 
+for HBM (high bandwidth memory), and advanced packaging  to combine them.  
+Advanced Logic 
+Advanced logic refers to semiconductors fabricated at the smallest dimensions, often called the 
+“leading edge.” In the context of GPUs or accelerators for AI, advanced logic refers to the brains of the 
+operation. TSMC is the only viable producer of semiconductors for GPUs. Advanced logic manufacturing 
+also has other applications including CPUs, switches, mobile semiconductors (system on chip, or SoC), 
+and other logic. TSMC is based in Taiwan with only a few fabrication facilities in the US. This is a critical 
+chokepoint for the United States.  
+
+
+  
+4 
+ Advanced logic is a bottleneck as TSMC Arizona can only supply ~10% of demand for AI . This excludes 
+semiconductor supply needed for phones, networking equipment, desktop computers and other critical 
+capabilities. Advanced logic is the longest lead time to replacement, even with an emergency it would 
+take 36 months minimum from project funding to first wafers out. Even with aggressive ramps into high 
+volumes, it’s unlikely we could replace demand in 5+ years of supply response. For the entire duration of 
+the supply ramp, the United States would be severely crippled in AI chips, not to mention networking, 
+phones, and computers.  
+This is the single greatest risk to America’s technological future and security. To de-risk this critical 
+chokepoint, manufacturers must be incentivized to build new capacity in the U.S. There are two key 
+issues that make the U.S. less desirable than Asian countries for new fab buildouts: cost and time-to-
+market. Higher costs in the U.S. are often blamed on labor, but fabs are largely automated and operating 
+expenses are largely driven by depreciation and raw materials, not personnel. Initial fab construction is 
+more expensive in the United States, and we believe consists of up to 30-40% of the capital expense for 
+building and outfitting a new facility. 
+The main cost difference is artificial, driven by subsidies. Foreign countries heavily subsidize chip 
+manufacturing such that building and operating fabs is significantly cheaper (this excludes possible 
+CHIPS Act disbursements). China provides more than $15B in direct subsidies to its semiconductor 
+manufacturing industry each year. Japan provides subsidies and other incentives totaling at least $13B 
+annually through 2030, and Taiwan credits up to 25% of chip R&D expenses.  
+Another cornerstone capacity is leading edge R&D, which must also be done in the U.S. The rapid pace of 
+advanced logic development – characterized by Moore’s Law – means that leading-edge fabs are 
+superseded within 1-2 years. R&D is required to keep the pace of building capacity at the frontier. TSMC 
+fabs built in the U.S. are just a temporary stopgap as they’re still dependent on R&D in Taiwan. This is 
+“leasing” the technology not owning it and creating true security.  
+The best option is likely Intel. Intel foundry has execution issues, but it is the best-positioned American 
+company with both leading-edge R&D and high-volume manufacturing. Having either R&D or capacity 
+does not create security, but Intel foundry is the most likely candidate to achieve both. A further 
+collaboration between industry, Intel Foundry, and the government is needed to support and position 
+Intel to meet this critical American need.  
+HBM (High Bandwidth Memory) 
+High Bandwidth Memory (HBM) is a key distinguishing feature of modern AI accelerators like GPUs and 
+fabricated separately. As models scale to larger sizes, HBM is the critical piece that allows for accessing, 
+processing, and moving large amounts of data for model training or inference. This is a signature design 
+constraint in large language models, and HBM is the second most critical subcomponent.   
+The U.S. has no onshore HBM manufacturing. HBM requires DRAM (Dynamic Random Access Memory) 
+and an advanced packaging facility to stack DRAM into a single HBM package. The CHIPS Act 
+
+
+5 incentivized a Micron DRAM plant and SK Hynix packaging fab, but these cannot use each other’s 
+products and, therefore, cannot produce HBM. Incentives need to focus on a single manufacturer 
+onshoring both DRAM and HBM packaging. 
+Micron is the best candidate  as it’s the only U.S.-based company capable of producing HBM today. 
+R&D is done at its U.S. facilities, but all mass production is in Asia. Given that DRAM is commoditized, 
+cost is the key consideration for effective incentives to bring manufacturing onshore. Incentivizing and 
+encouraging high volume manufacturing will be important, but cost consideration is the biggest hurdle, 
+given memory is an intensely cost competitive business. Micron is capable of this but this needs to 
+happen with urgency.  
+Advanced Packaging 
+Advanced Packaging is the important glue that connects the advanced logic and HBM together into a 
+single package1. Chip on Wafer on Substrate (CoWoS) is the key technology used today in packaging 
+GPUs and accelerators by all leading players. CoWoS is a technology that requires specialized 
+equipment to connect parts together with extreme precision and alignment for the total package to work 
+together. TSMC is once again a leader in the space and has most of the capacity of this technology.  
+There is no advanced packaging capacity and barely any R&D in the United States today. Packaging 
+technology was historically considered a “back end” and not a differentiated process, but today we 
+believe it should be considered as important as the logic and HBM needs. We understand an 
+Amkor/TSMC joint facility with this capability is slated for construction in Arizona but won’t come online 
+until mid-2026 at the earliest. This facility needs to be accelerated and expanded, and it’s possible that 
+Intel Foundry could pursue packaging capacity and R&D domestically to create semiconductor security. 
+Recommendations 
+The recent efforts in the United States have begun the lengthy and expensive process of bringing back 
+semiconductor production to the United States. It is not enough . For the United States to lead in the AI 
+technology race, it must lead in semiconductor manufacturing. We have the technological potential – 
+but the intention and focus are insufficient. The United States must make US semiconductor 
+manufacturing a top priority. We recommend:  
+Encourage more high-volume manufacturing from TSMC and more R&D in the United States.
+Intel Foundry (or successor entity) must be the ultimate owner of high-volume manufacturing and
+R&D. A split as well as an industry consortium to closely partner Intel with actual customers to
+solve solutions is needed.
+1 Dylan Patel et al., AI Capacity Constraints—CoWoS and HBM Supply Chain , SemiAnalysis (July 5, 2023), Available at 
+https://semianalysis.com/2023/07/05/ai-capacity-constraints-cowos-and/ . (Accessed March 13, 2025). 
+
+
+6 Accelerate and cheapen the time to build a fab in the U.S. through removing regulatory hurdles
+such as permitting and planning. Even the fastest buildouts can take 736 days from capital to
+production. Japan and Korea’s timelines are 584 days and 620 days respectively.2
+Electricity is a key constraint. Federal and state governments can accelerate power timelines by
+fast-tracking interconnect approvals, aiming to reduce the year timeline to months.
+The United States needs a goal to reach for. We believe over 50% of US AI chip demand should
+be domestically manufactured by 2028 . This means an ecosystem investment in advanced
+logic, HBM, and advanced packaging.
+In sum, TSMC’s U.S. fab meets only 10% of AI chip needs, Micron has no domestic HBM production, and 
+advanced packaging capacity is almost entirely offshore. Without urgent interventions, these gaps will 
+widen in the coming years. 
+2)Energy Supply for Datacenters
+AI models demand vast amounts of data and compute, thus requiring meaningful amounts of power for 
+training and inferencing AI models. As users continue to adopt models, this means more power for AI 
+accelerators, such as GPUs, to train and infer the models. Users are growing, and with improving 
+technology means power is growing. 
+The physical location of where the compute for AI happens is in the datacenter. The datacenter houses 
+the servers and networking used to train and serve models to users. Because of the increasing demands 
+from users and models, datacenters are struggling to keep up. This is partially because of the United 
+States’ lagging energy infrastructure. The last decade of power usage in America has been stagnant, 
+while businesses have become more efficient in creating economic value with the same amount of 
+power.  
+AI changes this. America’s aging and slow power grid risks slowing down the AI infrastructure buildout – 
+benefitting rival countries like China with more flexibility and agility. Building the datacenters themselves 
+is also subject to heavy permitting overhead.   
+SemiAnalysis forecasts AI Energy demand to reach close to 150GW of Critical IT power by 2030. Hosting 50% of this in the US would imply a ~10% growth to the US peak electricity demand  (745GW) in five 
+years – after 15 years with near zero electricity demand growth  in the United States. Additionally, we 
+forecast that global GPU manufacturing capacity will significantly outpace datacenter construction. Our 
+analysis indicates that by the end of this year, there will be approximately 40GWs more power demand 
+from chips than worldwide datacenter projects. The key question is how much of those 40GW will be 
+2 John VerWey, No Permits, No Fabs: The Importance of Regulatory Permitting for Semiconductor Manufacturing , Ctr. for Sec. 
+& Emerging Tech. (Oct. 2021), Available at: https://cset.georgetown.edu/wp-content/uploads/CSET-No-Permits-No-Fabs.pdf . 
+(Accessed Mar. 11, 2025) 
+
+
+  
+7 
+ hosted in the US or in other nations. If power generation does not increase, the United States will fall 
+behind.  
+ 
+Figure 2 -Datacenter Critical IT Power.  Source: SemiAnalysis 
+This is critical to winning the future of AI. We propose a simple framework to accelerate AI power 
+adoption in the United States. We must accelerate grid interconnection , improve on-site power 
+generation , and increase information for datacenter  participants.  
+Accelerate the Grid Interconnection Process 
+Our conservative US datacenter growth scenario still dwarfs the total power generation to be added to 
+the US power grid. We estimate a gap north of 50GW by 2028 . This is a result of a timing mismatch: while 
+AI datacenters prioritize time-to-market, adding power generation is anything but quick – wait times on 
+average are over five years in the “project queue” before it can deliver power and serve users, as 
+indicated by a Department of Energy report funded under contract DE-AC02-05CH112313. 
+In some areas in the country, underutilized power assets enable datacenters to be served without 
+building new infrastructure. But they also face a “load interconnection” process and enter a queue of 
+projects – which we estimate at north of 350GW currently in the US. AI datacenter developers are frantically searching for power, and transmission utilities are overwhelmed.  
+Viable solutions are not being pursued today. Interconnection can happen faster by incentivizing utilities 
+to explore innovative solutions like demand-response programs via batteries or backup generators, 
+ 
+3 Joseph Rand et al., Queued Up: Characteristics of Power Plants Seeking Transmission Interconnection As of the End of 2023 , 
+Lawrence Berkeley Nat'l Lab (Apr. 2024), Available at:  https://emp.lbl.gov/sites/default/files/2024-
+04/Queued%20Up%202024%20Edition_1.pdf . (Accessed Mar. 6, 2025) 
+
+
+8 increasing utilization rates of existing transmission assets, or building new transmission assets. All of 
+these would increase utilization of the current energy infrastructure.  
+The Department of Energy and the Federal Energy Regulatory Commission can implement solutions that 
+have already been proposed, such as research from the Nicholas Institute that demonstrates how the 
+grid could support significantly more load through minimal curtailment4. 
+Accelerate On-site Power Generation 
+Leading AI-focused corporations like xAI have shifted to on-site power generation to bypass the energy 
+bottleneck. This significantly lowers the constraint on nationwide transmission and generation assets 
+and accelerates time-to-market for AI datacenters. 
+Unfortunately, challenges are slowing down the adoption of such systems: 
+Heavy environmental permitting constraints slow down natural gas generation onsite.
+Developers prefer a grid connection to provide backup power - and ISOs and RTOs struggle to
+account for such configurations, slowing down the approval process.
+Most utilities do not have experience in large load customers with on-site power generation but a grid 
+connection for backup power. In some areas, the regulatory framework doesn’t allow such 
+arrangements. This leads to a slowdown in the development of large datacenters with on-site power 
+generation. 
+The Executive Branch should consider a national framework for utilities to evaluate large loads with on-
+site power generation. The framework should provide multiple options to serve a broad range of target 
+datacenter uptime, for example: 
+Electrical grid is a secondary flexible power, but not a backup for a primary source, such as the
+AEP Ohio arrangement with natural gas fuel cells acting as primary power.
+Electrical Grid as backup power.
+An electrical grid is used as backup power under certain conditions, for example, in combination
+with a demand response program where the data center customer relies on its backup diesel
+generators.
+Increase Datacenter Data Transparency to Encourage Capital Market Participation 
+Energy market participants suffer from the lack of high-quality historical data publicly accessible on 
+datacenter electricity consumption. Datacenter load is only a subcategory of EIA’s “commercial load,” 
+4 Tyler H. Norris et al., Rethinking Load Growth: Regulatory Approaches to Electrification and Demand Growth , Nicholas Inst. 
+for Energy, Env't & Sustainability, Duke Univ. (Feb. 2024), Available at: 
+https://nicholasinstitute.duke.edu/publications/rethinking-load-growth . (Accessed March 10, 2025).  
+
+
+  
+9 
+ which is reported monthly. This will be one of the primary consumption categories in the future and 
+should be tracked and understood by the EIA as its own distinct category.  
+Information creates increased capital participation which leads to lower risk premiums and increased 
+liquidity. Without proper information capital is less willing to participate in the formation of power 
+generation.  
+Recommendations 
+Grid interconnection is a meaningful bottleneck for private capital to be deployed in the United States. 
+Our recommendations move to alleviate these issues. 
+ Accelerate Grid Interconnection:  Incentivize innovative utility measures (like demand-response 
+and battery storage) to cut down the current 5-year wait time and bridge the power gap. 
+ Expand On-Site Generation:  Streamline permitting and develop a national framework to enable 
+grid-connected, large-scale on-site power systems. 
+ Enhance Data Transparency:  Establish a dedicated EIA category for datacenter energy use to 
+attract capital and reduce investment risk. 
+ 
+3) Expansion and Adjustment of Existing Controls 
+It is critical that the United States maintains its leadership and does not export its competitive 
+advantages in AI as the country that created and leads in AI technology; exporting our competitive 
+advantage in this critical technology is helpful to other adversarial nation-states. We believe the current 
+export controls are a step in the correct direction, but have specific recommendations for chips, 
+networking, and semiconductor capital equipment.  
+AI Chip Exports and Networking 
+When evaluating an accelerator or GPU, there are three considerations: Computational power  
+(measured in Floating Point Operations Per Second, or FLOP/s), Memory Bandwidth  (measured in TB/s), 
+and interconnect bandwidth  (measured in GB/s or Gbit/s). Previous export controls have focused on 
+computational power, but this has allowed the optimization of the other two methods of performance. 
+Tens of thousands of Nvidia H20 GPU are purchased legally in China, which can outperformance the 
+controlled H100 GPU on some text generation tasks. This is because the initial rules didn’t encapsulate 
+holistic performance.  
+
+
+  
+10 
+  
+Figure 3 - Controlled and available GPUs under current and previous controls. Source: SemiAnalysis 
+A single GPU does not exist alone but is part of a cluster of tens of thousands of chips. A slower worker 
+that is more in sync with its collective group can perform just as well as a faster worker that is out of 
+sync. This compares compute (single worker speed) to interconnect (synchronization of GPUs). Two 
+standard technologies connect chips in the “scale up” and “scale out” domains. NVLink is an example of 
+a “scale up” network and Infiniband or Ethernet is an example of a “scale out” network. “Scale up” 
+domains focus on smaller “squads” of chips while “scale out” focuses on a “corps” of chips.  
+Computational power matters, but a high interconnect bandwidth allows a faster group of chips in 
+aggregate. In other words, even if a chip's specific computational performance is limited, interconnect 
+and memory bandwidths can aggregate many thousands of chips together in a powerful cohesive unit. 
+This renders the original intention of export controls inert.  
+A more holistic approach to controlling chip exports is imperative. The correct framework considers the 
+entire cluster of chips rather than on an on-chip basis. Export controls should focus on achieving the end 
+goal and not block single technology attributes that can be engineered around. A unified cluster-level 
+framework is a more comprehensive framework that allows for fewer loopholes in the longer term and for 
+the US to maintain leads across more dimensions than just chips with more computational 
+performance.  
+In addition to the existing restrictions from the Department of Commerce’s January 2025 Interim Final 
+Rule on the Framework for Artificial Intelligence Diffusion (the “Diffusion Rule”), specifically 3A090A.2 
+and 3A090A.3, we think:  
+ Memory bandwidth is limited at 4 TB/s per chip  
+ Total Input/Output (IO) bandwidth is limited at: 9 Tbps bidirectional per chip, including the 
+combined scale up, scale out, and Peripheral Component Interconnect (PCIe).  
+ 
+
+
+11 Any chip that exceeds any limit on these three axes is automatically controlled. Note that this will also 
+include other networking chips that are generally included with the server. As mentioned, this will limit 
+the capability of using more chips and networking switches, which enable better performance as they 
+scale up.  
+This would immediately include controls on the Nvidia H20 as a starting point . We think the H20 
+should be controlled moving forward. Although it has less computational power than an H100, it has 
+excellent text generation capabilities thanks to its high interconnect bandwidth. Text generation has 
+become an essential part of the new paradigm of “reasoning” where the model thinks through a problem 
+before answering.  
+Wafer Fabrication Equipment (WFE) or Semicap Tools 
+Export controls must be stricter further up the semiconductor supply chain. Without restrictions on chip 
+manufacturing equipment and its components, controls on chips themselves are useless—China can 
+simply produce its own advanced chips.  
+Recent policy has slowed the progress of Chinese chipmakers, starting with EUV restrictions under the 
+first Trump administration and continuing with annual BIS rule updates circa 2022. However, 
+improvements are needed as there are multiple loopholes or workarounds for chip production to 
+continue.  
+We discussed the need for controls on subsystems  for semiconductor manufacturing equipment in a 
+report on Chinese sanctions evasions5: 
+“For example, current controls prohibit exports of EUV scanners into China. Yet they do not 
+restrict EUV optics from Zeiss. This makes no sense – ASML and any chipmaker using EUV can tell 
+you that projection optics are the #1 critical component. While it is not practical to control every 
+nut and bolt, certain items obviously must be. Where to draw the line? There are fewer than 100 
+critical components from specific suppliers that should be restricted, including EUV projection 
+optics, precision mask stages, and radio frequency plasma generators.” 
+If a Semicap tool is restricted, its key subsystems must also be restricted . 
+Key Semicap tool categories and capabilities must be restricted. There are relatively few categories – 
+closer to 10 than 100 – that must be controlled, not regulated with an arbitrary specification for where 
+“advanced” applications and capabilities begin. Examples include atomic layer deposition (ALD), high 
+aspect ratio etch, and isotropic etch. All are critical for current and future advanced chips, but only tools 
+meeting a certain spec are regulated. This approach makes evasion simple: purchase a tool that is barely 5 Dylan Patel et. al, Fab Whack-A-Mole—Chinese Companies Evading Semiconductor Equipment Export Controls , 
+SemiAnalysis (Oct. 28, 2024), Available at: https://semianalysis.com/2024/10/28/fab-whack-a-mole-chinese-companies/ . 
+(Accessed March 12, 2025) 
+
+
+  
+12 
+ under the allowed spec and modify, retrofit, or push the capabilities of a tool in a way that would be 
+restricted. Instead, the entire category of the tool should be controlled.  
+Making a complex semiconductor takes thousands of steps, and many of the steps can be replaced or 
+substituted with another category of tools. If we remove one piece, there is often a workaround that can 
+be engineered. Instead, we should remove entire categories of solutions.    
+Recommendations:  
+ Work with BIS to amend more holistic export controls, allowing for fewer loopholes to be available 
+for scale-up and scale-out networking. 
+ Work with BIS to ensure that subsystems of critical machinery are controlled, not just the 
+assembled machine, allowing controls to achieve their targeted goal better.  
+ Work with BIS to place broader controls on important categories in semiconductor 
+manufacturing, avoiding possibilities of retrofitting or adjusting permitted tools to operate on 
+controlled levels of performance.  
+4) Enforcement 
+Export controls are only as effective as their enforcement mechanisms. Due to the lack of enforcement, 
+continuous evasion efforts mean that many wafer-fabricated equipment still reaches Chinese fabs. This 
+must change for controls to be effective and impactful.  
+The CCP has made domestic chip manufacturing a national priority, yet the BIS is expected to enforce 
+restrictions on them with barely more than 100 agents spread across the entire export controls regime 
+(from chips to automotive to agricultural). This implies that enforcement falls on very few number of 
+people to monitor and enforce billions of dollars in purchases. Controls are only as effective as their 
+enforcement and China has established several lines of smuggling each several hundred million dollars 
+in value.  
+We have noted multiple ways that export controls get skirted in the past6. This sort of observation and 
+enforcement should happen before it reaches the scale of billions of dollars in purchases. Additionally, 
+we believe that meaningful amounts of chips are smuggled into China every year, and enforcement has 
+been lackluster. We outline recommendations that aim to improve enforcement across the board.   
+Recommendations:  
+ Provide the BIS with more staffing and resources that it can identify, track, and shut down existing 
+or new lines of smuggling. 
+1. This should include highly skilled staff in the semiconductor industry.  
+2. Utilize streamlined federal hiring programs to accelerate their involvement.  
+ 6 Dylan Patel et. al, Fab Whack-A-Mole—Chinese Companies Evading Semiconductor Equipment Export Controls , 
+SemiAnalysis (Oct. 28, 2024), Available at: https://semianalysis.com/2024/10/28/fab-whack-a-mole-chinese-companies/ . 
+(Accessed March 12, 2025) 
+
+
+  
+13 
+  Coordinate with BIS to ensure export controls are updated on a monthly cadence to close 
+loopholes quickly, which incurs costs while limiting the advantages gained. 
+ The Diffusion Rule introduced a 1700 H100 no-license required threshold for orders in Tier 2 
+countries. While it is essential to ensure that businesses who need only a small number of GPUs 
+to operate procure them with ease, there has been little clarity around managing or enforcing this 
+ruling. Further clarifying details is key to enforcement, working toward efficiently servicing 
+businesses while denying shell companies that pose a smuggling risk.  
+ Japan and the Netherlands are exempt from Foreign Direct Product Rulings (FDPR) contingent on 
+providing matching controls. However, these matching controls often arrive at a significant lag, 
+allowing suppliers to sell to China. This creates stockpiles of US restricted tools, nullifying the 
+impact of the controls. The US should move to a more unilateral approach to timing controls.  
+ Task Federal agencies focused on intelligence to work with critical semiconductor companies on 
+building robust internal screening systems to avoid sales to controlled actors through shell 
+corporations. 
+Conclusion 
+The future of AI in America is likely the single most important technological inflection this decade and the 
+next. Controlling and effectively deploying this critical technology will have profound and lasting 
+consequences for America's economic competitiveness and national security. 
+The cost of falling behind in the AI race is severe - the United States would lose its edge in virtually all 
+domains of knowledge work, with cascading effects across military, economic, and technological 
+spheres. To prevent this outcome, we recommend the U.S. implement an integrated strategy focusing on 
+our four key recommendations: establishing robust U.S.-based semiconductor manufacturing, resolving 
+power generation bottlenecks, implementing comprehensive export controls, and enforcing these 
+controls vigorously.   
+These recommendations form a cohesive framework that is both actionable and achievable. The cost of 
+losing the race is too great to not take seriously, and we urge the federal government to continue to take 
+it seriously and adopt these recommendations as foundational elements of the AI Action Plan.  
+SemiAnalysis believes a strong American AI industry is critical for the future and are always open for 
+continued dialogue. We can be reached at  
+ 
+ 
+ 
+About SemiAnalysis: SemiAnalysis is the best-of-breed Semiconductor and AI Research boutique. Our 
+coverage spans the entire supply chain, from semiconductor fabrication essentials to cutting-edge AI 
+models, software, and infrastructure.  
+
+

@@ -1,0 +1,412 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-2wcq-5cpu
+Com m ents Due: March 15, 2025
+Subm ission Type: Web
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1389
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Pindrop Security, Inc.
+General Comment
+See attached file(s)
+Attachments
+Pindrop Response to RFI on Developm ent of an Artificial Intelligence (FINAL 03-14-25)
+
+
+1 1115 Howell Mill Road, Suite 700  
+Atlanta, GA 30318  
+March 14, 2025  
+Re:  Pindrop Security, Inc. (Pindrop) Response to 
+RFI on Development of an Artificial Intelligence (AI) Action Plan  
+“With the right Government policies, we can solidify our position as the global 
+leader in AI and secure a brighter future for all Americans.”  
+-President Donald J. Trump, Executive Order 14179, January 23, 2025
+Pindrop appreciates the opportunity to respond to the Trump Administration’s 
+request for information on the development of an AI Action Plan.  Pindrop applauds 
+First Lady Melania Trump for recently highlighting AI deepfakes at the State of the 
+Union when she brought a 15 -year-old victim of them , spotlighting both the perils 
+of deepfakes and the opportunities to combat them.  
+This document is approved for public dissemination. The document contains no 
+business -proprietary or confidential information. Document contents may be 
+reused by the government in developing the AI Action Plan and associated 
+documents without attribution.  
+1. Background on Pindrop
+With shared concern and passion, Pindrop deploy s AI solutions  to help businesses 
+and individuals defend themselves against increasingly sophisticated AI -oriented 
+threats, like deepfakes.  
+Pindrop is a privately held U.S.-based company, founded in 2011 and 
+headquartered in Atlanta, GA.   
+Pindrop solutions are trusted by some of the largest U.S. companies, including the 
+country’s major banks, retailers and largest insurers. Our voice -authentication and 
+fraud detection technology analyzes over 1.2 billion calls per year.   
+
+
+2 
+Pindrop technology provides real -time detection solutions – bolstered by one of 
+the industry’s most extensive consortiums of known fraud actors, with more than 
+1.3 million confirmed fraudster  phone numbers .   
+Pindrop’s deepfake detection technology, Pindrop Pulse , is the culmination of 
+more than a decade of research in voice security.1  A leader in liveness detection, 
+we have set the standard with 99% accuracy  in determining real voices versus 
+fake voices .2   Pindrop also possesses expertise in video as well as voice security, 
+harnessing advanced Artificial Intelligence (AI) and Machine Learning (ML).   
+Pindrop Pulse  was developed using over 25 patented and patent -pending 
+innovations in deepfake technology  and has received numerous recognitions over 
+the years, including : 
+•Pindrop was named as the large organization winner of the FTC 2024 Voice
+Cloning challenge.3
+•NPR conducted a blind test in 2024 of various deepfake detection systems
+and Pindrop Pulse  was recognized as having the highest accuracy.
+Pindrop’s accuracy was reported as 40 percentage points more effective
+than the nearest competitor by NPR.4
+•Pindrop researchers have been regular participants in the NIST Speaker
+Recognition Evaluation (SRE)5 since 20126 as well as the annual Automatic
+1 Tianxiang Chen, Avrosh Kumar, Parav Nagarsheth, Ganesh Sivaraman, and Elie 
+Khoury. "Generalization of Audio Deepfake Detection." In Odyssey, pp. 132 -137. 2020.  
+Elie Khoury, Tomi Kinnunen, Aleksandr Sizov, Zhizheng Wu, and Sébastien Marcel. 
+"Introducing i -vectors for joint anti -spoofing and speaker verification." Interspeech. 2014.  
+Tianxi ang Chen, Elie Khoury, Kedar Phatak, and Ganesh Sivaraman. "Pindrop labs’ 
+submission to the ASVspoof 2021 challenge." Proc. 2021 Edition of the Automatic 
+Speaker Verification and Spoofing Countermeasures Challenge (2021): 89 -93. 
+Tianxiang Chen, and Elie Khoury. "Spoofprint: a new paradigm for spoofing attacks 
+detection." In 2021 IEEE Spoken Language Technology Workshop (SLT), pp. 538 -543. 
+IEEE, 2021.  
+2 https://www.pindrop.com/article/effective -signal -modified -deepfakes -liveness -
+detection/  
+https://www.pindrop.com/article/truth -about -zero-day-deepfake -attacks/  
+3 https://www.ftc.gov/news -events/contests/ftc -voice -cloning -challenge  
+4 https://www.npr.org/2024/04/05/1241446778/deepfake -audio -detection  
+5 https://www.nist.gov/itl/iad/mig/speaker -recognition  
+6 Rahim Saeidi, Kong -Aik Lee, Tomi Kinnunen, Tawfik Hasan, Benoit Fauve, P -M. 
+Bousquet, Elie Khoury et al. "I4U submission to NIST SRE 2012: A large -scale 
+collaborative effort for noise -robust speaker verification." in Proc. Interspeech. 2013.  
+
+
+3 
+Speaker Verification Spoofing and Countermeasures ( ASVspoof ) 
+challenge7 series since 2017.8  
+•Our research on the topic of audio deepfake source tracing has also
+progressed, and a paper with our findings was accepted at the Interspeech
+2024 conference.9
+In developing this technology, Pindrop has created a proprietary database of 27M+ 
+audio utterances from 500+ generative artificial intelligence  (genAI) systems .  
+Pindrop was founded by Dr. Vijay Balasubramaniyan, Dr. Paul Judge and Dr. 
+Mustaque Ahamad, and is venture -backed by Andreessen Horowitz, Citi Ventures, 
+Felicis Ventures, CapitalG, GV, IVP and Vitruvian Partners. Pindrop is proud of its 
+strong American tech  workforce, with over 90% of Pindrop’s workforce in the 
+United States.  
+2. Threats to the U.S. from AI -Generated Deepfakes
+This RFI appropriately ask s for recommended “concrete AI policy actions needed 
+to address the topics raised”  in the RFI.  In order to provide such concrete 
+recommendations, it is important to understand the risks posed with the misuse of 
+AI, and the threat s that are growing exponentially.    
+Due to rapid advances in technology, it now takes only 2-5 seconds of a person’s 
+voice to create a credible clone of  that voice.  While there was only one Text to 
+Speech (TTS) engine in 2018, today there are more than 500  TTS engines in 2025 
+(with some from China).  This increase in accessibility and sophistication allows 
+rapid scalability.  
+American institutions, businesses, and citizens are vulnerable to attacks by bad 
+actors using AI -generated deepfakes to conduct financial scams, cybersecurity 
+hacks and intellectual property thefts. Easily scalable  and low -cost AI tools have 
+opened doors for both good and bad applications. With the surge  in AI and 
+deepfakes, we believe that good AI such as deepfake detection tools are needed 
+to combat bad AI, ensuring that American enterprises reap the full potential of AI, 
+mitigate harm to their organizations and customers, and maintain America’s AI 
+leadership globally.   
+7 https://www.asvspoof.org/  
+8 Tianxiang Chen, Avrosh Kumar, Parav Nagarsheth, Ganesh Sivaraman, and Elie 
+Khoury. "Generalization of Audio Deepfake Detection." In Odyssey, pp. 132 -137. 2020.  
+9 https://www.pindrop.com/article/research -audio -deepfake -source -tracing/  
+
+
+4 
+Financial Services  
+The recommendations that we set forth  below  in Section 3 are informed by the 
+experience that we have gained over the years of developing technology to counter 
+deepfakes and attacks especially on financial institutions.    
+According to Deloitte's  Center for Financial Services, genAI could enable fraud 
+losses in the U.S. to reach $40B by 2027 (up from $12B in 2023).10 Pindrop ’s 
+internal data reflects that  the number of deepfake calls in its customers' call centers 
+grew from 0.1 2% of all calls in Q1 2024  to nearly 1% by the end of 2024, a 683% 
+growth during the year . 
+By late 2023, with AI tools (e.g., ChatGPT ) widely available, synthetic voices began 
+to sound  more “human”.  By 2024, Pindrop internal data suggests there are seven 
+deepfake attacks per day (up from one attack per month  in 2023).  
+This shift represents a fundamental change in how we approach fraud and digital 
+security now and in the future: the question “are you the right human ?” is no longer 
+sufficient.  It needs to be augmented with “are you even a real human?”  Of U.S. 
+companies surveyed by Deloitte, nearly 26% reported a deepfake incident 
+targeting financial and accounting data in 2024.11  Of those companies surveyed, 
+51.6% expected the number and size of attacks to increase in the next 12 
+months.12 Looking ahead, the fundamental question at the center of every 
+business interaction will be, “is this a machine, is this a potential fraudster, or is 
+this my genuine customer?”  
+An AI Action Plan should take into consideration the current threat environment 
+that many companies are facing, especially the financial services sector.   Today, 
+Pindrop is helping customers in the financial services sector combat four kinds of 
+attacks by bad actors who use gen AI to produce deepfakes over phone calls and 
+video interactions:  
+1)Individual Consumer Account Takeover:   Currently, these attacks happen
+predominantly in call centers via the phone channel. Pindrop solutions have
+detected and helped prevent instances of bad actors using synthetic voices
+to impersonate genuine consumers  in U.S. financial institutions and
+10 https://www2.deloitte.com/us/en/insights/industry/financial -services/financial -services -
+industry -predictions/2024/deepfake -banking -fraud -risk-on-the-rise.html  
+11 https://www2.deloitte.com/content/dam/Deloitte/us/Documents/Advisory/us -
+generative -ai-and-the-fight-for-trust.pdf  
+12 https://www2.deloitte.com/content/dam/Deloitte/us/Documents/Advisory/us -
+generative -ai-and-the-fight-for-trust.pdf  
+
+
+5 
+retailers. U.S. media have reported schemes targeted at senior  citizens, 
+often called Phantom Hacker scams.13   
+2)Fraudulent Corporate Money Transfer s:  Multiple instances of fraud and
+attempted fraud have been reported in the press involving accidental
+transfers of large sums of money at well -known international corporations.
+Early in 2024, an employee of UK engineering firm Arup made a seemingly
+routine transfer of millions of company dollars following a video call with
+senior management.14 Except, it turned out, the employee had  not been
+talking to Arup managers at all but to deepfakes created by artificial
+intelligence. The employee had been tricked into sending $25 million to
+criminals. Similar attempts have been reported at WPP15 and Ferrari.16
+3)Remote Interview Impersonation:   According to  an article in the Wall Street
+Journal , more than 300 U.S. companies unknowingly hired foreign nationals
+with ties to North Korea for remote IT work.17 Several cyber security
+companies, such as Knowbe418 and Vidoc Security Labs19 have reported
+attempts by foreign nation -states to  position  personnel for hiring using fake
+identities and AI -generated deepfakes. Last month, Pindrop's recruiting
+team identified sophisticated attempts by fraudsters to impersonate a job
+candidate during a virtual interview for one of our remote engineering roles.
+Our analysis uncovered that the individual was utilizing real -time face -
+swapping technology powered by gen AI, effectively masking their true
+identity with an entirely different, unknown face in multiple interviews.
+4)Infiltration of Corporate Meetings :  Several of Pindrop’s customers have
+expressed concerns about being vulnerable to espionage attempts by bad
+actors using deepfakes to join internal video meetings ( e.g., company town
+halls, review of financial information, planning for sensitive company
+13 https://www.foxnews.com/tech/dont -let-ai-phantom -hackers -drain -your-bank -account  
+14 https://www.weforum.org/stories/2025/02/deepfake -ai-cybercrime -arup/  
+15 https://nypost.com/2024/05/10/business/ceo -of-wpp-falls-victim -to-deepfake -scam/  
+16 https://sloanreview.mit.edu/article/how -ferrari -hit-the-brakes -on-a-deepfake -ceo/ 
+17 https://www.wsj.com/articles/deepfakes -fraudsters -and-hackers -are-coming -for-
+cybersecurity -jobs-e2a76d06  
+18 https://thecyberexpress.com/knowbe4 -fake-employee -north -korean -hacker/  
+19
+https://www.theregister.com/2025/02/11/it_worker_scam/?utm_medium=share&utm_co
+ntent=article&utm_source=linkedin  
+
+
+6 
+transactions) or meetings with external partners, especially those with 
+presence in international countries. There are more than 1 billion daily active 
+users across popular virtual conferencing platforms, making video meetings 
+the primary mode of business interaction.  
+National Security  
+Deepfakes have the potential to compromise national security.  Bad actors are 
+using easily available  technology to create deepfakes of public figures to spread 
+disinformation, weaken our security posture, and undermine trust in 
+elections/democracy.  For example:  
+•In 2024, the Chairman of the U.S. Senate Foreign Relations Committee, Ben
+Cardin, was a target of a deepfake over a Zoom call when a figure  appeared
+on the call and  impersonated Dmytro Kuleba, the former Foreign Minister of
+Ukraine.20  Kuleba demanded an opinion on sensitive foreign policy
+questions such as whether the Senator supported firing long -range missiles
+into Russian territory.
+•Another example, as noted earlier, is that adversaries such as North Korea
+are using AI -generated deepfakes to surreptitiously place workers into IT
+roles at American companies.21 In a December, 2023 Cybersecurity
+Information Sheet, the NSA provided that “Threats from synthetic media,
+such as deepfakes, present a growing challenge for all users of modern
+technology and communications, including National Security Systems
+(NSS), the Department of Defense (DOD), the Defense Industrial Base
+(DIB), and national critical infrastructure owners and operators.”22
+3. Pindrop Policy Recommendations
+Pindrop agrees that “bad AI” can be used in many harmful ways, and we welcome 
+the White House’s leadership in finding ways to use AI to address these 
+challenges.  We recommend that the Trump Administration’s AI Action Plan 
+account for and include the following principles and prior ities. 
+20 https://www.nbcnews.com/politics/congress/ben -cardin -targeted -apparent -deep -fake-
+call-dmytro -kuleba -rcna172776  
+21 https://www.cio.com/article/3542825/is -your-coworker -a-north -korean -hacker -how-ai-
+impersonation -is-compromising -the-workforce.html  
+22 https://media.defense.gov/2023/Sep/12/2003298925/ -1/-1/0/CSI -DEEPFAKE -
+THREATS.PDF  
+
+
+7 
+Advance real -time deepfake detection solutions to counter threats to 
+American government, businesses and consumers  
+To address the growing threat of AI -enabled deepfakes and other audio -based 
+attacks by foreign adversaries, Pindrop suggests:  
+●White House and government agencies should adopt real -time audio
+deepfake detection technologies in relation to critical infrastructure. These
+advanced detection solutions, which flag synthetic or manipulated audio in
+real-time, are critical for safeguardi ng communication networks, preventing
+disinformation campaigns, and mitigating security risks. Such an approach
+would align with other recent federal efforts to secure AI ecosystems in
+relation to national security. By prioritizing these technologies, the U.S. can
+protect its digital infrastructure from foreign exploitation while fostering
+innovation in securing AI applications.
+●Industries critical to American infrastructure, such as financial services,
+defense, utilities, and cyber security should use deepfake detection
+technology to prevent bad actors, including nation -states, from penetrating
+critical infrastructure and industr ies. Deepfake detection should be used for
+all high -risk virtual meetings with external participants, including recruiting,
+international suppliers, and partners.
+●Mobile operating systems and device manufacturers should offer ‘on -device’
+deepfake detection to protect U.S. citizens from bad actors carrying out
+misinformation or financial scam campaigns.
+Strengthen Know Your Customer protocols  
+To strengthen identity verification processes and combat identity fraud, Pindrop 
+advocates for the integration of liveness detection technologies into Know Your 
+Customer (KYC) protocols across industries like banking, fintech, and 
+telecommunications.  
+●By leveraging advanced machine learning and computer vision techniques,
+this technology can detect spoofing attempts, deepfakes, and other
+presentation attacks with high accuracy.
+●Federal guidelines from agencies like the FCC and NIST could establish
+standards for both active and passive liveness detection methods, ensuring
+compliance with Anti -Money Laundering (AML) laws and enhancing
+customer due diligence. This approach would not  only mitigate risks from
+identity theft and fraud but also protect against potential exploitation by
+foreign actors, ensuring the integrity of critical financial systems while
+fostering trust in digital transactions.
+
+
+8 
+Promote “liveness detection” as a technical standard  
+Currently there is no unified standard regarding voice authentication. The White 
+House and NIST should consider:  
+●Adopting "liveness detection," which makes a determination of whether the
+voice is human or machine, as a standard for voice authentication by federal
+regulators such as the FCC, NIST, and others.  Doing so would significantly
+enhance the security and reli ability of telecommunications and financial
+services.
+●By analyzing features like natural variability in speech, spectral
+characteristics, and temporal patterns, liveness detection can differentiate
+between live voices and synthetic attempts with high accuracy. Incorporating
+liveness detection into regulatory frameworks would further efforts to
+mitigate fraud in voice networks, complementing existing measures like
+STIR/SHAKEN for caller ID authentication.
+●Standardizing  liveness detection would also promote trust in voice -based
+systems while fostering innovation in secure biometric authentication. As
+bad actors increasingly exploit advanced technologies to bypass traditional
+safeguards, liveness detection offers a proact ive defense mechanism.
+Federal regulators could establish guidelines for its implementation,
+ensuring interoperability and scalability across industries. This would not
+only protect consumers from identity theft and unauthorized access but also
+bolster the  integrity of digital ecosystems reliant on voice authentication.
+AI/Cloud Regulatory “Safe Spaces” (Sandboxes 2.0) in Financial Services 
+sector  
+Financial institutions increasingly would like to use AI for fraud detection and 
+prevention, enhanced customer service, and to reduce costly back -office 
+functions.  To foster innovation in financial services while ensuring regulatory 
+oversight, Pindrop rec ommends:  
+●The White House and relevant agencies in the financial sector should
+consider the establishment of  innovative , federal regulatory "safe spaces"
+for testing advanced AI and cloud technologies . These controlled
+environments would allow financial institutions to benefit from AI innovation
+by experiment ing with cutting -edge solutions , even those not easily suited
+to traditional on -premise and/or government -cloud -only sandboxes, without
+compromising consumer protection or market stability.
+
+
+9 
+●By creating these “safe spaces”, regulators can  partner with financial
+institutions to navigate compliance complexities , monitor systemic risks, and
+gather insights into emerging technologies.
+●The benefits of this would be manifold. Financial institutions could leverage
+AI to enhance customer experiences, improve risk management, and
+streamline operations.  These "safe spaces" would also encourage
+collaboration between regulators and industry lea ders and enable the former
+to gain a greater understanding about how AI solutions actually operate.
+●Ultimately, this approach would accelerate the adoption of transformative
+technologies and help ensure American leadership in two crucial sectors:
+financial services and AI.
+●Pindrop applauds the Chairman of the House Financial Services Committee,
+Rep. French Hill, for having authored legislation to allow financial institutions
+the flexibility “to safely and soundly experiment with AI and enhance
+performance on behalf of our na tion’s citizens.”23
+White House Authentication / Deepfake Summit  
+While federal leadership has largely helped mitigate the perils and abusiveness of 
+email spam, problems with audio and video deception persist and grow. Therefore, 
+to combat deepfakes and unleash and protect American innovation, Pindrop 
+recommends:  
+●Convening an Authentication / Deepfake Summit  that would bring together
+key stakeholders in the telecommunications and other key sectors to
+address the growing challenges of voice fraud and abusive deepfake audio
+attacks. This summit would focus on encouraging the development and
+widespread adoption of audio authentication and liveness detection
+technologies – including on the part of the U.S. G overnment - to enhance
+security across various mediums.
+oThe summit would convene financial institutions, telecom providers,
+handset manufacturers, and deepfake detection authentication
+providers to collaborate on creating a more secure voice ecosystem.
+Participants would explore cutting -edge technologies such a s
+liveness detection, which can analyze unique voice patterns and
+spectral distortions to distinguish between human and synthetic
+voices with up to 99% accuracy.   The summit should review upgrading
+security protocols of voice and video interactions (teleph ony
+23 https://hill.house.gov/news/documentsingle.aspx?DocumentID=9405  
+
+
+10 
+communications, video conferencing, etc.) to mitigate deepfake risks 
+against nation -state actors.  
+oThe goal would be to promote collaboration and innovation in this field
+and to drive toward a unified standard that can protect consumers and
+companies from sophisticated voice -based fraud attempts while
+maintaining seamless user experiences across various  platforms and
+devices. Additional goals would be to enhance U.S. AI and deepfake
+detection dominance in order to promote economic competitiveness
+and national security.24
+Implementation of the Take It Down Act  
+Pindrop appreciates the leadership of the Administration in calling for the passage 
+of the “Take it Down Act” during the State of the Union.  This legislation criminalizes 
+the publication of Non -Consensual Intimate Imagery (“NCII”) and mandates that 
+social media and other platforms remove such content within 48 hours of 
+notification from a vict im.  
+●For this legislation to be effective, there must be a means of enforcement
+and factually determining a deepfake.  Should the Take It Down Act be
+signed into law, Pindrop encourages the incentivization of compliance
+through – in part – the adoption of liveness detection solutions.
+●Even though the bill penalizes only a certain subset of deepfakes - and
+governs the duties of platforms to take down content regardless of its
+veracity - it represents an important opportunity for the growth of liveness
+detection solutions that aid in iden tifying deepfakes.
+24China's handset manufacturer Honor has unveiled device with deepfake detection as 
+well as announced they will invest $10B in AI devices (see 
+https://www.yahoo.com/tech/finally -theres -smartphone -built-detect -
+144911342.html?guccounter=1&guce_referrer=aHR0cHM 6Ly93d3cuZ29vZ2xlLmNvbS
+8&guce_referrer_sig=AQAAAKdnmyx0Me8Q -
+9XInyDLorLiVHQM1N8iL24WnbTcDDChiJcahNlZRwf3d7_O5ewgTKVneFAbc6ZjWNHz
+rb9peJVqbtdPt3J8j -
+oxWLkqdsHTaanAa8SAEJZRvGnXogNQz_QFchS5svz5Jjm3Ru_gwcIzZvUher7dkzgnw
+rTLIhqd; https://www.reuters.com/technology/ artificial -intelligence/chinas -honor -
+announces -10-billion -investment -ai-devices -2025 -03-02/). In the U.S., deepfake 
+detection services struggle to protect citizens because access to this audio is not open.  
+
+
+11 
+4. Conclusion
+As AI -generated scam calls and deepfakes become more prevalent, anti-fraud, 
+authentication, and deepfake detection technologies will become ever more 
+important. Pindrop welcomes the Administration’s  focus on promoting innovation 
+and looks forward to collaborating with federal partners to deploy  early deepfake 
+detection capabilities to protect U.S. consumers and  businesses.  
+Respectfully,  
+Clarissa Cerda  
+Chief Legal Officer & Secretary  
+Pindrop Security, Inc.  
+Rahul Sood  
+Chief Product Officer  
+Pindrop Security, Inc.  
+
+

@@ -1,0 +1,443 @@
+1 Duke University Response to Assist Development of the Artificial Intelligence 
+Action Plan  
+This is a response to the request for public comments to assist development of the 
+Artificial Intelligence Action Plan, as a response to Executive Order 14179 (Removing 
+Barriers to American Leadership in Artificial Intelligence) whose goal is to "establish  U.S. 
+policy for sustaining and enhancing America's AI dominance in order to promote human 
+flourishing, economic competitiveness, and national security." Our responses consider 
+that “The Trump Administration is committed to ensuring the United States is th e 
+undeniable leader in AI technology." We specifically address the role that U.S. universities 
+can play in promoting human flourishing, economic competitiveness, and national 
+security through actions by the Administration. We address topics of model develo pment, 
+open source development, applications, explainability and assurance of model outputs, 
+cybersecurity, data privacy, technical standards, national security, research and 
+development, education and workforce, innovation and competition, and energy need s. 
+We will suggest concrete AI policy actions needed to address the topics raised, as 
+encouraged in the Request for Information.  
+This response comes from Duke University. Duke and other top U.S. universities hold a 
+unique role in enshrining the position a nd reputation of the United States as the global 
+leader of AI technology. Duke trains top students entering the AI workforce, and its AI 
+faculty collaborates across the spectrum of companies, non -profits, local and federal 
+governments, and beyond on some o f the most innovative AI technologies that exist 
+today. Companies founded by and/or collaborating with its faculty are on the cutting edge 
+of AI algorithm development and its applications across science, engineering, healthcare, 
+and beyond. Top AI scientis ts and students (and top scientists and students in other 
+areas, too) want to come to Duke because of its strong AI program. As is true in all such 
+top universities, much of its most novel, risky, and important research is largely funded 
+by federal grants.   
+The lead writer of this comment is a leader in interpretable AI, which is a more powerful 
+version of explainable AI where algorithms are transparent – and not black box models. 
+This is an extremely important area for trustworthy AI because it allows hum ans to double -
+check and troubleshoot the AI without needing to blindly trust it. This lead writer is a 
+distinguished professor at Duke who works with neurologists, radiologists, 
+otolaryngologists, heart monitoring specialists, materials scientists, reinfor cement 
+learning specialists, computational biologists, law professors, superior court judges, data 
+visualization experts, computer vision experts, and musicians. Other writers of this 
+comment are materials scientists, biomedical engineers, experts in natur al language 
+
+
+2 processing on medical data, computer security, the efficiency of neural network training, 
+computational neuroscience, medicine, and robotics, among others.  
+In the list below, we pose some important criteria for the U.S. to maintain its leaders hip 
+role in AI, with suggested concrete AI policy actions.  
+●We must have the best AI workforce.  U.S. universities such as Duke are
+currently the leading suppliers of employees to the world's top AI companies.
+Companies that currently lead the world in indu strial AI technology hire mainly
+U.S.-trained students. For instance, Google, X, Meta, Amazon, and OpenAI
+extensively hire from U.S. universities including Duke. Currently, U.S. universities
+are generally viewed as the most desirable places for top talent to be trained and
+hired. If U.S. universities fail, that top talent (both students and faculty) will go to
+other countries. We must not let that happen. The reason this top talent views U.S.
+universities so highly is in large part because of the high quali ty of research and
+the caliber of faculty at these universities. Thus, as discussed later, the U.S. must
+unquestionably maintain the top university faculty in the world in AI. We suggest
+that the AI Policy Action plan includes continued funding for researc h at U.S. 
+universities to maintain the world's highest quality research, top faculty, and top 
+students, as well as training programs to help universities train and recruit top 
+students in AI.
+●Our workforce must be trained using our U.S. -centered values : If the world's
+top AI students were no longer trained within the U.S., we would have ceded
+control over how they are trained and the values they are trained on to other
+countries. This includes countries that have very strong AI programs, but currently
+cann ot compete with the U.S. for students. Students trained elsewhere will not
+necessarily share a US -centered view of how to use their skill set to encourage
+human flourishing. We already know that other countries and other governments
+do not share the U.S. v iew of human flourishing, often using AI against their own
+citizens to stifle their freedoms. This is why U.S. universities should maintain
+strong control over their ability to train AI students in consideration of U.S. values.
+Thus, we suggest that the AI  Policy Action plan includes continued funding for
+training programs and research at U.S. universities on topics that embed our
+values into AI, including programs focused on trustworthy and ethical AI, control
+over AI systems, and applications of AI system s that involve U.S. -centered values.
+This includes work on interpretable AI (designing models that are self -explaining,
+as opposed to "explainable AI" where the goal is to explain a black box), the design
+of AI systems that are substantially easier to trou bleshoot and use (not large and
+"clunky" black box systems), the design of large language models that are value -
+
+
+3 aware and use interpretable reasoning processes (as much as possible) so they 
+are easier to troubleshoot, and how such systems should collaborat e effectively 
+with humans and improve the health and well -being of all people. It also includes 
+applications, where universities work with nonprofits, charities, local government 
+services, federal agencies, medical centers, scientists, legal experts, and o ther 
+entities whose work we value, and that could be made much more efficient, but 
+that could not hire AI specialists on their own. It also includes projects that allow 
+individuals to study AI systems for possible security, medical, legal, and other 
+risks.
+●The U.S. must have the top AI university faculty. Currently, U.S. universities
+have the world's top AI faculty. This is why leading AI companies often hire
+("poach") faculty from U.S. universities and why high -level executives of some
+leading AI com panies are still university professors. Companies often hire faculty
+whose research, often having been funded by the federal government for many
+years through NSF/NIH/DOE/DOD/ etc. grants, is directly useful for their product
+development. Many companies ar ise directly from US universities and license
+technology from U.S. universities or spin -off companies, injecting innovation into
+and providing a boost to the U.S. economy. Many companies also have programs
+where faculty work part -time (e.g., one day per we ek) at a company, or consult
+with AI companies. If U.S. university jobs become less desirable due to a lack of
+governmental support, faculty at U.S. universities will leave, and the U.S. AI
+industry and the related economy will be severely weakened. Thus, we again
+suggest that the AI Policy Action plan includes continued funding for research at
+U.S. universities to maintain the world's highest quality research, top faculty, and
+top students. Faculty need access to resourced computing facilities for training  AI
+models. Thus, we recommend that the AI Policy Action Plan include funding for
+computing systems at U.S. universities. Currently, many of these computing
+systems are forced into overhead (i.e., indirect costs), which are currently under
+consideration fo r major reductions, making it unlikely that many departments will
+be able to maintain their computing clusters and staff, stifling research and U.S.
+competitiveness.
+●U.S. universities must continue to produce and maintain public AI software
+that is widel y used and freely available.  This software is often used by or
+adapted for use in U.S. companies, as well as U.S. governmental and other
+organizations. For instance, publicly available software created by the lead author
+of this response is used by the NYP D, Con Edison (the power company for New
+York City), in intensive care units at hospitals across the country, by numerous
+bioinformatics experts, and by anyone else who wishes to use it. This software
+
+
+4 makes our power systems more resilient to threats, make s our streets safer from 
+crime, makes our medical care better, and improves our ability to make scientific 
+discoveries. University -designed software is typically produced in collaboration 
+with students who are funded by the federal government. If U.S. univ ersities are 
+weakened, either through unavailability of grant funding for students, research, 
+computational and cybersecurity infrastructure, facilities, etc., then organizations 
+throughout the U.S. will be less efficient, since AI software will not be as readily 
+available to them or will fall into disrepair due to lack of maintenance. We
+recommend that the AI Policy Action plan includes support for researchers and the 
+resources they need to develop and maintain publicly -available software.
+●Universities ar e (and have always been, and must continue to be) the key to
+filling the gap between what is needed for human flourishing and what profit -
+making entities want to create. This will be particularly true if the U.S. is aiming
+to maintain its stance as the wor ld leader in AI. For instance, U.S. universities often
+collaborate with U.S. organizations that cannot afford to develop their own AI tools.
+Because U.S. universities have projects focused on human flourishing, they often
+collaborate with charities, medica l centers, legal experts and local governments to
+create, implement, and maintain AI technology that is customized for their uses.
+This would be unaffordable and out -of-reach for those entities otherwise. Given
+how valuable we know AI can be, with the prop er safeguards, universities have a
+key role to play in human flourishing and the efficiency of public systems.
+Importantly, universities can aim directly for goals related to human
+flourishing without the entanglement and distraction of profits.  As shown i n
+the examples above and below, profit for AI companies is not necessarily or
+even generally aligned with human flourishing .
+○An example described in The Verge ("What happens when an algorithm
+cuts your health care"
+https://www.theverge.com/2018/3/21/17144 260/healthcare -medicaid -
+algorithm -arkansas -cerebral -palsy ) illustrates what happens when
+proprietary black box AI models do not allocate care correctly for individuals
+with severe chronic illnesses in Arkansas. Here, the decisions were based
+on accidental ly using the wrong AI algorithm , which is shocking. The
+company didn't realize the mistake until they were sued and were forced to
+look at the algorithm's details. A more responsive and responsible
+collaborator would have easily figured that out. Universit ies can easily
+create such algorithms more cost -effectively for the state, make these
+algorithms more transparent, and be better collaborators.
+○Another example is AI "add -ons" in IVF treatment. The IVF industry "is
+notorious for aggressively marketing unp roven clinical and laboratory 'add
+
+
+5 ons'" ("Ethical Implementation of Artificial Intelligence to Select Embryos in 
+In Vitro Fertilization " Afnan et al., 2021, https://arxiv.org/pdf/2105.00060), 
+where IVF clinics charge patients thousands of dollars to use AI tools to 
+predict whether an embryo will lead to a fetal heartbeat pregnancy, based 
+on images of it. Afnan et al., 2021, describe a situation from two earlier 
+works, where the first paper claimed almost perfect performance for such 
+an AI tool, and the se cond paper pointed out that the first paper had 
+artificially inflated its reported performance by changing its dataset to 
+include easy cases that IVF clinics would find obvious. This directly 
+illustrates the conflict between business drivers and human flou rishing in a 
+literal way – AI tool manufacturers were incentivized to produce almost 
+perfect performance even if it involved choosing the wrong embryos for IVF 
+that would never implant –  and they were potentially charging patients 
+thousands of dollars to make these predictions. Universities can help detect 
+and mitigate these situations. They can also create alternative models that 
+are publicly available that explain their decisions to doctors in a way they 
+could evaluate transparently.  
+○As a third example, an author of this document is an author of the only AI
+algorithm currently widely used in critical care brain monitoring. The
+algorithm is in the form of a simple scorecard. It is extremely small, fits on
+an index card, and can be memorized by a doctor. It  is also as accurate as
+the best deep neural network for the data it was trained on. This is an
+example of a technology that doesn't force doctors to trust it – doctors can
+evaluate this technology for themselves since they are not black box
+models, are no t proprietary, are easy to understand, and are freely
+available. This algorithm saves lives, and its development was funded by
+the federal government. A company working on this problem could not have
+achieved this level of transparency and still have made a profit from it.
+Thus, we recommend that the AI Policy Action plan includes research support that
+works with entities whose main goal is some type of human flourishing.  
+●Keeping the NIH and NSF strong will allow the U.S. to continue to make leaps
+in human health technologies.  The lab of the lead author of this document
+recently discovered a new biomarker that can predict breast cancer up to 5 years
+in advance, published in the top journal Radiology . This work was funded by the
+NSF and could save milli ons of people through early detection, and could save
+millions of dollars in making breast cancer screening more efficient. Two other
+authors have used AI to develop noninvasive methods to detect diabetes, work
+funded by the NIH. While the general topic of  AI and health could be discussed at
+length, to keep this document short, we will not list the numerous ways that AI
+
+
+ 6 contributes to health technologies. AI in medical care would continue to allow the 
+US to develop new drug targets, categorize and treat chr onic illnesses, detect 
+diseases much earlier than before at a level of accuracy not seen before, find ways 
+to empower individuals who can no longer communicate or act normally due to a 
+medical condition, make medical care more widely available through AI -tools, and 
+make medical care much more efficient with AI -human collaborations. Thus, we 
+recommend that the AI Policy Action Plan fully support NIH and NSF for 
+healthcare -related and biomedical AI.  
+ 
+● Keeping the NSF strong will allow the U.S. to keep its lead  in science and 
+technology, which are currently being revolutionized by AI . U.S. universities 
+are capable of solving a multitude of scientific and engineering problems that 
+companies cannot. Universities regularly engage in research that is too high risk 
+for companies to engage in. If the development of AI technologies is relegated to 
+the few companies that can afford to employ individuals to develop high -risk early -
+stage technologies, innovation will be highly stifled. This is particularly important 
+right now, as AI technologies are changing extremely quickly and we need a 
+nimble and intelligent workforce just to keep up with its capabilities and 
+possibilities. AI is currently rapidly advancing areas of materials science, biology, 
+chemistry, physics, astron omy, zoology, neuroscience, etc. Funding to universities 
+from the NSF is the key to keeping the U.S. in the lead in these fields. Thus, we 
+recommend that the AI Policy Action plan include funding for scientific discovery 
+at universities.   
+● Universities serv e as a unique hub for AI + X research and technology 
+innovation. Universities like Duke provide an indispensable environment for 
+integrating AI with a wide array of other disciplines (“X”), such as materials science, 
+social science, robotics and autonomy, engineering design, healthcare, and edge 
+computing. The academic setting fosters open collaboration and cross -pollination 
+of ideas in a way that industry alone cannot replicate. This open, interdisciplinary 
+culture makes universities a force multiplier: in novations in “X” catalyze advances 
+in AI, which in turn empowers further breakthroughs in “X.” Duke’s breadth of 
+strengths across these domains positions it and similar top U.S. universities as the 
+ideal crucible for pioneering AI + X technology. The disco veries and insights 
+gained here can then be shared widely, free from many of the profit -driven 
+constraints that limit purely industry -led endeavors, ultimately delivering social, 
+technological, and economic benefits that also feed back into advancing AI it self. 
+Thus, we recommend that the AI Policy Action Plan provide strong funding for 
+interdisciplinary AI + X research in university environments.  
+
+
+7 ●Universities are likely to be the key to dealing with the multitude of AI scams,
+particularly coming from forei gn countries, that are starting to arise online
+and across phone lines. Modern Generative AI is exceedingly convincing. So far,
+no entity  (no company, no government) has been able to stop these scammers
+within the U.S. While we can construct fences around our homes to keep criminals
+physically out, we cannot keep them out of our children's devices – in direct
+communication with our children, often without our knowledge. We cannot keep
+them from our older relatives. We cannot keep scammers out of our phones either;
+scammers sometimes even use our own family members' biometrics to convince
+us to send money to fraudsters. Novel technologies developed at U.S. universities
+can help combat these problems. Surely the U.S. cannot righteously claim that it
+is the wor ld leader in AI if billions of dollars are regularly stolen from U.S.
+consumers using AI technology from other countries. Scammers using AI pose
+national security issues. We recommend that the AI Policy Action plan take a multi -
+pronged attack, involving ac ademic researchers equipped with novel and powerful
+AI, particularly those in computer security, companies, government agencies
+empowered by new technologies, legal experts, and non -profits like C2PA that
+encourage the use of digital signatures for establi shing provenance of content.
+●Universities are essential for developing critical AI for national security.  It is
+a reality that AI can pose serious challenges for U.S. national security and we must
+use the intellectual strength of our academic environment to develop technologies
+that mitigate or counter threats. The war in Ukraine for example, has hypercharged
+the development of AI -based defense technology – this is a serious national
+security concern for the U.S. Also, other countries are rapidly developin g their AI
+capabilities to affect (and weaken) democracies, thereby extending their regional
+influence. We work collaboratively with government research labs to develop
+promising groundbreaking new technologies, and ensure they are put to use for
+the U.S. Thus, we recommend that robust support of AI development for national
+security purposes be included in the AI Policy Action plan.
+●Encouragement of economic competitiveness comes with reducing
+monopolistic practice.  By definition, monopolies stifle competi tiveness. The
+Administration can remove barriers to innovative research and innovative products
+by continuing to reduce AI Tech monopolistic practices. This would allow more
+choices for consumers and more opportunities for academics to engage with a
+variet y of industry participants. Academics could then engage with companies
+much more broadly – not just in the ways that current Big Tech companies have
+limited academic researchers, where data is often difficult to access, and studies
+are impossible to conduc t because of lack of access. There are many research
+
+
+8 questions that academic researchers could potentially tackle (for instance, to study 
+the ways that technologies affect individuals, and to develop AI tools that many 
+individuals would enjoy), but Big Tec h monopolistic practices hinder them from 
+engaging in these studies because of these companies’ concerns of how it might 
+affect their reputation and their profits and create potential disruptions to their 
+business model. Access to data is key. Competition among companies would 
+make this possible. Thus, we recommend that AI Policy Action include a plan to
+reduce monopolistic practices.
+●Encouragement of economic competitiveness reduces risks to consumers
+due to database hacking. Some large companies have ama ssed huge amounts
+of highly personal data about millions of U.S. consumers, often including sensitive
+biometrics, that no other company or university can collect and use. This creates
+a huge economic advantage for these companies. Monopolistic practices al low
+them to collect the data, and they cement their advantage by refusing to allow
+others to collect it or use it. These data collection practices also increase risks to
+the public. AI software can turn that data into very digestible and very dangerous
+forms of information, including facial recognition from their biometrics,
+determination of someone's individual vulnerability to fraud based on their
+browsing history, extraction of someone's personal medical history (e.g., from just
+their search queries and YouTube history), and even fundamentally what that
+person is thinking about (e.g., browser history, email, photo stream, advertisement
+views and responses, chat room conversations, and even simultaneous wearable
+devices data). Hackers steal data from large  organizations all the time. Human
+flourishing includes keeping the public's personal data secure; the U.S. cannot
+possibly be the world leader in AI if it allows millions of individuals' personal data
+to be stolen regularly. Thus, we recommend that AI Pol icy Action includes data
+security at such companies to match the new risks from AI, by taking measures to
+reduce monopolistic practice, which has the secondary effect of reducing
+databases where data is highly concentrated.
+●Energy availability is critical  for strong AI capabilities.  The rise of AI comes
+with increasing energy demand, including demand fluctuations that can place
+significant strain on energy grids across large regions. There are at least three
+aspects by which sufficient energy availability for current and future AI needs can
+be ensured, including (1) reducing energy use for AI outcomes by
+algorithmic/software optimization, (2) more energy -efficient AI hardware, (3)
+developing and provisioning economical energy sources of sufficient power and
+availability. Researching energy -efficient AI, energy sources and resilient power
+grids is, therefore, a key collateral requirement for deploying a resilient, leading AI
+
+
+9 infrastructure in the U.S. Thus, we recommend that AI development be flanked by
+fundi ng research into all types of energy technologies that can guarantee a 
+sufficient, secure supply of energy for robust growth of current and future AI 
+technologies.
+We hope this comment is useful to the Administration in setting its priorities on 
+maintain ing US AI dominance.  
+Sincerely , 
+Cynthia Rudin  
+Distinguished Professor of Computer Science, Electrical and Computer Engineering, 
+Statistics, Biostatistics & Bioinformatics, and Mathematics  
+Ehsan Abadi  
+Associate Professor of Radiology  and Electrical and Computer Engineering  
+Monica Agrawal  
+Assistant Professor of Biostatistics & Bioinformatics, Computer Science, and Biomedical 
+Engineering  
+David Banks  
+Professor of the Practice of Statistics  
+Alberto Bartesaghi  
+Associate Professor of Compute r Science, Biochemistry and Electrical and Computer 
+Engineering  
+Volker Blum  
+Associate Dean for Research, Pratt School of Engineering and Timothy P. and Mary M. 
+Rooney Associate Professor of Mechanical Engineering and Materials Science and of 
+Chemistry  
+Brinnae Bent  
+Executive in Residence in the Engineering Graduate and Professional Programs  
+L. Cate Brinson
+Distinguished Professor of Mechanical Engineering and Materials Science
+
+
+10 David Carlson  
+Associate Professor of Civil and Environmental Engineering  
+Boyuan Chen  
+Assistant Professor of Mechanical Engineering and Materials Science  
+Tingjun Chen  
+Assistant Professor of Electrical and Computer Engineering and Computer Science  
+Yiran Chen  
+Distinguished Professor of Electrical and Computer Engineering  
+Leslie Collins 
+Professor of Electrical and Computer Engineering  
+Bhuwan Dhingra  
+Assistant Professor of Computer Science  
+Bruce Donald  
+Distinguished Professor of Computer Science, Mathematics, and Chemistry  
+Jessilyn Dunn  
+Assistant Professor of Biomedical Engineering and Biostatistics & Bioinformatics  
+Pardis Emami -Naeini 
+Assistant Professor of Computer Science, Electrical and Computer Engineering, and 
+Public Policy  
+Ethan Fang  
+Associate Professor of Biostatistics & Bioinformatics and Electrical and Comput er 
+Engineering  
+Aaron Franklin  
+Associate Dean for Faculty Affairs, Professor of Electrical and Computer Engineering  
+Johann Guilleminot  
+Associate Professor of Mechanical Engineering and Materials Science  
+Ricardo Henao  
+Associate Professor of Biostatistics & Bioinformatics  
+
+
+11 Simon Mak  
+Assistant Professor of Statistical Science  
+Kamesh Munagala  
+Professor of Computer Science  
+Willie Padilla  
+Distinguished Professor of Electrical and Computer Engineering  
+David Page  
+Distinguished Professor and Department Chair of  Biostatistics & Bioinformatics, 
+Professor of Computer Science  
+Ron Parr  
+Professor of Computer Science  
+Jian Pei  
+Distinguished Professor and Department Chair of Computer Science, Electrical and 
+Computer Engineering, and Biostatistics & Bioinformatics  
+Tania Roy 
+Assistant Professor of Electrical and Computer Engineering  
+Ehsan Samei  
+Distinguished Professor of Radiology  
+Rohit Singh  
+Assistant Professor of Biostatistics & Bioinformatics, Cell Biology, Computer Science, and 
+Electrical and Computer Engineering  
+Stacy Tantum  
+Associate Professor of the Practice of Electrical and Computer Engineering  
+Carlo Tomasi  
+Distinguished Professor of Computer Science  
+Yu Tong  
+Assistant Professor of Mathematics  
+
+
+ 12 Yesenia Velasco  
+Lecturer of Computer Science  
+ 
+Emily Wenger  
+Assistant Professor of Electrical and Computer Engineering  
+ 
+Pan Xu 
+Assistant Professor of Biostatistics & Bioinformatics, Computer Science, and Electrical & 
+Computer Engineering  
+ 
+Xiaowei Yang  
+Professor of Computer Science  
+ 
+Anru Zhang  
+Associate Chair for Research and Associate Professor, Department of Biostatistics & 
+Bioinformatics  
+  
+Danyang Zhuo  
+Assistant Professor of Computer Science  
+ 
+Submitted for the insti tution by : 
+Jenny Lodge , 
+Vice President for Research & Innovation  
+Duke University, Durham, NC              March 15, 2025  
+ 
+ 
+ 
+ 
+This document is approved for public dissemination. The docume nt contains no business -
+proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without 
+attribution.  
+ 
+
+

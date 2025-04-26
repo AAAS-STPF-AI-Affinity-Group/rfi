@@ -1,0 +1,269 @@
+HFES Input on US AI Compe11veness   1 
+Input for the US Ac0on Plan to Advance America’s AI Leadership.  
+The Human Factors and Ergonomics Society is pleased to pr ovide the following input to help 
+advance America’s leadership in the development and implementa>on of ar>ﬁcial intelligence 
+(AI) technology.  The successful adop>on of AI is highly dependent on its ability to gain the trust of human users and their ability to use it to successfully support their decision making and performance of tasks in various ﬁelds of applica>on.   
+The development of technologies that are user-centered is not only good for people, it is 
+also a highly successful business approach.  A cross-industry study by McKinsey & Company 
+1 
+found that companies with a strong user-centered design approach to their products out-performed their industry compe>tors by as much as 2 to 1.  These companies repeatedly create successful products by adop>ng an inter-disciplinary approach to design that centers around understanding user needs, designing products that emphasize usability, and priori>zing a systema>c approach to user tes>ng. This is what the human factors and ergonomics profession has been successfully doing for over 80 years.  
+The ﬁeld of Human Factors science has conducted extensive research on how people 
+interact with AI and other automated systems for over 40 years. This research base has created a signiﬁcant trove of informa>on on how to design AI to work eﬀec>vely with people and to avoid the types of errors that can undermine people’s conﬁdence in AI. Based on this research base, we oﬀer the following Guardrails for AI Development to advance America’s leadership in the ﬁeld.  
+Recommended Guardrails for AI  
+ 
+AI Shall Provide Explicit Labeling  
+Systems that use AI to perform tasks or provide recommenda>ons must be labeled as being 
+provided by a computa>onal system.  If the system provides or integrates informa>on from data sources (e.g., web sites), the source of informa>on should be speciﬁcally provided so that users can determine its reliability or trustworthiness
+2. The provenance of informa>on should be 
+transparent (e.g., AI system, peer reviewed reference, individual opinion)3. This guardrail is 
+needed to support the ability of people to make appropriate “opt out” decisions with respect to AI informa>on. 
+Recommenda)on 1: All AI outputs (e.g., genera)ve language, videos, audio, 
+images, recommenda)ons) must be labeled as the product of a computer system 
+and the source of informa)on used for its outputs must be speciﬁcally iden)ﬁed.  
+ 
+AI Shall Not be Used to Commit or Promote Fraud  
+Genera>ve AI systems are being used to create text, photographic images and video that 
+may be inaccurate or misleading in terms of represen>ng factual events or informa>on. In these 
+
+
+HFES Input on US AI Compe11veness    2 
+cases, developers inten>onally alter or create images, text, and video to create false 
+informa>on.   
+Recommenda)on 2: All AI output that alters or creates text, images or video in order to communicate factually inaccurate events or informa)on must be explicitly and prominently labeled as “ﬁc)on” or “fake”. Viola)ons of this rule will be legally considered as fraud. 
+ 
+AI Shall Avoid and Expose Bias  
+The challenge of AI bias has received considerable aXen>on, with the poten>al of crea>ng 
+or perpetua>ng biases against certain groups of people. These biases oYen are introduced due 
+to limited or sta>s>cally biased training sets (i.e., limited representa>veness of problems) that create biases towards certain sets of conclusions 
+4-6, as well as ar>facts that creep into the 
+development of the AI algorithms 7. AI biases lead the AI to perform more poorly or inaccurately 
+in situa>ons that are diﬀerent than what it has been trained on. As a more general case, bias can be considered any use of an AI system in situa>ons outside of its training 
+8, i.e., an over-
+generaliza>on that occurs when AI trained to operate in certain condi>ons is applied in other condi>ons.  
+People are oYen expected to be able to compensate for AI shortcomings, like bias, by 
+subs>tu>ng their own knowledge and judgement in cases in which the AI may be deﬁcient. Paradoxically, however, AI makes it very diﬃcult to do so. First, these biases tend to be hidden due the opaque nature of machine learning techniques used to create AI. Even the developers of AI systems may not know what biases have inadvertently been introduced in the learning process. Furthermore, the users of AI systems are generally a diﬀerent set of people than the 
+developers of the AI, and therefore are even less likely to understand the limita>ons of its 
+training or what situa>ons it should be limited to. 
+Secondly, humans do not form their decisions independently from AI, but are directly 
+inﬂuenced by the recommenda>ons or assessments from the AI 
+9.  People tend to  anchor on 
+the recommenda>on of the AI system, and then gather informa>on to agree or disagree with it, crea>ng conﬁrma>on bias
+8; 10. AI biases therefore can directly compound human biases in the 
+decision process, reducing the reliability of the joint human-AI system8.  Further, the impact of 
+the AI biases can vary depending on the format and framing of the AI system’s recommenda>ons 
+11-14. Rather than overcoming human decision bias, AI can make it worse 
+through the well-established human process of anchoring and conﬁrma>on bias.  
+In that AI biases are generally invisible, unknown by both developers and users of systems, 
+and they can aﬀect human decision-making quite surrep>>ously, their nega>ve eﬀects can be insidious.  Therefore, people will be oYen unable to detect and compensate for these biases (by choosing when to use the system or interjec>ng correc>ons, for example).  Work is being done to improve the transparency of AI biases. 
+15; 16 This guardrail supports OSTP principle #2 
+(protec>on from algorithmic discrimina>on) and principle #5 (support for opt out decisions).  
+Recommenda)on 3: Biases in AI systems, resul)ng in disparate impacts on people, should be exposed and eliminated. Any known limita)on of the applicability of an AI system to a set of condi)ons or circumstances must be made transparent to the users of the AI. 
+
+
+HFES Input on US AI Compe11veness    3 
+ 
+Developers of AI Systems Must be Liable for Their Products  
+ AI systems are being proposed as systems that will improve upon human performance or 
+reduce human error in a wide variety of applica>ons.  However, over 40 years of research data 
+show that such systems oYen introduce new types of errors and problems for human performance because people are expected to compensate for AI limits
+17-21.  Addi>onally, human 
+users of the technology are frequently unaware of these eﬀects, par>cularly exactly when the 
+system is unable to perform properly, and are thus unable to compensate for its deﬁciencies if required to do so.  It is therefore inappropriate to hold human users accountable for the performance of AI systems when they oYen have limited understanding of its capabili>es and limita>ons within speciﬁc situa>onal contexts of use.   
+Recommenda)on 4: Developers of AI systems shall assume liability for the performance of 
+their systems. 
+ 
+Addi0onal AI Guardrails for Safety Cri0cal Applica0ons  
+ 
+AI is being proposed for many applica>ons that directly impact the safety and well-being of 
+people, including (but not limited to) driving, ﬂying, healthcare, power systems, and military 
+opera>ons. For any use of AI in a safety-cri>cal applica>on, extra guardrails are required in order to protect people from poor performance or unintended consequences in the use of these systems.  Although AI systems are oYen promoted as improving safety by elimina>ng human error, liXle data exists to support such claims. In fact, failures of AI can introduce new types of errors 
+22 with signiﬁcant safety implica>ons.  A number of more speciﬁc guardrails are 
+needed in safety cri>cal systems where AI is implemented.   
+ 
+AI Shall be Explainable  
+AI systems must be equipped with explainability features that allow people who interact 
+with it to understand the system’s capabili>es and limita>ons for performance (including what 
+factors it does or does not consider in its assessments). Because AI can be both opaque and 
+changeable, developing and implemen>ng eﬀec>ve AI explana>on systems is important for helping people to develop accurate mental models of the AI.  The beneﬁts of AI explainability have been demonstrated in several studies 
+23-25. AI explana>ons need to consider the 
+capabili>es of the human receiver (e.g., exper>se, bandwidth, prior knowledge and assump>ons) as well as provide eﬀec>ve methods for explana>on delivery (e.g., they need to be both causa>ve and contextual) 
+26; 27.  
+Recommenda)on 5: AI systems must be able to explain the ra)onale for its ac)ons or outputs in an understandable format for the people using the system. AI explana)ons should provide an explana)on of why it makes par)cular recommenda)ons or takes ac) ons 
+in each case (including relevant contextual features), tailored to the needs of the user. 
+
+
+HFES Input on US AI Compe11veness    4 
+ 
+AI Shall be Transparen t  
+In order to be useful, people must trust the output of the AI when it is correct, and must 
+know when to reject that output when it is incorrect or inappropriate for the situa>on.2  They 
+must also be aware of when the AI system is not func>oning properly so that they avoid reliance 
+on unreliable data and can take correc>ve ac>ons. In addi>on to AI explana>ons (which tend to be retrospec>ve and involve general capabili>es), t his requires AI transparency which involves 
+presen>ng real->me informa>on to users on the level of reliability of the AI for the current 
+situa>on at hand
+8; 26. Transparency means that users should be provided with informa>on on 
+how well the AI is working, its assessment of the current situa>on, current mode, the reliability of the underlying data or sensors that feed the AI,  and its level of conﬁdence in any assessments or recommenda>ons that it makes.
+9; 26  Providing AI transparency has been shown 
+to signiﬁcantly reduce poor performance outcomes when people work with AI systems. 28; 29 
+Further, users need to understand the capabili>es and limita>ons of AI for addressing 
+diﬀerent types of situa>ons and classes of data within the current and upcoming context.9 AI 
+transparency is important for not just understanding the overall reliability and robustness of the system in general, but for allowing people to properly calibrate their trust in real->me
+30-32. AI 
+that provides just-in->me informa>on with the inten>on of serving as a decision support tool must be transparent about the capabili>es, conﬁdence and variables considered within the AI model. 
+26; 33  
+ 
+Recommenda)on 6: AI systems must be transparent to users during use, providing informa)on on the ability of the AI to handle the current and upcoming situa)ons, its current mode and situa)on assessment, the reliability of the underlying data or sensors that feed the AI, and its level of conﬁdence in any assessments or recommenda)ons that it makes. Transparency regarding accidents and incidents must also be provided through data sharing to relevant government agencies.  
+ 
+AI System s Shall be  Tested with Human Users 
+The development of user interfaces that allow people to interact eﬀec>vely with AI 
+technologies and properly understand any performance issues requires tes>ng of the technology in a wide variety of realis>c situa>onal contexts with a representa>ve set of human users,
+8 following informed consent and ethics 34. 
+The design of AI must avoid known human performance issues and provide eﬀec>ve 
+mechanisms for human oversight and interven>on. AI systems implemented in safety cri>cal 
+applica>ons (e.g., driving, ﬂying, power systems, healthcare) should be required to demonstrate equivalent or improved safety (as compared to manual opera>ons), across both situa>ons where it is reliable and those where it is not (i.e., safety must be established in automa>on 
+failure condi>ons that involve resump>on of control or o ver-ride by human operators). In cases 
+of AI failure, or in situa>ons that it cannot handle, safe transi>on to human control within the 
+>me available to allow accident avoidance is required. Safe transi>on >me should take into 
+
+
+HFES Input on US AI Compe11veness    5 
+account human-decision making and execu>on  >me, as well as >me required to overcome 
+human vigilance deﬁcits induced by automa>on complacency35 and lowered levels of task 
+engagement17; 36.  
+Recommenda)on 7: AI systems used in safety-cri)cal applica)ons must undergo tes)ng in 
+realis)c condi)ons of use with representa)ve users. The ability of human operators to detect AI performance deﬁciencies and safely assume control of opera)ons within the )me available to avoid accidents must be demonstrated, taking into account poten)al states of low human vigilance and distrac)ons with compe)ng tasks. 
+ 
+AI Shall Provide S afety Alerts 
+AI systems introduce the need for addi>onal informa>on on displays and capabili>es to 
+support user interac>on and decision-making26; 37. 
+Recommenda)on 8: The user interface for AI systems must provide salient and )mely alerts to operators when manual interven)ons are required to maintain safety, or when transi)on from automated to manual opera)on is required . 
+ 
+AI Shall be Fail Safe  
+AI systems should include provisions for safe fallback states when the automa>on fails to 
+perform correctly for any reason38; 39. Eﬀec>ve informa>on displays and control override op>ons 
+for operators should be incorporated in the design and development of fallback strategies. 
+Systems employing AI  should not require the human operator to perform beyond human 
+performance limits. When the AI is opera>ng with uncertainty, the AI should operate in a less risky manner .  
+Recommenda)on 9: AI systems that are employed in any opera)on that has the poten)al for harm must be designed to revert to a safe state in condi)ons in which the system fails to perform properly for the situa)on. 
+ 
+Training Shall be Provided for Users of AI Systems  
+The developers of AI systems should be required to provide user training on the capabili>es, 
+limita>ons and behaviors of its technology (including the range of opera>onal condi>ons the AI systems can and cannot handle) so that operators obtain an accurate mental model required for eﬀec>ve oversight and interac>on with them
+8. The eﬀec>veness of the training format and 
+content should be evidence-based to show successful outcomes with naïve operators. New training should be provided on any AI updates that are made over the course of the system’s life>me so that the AI’s behavior remains predictable to the operator
+40; 41. Periodic updates to AI 
+soYware (which may be provided over the internet on a frequent basis) can drama>cally aﬀect 
+how the AI performs, aﬀec>ng the human operator’s understanding of AI ac>ons and 
+capabili>es. Steps should be taken to require follow-on training for updates that aﬀect AI behaviors and control. 
+
+
+HFES Input on US AI Compe11veness    6 
+Recommenda)on 10: Eﬀec)ve training on the capabili)es, limita)ons and behaviors of AI 
+systems must be provided to system operators by developers. Training updates are required each )me the AI soWware is updated 
+.  
+Autonomous AI Systems Shall be Validated and CerHﬁed  
+In cases where the AI system is designed to operate independently (e.g., an autonomous 
+vehicle without a human driver, or an autonomous air vehicle without a human operator), the 
+AI system must go through valida>on tes>ng to demonstrate a level of safety equivalent to or exceeding that of experienced and unimpaired human operators. A cer>ﬁca>on process should be implemented for such systems to establish tes>ng requirements and review valida>on tes>ng data to determine that high levels of system safety have been demonstrated prior to approving the use of these systems for opera>ng in safety cri>cal applica>ons.
+42; 43  
+Recommenda)on 11: AI systems that operate autonomously must pass a cer)ﬁca)on process based on valida)on tes)ng data that demonstrates safety performance that meets or exceeds that of experienced, unimpaired humans in realis)c opera)onal condi)ons , 
+including hazard states.  
+ 
+Summary  
+While AI can provide useful products and services, the poten>al for nega>ve impacts on 
+human performance are signiﬁcant. Only by mi>ga>ng these problems through the 
+establishment of eﬀec>ve guardrails can the beneﬁts of AI be realized, and nega>ve outcomes minimized.  Par>cularly for systems that have safety impacts, it is cri>cal that AI systems be designed and implemented to work eﬀec>vely for human users of the AI, and that AI applica>ons are objec>vely tested though a detailed cer>ﬁca>on process. This process is cri>cal for moving AI forward into successful adop>on to meet America’s goals for leadership in the 
+ﬁeld.   
+About HFES  
+With over 3,000 members, the Human Factors and Ergonomics Society (HFES) is the world’s 
+largest nonproﬁt associa>on for human factors and ergonomics professionals. HFES members include psychologists, engineers and other professionals who have a common interest in working to develop safe, eﬀec>ve, and prac>cal human use of technology, par>cularly in challenging sehngs. 
+References  
+1. Sheppard,  B., Kouyoumjian, G., Sarrazin, H., & Dore, F. (2018). The business value of design . McKinsey and
+Company. Retrieved from hLps://www.mckinsey.com/capabiliQes/mckinsey -design/our -insights/the -
+business- value -of-design, hLps://www.mckinsey.com/capabiliQes/mckinsey -design/our -insights/the -
+business- value -of-design
+
+
+HFES Input on US AI Compe11veness    7 
+2. Lee, J. D., & See, K. A. (2004). Trust in automaQon: Designing for appropriate reliance. Human Factors, 
+46(1), 50 -80.  
+3. Kale, A., Nguyen, T., Harris Jr, F. C., Li, C., Zhang, J., & Ma, X. (2022). Provenance documentaQon to enable 
+explainable and trustworthy AI: A literature review. Data Intelligence, 1 -41.  
+4. Gianfrancesco, M. A., Tamang, S., Yazdany, J., & Schmajuk, G. (2018). PotenQal biases in machine learning algorithms using electronic health record data. JAMA internal medicine, 178 (11), 1544 -1547.  
+5. Daugherty, P . R., & Wilson, H. J. (2018). Human+ machine: Reimagining work in the age of AI : Harvard 
+Business Press.  
+6. West, S. M., WhiLaker, M., & Crawford, K. (2019). DiscriminaQng systems. AI Now .  
+7. NorthcuL, C. G., Athalye, A., & Mueller, J. (2021). Pervasive label errors in test sets destabilize machine learning benchmarks. arXiv preprint arXiv:2103.14749 .  
+8. NaQonal Academies of Sciences Engineering and Medicine. (2021). Human -AI teaming: State- of-the-art 
+and research needs . Washington, DC: NaQonal Academies Press.  
+9. Endsley, M. R., & Jones, D. G. (2012). Designing for situaQon awareness: An approach to human -centered 
+design (2nd ed.). London: Taylor & Francis.  
+10. Kahneman, D., Slovic, P., & Tversky, A. (1982). Judgment under uncertainty: HeurisQcs and biases . 
+Cambridge, UK: Cambridge University Press.  
+11. Endsley, M. R., & Kiris, E. O. (1994). InformaQon presentaQon for expert systems in future ﬁghter aircrai. InternaQonal Journal of AviaQon Psychology, 4(4), 333 -348.  
+12. Banbury, S., Selcon, S., Endsley, M., Gorton, T., & Tatlock, K. (1998). Being certain about uncertainty: How the representaQon of system reliability aﬀects pilot decision making. Proceedings of the Human Factors 
+and Ergonomics Society 42nd Annual MeeQng (pp. 36- 41). Santa Monica, CA: Human Factors and 
+Ergonomics Society.  
+13. Friesen, D., Borst, C., Pavel, M., MasaraQ, P ., & Mulder, M. (2021). Design and EvaluaQon of a Constraint -
+Based Helicopter Display to Support Safe Path Planning. Proceedings of the Nitros Safety Workshop ( pp. 9-
+11).  
+14. Selcon, S. J. (1990). Decision support in the cockpit: Probably a good thing? Proceedings of the Human 
+Factors Society 34th Annual MeeQng ( pp. 46- 50). Santa Monica, CA: Human Factors Society.  
+15. Kiyasseh, D., Laca, J., Haque, T. F., OQato, M., Miles, B. J., Wagner, C., . . . Hung, A. J. (2023). Human visual explanaQons miQgate bias in AI -based assessment of surgeon skills. NPJ Digital Medicine, 6 (1), 54.  
+16. Mazijn, C., Prunkl, C., Algaba, A., Danckaert, J., & Ginis, V. (2022). LUCID: Exposing algorithmic bias through inverse design. arXiv preprint arXiv:2208.12786 .  
+17. Endsley, M. R. (2017). From here to autonomy: Lessons learned from human -automaQon research. Human 
+Factors, 59 (1), 5 -27.  
+18. Funk, K., Lyall, B., & Riley, V. (2000). A comparaQve analysis of ﬂightdecks with varying levels of automaQon. Final Report prepared for the FAA Chief ScienQﬁc and Technical Advisor for Human Factors , 1-
+17.  
+19. Hancock, P . A. (2019). Some pioalls in the promises of automated and autonomous vehicles. Ergonomics, 
+62(4), 479 -495.  
+20. Strauch, B. (2017). The automaQon -by-experQse -by-training interacQon: Why automaQon -related 
+accidents conQnue to occur in sociotechnical systems. Human factors, 59 (2), 204 -228.  
+21. Endsley, M. R. (2023). Ironies of arQﬁcial intelligence. Ergonomics.  
+22. Cummings, M. (2021). Rethinking the maturity of arQﬁcial intelligence in safety -criQcal sepngs. AI 
+Magazine, 42 (1), 6 -15.  
+23. Bass, E. J., Baumgart, L. A., & Shepley, K. K. (2013). The eﬀect of informaQon analysis automaQon display content on human judgment performance in noisy environments. Journal of CogniQve Engineering and 
+Decision Making, 7 (1), 49 -65.  
+24. Oduor, K. F., & Wiebe, E. N. (2008). The eﬀects of automated decision algorithm modality and transparency on reported trust and task performance. Proceedings of the Proceedings of the Human 
+Factors and Ergonomics Society Annual MeeQng ( pp. 302- 306). Los Angeles, CA: Sage.  
+
+
+HFES Input on US AI Compe11veness    8 
+25. Paleja, R., Ghuy, M., Ranawaka Arachchige, N., Jensen, R., & Gombolay, M. (2021). The UQlity of 
+Explainable AI in Ad Hoc Human -Machine Teaming. Advances in Neural InformaQon Processing Systems, 
+34, 610 -623.  
+26. Endsley, M. R. (2023). SupporQng human- AI teams: Transparency, explainability, and situaQon awareness. 
+Computers in Human Behavior, 140, 107574.  
+27. Sanneman, L., & Shah, J. A. (2022). The situaQon awareness framework for explainable AI (SAFE -AI) and 
+human factors consideraQons for XAI systems. InternaQonal Journal of Human– Computer InteracQon, 1 -
+17. doi: 10.1080/10447318.2022.2081282  
+28. Wickens, C. D., Helton, W. S., Hollands, J. G., & Banbury, S. (2022). Engineering psychology and human 
+performance (5th ed.). New York: Routledge.  
+29. van de Merwe, K., Mallam, S., & Nazir, S. (2022). Agent Transparency, SituaQon Awareness, Mental Workload, and Operator Performance: A SystemaQc Literature Review. Human Factors , 
+00187208221077804.  
+30. Selkowitz, A. R., Lakhmani, S. G., & Chen, J. Y . C. (2017). Using agent transparency to support situaQon awareness of the autonomous squad member. CogniQve Systems Research, 46 (December), 13 -25.  
+31. Panganiban, A. R., MaLhews, G., & Long, M. D. (2020). Transparency in autonomous teammates: intenQon to support as teaming informaQon. Journal of CogniQve Engineering and Decision Making, 14 (2), 174 -190.  
+32. Stowers, K., Kasdaglis, N., Rupp, M., Chen, J. Y . C., Barber, D., & Barnes, M. (2017). Insights into human -
+agent teaming: Intelligent agent transparency and uncertainty Advances in Human Factors in Robots and 
+Unmanned Systems  (pp. 149 -160): Springer.  
+33. Klein, G. A., Woods, D. D., Bradshaw, J. M., Hoﬀman, R. R., & Feltovich, P . J. (2004). Ten challenges for making automaQon a "team player" in joint human -agent acQvity. IEEE Intelligent 
+Systems (November/December), 91 -95.  
+34. U. S. Department of Health and Human Services. (2023). Oﬃce for Human Research ProtecQons: 
+RegulaQons, Policy & Guidance , from hLps://www.hhs.gov/ohrp/regulaQons -and- policy/index.html  
+35. Parasuraman, R., & Manzey, D. (2010). Complacency and bias in human use of automaQon: An aLenQonal integraQon. Human Factors, 52 (3), 381 -410.  
+36. Onnasch, L., Wickens, C. D., Li, H., & Manzey, D. (2014). Human performance consequences of stages and levels of automaQon: An integrated meta- analysis. Human Factors, 56 (3), 476 -488.  
+37. Federal AviaQon AdministraQon Human Factors Team. (1996). The interfaces between ﬂightcrews and 
+modern ﬂight deck systems   Washington, DC: FAA.  
+38. Saleh, J. H., Marais, K. B., & Favaro, F. M. (2014). System safety principles: A mulQdisciplinary engineering perspecQve. Journal of Loss PrevenQon in the Process Industries, 29 , 283 -294.  
+39. Steimers, A., & Bömer, T. (2021). Sources of risk and design principles of trustworthy arQﬁcial intelligence. Proceedings of the InternaQonal Conference on Human -Computer InteracQon ( pp. 239- 251). Springer.  
+40. Casner, S. M., & Hutchins, E. L. (2019). What do we tell the drivers? Toward minimum driver training 
+standards for parQally automated cars. Journal of CogniQve Engineering and Decision Making, 13 (2), 55 -
+66.  
+41. Endsley, M. R. (2017). Autonomous driving systems: A preliminary naturalisQc study of the Tesla Model S. 
+Journal of CogniQve Engineering and Decision Making, 11 (3), 225 -238.  
+42. Koopman, P., Ferrell, U., Fratrik, F., & Wagner, M. (2019). A safety standard approach for fully autonomous vehicles. Proceedings of the Computer Safety, Reliability, and Security: SAFECOMP 2019 Workshops, 
+ASSURE, DECSoS, SASSUR, STRIVE, and WAISE, Turku, Finland, September 10, 2019, Proceedings 38 (pp. 
+326- 332). Springer.  
+43. Koopman, P., Hierons, R., Khastgir, S., Clark, J., Fisher, M., Alexander, R., . . . Torr, P. (2019). CerQﬁcaQon of highly automated vehicles for use on uk roads: CreaQng an industry -wide framework for safety.  
+
+

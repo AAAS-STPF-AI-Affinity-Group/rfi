@@ -1,0 +1,270 @@
+1 Comment to the Department of Networking and Information Technology Research and 
+Development (NITRD) and the National Coordination Office (NCO), on behalf of the Office 
+of Science and Technology Policy (OSTP) on the Development of an Artificial Intelligence 
+(AI) Action Plan.  
+March 15, 2025  
+ 
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution.  
+ This submission is not on behalf of the University of California, Berkeley. The views expressed here are the authors' own and do not reflect the views of the University of 
+California, Berkeley.  
+ To the Office of Science and Technology Policy (OSTP),  
+ Thank you for the opportunity to submit comments on the Development of an Artificial 
+Intelligence (AI) Action Plan. My colleagues and I are researchers with expertise in AI 
+research and development, security, and robustness. We offer the following submission for 
+your consideration.  
+1. Overarching Recommendations   
+In this section, we provide overarching recommendations on developing an AI Action 
+plan, with an emphasis on risks to national security.  
+1.1 Prioritize Excellence and Robustness as Key Components of the American Competitive 
+Advantage.  
+The success/ business value of AI systems is heavily reliant on their security and reliability.1 
+Businesses adopting AI products want to avoid unnecessary losses from vulnerable systems, 
+prompting developers to prioritize security alongside innovations.2, 3 Additionally, generative 
+ 
+1 NIST (2023) NIST AI 100- 1: Artificial Intelligence Risk Management Framework (AI RMF 1.0). National 
+Institute of Standards and Technology, https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100- 1.pdf    
+2 Numerous methods currently exist to jailbreak systems, many of which are not known in advance. See, 
+Abhinav Rao et al. (2024) Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting 
+Jailbreaks. arXiv, https://arxiv.org/pdf/2305.14965    
+3 Additionally, models can fail due to hallucinations, data leakage, or prompt injection..  
+
+2 AI models also fail in ways unseen in traditional software,4 and some AI applications adapt 
+and change over time, complicating security further. These aspects of AI have drawn 
+attention to critical deficiencies in available testing and evaluation methods.5 
+ 
+Implementing insecure systems in critical infrastructure sectors or defense systems could 
+lead to unintended consequences and compromise American national security.  Widespread 
+or cascading failures also present challenges, such as AI software supply chain attacks.6 
+Foundation model developers are creating products that will require widespread use and 
+deep integration with current technologies in order to be transformational.7  
+ 
+To be an innovation leader, the U.S. must develop state of the art AI systems that are robust, 
+reliable, and secure.  This will require new investments in AI security as well as testing and 
+evaluation regimes.  
+1.2 Maintaining U.S. Leadership in AI  
+Maintain the work and expertise provided by the U.S. AISI.  
+The U.S. AISI and its network of AI experts can provide the strategic advantage  
+through government and industry collaboration to operationalize agile governance with 
+the necessary safety nets to accelerate trustworthy8 innovation that taps into the 
+potential of AI. It also provides an essential platform for global AI engagement through 
+the broader network of AISIs. To maintain American leadership in paving the way for innovation- centric governance, we recommend increasing investment in testing and 
+evaluation, dissemination of AI best practices and standards, and support of domestic and international institutions advancing AI security and robustness.  
+ 
+ 
+4 Zhenhua Wang et al. (2024) Foot In The Door: Understanding Large Language Model Jailbreaking via 
+Cognitive Psychology. arXiv, https://arxiv.org/pdf/2402.15690  
+5 There are now various platforms and tools available for model and system red teaming, guidelines for 
+secure development across the development and deployment lifecycle, and a strong emphasis on 
+integrating security early on. See, CISA (2024) Joint Guidance on Deploying AI Systems Securely. U.S. Cybersecurity and Infrastructure Security Agency, https://www.cisa.gov/news -
+events/alerts/2024/04/15/joint -guidance- deploying- ai-systems- securely   
+6 Avi Lumelsky et al. (2024) ShadowRay: First Known Attack Campaign Targeting AI Workloads Actively 
+Exploited In The Wild. oligo, https://www.oligo.security/blog/shadowray -attack -ai-workloads -actively -
+exploited -in-the-wild  
+7 Recent security failures across popular products have demonstrated that such systems have become 
+single points of cascading failure. See, GAO (2024a) CrowdStrike Chaos Highlights Key Cyber Vulnerabilities with Software Updates. U.S. Government Accountabil ity Office, 
+https://www.gao.gov/blog/crowdstrike- chaos -highlights -key-cyber -vulnerabilities -software- updates   
+8 NIST (2025) Strategic Vision. National Institute of Standards and Technology,  
+https://www.nist.gov/aisi/strategic -vision   
+
+3 Champion AI standards and regulations that address national security risks.   
+The U.S. plays a critical role in establishing and promoting scientifically grounded AI 
+standards that foster innovation while implementing safeguards for high- risk AI 
+applications, as set out during the first Trump administration.9 Setting intolerable risk 
+thresholds (supported by 27 countries and the EU at the AI Seoul Summit10, and the 
+NIST AI RMF11) is one way to mitigate catastrophic risks from AI without slowing down 
+innovation.12   
+ Prioritize strategic partnerships that will support international American AI leadership.  
+Given AI’s transnational nature, forging strategic partnerships with allies, leading 
+research institutions, and global organizations is crucial to bolstering U.S. 
+competitiveness and ensuring global AI developments align with American interests.  
+2. Specific Recommendations on Policy Topics  
+In this section, we provide recommendations specific to the topics mentioned in the request for information on developing an AI Action Plan. 
+ 
+2.1 Model Development and Deployment  
+Encourage Phased AI Model Releases  
+Phased releases, where models and/or model capabilities are deployed incrementally, are a 
+critical component of model security, particularly when dealing with open- weight or open -
+ 
+9 White House (2019) Executive Order on Maintaining American Leadership in Artificial Intelligence. 
+White House, https://trumpwhitehouse.archives.gov/presidential -actions/executive -order -maintaining-
+american- leadership- artificial- intelligence/   
+10 DIST (2024)  Frontier AI Safety Commitments, AI Seoul Summit 2024. UK DSIT, 
+https://www.gov.uk/government/publications/frontier -ai-safety -commitments -ai-seoul -summit -
+2024/frontier -ai-safety -commitments -ai-seoul -summit -2024  
+11 “In cases where an AI system presents unacceptable negative risk levels – such as where significant 
+negative impacts are imminent, severe harms are actually occurring, or catastrophic risks are present –  
+development and deployment should cease in a safe manner until risks can be sufficiently managed.” in 
+page 8 of  NIST (2023) NIST AI 100- 1: Artificial Intelligence Risk Management Framework (AI RMF 1.0). 
+National Institute of Standards and Technology, https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100 -1.pdf    
+12 Deepika Raman et al. (2025) Intolerable Risk Threshold Recommendations for Artificial Intelligence. 
+UC Berkeley Center for Long- term Cybersecurity, https://cltc.berkeley.edu/wp -
+content/uploads/2025/02/Intolerable- Risk-Threshold- Recommendations -for-Artificial -Intelligence.pdf   
+
+4 source models.13 This is critical in the context of open -weight models, which have a limited 
+number of post -deployment mitigations,14 and high -risk domains.  
+● Deploying AI models in phases gives researchers and security experts the ability to 
+identify and mitigate vulnerabilities before they are abused by malicious actors.  
+● Phased releases also ensure that AI models comply with security regulations and standards, particularly as these frameworks rapidly evolve.  
+2.2 Open Source Development and Robustness  
+Implement AI security regulations alongside guidance to ensure best practices are 
+appropriately applied to both closed and open -source models . Fostering an open -source 
+community focused on creating secure and robust models will require investments in shared 
+computing and data resources, further enabling reliable innovation. These communities will 
+also allow model developers to share critical secu rity insights and work together to tackle the 
+nation's most threatening AI risks.  
+ The open -source approach to security in traditional software development, which relies on a 
+great number of experts discovering and remediating vulnerabilities, has proven to be a successful way to make systems secure.
+15 However, even with traditional software, there are 
+tradeoffs and use cases where closed -source alternatives provide more security.16 While 
+many of the core learnings from open -source security apply to AI, the unique nature of AI 
+models necessitates a tailored approach to risk management. See section 2.1 for some recommended approaches.  
+ 
+13 See, for example, the OpenAI (2023)  preparedness framework ( https://cdn.openai.com/openai -
+preparedness -framework -beta.pdf  ), and the Anthropic (2023)  responsible scaling policy ( https://www -
+cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible- scaling -policy.pdf  ), 
+which both include requirements for phased releases and/or structured access, with efforts to detect and 
+respond to misuse or problematic anomalies . 
+14 Madhulika Srikumar et  al. (2024) Risk Mitigation Strategies for the Open Foundation Model Value 
+Chain. Partnership on AI, https://partnershiponai.org/resource/risk -mitigation- strategies -for-the-open-
+foundation- model -value-
+chain/#:~:text=Component%2Dlevel%20releases,of%20openness%20while%20mitigating%20risks   
+15 Russell Clarke et al. (2009) Is Open Source Software More Secure? University of Washington, 
+https://courses.cs.washington.edu/courses/csep590/05au/whitepaper_turnin/oss(10).pdf   
+16 Closed systems allow for a higher degree of control over the development and patching process, which 
+can be beneficial when strict quality control and consistency are key. This also allows for tighter control 
+over distribution, which can be crucial for AI  systems that possess specialized capabilities.  
+
+5 2.3 Explainability and Assurance of AI Model Outputs  
+Require that AI companies openly share the results of their testing and evaluation with 
+governments and independent researchers, enabling oversight and accountability. Without 
+such transparency, there is a significant risk that companies could downplay or conceal 
+safety concerns.17 Additionally, transparency in model evaluations, beyond just evaluation 
+results, provide visibility into their robustness and accuracy. Especially in the context of increasingly capable AI systems deployed in critical domains, transparency from leading AI  
+labs can go beyond ensuring secure development to even mitigating national security risks.  
+Appropriate transparency from model developers throughout the AI lifecycle can support 
+quicker consensus on best practices.  
+2.4 Regulation, Government, and Standards  
+High -priority risks, such as illegal imagery (e.g., CSAM), CBRN weapons, cybersecurity risks, 
+and AI autonomy, require strong federal oversight. AI regulation that addresses national 
+security risks must be proactive and enforceable, with the U.S. leading the way in setting 
+clear, effective policies that serve as a global standard.  Leaving regulation to individual states 
+may create a tapestry of guidelines that may be conflicting or inconsistent, placing more 
+regulatory burden on model developers and increas ing the risk of legal uncertainty leading to 
+unaddressed catastrophic risks. Such proactive governance will be most efficiently enacted 
+only through sufficient international cooperation that deters any escalation of such risks.  
+2.5 Cybersecurity, Data Privacy and Security Throughout the Lifecycle of AI system 
+Development and Deployment (to include security against AI model attacks)  
+Incentivize Developing Strong Mitigation for Evaluation Deception Risks.  
+The U.S. government needs to incentivize the development of strong mitigations for 
+evaluation deception by AI models before they possess this capability at an unacceptable 
+level that threatens U.S. national security. Evaluation deception (i.e. a model bein g capable of 
+substantially and persistently deceiving its evaluators about its capabilities) is an emerging security risk. A model successfully deceiving its evaluators would not only heighten loss -of-
+ 
+17 This may lead to harmful consequences, similar to the tobacco industry’s history of strategically 
+undermining emerging science on health risks. See, Allan M Brandt (2012) Inventing Conflicts of Interest: 
+A History of Tobacco Industry Tactics. National Library of Medicine, 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3490543/   
+
+6 control risks, but also increases the likelihood of dangerous levels of model capabilities going 
+unidentified.18 
+ 
+Safeguard the Digital -to-Physical Frontier.  
+It is important to invest in research that addresses and evaluates national security threats posed by systems at the digital -to-physical frontier (e.g., AI controlled infrastructure and 
+robotics). Threats from AI- driven physical systems pose a unique challenge for security and 
+have the potential to cause large scale harm.
+19 As AI capabilities extend beyond digital spaces, 
+risks to US national security may escalate, introducing unanticipated threats that we may not yet fully understand, and that current safeguards are ill -equipped to handle. Without 
+proactive investment in research, the U.S. risks falling behind adversarial actors who may 
+weaponize these systems in ways that threaten national security.  
+ 
+Protect against model theft.  
+Long -term protection against the most advanced threats to model weights protection 
+demands sustained investment and research prioritization. It is critical that the necessary 
+controls and standards are created and enforced for developers of AI models with dangerous 
+capabilities.20 Adversarial actors gaining access to model weights may lead to leveraging 
+advanced AI capabilities as weapons (e.g., cyber -attacks , and autonomous threats).   
+2.6 National Security and Defense   
+Utilize the talent and expertise based within NIST and the U.S. AISI by tasking these 
+institutes with tackling the most critical national security capabilities and risks. This includes ongoing support and expansion of existing initiatives aimed at addressi ng the most critical 
+risks (listed below) to U.S. national security. These efforts include, but are not limited to:  
+● NIST AI 100 -1: AI Risk Management Framework (RMF) 
+21  
+ 
+18 Deepika Raman et al. (2025) Intolerable Risk Threshold Recommendations for Artificial Intelligence. 
+UC Berkeley Center for Long- term Cybersecurity, https://cltc.berkeley.edu/wp -
+content/uploads/2025/02/Intolerable- Risk-Threshold- Recommendations -for-Artificial -Intelligence.pdf   
+19 RAND (2025) Mitigating Risks at the Intersection of Artificial Intelligence and Chemical and Biological 
+Weapons. RAND, https://www.rand.org/pubs/research_reports/RRA2990- 1.html   
+20 RAND (2024) Securing AI Model Weights. RAND,  
+https://www.rand.org/pubs/research_reports/RRA2849- 1.html   
+21 NIST (2023) NIST AI 100- 1: Artificial Intelligence Risk Management Framework (AI RMF 1.0). National 
+Institute of Standards and Technology, https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100- 1.pdf   
+
+7 ● NIST AI 600 -1: Generative AI Profile  22 
+● The U.S. AI Safety Institute Consortium (AISIC) working groups and task forces  
+● NIST SP 800- 218A: Secure Software Development Practices for Generative AI and 
+Dual -Use Foundation Models: An SSDF Community Profile 23 
+ 
+2.7 International Collaboration  
+While U.S. AI dominance requires robust domestic capabilities, international collaboration is 
+critical for sustained U.S. AI leadership and competitiveness . Given AI’s transnational nature, 
+forging strategic partnerships with allies, leading research institutions, and global 
+organizations is crucial to bolstering U.S. competitiveness and ensuring global AI 
+developments align with American interests. Effectiv e communication, coordination, and 
+collaboration between the U.S. government and international stakeh olders will be essential 
+in establishing formal AI regulations as these emerging technologies continue to evolve and introduce increasingly complex regulatory challenges.
+24  
+2.8 Research and Development  
+Investing in AI research and education is critical for maintaining U.S. leadership in the 
+global AI race.  Advancing cutting- edge research fosters innovation, ensures technological 
+superiority, and strengthens national security by keeping American AI systems at the 
+forefront of development. It is also equally important to retain existing talent and further 
+support U.S. institutes (e.g., NIST and U.S. AISI) that harbor expertise that is critical to U.S. 
+global AI leadership.  
+  
+A strong AI education pipeline equips the workforce with the necessary skills to drive 
+progress , attract top global talent, and sustain a competitive edge in AI -driven industries.  
+Without a well -funded and structured approach to AI research and education, the U.S. risks 
+falling behind countries that prioritize these areas, losing its influence over global AI standards, and diminishing its technological and economic leadership.  
+ 
+22 NIST (2024) NIST AI 600- 1: Artificial Intelligence Risk Management Framework: Generative Artificial 
+Intelligence Profile. National Institute of Standards and Technology, 
+https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600 -1.pdf   
+23 NIST (2024) NIST SP 800- 218A: Secure Software Development Practices for Generative AI and Dual -
+Use Foundation Models: An SSDF Community Profile. National Institute of Standards and Technology, https://csrc.nist.gov/pubs/sp/800/218/a/final   
+24 RAND (2025) Mitigating Risks at the Intersection of Artificial Intelligence and Chemical and Biological 
+Weapons. RAND, https://www.rand.org/pubs/research_reports/RRA2990- 1.html  
+
+8  
+ 
+ 
+ 
+ 
+Our best,  
+ Nada Madkour, Ph.D.  
+Non-Resident Research Fellow   
+AI Security Initiative, Center for Long -Term Cybersecurity, UC Berkeley  
+ 
+Krystal Jackson  
+Non-Resident Research Fellow  
+AI Security Initiative, Center for Long -Term Cybersecurity, UC Berkeley  
+ Deepika Raman  
+Non-Resident Research Fellow   
+AI Security Initiative, Center for Long -Term Cybersecurity, UC Berkeley  
+ 
+Evan R Murphy  
+Non-Resident Research Fellow  
+AI Security Initiative, Center for Long -Term Cybersecurity, UC Berkeley  
+ 
+Jessica Newman  
+Director  AI Security Initiative, Center for Long -Term Cybersecurity, UC Berkeley  
+Co-Director  
+AI Policy Hub, UC Berkeley  
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,122 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: February 10, 2025
+Status: 
+Tracking No. m 6z-4ho3-ucwm
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-0848
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Com psim  LLC
+General Comment
+Governm ent solicitations are biased towards ML/LLM/Generative AI to the extent that the governm ent does not consider new
+approaches to AI.
+Attachments
+AI Not Necessarily Machine LearningRev2
+
+
+AI is Not N ecessarily Machine Learning  
+The original pro blem definition of Artificial Intelligence was simply to deliver intelligent behavior.  
+How that in telligence was developed was not important; only the capability was important.  
+Learning, o r machine learning specifically, was added by organizations that collected massive amounts 
+of information and were looking for ways to exploit that capability for profit.  
+Is the foc us on Machine Learning anything more than the result of the Machine Learning suppliers 
+repeating the words “Big Data” and “Machine Learning” over and over again?   
+Perhaps t heir approach is to insert those patterns into the brains of business executives in the same way 
+that marketing organizations  repeatedly  force their ideas into the public as facts.    
+Is it the ho rse driving the cart again?  
+Are the c onsulting companies promoting Machine Learning as the dominant form of AI today blindly 
+riding that horse?    
+Where is the c onsumer of AI defining the need , and what they value, from AI ? 
+Where is the  consumer of AI demanding certain capabilities that , if they are not there, would block a 
+particular approach?    
+Where is t he list of AI “buying factors” that should contribute to the selection of an AI approach? 
+
+
+The f ollowing list itemizes some  factors that should be considered ( and be referenced and measured ) 
+for their value  in applications requiring Artificial Intelligence (AI) behaviors .  All RFQ’s should be 
+measured and evaluated for their capability importance, potential reuse, life -cycle cost/value, and 
+schedule impact.   
+•identification of forms of outputs and targets of outputs from the AI
+omachines delivering safety -critical decisions and/ or actions ( as in autonomous weapon
+systems)
+otextual output to satisfy humans
+•ability, not only to provide answers, but  to explain why alternatives are not appropriate
+•suitability for real- time adaptive control
+•ability to easily create a hierarchy of expertise  (systems of systems)
+•capability of intelligent systems to self- organize and work as teams
+•safety of systems (testable and auditable)
+•ability to support hand ling multiple (sometimes conflicting) problems at the same time
+•certification requirements (code  AND  application certification)
+•traceable behavior (Explainable AI) , including ease of use
+•exposed value system  for all influencing factors (a requirement for Explainable AI)
+•support for after- mission reviews of production systems , including ease of use
+•ability to support existing platforms/applications  to extend the life of existing applications
+•production memory requirements for embedded systems , if that is important
+•production dependencies , if any (software / hardware)
+•architecture independence (device, software application, web service)
+•extensibility so the AI can easily evolve with new capabilities and new information sources
+•flexibility, so one can create  system s that can handle slightly different problems in slightly
+different ways
+•adaptable, so systems can respond to situations (combinations of problems) they have never
+encountered before
+•personalization for different users  (different users may have slightly different needs)
+•support for executive tuning where the person in charge may have different views of the
+importance  of different pieces of information
+•design -once -deploy -many (ability to take a behavioral policy and deploy it in multiple
+production platforms )
+•support for human -outside -the-loop, human -on-the-loop, and/or human -in-the-loop (fixed or
+adaptive or as needed)
+•ease -of-use / ease of understanding to justify any risks associated with a proposed solution
+•user and platform pre -requisites  for development (accessibility)  to highlight special costs that
+might be incurred
+•traceable responsibility  / liability  (for decisions and actions)
+•open -source available to anyone, or proprietary where the government could acquire
+technology to obtain a competitive advantage
+In addition,  each item above should list an  associated cost in schedule  and money . 
+
+
+Summa ry: 
+It is stro ngly suggested that all requirements for Artificial Intelligence in solicitations should avoid 
+dictating  what AI approach must  be used.  Dictating what approach mu st be used prohibits  the US from 
+learning about new approaches to AI that could offer higher levels of service at greatly reduce d costs.  
+Requirements should be expressed in terms of required capabilities .  All responses should list ALL 
+dependencies (direct and indirect).   All potential risks associated with a solution should be listed 
+(including how any risks might be addressed : such as cost and schedule) .  
+When new a pproaches to AI are developed, there should be someone within the government that is 
+responsible for learning  about those new approaches / methodologies / technologies so that they 
+become aware of the potential benefits that can be provided , and/ or the potential threats that new 
+approaches might present if deployed by an adversary.  Presently within the government, there appears 
+to be  resistance to approaches that the reviewers are  unfamiliar with (cognitive dissonance).  
+Refer ence s: 
+"Battlespace  Automation" describes a fully automated battlespace hierarchy: 
+https://www.compsim.com/news/News%20Release%20 -%20Battlespace%20Automation.html  
+What can one do with KEEL Technology:  
+https://www.compsim.com/papers/What%20can%20one%20do%20with%20KEEL%20Technology.pdf  
+Question s AI Must be able to answer:  
+https://www.compsim.com/publicpapers/Questions%20ai%20must%20be%20able%20to%20answer.pdf  
+
+
+- Extensions should be structured in a way that ensures backward com patibility, preventing interoperability issues across different AI
+platform s.
+- A governance m echanism  should be in place to encourage industry-wide adoption of com m on extensions, ensuring best practices while
+allowing innovation.
+Benefits of an Extensible JSON-Based AI Messaging Standard:
+- Interoperability – Ensures AI services, platform s, and regulatory bodies can com m unicate effectively.
+- Transparency & Trust – Facilitates auditing and oversight of AI decision-m aking processes.
+- Efficiency & Scalability – Reduces developm ent and com pliance costs by providing a universal m essaging fram ework.
+- Security & Privacy – Supports encrypted and structured AI data transm ission in com pliance with regulations.
+- Custom ization & Innovation – Provides a structured but flexible fram ework that allows organizations to tailor AI m essaging to their
+specific needs.
+Call to Action:
+We urge policym akers to prioritize the developm ent of this standard, bringing together AI stakeholders, industry leaders, and governm ent
+agencies to ensure AI system s operate in a structured, secure, and transparent m anner while m aintaining the flexibility to accom m odate
+evolving AI applications.
+We appreciate your consideration and look forward to contributing to this initiative.
+
+

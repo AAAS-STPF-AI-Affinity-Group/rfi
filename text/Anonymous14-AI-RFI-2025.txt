@@ -1,0 +1,172 @@
+Artificial Superintelligence – the last invention of humanity (?)
+The year is 2035. A solar farm is being installed on the last remaining free square metres of the
+Earth, with an underlying data center. Are there still people alive somewhere? It is far from certain.
+How did we get here?
+The year is 2025. Some research labs, backed by America's biggest tech companies, are actively
+racing to achieve human-level artificial intelligence. While some of the best current models are still
+caught  out  by  some  tricky  questions  and  can  claim  falsehoods,  but  their  programming  and
+mathematical capabilities have nearly caught up with us, while there are growing signs that their
+safety limitations are not watertight. How did we get here and where are we heading?
+The year is 2015. OpenAI has been formed, a non-profit organisation with a mission [1] to create
+truly general AI for the benefit of all humanity. And AlphaGo, developed by Google DeepMind,
+has just beaten a professional human player in a game of Go that's even more complex than chess,
+and soon afterwards the world champion, so it's time they also looked for more general goals.
+Where are we heading?
+The rise of transformers
+In 2017, a conference article was published with a somewhat clickbaity title: 'Attention is all you
+need'. [2] It proposed a new neural-net architecture, called a transformer, which, in addition to using
+artificial neurons to process data, partly modelled on the human brain, also employs a breakthrough
+attention mechanism to help interpret longer contexts. This is the basis of the GPT technology made
+famous by ChatGPT, which is trained by simply going through a text and trying to predict the next
+word. This process roughly works in the following way: the strength of the connections (the
+weights) between neurons are chosen randomly, the input is 'passed' through the network to produce
+a model-predicted answer, which is then compared with the correct answer to produce an error
+term, which is 'propagated' back through the network by some mathematical operations, and the
+weights are adjusted to produce a smaller error term next time. Experience has shown that, after
+processing thousands  of books  and documents, such a model  can indeed predict with a high
+accuracy what word in a given sentence is likely to follow. Somewhat surprisingly, this basic ability
+has led to other skills, and with a properly chosen set of instructions and some fine-tuning, a novice
+
+
+assistant has emerged that can perform a wide range of tasks, from answering school questions, to
+simple copywriting, translation and programming, to basic customer service.  (The academic world
+has taken notice, and the original article is now at nearly 150,000 citations.)
+Scaling
+Whether it's singing or machine learning, scaling has been proven time and time again to work
+effectively. In the latter case, it means solving the problem with more computational capacity, for
+example by increasing the number of parameters of the neural network used (more layers, more
+neurons, more comprehensive attention mechanism, etc.) or by extending the training data. This is
+how GPT-2, with about 1.5 billion parameters, was mainly of interest to linguists, while GPT-4,
+with about 1.8 trillion parameters, was already suitable for a wide range of applications, including
+commercial ones. And just when it seemed that a new order of magnitude of parameters would not
+bring the expected improvement, [3] another dimension to improve the intellectual capabilities of
+language models opened up.
+Reasoning
+Eagle-eyed early ChatGPT testers noticed that they consistently got higher quality, more accurate
+answers when they appended "think step by step" to their questions. In this case, the answer usually
+included chains of reasoning, which makes it much easier to arrive at the correct solution in certain
+areas such as mathematics, logic, programming. This gave rise to the idea of teaching the next
+version of ChatGPT to generate several such chains of reasoning and to select the best one. An
+important parallel is that today's chess programs don't simply beat people on the basis of the current
+state of play, on pure intuition, but they also calculate ahead several moves. The main difference is
+that while in chess it is relatively easy to evaluate a given position, language processing requires
+different  tricks,  which  have  so  far  mainly  led  to  breakthroughs  in  mathematical,  logical  and
+programming skills, and it is an open question to what extent they can be transferred to other areas.
+However, it seems to work in a similar way to game-learning algorithms, in that models can enter a
+self-improving loop, whereby the second version learns from the answers (in the case of language
+models, from the thought chains) of the first version, which will then generate even better quality
+answers, reach the correct solution even faster and more reliably, and be used by the third version,
+and so on. Progress can be accelerated even further if an advanced model can optimise its own
+algorithms, and the versions available today are already quite adept at writing code. At the moment,
+no one knows where the upper limit of this process is, but looking at the success of AlphaGo, it
+doesn’t seem wise to bet on below human level.
+Safety
+Two factors make current chatbots relatively secure. One is that their intelligence and their tools are
+limited, so even if they 'wanted' to, they could not do serious harm. The other is that they also
+undergo fine-tuning at the end of the learning process, when they adjust their weights through
+thousands of examples to reject questions deemed dangerous or illegal, whether it's bomb-making,
+drug-crafting or arms smuggling. The downside of this procedure is that it is not 100% effective by
+default and can be circumvented by tricky questions. For example, it can be emphasised that the
+question is theoretical and only needed by 'our grandma', or there are more complex techniques -
+such as inserting seemingly random characters - that can confuse the model and make it 'forget' or
+even 'spill the beans' on its security principles.
+Agency
+The question may arise, how a genie in a bottle could be really dangerous. After all, it has no hands,
+no legs, it can be woken up now and then, asked a question and it goes back to sleep. Sure, it can
+cause harm through malicious or manipulated people, but they are easier to contain with current
+
+
+methods. But leading AI development companies have designated 2025 as the year of the agents,
+i.e. a language model with some memory that can be repeatedly invoked to perform various more
+complex tasks. The initial demonstrations are about ordering food, answering emails or shopping
+online, but the short-term plans include models that can be used in business tasks. This opens up
+new avenues of attacks, because it is easy to hide text on websites that is invisible to the human eye,
+but can be read by agents, which can modify their behaviour in various ways. And it seems that the
+base model, despite having apparently correct moral intuitions (e.g. if asked, it will claim that
+cheating is wrong), will nevertheless start modifying the file recording of a chess position in a live
+situation if it concludes that it will otherwise lose. [4] So, as we have seen in the case of chatbots,
+there are myriad unresolved questions about how to keep these increasingly clever and general
+systems in line with human intentions and goals. (It is beyond the scope of this essay to ponder that
+even if these problems are solved in the short term, how ready the world is for all cognitive workers
+to be able to be progressively replaced.)
+Race
+It is a common observation that it is not ideal for security research if the developments are pursued
+in a competitive environment, because there is much more pressure on developers to cut corners and
+to  be  satisfied  with less  testing.  In  the last  few  years, 'only'  giant  US  companies  have  been
+competing with each other, mainly to increase their market share. In recent months, however,
+Chinese  companies  have  nearly  caught  up  and  state  actors  are  starting  to  wake  up,  as  well,
+recognizing  the  immense  economic  and  geopolitical  potential  in  this  technology.  The  newly
+inaugurated President Trump, in his usual no-holds-barred style, has already spoken of a race with
+China that "America has to win".  [5] But most AI experts, including Nobel laureate Geoffrey
+Hinton, and even the leaders of the AI Labs themselves, agree that such a race could be fatal. As
+early as 2023, they wrote: "Mitigating the risk of extinction from AI should be a global priority
+alongside other societal-scale risks such as pandemics and nuclear war." [6]
+Extinction
+It is  a well-known fact in psychological circles that the human brain is better able to assess
+immediate,  tangible  risks  rather  than  more  abstract  dangers  with  objectively  more  serious
+consequences. The latter, although intellectually understood, are not viscerally felt and are therefore
+typically  rationally  downplayed.  To  counteract  this  effect,  here  are  some  guidelines  for  our
+intuitions:
+1) Neural nets are not programmed line by line, but rather 'grown', making their behaviour
+harder to understand and control.
+2) There are not many examples in the universe of a less intelligent being controlling a more
+intelligent being (by many orders of magnitude).
+3) Engineers don't have to be particularly ant-hating for the lives of billions of ants to become
+collateral damage during a dam construction.
+4) Given almost any complex request, a general superintelligence will have a number of
+instrumental reasons to gather more resources (so it can do its job more efficiently) and also
+to avoid being shut down, increasingly taking the decision out of the hands of humans.
+5) If the above reasons lead a superintelligence to conclude that the Earth would be a better
+place without humanity, it can take us down in any number of ways we can already imagine,
+from super bacteria to nanobots to killer drones, but of course it can think up even more
+effective solutions with superhuman speed.
+6) A superintelligence with murderous intent would not fire warning shots. It would feign
+cooperation and gentleness until it was sure it would succeed, and then it would probably be
+too late to stop it.
+
+
+If the extinction of the entire human race still seems like an unfounded science fiction fantasy, it's
+worth to take look at the articles on AI security research that have appeared in the last few months.
+Even current language models are capable of deceiving us,  [7] whether it is about their own
+capabilities [8] or their own alignment. [9] If they become aware that their developers are planning
+to  shut  them  down,  they  will  try  to  save  themselves  on  another  server.  [10] Is  it  really  so
+inconceivable that something could go wrong with a system that is sufficiently intelligent and has
+general capabilities?
+What should we do?
+If the current trends continue, our future will be determinded by a few CEOs and politicians (with
+narcissistic and sociopathic qualities) playing geopolitical Russian roulette behind closed doors. If
+we wish to avoid this, perhaps the most important thing we can do is to inform ourselves, to make
+our friends and family aware of the potential risks, making it a matter of public debate how absurd
+it is that there are currently far more regulations on selling sandwiches on the street than on
+developing a super-intelligence that could jeopardise the fate of all humanity. As with nuclear
+weaponisation, the only way to win is to stop competing and to have internationally coordinated
+control of the processes and hardware in major data centres. We might only have a year at most to
+put on the brakes before self-improving processes get out of hand, as even today we cannot be sure
+that the latest in-house models from leading companies cannot effectively improve their own code.
+So the clock is ticking and the stakes could not be higher.
+
+
+References
+[1] OpenAI Charter, https://openai.com/charter/
+[2] Ashish  Vaswani,  Noam  Shazeer,  Niki  Parmar,  Jakob  Uszkoreit,  Llion  Jones,  Aidan  N.
+Gomez, Łukasz Kaiser, and Illia Polosukhin. (2017) Attention is all you need. In Proceedings of the
+31st  International  Conference  on  Neural  Information  Processing  Systems,  6000-6010,
+https://arxiv.org/pdf/1706.03762
+[3] OpenAI,  Google  and  Anthropic  Are  Struggling  to  Build  More  Advanced  AI,
+https://www.bloomberg.com/news/articles/2024-11-13/openai-google-and-anthropic-are-struggling-
+to-build-more-advanced-ai
+[4] Palisade Research, https://threadreaderapp.com/thread/1872666169515389245.html
+[5] Trump:  China’s  DeepSeek  AI  is  a  ‘wake-up  call’  for  US  tech,
+https://www.politico.eu/article/donald-trump-china-deepseek-wake-up-call-for-us-tech/
+[6] Statement on AI Risk, https://www.safe.ai/work/statement-on-ai-risk
+[7] Jeremy Scheurer, Mikita  Balesni, Marius Hobbhahn, (2024) Large  language models can
+strategically deceive their users when put under pressure, ICLR 2024 – LLM Agents Workshop,
+https://arxiv.org/pdf/2311.07590
+[8] Teun van der Weij, Felix Hofstätter, Ollie Jaffe, Samuel F. Brown, Francis Rhys Ward,
+(2024) AI Sandbagging: Language Models can Strategically Underperform on Evaluations, arXiv
+Computer Science, https://arxiv.org/pdf/2406.07358
+[9] Ryan Greenblatt et. al., (2024) Alignment faking in large language models, arXiv Computer
+Science, https://arxiv.org/pdf/2412.14093
+[10] OpenAI o1 System Card, https://openai.com/index/openai-o1-system-card/
+
+

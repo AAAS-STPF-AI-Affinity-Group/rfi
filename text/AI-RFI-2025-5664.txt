@@ -1,0 +1,465 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-ywdg-16go
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-5664
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Arm , Inc.
+General Comment
+See attached file(s)
+Attachments
+OSTP_AI_RFI_February2025
+
+
+1 Arm’s Response to the Networking and Information Technology Research and Development 
+(NITRD) National Coordination Office (NCO), National Science Foundation  Request for 
+Information on the Development of an AI Action Plan  
+Submitted to:  Networking and Information Technology Research and Development (NITRD) 
+National Coordination Office (NCO), National Science Foundation  
+Date:  15 March 2025  
+From:  Vince Jesaitis, Head of Global Government Affairs, Arm Inc. 
+Subject: Response to Request for Information on the Development of an Artificial Intelligence 
+(AI) Action Plan  
+Dear Faisal D'Souza, NCO , 
+Arm welcomes the opportunity to respond to the U.S. Department of Commerce’s Request for 
+Information (RFI) on the development of an Artificial Intelligence (AI) Action Plan. As a global 
+leader in semiconductor and computing architecture, intellectual prope rty (IP) and solutions, 
+Arm is a critical enabler of the modern digital economy  providing  the world’s most widely used 
+computing architecture . Arm designs  high -performance,  power -efficient , scalable, and secure 
+computing  architecture  and central processing units (CPUs)  that serve as the “brain” in  virtually 
+every form of computing,  from smartphones and laptops to cloud data centers, 
+supercomputers, automobiles , and embedded systems , enabling AI across all forms of 
+computing . Unlike traditional chip manufacturers, Arm does not fabricate semiconductors; 
+instead, it licenses its architecture and designs to a vast ecosystem of technology companies, 
+enabling a competitive, diverse, and globally resilient supply chain. This unique,  open business 
+model allows semiconductor companies —including U.S. industry leaders —to build customized, 
+highly optimized AI, mobile, and infrastructure chips, driving innovation across multiple sectors.  
+The Arm  architecture is at the heart of 99% of the world’s smartphones, as well as a rapidly 
+growing share of data centers, AI workloads,  automotive,  and edge computing applications. 
+Each year, Arm partners ship more than 30 billion Arm -based chips  (this equates to more than 
+900 Arm -based chips being produced each second) , bringing the total to over 310 billion chips 
+shipped globally . These chips power critical infrastructure, from cloud computing and 5G 
+networks to industrial automation, automotive, and aerospace applications. As AI demands 
+more efficient and scalable computi ng architectures, high -performance, power -efficient  Arm -
+based  processors are becoming essential to AI acceleration, from training large language models 
+in hyperscale data centers to running real -time AI inference at the edge.  
+As one example, Arm is involved as a lead technology partner in the launch of the Stargate AI 
+project , a collaboration between Arm, OpenAI, Nvidia, and Oracle to develop advanced AI 
+infrastructure. The project requires high -performance and energy -efficient computing to 
+support large -scale AI model training and inference. As part of this effort, Nvidia's Grace 
+Blackwell Superchip, a cen tral component of Stargate, incorporates Arm -based CPUs to optimize 
+efficiency and performance. The Grace CPU, built on Arm's architecture, is designed to manage 
+the increasing computational demands of AI while maintaining lower power consumption 
+
+
+2 compared to traditional architectures. By enabling more efficient processing and scalability, 
+Arm’s technology plays a critical role in supporting the next generation of AI systems and 
+ensuring that AI development remains both performant and cost-effective . 
+With its globally adopted, open computing architecture, Arm plays a key role in semiconductor 
+supply chain resilience, enabling a broad ecosystem of U.S. and international chipmakers, device 
+manufacturers, and cloud providers to innovate without relying on  a single supply source. This 
+diverse and decentralized ecosystem strengthens technological security and economic 
+competitiveness, ensuring that AI, high -performance computing, and next -generation 
+technologies remain accessible, efficient, and secure. As p olicymakers seek to enhance U.S. 
+leadership in AI and semiconductor technology, fostering an open, competitive, and innovation -
+driven semiconductor landscape —one that leverages Arm’s foundational architecture —will be 
+critical to long -term economic growth a nd national security.  
+Given the strategic importance of AI to U.S. economic growth, national security, and 
+technological leadership, it is critical that the AI Action Plan recognizes the role of 
+semiconductor innovation in AI development and prioritizes investment in AI -optimiz ed 
+compute architectures. We appreciate the Department’s efforts to shape a comprehensive AI 
+strategy and offer the following insights and recommendations:  
+The Foundational Role of Semiconductor Design in AI  
+AI advancements depend on highly efficient, scalable, and specialized computing architectures. 
+As AI models become larger and more complex, high -performance and energy -efficient 
+computing is essential to sustaining AI innovation and deployment at scale.  
+Arm is at the forefront of next -generation AI computing, providing power -efficient, high -
+performance processor architectures that power AI across cloud, edge, and mobile platforms. 
+This is why Arm is a key technology contributor to the Stargate project, a cutting -edge AI 
+supercomputing initiative aimed at developing the next generation of AI infrastructure. 
+Stargate represents a major leap forward in AI compute capabilities, requiring unprecedented 
+levels of efficiency, scalability, and performance —areas where Arm’s archit ecture excels.  
+The central processing unit, or CPU, is often referred to as the brain of a computing device 
+because it manages and coordinates almost every operation. It processes instructions, controls 
+data flow, and ensures that different software and hardware componen ts work together. While 
+CPUs are versatile and capable of handling many different tasks, they are not always the most 
+efficient at processing the complex calculations required for artificial intelligence. AI workloads 
+involve vast amounts of data and mathe matical operations that need to be processed quickly 
+and in parallel, which is beyond what a general -purpose CPU is designed to do.  
+
+
+3 To handle the demands of AI, modern computing systems incorporate specialized processors 
+that work alongside the CPU. Each of these components has a distinct role in improving 
+performance and efficiency.  
+Graphics processing units, or GPUs, were originally designed for rendering images and 
+animations. However, they are now widely used in AI computing because they excel at handling 
+multiple calculations at the same time. AI models, particularly those that re ly on deep learning, 
+require extensive computations to recognize patterns and make predictions. GPUs process 
+these tasks efficiently by working on many pieces of data simultaneously.  
+Neural processing units, or NPUs, are specifically designed for AI -related tasks. While GPUs are 
+powerful for general parallel processing, NPUs go further by optimizing calculations that are 
+unique to AI models, such as recognizing images, text, and speech . NPUs are commonly found 
+in devices that need to perform AI computations efficiently while consuming less power, such 
+as smartphones, cameras, and embedded systems.  
+Tensor -based processors are another category of specialized AI chips. These processors are 
+built to accelerate the complex mathematical functions needed for machine learning, making 
+them particularly useful for large -scale AI applications, such as training  deep learning models or 
+processing real -time AI tasks.  
+Other types of specialized chips, such as field -programmable gate arrays (FPGAs) and 
+application -specific integrated circuits (ASICs), offer additional flexibility or efficiency depending 
+on the specific AI workload. FPGAs can be reconfigured for different  tasks, making them 
+adaptable for evolving AI applications, while ASICs are custom -designed for specific functions, 
+maximizing efficiency but limiting flexibility.  
+Memory and data movement also play a crucial role in AI computing. High -bandwidth memory, 
+or HBM, is used to ensure that AI processors can quickly access large amounts of data without 
+delays. AI systems require rapid processing of vast datasets, and having  efficient memory 
+solutions allows processors to keep up with the demands of advanced AI models.  
+All of these components work together to power modern AI systems. The CPU acts as the 
+central coordinator, directing data flow and managing system resources. GPUs, NPUs, and 
+tensor -based processors accelerate AI computations, while specialized memory like HBM 
+ensures that data is readily available for processing.  
+As AI continues to evolve, the need for specialized processors will continue to grow. Each new 
+generation of AI models requires greater computing power, and the underlying hardware must 
+advance to keep pace. The combination of CPUs, AI accelerators, and op timized memory 
+solutions ensures that AI can drive innovation across a wide range of industries, from powering 
+intelligent assistants and autonomous systems to enabling breakthroughs in scientific research 
+and automation.  
+
+
+4 To ensure continued leadership in AI compute, U.S. policy should incentivize investment in AI -
+optimized semiconductor design for  a range of computing needs , support energy -efficient AI 
+compute architectures to balance performance with sustainability, and recognize the critical 
+role of semiconductor design in AI leadership by integrating it into national AI strategies.  
+AI’s Dependence on Specialized Compute Architectures  
+As discussed above, AI workloads are increasingly demanding specialized compute 
+architectures optimized for efficiency, power consumption, and data movement. Large -scale AI 
+training, such as the models supported by the Stargate project, requires highly optimized 
+hardware architectures that maximize performance while minimizing energy costs.  
+Arm’s power -efficient processor architectures are uniquely suited to support AI workloads at 
+hyperscale. As AI systems become more compute -intensive, the industry must prioritize 
+heterogeneous computing architectures that integrate CPUs, GPUs, NPUs, and AI  accelerators. 
+The success of initiatives like Stargate underscores the need for continued public -private 
+collaboration in AI infrastructure development , where industry leads the technology 
+development and government creates an environment conducive to inn ovation and investment 
+to enable rapid buildout and upgrades of these  projects . 
+To enable AI’s continued evolution, U.S. policy should protect and promote  open and 
+interoperable AI computing architectures to encourage flexibility and competition, support 
+next -generation semiconductor research to advance AI -specific memory, networking, and 
+accelerator technologies, and encourage collaboration between AI rese arch labs, 
+semiconductor firms, and infrastructure providers to co -optimize AI hardware and software  
+development . 
+AI Hardware Development Must Accelerate  to Keep Pace with Software  
+The rapid advancement of AI software is outpacing hardware development, creating critical 
+bottlenecks in  AI compute performance, energy efficiency, and scalability. Developing  cutting -
+edge semiconductor technology requires long lead times, often spanning  four to five years  from 
+initial design to commercialization. The AI models powering today’s breakthroughs are running  
+on chips that were conceived  half a decade ago, meaning the hardware innovations needed for 
+future AI applications must be prioritized now. Without sustained investment in  next -
+generation AI hardware, the U.S. risks falling behind in AI capabilities, limi ting innovation and 
+increasing reliance on foreign semiconductor supply chains.  
+
+
+5 The next generation of AI models will require:  
+•Custom AI silicon optimized for efficiency and performance, enabling faster model
+training and inference with reduced power consumption.
+•Advanced memory and interconnect technologies  to efficiently manage data flow in
+large AI models, reducing latency and bandwidth constraints.
+•Low-power AI processing  to enable broader AI deployment across  edge and mobile
+platforms, ensuring AI can run efficiently in real -world applications, from autonomous
+vehicles to smart infrastructure.
+•Flexible and reconfigurable computing architectures, such as  chiplet -based designs and
+AI accelerators, to provide modular, scalable performance for a wide range of AI
+applications.
+The U.S. must take  proactive steps  to secure its leadership in AI computing by  prioritizing AI -
+specific semiconductor research and development (R&D). Policymakers should:  
+•Ensure CHIPS Act incentives  account for  domestic AI semiconductor design and
+manufacturing.
+•Support AI chip startups and fabless semiconductor firms  through incentives , tax credits,
+and access to national AI research infrastructure.
+•Develop a national AI hardware roadmap, aligning industry, government, and academic
+research to accelerate advancements in AI -specific computing architectures.
+•Streamline regulatory and permitting processes  to ensure the rapid development
+of new AI hardware fabrication facilities and testing centers  in the U.S.
+Without a sustained focus on AI hardware, the U.S. risks a  bottleneck in AI progress, hindering 
+the economic and national security benefits that AI innovation can deliver. A  comprehensive, 
+long -term AI hardware strategy  will ensure the country remains at t he forefront of  AI 
+computing, semiconductor design, and next -generation digital infrastructure.  
+Ensuring Secure  and Resilient AI Hardware  
+AI security begins at the hardware level, as the integrity, reliability, and trustworthiness of AI 
+systems depend on the security of the underlying compute platforms. Without secure hardware 
+foundations, AI models and applications are vulnerable to a range of threats, including data 
+breaches, adversarial manipulation, and supply chain disruptions. As AI is increasingly deployed 
+in critical sectors such as defense, healthcare, finance, and infrastructure, ensuring the security 
+of AI compute platforms is essential for maintaining national security, economic stability, and 
+public trust.  
+Hardware -based security measures provide a robust foundation for mitigating AI -related risks, 
+as software protections alone are insufficient to defend against sophisticated attacks. Secure -
+
+
+6 by-design semiconductor architectures can help prevent tampering, unauthorized access, and 
+adversarial exploits by embedding security mechanisms directly into AI processing units. 
+Features such as secure enclaves, cryptographic accelerators, trusted execut ion environments, 
+and real -time anomaly detection at the hardware level can significantly enhance AI system 
+resilience. By addressing security at the  hardware level, there is an opportunity to  eliminate 
+entire classes of vulnerabilities  before they can be exploited at the software layer, creating a 
+more robust security posture for AI -driven applications.  
+A secure AI ecosystem also depends on a transparent and resilient semiconductor supply chain. 
+The increasing globalization of semiconductor manufacturing introduces risks related to 
+counterfeit components, firmware backdoors, and potential disruptions in a ccess to essential AI 
+chips. Strengthening domestic and allied semiconductor production capabilities, enhancing 
+traceability and verification of AI hardware components, and reducing reliance on high -risk 
+supply chain nodes are all necessary steps to ensure  long -term AI security.  
+To enhance AI security and trustworthiness, we recommend the following policy actions:  
+•Increase federal focus on cybersecurity at the hardware level  by prioritizing research
+and investment in AI -specific, secure -by-design semiconductor architectures that embed
+safety and security features directly into AI compute platforms.
+•Support industry -driven  hardware security standards for AI computing, ensuring that AI
+hardware  meet rigorous cybersecurity benchmarks for integrity, confidentiality, and
+resilience against tampering and adversarial attacks.
+•Encourage domestic production of secure AI hardware  by incentivizing semiconductor
+companies to integrate advanced security features into AI chips and processors  though
+targeted CHIPS Act projects and funding, particularly under the Department of Defense
+Microelectronic  Commons programs .
+•Expand supply chain risk mitigation programs  by enhancing semiconductor traceability,
+establishing stronger verification mechanisms for AI hardware components, and
+working with allies to reduce dependence on high -risk supply chain nodes.
+•Require government AI systems to adopt hardware -level security protections  to ensure
+that federal AI deployments, particularly in defense and critical infrastructure, are built
+on a foundation of secure compute architectures.
+By prioritizing cybersecurity at the hardware level, the U.S. government can  proactively address 
+systemic AI vulnerabilities, safeguard national security, and strengthen trust in AI -powered 
+systems across public and private sectors  
+Global Supply Chain Resilience  
+AI hardware development is deeply interconnected, requiring contributions from multiple 
+countries at various stages, including design, fabrication, packaging, and testing. The 
+
+
+7 semiconductor industry, which underpins AI computing, is one of the most complex supply 
+chains in the world. Unlike traditional manufacturing industries where production can be 
+localized, semiconductor production relies on highly specialized expertise, raw  materials, and 
+advanced equipment that are distributed across a global network.  
+Given this complexity, ensuring the resilience of AI hardware development requires more than 
+just securing access to critical materials or increasing domestic manufacturing capacity. It also 
+depends on enabling cross -border collaboration between companies that contribute to 
+different parts of the supply chain. Many semiconductor firms and AI hardware developers 
+operate globally, with research teams, design centers, and production facilities spread across 
+multiple countries. Intra -company collaboration acros s borders is essential for optimizing 
+production, accelerating innovation, and maintaining competitiveness.  
+Developing and producing an advanced AI chip requires an immense amount of engineering 
+effort, with millions of total engineering hours spanning research, design, fabrication, testing, 
+and packaging. From initial architecture and circuit design to advanced  fabrication processes 
+that require precision at the atomic level, thousands of highly specialized engineers contribute 
+across multiple disciplines. This includes semiconductor physicists working on transistor scaling, 
+electrical engineers optimizing power  efficiency, software engineers developing firmware and AI 
+model optimizations, and materials scientists refining the chemical compositions needed for 
+high -performance chips. The sheer scale of expertise involved, combined with the need for 
+continuous iter ation and quality control, makes AI chip development one of the most labor -
+intensive and knowledge -intensive engineering feats in the world.   Leading U.S. multinational 
+semiconductor companies build  and maintain  this expertise by hiring critical talent in the U.S. 
+and allied countries.  Limiting these collaborations through overly restrictive policies could slow 
+down innovation  and increase costs .  
+While safeguarding national security is critical, policies that indiscriminately restrict technology 
+sharing or impose rigid export controls on AI hardware risk fragmenting the supply chain in 
+ways that could ultimately weaken the U.S. position in AI and s emiconductor development. 
+Export control measures must be carefully designed to prevent sensitive technologies from 
+falling into the hands of adversaries without unnecessarily restricting American companies from 
+participating in the broader global semicond uctor market. Overly broad restrictions could 
+isolate U.S. firms from essential partnerships, making it more difficult to source the best and 
+brightest minds and the most advanced IP, designs, materials, components, and manufacturing 
+processes needed for AI chip development.  
+A balanced policy approach focus ing on strengthening strategic alliances with trusted 
+international partners , encouraging collaboration among companies within and across borders, 
+particularly between firms in allied nations with shared security and economic interests, will 
+help ensure that AI hardware development remains robust, competitive, and innovative. At the 
+same time, incentivizing  investment in domestic capabilities —such as advanced semiconductor 
+design, manufacturing, packaging, and testing —can reduce vulnerabilities without undermining 
+the benefits of international cooperation.  
+
+
+8 Ultimately, the future of AI hardware development will depend on the ability of policymakers to 
+recognize the interconnected nature of the semiconductor industry and refine  policies that 
+protect national security while fostering an environment where innovation can continue to 
+thrive through global collaboration. Instead of viewing cross -border collaboration as a risk, 
+policymakers should work to enhance partnerships that str engthen the semiconductor supply 
+chain, ensuring that the U.S. and its allies remain  at the forefront of AI hardware developments . 
+The Need for Government Investment in AI Infrastructure for Sensitive Use Cases  
+Many government applications require dedicated AI infrastructure to support sensitive and 
+classified workloads that cannot rely solely on commercial cloud providers. National security 
+and intelligence agencies increasingly depend on AI models for real -time  threat analysis, 
+situational awareness, and decision -making in complex operational environments. Similarly, AI 
+plays a growing role in cybersecurity, helping to detect and mitigate cyber threats before they 
+can compromise critical systems. Public sector s ervices, including emergency response, fraud 
+detection, and law enforcement, also benefit from AI -driven automation and predictive 
+analytics, enabling faster and more effective government operations. However, the commercial 
+AI marketplace is advancing at a n unprecedented pace, rapidly outpacing government AI 
+systems in capability and deployment speed. Without decisive action, this gap will continue to 
+grow, making it more difficult for government agencies to adopt cutting -edge AI solutions and 
+ensure they r emain competitive in critical national security and public sector applications.  
+Commercial cloud providers offer valuable scalability, cost efficiency, and rapid deployment 
+capabilities, making them well -suited for many government AI applications, particularly those 
+that involve unclassified data, collaboration across agencies, or pub lic service delivery. 
+However, for highly sensitive workloads, reliance on commercial infrastructure presents risks 
+related to data sovereignty, supply chain security, and potential access limitations in times of 
+geopolitical tension or crisis. Additionall y, certain national security and intelligence operations 
+require real -time processing with minimal latency, which can be difficult to achieve with cloud -
+based solutions that rely on geographically distributed data centers. In these cases, 
+government -owned and operated AI infrastructure is necessary to ensure secure, uninterrupted 
+access to mission -critical computing resources.  
+To address these challenges, the U.S. government should:  
+•Invest in  secure, government -owned AI data centers to handle classified and national
+security workloads.
+•Expand access to AI -optimized supercomputing for national defense, intelligence, and
+cybersecurity operations.
+•Ensure critical AI workloads can run on -premise s where necessary, particularly for
+applications requiring low latency and continuous availability.
+
+
+9 •Establish a hybrid AI infrastructure strategy that leverages commercial cloud solutions
+for non -sensitive applications while maintaining dedicated, government -controlled
+infrastructure for the most critical use cases.
+By implementing these measures, the U.S. can ensure that its AI infrastructure remains secure, 
+resilient, and capable of supporting evolving national security and public sector requirements.  
+The Need for U.S. Government Investment in AI Infrastructure and AI at the Edge  
+In addition to large -scale AI compute infrastructure, AI at the edge —where AI models run 
+directly on local devices rather than centralized cloud servers — can play a critical role in 
+enhancing efficiency, reducing latency, and improving security  across government applications. 
+Edge AI is particularly valuable for defense, critical infrastructure, and public safety , enabling 
+real-time decision -making in remote or high -security environments . Investing in sovereign AI 
+edge capabilities  will allow the U.S. to fu lly leverage AI in secure communications, battlefield 
+intelligence, and industrial automation . 
+A key example of this approach is the AI-RAN (Artificial Intelligence for Radio Access Networks) 
+Alliance , a public -private initiative aimed at integrating AI -driven wireless networking, 5G, and 
+Open RAN (Radio Access Networks)  to enhance network efficiency, security, and performance . 
+AI-powered RAN technologies improve spectrum management, optimize network traffic, and 
+enable more resilient communications for government and military applications . The U.S. 
+government should support AI -RAN and other edge AI initiatives to maintain technological 
+leadership in next -generation networks  and ensure secure, AI -optimized communications 
+infrastructure . 
+To maximize the benefits of AI infrastructure and AI at the edge , policymakers should:  
+•Expand federal funding for AI edge computing research  to accelerate innovations in
+secure, low -power AI processing.
+•Integrate AI -powered edge solutions into federal agencies  for cybersecurity,
+emergency response, and defense operations.
+•Provide incentives for AI -driven Open RAN deployment  to enhance secure, software -
+defined wireless networks .
+•Ensure CHIPS Act funding supports edge AI development  alongside large -scale AI
+infrastructure computing .
+•Promote public -private partnerships  to advance AI hardware and software co -
+optimization for high -efficiency, real -time AI applications .
+By prioritizing AI infrastructure investments at both the cloud and edge levels , the U.S. can 
+strengthen national security, industrial competitiveness, and public sector efficiency , ensuring 
+
+
+10 that AI innovation remains a strategic asset  for the country’s long -term economic and 
+geopolitical leadership.  
+Reducing Environmental and Permitting Barriers to Accelerate AI Deployment  
+As AI adoption expands across industries, data centers and semiconductor facilities are critical 
+infrastructure for AI model training, inference , and deployment. However, lengthy 
+environmental reviews and permitting processes create significant delays and cost burdens for 
+data center construction, semiconductor fabrication plants, and advanced packaging facilities. 
+To maintain U.S. leadership in A I and ensure timely deployment of computing infrastructure, 
+policymakers should streamline environmental and per mitting requirements without 
+compromising essential protections.  
+Specifically, the U.S. government should:  
+•Expedite permitting for AI -critical infrastructure by creating a fast -track approval
+process for data centers and semiconductor facilities, recognizing them as national
+strategic assets.
+•Reform the National Environmental Policy Act (NEPA) process to reduce unnecessary
+delays, including setting clear time limits for environmental reviews and eliminating
+redundant state and federal assessments.
+•Standardize and simplify state -level permitting for AI data centers and chip
+manufacturing to ensure consistency across jurisdictions.
+•Incentivize sustainable AI infrastructure by providing tax credits or incentives  for
+facilities that meet high energy -efficiency and carbon -reduction benchmarks, rather
+than imposing restrictive regulations.
+Without streamlined permitting and regulatory clarity, AI infrastructure projects risk delays of 
+years, undermining U.S. technological competitiveness and economic growth.  
+The Need for Competitive Tax Policy to Support Semiconductor R&D  
+Semiconductor development is among the most R&D -intensive industries in the world, 
+requiring sustained investment in chip design, fabrication technologies, AI acceleration, and 
+energy -efficient computing. Developing next -generation AI chips involves multi -billion -dollar 
+investments over multiple years, with increasing costs driven by the complexity of 
+semiconductor design, advanced packaging techniques, and the integration of AI -specific 
+accelerators. For example, the  average  cost to design a 2nm  chip, whic h is the most advanced 
+process commercially available today , is nearly three times higher than it was to design a 7nm 
+chip, which was the leading process commercially available in 2018.  
+
+
+11 Given the  diverse computing needs, and the  financial demands  on the private sector to 
+continue this innovation cycle , a competitive tax policy is critical to ensuring that the U.S. 
+remains a global leader in AI computing and semiconductor innovation.   To sustain leadership 
+in AI hardware  (including semiconductor IP development and design) , the U.S. must provide 
+strong, predictable, and globally competitive tax incentives for semiconductor and AI -related 
+R&D. Policymakers should:  
+•Restore immediate expensing of R&D costs (as opposed to multi -year amortization) to
+maintain investment levels and accelerate innovation.
+•Expand tax credits for AI and semiconductor research to offset the rising costs of
+advanced chip design, prototyping, and software -hardware co -optimization.
+•Ensure that tax policy encourages U.S. -based semiconductor design, preventing
+innovation from shifting to jurisdictions with more favorable R&D incentives.
+•Align U.S. tax incentives with global competitors to retain AI chip design leadership, as
+many nations —including China, South Korea, and EU member states —offer more
+aggressive semiconductor tax incentives.
+Without a globally competitive tax structure, U.S. semiconductor firms risk being outpaced in AI 
+chip development, undermining both economic competitiveness and national security 
+objectives. A robust and forward -looking tax policy will allow companies like  Arm and its 
+unparalleled ecosystem of semiconductor partners to continue investing in AI -driven chip 
+innovation, ensuring that the U.S. leads in next -generation computing, AI acceleration, and 
+secure, efficient semiconductor architectures.  
+
+
+12 Building a Strong, Competitive AI and Semiconductor Workforce  
+A highly skilled and adaptable workforce is vital to maintaining America’s leadership in AI and 
+semiconductor innovation. As demand for specialized talent grows, incentivizing education, 
+training, and industry partnerships will be critical to economic growth, national security, and 
+long -term competitiveness. Without a strong domestic talent pipeline, the U.S. risks falling 
+behind in semiconductor design, AI development, and advanced manufacturing, ceding 
+technological leadership to global competitors.  
+The Arm -led Semiconductor Education Alliance , founded in collaboration with key industry 
+leaders, is working to address these challenges by bridging academia and industry through 
+hands -on technical training, curriculum development, and workforce upskilling initiatives. This 
+collaborative approach en sures that American workers remain at the forefront of innovation by 
+equipping them with the cutting -edge skills needed to advance AI and semiconductor 
+technologies.  
+To build a world -class workforce that sustains U.S. leadership in AI and semiconductor 
+innovation, we recommend:  
+•Incentivizing STEM education and workforce training programs aligned with industry
+needs, particularly in semiconductor design, AI model optimization, and hardware -
+software integration.
+•Strengthening partnerships between businesses, universities, and technical colleges to
+ensure that education programs are directly linked to real -world applications and
+industry demands.
+•Expanding federal programs  for AI and semiconductor apprenticeships to create hands -
+on learning opportunities and reduce barriers to entry into these fields.
+•Encouraging private -sector leadership in workforce development through public -private
+partnerships, tax incentives for AI and semiconductor training programs, and investment
+in reskilling initiatives.
+•Reforming immigration policies to attract and retain top AI and semiconductor talent,
+ensuring that the U.S. remains the preferred destination for the world’s leading
+engineers, researchers, and technologists.
+By leveraging industry expertise, targeted incentives, and market -driven solutions, the U.S. can 
+cultivate a highly skilled workforce ready to sustain AI and semiconductor innovation for 
+decades to come. Strategic action now will ensure that the U.S. remai ns the global hub for 
+advanced computing, chip design, and AI -powered technologies.  
+
+
+13 Conclusion  
+AI innovation depends on advancements in semiconductor design and computing 
+infrastructure. Arm is committed to collaborating with government and industry partners to 
+drive the development of efficient, secure, and scalable AI computing architectures  that enable 
+AI everywhere . We appreciate the opportunity to provide input on the AI Action Plan and look 
+forward to continued engagement.  
+Sincerely,  
+Vince Jesaitis  
+Head of Global Government Affairs  
+Arm Inc. 
+
+

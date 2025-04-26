@@ -1,0 +1,629 @@
+March 15, 2025  
+AI Action Plan  
+Attn: Faisal D’Souza, NCO  
+2415 Eisenhower Avenue  
+Alexandria, VA 22314, USA 
+Reference:  R esponse to the White House Office of Science and Technology Policy RFI on 
+Sustaining and Enhancing America's AI Leadership  
+Dear Mr. D’Souza:  
+The race to dominate artificial intelligence  (AI) represents the defining technological challenge 
+of our time. AI’s rapid advancements  have catalyzed  scientific progress, reshaped in dustries, 
+and reinforced its national security significance. Competing nations are making strategic 
+investments in sovereign AI capabilities, narrowing key gaps with the United States. To maintain global leadership, the U.S. Government must make targeted, bold investments to sustain and advance our AI leadership.  
+As the U.S. private sector spearheads cutting -edge AI innovations, the federal government must 
+play a pivotal role in steering these advancements to enhance national security, accelerate scientific progress, and transform the work of federal agencies. Leveraging existing laboratories 
+and facilities, a world -class scientific workforce, and the nation’s most advanced computing 
+resources can help ensure the United States remains the global superpower in AI -driven 
+science, manufacturing, energy, national security, and economic competitiveness. This approach maximizes efficiency, safeguards taxpayer dollars, and accelerates AI innovation.  
+The U.S. Government has a strong track record of mission -driven col laborations with industry, 
+ensuring the rapid translation of advanced computing research, development, and deployment 
+into real- world applications. A model example is the Exascale Computing Initiative (ECI), which 
+led to the successful co -design, co -develo pment, and co -funding of supercomputing and AI 
+technologies. This initiative resulted in AI -enabled supercomputers that are 1,000 times more 
+powerful and 100 times more energy -efficient than the prior generation, while contributing to 
+critical semiconductor advancements that power today’s leading AI models.
+ As a long -standing 
+technology partner to the U.S. Government, HPE has played an integral role in supporting these mission -critical computing initiatives. By providing AI -driven infrastructure that advanc es 
+national security, scientific discovery, and cutting -edge research, HPE continues to serve as a 
+trusted strategic partner for government- funded AI programs. Ensuring continued federal 
+investment in AI -driven computing will be essential to reinforcing U. S. technological dominance 
+and accelerating AI innovation.  
+The ECI demonstrates the power of strategic federal investment that leverages public and private partnerships. As a result of this initiative, the U.S. now owns the #1, #2, and #3 most powerful supercomputers in the world; systems supporting national security and cutting -edge 
+
+
+science. Versions of these supercomputers are now supporting mission- critical applications 
+across the Department of Defense, Intelligence Community, Department of Energy, and other 
+agencies, including at NOAA for severe weather forecasting. Expanding this model of success to a nation -scale AI initiative can accelerate progress and reinforce U.S. technological dominance.  
+In determining and prioritizing areas of AI research, dev elopment, and demonstration requiring 
+federal leadership and investment to maintain U.S. technological dominance , we recommend 
+focusing on the following key areas:  
+•Data : The U.S. Government is the world’s leading generator of both classified and
+unclassifi ed scientific data. Harnessing this vast repository for AI applications can drive
+breakthroughs in healthcare, energy science, manufacturing, and national security, and
+beyond.
+•Computing : For decades, the U.S. Government has built and operated the world’s most
+powerful and energy -efficient supercomputers, providing strategic assets for scientific
+discovery and national defense across the nation. These high- performance computing
+resources and supporting ecosystems can provide the foundation upon which safe andtrustworthy AI capabilities can be built and expanded.
+•Government Readiness : The U.S. national laboratories employ tens of thousands of
+experts across physics, chemistry, biology, materials science, and computer scien ce,
+including nearly one -third of all Ph.D. -level scientists and engineers in the country. This
+unparalleled talent pool is vital for advancements  in AI  and for the future of science and
+engineering.
+To sustain and enhance America’s AI leadership, the fede ral government must take decisive 
+action in guiding AI development through strategic investments in data, computing, workforce, and public -private collaboration. By building upon our existing strengths, we can secure the 
+future of AI leadership and ensure continued scientific and economic prosperity for the nation.  
+Thank you for the opportunity to provide input. I welcome further discussion on these recommendations.  
+Please contact me, Mark Guiton, with any clarification questions at  or 
+ (cell). 
+Sincerely, 
+Mark Guiton 
+Vice P resident,  Government  Programs & Bus iness Development 
+HPC & AI Infrastructure Solutions 
+
+
+The White House 
+White House AI Action Plan 
+Response to Request for Information on the Development of an 
+Artificial Intelligence (AI) Action Plan  
+Techn ical Volume 
+March 15, 2025  
+Mark Guiton  
+Vice President, Government  Programs & Business Development  
+HPC & AI Infrastructure Solutions  
+
+
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government 
+in developing the AI Action Plan and associated documents without attribution.  
+
+
+Contents  
+1. Introduction  ................................................................................................................................................ 1  
+2. HPE’s Policy Recommendations  ................................................................................................................... 2  
+2.1 Computing .................................................................................................................................................. 2  
+2.2 Data Centers  ............................................................................................................................................... 3  
+2.3 Energy Consumption and Efficiency  ........................................................................................................... 4  
+2.4 Data ............................................................................................................................................................ 4  
+2.5 Government AI Readiness .......................................................................................................................... 8  
+2.6 Global Leadership  ..................................................................................................................................... 15 
+
+
+1. Introduction
+The rapid advancement of AI is transforming numerous sectors, fueling innovation, reshaping 
+high -performance computing (HPC), and driving IT modernization. To sustain and strengthen 
+American AI leadership while fostering continued innovation, the United States must adopt a comprehensive strategy.  
+Investing in a large -scale system infrastructure  for AI , including networking  and storage, is 
+crucial to harness ing emerging AI technologies. This includes a ddressing the challenges of 
+managing large data volumes while ensuring data secur ity and collaborative practices . Adopting 
+industry standards and avoiding vendor lock- ins will foster competitiveness and innovation.   
+Data centers are the backbone of AI innovation, providing the necessary infrastructure for 
+computational power and secure data processing. Strategic data center locations, with 
+availability of multiple energy sources , are crucial for national security and data sovereignty.  
+Because t he increasing adoption of AI drives up energy demands, i nvesting in energy -efficient 
+technologies such as liquid cooling and dynamic power management solutions is essential for  
+manag ing energy consumption and optimiz ing performance at a given energy level. 
+AI model development faces challenges related to computational costs and data quality.  
+Investing in efficient algorithms and fostering public/private partnerships enhance s 
+collaboration an d innovation. Promoting open- source frameworks and clear guidelines for data 
+usage can amplify the community contributions  and open the door for new AI techniques and 
+applications.  As part of that effort, g overnment agencies must modernize their IT infrastructure 
+to be ready for AI. Automating IT operations, upgrading servers , networking and storage, and 
+developing an AI -ready workforce are key steps.  Transparency and robustness in AI systems are 
+critical and investing in explainability methods wi ll expand the applications domains of AI to 
+mission critical areas . Cybersecurity also requires a multi- faceted approach to secure AI systems 
+throughout their lifecycle.  
+In conclusion, these actions will enable the U nited States to sustain and enhance its AI 
+leadership, promote U.S.- driven AI standards, and ensur e that innovation thrives while 
+maintaining national security and economic competitiveness.  
+HPE’s response to the White House Office of Science and Technology Policy RFI on Sustaining 
+and Enhancing America's AI Leadership  considers statements made in the following executive 
+actions: 
+•https://trumpwhitehouse.archives.gov/presidential-actions/executive- order -
+maintaining -american -leadership -artificial- intelligence/
+•https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/11/National-
+Strategic -Computing- Initiative -Update- 2019.pdf
+•https://trumpwhitehouse.archives.gov/wp- content/uploads/2020/02/American -AI-
+Initiative -One-Year -Annual-Report.pdf
+•https://www.nitrd.gov/pubs/National- AI-RD-Strategy -2019.pdf
+
+
+2.HPE’s Policy Recommendations
+HPE demonstrates strong technical leadership in AI infrastructure, HPC, energy -efficient AI 
+systems, and federated AI model training.  HPE provides  input on the highest priority policy 
+actions that should be in the AI Action Plan.  
+HPE is focused on being a  strategic AI policy leader on governance, workforce, cybersecurity, 
+and regulatory policies . HPE is capable and eager  to continue working closely with the U.S. 
+Government  to secure federal partnerships, influence AI policy direction, and lead  and 
+collaborate on government AI projects.  
+2.1 Computing  
+The pervasiveness of AI has been the largest disruption to computing in the last five years. AI 
+technology has driven the direction of hardware and software technologies  and transformed 
+the way scientists perform their work. Engineers developing and using AI models  will continue 
+to need high- performance supercomputers to solve  some of the world’s most challenging 
+problems . By taking a leadership role in investing and building at -scale  AI system infrastructure, 
+including networking and storage , the U .S. can harness hardware and software capabilities and 
+technolog ies being developed across the world. 
+Challenges:  The next phase of AI development will have to focus on providing a robust, 
+scalable, reliable , and secure infrastructure to build massive AI supercomputers and run 
+complex  and diverse AI workflows. The challenges in this space are numerous : managing large 
+data amounts with guaranteed security , building efficient and open- standards networking, 
+enabling scalable power -management solutions, and providing portable software stac ks. 
+There have been several specialized and purpose -built compute silicon offerings from AI 
+startups that have shown significant speedups on a handful of applications in testbed 
+environments. Currently , these accelerators tend to be deployed independently , and workflows 
+and surrogate models are challenged to seamlessly leverage the capabilities of multiple accelerator types. Investment i n holistic system architecture and making system -level 
+heterogeneity work well from a hardware and software perspective is  critical to making 
+effective use of such specialized accelerators.   
+Opportunities : The massive needs of AI at every scale  (for both training  and inference)  require 
+building compute infrastructure that scales on a first- of-its-kind with Ethernet-compatible 
+network fabric integrated with pervasive security. A robust standards- driven  network 
+interconnect infrastructure is the foundation to support performance and productivity improvements – enabling new modes of scientific discovery from edge to extreme scale 
+systems. This vision requires investments that are aligned with cutting -edge technological 
+advancements and supporting new industry -wide initiatives, such as the Ultra Ethernet 
+Consortium (UEC) or U ltra Accelerator Link (UAL) .  
+
+
+A robust supply chain is  essential for the needs of AI hardware and infrastructure . The U.S. can 
+provide significant leadership in this space by supporting domestic industries and companies 
+that can help ensure  a healthy supply chain.  
+High -performance storage and data management  are critical to supporting large language 
+models.  AI for commercial purposes ( for example, manufacturing and s cience ) depends on a 
+community that can maintain the privacy and security of mission- critical data sets but share s 
+knowledge and learnings on new hardware, algorithms, standardized tools , and evaluation 
+standards. Collaborating, leading , and investing in such efforts are  vital to the U.S. maintaining  
+leadership and influence in AI across the world.  
+Recommended actions  include : 
+•Increase investment in AI chip manufacturing and domestic semiconductor leadership.
+•Increas ing U.S. Government  investment in system , storage , and interconnect network
+infrastructure to support heter ogeneity in hardware and software technologies .
+•Adopting industry standards  and initiatives to avoid vendor lock- ins and enable
+competitiveness across the ecosyste m.
+•Invest ing today to better prepare for the shift toward AI -driven science that is expected
+in the future by supporting consortiums like the  UEC, UAL, and Trillion Parameter
+Consortium (TPC ).
+2.2 Data Centers  
+Data centers are the backbone of AI innovation and play a pivotal role in ensuring the United 
+States maintains technological superiority in the global AI race. As AI models become 
+increasingl y complex, requiring vast computational power and secure, high -speed data 
+processing, the development of scalable and resilient data center infrastructure is critical. These 
+facilities not only house the hardware necessary for AI supercomputing but also enable seamless integration of specialized accelerators, such as GPUs and emerging AI -specific chips, 
+that are essential for optimizing machine learning workflows. The location of data centers is  
+also critical for national security and data sovereignty. AI operations rely on sensitive data, 
+making  the choice between co -location, on -premise, or cloud -based infrastructure strategic . 
+With China rapidly advancing its AI capabilities, securing a robust, efficient, and secure AI infrastructure is a matter of national security and economic competitiveness.  
+Recommended actions include:  
+•Leading open  standards in networking, scalable power management, and secure data
+access can cement dominance in AI and shape the future of global technological
+leadership.
+•Investing in new and existing AI -ready data centers, such as the Department of Energy
+(DOE) facilities, will ensure that the U.S. can support next- generation advancements in
+quantum computing, autonomous systems, and high- performance computing .
+
+
+2.3 Energy Consumption and Efficiency  
+AI has seen a jump in usage across many  different sectors  from  the service industry  to 
+advancing manufacturing and research.  This increased usage across multiple industries is 
+driving power demands across the whole data center industry.  The e nergy consumption and, 
+therefore, costs associated with operating data centers, are predicted to double or even triple 
+in the next four  years mainly due to the use of AI.  
+Challenges:  The unprecedented e nergy consumption increase  driven by adoption of AI  has the 
+potential to drive energy costs up and to put pr essure  on the country’s energy capa city and 
+availability . Chip and system power density increases create challenges in removing the waste 
+heat. Being able to operate AI systems economically and stand- up additional power capacity 
+quickly without interruptions will be key competitive factor s in the race to AI leadership.  
+Opportunities : Tighter integration of data centers with energy supply grids will improve 
+reliability  and accelerate the expansion o f AI capacity while decreasing costs. C arefully 
+managing system -level power consumption will  enable data centers to recapture stranded 
+power capacity and enable the U.S. to generate more AI capacity while limiting additional energy supply  infrastructure co sts. Additionally, investments in power and energy management 
+software can help to optimize performance, reduce operating costs , and increase the overall 
+return on investment. Investing in high -performance and energy efficient  cooling technologies 
+from the  chip, system, and  data center  will be necessary to maintain a leadership position in AI.  
+Liquid cooling has been shown to be more efficient than air cooling , enabling higher compute 
+density and leading to reduced overall  costs .  
+Recommended actions  include : 
+•Encouraging adoption  and innovat ion of  liquid cooling technologies at all levels (AI
+devices, system s, and data center s).
+•Supporting innovations that decreas e investment costs , reducing permitting and
+deployment time, and maximiz ing AI capabilities .
+•Invest ing in dynamic system power and energy management software .
+•Invest ing in digital twin  technology to optimize the design and operation of multiple
+sub-systems throughout the data center , maximizing  the overall return on investment
+by balancing performance,  capital expenses , and operating costs .
+•Supporting tighter integration of data centers with energy supply grids , microgrids , and
+behind-the- meter power generation to accelerate AI capacity and capability expansion.
+Pursuing the se recommended actions will enable the U .S. to develop  more AI capabilities at a 
+similar investment level than our competitors, faster, and leading to the highest AI capabilities 
+per investment.  
+2.4 Data  
+Challenges and opportunities exist in the gathering, validation, security, and use of data in the 
+areas of model and open- source development. 
+
+
+2.4.1 Model Development   
+AI model development has advanced rapidly, driven by innovations in deep learning, 
+reinforcement learning, reasoning algorithms, and transfer learning. Current state -of-the- art 
+foundation models have shown remarkable capabilities in natural language understanding and 
+generation , and reasoning . However, these advancements come with significant computational 
+and energy costs. Data repositories play an essential role in AI model development by providing the vast amounts of data necessary to train, test, and validate AI models. These repositories, when managed and curated effectively, ensure that high- quality, diverse, and relevant datasets 
+are available for AI research and development. This accessibility accelerates innovation, fosters 
+collaboration, and enhances the reproducibility of scientific research.  
+Challenges include the need for vast amounts of labeled data, high computational costs, and 
+the difficulty of ensuring model robustness and fairness. E xplainability remains a significant 
+hurdle, as complex models often operate as "black boxes ,” as well as  ensuring the quality and 
+consistency of the data. Different data sources may have varying formats, s tandards, and levels 
+of detail, which can complicate their integration. Additionally, maintaining data privacy and 
+security is crucial, especially for sensitive data.  
+Opportunities  include i nvesting in more efficient algorithms, heterogeneous hardware 
+acce leration, and resource -constrained approaches to reduce data dependency and 
+computational costs.  
+Emphasizing trustworthy AI principles prioritize s robustness and transparency. Public data 
+repositories, such as those managed by the Department of Energy and other federal agencies, are crucial for supporting AI research. These agencies , such as DOE’s Office of Science, control 
+valuable data that is not available elsewhere. Tokenizing  those valuable data sets to generate 
+AI-ready formats  fosters innovation acro ss multiple domains and facilitate s the creation of AI 
+foundation models for science. These repositories can store extensive datasets from a variety of 
+scientific domains, making them accessible to researchers and developers. For example, the National Oceanic and Atmospheric Administration (NOAA) provides valuable long -term weather 
+data that is  indispensable for developing AI models in environmental science.  
+Recommended actions  include : 
+•Encouraging a doption  of voluntary risk-based approaches for risk assessment.
+•Foster ing public/private partnerships for research and investment. There is a significant
+opportunity to enhance collaboration between public and private sectors, as well asamong different scientific disciplines. By implementing standardized data governancepractices and leveraging technologies such as AI for data curation and management, orgeneration of synthetic data, the initiative can improve the usability and reliability of
+public data repositories.
+•Adopting flexible regulations that do not stifle innovation and s upport the development
+of scalable and robust AI systems.  This may include standardizing AI model benchmarks
+and quality criteria for consistent evaluation .
+
+
+•Launching an AI Data Initiative is necessary to streamline and enhance the availability
+and accessibility of these datasets. Such an initiative would focus on creating a
+federated data infrastructure that ensures data quality, security, and ease of access.This infrastructure would facilitate the integration of datasets from va rious sources,
+making it easier for researchers to find and utilize the data they need.
+•Creat ing a Federated Data Infrastructure that integrates datasets from multiple sources,
+ensuring they are easily accessible and usable for AI research. This infrastruc ture should
+support standardized metadata and interoperability across platforms.
+•Supporting Data- Centric AI Research  by shifting the focus from model -centric to data -
+centric AI research. This approach emphasizes the importance of high- quality data in
+devel oping robust and reliable AI models.
+•Promot ing Open Standards and Interoperability  by advocat ing for the adoption of open
+standards and APIs to facilitate seamless data integration and sharing across differentplatforms and systems. This will enhance collaboration and innovation in AI research.
+2.4.2 Explainability and Assurance of AI Model Outputs  
+Uses of AI in mission -critical applications highlight the critical importance of explainability and 
+assurance in AI model outputs, and the need for transparency and r obustness in AI systems. As 
+AI technologies permeate various sectors, they necessitate the development of explainable and robust models, which involve creating AI Principles tailored to every specific mission. These 
+principles guide the operationalization of commitments and specifications, ensuring that AI 
+technologies are utilized correctly across products, processes, and partnerships.  
+For discriminative AI (e.g., computer vision), explainability techniques ( such as LIME  and SHAP ) 
+and various visualization  tools are being developed to interpret complex AI models. These tools 
+are crucial in domains where transparency and accountability are paramount, such as healthcare, manufacturing, defense, and finance.  
+For generative AI , evaluations have grown in importance and encourage transparency in large 
+language models  (LLMs) . By establishing rigorous standards and benchmarks, these evaluations 
+assess the robustness, fairness, and explainability of LLMs, thereby fostering trust and accountability in their outputs.  
+Challenges: Balancing model complexity and explainability is difficult. Ensuring that explanations are understandable and actionable for non- experts remains a challenge.  
+Opportunities : Investing in research to improve explainability methods and integrating them 
+into AI development processes. This can enhance trust and adoption of AI systems in critical applications. The NIST AI Safety Institute plays a vital role in fostering the adoption of AI auditing practices to identify and mitigate potential model vulnerabilities. Aligning with NIST’s 
+initiatives, particularly in "red teaming" technologies for specific science models, will help verify 
+model correctness and ensure safety.  
+
+
+Recommended actions include:  
+•Investing in technical solutions for explainability and red teaming of AI models,
+accelerating the work of NIST’s AI Safety Institute.
+•Using techniques such as  reinforcement learning to develop models that can provide
+intuitive explanations.
+•Fostering partnerships between academia, industry, and government to advance
+explainability research.
+2.4.3 Open- Source Development  
+Open -source AI projects, such as TensorFlow, PyTorch, and Hugging Face's communities , have 
+democratized access to AI tools and resources. These platforms enable a wide range of users to develop a nd deploy AI models  in a portable way. Leveraging the rapidly growing AI offerings in 
+the cloud is important, but equally important is ensur ing that users maintain the freedom to 
+move their developments across different systems. This requires establishing programming practices based on open standards that are independent of specific proprietary accelerators (only available behind a cloud service API).  
+In addition to open- source codes, open models (open -source and open- parameters ) foster AI 
+community collab oration, transparency, and scientific advancements . Opening foundation 
+models for science can democratize access to cutting -edge technologies, foster collaboration, 
+and accelerate scientific discovery. Initiatives like the Trillion Parameter Consortium (TP C) 
+provide  a fertile ground for research teams around the world to collaborate on important AI 
+research  challenges for science and create a focal point to compete with commercial AI that 
+drives much  larger business interests.  When models are openly availab le, scientists can build 
+upon each other's work, leading to rapid advancements and breakthroughs.  
+Challenges: Ensuring the security and quality of open- source AI models  and m aintaining 
+community contributions and addressing intellectual property issues can also be challenging.  
+Opportunities : Enhancing collaboration through open- source platforms can accelerate 
+innovation and adoption of AI technologies. Leveraging community -driven development can 
+lead to more robust and diverse AI solutions. Open- source init iatives in fostering innovation 
+and collaboration within the AI community are very important. The development and support 
+of a broad -based open- source community dedicated to creating an innovation ecosystem 
+around AI helps to seamlessly integrate edge -to-cloud -to-supercomputing AI. The open- source 
+approach is crucial for enabling continuous integration, iterative development, and collaborative advancements in AI technologies. Providing open -source frameworks while 
+recognizing standards bridge gaps in industry practices and ensur ing that AI innovations are 
+accessible and beneficial to a wider range of stakeholders  is important. Moreover, public -
+private partnerships are key in promoting open -source software and preventing vendor lock- in. 
+The establishment of an open infrastructure environment would support both AI hardware and software innovations from the broader community. By maintaining openness in data protocols, programming paradigms, and software libraries, the AI ecosystem can thrive through collective contributions and shared best practices. This approach not only enhances transparency and 
+
+
+interoperability but also democratizes access to AI technologies, allowing a broader base of U .S. 
+researchers and developers to contribute and benefit from advancement s in AI.  
+Recommended actions  include : 
+•Promot ing open- source frameworks and standards.
+•Establish ing clear guidelines for data usage and model development.
+2.5 Government AI Readiness  
+Several challenges and opportunities exist for the U.S. Government spanning the areas of AI 
+applications and their use, explainability and assurance of AI model outputs, cybersecurity, data 
+privacy and security,  national security and defense, research and development, innovation and 
+competition, procurement, and international collaboration.  HPE’s assessment and 
+recommendations leverage HPE’s  past and current leadership in AI infrastructure and national 
+security applications .  
+2.5.1 Application and Use  
+In the rapidly evolving digital landscape, government agencies and enterprises fac e increasing 
+demands for efficiency, security, and innovation. As AI and machine learning become integral to 
+operations, organizations must modernize their IT infrastructure to remain competitive and 
+effective. The expansion of AI -driven initiatives requires a robust, flexible, and scalable 
+foundation that supports advanced computing workloads while maintaining cost- effectiveness 
+and operational efficiency. Opportunities to enhance IT operations through automation, 
+predictive analytics, and modular data cen ter solutions provide a pathway to achieving these 
+goals, ensuring that agencies can securely and efficiently manage their technology resources.  
+Challenges:  Implementing AI in government operations is not without its challenges. One of the 
+primary challeng es is the integration of AI at every scale with existing legacy systems  that can 
+be complex and costly. Additionally, there is a need for a skilled workforce that is proficient in AI technologies, which requires substantial investment in training and development. Data privacy and security are also major concerns, as AI systems often require access to large 
+amounts of sensitive data.  
+Opportunities:  To capitalize on these opportunities, agencies can implement IT automation 
+strategies that streamline routine tasks, enabling remote management of critical infrastructure. 
+Additionally, upgrading data centers to accommodate GPU -based servers will optimize AI -
+driven workloads, while advanced cooling and power management systems will enhance energy efficiency. Inves ting in modular data centers will further support evolving computational 
+needs, allowing agencies to scale AI capabilities without excessive infrastructure costs. AI -
+driven predictive maintenance models can help reduce downtime and extend the lifespan of critical hardware, ensuring uninterrupted service delivery. Moreover, adopting on -premises AI 
+clusters will provide sovereign control over sensitive data, reinforcing cybersecurity and compliance. Finally, fostering an AI -ready workforce through dedicated A I resources, training, 
+and sandbox environments will empower government agencies to drive innovation and fully leverage AI’s transformative potential.  
+
+
+Recommended actions  include : 
+•Implement ing AI operations to automate routine IT tasks and enable remote
+management of IT infrastructure, reducing the need for on- site personnel and ensuring
+efficient maintenance.
+•Upgrad ing data centers to support GPU -based servers and implement ing machine
+learning and automated control systems to optimize power and cooling needs, reducing
+energy consumption, and enhancing efficiency.
+•Invest ing in modular data centers to meet the evolving needs of government agencies,
+ensuring support for advanced AI workloads without significant infrastructureinvestments.
+•Utiliz ing AI-driven predictive maintenance models to reduce downtime, lower
+maintenance costs, extend equipment lifespan, and increase productivity by forecastingpotential failures before they occur.
+•Cutting the total cost of ownership of AI clusters by leveraging on- premises solutions
+and providing sovereign control over data and compute resources within the physical
+security domain.
+•Develop ing agency- wide AI resources, including access to AI tools, training programs,
+and a sandbox environment for developing and testing AI applications, to foster an AI -
+ready workforce and drive innovation.
+•Leveraging the tens of thousands of experts  employed by the U.S. national laboratories ,
+across physics, chemistry, biology, materials science, and computer science, including
+nearly one-third of all Ph.D. -level scientists and engineers in the country. This
+unparalleled talent pool is vital for AI advancements in science and engineering.
+2.5.2 Cybersecurity  
+The cyberthreat landscape facing the United States is dominated by increasingly sophisticated, organized, industrialized malicious nation state s and cybercriminal actors. These actors are 
+using AI as a powerful tool  to create more effective attacks, such as more realistic, plausible 
+spear  phishing and social engineering attacks. The threat spans the entire life cycle of 
+hardware, firmware, software and data: supply chain, production, and operation. Mitigating 
+this re quires a multi- faceted defense -in-depth approach that also spans the entire life cycle  to 
+deliver AI systems that are secure by design , while delivering great  performance and are easy to 
+use.  
+Challenges: The possibility of a malicious actor having access to a cryptographically relevant 
+quantum computer is a serious threat to the United States. Such a computer render s the 
+current deployed secure protocols, firmware, and software verification mechanisms to be ineffective. Quantum- secure cryptographic algorit hms exist , and, i n many cases, it will be 
+possible to upgrade software and firmware stacks in the field. Unfortunately , silicon parts 
+cannot be changed after manufacturing , so it  is urgent to transition hardware roots of trust and 
+keys fused in silicon to quantum- secure algorithms. Failure to do so will mean that attackers  
+
+
+with access to a quantum computer will be able to sign malicious firmware that will be treated 
+as legitimate by the system under attack, giving the threat actor full control over that sys tem. 
+Opportunities : AI technologies can transform cybersecurity vulnerability management. The 
+scarcity of trained, experienced cybersecurity professionals is a well -known challenge. While 
+there has been a push towards automation for years, many tasks have remained manual. AI may assist by automating tasks, such as false positive filtering, that today generally rely on a 
+human. AI may enable a level of simulating attacks, control effectiveness, and response 
+capabilities far beyond what can be presently achieved. One especially compelling aspect of this potential for AI is to analyze complex attack chain scenarios that are currently intractable.  
+Recommend ed actions  include:  
+•Investing  in protection against tampering of AI models and data , such as trojan
+backdoors inserted by malicious actors in hardware, firmware , and software. This is
+particularly challenging for the open -source community where over -worked software
+maintainers are hard -pressed to provide adequate reviews of new code submitted to
+projects . AI-driven inspection together with cryptographic attestation and tracking of
+lineage can help mitigate this problem.  Investment is required to develop these
+capabilities.
+•Investing  in services for easy measurement and verification of operating platforms .
+Although the basic concepts and hardware support for secure measurement and
+attestation have  been in place for well over a decade (e.g. , Trusted Platform Modules),
+the software and management services to enable their widespread use are  missing.
+•Promot ing industry -standard Trusted Execution Environments (TEE)  for processors,
+GPUs , and other devices. TEEs have given rise to an  emerging paradigm called
+Confidential Computing in which data is protected by encryption at rest, in transit, and
+in memory. Data is accessible only to verified TEEs; it is isolated by encryption from allother entities. This offers greatly enhanced protection of data from malicious insiders
+and from malicious actors who have stolen credentials from legitimate operators.
+2.5.3 Data Privacy and Security  
+Robust data and model provenance and governance enable AI pipelines and collaboration. 
+Challenges: AI systems have attack surfaces which are different from  non-AI systems. In the 
+supply chain, this includes model tampering, poisoning , and data tampering. In operation , the 
+difficulty in bounding the behavior of AI systems makes it challenging to secure applications and 
+introduces new attacks such as prompt injection, jail breaking, perturbation, model 
+reprogramming, hallucination s, and model stealing.  For safe operation, further investment is 
+required to protect against the se new attacks . 
+Opportunities : AI systems have a significant role to play in securing the operation of other AI 
+systems and a robust data and model governance framework is required that prioritizes data 
+and model quality, security, privacy, and accessibility.  
+
+
+Recommend ed actions include : 
+•Establish ing guidelines  for c lear ownership and licensing, rigorous quality assurance ,
+and strong security measures . Tracking data and model lineage, and ensuring user -
+friendly access maximize s the data value and explainability of derived  AI products.
+•Investing  in a “knowledge nurturing platform” to  accelerate AI in scientific discovery ,
+innovation, and enhance public trust. It shoul d include a collaborative platform, a data
+historian, a data vault, easy and fluid data services, incentive models for both
+contributors and curators, and embargoed access policy enforcement tools.
+•Establish ing robust data and metadata governance practice s that are key for the
+success of AI -based pipelines for science, given the tight dependence of AI models on
+data.
+2.5.4 National Security and Defense  
+Technology is at a tipping point in the age of AI. AI promises advancements at all levels of 
+computing and has the potential to revolutionize science and engineering. By integrating AI with modeling, simulations, big data, and high -performance data analytics, the Department of 
+Defense (DoD) and the DOE’s  National Nuclear Security Administration (NNSA) can dramatically 
+increase the value of advanced computing for the national security community and the nuclear security enterprise. As AI transforms the national security landscape, high -performance 
+computing will become an even more essential tool for the defense of our nation. The rapid 
+evolution of AI demands immediate and strategic action to maintain technological superiority 
+and battlefield dominance.  
+Challenges: The integration of AI into national security presents several challenges , such as  in 
+Infrastructure and Investment  where building state -of-the- art AI systems requires substantial 
+computational resources, massive datasets, and highly specialized expertise, necessitating significant government investment.  Regarding Security Risks , the DoD must ensure classifie d 
+national security data, AI models , and AI artifacts remain secure, responsibly managed, and 
+safely implemented to prevent adversarial exploitation.  On Counter -Adversarial AI , the 
+development of AI -driven countermeasures is essential to predict, prevent, and mitigate threats 
+to critical infrastructure, energy security, nuclear nonproliferation, biological, chemical safety, 
+and cybersecurity.  Related to  Workforce Readiness, scientists and engineers must be equipped 
+with AI expertise as AI increasingly becomes indispensable for defense technology.  
+Opportunities : To maintain technological superiority, the U .S. Government can leverage its 
+existing strengths in computing infrastructure, ecosystems, partnerships, and expertise  in the 
+several ways . Leverag ing the DO E National Labs ’ world -class supercomputing ecosystems will 
+allow for manag ing AI data at every scale and facilitat ing the development and deployment of 
+classified and unclassified AI platforms, tools , and applications.  With  Expanding High -
+Performance C omputing Capabilities,  the DoD’s High- Performance Computing Modernization 
+Program (HPCMP) already houses some of the world's most advanced supercomputing 
+resources. Additional investments can enhance the ability to support AI -driven defense 
+innovations. Th e Fiscal Year 2025 National Defense Authorization Act (NDAA) calls for the 
+expansion of high- performance computing infrastructure to support next- generation AI 
+
+
+capabilities.  By Develop ing AI Systems and Solutions for Defense , AI can improve predictive 
+capa bilities, expand design possibilities, and reduce costs in weapons system development, 
+simulations, threat assessments , and other areas important to national defense.  
+Recommend ed actions include : 
+•Expanding  High -Performance Computing Investments for AI:  Prioritize funding for
+programs like the HPCMP to ensure DoD scientists and engineers have access to the
+most advanced AI computing infrastructure for the science and technology, acquisitionengineering, and testing and evaluation communities.
+•Develop ing Secure AI Models for National Security:  Leverage classified and secure
+unclassified data to develop AI models tailored for sensitive defense applications,ensuring secure and responsible deployment.
+•Enhancing  Public -Private Collaboration:  Strengthen partnerships between the DoD,
+DOE, industry, and academia to accelerate AI advancements and integrate the latestinnovations into defense applications.
+•Fortify ing AI Trust and Security:  Utilize U .S. Government expertise in evaluating dual -
+use technologies to ass ess vulnerabilities, conduct red -teaming, and implement rigorous
+threat testing of up to frontier scale AI models.
+•Accelerat ing AI Workforce Development:  Ensure that military and defense personnel,
+as well as DoD scientists and engineers, are trained to effectively develop and deploy AItechnologies in support of national security missions.
+2.5.5 Research and Development  
+The United States Government’s federal scientific and national security missions demand world -leading AI capabilities. AI has already demonstrat ed its potential in scientific 
+breakthroughs across diverse fields, including quantum chemistry, cancer cell behavior, molecular dynamics, and bioenergy. To build on these advancements, a transformational effort is required to establish a nation -scale AI e cosystem. This effort must be deliberate, coordinated, 
+and supported by substantial, sustained government funding and support.  
+Challenges: Building an advanced AI research and development capability requires significant 
+investments in infrastructure, data management, and responsible AI practices. This includes  the 
+need for dedicated compute platforms to support AI model development, testing, and deployment. Also, it requires e nsuring AI -ready scientific data is available at scale while 
+maintaining security and accessibility  and addressing security vulnerabilities and dual -use risks 
+in AI models to ensure responsible and safe deployment.  Finally, enhancing collaboration across 
+federal agencies, academia, and industry while maintaining national interests and data security  
+will be essential. 
+Opportunities : To achieve AI leadership, the U .S. Government can leverage its existing 
+strengths in computing infrastructure, data generation, and workforce expertise. Dedicated 
+Compute Platforms can be acquired and deployed, including  scaled testbeds to co -design next-
+generation AI hardware, modular systems for training smaller models, and full- scale 
+
+
+infrastru cture for large foundation model  training and post -training . AI-Ready Scientific Data 
+can transform the U .S. Government’s vast scientific datasets into structured “data lakes” to 
+support multi -domain foundation models and advance multiple scientific fields.  Responsible AI 
+Research  should focus on e stablishing foundational research initiatives to assess AI model 
+security, conduct red- teaming, and develop trustworthy AI algorithms.  Public -Private 
+Partnerships  can be formed that s trengthen collaborations between government agencies, 
+academia, and industry to accelerate and make use of AI advancements.  
+Recommend ed actions include:  
+•Establish ing a Research and Development Program Focused on Four Pillars:
+−Data:  Develop ing tools and protocols for efficient AI dataset aggregation, curation,
+and secure distribution.
+−Computing Infrastructure:  Invest ing in next- generation AI testbeds, energy -efficient
+AI hardware, and high -performance computing systems.
+−AI Models and Systems:  Build ing and validat ing AI foundation models for scientific
+and national security applications.
+−Application:  Develop ing tailored AI solutions to address pressing scientific, energy,
+and security challenges.
+•Develop ing a Federal AI Initiative  that includes :
+−Establish ing a multi- year public -private partnership program to drive post -exascale
+AI computing technology development.
+−Align ing AI investments across federal agencies to ensure strategic coordination and
+resource efficiency.  Federal AI research hubs could provide incentive for
+commercialization of innovative R&D projects across industry and academia .
+−Ensuring classified  AI models remain secure, responsibly managed, and aligned with
+national security interests.
+•Enhancing  Federal Coordination and Investment by:
+−Strengthening  inter- agency AI R&D collaboration while maintaining safeguards
+against external influence.
+−Provid ing multi- year funding mechanisms to ensure sustained AI advancements.
+−Establish ing secure facilities for AI research to develop models trained on unique
+federal datasets unavailable to the private sector.
+2.5.6 Innovation and Competition  
+AI is a major driver of innovation across various industries, including healthcare, finance, and 
+transportation. The competitive landscape is rapidly evolving, with new startups and established tech giants driving advancements. It is important to maintain a competitive edge in AI by leveraging open standards and hybrid computing solutions. That includes fostering 
+
+
+development of AI models that are not solely dependent on proprietary cloud APIs, which can 
+cause vendor lock -in and hinder innovation.  
+Challenge s: Ensuring a level playing field and preventing unfair competitive  practices  and 
+balancing innovation with ethical considerations and regulatory compliance.  
+Opportunities : Encouraging competition through supportive policies and investments in AI 
+research and development. The use of standardized, hardware -agnostic programming models 
+can enable scalability and flexibility across different computing environments. This approach ensures that developers can move their AI workloads seamlessly between on- premises HPC 
+systems and cloud resources, thereby avoiding the pitfalls of being tied to a single provider's 
+ecosystem. The role of leadership -class HPC supercomputing centers is key in supporting U .S. AI 
+development in domains like science, security , and engineering. These centers provide the 
+necessary infrastructure for training large -scale AI models, which often require significant 
+computational power that goes beyond the capabilities of typical cloud environments. By 
+investing in HPC systems optimized for a combination of traditional HPC and AI workloads, the U.S. Government can support the unique computational and data requirements of scientific 
+and engineering applications. Growing the investment in leadership systems can integrate AI -
+enhanced scientific workloads, using energy -efficient processors and advanced cooling systems. 
+This not only supports cutting -edge research but also ensures that the U.S. remains at the 
+forefront of AI innovation.  
+Recommended actions  include : 
+•Grow ing the investments in leadership class supercomputers .
+•Promot ing open standards, including establishing a clear intellectual property and
+copyright framework, to reduce proprietary lock -in and AI monopolization .
+•Invest ing in public -private partnerships to drive innovation.
+2.5.7 Procurement  
+Supercomputers are essential for training large -scale AI models. The procurement process 
+involves balancing performance, speed of deployment, cost, and energy efficiency. To address the rapid adoption of new technologies, the procurement process for new go vernment-funded 
+AI supercomputers should be significantly restructured to accommodate the fast-paced advancements in AI and related hardware. The implementation of a structured framework contract could support incremental deliveries and facilitate quick ea rly deployment of 
+technologies and provide faster access to new advancements without the overhead of individual procurements. By allowing for incremental upgrade points within the contract 
+period, agencies like the DOE can improve upon the traditional five -year cycle of deploying a 
+single leadership -class machine, thus better matching the current pace of technological change.  
+Challenges include high costs of AI systems, the rapid obsolescence of hardware , and e nsuring 
+that procurement processes support cutting- edge research without stifling innovation.  
+Opportunities  include l everaging public -private partnerships to share resources and costs  and 
+investing in energy -efficient supercomputing technologies. Also, a flexible procurement 
+
+
+strategy can  accommodate co ntinuous integration, deployment, and iterative prototyping  and 
+development of new feature sets. This involves collaborative efforts with industry partners to 
+ensure that the procurement process is not only streamlined but also responsive to the evolving r equirements of AI workloads. By incorporating these recommendations, the U .S. 
+Government can enhance its ability to quickly deploy cutting -edge technologies, thereby 
+maintaining its leadership in AI and high -performance computing.  
+Recommended actions  inclu de: 
+•Simplify ing procurement processes to allow for rapid deployment of new technologies.
+•Supporting incremental upgrades to keep pace with technological advancements.
+•Foster ing partnerships to share supercomputing resources and expertise.
+2.6 Global Leadership  
+Continued U .S. leadership in AI requires a coordinated approach to ensuring that U .S. 
+technology and standards remain  the global benchmark. Global market access and growth are 
+central to U .S. companies’ ongoing ability to invest in R&D to maintain technol ogical leadership 
+and continue driving U.S. -led innovation. Further, international collaboration is crucial for 
+advancing AI research and addressing global challenges. Initiatives such as the Global Partnership on AI (GPAI) and Trillion Parameter Consortiu m (TPC ) promote cross -border 
+cooperation. 
+Challenges include navigating geopolitical tensions and ensuring equitable participation  in the 
+advancement of AI and a ddressing data sovereignty and privacy concerns.  
+Opportunities  include s trengthening internatio nal partnerships to share knowledge, resources, 
+and best practices. Also, international collaboration on AI, particularly through initiatives like 
+the TPC, provides a collaborative platform for research teams worldwide to solve  significant AI 
+research chal lenges, particularly those relevant to science. The aim is to create a focal point for 
+competing with commercial AI initiatives that are driven by substantial business interests. By making models openly available, the TPC encourages scientists to build upon each other’s work, leading to rapid advancements and breakthroughs. This collaborative environment fosters interdisciplinary research where insights from different fields converge to address complex scientific problems. Finally, o pen sourcing promotes transparency, which is crucial for scientific 
+integrity and reproducibility. Researchers can inspect models, understand their workings, and 
+verify results, contributing to more responsible and trustworthy AI systems.  
+Recommended actions  include : 
+•Ensuring foreign markets are open to U .S. AI technology .
+•Promot ing international AI research collaborations.
+•Establish ing frameworks for data sharing that respect privacy and sovereignty.
+•Encouraging global adoption of transparent and ethical  AI standards.
+
+
+
+

@@ -1,0 +1,154 @@
+The NSF Institute for
+Artificial Intelligence & Fundamental Interactions
+https://iaifi.org/ iaifi@mit.edu 77 Massachusetts Avenue, Cambridge, Massachusetts 02139-4307
+March 14, 2025
+Faisal D’Souza, NCO
+Office of Science and Technology Policy
+Executive Office of the President
+2415 Eisenhower Avenue
+Alexandria, VA 22314
+Submitted by email to ostp-ai-rfi@nitrd.gov
+Re: Request for Information (RFI) on the Development of an Artificial Intelligence (AI)
+Action Plan
+A revolution is brewing in AI+Science, and the NSF Institute for Artificial Intelligence
+and Fundamental Interactions (IAIFI) appreciates this opportunity to provide insights we
+have gained through almost 5 years of conducting interdisciplinary research in AI and Physics
+to help shape policy that will strengthen the dominance of the United States in AI. We feel
+it is crucial for academics to contribute to discussions of policy and national strategy given
+the vast experience of researchers in the academic sector working across disciplines at the
+forefront of both scientific discovery and new technologies. Therefore, we present information
+to support what we believe is most essential for the future of AI in the United States:
+(1)investing in interdisciplinary research that prioritizes robust and interpretable AI ,
+(2)educating and training an AI-enabled STEM workforce, and (3) providing scalable
+computing resources to support AI innovation.
+About IAIFI
+As one of the inaugural NSF AI Institutes, IAIFI serves as a nexus point for collaborative
+efforts to advance both Physics and AI.1By combining state-of-the-art research with early
+career talent and a growing AI+Physics community, IAIFI is enabling researchers to develop
+AI technologies to tackle some of the most challenging problems in physics, and transfer these
+technologies to the broader AI community. Additionally, IAIFI researchers are applying
+physics principles to develop more robust and interpretable AI technologies .
+IAIFI researchers are fusing the deep learning revolution with the time-tested strategies of
+deep thinking in physics to gain a deeper understanding of our universe and of the principles
+underlying intelligence itself. IAIFI research spans a range of disciplines, covering topics
+1https://iaifi.org
+1
+
+in Foundational AI, Physics Theory, Physics Experiment, and Astrophysics. IAIFI has
+demonstrated that many problems across these domains have shared solutions, since they
+involve similar prior knowledge, are based on the same underlying physics principles, and
+face common experimental and theoretical challenges. Thus, enabling researchers across
+AI+Physics to work together has been a transformative tool for scientific advancement.
+Invest in interdisciplinary research to advance AI+Physics and pri-
+oritize robust and interpretable AI
+Given the fundamental principles underlying the physical sciences, the Physics domain is
+especially well positioned to enhance our understanding of how AI works, as well as push the
+field toward robust techniques with its complex and extensive datasets. By infusing physics
+intelligence into artificial intelligence, IAIFI researchers are demonstrating the virtuous cy-
+cle of AI+Physics: AI techniques can help make significant discoveries in various physics
+domains and at the same time physics principles and insights can advance AI tools and lead
+to improved understanding of AI.
+As an illustrative example of Physics impacting AI, IAIFI researchers collaborated across
+domains to develop a physics-inspired theory of representation learning.2In particular, they
+improved our understanding of the phenomenon of “grokking,” where models generalize
+long after overfitting their training set. By analyzing the behavior of the representations in
+algorithmic tasks, IAIFI researchers were able to explain (and even predict) many aspects of
+grokking. This work highlights the usefulness of effective theories, commonly used in physics,
+to model neural network dynamics.
+A complementary example, which demonstrates AI impacting Physics, is a project ex-
+ploring the potential for reinforcement learning to be used to control the squeezed vacuum
+system of the Laser Interferometer Gravitational-Wave Observatory (LIGO), which would
+optimize LIGO’s quantum performance.3LIGO is a flagship NSF experiment with sites
+in Livingston, Louisiana, and Hanford, Washington, with unparalleled sensitivity to grav-
+itational waves in the world. After an analysis of this technique on past LIGO data, two
+experimental projects are now being designed to deploy AI on LIGO-like hardware, in simple
+configurations, and then scale up the complexity to achieve even better sensitivity.
+Without dedicated funding to pursue these cross-disciplinary projects, researchers would
+be limited in their ability to conduct exploratory research that has the potential to signifi-
+cantly impact multiple fields. AI has become pervasive across all fields of science, and a key
+way to ensure U.S. dominance is to leverage the full spectrum of scientific knowledge to both
+deploy and strengthen it. Information sharing across disciplines will accelerate advancements
+in AI by combining domain-specific knowledge and best practices.
+2Z. Liu, O. Kitouni, N. Nolte, E.J. Michaud, M. Tegmark and M. Williams, Towards Understanding
+Grokking: An Effective Theory of Representation Learning inConference on Neural Information Processing
+Systems , 2022
+3C. Whittle, G. Yang, M. Evans and L. Barsotti, Machine learning for quantum-enhanced gravitational-
+wave observatories, Physical Review D 108 (2023)
+2
+
+The RFI notes that a goal of the Administration is that “unnecessarily burdensome
+requirements do not hamper private sector AI innovation.” One way to achieve this goal is
+to prioritize robust and interpretable AI from the ground up. As discussed above, Physics
+has shown to be especially useful as both a testbed for robust AI, and for thinking about AI
+techniques in a way that can help understand them. Leveraging fundamental science domains
+like Physics will help develop a deeper understanding of AI through scientific principles.
+We recommend that the Administration direct funding agencies, such as the
+NSF and DOE, to prioritize supporting interdisciplinary AI+Science programs
+that focus both on developing AI for scientific discovery and leveraging scien-
+tific expertise for AI research . Existing programs like the NSF AI Institutes enable
+interdisciplinary collaboration and demonstrate the virtuous cycle of AI and Science.
+Educate and train an AI-enabled STEM workforce
+The future of AI research and the United States’ strong role in its development is contin-
+gent on educating and training an AI-enabled STEM workforce. Regardless of their field, it
+is becoming increasingly necessary that early-career researchers incorporate AI and related
+techniques involving data and computer science into their work. Federal support for educat-
+ing researchers across disciplines and at all education and career stages will help to ensure a
+pipeline of AI literacy and establish a baseline of knowledge to build upon.
+As an example, the IAIFI Fellowship program, which employs postdoctoral researchers
+working at the intersection of AI and Physics, has demonstrated the impact that dedicated
+interdisciplinary training can have in both academia and industry. The first cohort of Fellows
+have moved on to professor positions at leading universities and research positions at top AI
+companies, such as Meta and Anthropic. AI education at all levels is advantageous for the
+United States workforce broadly.
+In addition, IAIFI runs a week-long graduate-level training program each summer offering
+opportunities for students to strengthen their skills through lectures and hands-on training.
+The number of applicants to this program has increased significantly each year, to over
+400 applicants in 2025. IAIFI has also worked with MIT to develop an interdisciplinary
+PhD in Physics, Statistics, and Data Science, and to bolster AI-related curriculum offerings
+in the Physics department. This includes the development of a free course on the MITx
+digital learning platform on Computational Data Science in Physics, which has attracted
+students from around the United States. The enthusiasm for these resources and programs
+demonstrates the need for this type of interdisciplinary training, especially at the university
+level.
+Many federal funding agencies, e.g.the NSF, already consider broader societal impacts
+in funding decisions. We recommend that the Administration direct funding agencies
+to consider AI education, and training an AI-enabled STEM workforce, as high-
+priority areas of broader societal impact when evaluating grant proposals.
+3
+
+Provide national infrastructure for scalable computing resources
+The use of AI across all stages of research means that there is a broad spectrum of computing
+needs—some researchers can compute what they need to on their laptops, some need access
+to several GPUs, and some need sustained access to a much higher volume of resources.
+The federal government has already begun to set up opportunities for U.S. researchers to
+access free computing resources through programs such as the National AI Research Resource
+(NAIRR) Pilot4and the NSF ACCESS program.5The biggest impact of these programs is
+that they allow researchers at all career stages to access compute, regardless of what their
+university or company is able to provide.
+IAIFI researchers have had the opportunity to use these resources and they are extremely
+valuable, particularly at the scale of several GPUs for a small project. However, these re-
+sources provide little flexibility for scaling up as projects build on the successful development
+and deployment of AI techniques. Providing scalable resources at the national level would
+significantly boost the ability of U.S. researchers to conduct meaningful research with AI
+and would improve the efficiency with which they use the resources.
+In order to provide accessible and scalable computing resources, the Admin-
+istration should build on the NAIRR and ACCESS programs to include options for
+research groups to request a pool of resources to be allocated to the group for exploratory
+use, which can then grow as they grow, with the goal of facilitating efficient large-scale
+deployment of cutting-edge AI technologies.
+Conclusion
+IAIFI has seen firsthand the impact of AI, not only on our research but also on our early-
+career talent and our interdisciplinary community. Now is the time to establish how the
+AI research ecosystem of the United States should operate. We believe that by enabling
+interdisciplinary research that prioritizes robust and interpretable AI, building an AI-enabled
+STEM workforce, and providing access to scalable computing resources, the United States
+will continue to lead the way in AI globally , as well as increase the longevity of AI’s
+positive impact on society.
+Filed by the NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI).
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government
+in developing the AI Action Plan and associated documents without attribution.
+4https://nairrpilot.org
+5https://access-ci.org
+4
+

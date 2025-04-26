@@ -1,0 +1,99 @@
+ -1 -
+IMO Health’s Response to the RFI on the Development of an Artificial Intelligence (AI) 
+Action Plan 
+February 27, 2025 Contact Information: 
+•Name: Amol Bhalla
+•Title: Chief Informaticist
+•Organization: Intelligent Medical Objects (IMO Health)
+•
+Statement: 
+This document is approved for public dissemination and does not contain business-proprietary or 
+confidential information. The government may reuse its contents without attribution in developing the AI Action Plan and associated documents. 
+Executive Summary 
+ IMO Health  is a leading provider of clinical terminology and healthcare data solutions, 
+dedicated to enhancing the quality and interoperability of health information. We have 
+considerable expertise in the development, use, and application of various types of AI to the 
+clinical and lifescience research space. Our experience in these areas includes work using 
+machine learning, deep learning, and LLM models and methods. In response to the request for 
+information (RFI) on the Development of an Artificial Intelligence (AI) Action Plan, IMO  
+Health emphasizes the critical importance of data enablement, robust terminology management, 
+semantic alignment, and data provenance in healthcare AI applications. These elements are 
+foundational to developing trustworthy, effective, and equitable AI systems tha t seamlessly 
+integrate into clinical workflows and improve patient outcomes. IMO Health outlines below why 
+we believe each element is essential for an effective AI Action plan.   
+1. Data Enablement in Healthcare AI
+Healthcare data is inherently complex and multifaceted, encompassing a wide range of formats, 
+sources, and structures. To harness this data for AI applications, it is imperative to implement 
+comprehensive data enablement strategies that facilitate access, integration, and usability of 
+health information. Key considerations include: 
+•Data Integration: Establishing interoperable systems that can aggregate data fromdiverse sources, including electronic health records (EHRs), laboratory systems, and
+patient-generated data, to create a unified and comprehensive dataset for AI model
+training.
+
+
+ - 2 - 
+• Data Quality Assurance: Implementing rigorous data governance frameworks to ensure 
+the accuracy, completeness, and consistency of data, thereby enhancing the reliability of 
+AI outputs. These frameworks relate to the data presented to AI models during their 
+training phase to ensure accurate results that will not cause harm to patients. Similarly, 
+data (including clinical and research recommendations) must be capable of being 
+explained, and related back to clearly established and defined guidelines in peer-reviewed 
+scientific and clinical evidence, and evidence evaluation frameworks.  
+• Ethical Data Use: Adhering to ethical standards and regulatory requirements to protect patient privacy and confidentiality, ensuring data use remains aligned with patient consent, privacy standards, and legal requirements. 
+2. Terminology Management and Semantic Alignment 
+Effective AI systems in healthcare rely on precise and consistent understanding of clinical 
+concepts. Terminology management is pivotal in standardizing medical vocabulary, enabling 
+semantic interoperability, and facilitating accurate data interpretation.  Terminology management 
+and semantic alignment have the following benefits for AI models: 
+• Standardization of Clinical Terms: Developing and maintaining comprehensive 
+clinical terminologies that align with international standards, ensuring uniform 
+interpretation of medical concepts across systems and stakeholders. This allows clear 
+communications between participants in clinical care and clinical research, reducing 
+errors, and allows for faster resolution of results. 
+• Semantic Interoperability: Implementing mapping strategies that translate disparate coding systems into a unified language, allowing seamless data exchange and integration 
+across platforms. Semantic interoperability is essential for allowing AI systems to 
+perform various types of logical reasoning, such as clinical inference, and to prevent the 
+introduction of hallucinations and other forms of error into results. 
+• Dynamic Updates: Sta ndard Terminologies require continuous updates to reflect the 
+latest domain-specific context, regulatory standards, and best practices. Medical 
+Terminologies encapsulate not only Standard Terminologies but also  medical knowledge 
+(e.g., diseases, procedures, labs, medications), clinical best practices, and innovations. Medical Terminologies ensure that AI systems operate with current and relevant 
+information and utilize a robust source of truth with data provenance to train upon. 
+3. Preparing Healthcare Data for AI Model Training 
+The high dimensionality and variability of healthcare data necessitate meticulous preprocessing 
+to render it suitable for AI model development. Essential steps include: 
+• Data Cleaning: Identifying and rectifying errors, inconsistencies, and redundancies in 
+datasets to enhance data integrity and model performance. 
+• Feature Engineering: Selecting and transforming relevant data attributes to improve model accuracy and predictive capabilities. 
+
+
+ -3 -
+•Handling Missing Data: To maintain dataset robustness, appropriate techniques, such as
+imputation methods or leveraging auxiliary information, should be employed to address
+gaps in data.
+4. Provenance and Transparency in AI Models
+Ensuring the traceability and transparency of AI models is crucial for building trust among 
+clinicians and patients. IMO Health advocates for: 
+•Clear Documentation: Maintaining detailed records of data sources, preprocessing
+steps, and model development processes to facilitate reproducibility and accountability.
+•Explainability: Designing AI models that provide interpretable outputs, enablingclinicians to understand and trust AI-driven recommendations and decisions.
+•Continuous Monitoring: Implementing systems to track AI model performance overtime, ensuring sustained accuracy, early detection of model drift, and proactive bias
+mitigation.
+5. Additional Considerations
+To further enhance the development and deployment of AI in healthcare, IMO Health 
+recommends an AI action plan include the following: 
+•AI Governance Frameworks: Establishing policies and oversight mechanisms that
+guide the ethical development and application of AI, addressing issues such as bias,
+fairness, and accountability.
+•Collaboration and Stakeholder Engagement: Fostering partnerships among healthcareproviders, technology developers, policymakers, and patients to co -create AI solutions
+aligned with clinical needs and societal values.
+•Investment in Education and Training: Developing programs to equip healthcare
+professionals with the knowledge and skills to effectively utilize AI tools, ensuring that
+technological advancements translate into improved patient care.
+Conclusion 
+IMO Health  is committed to advancing AI in healthcare through robust data enablement, precise 
+terminology management, and unwavering dedication to data quality and transparency. By 
+addressing these critical areas, the forthcoming AI Action Plan can lay a strong foun dation for AI 
+innovations that are ethical, effective, and centered on enhancing patient outcomes.  
+
+

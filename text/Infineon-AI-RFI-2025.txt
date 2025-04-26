@@ -1,0 +1,205 @@
+Request for Information  on the Development of an Artificial Intelligence (AI) Action Plan  
+Networking and Information Technology Research and Development (NITRD) National 
+Coordination Office (NCO), National Science Foundation  
+Submis sion by Infineon Technologies America s Corp. 
+Contact: Maria DiGiulian, Senior Director, Government Relations, Infineon Technologie s 
+Americas Corp. 
+Due Dat e: March 15, 2 025 
+Intro duction 
+Thank you for  the opportunity to provide comments to the “ Request for Information on the 
+Development of an Artificial Intelligence (AI) Action Plan. ”  
+There ar e five  key issues that Infineon Technologies Americas Corp. (Infineon Technologies ) 
+respectfully requests the U.S. government  consider  in forming an AI Action Plan. 
+1.Promote  power management in AI infrastructure;
+2.Promote  compute efficiency through edge AI technologies for military superiority
+3.Promote state -of-the- art security and authentication (to include devic e security and
+cryptography) for AI applications
+4.Pinpoint key R&D priorities that will enable U.S. AI supremacy
+5.Collaborate  with like -minded allies and partners  to create opportunities and address
+national security concerns
+Focusing on these topics will help the U.S. government achieve its goals. These topics are key to 
+achieving breakthroughs in adopting AI in military applications such as robotics, drones, and satellites, and will contribute to achieving U.S. goals for AI infrastructure to include data center build outs by addressing the high energy demands of that infrastructure. 
+Infine on Technologies  AG 
+Infineon Technologies AG is a global semiconductor leader in power management systems and 
+the Internet of Things. It is the number one global supplier of semiconductors to the automotive 
+industry and  is number one in the global microcontroller market. Infineon is also a leader in wide 
+band gap semiconductor materials such as gallium nitride (GaN) and silicon carbide (SiC), which 
+allows semiconductor power devices to operate at higher voltages, temperatures, and frequencies. 
+It offers the broadest prod uct and technology portfolio in wide band gap devices. Infineon serves 
+the automotive, industrial, energy, and AI sectors. The company has approximately 58,000 
+employees worldwide and generated revenue of about €15 billion in fiscal year 202 4 (about $15.7 
+billion U.S. dollars). Infineon is listed on the Frankfurt Stock Exchange (IFX) and in the United 
+States on the OTCQX international over- the-counter market (IFNNY).  Infineon Technologies is 
+
+
+headquartered in Munich Germany, with its U.S. operations headquartered in San Jose, 
+California. It has  a large U.S. presence including fabrication and R&D facilities  in 12 states. 
+Infine on partners with the U.S. government through the USA Manufacturing Institute 
+PowerAmerica, multiple NASA programs, the Air Force Research Lab, DARPA and other defense departments, and ARPA- E. Infineon was awarded the Trident II flag for its support of the 
+U.S. Navy. It also suppl ies the secur ity chips and modules that  protect the U.S. passport and has 
+reached a milestone of supplying over 250 million of those secure chips.  
+Infine on Technologies and Artificial Intelligence  
+Artifici al Intelligence is the transformative technology of our time. From manufacturing to retail, 
+healthcare to automotive, the ability of computer systems to perform cognitive functions that have traditionally only been associated with humans - such as perceiving, reasoning, problem-solving and learning - is having an incredible effect across multiple sectors and will be felt anywhere and 
+everywhere in our daily lives . 
+This r apidly evolving landscape profoundly affects the entire supply chain as component and 
+system suppliers become enablers of future high -performing, energy- efficient and reliable AI 
+applications. The semiconductor industry, in particular, plays an essen tial role in this development 
+-because AI applications are based on semiconductor solutions such as advanced sensors,
+microcontrollers, and memory solutions. AI hardware and the semiconductor industry are in aprime position to be a critical driver of future AI advances.
+As AI a pplications evolve, they become more comprehensive, complex, and application- specific. 
+While software brought the first development pushes in AI development, and hardware formed the basis of initial advances, the parallelism of hardware and software development will enable the next major AI breakthroughs, as the complexity of algorithms and computational models requires new performance dimensions of the associ ated technical components.  
+AI mode ls also require substantial computational power for training and inference, making them 
+incredibly energy hungry. The growth of AI will, therefore, drive increased demand for data center capacity that must be met through technologies that improve power efficiency and reliability. An energy- efficient and top -performing power supply is essential for AI data centers, 
+and the industry as a whole must minimize energy consumption, reduce costs, manage  heat, ensure reliability, and meet sustainability goals.  
+For co mpanies such as Infineon, these factors present exciting opportunities to enable the rapid 
+deployment of AI solutions across markets . That said , industry needs key government focus and 
+support in specific areas  to unleash this AI revolution. 
+1.AI and Power Management
+The wor ld is facing an exponential growth of digital data due to widespread digitization – from 
+smart cities  to automated driving, AI factory automation , cryptomining, generative AI, and many 
+other drivers. Indeed, the volume of data is expected  to increase  to 163 zettabytes by 2025 – ten 
+
+
+times the 16.1Z of data generated in 20161. Data centers serve as the bedrock for storing, 
+managing, and analyzing this information, including the critical data needed for the grid. While 
+U.S. data center annual energy use remained stable between 2014 and 2016 at about 60 TWh,  that use increased to 76 TWh by 2018, and reached 176 TWh by 2023 (over 4 percent of U.S. electricity consumption.
+2 Estimate s of future energy use range from 325 to 580 TWh by 2028, 
+which could translate to a total power demand for data centers between 74 and 132 GW, or from 6.7 to 12 percent of total U.S. electricity consumption by 2028.
+3 
+This d emand places a significant drain on the grid, making it less stable and resilient. Countries 
+with high numbers of data centers – for example, the United States, Germany, China, and Ireland –will feel this drain acutely.
+There  are multiple  existing  solution s, and ongoing R&D to find novel solutions, to increase the 
+efficiency of data centers and reduce the drain on the grid. I ncreasing the e nergy efficiency of 
+data center infrastructure will become a ne cessity as compute power increases and the need to 
+reduce the drain on the grid increases.  Innovative solutions are needed to enable low- power 
+accelerators for generative AI that accommodates large models while reducing data transfers.  
+Investments in specific areas of R&D are needed to move these innov ative solutions forward.  
+Effic iency standards spur innovation in power management solutions and can reduce power losses 
+(10-12 percent of the power is lost on the board) . Hardware solutions are also an important lever 
+to prevent a slowdown in the (gen) AI evolution. The power supply of existing data centers is limited in the mid -term because of the strains th ose data centers place on utility systems . 
+Therefore, it is imperative to improve the energy efficiency of AI server hardware and reduce power losses.  This will lead to increased computing power. 
+a.Power Semiconductors Can Make Power Use More Efficient from Grid to Core
+There ar e semiconductor technologies that are available (and more coming online) that can  
+increase power management in data centers. For example, Gallium Nitride- based (GaN) 
+semiconductors help increase efficiency and power densit y and lower complexity. GaN 
+semiconductors have high electrical conductivity and switching efficiency, thus helping to reduce energy consumption and improve energy efficiency of servers and data centers. Silicon- based 
+chips provide an optimized cost and performance solution and are suitable for any topology up to 150kHz switching. Silicon Carbide (SiC) provides a solution for hard-switching topologies, high voltages (>1000V) and high temperature operating conditions.  
+These different technologies can optimize energy efficiency when the correct technology is used 
+for the correct application.  Examples of such technologies include power modules for the AI 
+accelerators or network switches as Smart Network Interface Cards (SmartNICs) to bring power 
+1 IDC (2017): Data Age 2025 https://www.seagate.com/files/www -content/our -story/trends/files/Seagate -WP-
+DataAge2025 -March -2017.pdf  
+2 2024 United States Data Center Energy Usage Report , December 2024 : https://eta -
+publications.lbl.gov/sites/default/files/2024 -12/lbnl -2024 -united -states -data-center -energy -usage -report.pdf 
+3 2024 United States Data Center Energy Usage Report, December 2024 : https://eta -
+publications.lbl.gov/sites/default/files/2024 -12/lbnl -2024 -united -states -data-center -energy -usage -report.pdf 
+
+
+close to the processor and enabl e true vertical power delivery underneath the processor. Other 
+examples are Power Supply Units and Battery Backup Units, which consume considerable 
+amounts of power in a server rack .  
+Advanced pa ckaging, magnetics,  system architecture,  and smart controls and software are all 
+needed to realize novel power management architecture innovation in new materials such as SiC 
+and GaN. In fact, using the right system architecture that creates vertical power delivery (instead of lateral power delivery) can decrease power losses by 8 percent, which can save over 7 MWs for an average data center (100,000 CPU nodes). It can also decrease total cost of ownership  by about 
+12 percent and increase the power flow efficiency from 83 per cent to 91 percent.  
+b. Reco mmended Guidelines, Regulations, and Standards
+To in crease deployment of this technology, multiple stakeholders, including policymakers, 
+industry, researchers, and others have a role to play.  
+Industr y recognizes the challenges of data centers and their impact on the grid . Policymakers can 
+incentivize action that will increase power flow efficiency by:  
+-Establ ishing new standards for energy efficiency, water consumption and minimum
+utilization factors for AI data centers
+-Establish power efficiency  and utilization  KPIs for AI inference for edge devices , servers,
+and data storage products
+-Establish security standards for AI models and data storage and transfers for edge devices
+-Request regular reporting of energy efficiency KPIs from data center operators
+Based on our assumptions and calculations, with energy efficient solutions, a global electricity saving potential for data center s of around 10.5 percent , or 48.3 TWh annually could be realized . 
+For the United States, this could result in savings of 21TWh, thereby reducing strain on the grid and increasing compute power.
+4 
+2.Increase Comput e Efficiency  for Military Superiority
+Another key AI focus area for the United States, particularly in the defense context, is  research in 
+edge AI applications that increase compute efficiency – a focus area critical to maintain ing 
+leadership and an effective, modern defense. 
+AI applications are moving from the cloud to the device, or the “edge.” E dge AI devices are 
+critical  for enabling warfighters to deploy autonomous applications in harsh combat 
+environments. These specialized systems can process data locally without connectivity to central 
+networks, which allows for real-time decision -making while maintaining operational security and 
+reliability under extreme conditions where power sources may be limited or unreliable. The 
+4 IEA, Electricity 2024, Analysis and Forecast to 2026: https://iea.blob.core.windows.net/assets/6b2fd954 -2017- 408e -
+bf08-952fdd62118a/Electricity2024- Analysisandforecastto2026.pdf  
+
+
+ability to operate in areas with no connectivity is particularly vital. W arfighters often conduct 
+missions in remote or contested regions where communication infrastructure is damaged, 
+jammed, or nonexistent. These operations simultaneously face environmental challenges such as 
+extreme temperatures, dust, moisture, and radiation , and physical impacts that conventional 
+computing systems cannot withstand.  
+Applications like automated threat detection through compact sensor fusion systems, tactical 
+drone swarm coordination, and AI- powered battlefield situational awareness tools enable soldiers 
+to maintain decisive advantages without compromising mobility or increasing their electromagnetic signature in contested environments. Furthermore, real-time processing capabilities in space applications, particularly onboard satellites, can be instrumental for immediate threat detection, surveillance, and mission suppor t, eliminating transmission delays 
+and reducing vulnerability to communication disruptions while providing critical intelligence directly to forward -deployed units. 
+3. Promote state -of-the-art security and authentication (to include devise security and
+cryptography) for AI applications
+The rapid proliferation of AI -based software has revolutionized industries such as healthcare, 
+transportation, cybersecurity, and finance, driving significant technological progress. However, this growing dependence on AI systems also creates new vulnerabilities that malicious actors can exploit. A successful attack on these systems could lead to severe consequences, including data breaches, financial losses, or even physical harm. Consequently, the U.S. government should prioritize  the security of AI systems within the broader framework of cybersecurity risk 
+management, addressing the unique threats these technologies face.  
+While much of the current discourse surrounding AI centers on issues like bias, trustworthiness, and ethical implications, the security of AI itself demands equal attention. AI -specific threat 
+vectors, if left unaddressed, could heighten risks to national security and public safety.  
+Fortunately, both public and private sectors can adopt established best practices to bolster the security of AI systems. As the complexity of security challenges grows, particularly with the shift toward edge devices, safeguarding AI becomes even more critical. Edge devices, which process data locally rather than in the cloud, are especially vulnerable to tampering, malicious updates, and breaches in data path integrity. Securing AI at the edge is essential for the operational safety of these devices and for protecting user privacy and  has major national security implications for 
+the military uses of edge AI. 
+In data centers, hardware security provides a foundational layer of protection, leveraging 
+technologies like Trusted Computing, isolated processing, and cyber resilience. These well -
+established tools are widely implemented and form a robust base for secure infrastructure. Nevertheless, as adversaries refine their techniques, ongoing research is necessary to stay ahead of emerging threats.  
+Similarly, AI- enabled sensors, designed for remote data analysis and enhanced privacy , offer 
+significant benefits but can become entry points for malicious activity if not properly secured. 
+
+
+These sensors, which perform AI tasks in isolated environments and minimize data transmission, 
+enhance security by reducing exposure. However, vulnerabilities in their AI functions can still be exploited, posing risks to both individual devices and broader systems.  
+AI-enabled sensors face three primary types of threats that require mitigation. First, tampering 
+with the AI model on the device can lead to incorrect decisions, potentially granting unauthorized access or blocking legitimate users. Second, malicious softw are or firmware updates can 
+compromise the sensor’s functionality. Third, maintaining the integrity of the data path from the sensor to its output is crucial because intercepted or altered data could subtly skew outcomes in 
+ways undetectable to humans. For instance, a compromised AI -enabled camera on a smart lock 
+could allow unauthorized entry by accepting a spoofed profile, or it could deny access to legitimate users, effectively creating a new form of distributed denial -of-service (DDoS) attack.  
+The risks associated with AI -enabled sensors extend beyond individual devices to entire systems. 
+For example, a tampered camera in a smart home could unlock doors for intruders by injecting falsified images, or it could block specific individuals, denying them entry across multiple access points. These vulnerabilities also apply to public spaces, buildings, and infrastructure where AI sensors manage access privileges. Beyond access control, AI models that regulate traffic flow  
+based on camera feeds are equa lly susceptible. If tampered with, these systems could disrupt 
+traffic patterns or cause accidents, highlighting the broader implications of unsecured AI. 
+These security challenges are not unique to camera-based systems; they also inform other 
+applications, such as voice-controlled access or autonomous vehicles, which rely heavily on computer vision and sensor data. A breach in any of these contexts could ha ve cascading effects, 
+undermining safety and trust in AI technologies. While the potential consequences are significant, actionable best practices exist to mitigate these risks. The U.S. government should take a proactive role in promoting and incentivizing their adoption across industries. 
+One effective strategy to prevent model tampering is to secure AI models used solely for 
+inference which are not intended to change unless legitimately updated. Locking these models in protected storage and permitting updates only from trusted, authenticated sources can safeguard their integrity. Additionally, encrypting models while stored and decrypting them on ly during 
+execution protects against intellectual property theft and unauthorized modifications. These measures, while straightforward, require consistent implementation to be effective.  
+To fully address AI security, the government must go beyond technical solutions and establish policies that encourage widespread adherence to best practices. Incentives could include funding for research, tax benefits for compliant organizations, and support for minimum security standards. As AI continues to permeate critical sectors, securing these systems is not just a technical necessity but a national priority.  
+To counter the rising tide of cyberattacks, the U.S. government should encourage AI security 
+initiatives that prioritize robust cybersecurity frameworks. These efforts focus on deploying AI-driven systems to detect and mitigate threats instantly. The following recommendations outline potential strategies and actions.  
+
+
+•Develop predictive AI models to forecast potential cyberattacks, enabling proactive
+measures to strengthen digital resilience;
+•Allocate resources to deploy AI systems capabilities in real -time to detect and neutralize
+cyber threats;
+•Create global and regional AI-powered Cybersecurity Operations Centers to centralizemonitoring and coordination of cyber incidents across borders, fostering a unified defensenetwork;
+•Utilize AI in digital forensics to investigate cybercrimes, fraud, and illegal activities,streamlining evidence analysis and case resolution ; and
+•Encourage investment in research and development to advance AI-driven technologies,
+such as encryption, anomaly detection, and automated response systems to keep pace with
+evolving threats .
+4.Priority Focus Areas for Research and Development
+To continue to move forward with innovation solutions for making power use more efficient for 
+AI, and specifically in data centers, there are two specific areas in which the United States should increase its investment in research and development : magnetics and passives. 
+With high density power solutions needed to  meet the energy requirements of datacenters , 
+magnetics and passives will play an increasingly important role in efficient system design. To 
+date, significant amounts of this work is done in Asia, and there are few companies focused on innovating and manufacturing inductors, transformers, capacitors,  and connectors in the United 
+States. Magnetics are increasingly becoming a bottleneck. Thermal design faces the same issues with innovation and manufacturing focused in Asia.  
+There is a clear need for innovation in magnetics and passive design in the United States to  
+maintain the lead in powering AI. 
+5. Collaboration with Like -Minded Countries
+In order for the United States to lead on AI, it must collaborate with like -minded countries. This 
+collaboration can  address global national and economic security challenges that AI development 
+faces and incentivize a trusted supply chain for the technologies necessary for AI dominance. 
+Collaboration with like -minded countries can also  facilitate R&D, can build a workforce fit for 
+purpose through exchanges, and can improve access to essential technologies. 
+
+

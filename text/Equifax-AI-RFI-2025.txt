@@ -1,0 +1,108 @@
+Harald Schneider  
+Chief Data and Analytics O ﬃcer  
+Mr. Kirk Dohne  
+Acting Director  
+Networking and Information Technology Research and Development (NITRD) National 
+Coordination O ﬃce (NCO) 
+490 L'Enfant Plaza SW, Suite 8001 
+Washington, DC 20024 
+Submitted via email at  
+March 15, 2025 
+Re: Request for Information on the Development of an Arti ﬁcial Intelligence (AI) Action Plan, Docket No. 
+2025-02305 (90 FR 9088)  
+Dear Acting Director Dohne,  
+Equifax appreciates the opportunity to comment on the development of the Arti ﬁcial Intelligence (AI) 
+Action Plan, as requested under the President’s Executive Order on “Removing Barriers to American Leadership 
+in Arti ﬁcial Intelligence.”  We believe the Administration’s inclusion of industry leaders and stakeholders is 1
+critical to ensuring there are appropriate standards developed and adopted in this rapidly emerging space, and 
+appreciate the eﬀort as demonstrated by this Request for Information. Equifax has been driving responsible AI 
+innovation for nearly a decade with a commitment to ensuring transparency and explainability in the use of AI. 
+This investment is evidenced by our more than 300 pending and granted patents supporting our approach to 
+AI, which put us in a unique position to provide input as the Oﬃce of Science and Technology Policy (OSTP) 
+continues to develop and re ﬁne standards and techniques to maximize the bene ﬁts of AI while minimizing the 
+risks to consumers.  
+We believe that the bene ﬁts of AI must be balanced by the adoption of an AI framework built on guiding 
+principles, including transparency, explainability, and fairness, applied to the development and use of AI broadly. 
+We believe that the AI Action Plan should capture those objectives and urge regulators to consider the relevance 
+of, and impact of, any standards on the speciﬁc needs of di ﬀerent industries, use cases, and speci ﬁc types of AI 
+(for example, using machine learning as compared to generative AI built using foundational large language 
+learning models). Equifax’s comment focuses on our experience in the credit reporting industry and leveraging an 
+industry-speciﬁc framework that has allowed for the development and use of AI not only for operational 
+eﬃciencies and improvements, but also in the creation and adoption of transparent, explainable AI models that 
+improve predictability.  
+Advance Responsible Technical Standards for AI Development: Best Practices for Data Analysis, Model Training, and 
+Explainability  
+Explainability is a foundation of the credit reporting industry – our regulatory structure is premised 
+upon transparency and explainability of a credit decision. Accordingly, credit scoring models used as part of a 
+lending decision to deny an applicant credit, largely on the terms requested, must be able to inform the 
+consumer what attributes contributed to the decline. In practice, this means the model must be fully 
+explainable to everyone involved in its use: the modeler, the risk manager and lender using it, the regulators 
+who examine it, and most importantly, the consumer impacted by it.  
+Credit scoring systems, including systems that leverage AI, must meet certain regulatory requirements to 
+qualify as “an empirically derived, demonstrably and statistically sound, credit scoring system.”  These 2
+requirements include the ability to return adverse action codes, or reason codes, that point a consumer to 
+2 12 C.F.R. § 1002.2(p)(1). 1  Executive Order No. 14179, 90 FR 8741 (Jan. 23, 2025). 
+
+
+information on his or her credit report that led to a denial of credit. In order for this to occur, one m
+to explain the model in  
+detail. That means the impact of every attribute on the ﬁnal score must be able to be accounted for in the model. 
+The explainability requirement has been in place for many years and has been reiterated by ﬁnancial regulators 
+speci ﬁcally with regard to AI credit scoring systems.3
+The systematic way in which Regulation B addresses credit scoring models, may be a paradigm 
+that can be applied more generally to other AI models. Under Regulation B, AI credit scoring systems must 
+be:  
+i. Based on the data that are derived from an empirical comparison of sample groups or the population of
+creditworthy and non-creditworthy applicants who applied for credit within a reasonable period of time;
+ii. Developed with the purpose of evaluating the creditworthiness of applicants with respect to the
+legitimate business interests of the creditor utilizing the system;
+iii. Developed and validated using accepted statistical principles and methodology; and
+iv. Periodically revalidated by the use of appropriate statistical principles and methodology and adjusted as
+necessary to maintain predictive ability.  4
+Every Equifax AI credit scoring system model meets these requirements because we build explainability into our 
+models by default.  
+Unlike Equifax AI credit scoring system models, many generalized AI models may be unable to solve 
+speci ﬁc problems or answer speci ﬁc questions because they are built using vast amounts of input data without 
+context or constraints that allow the model to “learn” patterns in the data. The models then generate responses 
+to queries based on those learned patterns, which may not be factually based. Some generative AI models have 
+demonstrated a tendency to “hallucinate” or trend oﬀ on tangents that do not answer the question posed or 
+provide false information to the user.  Examples abound. Having a robust, systematic framework similar to that 5
+set forth for credit scoring systems in Regulation B may help build con ﬁdence that a generative AI model has not 
+hallucinated, or otherwise created unintended consequences for consumers, particularly in industries and use 
+cases where such conﬁdence would be desirable.  
+Regulation B imposes a requirement for deep knowledge of the speci ﬁc subject to be incorporated into 
+the model. AI credit scoring systems therefore di ﬀer from generative AI models because the data, the model, 
+the outputs, and the explanations are all speci ﬁcally tuned to the precise problem for which these AI credit 
+scoring systems are developed. Other areas of inquiry are realizing similar results. We therefore believe it is 
+important that depth of knowledge in a speciﬁc subject be considered in any AI regulatory framework.  
+Fairness  
+An AI regulatory framework must include protections to support fairness. Equifax is committed to using AI in a 
+responsible and trustworthy manner and maintains the core principle that data and solutions we create must be 
+free from bias and not create unintended consequences for consumers. For example, AI credit scoring systems 
+are required to omit certain protected class information in evaluating creditworthiness. In Equifax’s AI credit 
+scoring systems, any two people – one a member of a protected class and another not – who have identical data 
+on their respective credit reports evaluated by our AI models will receive the exact same credit score. This fairness 
+test is known as fairness through unawareness. That is, the model evaluates every person identically without 
+regard to or knowledge of one’s membership in any protected class. This test was empirically evaluated in a credit 
+scoring system by economists from the Federal Reserve Board and discussed in detail in the Report to Congress on 
+5  See, e.g., http s : / / w w w . ib m . co m / to p ics / a i- ha llucina tio ns .4  12 C.F.R. § 1002.2(p)(1). http s : / / w w w . co ns um e r ﬁ na nce . g o v / r ule s - p o licy / r e g ula tio ns / 1 0 0 2 / 2 / # p - 1 . 3 Regulation B details the explainability requirements for every credit scoring system. 12 C.F.R. § 1002.9(a)(2). 
+http s : / / w w w . co ns um e r ﬁ na nce . g o v / r ule s - p o licy / r e g ula tio ns / 1 0 0 2 / 9 / # a - 1 .
+
+
+Credit Scoring and Its E ﬀects on the Availability and Aﬀordability of Credit .  Using the requirements liste6
+Regulation B, and a data set containing known protected class status for race, ethnicity, gender, and age, 
+extracted from self-reported application data, the authors of The Report found no disparate impact in their credit 
+scoring system. This provides a strong basis in evidence, that using the appropriate data for modeling and testing 
+is appropriate.  
+In closing, we appreciate the opportunity to comment and your thoughtful consideration of the issues 
+raised in this letter. We applaud the e ﬀorts to develop an Action Plan to standardize the implementation of AI 
+across facets of the technology landscape. As the AI Action Plan begins to take shape, we welcome the 
+opportunity to further engage with your o ﬃce to share our expertise in arti ﬁcial intelligence in credit scoring 
+systems and the deployment of AI in the ﬁnancial services sector. If this comment raises any further questions, 
+please contact 
+Sincerely,  
+Harald Schneider  
+Chief Data and Analytics Oﬃ cer  
+6 https://www.federalreserve.gov/boarddocs/rptcongress/creditscore/creditscore.pdf
+
+

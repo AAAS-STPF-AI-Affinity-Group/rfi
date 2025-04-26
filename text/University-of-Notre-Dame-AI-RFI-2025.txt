@@ -1,0 +1,328 @@
+The University of Notre Dame 
+Response to the Request for Information on the Development of an Artificial 
+Intelligence (AI) Action Plan 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused 
+by the government in developing the AI Action Plan and associated documents without 
+attribution. 
+ 
+Introduction 
+The University of Notre Dame is pleased to provide a comprehensive response to the 
+Office of Science and Technology Policy’s (OSTP) request for input on the development 
+of a national artificial intelligence (AI) action plan. In our response, we will address key 
+priorities for advancing AI research and policy in alignment with the OSTP’s objectives, 
+focusing on five core categories: research, workforce development, safety, ethics, and 
+policy. We recognize the growing concerns across various sectors about the potential 
+risks associated with AI, including bias, inequitable access, safety vulnerabilities, and 
+ethical challenges. In light of these concerns, we propose suggestions for an action plan 
+that will guide the responsible, inclusive, safe, and ethical development of AI 
+technologies, while ensuring that AI remains a tool for enhancing human well-being, 
+empowering individuals, and advancing societal progress. Through our detailed 
+recommendations in the areas of research, workforce development, safety, and policy, 
+we aim to contribute to shaping a future where AI is developed and deployed in a 
+manner that benefits all. 
+ 
+Research 
+We have identified various opportunities for research advancement in the field of AI. It 
+is critical that the United States maintains its leadership in advancing both fundamental 
+and applied AI research. This requires a concerted effort from government, industry, 
+and academia to foster development of new algorithms, new computing paradigms, 
+accelerate scientific discovery, and identify innovation pathways to spur new start-ups. 
+Continuing to bolster the American research ecosystem will ensure that the United 
+States remains at the forefront of innovation. 1. (Opportunity) Open-source all federally funded fundamental research content. 
+We advise the creation of a framework for AI governance to allow each federally 
+funded program to clearly state the parameters of open source disclosure of 
+fundamental research content (papers, software, data). The program will provide 
+a risk management matrix for such research. Making this content AI-accessible 
+would accelerate discovery across all fields. 2. (Opportunity) Small (<$1M) and midscale research infrastructure (<$20M) 
+grants for AI-enablement. We are in the process of discovering what an 
+1 
+
+
+AI-enabled laboratory looks like - it's clear that it varies by domain, involves 
+more data capture, and involves more automation. Researchers and institutions 
+need the means to experiment and reimagine research spaces. 
+3.(Opportunity) Investments in reproducible research. AI may dramatically
+improve scientific reproducibility by automating experimental procedures,
+standardizing data collection, and performing verification and contradiction
+resolution which are poorly incentivized in the current research culture. Pilots for
+building these systems and integrating them with different modes of research
+need to be launched.4.(Opportunity) Investments in fundamental research to create new foundational
+AI models that can work with lower compute and lower data footprint. It is
+essential that academia focuses on approaches such as knowledge distillation,
+federated learning, domain-informed fine tuned language models, explainability,
+and transparency. It will not be possible for academia to compete with private
+sector investments in computing infrastructure and data.5.(Opportunity) Investments in forging a public-private partnership that allows
+dedicated compute and data sandboxes for co-innovation. The United States
+research ecosystem has excelled due to the academia-industry-government
+co-innovation ecosystems. It is critical to double down on such existing
+frameworks to accelerate research progress and create pathways for fundamental
+research to innovation to translation in AI.6.(Opportunity) Edge and Federated AI advances to develop AI methodologies to
+work on edge devices and also in a federated framework at remote sites such that
+data can be protected. Applicable to various strategic areas such as drones,
+robotics, scientific discovery,  next-generation wireless technologies (e.g., 6G and
+beyond), etc.7.(Opportunity) Promote the development and deployment of AI-powered robotic
+systems in critical sectors including healthcare, infrastructure, manufacturing,
+agriculture, and disaster response to enhance safety, productivity, and
+adaptability.
+8.(Opportunity) Establish Responsible Safe and Ethical AI guidelines for informing
+the current and next generation of AI systems. This includes establishing testbeds
+and regulatory sandboxes to safely evaluate and accelerate the deployment of
+robotic technologies in real-world environments.
+Beyond identifying areas for growth, we have also determined four key risk areas that 
+threaten innovation and technological advancement. 
+2 
+
+
+1. (Risk) Obsolete culture and methods for domain assurance and validation. As we 
+move away from interpretable models towards black-box predictions, 
+establishing trust, validating results, and maintaining scientific rigor becomes 
+increasingly difficult. New frameworks for verification and validation must be 
+developed. 
+2. (Risk) Ad hoc institutional responses. Current approaches to AI integration in 
+research lack coherent, systematic frameworks. Institutions need to develop 
+sustainable strategies that address domain assurance, workforce development, 
+and infrastructure challenges simultaneously. 
+3. (Risk) Incomplete guidance and framework for open source of AI software and 
+data creates a lack of a consistent reproducibility and repeatability rigor. It will be 
+important to also establish standard benchmarks.  
+4. (Risk) Insufficient access to computational and data resources can hamper 
+research in both basic and applied AI.  
+Workforce Development 
+New AI technologies are expected to have a significant impact on future 
+manufacturing operations, workers, and jobs. While most people believe AI technologies 
+will naturally displace these jobs, we believe AI technologies should be viewed as 
+another tool available to the worker. Similar to the way computer numerical controls 
+(CNCs) replaced hand lathes to not only improve efficiency but relieve workers from 
+physically demanding and potentially dangerous work, AI technologies have the 
+potential to improve efficiency while relieving workers of repetitive tasks and providing 
+them with highly desirable jobs in which they can unleash their creativity by working 
+collaboratively with these technologies.  
+Industry is rapidly evolving with the adoption of AI and emerging technologies. 
+In order to ensure a pipeline of workers to maintain America’s AI dominance, we must 
+create workforce development programs that merge hands-on learning with theoretical 
+knowledge and practical skills, including proficiency in AI tools. We must seek to 
+address the widening skills gap by cultivating a workforce capable of interdisciplinary, 
+creative problem-solving, ensuring that both emerging professionals and current 
+practitioners are well-equipped to drive societal transformation in an era of rapid 
+technological change.  
+Where gaps in the labor force emerge as a result of the integration of AI, we must 
+ensure that there is wholehearted commitment to programs that promote upskilling, or 
+opportunities to increase and advance skills in a targeted area. In focusing on 
+ameliorating skill gaps among existing workers, the United States can remain dominant 
+in the field of AI, while ensuring that the nation’s workforce is strong and well-equipped 
+to adopt technological advances.  3 
+
+
+Furthermore, when considering a longitudinal view of the nation’s workforce 
+abilities, it becomes clear that, in order to responsibly cultivate the next generation of 
+workers, it is our responsibility to prepare students for a future where AI becomes 
+increasingly powerful and plays important roles in productivity tasks and in our daily 
+lives, not least by cultivating in them the skills necessary for effective and ethical 
+human-AI collaboration. We advocate for a curriculum that not only incorporates AI 
+tools, but also critically examines their limitations and potential affordances. This 
+approach has the potential to cultivate a new generation of workers who are not only 
+precise and proficient in their use of generative AI, but also conscientious about the 
+ethical dimensions of these technologies . 
+Despite much discussion and debate surrounding AI technologies, jobs and tasks, 
+workers and skill, and labor market constraints and inequality in manufacturing, there 
+has been no in-depth study that examines the future of work of factory floor workers 
+holistically from an integrated economic, technological, organizational, and sociological 
+framework. Developing a framework where manufacturing firms, including small and 
+medium-sized enterprises, can use when adopting AI technologies so that they may 
+symbiotically grow as workers and firms in their local economies will be important. 
+Below we outline opportunities and risks that could be explored in such a study. 
+1.(Opportunity) Workforce transformation enablement.  Large swathes of
+professional work are already obsolete, creating a massive opportunity for
+redeploying and equipping the current workforce to redesign their industries. We
+can expect a transformation comparable to the entire digital revolution but
+concentrated into a decade.
+2.(Opportunity) Enhanced skill acquisition and expert knowledge
+dissemination.  Training is better than ever with AI providing immediate
+feedback and personalized instruction that accelerates learning. Complex skills
+can now be mastered in months rather than years. Simultaneously, AI enables the
+systematic capture and dissemination of tacit knowledge from experts in
+universities and institutions before it's lost to retirement, creating unprecedented
+knowledge transfer across generations.3.(Opportunity). Interdisciplinary and experiential learning
+opportunities for both undergraduate and graduate students. It is
+important to ensure that the students are equipped not only to have a deep
+understanding of fundamental AI (spanning algorithms to underlying computing
+architecture) but also have an experience in applying AI to solve domain specific
+problems.4.Risk) Programs to offset occupational obsolescence.  Comprehensive
+upskilling of the current generation of workers may be necessary over the next
+4 
+
+
+decade to keep pace with AI integration. Those unable to adapt may find 
+themselves increasingly marginalized leading to large social dislocations. 
+5. (Risk) Traditional training models are too slow and costly. AI advances 
+are on pace to require massive upskilling and redeployment of the current 
+workforce, but our traditional training infrastructure is inadequate for the scale 
+and speed of transformation needed. Educational institutions and corporate 
+training programs must evolve rapidly. 
+Responsible, Inclusive, Safe, and Ethical AI 
+Given the rapidly emerging nature of AI, stakeholders across all sectors have expressed 
+significant concerns about bias, inequitable access, safety vulnerabilities, and ethical 
+uncertainties of AI. Not to be interpreted as opposition to the integration of AI, rather, 
+the concern for responsible deployment of a technology as expansive and with as much 
+potential as AI demonstrates an understanding of its power and a sense of responsibility 
+to ensure it is deployed thoughtfully. This highlights the urgent need for a guiding 
+framework for the role of AI at the interface of different domains and disciplines while 
+ensuring that AI technologies are developed and applied responsibly, inclusively, safely, 
+and ethically. 
+ 
+When considering necessary guardrails for the promotion of AI safety, we believe that 
+there are four aspects that should be considered—AI as Responsible, Inclusive, Safe, and 
+Ethical (RISE). 
+ 
+We see the following research and training areas as key priorities for sustaining AI 
+dominance in the United States while prioritizing safety and responsibility. ● Responsible:  
+○ Designing, developing, deploying, and studying interactive AI systems to 
+enhance human-AI collaboration, augment human intelligence, and 
+democratize access to AI empowerment technologies in a responsible way. 
+○ Mechanisms for measuring, evaluating, and informing users of the 
+potential privacy and safety risks associated with the use of Large 
+Language Models (LLMs) and LLM-powered agents, especially in critical 
+domains e.g., health care, social services. 
+○ AI Tools that improve AI literacy of end users and help them make 
+informed decisions aligned with their own values and long-term interests. 
+○ Policies to standardize data sharing formats and practices for 
+pharmaceutical companies and organic chemists more broadly.  
+● Inclusive 
+5 
+
+
+○Designing, developing, and deploying AI systems that bridge instead of
+widen the existing economic disparities in the US.
+●Safe:
+○Interdisciplinary research to advance the trust and reliability of AI when
+applied to systems involving humans (such as biometric recognition) and
+serving humans (such as AI-assisted systems aiding human experts).
+○Testbeds and sandboxes for assessing and benchmarking the safety and
+trustworthiness of AI models/agents.
+●Ethical
+○Systems for the measurement, evaluation, and alignment of model and
+agent behaviors to human values.
+○Creating interpretable, advanced AI-driven models must foster rational,
+proactive, and ideology-free policy-making across multiple governance
+domains, including public policy, corporate governance, and regulatory
+frameworks. By embedding ethical safeguards, rigorous validation, and
+continuous oversight, these models can enhance decision-making
+processes, mitigate systemic risks, and ensure equitable and accountable
+outcomes in an increasingly data-driven world.Furthermore, the University of Notre Dame is dedicated to ensuring that AI deployment 
+aligns with global human rights norms and democratic principles. 
+An Ethics-Based Framework for AI 
+We believe that Notre Dame has a unique role to play in convening, leading, and 
+amplifying the voices of leaders in higher education, technology, and faith-based 
+communities who are invested in developing faith-based ethical frameworks and 
+applying them to emerging debates around AI. At this time, the University is creating a 
+powerful network of innovative, influential leaders who will be actively immersed in this 
+work.  
+We strongly encourage the government to be deliberate and thoughtful in its inclusion 
+of voices of faith in AI policy discussions and decisions so that our collective uses of this 
+powerful new technology can move beyond compliance to the realm of human 
+flourishing.  
+Through a variety of strategic research initiatives, we have come to the following initial 
+conclusions: 
+6 
+
+
+● There is a great need for context-specific ethical frameworks and context-aware 
+LLMs. The way that geopolitical conflict, for example, is portrayed by these 
+models can have an outsized impact on moments of heightened social unrest and 
+civil conflict in the present. In addition, local communities can benefit greatly 
+from these powerful new technologies if their contexts and use-case needs are 
+kept in mind by policymakers and tech companies. 
+● AI serves to accelerate any pre-existing dynamics related to society’s use of digital 
+technologies. Therefore, there is a greater need than ever to double down on 
+commitments to transparency, the right to privacy, and individuals’ fundamental 
+ownership over their own data.  
+● Existing frameworks and standards for AI governance are not always easily 
+transferable to new contexts or rapid developments in the technology itself. This 
+means that individual businesses, sectors, and communities will need to be 
+equipped to establish apt governance of emerging AI technologies at the 
+appropriate level (whether international, federal, state, or local) and in the 
+relevant industry or domain. Material investments in technology infrastructure 
+and access will need to be made to achieve this goal.  
+Policy 
+Effective AI development depends heavily on securing superior data, robust computing 
+infrastructure, and highly skilled talent. Therefore, policies should actively nurture AI 
+expertise within the U.S. education system while also incentivizing talented individuals 
+educated in the U.S. to remain and innovate domestically.  
+ 
+Based on our research and expertise, as well as our collaborations with global AI 
+governance experts, we propose the following key policy actions: 
+  1. Establish a National AI Trust Framework that incorporates blockchain, 
+decentralized identifiers (DIDs), and verifiable credentials (VCs) to ensure secure 
+AI model and data provenance tracking while preserving privacy.  
+2. Enhance AI cybersecurity protections by integrating privacy-preserving 
+mechanisms such as zero-knowledge proofs (ZKPs), federated learning, and 
+robust AI security standards to mitigate adversarial threats and safeguard AI 
+systems from data poisoning and manipulation. 
+3. Develop AI governance models that leverage decentralized, transparent systems, 
+reducing the risks associated with centralized control over AI technologies. Our 
+research in blockchain governance, smart contract accountability, and 
+decentralized AI governance through the NSF Cyber SMART Project and BGIN 
+supports this initiative. 
+7 
+
+
+4.Align AI policy with global human rights frameworks, ensuring that AI adoption
+in government, industry, and academia adheres to international ethical
+standards.
+5.Regulate AI’s role in corporate governance and accountability, recognizing that
+large technology corporations wield significant influence over AI policy and
+deployment.
+6.Invest in AI education and workforce development, ensuring a diverse talent
+pipeline capable of responsible AI innovation. This includes expanding
+interdisciplinary AI governance research, supporting AI ethics training, and
+integrating AI literacy into STEM and policy education.
+7.Significantly expand AI computing resources for U.S. science and research. The
+United States must make substantial, strategic investments in AI computing
+infrastructure to support scientific discovery, innovation, and national
+competitiveness. The National Artificial Intelligence Research Resource (NAIRR)
+is a commendable initiative toward democratizing access to AI resources;
+however, it requires a more aggressive budget to meet the growing demands of
+the research community. The NAIRR Task Force's final report, published in
+January 2023, estimated that $2.6 billion would be required to operate the
+NAIRR over six years, with $2.25 billion allocated for resource availability across
+multiple federal agencies. Despite this, the current budget request includes only
+$30 million for the second year of the NAIRR pilot, a figure that falls significantly
+short of the necessary investment. Without adequate funding, the NAIRR cannot
+effectively bridge the gap between resource-rich corporations and academic or
+smaller research entities, potentially hindering innovation and equitable access to
+AI advancements. We strongly urge the government to prioritize and
+substantially increase funding for the NAIRR and related AI infrastructure
+projects to ensure that AI advancements are not monopolized by a select few but
+are accessible to a broad spectrum of researchers and institutions.8.Invest in sustainable and energy-efficient hardware design for scaled AI, allowing
+the United States to facilitate larger scale deployment and training of future AI
+systems, enabled by research and investments in low-carbon, energy-efficient AI
+hardware development. Specifically, we recommend investment in Chips-for-AI
+programs to create specialized hardware and techniques optimized for AI,
+significantly reducing energy consumption and carbon footprints. We
+recommend pairing directed investment with the use of program incentives to
+streamline semiconductor design and manufacturing processes, enhancing
+innovation, reducing waste, and furthering sustainability goals. We believe that
+8 
+
+
+encouraging robust partnerships between industry and academia will accelerate 
+the commercialization of sustainable hardware innovations. 
+These aforementioned policy actions leverage existing research expertise and align with 
+national objectives on sustainability, technological advancement, responsible AI 
+governance, and equitable workforce development. 
+Our research and global collaborations directly support the U.S. government’s goal of 
+maintaining AI leadership while ensuring security, privacy, human rights, and ethical 
+responsibility. We welcome continued engagement in shaping AI policy at the national 
+and international levels. 
+ 
+Collaborators at the University of Notre Dame 
+Individuals that contributed to this Request for Information include representatives 
+from the Keough School of Global Affairs, the Center for Research Computing , the Lucy 
+Family Institute for Data and Society , the Institute for Ethics and the Common Good, 
+and the College of Engineering . 
+ 
+ 
+9 
+
+

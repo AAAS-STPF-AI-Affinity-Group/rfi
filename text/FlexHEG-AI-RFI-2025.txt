@@ -1,0 +1,375 @@
+Public Comment in response to the Request for Information (RFI) on the 
+Development of an Artificial Intelligence (AI) Action Plan 
+ 
+ 
+FlexHEGs: Hardware-Enabled Security to 
+Support American AI Leadership 
+ 
+ 
+March 15, 2025 
+ 
+ 
+ 
+Addressed to: 
+Faisal D'Souza, NCO 
+Office of Science and Technology Policy 
+Executive Office of the President 
+2415 Eisenhower Avenue 
+Alexandria, V A 22314 Addressed from: 
+Ethan Ashkie 
+Chief Executive Officer 
+Survival and Flourishing .Com, PBC 
+2991 Sacramento St #516 
+Berkeley, CA 94702  
+ 
+ 
+ 
+Submitted by email to  
+ 
+ 
+ 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution. 
+ 
+ 
+ 
+1 
+
+
+Introduction 
+We strongly support the Administration's effort to define priority policy actions needed to sustain 
+and enhance America's AI dominance. In this submission, we outline a highly promising 
+computer chip security mechanism called a Flexible Hardware-Enabled Guarantee 
+(FlexHEG) , which could solve critical security challenges while cementing American leadership 
+in AI development. 
+ 
+Recent advances in AI capabilities suggest that even more powerful systems will emerge over 
+the coming years. The Administration faces dual challenges: accelerating American innovation 
+while ensuring that powerful AI technologies are not used by foreign adversaries to threaten US 
+national security interests. A hardware-based approach that provides verifiable security measures 
+while allowing unfettered domestic innovation would address both challenges simultaneously. 
+ 
+FlexHEG technology is thus ideal for advancing American interests: a security system that 
+would be integrated into AI chips, combining a tamper-proof enclosure with a secure processor 
+to enable trustworthy, privacy-preserving verification and enforcement of claims about how 
+those chips are used. This technology would allow the US to extend its technological leadership 
+while enforcing accountable development practices. 
+ 
+What Are FlexHEGs? 
+ 
+FlexHEG systems combine two key components: 1. Secure processor: This component measures the AI chip's operations and can enforce 
+security policies or verify claims about chip usage. Unlike typical cybersecurity 
+approaches, the secure processor provides hardware-level verification that cannot be 
+circumvented by software manipulation. 
+2. Tamper-proof enclosure: This physical protection prevents unauthorized access to the 
+hardware, ensuring that security measures cannot be bypassed through physical 
+modifications. If tampering is detected, the system can trigger countermeasures ranging 
+from simple alerts to complete self-disablement. 
+ 
+These components work together to create a technical foundation for verifiable claims about chip 
+usage while maintaining privacy. Most importantly, FlexHEGs would be designed to be fully 
+open-source and auditable, making it suitable for deployment in contexts where trust is 
+limited—such as export-controlled chips sent to lower trust jurisdictions or security-critical 
+applications. 
+2 
+
+
+The secure processor would operate like a black box recorder for AI systems—monitoring what 
+happens without unnecessarily restricting operations for legitimate users. For exports or high-risk 
+deployments, additional restrictions could be configured as needed. 
+Early prototypes of FlexHEGs have already been demonstrated. Initial scoping work has begun, 
+supported by philanthropic funding. An interim report has been prepared1, and an updated 
+comprehensive report will be available to the Administration shortly. 
+Enhancing American National Security 
+Preventing Theft and Unauthorized Access to AI Systems 
+The theft of American intellectual property and AI model weights represents an increasingly 
+serious threat to our technological advantage. Losses of IP aren't just economic—they erode 
+America's technological edge by providing adversaries immediate access to capabilities that may 
+have required billions in R&D investment to create. 
+FlexHEGs would introduce strong hardware-based protections that go beyond software security 
+measures: ●Tamper-responsive enclosure: Advanced physical protection of chips, with sensors to
+detect tampering attempts and trigger deletion of data before it can be exfiltrated.
+●Model weight encryption: In-line encryption to protect all data that leaves the secure
+enclosure.
+These protections would prove particularly valuable for advanced AI models that represent the 
+product of computational resources strategically denied to adversarial nations through export 
+controls. A single theft of a frontier AI model could significantly undermine US strategic 
+advantage by providing adversaries immediate access to refined intellectual property derived 
+from restricted computational resources. 
+Securing Exports While Expanding Markets 
+A key advantage of FlexHEGs is their ability to maintain security controls even after AI chips 
+have been shipped to lower trust jurisdictions. Without hardware-based security measures, the 
+Administration faces a stark choice: either restrict exports of advanced AI chips (severely 
+limiting market access for American chip manufacturers) or accept significant security risks. 
+FlexHEG systems would enable: 
+1 https://yoshuabengio.org/wp-content/uploads/2024/09/FlexHEG-Interim-Report_2024.pdf  
+3 
+
+
+● Controlled deployment in lower trust environments: American AI models could be 
+deployed internationally, with FlexHEGs providing an additional layer of security on top 
+of conventional defenses for protecting model weights  
+● Verification of operating restrictions: Exports could be configured to only permit 
+approved uses, with hardware-level verification 
+● Remote disablement: Configuration options could allow US authorities to remotely 
+disable chips if they are diverted to unauthorized uses or locations 
+ 
+This approach mirrors successful precedents such as Trusted Platform Modules (TPM) which 
+enable systems to operate securely in adversarial environments, and Hardware Security Modules 
+(HSM) which are used by the American cryptography industry to protect sensitive operations. 
+ 
+Bolstering American Technology Leadership 
+ 
+Maintaining Compute Advantage Through Hardware Security 
+Computational capacity represents a crucial advantage for American AI development, in 
+particular the development of the most advanced frontier AI models. Unlike data or algorithms, 
+compute is a relatively controllable resource, making it an effective point of leverage for national 
+technology policy. Current export controls aim to preserve America’s current advantage by 
+denying adversaries access to advanced AI chips, but this approach faces growing challenges 
+from smuggling and the development of alternative chips. 
+FlexHEGs provide a more effective approach to maintaining compute advantage: ● Verification of chip usage: Hardware-level monitoring of how chips are being utilized 
+could ensure compliance with export restrictions 
+● Prevention of cluster aggregation: FlexHEGs could prevent unauthorized clustering of 
+chips into larger systems capable of training the most advanced models 
+● Quantitative limits: Systems could be configured to enforce specific compute 
+thresholds, preventing training runs above certain sizes 
+ 
+By creating technical constraints on compute aggregation that are enforceable through hardware, 
+FlexHEGs could grant foreign users sufficient compute access for legitimate commercial 
+applications while preventing foreign adversaries from assembling the large compute clusters 
+required for training frontier AI models. 
+ 
+Developing Technical Standards 
+Hardware security standards are particularly effective when they originate from a position of 
+market dominance. By developing and implementing FlexHEGs, the US would establish de facto 
+technical standards that favor American interests. 
+4 
+
+
+This approach has several advantages: 
+●First-mover benefit: Early establishment of standards tends to create path dependency in
+subsequent technology development
+●Market leverage : American companies' dominant position in AI chips provides
+significant leverage for standard-setting
+●Technical control points: Hardware-based standards create lasting control points that are
+difficult for competitors to circumvent
+The Administration should encourage American companies to develop common standards for 
+hardware security in AI chips, potentially using NIST as a coordinating body. These standards 
+could then be incorporated into export control requirements, creating strong incentives for 
+adoption. 
+Enabling Trusted AI Development Without Sacrificing Innovation 
+Recent proposals for AI safety have raised concerns about their potential to hamper American 
+innovation through excessive reporting requirements or restrictions. FlexHEG offers an 
+alternative approach: verifiable security and safety claims without unnecessary disclosure or 
+restriction. 
+For example, rather than requiring companies to publicly disclose training details that might 
+compromise their competitive advantage, FlexHEGs would enable them to make verifiable 
+safety claims without revealing proprietary information. 
+This approach aligns with the Administration's goals of removing unnecessary barriers to 
+American leadership in AI while ensuring appropriate safety measures are in place. 
+Immediate Security Gains Through Existing Hardware 
+While comprehensive FlexHEG systems represent the future of AI hardware security, significant 
+security enhancements are achievable in the near term through firmware updates to existing AI 
+chips combined with software-based approaches. Current hardware already contains security 
+features that could be leveraged immediately to address pressing national security concerns: 
+●Ping-based geolocation: Firmware updates could enable verification that chips remain in
+authorized jurisdictions
+●Offline licensing enforcement: Automatic disabling of chips detected outside their
+authorized locations
+5 
+
+
+● Enhanced model protection: Strengthened security measures to prevent theft of 
+valuable AI models 
+● Verifiable evaluations: Privacy-preserving verification of AI model capabilities and 
+properties 
+ 
+Manufacturers like NVIDIA could likely develop and deploy these capabilities to existing H100s 
+and other advanced AI chips in a matter of months, through a combination of firmware updates 
+and software-based approaches. The Administration could encourage or incentivize this course 
+of action through various means. These capabilities would build upon existing hardware security, 
+which would be challenging for adversaries to circumvent, providing immediate security benefits 
+while more comprehensive FlexHEG systems are being developed. 
+ 
+It would be a mistake for the Administration to wait until FlexHEG technology was fully 
+developed before pursuing increased hardware security. The full FlexHEG system will extend 
+these capabilities, introducing purpose-built hardware with both greater security against 
+expensive state-level attacks and the flexibility to address evolving governance requirements.  
+ 
+Implementation Roadmap 
+ 
+We recommend the Administration pursue a phased approach to developing and implementing 
+FlexHEG technology. This approach acknowledges both the urgency of addressing AI security 
+challenges and the technical complexity involved in developing robust hardware solutions. 
+ 
+Phase 1: Initial R&D and Pilot Deployments (2025-2026) 
+The Administration should immediately initiate research into secure processors and tamper-proof 
+enclosures tailored for AI chips. Early versions could focus on verification capabilities, with 
+enforcement mechanisms to be added in later iterations. 
+Actions should include: ● DARPA research program: Launch a dedicated program for developing FlexHEG 
+technology, including tamper-responsive enclosures, auditable processor IP blocks, and 
+algorithms to automatically check for rules 
+● NIST standards development: Direct NIST to develop preliminary standards for 
+hardware security in AI chips 
+● Pilot deployments: Fund initial deployments in national security applications 
+● Industry engagement: Establish a working group with leading AI chip manufacturers to 
+ensure compatibility with commercial technology roadmaps 
+ 
+6 
+
+
+These initial efforts would focus on establishing technical feasibility and creating reference 
+implementations that could be refined in subsequent phases. 
+ 
+Phase 2: Commercial Integration and Export Applications (2026-2027) 
+Building on the results of Phase 1, the Administration should focus on integrating FlexHEG 
+technology into commercial AI chips and applying it to secure exports of advanced computing 
+technology. 
+Actions should include: 
+● Export control integration: Modify export control requirements to favor 
+FlexHEG-equipped chips 
+● Commercial incentives: Provide expedited planning approval with faster security 
+auditing for FlexHEG-equipped systems 
+● Retrofitting program: Develop capabilities for adding FlexHEG protections to existing 
+chips, allowing rapid implementation 
+ 
+By the end of Phase 2, FlexHEG technology should be sufficiently mature for deployment in 
+export-controlled contexts, allowing more flexible export policies while maintaining security. 
+ 
+Phase 3: Widespread Adoption and Sophisticated Applications (2027-2028) 
+In the final phase, the Administration should focus on driving widespread adoption of FlexHEG 
+technology and leveraging it for increasingly sophisticated security applications. 
+Actions should include: 
+● Regulatory requirements: Institute requirements for FlexHEG verification in high-risk 
+AI applications 
+● Advanced security features: Develop more sophisticated security features based on 
+lessons from earlier deployments 
+● Integration with AI safety frameworks: Connect hardware verification to broader AI 
+safety initiatives 
+● Enforcement infrastructure: Establish the necessary infrastructure for monitoring 
+compliance and responding to violations 
+ 
+By this phase, FlexHEGs should become a standard feature of advanced AI chips, providing 
+robust security for American AI technology regardless of where it is deployed. 
+ 
+Recommended Policy Actions 
+ 
+To advance this technology and its strategic benefits, we recommend the following policy actions 
+for inclusion in the AI Action Plan: 
+7 
+
+
+1. Establish a National Security Presidential Memorandum on AI Hardware
+Security
+The President should issue a National Security Presidential Memorandum directing relevant
+agencies to prioritize the development and deployment of hardware security measures for AI
+chips. This memorandum should:
+●Instruct the Department of Commerce to develop export control provisions favoring
+FlexHEG-equipped hardware
+●Direct the Department of Defense and Intelligence Community to develop capabilities for
+evaluating hardware security in AI systems
+●Establish a cross-agency task force to coordinate FlexHEG development and deployment
+●Direct NIST to develop technical standards for secure AI hardware
+A Presidential directive would create the necessary sense of urgency and ensure coordinated 
+action across relevant agencies. 
+2. Direct Implementation of Near-Term Hardware Security Measures
+The Administration should immediately direct the implementation of firmware- and
+software-based security measures for existing AI chips:
+●Partner with private chip manufacturers to develop and deploy firmware and software
+updates that enable basic security features on existing hardware, using federal
+procurement leverage and voluntary industry collaboration
+●Establish a fast-track working group between the Department of Commerce, NIST, and
+leading chip manufacturers to define technical requirements for these updates
+●Create incentives for voluntary adoption by domestic users while requiring
+implementation for exported hardware
+●Consider invoking the Defense Production Act if absolutely necessary in order to
+accelerate implementation
+These near-term measures would provide immediate national security benefits while more 
+comprehensive FlexHEG systems are being developed, creating a bridge between current 
+vulnerabilities and the robust security infrastructure outlined in this proposal. 
+3. Fund a Major DARPA Research Program
+The Administration should direct DARPA to establish a major research program focused on
+developing secure processor technology and tamper-proof enclosures for AI chips. This program
+should receive initial funding of at least $100 million and focus on:
+8 
+
+
+● Open-source secure processor designs optimized for AI applications 
+● Advanced tamper-detection and response mechanisms 
+● Algorithms for automatically checking whether chip usage is compliant 
+● Methods for retrofitting security to existing hardware 
+ 
+DARPA's experience with high-risk, high-reward research makes it ideally suited to drive the 
+initial development of FlexHEG technology. 
+ 
+4. Create Export Control Incentives 
+The Department of Commerce should modify export control regulations to provide streamlined 
+approval processes for FlexHEG-equipped AI chips. These modifications should: 
+● Establish a technical certification process for FlexHEG compliance 
+● Create expedited approval pathways for certified systems 
+● Allow broader deployment of certified systems to Tier 2 countries under the Framework 
+for AI Diffusion 
+● Develop mechanisms for verifying ongoing compliance through hardware attestation 
+ 
+These incentives would drive commercial adoption while advancing national security objectives. 
+ 
+5. Establish Procurement Preferences 
+The Administration should direct federal agencies to establish procurement preferences for AI 
+systems equipped with FlexHEG technology. This would: 
+● Create immediate market demand for FlexHEG-equipped systems 
+● Provide real-world testing and refinement opportunities 
+● Demonstrate federal commitment to the technology 
+● Improve security for government AI deployments 
+ 
+Federal procurement represents a powerful tool for driving technology adoption and should be 
+leveraged to accelerate FlexHEG deployment. 
+ 
+6. Direct NIST to Develop Technical Standards 
+NIST should be directed to develop comprehensive technical standards for hardware security in 
+AI chips, including: 
+● Reference designs for secure processors 
+● Testing and certification protocols 
+● Attestation formats and procedures 
+● Requirements for tamper-evident and tamper-responsive features 
+9 
+
+
+ 
+These standards would provide a foundation for industry implementation and regulatory 
+requirements. 
+ 
+Conclusion 
+ 
+The continued advancement of AI capabilities presents both enormous opportunities and 
+significant challenges for American leadership. By developing and deploying FlexHEG 
+technology, the Administration can address critical security concerns while promoting continued 
+innovation. This approach offers several key advantages: 
+● It maintains American technological leadership by securing AI technology against theft 
+and misuse 
+● It enables more flexible export policies by providing hardware-level security for chips 
+deployed internationally 
+● It creates a technical foundation for addressing emerging security threats posed by 
+advanced AI capabilities 
+● It establishes American dominance in the critical domain of AI hardware security 
+ 
+The window of opportunity to establish technical standards in this domain may be relatively 
+brief. As AI capabilities continue to advance and foreign competitors develop alternative chip 
+technologies, the ability to implement effective hardware security measures may become more 
+limited. By acting decisively now, the Administration can secure lasting advantages for 
+American AI technology. 
+ 
+The development of FlexHEGs does not require fundamental scientific breakthroughs—all the 
+necessary technologies exist today in various forms. What's needed is focused development, 
+integration, and deployment, driven by clear policy directives and adequate resources. By 
+including FlexHEG development in the AI Action Plan, the Administration would take a 
+significant step toward ensuring continued American dominance in AI. 
+ 
+Addendum 
+ 
+An updated report detailing the latest findings of FlexHEG development is currently being 
+written and can be made available to the Administration by request. 
+ 
+10 
+
+

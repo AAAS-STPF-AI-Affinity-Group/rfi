@@ -1,0 +1,163 @@
++  
+ 
+geckorobotics.com    
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the AI Action Plan and associated 
+documents without attribution. 
+ 
+America’s continued dominance in the AI space depends not just on computer screens and coding, 
+but on those who work with their hands. It is in that spirit that Gecko Robotics  respectfully submits 
+the enclosed proposals to the White House Office of Science and Technology Policy as the 
+Administration weighs a new AI Action Plan to maintain and advance America’s critical place as the 
+global leader in AI. 
+ 
+Gecko Robotics is an AI and robotics company transforming how the world builds, operates, and 
+maintains its most critical infrastructure. At Gecko we believe that combining first-order data 
+collected from infrastructure with the predictive power of AI can create a more reliable and resilient 
+future for the physical world. Gecko agrees with the Administration that America must solidify its 
+position as the global leader in AI to secure a prosperous future for all Americans, and we can do 
+this by bolstering two critical elements of the AI Supply Chain: energy and data. 
+ 
+Vice President Vance made an important point during his speech at the AI Summit in Paris last 
+month when he stated, “now it’s my view that tech innovation over the last 20 years has often 
+conjured images of smart people staring at computer screens, engineering in the world of bits, but 
+the AI economy will primarily depend on and transform the world of atoms.”  If the entire focus of 
+American AI initiatives is, “smart people staring at computer screens” we will lose.  
+ 
+Energy remains a critical input for accelerating and expanding the development of AI for the US. As 
+we develop and expand the role of AI in our everyday lives, the substantial computational power of 
+AI will translate into increasingly significant energy requirements. Efficiently scaling AI solutions 
+directly depends on our infrastructure's capacity to reliably generate and distribute this power. By 
+investing in reliable and resilient energy infrastructure, the U.S. can ensure that we meet current and 
+future AI needs. This investment is critical for creating a robust foundation for AI-enabled innovation. 
+ 
+Data is the other foundational input necessary to realize the transformative potential of AI. 
+High-quality, high-volume data is the fuel that powers advanced AI models, enabling them to learn, 
+adapt, and make intelligent decisions. Ensuring access to comprehensive, accurate, first-order data 
+will drive the effectiveness of AI applications across our most critical economic sectors. High-quality 
+data enhances model precision, improves outcomes, and supports the expansion of AI’s role in 
+boosting productivity and economic growth. However, to date, securing this high-quality data has 
+remained a persistent challenge, especially for data on physical infrastructure. There is very little 
+high-quality data collected on the physical structures we rely upon, from bridges to factories to ships. 
+  
+ 
+ 
+Pittsburgh, PA      •      Boston, MA      •     New York, NY      •      Houston, TX      •     Washington, DC      •      Abu Dhabi, UAE 
+
+
+By focusing on energy and data, two critical foundations for AI development and enablement, the 
+U.S. can ensure that it not only remains at the forefront of AI innovation, but also leverages these 
+advancements to foster economic prosperity and improve the quality of life for the American people. 
+1)Create a Technology-Forward National Strategy for Optimizing Power Generation to Meet
+Energy Needs
+America is in an energy crisis. And the growing strain to keep up with the demands of AI are an 
+increasingly important factor. AI’s computational power is projected to double every 100 days.1 In 
+part due to the strain of AI on data centers, experts project an increased national energy demand of 
+around 16% over the next four years, adding greater strain on an already fragile U.S. grid.  
+What America does best is innovate. American history is steeped in stories of innovation leading us 
+out of a crisis. The transistor helped America win the space race. Radar and jeeps helped win World 
+War II. And American technology centers are the wonder of the world. Innovation has always been 
+the cornerstone of how America responds to a crisis. And - as President Trump declared in January - 
+we are currently in an energy crisis. Despite the importance, and scale, of the problem we are not 
+deploying the power of American innovation across our energy infrastructure.  America will likely lose the AI race if we cannot generate the energy necessary to meet its increasing 
+demands. To support the growing demand, it is imperative that the U.S. harnesses advanced 
+technologies to optimize power generation across all energy sources - from fossil fuels to nuclear 
+and renewables. By retrofitting and supporting our aging power infrastructure with cutting-edge 
+technology such as robotics, automation, predictive maintenance and real-time analytics, we can put 
+another example of America using innovation to come out ahead during a crisis.  Proposal: The Department of Energy (DOE) should encourage the use of advanced 
+technology across all sources of energy production to optimize their operations with 
+the goal of increasing production and reducing downtime.  
+The generation facilities of today are the assets powering the AI of tomorrow. To bolster American AI 
+dominance, the U.S. should establish a national strategy for optimizing the operation of all sources of 
+energy that power our grid. That should include both optimizing currently operating facilities and 
+reducing downtime for facilities currently offline. To do so, DOE should issue regulations that would 
+require power production facilities to use advanced technology like robotics and automation to 
+ensure the power grid is resilient and reliable in the face of the growing demand for energy. These 
+technologies will drastically reduce downtime of power facilities while increasing reliability and 
+production. DOE should also make loan and grant funding available for power production facilities to 
+optimize their operations with advanced technology.  1 New Report Analyzes Potential for AI to Fuel Major Increase in Power Demand. American Public Power Assoc. June 20, 2024. 
+https://www.publicpower.org/periodical/article/new-report-analyzes-potential-ai-fuel-major-increase-power-demand  
+2 
+
+
+The electricity grid consists largely of three stages: generation, transmission, and distribution. In 
+recent years, transmission and distribution have received a lot of attention and funding. This has 
+been driven by the need to connect wind and solar power (often generated far away from population 
+centers) to the larger grid to move it into more densely populated areas. However, data centers are 
+discrete, power-hungry, facilities that are increasingly being built close to generating facilities 
+themselves.2 These “behind the meter” connections do not require the same transmission and 
+distribution investments that are needed to power residential centers throughout the country. To 
+power AI, the portion of the grid that now needs more attention and investment is generation.   The Administration’s AI Action Plan should recognize that the relationship between establishing AI 
+dominance and energy dominance are mutually beneficial: AI designed for the built world can ensure 
+that all other AI applications have adequate power – while ensuring adequate power for American AI 
+companies will foster the next generation of advancements in AI. In fact, Gecko is now deploying AI 
+and robotics alongside the United States’ largest independent power plant operator to identify 
+potential dangers and optimization points at energy generating facilities.3 
+2)Require AI-ready Data for Every New Build for Government Infrastructure
+As AI continues to develop, the field will see a proliferation of open-source base models for AI 
+applications. AI giants like NVIDIA have released several open-source  models for digital twins and 
+physical AI systems (like OpenUSD, Omniverse, etc.).4 As these models become widely available 
+throughout the industry, the differentiator that will set American AI companies apart from their 
+competitors will be the quality of data they have access to. 
+The large language model (LLM) craze of recent years was fed largely by data that existed on the 
+Internet and was repurposed for training the ChatGPTs and Claudes of the world. Now, anyone can 
+spin up an LLM with a few lines of code and an Internet connection. For AI applications in 
+service-based sectors like finance and eCommerce, models have been trained on data generated 
+over decades of transactions. 
+But for the physical world—in industries ranging from energy and public infrastructure to 
+manufacturing and transportation—we do not have anywhere near enough data to enable AI 
+4 The Era of AI-Enabled Digital Twins Has Arrived. NVIDIA. Accessed March 2025. https://www.nvidia.com/en-us/omniverse/solutions/digital-twins/ 3 Gecko Robotics announces $100M deal with NAES. Pittsburgh Business Times. Feb 27, 2025. 
+https://www.bizjournals.com/pittsburgh/news/2025/02/27/gecko-robotics-announces-100m-deal-with-naes.html?2 Big Tech wants to plug data centers right into power plants. Utilities say it’s not fair. AP News. Jan 25, 2025. 
+https://apnews.com/article/power-electricity-amazon-microsoft-power-plants-data-centers-grid-f4763f73bc112425e18f30618dff0039 
+3 
+
+
+solutions. In order for the U.S. to win the AI arms race, we need to have better data on everything 
+that matters—and that includes infrastructure. 
+Proposal: 
+Since critical infrastructure is largely managed by public entities, collecting the next generation of 
+data to power physical AI will require both permission and investment from government agencies. 
+Efforts to accelerate the development of physical AI systems include: 
+(A) When the government funds a major infrastructure project, agencies should require a
+high-fidelity digital twin created at the time of construction.
+This digital twin should be informed by high-fidelity data on the physical condition of the asset to 
+ensure that “as-built” assets match the “as-designed” schematics. In the same way that consumers 
+are offered manufacture warranties on physical goods, agencies should procure high-fidelity digital 
+twins at the time of construction to ensure their assets are built as intended and to reduce long-term 
+lifecycle costs. Collecting high-quality data over the lifetime of an asset will allow for targeted repairs, 
+less downtime, fewer catastrophic accidents, and savings of billions of dollars. (B) Require all capital-intensive assets critical for U.S. national security and defense to
+have a full digital scan of their physical condition.
+The impact of this recommendation is two-fold. First, it would allow trusted AI companies to begin 
+developing critical datasets on how capital-intensive assets respond throughout their lifecycle to 
+changes in operational conditions. By analogy, LLM’s were only possible because decades of 
+text-based data were available to developers. In many instances, this data is not yet collected in a 
+machine-readable way for critical security applications.  
+Second, it would create a permanent auditable “digital thread” of the condition of capital-intensive 
+assets from the time of creation throughout its entire life cycle. This has important implications for 
+QA/QC of major acquisition programs. 
+Consider the process of inspecting welds on large assets like submarines and aircraft carriers. 
+Currently, weld inspections are largely a manual process. A weld inspector uses the appropriate 
+instrument to evaluate raw data coming from the weld and records their assessment on the quality of 
+the weld. However, when robotics assist with weld inspections, the raw data can be permanently 
+recorded - alongside the inspectors’ expert assessment of weld material. Given that the Navy has 
+recurring struggles ensuring the adequacy of contractors’ welds (including in 2007, 2009, and most 
+recently in 2024 ), creation of this permanent “ground-truth” dataset could accelerate the identification 
+4 
+
+
+ 
+of faulty welds.5,6 This in turn could accelerate timelines for the production of critical assets to meet 
+national security priorities while reducing the possibility of serious safety incidents. 
+ 
+ 
+We welcome the opportunity to discuss these proposals with the Office of Science Technology and 
+Policy and thank you for your consideration. 
+6 Lawmakers to Investigate Faulty Sub, Carrier Welding at Newport News Shipbuilding. USNI News. Sep 27, 2024. 
+https://news.usni.org/2024/09/27/lawmakers-announce-investigation-into-faulty-submarine-carrier-welding-at-newport-news-shipbuilding-ships-affected-
+in-low-single-digits-officials-say  5 More welding woes uncovered for Newport News shipyard.  The Virginian-Pilot. June 8, 2009. 
+https://www.pilotonline.com/2009/06/08/more-welding-woes-uncovered-for-newport-news-shipyard/  
+ 
+5 
+
+

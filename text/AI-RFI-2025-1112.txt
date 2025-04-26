@@ -1,0 +1,106 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 08, 2025
+Status: 
+Tracking No. m 80-eshc-lsth
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1112
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Nam e: Anonym ous Anonym ous
+Em ail:  
+General Comment
+See attached file(s)
+Attachments
+white_house_AI
+
+
+RFI response regarding the national
+AI Action Plan
+by
+George Kesidis & David J. Miller
+1.The dangers o f using AI
+While A I has demonstrated a pot ential for significant beneficial impact in many market and 
+government sectors, it has also been demonstrated to suffer from bias and security 
+vulnerabilities . These a re serious concerns for high-risk applications. Defending and robustifying 
+AIs is not a trivial matter, particularly if one doe s not want to impede i nnovative applications. 
+The vulnerabilities of an AI are likely exacerbated by excess parameterization, i.e., 
+models which are t oo large. For decades, machine l earning researchers have understood the ri sks 
+of over-parameterization, which may cause e xcessive error (model variance) due to overfitting. 
+Indeed, modern deep learning frameworks have techniques (such as random dropout ) which are 
+intended to address this probl em. 
+However, some “ research” ha s questioned whether overfitting is a probl em for 
+applications requiring very large models (like LLMs); for example, the s o-called “double-descent 
+hypothesis”.  This research has been used to push for ever-larger models, both driving and 
+justifying the trend toward huge data-centers (clouds), consisting of many thousands of 
+enormous and expensive ha rdware accelerators (e.g., Nvidia H 100 GPUs). 
+So, the re lease of Deepseek earlier this year by the Chinese was a surprise to some. 
+Deepseek is an open-source general-purpose chatbot which was trained on publicly available 
+data us ing lower-end, inexpensive GPUs. Little a bout Deepseek’s design is truly novel. 
+Compared to the l atest closed-source ChatGPT developed by OpenAI in the USA, Deepseek is a 
+smaller model with arguably better performance and which was produced at a fraction of the 
+cost.
+2.The dangers o f overfundin g, particularly  AI
+Just as excess model parameterization, excess research funding can yield negative results, 
+particularly for AI related research, which is a highly data-dependent area involving a l ot of ad 
+hoc de cision-making through trial-and-error experimentation. 
+The four main “AI conferences” (NeurIPS, ICML , AAAI, ICLR) annually receive a total 
+of about 50,000 submissions, of which a t otal of about 10,000 are accepted (about 10% of 
+accepted papers are ora lly presented; the re st are “presented” only in large pos ter sessions).  At 
+this scale, these a re not genuine a cademic c onferences but more like money-making annual 
+conventions which mass-produce “accepted research articles”.  Also, they can be m ore c ynically 
+characterized as cesspits of money (much of it from the fe deral gove rnment), influence pe ddling, 
+and poor-quality research. 
+
+
+This is typical of other heavily funded, applied-research communities.  A representative 
+of the Association of Computing Machinery (ACM) presented a slide at ACM CCS 2024 (one of 
+the three “top” conferences in cyber security) chronicling corruption in its putatively double-
+blind peer-review process (including a case where an author was caught uploading a review for 
+his own paper).  Note that such papers appear as peer-reviewed work-product in annual reports 
+(to federal agencies) of research grants. Leadership in federal research-funding agencies cannot 
+deny they are aware of these ethical problems, which may be construed as fraud.  For that matter, 
+why should systematic peer-review corruption be limited to research conferences and not be 
+present in the proposal-review panels where the stakes are much higher?
+3.Recommendations regarding AI Research Funding
+We suggest targeted investments in secure and robust AI, which is a cross-disciplinary area 
+between AI/ML and cyber security. Smaller grants will be most impactful, while the numerous 
+and very large-scale AI centers have proven a waste of taxpayers’ money. 
+A lower limit to the annual number of papers per researcher needs to be set to promote 
+research quality (capping conference registration costs and publication charges allowed on 
+federal grants can also help with this). Just as one example, a recent high-profile conference 
+warned the authors of submitted papers that any submissions  beyond 25 by the same 
+author  (!) will be automatically rejected.  But allowing 25 papers submitted by the same 
+author to a single conference is obviously about bean counting, not quality. 
+The balance of research investments in AI can be redirected to graduate-student 
+scholarships.  This could be a far more efficient use of precious research funds. Universities need 
+to be encouraged to refocus on properly educating our student scientists, engineers and computer 
+scientists, rather than running degree mills and paper mills.  Despite much higher cost of 
+education, our average undergraduates are at present significantly inferior compared to foreign 
+undergraduates (who often have a far better grasp of the basics). AI is exacerbating these 
+negative trends.
+Though there are some accounts of these problems in the public media (mass retractions 
+of published research articles papers, co-citation cartels, fake-paper authorship marketplaces, 
+poor literacy and numeracy rates of average college graduates, etc.), there has been in the past 
+very little leadership from government on the issue of research ethics and generally holding very 
+well compensated university administrators more accountable. This needs to be a focus of the 
+new federal leadership in the context of an AI Action Plan.
+George Kesidis (Ph.D. UC Berkeley) & David J. Miller (Ph.D. UC Santa Barbara) are 
+EECS professors at Penn State and co-founders of Anomalee Inc., a boutique AI/ML firm 
+specializing in adversarial AI. They have been AI/ML researchers for over 30 years, focusing 
+on secure and robust AI over the past ten years. They have also contributed to problems in 
+cyber security. They have reviewed hundreds of grant proposals and GK has previously 
+
+
+serving as an Intermittent Expert for NSF’ s SaTC program.  They have neither previously 
+joined co-authorship, co-citation, or co-peer-review cartels, nor are they currently engaged 
+in any type of influence peddling. In 2023, their book entitled  “Adversarial Learning and 
+Secure AI” was published by Cambridge University Press. They are currently developing 
+comprehensive platforms to benchmark, certify and online-monitor deployed AIs based in 
+large part on their prior research (some of which is proprietary to Anomalee Inc.). 
+
+

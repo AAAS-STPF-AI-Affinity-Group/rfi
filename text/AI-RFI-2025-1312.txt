@@ -1,0 +1,306 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 88-o6ue-hics
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1312
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Databricks, Inc.
+General Comment
+Please see attached response from  Databricks.
+Attachments
+Databricks Response to RFI on AI Action Plan (03.14.2025)
+
+
+1 
+Databricks, Inc. 
+Comments in Reply to the  
+Request for Information by the Office of Science and Technology Policy (OSTP)  
+To Support the Development of an Artificial Intelligence (AI) Action Plan 
+March 14, 2025  
+Databricks, Inc. ( “Databricks” ) appreciates having the opportunity to provide comments to support 
+the Trump Administration’s development of an AI action plan (the “Plan” ). Databricks supports the 
+focus of the Plan being to spur AI innovation and facilitate continued U.S. leadership in the AI sector, 
+and we believe the Plan is an important step in furthering the U.S. leadership position in AI.  
+Overview; Importance of Eliminating Cloud Data Egress Fees  
+Databricks believes the most important action the federal government could take to speed innovation 
+in AI would be to prohibit cloud data egress fees, for several reasons, but particularly as a step toward 
+democratizing access to GPUs. The current extreme scarcity of GPUs is by far the biggest constraint on 
+AI innovation and adoption, and the issue is likely to persist given the accelerating interest in the 
+development and use of AI. Eliminating egress fees, which are plainly anti -competitive, would enable 
+developers and deployers to seek out available GPUs and other AI resources wherever they may be 
+available, something currently often not practical given the prohibitive costs of transferring data 
+between clouds. Based on Databricks’ perspective at the cent er of the enterprise AI ecosystem, we 
+frequently see unused GPU capacity that cannot be tapped because of prohibitive data transfer costs.  
+Based on Databricks’ deep familiarity with the enterprise AI space, we want to emphasize four specific 
+elements - including the elimination of egress fees - that we believe the Plan should be sure to address 
+because of the particular importance of these is sues to developers and deployers of AI:  
+1.Cloud data egress and multi -cloud switching costs should be eliminated to enhance
+competition, resource allocation efficiency and innovation in the AI sector  
+2.Intellectual property ( “IP”) issues relating to data used in AI training and fine -tuning should be
+clarified, in particular with respect to application of the “fair use” standard 
+3.Open source models are crucially important for AI innovation, cost efficiency and adoption in
+the enterprise space, and the open source AI ecosystem should be fully supported  
+4.Steps should be taken to ensure inevitable AI regulation impacting U.S. companies is uniform
+and reasonable  
+Each of these elements is elaborated upon later in this response.  
+Databricks’ Unique Vantage Point on Enterprise AI  
+The importance of AI to the U.S. economy and to the U.S.’s global leadership role cannot be 
+overstated. Databricks sees the growing importance of AI every day, with thousands of enterprises 
+and public sector customers (collectively “enterprises”) using the Databricks cloud data and AI 
+platform to work with and deploy AI -based systems for countless valuable purposes1. 
+1 See, for examples, AI Use Cases for Business Leaders and Innovators , Databricks Blog, Feb. 19, 2025,  
+https://www.databricks.com/blog/ai -use-cases -business- leaders -innovators , and Data + AI Use Cases from the 
+
+
+2 
+Databricks has a unique and valuable vantage point over the enterprise AI ecosystem because 
+Databricks provides what we believe to be the leading multi -cloud data management platform for AI 
+use by enterprises2. The Databricks platform supports the full range of AI: both open source and 
+closed models; all sizes of models from the very largest to the very smallest; all forms of AI model and 
+AI system modification; and steps in all stages of the AI life cycle, fro m early AI system development to 
+full production deployment, including model selection, AI system integration, customization, testing, 
+monitoring, calibrating, incidence alerting, logging, etc. Databricks has more than 10,000 enterprise 
+customers around th e globe, including more than 60% of the Fortune 500 and numerous public sector 
+customers, including customers within 80% of the executive departments of the U.S. federal government
+3. 
+Databricks’ Recommendations for the Plan  
+Databricks is a member of several business organizations submitting responses to this request for 
+information: the Business Software Alliance, the U.S. Chamber of Commerce and the AI Alliance. We 
+have reviewed the planned submissions of each of these organ izations carefully, and fully support 
+each response, in particular points made around: the need to implement a federal, preemptive, AI law 
+to avoid disparate AI regulation at the state level; the desirability of federal support for AI research; 
+the benefit s of expanding government use of AI; the need for U.S. global engagement on AI policy to 
+protect the interests of U.S. companies; the importance of applying the “fair use” standard to use of 
+public data for AI training and fine -tuning; the importance of su pporting open source AI; and the need 
+for any regulation of AI to avoid regulating the underlying technology, instead focusing on risk at 
+deployment.  
+Although Databricks supports all of these points and feels they are important, we will limit our 
+detailed comments to the four focus points highlighted previously:  
+1.Cloud data egress and multi -cloud switching costs should be eliminated to enhance
+competition, resource allocation efficiency and innovation in the AI sector  
+The fees levied by cloud infrastructure providers on their customers for moving data out of their 
+ecosystems act as a burden on AI innovation and adoption. These fees contribute to vendor lock -
+in, are anti- competitive, and discourage efficient resource all ocation for data processing and for AI 
+in particular4. With the extreme scarcity of GPUs needed in multiple parts of the AI life cycle, the 
+impact egress fees have in impairing efficient resource allocation for AI is acting as a significant 
+drag on AI innovation. As an example, on multiple occasions Databric ks has secured GPU 
+World’s Leading Companies , Databricks Blog, Aug. 30, 2024,  https://www.databricks.com/blog/data -ai-use-cases -
+worlds -leading -companies . 
+2 For an overview of Databricks’ role in the enterprise AI sector, see What AI Enterprises Can Learn From Databricks’ 
+$62 Billion Valuation , VKTR, The Business of Enterprise AI, Jan. 16, 2025,  https://www.vktr.com/ai -market/what -ai-
+enterprises -can-learn -from-databricks -62b-valuation/ . 
+3 For a recent overview of this customer base, see Databricks Achieves FedRAMP High Authorization for AWS 
+GovCloud , Databricks press release, Feb. 27, 2025,  https://www.databricks.com/company/newsroom/press -
+releases/databricks -achieves- fedramp -high-authorization -aws-govcloud.  
+4 How cloud egress fees will challenge the future of AI , theNet (by Cloudflare), May 17, 2023,  
+https://www.cloudflare.com/the -net/cloud -egress- fees-challenge -future -ai/, The one where we hate on egress fees 
+even more, Fierce Network, Jan. 19, 2024,  https://www.fierce -network.com/ai/one -where -we-hate- egress- fees-even-
+more , and ‘Stupid Pill’: Fees for moving data around the cloud persist despite rising customer ire , siliconAngle, Oct. 
+19, 2022,  https://siliconangle.com/2022/10/19/stupid -pill-fees-moving -data- around- cloud- persist -despite- rising -
+customer -ire/. 
+
+
+3 
+allocations available on certain clouds that would be useful to one or more of its customers who 
+were operating their main AI workload on other clouds, yet the available GPUs could not be 
+reasonably tapped because of the prohibitive cost that would be trig gered in the form of network 
+egress fees. In many of these cases, available GPUs go unutilized for meaningful periods of time 
+despite the overall shortage.  
+The Federal Trade Commission and regulators in the UK and the EU have been investigating the 
+anti- competitive aspects of cloud provider pricing and other practices, including the imposition of 
+data egress fees5. The EU Data Act, coming into effect on September 12, 2025, includes provisions 
+intended to eliminate such fees6, though the lack of detail leaves open the question as to how 
+effective the prohibition will be (and it will have no direct impact for data transfers not involving 
+the EU). Although Databricks is in agreement that regulation can in many cases slow innovat ion, 
+this is an area where a regulatory prohibition (on cloud data egress fees) would significantly 
+enhance AI innovation, competition, adoption and productivity. Eliminating egress fees and 
+making data transfers between clouds easier will also lead to bet ter reliability and security 
+because multi -cloud flexibility gives customers greater flexibility in managing their AI and other 
+data workloads.  
+A targeted regulation banning cloud data egress fees and related indirect costs would level the 
+playing field in the AI sector, fostering innovation and competition without imposing burdensome restrictions on businesses. By eliminating these artificial barriers to data mobility, such regulation 
+would empower companies of all sizes to freely choose the best tools and services across multiple 
+cloud providers, optimizing their AI development and deployment processes. This approach 
+would promote a freer and mor e open market, allowing businesses to make decisions based on 
+the merits of services rather than being locked into a single provider due to prohibitive exit costs. 
+The resulting increase in competition would drive innovation, improve service quality, and l ower 
+AI development costs. Far from being anti -business, this regulation would create new 
+opportunities for startups and smaller players to compete effectively, while also benefiting established companies by giving them more flexibility in their cloud stra tegies. Ultimately, this 
+targeted intervention would accelerate AI advancements, leading to broader economic benefits and technological progress.  
+Egress fees act as a barrier to adopting multi -cloud strategies, which could otherwise foster 
+innovation by providing frictionless access to diverse toolsets and services, including the ability to take advantage of GPU availability across different regions  or cloud providers to achieve efficient 
+outcomes. The high costs of data transfer force AI developers to make suboptimal choices, impacting their ability to leverage the best available services. 
+ 
+The true underlying costs of data transfer incurred by the cloud providers are very low and have been declining rapidly. The cloud providers have historically levied no charges on data ingress, 
+5 The CMA anti -trust investigation into AWS and Microsoft explained: Everything you need to know , 
+ComputerWeekly.com, Jan. 28, 2025,  https://www.computerweekly.com/feature/The -CMA -anti-trust- investigation -
+into-AWS- and-Microsoft -explained -Everything -you-need- to-know  and Cloud Computing Giants Turn on Each Other 
+as FTC Enforcement Looms , The Capitol Forum, Jan. 26, 2024,  https://thecapitolforum.com/cloud -computing- giants -
+turn-on-each- other -as-ftc-enforcement -looms/ . 
+6 See Data Act explained  (includes link to the Act), EU website, 2025 update,  https://digital -
+strategy.ec.europa.eu/en/factpages/data -act-explained  (Articles 23 and 29, and numerous recitals, deal with egress 
+and switching fees).  
+
+
+ 
+ 
+4 
+and they are only grudgingly reducing egress costs. In reaction to the enactment of the EU Data 
+Act, the major cloud providers have announced programs that ostensibly eliminate egress fees, 
+but these programs are subject to strict limitations that make them impractical for most 
+customers - in particular the programs only apply if the customer is ceasing all activities with the 
+cloud provider, so they do not apply to customers seeking multi -cloud flexibility7. Other limiting 
+requirements add to making the programs inapplicable to flexible multi -cloud usage. It is possible 
+the EU Data Act implementation process will address these shortcomings to make the prohibition 
+more effective. Unlike many other EU regulati ons, this aspect of the EU Data Act is pro-
+competition and pro innovation, but it doesn’t go far enough. From the perspective of nurturing AI 
+innovation in the U.S., the EU Data Act ban on egress fees has two shortcomings: it is at present 
+not clear it wil l actually be effective in banning all egress fees; and it only applies if the data 
+transfer has an EU start or end point. If the prohibition mechanism in the EU Data Act is ultimately bolstered to be fully effective, the U.S. AI ecosystem will be at an innovation disadvantage if it does not also have a similar ban on egress fees.  
+In contrast to the programs implemented thus far by the major cloud providers, a ban on egress 
+fees should apply to all transfers, including partial transfers, should not require preapproval by 
+the cloud provider or require an application process, should apply without a time limit by which 
+the transfer must occur, and should apply to all types of data and cloud tools. The major cloud 
+providers are already providing free egress up to a limited volume per month  (typically 100GB) 8. In 
+an innovation friendly multi -cloud world, all transfers between clouds would be seamless, 
+transaction cost -free, and allowed frequently, enabling the benefits of flexible resource allocation. 
+It therefore would benefit AI innovation for the cloud prov iders to build their underlying egress 
+transfer costs into their core ongoing pricing (as they do with ingress costs), rather than tacking 
+fees on to apply only when a customer leaves its service. Although Databricks feels any resulting 
+increase in core pricing will be minor or non -existent, if there is an increase it will at least not 
+appear as a transaction cost penalizing flexibility and choice. Effectively, the cost of switching will 
+be amortized over all users and usage (as are ingress costs currently) , which will be pro 
+competition, and pro innovation.  
+2. IP issues relating to data used in AI training and fine -tuning should be clarified, in particular 
+with respect to application of the “fair use” standard 
+Databricks believes it is important to enhance AI innovation and U.S. leadership in AI by clarifying 
+that the ‘fair use’ doctrine applies to AI model training. Databricks believes that the litigation risk, 
+and the contractual complexity around allocating t he potential liability for the related IP 
+infringement risk, are slowing innovation and adoption of AI in the enterprise AI space.  
+In this response, we will not cover the legal merits of applying fair use to AI model training, which 
+we feel are well argued by others (though, unfortunately, not yet fully adjudicated). We instead 
+want to emphasize the importance to the enterprise AI spa ce of finalizing this clarification as soon 
+as possible to ensure U.S. leadership in AI and the fastest pace of AI innovation and AI adoption. 
+Clarifying these IP issues will ensure greater training data availability, streamline access to such 
+data for training and fine -tuning, and eliminate a meaningful source of contractual friction by 
+ 
+7 See AWS Joins Google Cloud in Removing Egress Costs, Forrester, March 13, 2024,  
+https://www.forrester.com/blogs/aws -joins-google- cloud- in-removing -egress- costs/ . 
+8 For any significant AI training or production workload, 100GB woul d not be consequential.  
+
+
+5 
+reducing the need for difficult and complex negotiations over IP liability allocation, in particular 
+over indemnification provisions9. The threat of litigation over training data infringement, and 
+surrounding uncertainty, is slowing the pace of innovation by developers and adoption by 
+enterprises. The path to greater innovation and adoption of AI in the enterprise AI space will be 
+greatly cleared by removing this contractual friction and litigation threat. Providing this 
+clarification will allow both AI vendors and enterprise customers to shift time and resources from 
+legal wrangling to innovation and implementation. 
+The current situation hinders AI innovation in the U.S. and puts the U.S. at a competitive 
+disadvantage globally since in other jurisdictions, including the EU, Japan, and Singapore, steps 
+have already been taken to clarify and enhance the ability for AI d evelopers to train AI models on 
+copyrighted content. In addition, one potential advantage of confirming applicability of the fair 
+use doctrine is that it will give developers greater confidence to avoid narrowing training to data 
+sources that might be more  likely to exhibit certain types of bias, providing a non -regulatory way 
+to partially address certain forms of AI bias.10 
+3.Open source models are crucially important for AI innovation, cost efficiency and adoption in
+the enterprise space, and the open source AI ecosystem should be fully supported  
+Open source AI models are extremely important to enterprise users of AI. Databricks works with 
+many enterprises to help them develop and implement AI systems based on a wide array of 
+available open source models. We are agnostic as between open and closed models - both of 
+which are available, and widely used, on our platform. We note, however, the strong and growing 
+interest in open models within our enterprise customer base.  
+An extremely important benefit of permitting open models is to give businesses and other 
+organizations the ability to cost effectively obtain, control and modify their own AI models and AI 
+applications using their own proprietary data, which in turn greatl y enhances their ability to 
+innovate, conduct research, and improve the functions of their organizations. Databricks is 
+heavily engaged in helping organizations obtain, customize, run and monitor open models for 
+such purposes. We are observing a rapidly gr owing number of enterprises and public sector 
+organizations turning to open models because closed models present challenges relating to cost 
+of ownership and operation, constraints on modifiability, and risks around the access to, and 
+security of, sensitiv e data used in training and inference. The avoidance of API access fees lowers 
+costs, thereby increasing competition. Faster innovation, greater ability to customize for special 
+use cases and lower costs will improve productivity and competitiveness in par ts of the economy 
+outside the AI sector. Permitting a business or other organization to control their own models, 
+including the model weights, lets them move their models from one vendor data platform to 
+another, avoiding the problem of vendor lock -in and increasing competition within the AI sector. 
+9 For context on the contractual friction issue, see, Will Indemnification Commitments Address Market Demands in 
+AI?, Wilson Sonsini, Feb. 20, 2024,  https://www.wsgr.com/en/insights/will -indemnification -commitments- address-
+market -demands -in-ai.html , Indemnification in Contracts Involving Artificial Intelligence: How Well is Your Business 
+Protected? , Parsons, Behle & Latimer, June 14, 2024,  https://parsonsbehle.com/insights/indemnification -clauses -in-
+contracts -involving -artificial -intelligence -how-well-is-your-business- protected, and AI vendors promised 
+indemnification against copyright lawsuits. The details are messy.  Runtime, Jan. 2, 2024,  
+https://www.runtime.news/ai -vendors -promised- indemnification -against -copyright -lawsuits -the-details -are-messy/ . 
+10 See Fair’s Fair: How Public Benefit Considerations in the Fair Use Doctrine Can Patch Bias in Artificial Intelligence 
+Systems , Indiana Journal of Law and Social Equality, July 2023,  
+https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1164&context=ijlse . 
+
+
+6 
+For organizations wanting to re -train a model for a specific organizational purpose, the ability to 
+modify the model’s weights is required. Without the ability to modify a model using open model 
+weights, businesses and other organizations will be reliant o n expensive, less flexible and opaque 
+closed models. To the extent the open source AI ecosystem is not allowed to flourish, there is a 
+greater risk of market concentration in the hands of a few extremely large closed AI providers.11 
+Because of the significant advantages of open models as discussed above, any AI regulation 
+should be very carefully tailored to not impede open model development. To avoid unduly 
+burdening open source AI innovation, any regulation applicable to developers of open source AI 
+models should be limited to obligations applicable no later than date of release.  
+4.Steps should be taken to ensure inevitable AI regulation impacting U.S. companies is uniform
+and reasonable  
+Even if there were to be no regulation of AI in the U.S. at the federal level, leading U.S. AI 
+companies and large U.S. companies using AI in their businesses will be unavoidably subject to 
+regulations applicable to their AI activities, under AI regulation s imposed by various U.S. states 
+and by non -U.S. AI regulations with global impact, like the EU AI Act. If the Administration’s 
+objective is to minimize the burdens from regulation on AI innovation and adoption within the 
+U.S., it should seek to implement reasonable AI regulation at the federal level that will preempt
+disparate state AI regulation, and it should actively engage with other countries on AI regulation 
+to influence how such regulation develops, doing what it can to protect the interests of U.S.  
+providers and users of AI. 
+The U.S. should lead the world in formulating AI regulation. Without U.S. leadership, and 
+assuming U.S. AI developers maintain their dominance of the AI industry, other countries may feel 
+few constraints on regulating development of AI technology since the  burdens will fall primarily 
+on U.S. companies. Although there is current pressure on politicians in the EU and elsewhere to rethink AI regulation to ensure their region remains competitive and to spur innovation, if we assume that the Trump Administration ’s goal of cementing U.S. leadership in AI is achieved, we 
+will live in a world where there will be an emerging perception in other countries that AI regulation only hurts U.S. companies, while protecting residents of the regulating country. With international 
+engagement on AI regulation and safety, the U.S. can maintain influence over how global AI 
+regulation forms over time. Global engagement by the U.S. on AI issues is made even more important by the threat to U.S. leadership in AI posed by China, including in developing economies where China is exerting significant efforts to gain influence.  
+As Vice President J.D. Vance said recently in his remarks at the Paris AI Summit, "excessive 
+regulation of the AI sector could kill a transformative industry." If there is no preemptive 
+regulation at the federal level, the patchwork of AI legislation emerging from a growing number of 
+states will indeed create that unwanted “excessive re gulation”. Significant U.S. AI players like 
+Databricks will not have the luxury of avoiding certain states given the nature of the AI sector, 
+especially once many states have  their own form of AI legislation in place, as appears inevitable. 
+Databricks and other major AI developers and deployers will face the burdens of AI legislation put 
+in place by each state. If the federal government stands down on meaningfully regulating A I, the 
+11 For an extensive presentation of Databricks’ views on the merits of open source AI, please see Databricks’ 
+response to the NTIA RFC on Dual Use Foundation Models With Widely Available Model Weights,  at 
+https://www.regulations.gov/comment/NTIA -2023- 0009- 0226 (March 27, 2024).  
+
+
+7 
+motivation of states to move forward with regulation will intensify. The federal government has a 
+choice: implement reasonably balanced national AI regulation that preempts state AI regulations 
+(which means legislation that can actually be passed by both h ouses of Congress) or face a thicket 
+of burdensome AI regulation (at the state level) - the type of regulatory burden that the Trump 
+Administration wants to avoid, to foster U.S. innovation in AI. In other words, accepting some 
+modest federal regulatory safeguards on AI, if needed to pass preemptive federal legislation, 
+would lead to a better regulatory outcome, and better nurture American leadership in AI, than 
+opposing all federal regulatory safeguards and thus allowing the burdensome patchwork of state 
+laws to proceed without preemption. Uniform, reasonably balanced regulation of AI may also 
+have the benefit of increasing trust in AI which could accelerate AI adop tion, with the possible 
+resulting increased market opportunity providing even greater incentives for innovation.  
+* *  *  *  *
+Thank you for the opportunity to provide comments to support the development of the AI Action Plan. 
+Databricks looks forward to additional opportunities to discuss AI policy with OSTP personnel and 
+others within the Trump Administration.  
+
+

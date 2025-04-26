@@ -1,0 +1,631 @@
+1 Before the  
+NETWORKING AND INFORMATION TECHNOLOGY RESEARCH AND DEVELOPMENT 
+(NITRD) NATIONAL COORDINATION OFFICE (NCO)  and 
+NATIONAL SCIENCE FOUNDATION  
+On behalf of  
+THE OFFICE OF SCIENCE AND TECHNOLOGY POLICY (OSTP)  
+Alexandria, V A 22314  
+Request for Comments on the Development of 
+an Artificial Intelligence ( AI) Action Plan  ) 
+) 
+) Docket No. NSF_FRDOC_0001 -3479  
+COMMENTS OF CISCO SYSTEMS, INC.  
+Miranda Lutz , Senior 
+Manager, Global Public 
+Policy  
+& 
+Krysten Jenci, Senior 
+Manager, Global Public 
+Policy  
+Cisco Systems, Inc.  
+1000 Maine Ave SW  
+Suite 260  
+Washington, DC 20024  
+March 14, 2025  
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+
+
+2 I. INTRODUCTION
+Cisco Systems, Inc. (Cisco) submits these comments in response to the Request for Comments 
+on Development of an Artificial Intelligence  (AI) Action Plan  issued by the Networking and 
+Information Technology Research and Development (NITRD) National Coordination Office 
+(NCO)  and the National Science Foundation on behalf of the Office of Science and Technology 
+Policy (OSTP).1 Cisco is a global provider of networking , security, observability , and collaboration  
+solutions  that power the internet  and secure ly connect people . Cisco connects and protects the AI 
+era. With the trusted infrastructure to power and secure AI, Cisco helps maximize AI’s value across 
+the economy.  Leveraging its industry -leading expertise, Cisco has developed best practices for 
+designing AI -ready  infrastructure2 and has published extensively  on AI principles and policy 
+considerations  to support the adoption of trustworthy AI. This includes Cisco’s Responsible AI 
+Framework ,3 which operationalizes Cisco’s Principles  for Responsible AI4 – a set of six core 
+principles guiding our development and use of AI.  Cisco is at the forefront  of innovation , providing 
+AI-ready  networking and data center technologies , AI-enabled cybersecurity, and security 
+solutions to support  the trustworthy  development and deployment of AI.  
+As Cisco observed in its recent AI Briefing: CEO Edition, 97% of CEOs say they are planning 
+an AI integration, but only 1.7% report  they are fully ready to do so.5 Similarly, Cisco’s AI 
+Readiness Index , found that  only 19% of organizations in the United States consider themselves 
+to be AI -ready .6 These findings indicate  that companies may not be prepared to leverage AI  to its  
+full potential . Infrastructure limitations, security concerns , and  skills and knowledge gaps  are the 
+main barriers that are often cited .7 While there are undoubtedly  challenges to unlocking the 
+benefits of AI across the U.S. economy, there are clear actions which the U.S. Government and 
+private sector can partner on  to address these barriers  and sustain American leadership in AI . Cisco 
+welcomes the opportunity to assist NITRD and OSTP in identifying actions that strengthen AI 
+innovation, encourage  secure deployment of AI, and support U.S. workers .  
+A summary of recommendations is provided on the last page of this submission.  
+II. INFRASTRUCTURE NEEDED FOR AI  GROWTH
+Robust digital, physical, and energy infrastructure is necessary to develop and deploy AI across 
+all sectors of the U.S. economy.  Cisco plays a pivotal role in AI infrastructure by providing scalable 
+1 Request for Information on the Development of an Artificial Intelligence (AI) Action Plan , 90 Fed. Reg. 9088 , (Feb. 6  2025)  https://public -
+inspection.federalregister.gov/2025 -02305.pdf  
+2 Cisco Systems, Inc., Cisco Data Center Networking Blueprint for AI/ML Applications  (March 2024), 
+https://www.cisco.com/c/en/us/td/docs/dcn/whitepapers/cisco -data-center -networking -blueprint -for-ai-ml-applications.html . 
+3 Cisco Systems, Inc., Cisco Responsible Artificial Intelligence Framework (2024), 
+https://www.cisco.com/c/dam/en_us/about/doing_business/trust -center/docs/cisco -responsible -artificial -intelligence -framework.pdf .   
+4 Cisco Systems, Inc., Cisco Responsible Artificial Intelligence Principles  (2024), 
+https://www.cisco.com/c/dam/en_us/about/doing_business/trust -center/docs/cisco -responsible -artificial -intelligence -principles.pdf .  
+5 Cisco Systems, Inc., Cisco Study: CEOs Embrace AI, but Knowledge Gaps Threaten Strategic Decisions and Growth  (Feb. 2025), 
+https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m02/cisco -study -ceos-embrace -ai-but-knowledge -gaps-threaten -strategic -decisions -
+and-growth.html .  
+6 Cisco Systems, Inc., AI Readiness Index  (2024), https://www.cisco.com/c/m/en_us/solutions/ai/readiness -index.html .  
+7 Cisco Systems, Inc.  supra note 5.    
+
+
+3 and secure solutions that support the increasing demands of AI workloads.8 Cisco's AI -native 
+infrastructure is designed to enhance data center operations, offering integrated systems that 
+simplify AI deployment and management . These solutions are part of Cisco's broader strategy to 
+connect people everywhere to the internet and the digital tools they need to succeed . 
+A.Support investments in and buildout of data centers, high-speed  connectivity infrastructure ,
+and high -performance networks
+Digitization of the global economy and growing adoption of data-intensive technologies like  
+AI require infrastructure that can securely hold and quickly transfer  vast amounts of data . This 
+infrastructure includes  data centers , components like routers, switches,  processors, storage 
+devices, and servers, as well as  systems for power and cooling.  U.S. public and private sector 
+organizations need to ensure  they are equipped with infrastructure  that can keep pace with 
+increasing AI workloads . As OSTP evaluates policy measures to support AI innovation, it is 
+critical to recognize the importance of  AI-ready  data centers and  connectivity infrastructure  to 
+enhance the performance of AI applications and enable innovation and scalability.  
+Data centers – from the  hyperscale to the modular  level – are critical to support AI innovation 
+and adoption. Cisco is supporting AI data centers through our  accelerated compute, network fabric, 
+and hyperscale fabric solutions.  The U.S. Government can play a role in data center growth by 
+creating an enabling environment that encourages private capital to flow more easily into data 
+center projects . The U.S. Government can streamline  regulatory barriers, use government 
+procurement  as a market signal , and educate  the public about the essential role  data centers p lay 
+in the U.S. economy .  
+It will also be critical for the U.S. Government to consider  the burgeoning influence of edge 
+AI and the proliferation of IoT devices.  Edge AI, by processing data closer to its source, 
+significantly alters traditional AI workload distribution, shifting processing from centralized data 
+centers to distributed edge devices. This shift not only impacts network traffic patterns but also 
+introd uces novel cybersecurity challenges.9 Policymakers should consider how to integrate edge 
+AI into the broader AI infrastructure strategy. Such integration is vital to ensure that the U.S. AI 
+infrastructure remains resilient and adaptable in the face of these emerging technological trends.  
+Network s must have the right hardware, software, and configuration  to facilitate the rapid 
+exchange and processing of data and prevent bottlenecks that would impede AI training efficiency 
+and use of AI applications in real -time. High-throughput and low -latency  networks help to avoid  
+packet drops which can disrupt the deployment of time -sensitive AI applications .10 Overall, AI 
+models  need scalable and reliable network connectivity. While centralized networking can support 
+the massive requirements for AI training, a more distributed network transport model will be 
+8 With products like the Cisco UCS X -Series Modular System and Nexus 9000 Series Switches, Cisco ensures high -performance computing and 
+networking capabilities essential for AI applications. 
+9 With millions of IoT devices generating and processing data at the edge, the attack surface could expand exponentially, neces sitating robust 
+security protocols and real -time threat detection capabilities.  Scalable solutions at the network’s edge, like Cisco’s Secure DDo S Edge Protection 
+on routers , can detect and mitigate attacks in real time, keep ing attack traffic off the network . See Cisco Systems, Inc.,  Cisco Secure DDoS Edge 
+Protection Technical White Paper  (Jan. 25 2023), https://www.cisco.com/c/en/us/products/collateral/security/secure -ddos -protection/secure -edge-
+protection -tech-wp.html .  
+10 Cisco Systems, Inc.  supra note 2  
+
+
+4 required for real -time inferencing applications  – often  occurring closer to the end user and data 
+sources.11 AI w ill continue to transform the flow of traffic across networks. Downstream traffic is 
+expected to increase as AI applications often require substantial data inputs from cloud -based 
+services to deliver personalized and real -time responses to users.  Upstream traffic is also likely to 
+increase  due to AI -driven devices collecting and transmitting data for processing and analysis.  
+Overall increases in downstream and upstream traffic will  require  greater bandwidth . Cisco  has 
+developed our Agile Services Networking solution to  enhance the deployment and performance of 
+AI applications by optimizing and modernizing network infrastructures to mee t the demand for 
+high-bandwidth  and secure  connectivity necessary for  AI. 
+Current U .S. connectivity infrastructure may be ill-equipped to handle this rising demand. 
+According to Cisco’s 2024 AI Readiness Index,  46% of U .S. respondents  acknowledge d their 
+infrastructure has limited or moderate scalability and  flexibility to accommodate the increasing 
+demands from AI .12 As the volume and complexity of AI data flows increase , it will be critical for 
+the U.S. Government to help address challenges related to legacy infrastructure. Outdated 
+infrastructure is more vulnerable to security threats and can be an inhibitor to AI adoption  as legacy 
+systems often have performance limitations and lack the capacity to handle the data and the high -
+speed processing that AI applications require. Public and private sector organizations will need to 
+consider how to identify, prioritize, and replace equipment that has reached its end of life.   
+Reliable internet access is vital for deploying AI tools and ensuring their accessibility  to end -
+users. High -speed, low -latency broadband is key to realizing the return on investment from AI 
+technologies, as it enables individuals and businesses to leverage AI tools effectively in real -time.  
+However,  more than 6 million Americans lack high-speed broadband  access ,13 and the  challenge 
+is exacerbated in rural areas.14 Broadband access has been show n to boost the productivity  of 
+workers and businesses  and to improve market access , strengthening economic competitiveness.15 
+Cisco is focused on improving the cost of broadband deployment16 and support s the government’s 
+efforts to close the digital divide and connect all Americans to vital internet resources.   
+Additionally , one of the major challenges broadband providers face is the complex and lengthy  
+permitting  requirements. These barriers can delay the expansion and enhancement of network 
+infrastructure. By addressing these barriers, the government can accelerate broadband deployment, 
+ensuring that connectivity infrastructure keeps pace with technological advances.  
+Ensuring that all Americans have access to AI technology will help strengthen and grow the 
+U.S. economy.  We encourage OSTP to promote policies that enable investment in data centers, 
+11 Rakesh Chopra, A Service Provider Architecture for AI -Ready Connectivity , Cisco Blogs ( Feb. 10 2025)  https://blogs.cisco.com/sp/a -service -
+provider -architecture -for-ai-ready -connectivity .  
+12 Cisco Systems, Inc., supra note 6.  
+13 Federal Communications, Commission, FCC National Broadband Map  (Feb. 4 2025),  
+https://broadbandmap.fcc.gov/area -summary . 
+14 Federal Communications, Commission, FCC Fact Sheet , 2024 Section 706 Report, GN Docket No. 22 -270 (Feb. 22 2024), 
+https://docs.fcc.gov/public/attachments/DOC -400675A1.pdf . 
+15 Bert Kroese, Can Internet Access Lead to Improved Economic Outcomes?,  World Bank Blogs ( April 5, 2022 ), 
+https://blogs.worldbank.org/en/digital -development/can -internet -access -lead-improved -economic -outcomes .  
+16 Cisco Routed PON,  which simplifies service providers’ end -to-end architecture,  helps to lower operating expenses. See Bill Gartner, 
+Transforming the Economics of Superfast Broadband with Cisco Routed PON , Cisco Blogs (March 15 2024), 
+https://blogs.cisco.com/sp/transforming -the-economics -of-superfast -broadband -with-cisco -routed -pon.  
+
+
+5 broadband infrastructure , and the development of future -proofed networks. To this end, the U .S. 
+Government should:  
+•Encourage  strategic investments  in new data center capacity as well as modernization of
+legacy data centers;
+•Promote best practices for building AI -ready networks ;17
+•Ensure federal broadband investments are implemented efficiently and quickly to ensure
+all Americans have access to AI tools ; and
+•Work with permitting agencies to streamline regulatory requirements  to expedite the
+construction of data centers and the  deployment of high -speed broadband to all Americans.
+B.Ensure data centers have  reliable and affordable energy  and energy efficient technology
+Modern data centers for AI applications require reliable energy to power complex processing 
+operations and to provide adequate cooling systems.18 However, c urrent energy infrastructure, 
+built mainly in the 1960s and 1970s  “is struggling to meet our modern electricity needs ,” according 
+to the U.S. Department of Energy.19 Moreover, the electricity grid needs the capacity to 
+accommodate more distributed and variable energy sources and to withstand  extreme weather 
+impacts . Aging infrastructure also carries a higher risk of failure that could negatively impact local  
+communities. Given the establishment of data centers as critical  infrastructure , ensuring data 
+centers have  reliable and affordable energy is challenge government and industry must work 
+together to meet .  
+However, with this challenge come s an opportunit y to modernize the electricity grid and 
+embed energy efficiency within data center operations to ensure  the U .S. can meet future  power 
+demands. An energy grid equipped with digital solutions  (such as Cisco’s Distribution Automation 
+and Advanced Metering Infrastructure technologies)  provide s smart monitoring and energy  
+management capabilities for intermittent and distributed generation to ensure efficient and  reliable 
+power delivery, advanced analytics to manage load shedding and peak shaving, and  automated 
+data collection to reduce maintenance costs.20 
+Data centers can also reduce energy costs and maximize resources with energy  efficient 
+technology. 21 The Federal Energy Management Program (FEMP), notes that ICT equipment “can 
+account for over half of the entire facility’s energy usage”  and therefore recommends use of energy  
+efficient equipment, which can “significantly reduce these loads,” and help boost Power Usage 
+Effectiveness, a key efficiency metric for data center operations.22 The federal government should 
+promote the use of energy efficient IT equipment in data centers  (e.g., routers, servers, and 
+processors) and complementary OT to help  reduce energy consumption and lower the costs from 
+17 Cisco Systems, Inc.  supra note 2.    
+18 Electricity and water are critical resources for the power subsystems, as well as uninterruptible power supplies, ventilation  and cooling systems, 
+fire suppression, and backup generators in data center facilities. 
+19 U.S. Department of Energy Grid Deployment Office, What Does it Take to Modernize the Electric Grid?  (Oct. 19, 2023),  
+https://www.energy.gov/gdo/articles/what -does-it-take-modernize -us-electric -grid. 
+20 Cisco Systems Inc., Digitize the Power Automation Grid Reliably, Safely, and Efficiently  (2023),  
+https://www.cisco.com/c/dam/en/us/solutions/global -partners/cisco -se-grid-modernization -so-r2.pdf . 
+21 See Cisco Systems Inc, Comments of Cisco Systems Inc ., National Telecommunications and Information Administration and U.S. Department 
+of Energy Request for Comments on Bolstering Data Center Growth, Resilience, and Security (Docket No. NTIA -2024 -0002) (Nov. 4 2024), 
+https://www.regulations.gov/comment/NTIA -2024 -0002 -0027 .    
+22 Otto Van Geet & David Sickinger, FEMP , Best Practices Guide for Energy -Efficient Data Center  Design  (2024), 
+https://www.energy.gov/sites/default/files/2024 -07/best -practice -guide -data-center -design.pdf . 
+
+
+6 AI workloads. This should be a priority for all new data center capacity but there is also an 
+opportunity to reap the benefits of energy efficient technology by modernizing legacy systems .  
+U.S. energy infrastructure development  is crucial  as AI compute demands  outpac e addition of 
+new generation to the grid . The U.S. Government should adopt a dual approach that accelerates 
+energy acquisition but also enhances the efficiency of technology infrastructures supporting AI. 
+Initiatives that enhance the efficiency of data center hardware and software, optimiz e algorithms 
+for reduced computational load, and foster research into computing paradigms that minimize 
+energy consumption  should be prioritized . Simultaneously, strategic investments in grid 
+modernization and diverse energy sources are crucial to ensure reliable power delivery to support 
+an AI -driven  economy.  To strengthen the resiliency of U.S. energy grid for AI and to achieve the 
+objectives outlined in President Trump’s Executive Order 14154,23 the U.S. Government should:  
+•Encourage investment in grid modernization through the use of grid enhancing
+technologies;
+•Encourage modernization efforts to include security in the underlying control network as
+attacks on the power grid  are easier than attacking the hardened security of the data center;
+•Encourage  the use of energy efficient ICT equipment in data centers to maximize available
+energy; and
+•Streamline  regulatory requirements to facilitate modernization and addition of diverse
+energy sources – including low er and no -carbon sources – to the grid.
+III. STRENGTHENING  U.S. CYBERSECURITY WITH AI
+Although cyber threats are constantly evolving, the increasingly sophisticated threats 
+introduced by AI necessitate a paradigm shift in how organizations approach cybersecurity.  Cisco 
+is integrating AI across the network, cloud, and endpoints to provide comprehensive protection  by 
+improving threat detection, prediction, and response . This approach not only assists security teams 
+by simplifying management and improving outcomes but also augments human insight, allowing 
+cybersecurity teams to operate at machine speed and focus on critical tasks.    
+A.Support deployment of AI-enabled cybersecurity to address growing threat landscape
+In the face of an increasingly complex cyber threat landscape, AI-enabled cybersecurity 
+solutions will be critical for protecting U.S. economic and national security interests . AI can 
+quickly analyze vast amounts of  data, enabling the identification of anomalies that may signal a 
+cyberattack or the detection of malicious code. Moreover, b y automating incident response, AI can  
+also significantly reduce response times and tailor  security policies to specific organizational 
+needs. However, t he future of AI -enabled cybersecurity lies in its ability to  help organizations  
+evolve  from reactive remediation to proactive prediction and prevention. With the analytical power 
+of AI , cybersecurity tools  can identify potential vulne rabilities and forecast cyberattack  patterns 
+so that an organization can strengthen its cybersecurity posture before attacks occur.   
+23 Executive Order No. 14154, Unleashing American Energy,  (Jan. 20 2025), https://www.whitehouse.gov/presidential -
+actions/2025/01/unleashing -american -energy/ .  
+
+
+7 Policymakers can facilitate these advancements by promoting an innovation -friendly 
+regulatory environment  that gives  cyber defenders the flexibility to address dynamic cyber threats . 
+To ensure that AI is integrated into cybersecurity solutions in a secure and resilient manner,  the 
+U.S. Government should :  
+•Collaborate with the private sector to develop guidance and encourage uptake of
+internationally recognized  standards that define how AI systems and AI -powered
+technologies  are securely deployed ; and
+•Ensure that AI systems embedded into cybersecurity solutions are not considered high -risk
+and subject to restrictive regulatory requirements  that inhibit the ability of companies to
+innovate to address emerging threats .
+B.Leverag e generative AI to enhance cybersecurity and expand cyber workforce capabilities
+Generative AI ( GenAI ) is playing a n important role in modernizing cybersecurity operations 
+and expanding workforce capabilities. GenAI  enhances system usability and democratizes access 
+to advanced security tools, simplifying complex cybersecurity management tasks through natural 
+language processing. For example, GenAI  embedded in Cisco ’s AI Assistant Firewall  allows users 
+to configure firewalls with natural language, eliminating the need for technical command -line 
+syntax. This innovation not only lowers the barrier to entry for non -experts bu t also enhances the 
+efficiency of security operations centers (SOCs).24 Leveraging security systems with intuitive 
+GenAI  interfaces  can help  expand the pool of cybersecurity talent with less extensive training.25 
+To realize the benefits of GenAI for cybersecurity, the U.S. Government should:  
+•Encourage adoption of cybersecurity systems with GenAI interfaces ; and
+•Promote the use of GenAI  to help address shortages of cybersecurity professionals .
+C.Promote r egulatory alignment and compatibility to boost  adoption of AI -enabled security
+Regulatory alignment across markets is essential for the widespread and trustworthy  adoption 
+of AI, particularly in critical sectors like cybersecurity. Divergent and conflicting regulations create 
+a complex and costly landscape for U.S. businesses, hindering innovation and impeding the 
+deployment of vital AI -powered security solutions. Uniform, risk -based , non -regulatory 
+frameworks  - for example those  based on international standards  - would foster trust, streamline 
+compliance, and enable the rapid deploym ent of AI -driven cybersecurity tools, ultimately 
+strengthening the U.S. national security posture and promoting a robust, globally competitive AI 
+ecosystem .  The U.S. Government  should:  
+•Work with strategic partners and allies to align security certifications to accept
+internationally recognized  schemes for certification, attestation , and verification of
+products and services to reduce the need for duplication of resources in different
+countries for these checks ; and
+24 Cisco’s SOC Assistant provides comprehensive situation analysis for SOC analysts, correlating intel across the Cisco Security Cloud platform 
+solutions, relaying potential impacts, and providing recommended actions  which reduces the time needed for SOC teams to respond to potential 
+threats. See Cisco Systems, Inc., Cisco Unveils Next -Gen Solutions that Empower Security and Productivity with Generative AI  (Aug. 29, 2023), 
+https://investor.cisco.com/news/news -details/2023/Cisco -Unveils -Next -Gen-Solutions -that-Empower -Security -and-Productivity -with-Generative -
+AI/default.aspx .  
+25 Cisco Systems, Inc., Close the Cybersecurity Workforce Gap with AI  Position Paper  (May 3 2024), 
+https://www.cisco.com/c/en/us/products/collateral/security/xdr/close -cybersecurity -workforce -gap-with-ai.html .  
+
+
+8 •Encourage  mutual recognition of certification regimes that are substantially similar and
+discourage the adoption of local requirements that differ from international ly recognized
+standards.
+IV. SECURI NG AI TO SUPPORT  INNOV ATION
+As AI development and deployment evolves  across sectors and use cases , robust security is 
+crucial for supporting innovation that protects national security and promotes economic growth. 
+Trustworthy AI encourages adoption by U.S. businesses, underscoring the importance of robust 
+security measures . Safe AI development aligned with human values fosters public trust and 
+supports national security and stability. Without proper safeguards and standards, unintended AI 
+behaviors could harm U.S. businesses and security, h ighlighting the need for AI guardrails and 
+security research.  Cisco is committed to protecting AI transformation by developing solutions 
+like Cisco AI Defense designed to continuously detect and protect against emerging threats in AI 
+applications without compromising speed or safety.  
+A.Support industry -backed  technological solutions to secure AI
+While integration of AI systems will undoubtedly  unlock new innovations and efficiencies 
+across the U .S. economy, AI systems can also introduce new risks . AI applications add a new layer 
+to the technology stack in the form of models . Additionally,  most organizations use multiple 
+models across public and private clouds. This multi -model  and multi -cloud landscape will require 
+government and private sector organizations alike to take a new approach to security. AI-associated 
+risks —like data leakage , data poisoning , training data extraction,26 prompt injection,  and insecure  
+outputs  handling —will need to be addressed . Additionally, threats from external actors seeking to 
+exploit vulnerabilities to steal confidential data or otherwise compromise security must be 
+mitigated to reduce risk and liability to U.S. businesses  and U.S. national security .27  
+The release of the DeepSeek  R1 model  exemplifies these challenges, highlighting deficiencies 
+in model security, as demonstrated by Cisco and the University of Pennsylvania’s  research on 
+prompt injection vulnerabilities.28 This research revealed a 100% success rate in jailbreaking the 
+model, underscoring that there are important risk appetite considerations for organizations 
+adopting AI . High performing  models do not always equal highly secure models. This highlights  
+the broader issue of commoditized  access to model development, which can result in  a proliferation 
+of new models with heightened risks and unreliability due to uncertain provenance and unclear 
+data governance . While all AI models can make mistakes, poor security can exacerbate those risks . 
+Developers and deployers of AI models need to have a comprehensive understanding of where 
+those weaknesses and vulnerabilities are and a willingness to fix  any identified problems. 
+26 Cisco’s A I research has shown  that there are simple methods bad actors can use to extract memorized training data from chatbots , which  – if 
+replicable at scale – could have widespread  security implications for AI models that are train ed on sensitive or proprietary data. See Amy Chang , 
+Extracting Training Data From Chatbots , Cisco Blogs ( Sept. 20 2024) https://blogs.cisco.com/security/extracting -training -data-from -chatbots .  
+27 Cisco is a leader in conducting threat analysis. More information on the latest AI security threats can be found in Cisco’s i naugural State of AI 
+Security report . See Cisco Systems Inc., The State of AI Security 2025 Annual Report , https://www.cisco.com/c/en/us/products/security/state -of-
+ai-security.html . 
+28 Gopal Devarajan, Evaluating Security Risk in DeepSeek and Other Frontier Reasoning Models , Cisco Blogs (Oct. 17 2024), 
+https://blogs.cisco.com/security/evaluating -security -risk-in-deepseek -and-other -frontier -reasoning -models   
+
+
+9 Technological solutions can help mitigate these risks. Innovations like automated re d teaming can 
+provide continuous testing and validation of A I models to block adversarial attacks . Real-time 
+protection for AI models, such as through Cisco AI Defense, 29 is critical to securely deploying AI 
+in enterprise environments .  
+Furthermore, it will be important to ensure that models and applications adhere to existing 
+compliance obligations, a growing challenge as AI -powered application development becomes 
+accessible to a wider audience, including non -traditional developers like healthcare and education 
+professionals. As the pool of developers expands, technology is ess ential to maintain compliance 
+and monitor the usage of AI models over time, ensuring they remain aligned with security and 
+operational standards.  Cisco AI Defense p lays a crucial role in this process by providing robust 
+tools and frameworks that help developers adhere to compliance requirements and continuously 
+monitor AI applications.  To support the secure development and deployment of AI , the U.S. 
+government should:  
+•Ensure federal agencies deploying AI define risk measurement and mitigation strategies,
+aided by adopting the NIST AI Risk Management Framework  (RMF) , and establish
+controls for AI application access to reduce these risks ;
+•Collaborate with the private sector to support pre - and post - deployment testing of AI
+models and encourage a utomated red teaming and the validation of AI  systems ;
+•Promote the  NIST  Adversarial Machine Learning (AML) taxonomy30; and
+•Work with private sector stakeholders31 and s upport U .S. participation in AI standards
+discussions to ensure U .S. leadership, facilitate  market access, and reduce duplicative
+compliance obligations for U .S. businesses .
+B.Work with industry  to secure  AI models’ supply chains
+Development and deployment of open -source models has aided U.S. businesses in accelerating 
+AI adoption and helped developers have access to cutting -edge technology to experiment and 
+innovate. However, all organizations should understand the potential risks and vulnerabili ties 
+associated with third -party software, AI models, and data. Threat actors have numerous 
+opportunities to create vulnerabilities in AI models such as through the introduction of corrupted 
+data into training datasets or the injection of malicious code in  open -source AI repositories. 
+Already industry and its partners are working together to develop methodologies and technologies 
+to assess and mitigate risks in AI models’ supply chains.32 The U.S. government should : 
+•Work with stakeholders to evaluate weaknesses  in publicly available AI models in the
+United States and help promote market -based solutions to addressing these risks.
+29 Cisco AI Defense provides two key elements of AI protection: protecting against the risk of sensitive data exposure from empl oyees using 
+third -party systems and sharing IP or other confidential information with AI tools and protecting the development of A I models through 
+validation identification of vulnerabilities, and application of guardrails. See Jeetu Patel, Protecting AI so AI Can Improve the World, Safely , 
+Cisco Blogs (Jan. 15 2025), https://blogs.cisco.com/news/you -cant-sacrifice -ai-safety -for-ai-speed .  
+30 Cisco Systems, Inc., AI Safety & Security Taxonomy , https://www.cisco.com/site/us/en/learn/topics/artificial -intelligence/ai -safety -security -
+taxonomy.html (last visited March 11 2025).  
+31 The NIST AML taxonomy was developed in partnership with Cisco, NIST, and the UK AI Security Institute and is a successful exa mple of 
+multi -stakeholder collaboration on standards that supports U.S. businesses. 
+32 MITRE, MITRE and Robust Intelligence Tackle AI Supply Chain Risks  (Sept. 27 2023), https://www.mitre.org/news -insights/news -
+release/mitre -and-robust -intelligence -tackle -ai-supply -chain -risks ; and Robust Intelligence, Robust Intelligence Partners with MITRE to Tackle AI 
+Supply Chain Risks in Open Source Models  (Sept. 27 2023), https://www.robustintelligence.com/blog -posts/robust -intelligence -partners -with-
+mitre -to-tackle -ai-supply -chain -risks-in-open -source -models .  
+
+
+10 V. KEY ENABLERS FOR AI LEADERSHIP
+Development of leading AI systems and solutions will require key enablers to be put in place 
+to ensure that public and private sector organizations can maximize use of AI to support industry -
+wide innovation and economic growth.  
+A.Support d ata privacy and security to build  trust in  AI and promote adoption
+In Cisco’s 2024 Consumer  Privacy Survey , respondents noted that awareness and 
+implementation of privacy laws led to enhanced comfort with AI adoption.33 Strong company 
+privacy practices, combined with reasonable privacy laws , are an important part of creating a 
+strong AI ecosystem in the United States. Cisco supports a reasonable federal privacy law to 
+provide a strong foundation for continued growth and innovation in AI; to ensure a harmonized 
+approach across the country  (instead of a patchwork of laws that may be confusing for consumers ); 
+and to facilitate U. S. leadership globally on privacy and AI. Cisco appreciates the U.S. 
+Government’s interest in seeking an approach to federal privacy legislation that will spur 
+innovatio n and help the U .S. retain its leadership position in AI.   
+Americans are more likely to use and benefit from the productivity gains associated with AI if 
+they are confident that there are baseline data privacy protections at the federal level, instead of 
+relying on potentially conflicting  state privacy  laws. Consistent privacy baselines  enhance public 
+trust in AI systems, fostering adoption while mitigating risks like unauthorized data use . Similarly , 
+it would position  the U.S. as a leader in responsible  AI governance, countering perceptions of lax 
+privacy protections; and consequently , American technology providers will be able to better 
+compete in the global market if foreign customers have greater certainty about the applicability of 
+a federal law that governs  use of their data when interacting with AI models and AI -powered 
+services from American companies.  
+B.Enable  cross-border data flows to  support  innovation  and market access
+Over the past few years, there has been a growing trend of  national governments  adopti ng data 
+localization policies. These policies create barriers to international data flows, hindering U.S. 
+companies in their efforts to innovate, leverage AI to strengthen security, and scale data -based 
+products and services to new markets . In fact, numerous independent studies demonstrate the 
+negative impacts of data localization requirements, including: increasing data storage costs; 
+reducing trade volumes; reducing innovation and competitiveness; increased costs for goods and 
+services; and increased regional compliance costs.34 These policies may also pose risks to privacy 
+and freedom of expression as authoritarian governments often “see physical access to data centers 
+as an enabler of surveillance and political control.”35 Moreover , data localization mandates can 
+33 Cisco Systems Inc., Cisco 2024 Consumer Privacy Survey https://www.cisco.com/c/en/us/about/trust -center/consumer -privacy -survey.html .  
+34 Nigel Cory & Luke Dascoli, How Barriers to Cross -Border Data Flows Are Spreading Globally, What They Cost, and How to Address Them, 
+Info. Tech. & Innovation Found. (July 2021), https://www2.itif.org/2021 -data-localization.pdf ; Conan French et al., Data Localization: Costs, 
+Tradeoffs, and Impacts Across the Economy, Inst. for Int’l Fin, (Dec. 2020), 
+https://www.iif.com/portals/0/Files/content/Innovation/12_22_2020_data_localization.pdf .  
+35 Id. 
+
+
+11 result in siloed data in remote places offering less opportunity for monitoring, detecting, and 
+remediating cyber intrusions.  To support U.S. competitiveness , the U.S. Government should:  
+•Oppose  overly  restrictive data localization mandates  that limit U.S. market access ,
+including by negotiating and enforcing provisions in digital trade chapters with trading
+partners; and
+•Seek digital trade provisions that support cross -border data flows, prevent governments
+from requiring source code as a condition of market access, and ensure non -discriminatory
+treatment of digital goods and services.
+C.Consider options to protect curated AI datasets
+AI models are only as good as the data they learn from. Data (personal, enterprise, public) and 
+methods applied to enrich it form the foundation that drives the accuracy, efficiency, and reliability 
+of models.  Organizations devote significant resources to creating AI/ML models and training data, 
+which can cost millions of dollars to produce.  These datasets are becoming high -value assets for 
+companies. Policymakers should explore what kinds of protections are available for these datasets, 
+including whether int ellectual property (IP) protections could and should apply in these situations. 
+Companies are interested in protecting both the data used as inputs and the data that is produced 
+(output) of AI systems, to avoid potential theft in the form of distillation models being trained 
+offshore.  The U.S. government should work with  stakeholders to come up with ideas to deal with 
+the challenge  of how to handle  ownership of this data. 
+D.Ensure robust intellectual property protections  for AI use
+As IP protections for AI are contemplated, the U.S. government should consider the importance 
+of the copyrightability of outputs where AI is leveraged. The U.S. should make the requirements 
+for indicating the use of AI in software code  clear and workable . Innovators creating software 
+using GenAI  need assurance that their work is appropriately protected under copyright law.  A 
+strong legal framework would protect software incorporating AI outputs , thereby  encouraging 
+investment and innovation. It is important that those who use AI to accelerate the development of 
+innovative software are confident that they can protect their own work using copyright law. The 
+U.S. Government should :  
+•Ensure that a ny evolution of copyright law to accommodate GenAI  is reasonable and
+balanced , allowing  for copyrightable GenAI  source code when there is sufficient human
+creativity.
+E. Lead  in the development of global AI standar ds
+Cisco has been a leader in technical standards development since the creation of the internet. 
+As part of our annual investment in research and development, hundreds of Cisco technical experts 
+participate in more than 120 standards development organizations each year. We employ 
+recognized international leaders in standards related to Wi -Fi, security, Internet protocols, optics, 
+software -defined networking, mobility, and numerous other technologies, including AI.  The 
+quality of Cisco’s  contributions is well -recognized within the industry and therefore provides the 
+foundation of many telecommunication standards.  
+
+
+12 The most important goal of standardization is technical interoperability, which allows web 
+browsers to reach websites, laptops to connect to Wi -Fi, and mobile phones to make calls even 
+though the technology that facilitates each of those connections is pro vided by many different 
+companies around the world. We encourage colleagues internationally to continue to serve as 
+global proponents for the open, industry -led, market -driven standardization system. Decades of 
+global experience in standardization have tau ght us that the open, industry -led, consensus -based 
+model of standardization yields the most innovative and pro -competition  outcomes.   
+Given the dynamic pace of innovation, the U.S. Government should support industry -led 
+standards and best practices that allow emerging technologies room to grow . Representation from 
+U.S. industry and government is critical to the development of AI standards that align with 
+American values and support American businesses. To promote policies that enable greater 
+participation from a wider range of U.S. stakeholders in Standards Development Organizations 
+(SDOs) , the U.S. Government should:  
+•Host  more international standards meetings in the United States ;
+•Fund support and simplification of the visa processes to make it easier for standards experts
+to travel to international standards meetings;
+•Elevat e the level of U.S. leadership involved in standards -related activities to help increase
+their visibility;
+•Work with strategic partners and allied countries to increase international collaboration and
+participation in industry -led standardization processes to help avoid the creation of
+competing blocs that could lead to global fragmentation on standards; and
+•Ensur e SDOs’ voting structures support a fair and transparent process so that outcomes are
+not decided by one country or region.
+F. Promote  digital transformation  to support adoption of AI in the public sector
+Digital transformation can yield many benefits, including improved and more agile 
+management of resources, better user experience , higher productivity, and reduced costs. Adoption  
+of cloud computing, data analytics, and IoT technologies, creates an AI -ready ecosystem and 
+facilitates the collection, storage, and processing of data, all of which is essential for training and 
+refining AI algorithms. Access to robust, high -quality, and well -structured data is needed  for AI 
+to deliver its full potential in enhan cing productivity in the public and private sectors.  
+While the U.S. private sector has made great strides in digital transformation, the U.S. dropped 
+from ranking 10th  in 2022 to 19th in the 2024 UN E -Government Survey.36 The U.S. Government 
+should view the advancement of AI as a catalyst to ensure public services are fit for the modern 
+era by leveraging digital technologies. If successful, this would improve citizens’ experiences of 
+government services and align with broa der policy objectives by making public services more 
+tailored and efficient.  
+36 United Nations, UN E -Government Survey 2024 , https://publicadministration.un.org/egovkb/en -us/Reports/UN -E-Government -Survey -2024  
+(last visited  March 11 2025 ).  
+
+
+13 Replacement of legacy equipment and pivoting to the cloud will not only ease delivery of 
+services , helping to close gaps in serving all Americans , but will also help address some of the 
+energy demand challenges discussed above. At the same time, this shift will also help improve our 
+nation’s security posture against potentially disruptive attacks to critical infrastructure by 
+malicious foreign actor s. The discovery that state -sponsored actors had successfully prepositioned 
+footholds in U.S. critical infrastructure systems that deliver electricity and water37 and accessed 
+sensitive calling data and wiretap records38 are strong indicators that we face unaddressed security 
+risks from technology that has not been effectively patched  or in some cases is too old to secure. 
+To ensure the U.S. Government can  securely  harness the benefits of AI to make the provision of 
+public services more effective and efficient, it should:  
+•Encourage the digitalization of the public sector by prioritizing cloud migration and
+modernization  of legacy infrastructure;
+•Develop  an effective data strategy that breaks down fragmented data sets and encourages
+interoperability of data  to support creation of  high-quality data sets  for AI ; and
+•Streamline U.S. Government procurement processes and increase capacity for testing and
+validation to ensure that U.S. agencies have access to the latest technology and are  not
+procuring older generations of technology due to slow approvals.
+G. Invest in d igital skills and workforce development for AI uptake
+AI will drive significant economic shifts, reshaping industries, labor markets, and 
+competitiveness. U.S. companies are interested in strategic planning for this new economy . 
+Workforce reskilling is key to stay ing competitive and ensur ing a smooth transition to new 
+opportunities while t raditional workflows are disrupted . Harnessing AI’s transformative potential 
+will require cultivating digital skills and an AI -ready workforce.  
+A report from the Cisco -led AI ICT Workforce Consortium found that 92 % of technology jobs 
+analyzed are expected to undergo either high or moderate transformation due to AI 
+advancements.39 But as Vice President JD Vance rightly highlighted in his remarks at the AI 
+Action Summit , the most promising “immediate applications of AI almost all involve 
+supplementing, not replacing, the work being done by Americans.” Using AI to augment and 
+strengthen the U .S. workforce will provide new ways to address critical workforce shortages  as AI 
+can help ease the transition of workers to high -demand industries. The U.S. is facing a shortfall of 
+265,000 cybersecurity professionals .40 Cisco and other tech companies have made significant 
+investments in training workers and students with employer -recognized certifications for high-
+demand jobs, including cybersecurity.  In Fiscal Year 2024 , Cisco’s Networking Academy  trained 
+over 315,000 students in the U.S. and has trained over 2.6 million students throughout the country 
+since the program’s inception in  1997. Cisco has also set the goal of training 25 million peop le on 
+37 Cybersecurity and Infrastructure Security Agency, PRC State -Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical 
+Infrastructure  (Feb. 7 2024), https://www.cisa.gov/news -events/cybersecurity -advisories/aa24 -038a . 
+38 John Sakellariadis & Maggie Mill-linked hackers stole wiretap data from telcos, FBI and CISA say  (Nov. 13 2024), 
+https://www.politico.com/news/2024/11/13/china -hackers -wiretap -data-telcos -00189445 . 
+39 Cisco Systems, Inc., AI-Enabled ICT Workforce Consortium , https://www.cisco.com/c/m/ai -enabled -ict-workforce -consortium.html  (last visited 
+March 11 2025). 
+40 CyberSeek, CyberSeek Highlights Persistent Cybersecurity Skills Shortage Despite Hiring Stabilization , PR Newswire (Sept. 20 2023), 
+https://www.prnewswire.com/news -releases/cyberseek -highlights -persistent -cybersecurity -skills -shortage -despite -hiring -stabilization -
+302275849.html .  
+
+
+14 digital and cyber skills through the Networking Academy by 2032.41 Yet, the skills gap in 
+cybersecurity persists  – and is likely to persist into the future unless we expand the pool of talent 
+from which these roles can be filled.  
+The U .S. Government and private sector must work together to bridge the gap so that all 
+workers can harness the power of AI and improve productivity. To that end, we support the 
+Administration’s efforts to train the U.S. workforce to ensure that American workers are prepared 
+to integrate, manage, and interact with AI -enabled tools across all sectors.  Cisco further 
+recommends that the U.S . Government : 
+•Research AI's impact on key industry workforces and share best practices to help
+companies of all sizes proactively upskill their workforce ;
+•Initiate public -private partnerships that leverage the technical expertise and insights into
+workforce demands of the private sector42;
+•Encourage Congress to reauthorize the Workforce Innovation and Opportunity Act that
+includes a specific percentage of funds to be dedicated towards worker training programs ;
+•Encourage and enshrine skills -based hiring practices in both the private and public sectors;
+•Extend eligibility for federally subsidized grants and loans, like Pell Grants, to students
+pursuing short -term training to help them keep pace with rapid AI advancements ; and
+•Encourage the Department of Labor to recognize non -traditional education programs as
+valid opportunities for worker development under the National Apprenticeship Program.
+VI. SUMMARY OF RECOMMENDATIONS
+This document provides a wide range of recommendations , summarize d below,  to support U.S. 
+businesses in develop ing and deploying AI and to ensure the U.S. maintains its global leadership 
+in this emerging technology. Our recommendations reflect Cisco’s expertise from working closely 
+with our customers to support their AI journey, the development and evolution of our AI 
+Governance program , which includes Cisco’s Responsible AI Framework , and our decades of 
+research and development .  
+Infrastructure : We encourage the U.S. government to promote policies that enable investment in 
+data center and broadband infrastructure, the development of future -proofed networks, and 
+affordable and reliable energy . To this end, the U.S. Government should:  
+•Encourage strategic investments in new data center capacity and modernization of legacy
+data centers;
+•Promote best practices for building AI -ready networks;
+•Ensure federal broadband investments are implemented efficiently and quickly ;
+•Work with permitting agencies to streamline regulatory requirements ; and
+•Encourage the use of energy efficient ICT equipment in data centers .
+41Cisco Systems, Inc., Cisco to Empower 25 Million People with Digital Skills Over the Next 10 Years  (Oct. 18 2022), 
+https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2022/m10/cisco -networking -academy -25th-anniversary.html .  
+42 For example, Cisco’s Networking Academy has successfully partnered with federal, state, and local agencies to deliver one of the longest -
+standing IT skills -to-jobs programs in the world. In the U .S. alone, the Cisco Networking Academy has partnered with a wide range of public and 
+private organizations such as the Department of Labor, the National Collegiate Cyber Defense Competition, Cyber Florida, Wichita State 
+University, and more.  
+
+
+15 AI and Cybersecurity:  To enable the U.S. private sector to innovate with AI to address the dynamic  
+cyber  threat environment , the U.S. Government should:  
+•Collaborate with the private sector to develop guidance and encourage uptake of
+internationally recognized standards;
+•Ensure that AI systems embedded into cybersecurity solutions are not considered high -risk;
+•Encourage adoption of cybersecurity systems with GenAI interfaces  and p romote the use
+of GenAI to help address shortages of cybersecurity professionals ; and
+•Encourage  mutual recognition of certification regimes that are substantially similar.
+Securing AI:  To support the secure development and deployment of AI in a way that minimizes 
+risks for U.S. businesses  and national security , the U.S. Government should:  
+•Ensure federal agencies deploying AI define how to measure and mitigate risks with AI;
+•Collaborate with the private sector to support pre - and post - deployment testing of AI
+models and encourage automated red teaming and the validation of AI systems;
+•Work with NIST to promote the NIST AML  taxonomy ; and
+•Work with stakeholders to evaluate weaknesses  in publicly available AI models and
+promote market -based solutions to addressing these risks.
+Implementing Key AI Enablers:  To ensure the United States has the correct tech and workforce  
+readiness  for AI, the U.S. Government should:  
+•Support a reasonable federal privacy law in the United States ;
+•Seek digital trade provisions that support cross -border data flows, prevent governments
+from requiring source code as a condition of market access, and ensure non -discriminatory
+treatment of digital goods and services ;
+•Consider options to protect curated datasets for AI ;
+•Support robust IP protections necessary for secure development of AI ;
+•Facilitate U.S. leadership in the development of global AI standards ;
+•Promote digital transformation to support adoption of AI in the public sector ; and
+•Work with private sector partners to invest in d igital skills and workforce development .
+VII. CONCLUSION
+Cisco appreciates the opportunity to assist OSTP in identifying the necessary steps for 
+advancing U .S. leadership in AI . It is imperative to balance a supportive policy environment that 
+allows the AI ecosystem and innovation to flourish while minimizing risks that might inhibit 
+adoption or undermine acceptance of this important technology. Cisco looks forward to working 
+with OSTP  to build a prosperous and secure AI ecosystem that supports American businesses and 
+strengthens U .S. economic competitiveness and national security.   
+
+

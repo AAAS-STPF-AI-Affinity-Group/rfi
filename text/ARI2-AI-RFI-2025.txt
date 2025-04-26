@@ -1,0 +1,512 @@
+ 
+ 
+ 
+March  14, 2025  
+ 
+Via Electr onic Submission  
+ 
+Faisal  D’Souza,  NCO  
+Office of Science  and Technology  Policy  
+Executive  Office of the President  
+2415  Eisenhower  Avenue  
+Alexandria,  VA 22314  
+ 
+Re: Request  for Information  on the Development  of an Artificial  Intelligence  (AI) Action  
+Plan1 
+   
+Over  the past several  years,  artificial  intelligence  (AI) capabilities  have  advanced  at a breakneck  
+pace.  The capabilities  that will be unlocked  over the course  of the Trump  Administration  will be 
+even  greater . The Administration’ s decisions  during  this time will be pivotal  to ensuring  this 
+technology  transforms  American  lives  for the better . Americans  for Responsible  Innovation  
+(ARI)  strongly  believes  that with thoughtful  policymaking,  the United  States  can harness  AI’s 
+vast potential  while  mitigating  potential  harm  to our citizens.2 
+  
+Since  the end of President  Trump’ s first term,  the amount  of computing  power  needed  to train a 
+next-gen  AI model  has increased  over 1,000-fold—from  small  chip clusters  to multibillion-dollar  
+data centers  using  as much  electricity  as a whole  city—with  the trendline  continuing  to point  up.3 
+As a result,  AI has advanced  from  only being  able to string  basic  sentences  together  to 
+performing  PhD-level  research  tasks.  Over  the next four years,  American  companies  may spend  
+over a trillion  dollars  developing  even  more  powerful  systems—possibly  including  broadly  
+3 Research firm Epoch AI calculates that the compute cost of producing notable AI models increased by ~4.5x per 
+year between the end of 2020 and mid 2025 (I.e., 4.5^4.6 = 1011.06). See Epoch AI (2024). Notable AI Models (Last 
+Updated Mar. 2025) [Data set and graph]. https://epoch.ai/data/notable-ai-models  2 This document is approved for public dissemination. The document contains no business-proprietary or 
+confidential information. Document contents may be reused by the government in developing the AI Action Plan 
+and associated documents without attribution. 1 Americans for Responsible Innovation is submitting this Comment to supersede and correct its previously 
+submitted comment on March 14, 2025, at 2:22 PM ET, to include the required statement on approval for public 
+dissemination in Footnote 2. 
+1 
+
+
+ 
+human-level  systems  known  as artificial  general  intelligence  (AGI).4 These  systems  will enable  
+dramatic  breakthroughs  from  science  and medicine  to energy and manufacturing.  They  will also 
+superchar ge Americans’  productivity  and accelerate  innovation  across  the economy .  
+ 
+Yet these  same  technologies,  if developed  irresponsibly , could  help terrorists  start a new 
+pandemic  or destroy  critical  infrastructure  with cyberattacks.5 And as AI automation  transforms  
+and disrupts  the labor  market,  smart  policy  will be needed  to help millions  of workers  stay 
+competitive  in the workforce.  Meanwhile,  the U.S. must  stay at the forefront  of global  AI 
+development  while  ensuring  that these  powerful  systems  are reliable  and stay under  human  
+control.  
+  
+Earlier  this year, President  Trump  signed  Executive  Order  14179  to establish  U.S. policy  for 
+“sustaining  and enhancing  America's  AI dominance  in order  to promote  human  flourishing,  
+economic  competitiveness,  and national  security .” No government  in history  has had to manage  
+such transformative  change  in so short  a time.  ARI is heartened  that the Trump  Administration  is 
+seeking  broad  input  from  the public  as it develops  its forthcoming  AI Action  Plan.   
+ 
+The focus  of our response  to the administration’ s RFI is on pragmatic,  actionable  policies  that 
+ensure  AI serves  as a force  for national  strength  rather  than a source  of national  vulnerability . In 
+this Comment,  we highlight  what  we believe  are the most  urgent policies  the Administration  can 
+implement  to advance  its stated  priorities  of national  security , human  flourishing,  and economic  
+competitiveness.  Through  a combination  of executive  action,  the convening  authority  of the 
+White  House,  and carefully  targeted  regulation,  the Administration  can establish  a governance  
+framework  for AI that benefits  the American  people  and economy , while  protecting  the public  
+from  harm.  
+ 
+ 
+5 Pillay, T., & Booth, H. (2024, August 27) AI Could One Day Engineer a Pandemic, Experts Warn. Time. 
+https://time.com/7014800/ai-pandemic-bioterrorism/; See “AI Risks to Critical Infrastructure” in U.S. Department of 
+Homeland Security, Safety and Security Guidelines for Critical Infrastructure Owners and Operators (Apr. 2024), 
+available at 
+https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators 4 Alvarez, J. & Doan, L. (2025, February 25). Tech Giants Have Pledged Over $1 Trillion in US Investment, So Far. 
+Bloomberg. 
+https://www.bloomberg.com/news/articles/2025-02-25/apple-openai-among-tech-firms-pledging-over-1-trillion-sinc
+e-trump-took-office  
+2 
+
+ 
+NATIONAL  SECURITY  
+As AI becomes  more  powerful,  the risk that it will be used against  the United  States  to endanger  
+America’ s national  security  grows  in tandem.6 Within the next few years,  frontier  models  will 
+likely  be capable  enough  to design  devastating  cyberattacks  or synthesize  deadly  pathogens.7 
+Without  effective  security  measures,  terrorists  could  access  these  capabilities  and use them  to 
+harm  Americans.  At the same  time,  hostile  regimes  will escalate  efforts to steal state-of-the-art  
+technology  from  U.S. labs, and will invest  heavily  in developing  models  that could  provide  them  
+decisive  geopolitical  advantages.8 
+ 
+We believe  the Trump  Administration  can mitigate  these  national  security  risks  via focused  
+policies  in the following  four key areas:  bolstering  defenses  against  bio and cyber  attacks,  
+strengthening  the security  of American  cloud  compute  resources,  hardening  top AI labs against  
+foreign  espionage,  and using  export  controls  to incentivize  adoption  of secure  AI development  
+practices  worldwide.  
+ 
+A. Bio and Cyber  Defense.  The most  plausible  catastrophic  risks  from  AI over the next four 
+years  are in the domains  of biology  and cybersecurity .9 Security  efforts should  be focused  on 
+maximizing  defenses  against  these  harms  and keeping  the ability  to create  super -pandemic  
+bioweapons  or power -grid-wrecking  cyberweapons  out of the hands  of terrorists  or adversary  
+state actors.10 
+Recommendation  1: Empower  the U.S. AI Safety  Institute  (AISI)  to protect  national  
+security . Because  AI with advanced  bio and cyber  capabilities  could  cause  severe  harm  
+to national  security , the U.S. government  must  be proactive  about  anticipating  and 
+mitigating  dangers  to Americans.  AISI  has the right  and requisite  technical  capabilities  to 
+keep  the White  House  accurately  informed—regularly  assessing  how the frontier  of AI 
+science  is changing  the risk landscape.  In addition,  AISI  can evaluate  foreign  models  like 
+10 Rose, S. et al. (2024). The near-term impact of AI on biological misuse. Center for Long-Term Resilience. 
+https://www.longtermresilience.org/wp-content/uploads/2024/07/CLTR-Report-The-near-term-impact-of-AI-on-biol
+ogical-misuse-July-2024-1.pdf; National Cyber Security Centre. (2024, January 24). The impact of AI on the cyber 
+threat. https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat 9 Anthropic. (2024, October 31). The case for targeted regulation. 
+https://www.anthropic.com/news/the-case-for-targeted-regulation; Anurin, A., et al. (2024). Catastrophic Cyber 
+Capabilities Benchmark (3CB): Robustly Evaluating LLM Agent Cyber Offense Capabilities. arXiv. 
+https://doi.org/10.48550/arXiv.2410.09114 8 Burnham, J., & Carroll, T. (2024, December 2). How to beat China in the quest for AI dominance. Foundation for 
+Defense of Democracies. 
+https://www.fdd.org/analysis/op_eds/2024/12/02/how-to-beat-china-in-the-quest-for-ai-dominance/ 7 Anthropic. (2024, October 31). The case for targeted regulation. 
+https://www.anthropic.com/news/the-case-for-targeted-regulation 6 Drexel, B., & Withers, C. (2024, June 11). Catalyzing crisis: Emerging catastrophic risks of artificial intelligence. 
+Center for a New American Security. https://www.cnas.org/publications/reports/catalyzing-crisis 
+3 
+
+ 
+DeepSeek  R1 to assess  the state of America’ s strategic  lead and inform  decision-making  
+about  how to maintain  it. As appropriate,  these  insights  should  feed directly  into the 
+National  Security  Council  (NSC)  and the Office of Science  and Technology  Policy  
+(OSTP).  
+Recommendation  2:  Mandate  WMD  safeguards  via government  contracts.  The 
+Administration  can act quickly  through  its contracting  authorities  to address  catastrophic  
+risks.  Any AI labs that develop  state-of-the-art  models  and receive  U.S. government  
+contracts  should  be required  to demonstrate  that their systems  have  robust  safeguards  
+against  the creation  of bioweapons  and other  weapons  of mass  destruction.11 
+Recommendation  3: Maintain  and strengthen  the Framework  for Nucleic  Acid  
+Synthesis  Screening.12 If AI model  safeguards  fail and terrorists  obtain  the sequence  for 
+a deadly  pathogen,  they could  attempt  to synthesize  it via a benchtop  nucleic  acid 
+synthesizer  or order  it from  an on-demand  biosynthesis  service.  The Framework  as it 
+currently  stands  requires  Know-Y our-Customer  (KYC)  checks  for purchasers  of synthesis  
+equipment  or synthetic  nucleic  acids,  as well as automated  screening  of nucleic  acid 
+purchase  orders  for harmful  sequences  so that suspected  bioweapon  creation  can be 
+reported  to the FBI. Framework  enforcement  can be made  more  effective  with risk-tiered  
+KYC,  much  like banks  and crypto  wallets  already  implement—easing  the regulatory  
+burden  for trusted  actors  while  focusing  extra  scrutiny  on high-risk  orders.  HHS’ s 
+Biological  Select  Agents  and Toxins  database  of sequences  of concern  to screen  for 
+should  also be regularly  updated  in consultation  with AISI  as AI discovers  new 
+vulnerabilities.13 
+Recommendation  4: Harden  critical  infrastructur e against  AI cyberattacks  and 
+incentivize  private  investment.  The U.S. government  should  invest  aggressively  in 
+assessing  vulnerabilities  to next-generation  AI cyberattacks—not  just current  
+vulnerabilities—with  the aim of developing  and deploying  mitigations.  The 
+Cybersecurity  and Infrastructure  Security  Agency  (CISA)  should  work  with AISI  to 
+identify  emer ging AI capabilities  and new harms  they enable.  This can also help 
+13 Federal Select Agent Program. (2025, January 14). Select agents and toxins list. U.S. Department of Health and 
+Human Services & U.S. Department of Agriculture. https://www.selectagents.gov/sat/list.htm 12 Office of Science and Technology Policy. (2024, September). Framework for Nucleic Acid Sythesis Screening. 
+Administration for Strategic Preparedness and Response. 
+https://aspr.hhs.gov/S3/Documents/OSTP-Nucleic-Acid-Synthesis-Screening-Framework-Sep2024.pdf 11 One way this could be operationalized is by using the Weapons of Mass Destruction Proxy (WMDP) evaluation, 
+co-developed by Scale AI and the Center for AI Safety. Yue, S., & Barrios, D. (2024, March 6). Introducing WMDP: 
+Measuring and Mitigating Catastrophic Risk Potential from LLMs. Scale AI. 
+https://scale.com/blog/measuring-mitigating-risk-wmdp 
+4 
+
+ 
+private-sector  actors  invest  more  effectively  in protecting  critical  infrastructure  they 
+control.   
+B. Robust  KYC  for Cloud  Compute.  The U.S.’ s AI chip export  controls  on China  have  helped  
+to impede  their AI development  so far, but the availability  of cloud  compute  constitutes  a 
+significant  gap in this regime.14 While  some  customer  documentation  measures  are in place,  
+these  are often  geared  toward  foreign  customers  and large training  runs.  It remains  too easy for 
+foreign  actors  to access  inference  compute  through  American  intermediaries  for purposes  that 
+violate  U.S. law and endanger  national  security:  hacking,  scamming,  radicalization,  and 
+incitement.  Unlike  virus  design  biorisks,  these  are harms  that hinge  on deploying  thousands  of 
+AI model  instances  in parallel.  There  is a need  for stronger , risk-tiered  KYC  to raise  the 
+difficulty  bar for bad actors  trying  to use American  AI infrastructure  to harm  Americans.  
+Recommendation  5: Support  the Remote  Access  Security  Act.15 This bill explicitly  
+expands  the export  control  regime  to include  cloud  services.  If passed,  it would  provide  a 
+firm legal  foundation  for Executive  Branch  action  to protect  American  cloud  assets  from  
+abuse.  
+Recommendation  6: Incentivize  stronger  KYC  measur es. While  updated  regulations  
+are being  formulated,  government  contracting  authority  is a straightforward  mechanism  
+to induce  cloud  providers  to quickly  enforce  stronger  KYC  protocols  on customers  
+seeking  access  to large-scale  U.S. inference  compute.   
+Recommendation  7: Maintain  and Strengthen  the Framework  for Artificial  
+Intelligence  Diffusion.16 Countries  that are unable  or unwilling  to enforce  cloud  KYC  
+domestically  make  it easy for hackers,  scammers,  or terrorists  within  their borders  to use 
+AI to harm  America  and its citizens.  By slightly  adjusting  the Framework,  the U.S. can 
+tie national-level  chip export  controls  to basic  KYC  implementation,  strongly  
+incentivizing  countries  to police  international  AI-enabled  crime  originating  within  their 
+borders.  
+16 Framework for Artificial Intelligence Diffusion, 90 F.R. 4544 (proposed Jan. 15, 2025) (to be codified at 15 C.F.R. 
+§§ 732, 734, 740, 742, 744, 748, 750, 762, 772, & 774). https://www.federalregister.gov/d/2025-00636 15 Remote Access Security Act, H.R.8152, 118th Cong. (2024). 
+https://www.congress.gov/bill/118th-congress/house-bill/8152 14 Fist, T., & Grunewald, E. (2023, October 24). Preventing AI chip smuggling to China. Center for a New American 
+Security. https://www.cnas.org/publications/reports/preventing-ai-chip-smuggling-to-china; Shivkumar, S, et al. 
+(2024, February 21). Balancing the ledger: Export controls on U.S. chip technology to China. Center for Strategic 
+and International Studies. https://www.csis.org/analysis/balancing-ledger-export-controls-us-chip-technology-china; 
+Yang, Z. (2025, January 25). How Chinese AI startup DeepSeek made a model that rivals OpenAI. WIRED. 
+https://www.wired.com/story/deepseek-china-model-ai/ 
+5 
+
+ 
+C. Hardening  Frontier  Lab Security . The Intelligence  Community  (IC) should  partner  closely  
+with frontier  labs to secure  U.S. AI technology  against  Advanced  Persistent  Threats  (APT s).17 
+This can reduce  risk of theft of model  weights  developed  at the cost of billions  of dollars  and 
+which  may have  decisive  military , cyber , or intelligence  applications.  
+Recommendation  8: Provide  Intelligence  Community  tools  and expertise  to harden  
+frontier  labs.  The resources  and know-how  of the NSA,  FBI, and CISA  are crucial  to 
+hardening  frontier  labs’  defenses  against  attempts  by adversaries  to steal research  secrets  
+or model  weights.  Current  lab defenses  are woefully  inadequate  and need  to rapidly  
+improve  to prepare  for state actor -level  threats  against  their most  sensitive  and dangerous  
+technology .18 Frontier  labs are likely  to welcome  security  assistance,  but government  
+contracting  authority  can be used as an incentive  if necessary . 
+Recommendation  9: Conduct  realistic  penetration  tests.  Regular  and sophisticated  
+“pen  tests”  are critical  for preparing  frontier  labs’  defenses  against  sophisticated  attacks.19 
+We propose  that the IC offer regular  penetration  tests to the nation’ s frontier  AI labs. 
+These  would  be voluntary  for labs, but government  defense  contracts  and other  sensitive  
+contracting  should  be contingent  on participation  in this security  program.  Likewise,  
+participation  should  be obligatory  for labs leasing  federal  sites for their infrastructure.  
+Vulnerabilities  discovered  in penetration  tests should  be mitigated  with assistance  from  
+the Intelligence  Community  and federal  law enforcement.  
+ 
+ 
+19 IBM. (2023, January 24). What is Penetration Testing? https://www.ibm.com/think/topics/penetration-testing 18 Saunders, W., & Kokotajlo, D. (2024, August 22). Letter from OpenAI Whistleblowers. Politico. 
+https://static.politico.com/ed/a3/b49946554f5ead081a5df2063048/letter-from-openai-whistleblowers-on-sb-1047-20
+24-08-22-2.pdf 17 Baker, K. (2025, March 4). Advanced Persistent Threats (APT) Explained. CrowdStrike. 
+https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/advanced-persistent-threat-apt/ 
+6 
+
+ 
+HUMAN  FLOURISHING  
+Human  flourishing  in the age of AI requires  more  than just protecting  people  against  catastrophic  
+risks.  ARI believes  that with ambitious  and responsible  development,  artificial  intelligence  can 
+power  a future  where  ordinary  Americans  enjoy  levels  of health,  prosperity , and freedom  far 
+greater  than what’ s possible  today . While  the private  sector  will lead this revolution,  there  is a 
+crucial  role for government:  funding  neglected  basic  science,  striking  a smart  regulatory  balance  
+that builds  trust in the security  and reliability  of advanced  AI systems,  and cracking  down  on 
+abusive  applications  of AI, to name  a few. 
+The Trump  Administration’ s AI Action  Plan should  prioritize  three  clusters  of policies  that will 
+maximize  human  flourishing:  accelerating  medical  breakthroughs,  catalyzing  U.S. materials  
+science  discoveries,  and protecting  Americans  from  AI-enabled  exploitation.   
+D. Medical  Breakthr oughs.  Chronic  diseases  like cancer , heart  disease,  diabetes,  and 
+Alzheimer ’s cost the U.S. about  $4 trillion  a year, not including  enormous  lost productivity .20 
+Over  1.5 million  Americans  die from  these  diseases  each year, and tens of millions  more  suffer 
+extreme  physical,  financial,  and emotional  hardships.  AI capabilities  to cure these  diseases  and 
+transform  patient  care are now within  reach.21 In addition  to revolutionizing  health  care and 
+unleashing  greater  economic  productivity , achieving  breakthrough  cures  can save Medicare  
+trillions  of dollars—making  the return  on government  investment  exceptionally  favorable.  
+Recommendation  10: Accelerate  drug  discovery  and evaluation.  AI-augmented  drug 
+discovery  is now rapidly  maturing.22 For the first time,  a drug designed  end-to-end  with 
+AI has passed  its phase  IIa clinical  trial last year to treat a fatal lung disease,  and dozens  
+more  candidates  are in testing.23 New  platforms  like AlphaFold  3 and AlphaProteo  
+demonstrate  AI’s immense  potential  to simulate  biology  and develop  breakthrough  
+medicines—much  faster  and cheaper  than was possible  before—and  solve  problems  like 
+23 Insilico Medicine. (2024, November 21). Insilico Medicine Announces Positive Topline Results of ISM001-055 for 
+the Treatment of Idiopathic Pulmonary Fibrosis (IPF) Developed Using Generative AI. PR Newswire. 
+https://www.prnewswire.com/news-releases/insilico-medicine-announces-positive-topline-results-of-ism001-055-for
+-the-treatment-of-idiopathic-pulmonary-fibrosis-ipf-developed-using-generative-ai-302302583.html 22 Licholai, G. (2025, March 12). AI Superintelligence Startup Promises Drug Discovery Revolution. Forbes. 
+https://www.forbes.com/sites/greglicholai/2025/03/12/ai-superintelligence-promises-drug-discovery-revolution/ 21 Thornhill, J. (2024, June 27). To cure disease, AI needs more of our data. Financial Times. 
+https://www.ft.com/content/03a636fd-aac4-427e-a393-31b4d08109d1; Regalado, A. (2024, March 20). An AI-driven 
+“factory of drugs” claims to have hit a big milestone. MIT Technology Review. 
+https://www.technologyreview.com/2024/03/20/1089939/a-wave-of-drugs-dreamed-up-by-ai-is-on-its-way 20 Centers for Disease Control and Prevention. (2024, July 12). Fast Facts: Health and Economic Costs of Chronic 
+Conditions. Department of Health and Human Services. 
+https://www.cdc.gov/chronic-disease/data-research/facts-stats/index.html 
+7 
+
+ 
+antibiotic  resistance  that traditional  pharmaceutical  research  struggles  with.24 The 
+National  Institutes  of Health  (NIH)  should  strongly  prioritize  funding  and support  for AI 
+applications  to drug discovery , especially  for translational  medicine  and diseases  
+neglected  by private-sector  research.  In addition,  because  accelerating  drug discovery  
+will mean  more  clinical  trials,  the FDA  should  bolster  its evaluation  capacity  so potential  
+cures  are not delayed  by bureaucratic  inefficiency . 
+Recommendation  11: Build  AI-power ed medical  resear ch tools.  The research  dollars  
+and scientific  talent  currently  devoted  to curing  chronic  diseases  are bottlenecked  by 
+reliance  on badly  outdated  tools  and techniques.  Smart  platforms  like Co-Scientist  and 
+the SAMPLE  robotic  lab show  how AI can dramatically  empower  American  scientists  at 
+every  phase  of the research  pipeline—from  hypothesis  generation  through  experimental  
+design,  wet-lab  work,  precise  measurement,  and large-scale  data analysis.25 To harness  
+this potential,  the National  Science  Foundation  (NSF)  should  increase  funding  for the 
+development  of AI tools  that can accelerate  biomedical  research.  In addition,  NIH 
+grantmaking  should  incentivize  adoption  of these  tools,  and it should  develop  trainings  to 
+help scientists  use the latest  AI capabilities  effectively . 
+Recommendation  12: Integrate  AI to impr ove patient  care. AI already  achieves  
+superhuman  performance  at many  of the reasoning  tasks  physicians  perform  in clinical  
+practice.26 Yet most  doctors  are not trained  to utilize  AI effectively  and lack the 
+familiarity  to build  trust in its abilities.27 Building  trust requires  iterative  innovation  and 
+responsible  experimentation.  Federal  healthcare  systems  like those  within  the Department  
+of Veterans  Affairs should  create  regulatory  sandboxes  similar  to the UK’s AI Airlock,  
+reducing  red tape while  enabling  rigorous  evaluation  and rapid  deployment  of medical  AI 
+technologies.28  
+28 Medicines and Healthcare products Regulatory Agency. (2024, December 4). AI Airlock: The regulatory sandbox 
+for AIaMD. GOV.UK. https://www.gov.uk/government/collections/ai-airlock-the-regulatory-sandbox-for-aiamd 27 Kolata, G. (2024, November 17). A.I. Chatbots Defeated Doctors at Diagnosing Illness. New York Times. 
+https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html 26 Brodeur, P., et al. (2024). Superhuman performance of a large language model on the reasoning tasks of a 
+physician. arXiv. https://doi.org/10.48550/arXiv.2412.10849 25 Gottweis, J., & Natarajan, V. (2025, February 19). Accelerating scientific breakthroughs with an AI co-scientist. 
+Google Research. https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/; Rapp, 
+J., et al. (2024). Self-driving laboratories to autonomously navigate the protein fitness landscape. Nature Chemical 
+Engineering, Vol. 1 (1), 97–107. https://doi.org/10.1038/s44286-023-00002-4 24 Abramson, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature, 
+Vol. 630 (8016), 493–500. https://doi.org/10.1038/s41586-024-07487-w; DeepMind. (2024, September 5). 
+AlphaProteo generates novel proteins for biology and health research. 
+https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/; 
+Gerken, T. (2025, February 20). AI cracks superbug problem in two days that took scientists years. BBC. 
+https://www.bbc.com/news/articles/clyz6e9edy3o?fbclid=IwY2xjawIuqxpleHRuA2FlbQIxMQABHdlqbkfKborQ3
+WAc4EIBB1Q0HJEAlhCt8wPwzndHynQVpmLJDaZC5sVxWg_aem_7LW2wUnpjpARxtoBWgCadg 
+8 
+
+ 
+E. Materials  Science  Leadership.  Technological  progress  across  dozens  of key fields  is 
+currently  bottlenecked  by the slow  pace of materials  science  discovery . Superhuman  AI tools  like 
+Google’ s GNoME  are now emer ging to break  the logjam.29 This can spur strong  economic  
+growth  and greatly  improve  Americans’  quality  of life. 
+Recommendation  13: Fund  targeted  resear ch for rare-earth  substitutes.  U.S. 
+manufacturing  is now dangerously  reliant  on lithium  and rare-earth  elements,  which  are 
+mostly  produced  and processed  in China.  Effective  substitutes  made  from  common  
+elements  are known  to be possible.  For example,  carbon  nanomaterials  show  the potential  
+to eliminate  or reduce  the need  for several  sorts  of geochemically  rare metals  (such  as 
+indium)  in many  applications.30 But it will take an aggressive  AI effort to find these  
+substitutes  and bring  them  to technological  maturity . Due to weaknesses  in U.S. patent  
+law, the private  sector  is underinvesting  in this research.31 Until  that can be fixed,  
+ARPA-E and the NSF should  allocate  high-priority  funding  for the effort. Due to the 
+national  security  imperative  to reduce  America’ s dependence  on China’ s rare earths,  DoD  
+should  also invest  boldly  in AI materials  discovery , especially  for substances  with 
+defense  applications.  
+Recommendation  14: Fund  targeted  resear ch for electrical  infrastructur e and 
+battery  chemistries.  The laws of physics  suggest  that vastly  better  materials  are possible  
+for storing  and transmitting  electricity . For example,  today’ s lithium-ion  batteries  often  
+achieve  energy densities  around  270 Wh/kg,  whereas  lithium-air  chemistries  could  
+theoretically  achieve  up to around  11,000  Wh/kg.32 In addition  to absolute  efficiency  
+gains,  even  larger price-performance  gains  are possible  if materials  science  AI discovers  
+alternative  compounds  or new manufacturing  processes  that can bring  costs  down.  
+Discovering  superior  electrical  materials  would  eliminate  costly  waste  and allow  the U.S. 
+to better  harness  AI-driven  energy breakthroughs  in fusion,  safe fission,  and 
+photovoltaics.  
+32 Frith, J.T. et al. (2023) A non-academic perspective on the future of lithium-based batteries. Nature 
+Communications, Vol. 14 (1). 1–17. https://doi.org/10.1038/s41467-023-35933-2; Xiao, J. et al. (2010). Hybrid 
+Air-Electrode for Li/Air Batteries. Journal of The Electrochemical Society, Vol. 157 (3). A294–A297. 
+https://doi.org/10.1149/1.3280281 31 Penti, R. S. et al. (2024, February 14). Can AI inventions be patented? The USPTO speaks. Ropes & Gray LLP. 
+https://www.ropesgray.com/en/insights/alerts/2024/02/can-ai-inventions-be-patented-the-uspto-speaks 30 Arvidsonn, R., & Sandén, B. (2017). Carbon nanomaterials as potential substitutes for scarce metals. Journal of 
+Cleaner Production, Vol. 156 (1), 253–261. https://doi.org/10.1016/j.jclepro.2017.04.048; Johnson, D. (2011, April 
+13). Carbon Nanotube Solution Could Eliminate Need for Indium Tin Oxide in Electronic Displays. IEEE Spectrum. 
+https://spectrum.ieee.org/carbon-nanotube-solution-could-eliminate-need-for-indium-tin-oxide-in-electronic-display
+s 29 Merchant, A., & Cubuk, E. D. (2023, November 29). Millions of new materials discovered with deep learning. 
+DeepMind. https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/ 
+9 
+
+ 
+F. Safeguarding  Americans  from Exploitation.  AI has enabled  bad actors  to scam  and exploit  
+Americans  on a scale  never  before  seen.  The Trump  administration  must  strengthen  protections  
+for America’ s seniors,  for victims  of non-consensual  intimate  imagery , for election  integrity , and 
+for consumer  privacy  to mitigate  the harmful  impact  of AI exploitation.  
+Recommendation  15: Protect  our elders.  Senior  citizens  are especially  vulnerable  to 
+AI-augmented  scams,  such as automated  spear  phishing,  voice-cloning  attacks,  fake 
+customer  service  bots,  and healthcare-related  fraud.33 The Department  of Justice  should  
+establish  a dedicated  unit to investigate  and prosecute  these  scams  and assist  victims,  
+working  closely  with AISI  both to identify  emer ging threats  and inform  secure  AI 
+development.  
+Recommendation  16: Ban non-consensual  deepfake  pornography . AI can now create  
+realistic  sexual  imagery  of non-consenting  people  and that capability  will rapidly  get 
+even  more  advanced.  ARI applauds  the Trump  Administration’ s support  for the TAKE  IT 
+DOWN  Act criminalizing  non-consensual  publication  of pornographic  deepfakes,  and 
+also urges support  for the bipartisan  DEFIANCE  Act, providing  civil remedies  for 
+deepfake  victims.34 NIST  should  fund research  developing  better  deepfake  detection  and 
+provenance-authentication  technologies.  
+Recommendation  17: Strengthen  consumer  privacy . Americans  still have  little control  
+over how their personal  information  is harvested  online  and used in AI training.  The 
+Trump  Administration  should  work  with Congress  to develop  bipartisan  legislation  
+protecting  users’  data privacy . 
+ 
+ 
+ 
+34 TAKE IT DOWN Act, S.4569, 118th Cong. (2024). 
+https://www.congress.gov/bill/118th-congress/senate-bill/4569/text; DEFIANCE Act of 2024, S.3696, (2024). 
+https://www.congress.gov/bill/118th-congress/senate-bill/3696/all-info 33 Gorman, B. (2024, November 18). 5 AI scams to watch out for in 2025. LifeLock by Norton. 
+https://lifelock.norton.com/learn/internet-security/ai-scams; Fletcher, K. (2024, October 31). Is AI calling you? 
+Watch out for the flex card scam. California Health Advocates. 
+https://cahealthadvocates.org/is-ai-calling-you-watch-out-for-the-flex-card-scam/ 
+10 
+
+ 
+ECONOMIC  COMPETITIVENESS  
+ARI expects  that the long-run  development  and adoption  of AI in the United  States  will bring  
+about  an economic  transformation  comparable  to the Industrial  Revolution.  This will create  
+tremendous  wealth,  but also impose  serious  challenges  as companies  and workers  must  adapt  to 
+changes  faster  than ever in history . Many  millions  of jobs will be both created  and destroyed,  
+while  the skills  demanded  by others  rapidly  evolve.35 Successful  deployment  of AI—from  
+white-collar  work,  to manufacturing,  to autonomous  vehicles—will  depend  on public  confidence  
+in trustworthy  systems.  The U.S.’ s continued  global  competitiveness  will require  the aggressive  
+expansion  of infrastructure  like domestic  semiconductor  manufacturing,  data center  
+infrastructure,  and electricity  supply . To meet  all these  challenges,  the government  will need  
+deep  technical  expertise  to implement  agile,  evidence-based  policies  effectively . 
+To maximize  U.S. economic  competitiveness  during  this revolution,  the AI Action  Plan should  
+focus  on four vital policy  concerns:  smart  vocational  training  programs  to accelerate  workforce  
+adaptation,  cementing  America’ s advantages  in AI reliability , accelerating  AI infrastructure  
+development,  and attracting  and retaining  top AI talent  in government.  
+G. Smart  Vocational  Training.  As AI disrupts  the labor  market  ever more  rapidly , workers  can 
+no longer  assume  skills  gained  from  a bachelor ’s degree  will last their whole  career . Tens of 
+millions  of the most  needed  and most  automation-insulated  jobs are in vocations  like building  
+trades,  home  health,  and hospitality .36 In addition,  as AI transforms  labor  markets,  it will create  
+millions  of new jobs in emer ging fields  like data center  maintenance,  robotics,  and energy, but 
+will also require  many  workers  to learn  new skills  in order  to remain  competitive.37 America’ s 
+workforce  needs  agile  training  programs  that quickly  teach  useful  skills  to mastery . Fortunately , 
+AI can also be a powerful  tool to help people  learn.  Over  the course  of President  Trump’ s term,  
+tools  like smarter  AI tutors  and AI-enhanced  online  courses  will likely  be available.  This may 
+enable  a degree  of workforce  adaptability  that was not possible  with traditional  educational  
+methods.  
+Recommendation  18: Rapidly  develop  and deploy  automation-insulated  and 
+AI-relevant  vocational  training.  The Department  of Labor , primarily  through  the 
+Employment  and Training  Administration,  should  increase  investment  in vocational  
+training  programs—including  by supporting  state-level  efforts—and  should  pilot new 
+37 The World Economic Forum is predicting that by 2030, AI will create ~170 million jobs and displace 92 million 
+jobs. See The World Economic Forum (2025, January 7) Future of Jobs Report 2025. The World Economic Forum. 
+Accessible via https://www.weforum.org/publications/the-future-of-jobs-report-2025/ 36 Ibid, p. 21. 35 The World Economic Forum is predicting that by 2030, AI will create ~170 million jobs and displace 92 million 
+jobs. See The World Economic Forum (2025, January 7) Future of Jobs Report 2025. The World Economic Forum. 
+Accessible via https://www.weforum.org/publications/the-future-of-jobs-report-2025/   
+11 
+
+ 
+programs,  both funded  and developed  in partnership  with the private  sector . The focus  
+should  be on jobs that are either  likely  to be resistant  to automation,  or complementary  to 
+AI-driven  economic  growth.  These  programs  should  be designed  to continually  
+incorporate  the latest  breakthroughs  in AI-enhanced  education  as the technology  
+advances.  They  should  take inspiration  from  successful  industry-driven  apprenticeship  
+programs  like FAME  USA,  originally  created  by Toyota.38 
+Recommendation  19: Upskill  the federal  workfor ce. For the government  to be 
+efficient  and effective  in fast-changing  conditions,  millions  of federal  employees  will 
+need  to acquire  new skills  quickly . Agencies’  Chief  AI Officers  should  solicit  proposals  
+to overhaul  internal  training  and education—both  to increase  workers’  AI literacy , and to 
+integrate  AI into the full spectrum  of human  capital  development.  
+H. Reliable  AI for Nationwide  Adoption.  Businesses  will only fully  embrace  AI once  it can 
+reliably  avoid  major  errors.  Transformative  levels  of adoption  will require  new breakthroughs  in 
+the science  of AI reliability , but it is not guaranteed  that those  breakthroughs  will come  from  the 
+U.S. China’ s new AI safety  institute  equivalent,  CNAISDA,  is staffed by top talent  and shows  
+that China  is applying  serious  effort in this domain.39 In order  to achieve  worldwide  adoption,  
+U.S. AI must  remain  the global  leader  in reliability .  
+Recommendation  20: Strengthen  and focus  AISI.  AISI  should  be funded  to attract  top 
+technical  talent  and empowered  to help the U.S. take a decisive  lead in this field.  Without  
+reliability , AI cannot  achieve  transformative  impact.  Trustworthy  AI is a nonpartisan  
+research  goal.   
+Recommendation  21: Establish  a system  for voluntary  AI incident  reporting.40 
+Frontier  labs need  a confidential  channel  for sharing  information  with policymakers  
+about  dangerous  or harmful  behavior  by AI. This can promote  proactive  risk mitigation  in 
+industry , and give the government  concrete  evidence  that informs  decisions  about  how to 
+keep  Americans  safe. 
+Recommendation  22: Protect  whistleblowers.  Big tech AI labs operate  in great  secrecy . 
+Employees  who report  dangerous  activities  through  proper  channels  should  be protected  
+as whistleblowers,  even  if that activity  is not clearly  illegal.  Setting  up these  channels  and 
+protecting  those  who report  will incentivize  labs to police  themselves.  A useful  model  for 
+40 Croxton, J. et al. (2024, June 25). Message Incoming: Establish An AI Incident Reporting System. Federation of 
+American Scientists. https://fas.org/publication/establishing-an-ai-incident-reporting-system/   39 China AI Safety & Development Association (n.d.). Experts. 
+https://cnaisi.cn/gywm_01171445_559_01171456_131 38 Federation for Advance Manufacturing Education (n.d.) About Us: The New American Model of Manufacturing 
+Skills Training. https://fame-usa.com/fame-program-for-manufacturers-copy-2/ 
+12 
+
+ 
+confidential  reporting  and whistleblower  protection  in a high-stakes  field is the Nuclear  
+Regulatory  Commission’ s Allegations  Program.41 
+I. Accelerating  AI Infrastructur e. In contrast  to previous  AI software  which  was programmed  
+by humans,  today’ s deep  learning  AI learns  on its own,  powered  by mountains  of data and 
+staggering  amounts  of computing  power . This means  that AI progress  largely depends  on labs’  
+ability  to scale  up the infrastructure  needed  to perform  hyper -scale  computation.  Responsibly  
+accelerating  this expansion  will take a national-level  effort spanning  AI labs themselves,  
+chipmakers  and other  high-tech  manufacturing  companies,  construction  firms,  utilities,  and 
+government  regulators.  
+Recommendation  23: Implement  permitting  reform  across AI infrastructur e 
+categories.  Maintaining  U.S. leadership  in AI requires  expansion  of physical  
+infrastructure  much  faster  than traditional  permitting  processes  have  allowed.  
+Fortunately , there  is a bipartisan  consensus  supporting  reforms  to streamline  this 
+permitting.42 The Trump  Administration  should  implement  these  reforms  across  the full 
+spectrum  of AI-relevant  infrastructure—not  just data centers  and electricity  generation,  
+but also semiconductor  fabs,  power  transmission  infrastructure,  and factories  for data 
+center  equipment.   
+Recommendation  24: Facilitate  state  and local  reforms.  Many  of the bureaucratic  
+frictions  slowing  AI infrastructure  development  are not under  federal  control.  The 
+Administration  should  use the convening  power  of the White  House  to bring  industry  
+together  with state-level  and local  policymakers  to find mutually  acceptable  regulatory  
+reforms.  Executive  Branch  regulators  should  develop  model  permitting  guidance  to help 
+states  and cities  harmonize  their efforts.  
+J. Attracting  and Retaining  AI Talent.  While  smarter  AI systems  are generally  getting  easier  
+to use without  special  training,  AI literacy  is not the same  as AI expertise.  For our government  to 
+adequately  serve  the American  people,  and to maintain  its advantages  over strategic  rivals,  
+agencies  need  the technical  talent  to anticipate  new developments  and plan based  on future  AI 
+capabilities.  
+Recommendation  25: Hire the best and brightest.  Every  agency  needs  the personnel  to 
+understand  how AI diffusion  across  society  will impact  its mission,  and also know  how to 
+rapidly  procure  and adopt  new AI technology  to improve  its performance.  Hiring  across  
+the government  should  prioritize  high-level  AI talent,  offering  salaries  designed  to attract  
+42 Energy Permitting Reform Act of 2024, S.4753, 118th Cong. (2024). 
+https://www.congress.gov/bill/118th-congress/senate-bill/4753 41 United States Nuclear Regulatory Commission (n.d.). Allegations. 
+https://www.nrc.gov/about-nrc/regulatory/allegations-resp.html 
+13 
+
+ 
+those  with private-sector  alternatives.  For example,  law enforcement  must  stay ahead  of 
+criminals  using  AI, BIS must  constantly  update  rules  to keep  up with industry  advances  
+and cat-and-mouse  games  with smugglers,  and AISI  must  be able to advise  other  parts  of 
+government  on frontier  capabilities.  
+Recommendation  26: Prioritize  technical  talent  retention.  AI skills  are in intense  
+demand  by the private  sector , and if technical  talent  is laid off as part of general  
+efficiency  efforts,  it will be difficult  to recruit  back.  Any workforce  reduction  plans  
+agencies  implement  should  seek to minimize  the impact  on their AI competence.  
+ 
+ 
+CONCLUSION  
+Americans  for Responsible  Innovation  is grateful  for the opportunity  to highlight  these  urgent 
+policy  priorities  as the Administration  formulates  its AI Action  Plan.  With the impacts  of 
+artificial  intelligence  accelerating  across  society , we have  focused  on concrete,  actionable  
+recommendations  that can begin  substantive  implementation  by the Executive  Branch  during  the 
+2025  calendar  year. As OSTP  considers  these  recommendations,  we warmly  welcome  any 
+questions  you may have  and hope  that this Comment  can spark  further  dialogue  with 
+policymakers  over the coming  months.  
+ 
+ 
+ 
+ 
+       Respectfully  submitted,  
+ 
+       Mitchell  Kominsky  
+       Vice President  of Government  Affairs 
+       Americans  for Responsible  Innovation  
+14 
+

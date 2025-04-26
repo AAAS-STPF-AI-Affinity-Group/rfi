@@ -1,0 +1,160 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8b-1g9c-5yzl
+Com m ents Due: March 15, 2025
+Subm ission Type: Web
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-7749
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Num obility LLC
+General Comment
+This whitepaper proposes the creation of an AI Benchm ark to drive AI adoption in the US transportation industry.
+Attachments
+Transportation AI Benchm arking Whitepaper_20250315
+
+
+TransportationBench: Driving Adoption through AI Benchmarking 
+Transportation agencies face increasing challenges in planning and operating a 
+multimodal system that supports all models of travel. These include managing complex 
+project development workflows across multiple stakeholders, understanding and 
+responding to evolving travel  patterns, identifying infrastructure gaps and opportunities, 
+incorporating new mobility technologies across surface / air / maritime , and 
+systematically capturing and applying lessons learned from implemented projects.  
+As a general -purpose technology, artificial intelligence (and generative AI, in 
+particular) has shown promising potential to address these problems and is 
+actively being adopted across sectors in the same way that electricity  transformed 
+society in the 20th century. Yet currently there is a lack of standardized validation 
+methods essential for implementation and widespread AI adoption. A recent study1 
+found that even leading AI models like Claude Sonnet 3.5 and GPT -4o demonstrate 
+significant limitations when handling complex transportation concepts at the practitioner level. Transportation practitioners who have used models cite limitations in 
+transportation domain knowledge and ‘hallucinations’ in model responses that hinders 
+their usefulness beyond administrative tasks.  
+Trust is foundational to AI adoption and to sustain the adoption curve, we must 
+work towards building transportation users trust in AI responses. While techniques 
+such as retrieval augmented generation (RAG) help ground the AI responses in domain 
+knowledge, our industry lacks the tools to systematically compare results of different 
+large language models (LLMs) or their derivative applications. This results in individual 
+public agencies validating AI solutions without an industry ‘benchmark’, leading to 
+inconsistent validation approaches across jurisdictions, potential ly redundant validation 
+of the same AI solution(s), and overall inefficiencies that slows AI adoption.  
+A standardized AI benchmark would not only accelerate responsible AI adoption 
+but also drive focused improvements in AI capabilities specifically relevant to 
+transportation challenges. This ensures  technological advances directly address the 
+sector's most pressing needs  – strengthening both our transportation system and the 
+US position as the global leader in AI development .  
+This paper outlines an AI benchmark for transportation framework that: 1) identifies the 
+current state of the practice for AI benchmarking and 2) proposes  a validation approach 
+for transportation knowledge – with the goal of enabling widespread AI adoption in 
+transportation.  
+1 University of Illinois. Benchmarking the Capabilities of Large Language Models in Transportation System 
+Engineering: Accuracy, Consistency, and Reasoning Behaviors . Aug 2024.  
+
+
+Current State of the Practice for AI Benchmarking 
+AI benchmarks have grown in tandem with AI adoption and in theory, provide the means 
+to objectively compare performance across math, sciences, and coding tests. 
+HuggingFace is a commonly used platform by the AI industry to stay up to date on model rankings for both open- source models (e.g. Open LLM Leaderboard) and 
+proprietary models (e.g. Chatbot Arena). Rankings are based on model performance 
+against several benchmarks as shown in Figure 1 below  and were developed by 
+researchers from leading AI companies and universities.  
+Benchmark  Description  
+Graduate -Level Google -
+Proof Q&A ( GPQA ) Evaluate  models  on 448 multi -choice questions on biology, 
+physics, and chemistry. Tests models question-answering 
+performance based on deep understanding and reasoning 
+rather than fact recall or search.  
+Massive Multitask 
+Language 
+Understanding ( MMLU) Evaluate  model s on 57 tasks including elementary math, US 
+history, computer science, law, etc. Tests  model ability to 
+demonstrate subject matter expertise, apply complex 
+reasoning , and show consistent performance across domains.  
+MATH  Evaluate models on 12,500 competition math problems to test 
+ability to apply mathematical principles, execute complex 
+calculations and communicate answers clearly.  
+HumanEval  Evaluate models on 164 programming problems to test model 
+ability to generate functionally correct and executable code.  
+SWE -Bench  Evaluate models on open -source repositories of real -world 
+software bugs. Tests model ability to generate a software patch 
+that resolves the issue without introducing new bugs.  
+Figure 1: Illustrative benchmarks used for LLM performance  
+In practice, however, there are limitations to these benchmarks. Evaluation researchers 
+release datasets openly which can be sometimes integrated into the pre- training data 
+for the LLMs. AI companies can ‘cherry -pick’ test cases where they have optimized their 
+models to perform well in that also aligns with a specific benchmark. This results in 
+rankings biased towards models that test well rather than provide an accurate indicator 
+of performance. Most importantly,  these rankings tend to focus on LLM perform ance 
+against academic benchmarks and are less relevant in understanding how LLMs or their derivative applications perform on domain specific knowledge.  
+Recent efforts from the legal domain offer a potential framework for developing AI benchmarks for domain specific knowledge. LegalBench is an AI benchmark developed 
+with data corpus and human expert review relating to the legal domain.  Legal data 
+corpus used includes private contracts, merger and acquisition documents of publicly 
+traded companies, non- disclosure documents and privacy policies of consumer 
+software applications. A team of experienced lawyers supervised 60,000+ annotations of the data corpus. Figure 2 on the next page highlights LegalBench evaluation results 
+of models’ ability to spot issues, recall relevant rules, and analyze their applications.  
+
+
+Figure 2: LegalBench Data Corpus and Sample Evaluation of LLMs  
+AI Validation Approach for Transportation Knowledge 
+Drawing inspiration from LegalBench's success in evaluating AI performance in the legal 
+domain, we propose TransportationBench – a specialized validation framework 
+tailored to the transportation knowledge domain. This approach addresses the unique 
+challenges identified in recent studies where even leading AI models demonstrate 
+significant limitations when handling practitioner -level transportation concepts.  This 
+benchmark will establish an evaluation methodology built on three core elements: 1) 
+General Transportation Data Corpus (GTDC) ; 2) Expert Annotation , Testing and 
+Validation ; 3) Benchmark Metrics. Details on each element are provided below and on 
+the next page.  
+1.General Transportation Data Corpus: TransportationBench will utilize a curated
+data corpus of transportation technical standards and guidelines. Data corpora may
+include design guidelines such as the American Association of State Highway
+Transportation Officials ( AASHTO ) “Green B ook” and/or test questions from common
+industry certifications exams such as the American Institute of Certified Planners
+(AICP) . This corpus will serve as the foundation for evaluating AI model’s
+understanding of transportation concepts at the practitioner level . We will offer a
+public sample dataset to provide transparency while maintaining a larger , private
+dataset to protect  test integrity and avoid leakage into foundation model training data.
+
+
+2.Expert Annotation, Testing,  Validation:  Transportation domain experts
+representative of planning, engineering, operations and other relevant functions will
+supervise the document annotation, development of test cases , and validation . This
+process generally involves:
+a.Annotation:  Experts systematically label data corpus and test cases that will serve
+as the “ground truth” for validation of AI responses . Annotations will identify  key
+concepts, relationships, and acceptable answers for testing and evaluation.  Test
+datasets will be used to train an LLM ‘Judge Model’.
+b.Testing:  Experts craft test cases to challenge AI models on practitioner -level
+concepts  and test  performance in generating correct response across different
+tasks. Task formats may include simple question- answer (QA), multiple choice,
+general reasoning, large contexts, and multimodal (text, images, charts). JudgeModel will apply test cases on subject LLMs to evaluate and provide capacity to
+supplement human evaluation at scale.
+c.Validation:  Experts compare AI responses against expert -annotated ground truth
+using standardized metrics for accuracy, reasoning quality, and domain- specific
+appropriateness.
+3.AI Benchmark Metrics:  Key metrics to assess AI performance may include:
+•Accuracy: evaluates correctness of model outputs for each task and benchmark
+•Citation Quality : gauges ability to reference appropriate standards and guidelines
+•Latency : measures response time of models in returning a complete response
+•Cost: analyzes the operational cost of running each model from an API provider
+Figure 3 below  illustrates  example workflows of the proposed AI validation approach for 
+transportation knowledge and can be scaled to accommodate new knowledge bases.  
+Figure 3: Illustrative Workﬂows for Annotation, Testing and Validation 
+
+
+Towards Widespread AI Adoption in Transportation
+The Tr ansportationBench framework represents a critical step toward responsible AI 
+integration in the transportation sector. By establishing industry -specific benchmarks, 
+systematic validation processes, and standardized metrics, we create a foundation that 
+enables agencies to confidently evaluate and adopt AI technologies. This approach addresses current limitations while promoting consistency across jurisdictions, reducing 
+redundant validation efforts, and accelerating implementation timelines. Most 
+impor tantly, it builds user trust by ensuring AI responses on transportation concepts 
+meets a practitioner level of standard. Through this collaborative framework, we can 
+harness AI's transformative potential to address complex transportation challenges while maintaining the high standards our infrastructure systems demand.  
+
+

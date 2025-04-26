@@ -1,0 +1,1084 @@
+Strategic Plan  
+FY 2025-202�
+
+
+Contents
+Foreword  3
+A m essage from Natcast  4
+Who we are  5
+Abbreviations and Acronyms  6
+Executive Summary  7
+Introduction  10
+Goal 1. Extend U.S.  technology leadership  16
+Goal 2. Reduce the time and cost to prototype  27
+Goal 3. Build and sustain a semiconductor workforce development ecosystem  35
+Membership Engagement  41
+Conclusion  45
+Revised February  2025
+
+
+3
+Strategic Plan FY 2025-20273Foreword  
+As we stand at a pivotal moment for the U.S. 
+semiconductor industry, it is crucial to recognize the transformational potential of the National Semiconductor Technology Center (NSTC) and the progress we’ve made since the CHIPS and Science Act became law. Thanks to President Biden, Vice President Harris, and Secretary Raimondo, we’ve laid the foundation for revitalizing American leadership in the semiconductor manufacturing and innovation ecosystem, strengthening both our economic competitiveness and national security.  
+The NSTC embodies CHIPS for America’s vision for establishing the capacity to invent, develop, prototype, and deploy the foundational semiconductor technologies of the future  – here 
+in the United States. Through this dynamic public-private collaboration, we are building robust infrastructure to ensure the seamless integration of industry, academia, and government, and we look forward to continuing to deliver results for the American people.  
+Thank you for joining us in this exciting journey to shape the future of semiconductor  technology.
+Dr. Laurie  Locascio  
+Under Secretary of Commerce for Standards and Technology and National Institute of Standards and Technology (NIST)  Director
+
+
+4
+Strategic Plan FY 2025-20274government, and have built an executive team and 
+hired multiple team members who are truly world class. On the NSTC program offerings, we have launched our membership program, initiated several intial research programs, launched the Workforce Center of Excellence, and made tremendous progress with our facility selection strategy. While building foundations and starting program work has been a balancing act, it has enabled us to both be well prepared for the future as well as able to get started today.
+This strategic plan should be viewed as a working document. We have captured here the priorities of the community and of the government as we have heard through many engagements. We expect these priorities and programs to shift over time, and we plan to revisit the plan on an annual basis. Establishing our research agenda is a priority for the coming year. It will be developed by our technical team and informed by input from the NSTC members and the forthcoming Technical Advisory Board. We are excited by the opportunities before us to accelerate the course of semiconductor technology for decades into the future. We urge semiconductor ecosystem participants to join with us to help shape these priorities.
+We believe that the NSTC has the potential to become a major new and fundamental capability for the nation, one that can generate and support new technologies and new companies, and that should be built to last and demonstrate impact for decades. Our goal at Natcast is to be an outstanding operator of the NSTC, attracting the very best talent, building a strong and collaborative relationship with industry, academia, and our government partners, and ultimately serving a vibrant and prosperous U.S. semiconductor  ecosystem.
+We invite you to join us in this quest.A message from Natcast
+I am pleased to present to you the 
+first strategic plan for the National Semiconductor Technology Center  (NSTC).
+Natcast, the operator of the NSTC, was created just 
+one year ago, and I joined to lead the organization in February 2024. In that relatively short time, we have accomplished a great deal. The vision of having the NSTC operated by a purpose-built, non-profit entity that can attract world class talent with deep knowledge from the semiconductor industry has proven true. Despite starting from scratch, substantial progress has been made, momentum is on our side, and I feel great optimism for the  future.
+In my previous position as a senior executive in the semiconductor industry, I understood the potential of the CHIPS and Science Act back in 2021, when Congress began developing the bill. I became committed to the project, believing it would be important for our national and economic security. When I was selected to join the Department of Commerce CHIPS Industrial Advisory Committee (IAC) created by the Act, I gladly accepted, and spent the next year on the IAC leadership team, which devoted countless volunteer hours to collecting the best possible advice from the industrial and academic semiconductor ecosystem. I am proud of the work of the IAC, whose recommendations are strongly influencing the implementation of the NSTC.
+For the last year at Natcast, we have been engaged in laying the foundation to operate the NSTC as a major institution to benefit the nation while at the same time starting initial program work. In terms of building blocks, we started a new non-profit company, set up its legal foundations, filled out an experienced board of trustees with substantial industry experience, negotiated contracts and funding orders with the 
+Deirdre Hanford 
+CEO,  Natcast
+
+
+5
+Strategic Plan FY 2025-20275The NSTC is a public-private consortium dedicated to semiconductor 
+R&D in the United States. A key component of the CHIPS & Science Act1, 
+the NSTC will convene industry, academia, and government from across the semiconductor ecosystem to address the most challenging barriers to continued technological progress in the domestic semiconductor industry, including the need for a skilled workforce.
+The NSTC reflects a once-in-a-generation opportunity for the U.S. to drive the pace of innovation, set standards, and secure global leadership in semiconductor design and  manufacturing.
+Visit natcast.org  to learn more.
+Natcast is a purpose-built, non-profit entity designated to operate the National Semiconductor Technology Center (NSTC) by the Department of Commerce.  
+Visit natcast.org  to learn more.
+CHIPS for America includes the CHIPS Program Office, responsible for semiconductor incentives, and the CHIPS Research and Development Office, responsible for R&D  programs.
+Visit chips.gov  to learn more.
+1 “The CHIPS & Science Act” refers to the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, as amended by the 
+CHIPS Act of 2022Who we are
+
+
+6
+Strategic Plan FY 2025-20276Abbreviations and Acronyms
+ADF Administrative and Design Facility
+AI Artificial intelligence
+CHIPS Creating Helpful Incentives to Produce Semiconductors
+CMOS Complementary metal-oxide-semiconductor
+CoEs Centers of Excellence
+DEG Design enablement gateway
+DOC Department of Commerce
+DOD Department of Defense
+DOE Department of Energy
+EDA Electronic design automation
+EUV Extreme ultraviolet
+IDMs Integrated device manufacturers
+IP Intellectual property
+LLM Large Language Model
+MPWs Multi-project wafers
+NAPMP National Advanced Packaging Manufacturing Program
+NSF National Science Foundation
+NSTC National Semiconductor Technology Center
+PFAS Per- and polyfluoroalkyl substances
+RF Radio frequency
+RFIs Requests for information
+R&D Research and development
+TAB Technical Advisory Board
+WCoE NSTC Workforce Center of Excellence
+WFAB Workforce Advisory Board
+
+
+7
+Strategic Plan FY 2025-20277Executive Summary
+2 President’s Council of Advisors on Science and Technology, 
+“Revitalizing the U.S. Semiconductor Ecosystem” , September  2022.“Semiconductors are the foundation of 
+today’s information age and underpin the global economy. They are critical to U.S. economic and national security, and provide the “intelligence” behind data centers, communications, automotive, aerospace and defense, personal computing devices, industrial, entertainment, healthcare, and many other markets. To maintain global leadership from an economic and technological perspective, leadership in semiconductors is vital.” 
+2
+Leadership in semiconductors is a significant pillar 
+of the United States’ global competitiveness. As the above quote from the 2022 PCAST report to the President demonstrates, today, the importance of semiconductor technology is well established.  
+The National Semiconductor Technology Center  
+(NSTC) is a public-private consortium mandated, as part of the bipartisan CHIPS & Science Act, to conduct research and prototyping of advanced semiconductor technologies and to grow the semiconductor workforce for the purpose of strengthening the economic competitiveness and security of the domestic supply chain. The NSTC represents a once-in-a-generation opportunity to create a transformative institution that endures for decades, accelerates the pace of innovation, and ensures those innovations form the foundations for future industries. The NSTC will collaborate with the founding members of the consortium, which include the Department of Commerce (DOC), Department of Energy (DOE), Department of Defense (DOD), and National Science Foundation (NSF), to ensure that existing capabilities and assets from research and development (R&D) programs and priorities from across the government are leveraged and that research efforts are complementary.  
+The NSTC represents a once-in-a-
+generation opportunity to create a 
+transformative institution that endures 
+for decades, accelerates the pace 
+of innovation, and ensures those 
+innovations form the foundations for 
+future  industries.
+Building off of thoughtful recommendations delivered in the PCAST report , the Subcommittee on 
+Microelectronics Leadership’s National Strategy on 
+Microelectronics Research , the CHIPS Industrial 
+Advisory Committee , and the NSTC Vision 
+document , the NSTC aims to tackle the following:
+•NSTC membership will drive research in 
+critical areas that affect U.S. economic leadership, including pursuing breakthroughs in semiconductor and system performance in the data centers fueling the artificial intelligence (AI) revolution, while seeking to minimize power consumption that is on a path to outpace the capacity of energy grids. To learn more about the benefits of NSTC membership and to join, visit  natcast.org/NSTCmembership .
+•We will convene and drive high impact research in domains that deliver value across our ecosystem, identifying areas where technical challenges are best solved together. Areas under consideration include increasing productivity in design and manufacturing by leveraging AI, improving 
+
+
+8
+8
+Strategic Plan FY 2025-2027EXECUTIVE SUMMARY
+Goal 1: Extend U.S.  
+technology leadership
+The NSTC will reinforce and extend U.S. technology 
+leadership in semiconductors by identifying and advancing promising research initiatives in foundational semiconductor technologies.  
+This goal will be achieved through establishing an ambitious research agenda that encourages a competition of ideas beyond established industry paradigms. The research will focus on the early-stage of the “ lab-to-fab ” gap, helping ideas achieve a proof-
+of-concept or validation point
+3, and on problems 
+that industry would not address as part of its normal business and technology development processes. The research will be executed through award-funded research programs, in-house research programs, and member-funded research  programs.
+Goal 2: Reduce the time and 
+cost to prototype
+A portfolio of physical and digital assets and services 
+will be established for the benefit of the NSTC community. These assets will reduce the time and cost to explore, prototype, and validate innovative semiconductor designs. Additionally, they will support the exploration of new ideas and simplify the “lab-to-fab” transition. Streamlined access to tools and facilities, opportunities for experimentation, and effective technical support will be made available to the NSTC  community.
+A robust, coordinated infrastructure will be the foundation for a vibrant ecosystem that enables a larger community of innovators to translate their ideas into prototypes. By reducing the time and cost to prototype, the U.S. can enhance its competitive edge in R&D, leading to long-term benefits.
+3 In this Strategic Plan, the early-stage of the lab-to-fab gap refers to 
+TRL/MRL 3 and beyond. Please see this link  for definitions of both 
+technology and manufacturing readiness  levels.EXECUTIVE SUMMARY
+sustainability in manufacturing processes, and 
+driving standards and alignment in semiconductor security, as well as with new emerging paradigms like chiplets.  
+•We will link our enduring work to other CHIPS programs, including the CHIPS National Advanced Packaging Manufacturing Program (NAPMP), the CHIPS Metrology program, Microelectronics Commons, the CHIPS Manufacturing USA institute, and the DOC CHIPS manufacturing incentives to access state-of-the-art advanced prototyping capabilities.
+•Throughout our work, we will keep a focus on growing the U.S. semiconductor workforce through NSTC-led programs and in partnership with industry and other government agencies. There is no field as exciting as the semiconductor industry; our programs will attract and grow talent across the country.
+•In addition to cultivating new talent in our industry, we will cultivate new companies in our field by reducing the structural challenges faced by new  entrants.
+•Semiconductor innovation may be accelerated through collaboration with allies; we will pursue work with other leaders in allied and partner countries and seek ways to co-invest in areas that drive positive results for all involved.  
+•We will issue breakthrough challenges and work together with NSTC members, including government agency partners, to tackle the challenges.
+•All the while, we will pursue and embrace disruptive innovation that enables and protects our economic and national  security.
+Natcast is the purpose-built, non-profit entity created 
+to operate the NSTC and bring together stakeholders across industry, academia, and government to advance the NSTC mission by pursuing three strategic goals:
+
+
+9
+Strategic Plan FY 2025-2027EXECUTIVE SUMMARY
+This document represents the NSTC’s first strategic 
+plan and serves as a living document that will be updated regularly as the institution evolves and matures. It delineates a 3-year plan for how Natcast will advance the NSTC mission and achieve the three strategic goals described above and describes its strategy to attract, retain, and grow its membership over time. This plan has been developed based on extensive input from the NSTC community through stakeholder interviews, requests for information (RFIs), and community of interest surveys. The content that follows provides additional context and describes the NSTC’s mission and strategic goals in more  detail.
+By the decade’s end, the NSTC 
+should be viewed throughout 
+the world as a vital membership 
+community with stakeholders and 
+resources across the semiconductor 
+ecosystem, including state-of-the-
+art facilities, effective programs, 
+a network of respected scientists 
+and engineers, and demonstrated 
+technical  achievements.Goal 3: Build and sustain a 
+semiconductor workforce development ecosystem
+Natcast established the NSTC Workforce Center of 
+Excellence (WCoE) to build and sustain the skilled workforce required for the U.S. semiconductor industry to grow domestic manufacturing and lead in the development of foundational semiconductor technologies.  
+The WCoE will support a robust array of workforce initiatives and partner with workforce stakeholders across the country to prepare the next generation of talent. It will lead strategic initiatives designed to support workforce development, increase access to good jobs, disseminate resources, provide tools, and reduce barriers across the industry ecosystem.  
+ 
+Investments made to support each of these three goals will work in concert to cultivate a robust U.S. semiconductor R&D ecosystem, where innovators have access to research awards and capital to advance their ideas, facilities and services to test, prototype, and prove out the commercial viability of an innovation, and a talented workforce to build the teams they need to power a business. A healthy semiconductor R&D ecosystem will create a virtuous cycle where increased funding for semiconductor R&D leads to the discovery and commercialization of new products and technologies. This, in turn, creates jobs and more capital that can be reinvested in the next generation of innovative ideas.
+By the decade’s end, the NSTC should be viewed 
+throughout the world as a vital membership community with stakeholders and resources across the semiconductor ecosystem, including state-of-the-art facilities, effective programs, a network of respected scientists and engineers, and demonstrated technical  achievements.
+
+
+10
+Strategic Plan FY 2025-202710integration through the use of three-dimensional 
+integration and advanced packaging technologies can enable heterogeneous materials and devices on the same chip, possibly providing orders of magnitude of improvement in energy efficiency and diverse functionality.
+7
+We are presented with great 
+opportunity, but also greater 
+challenges compared to the past. 
+Solving them will require broad and 
+coordinated research efforts. The 
+research will need to go beyond simple 
+extrapolations of current practices 
+and will require deep understanding to 
+develop new  technologies.
+These paths present great opportunity, but also pose greater challenges compared to the past. Solving them will require broad and coordinated research efforts.
+8 The research will need to go beyond simple 
+extrapolations of current practices and will require deep understanding to develop new technologies. Since engineering efficient systems require an end-to-end approach, research on design, architecture, and design methodology must be integral parts of the solution.
+Investing in semiconductor research to reclaim 
+innovation in manufacturing
+In 2023, the total revenue of the global semiconductor 
+industry was $527 billion, with American companies capturing a 50% share.
+9 The United States continues 
+7 M. Liu, “ Unleashing the Future of Innovation ”, February  2021.
+8 S. Guha et al., “ Future Directions Workshop: Materials, Processes, 
+and R&D Challenges in Microelectronics ”, June  2023.
+9 Semiconductor Industry Association, 2024 Factbook , May 2024.Introduction
+4 McKinsey & Company, “ The semiconductor decade: A trillion-dollar 
+industry ”, April  2022.
+5 Intel, “ Press Kit: Moore’s Law ”, September  2023.
+6 K. Akarvardar and H.-S. P. Wong, "Technology Prospects for Data-
+Intensive Computing ," in Proceedings of the IEEE, vol. 111, no. 1, pp. 
+92-112, Jan.  2023Semiconductors are the building blocks of the 
+modern world
+From supplying the auto industry, to enabling 
+e-commerce in a pandemic, to ensuring military superiority and cyber-security, semiconductor technology is essential. Semiconductors power countless user applications and technologies that we rely upon every day, play a critical role in solving hard problems —from addressing climate change 
+to the digital transformation of healthcare —and 
+enable innovation. Without continued advancement in semiconductors, the promises of transformative technologies such as AI, 5G/6G, and quantum computing cannot be fully  realized.
+Given the massive impact of semiconductors across virtually every facet of modern life, demand for semiconductors continues to reach new heights and the industry is poised to become a trillion-dollar industry by 2030.
+4 Therefore, a reliable source of 
+semiconductors, stability of the associated supply chain, and continued leadership in the semiconductor technology are critical to the long-term national and economic security of the United States.  
+Our national security, economic competitiveness, and sustainable development depend on staying at the forefront of semiconductor technology. Moore 's 
+Law, which predicted the doubling of transistors on a chip every two years
+5, is reaching its physical 
+limits as the features of a transistor approach the atomic scale. Research has shown that it is beneficial to increase device density at the system level, in addition to increasing the density of the individual transistor.
+6 Going forward, higher levels of system 
+
+
+11
+Strategic Plan FY 2025-2027INTRODUCTION
+Creating an institution, not a program
+To advance U.S. leadership in semiconductor R&D, 
+the bipartisan CHIPS Act, hereafter referred to as “the Act”, called for the formation of the NSTC, and several other R&D programs (CHIPS NAPMP, CHIPS Manufacturing USA, CHIPS Metrology program, Microelectronics Commons).
+11 Drawing from the 
+Act and extensive feedback from the community, the DOC sought to create the NSTC as a major new institution for the country. The NSTC is an institution that can start now, grow, and endure for decades, serving a membership base that includes industry, academia, and government and catalyzing long-term R&D innovation across the ecosystem.
+The Secretaries of Commerce, Defense, and Energy, the Director of the NSF, and the CEO of Natcast signed an agreement to establish the NSTC as a public-private consortium. Natcast is an independent, purpose-built, non-profit entity created to operate the NSTC and build an outstanding new and enduring institution for the nation The Federal Founding members also established a Steering Committee for the NSTC that includes representatives from their respective agencies as well as one private sector participant. The Steering Committee’s role is to provide strategic support, guidance, and coordination with other ongoing Federal research and development programs to ensure that the NSTC is supporting and extending U.S. leadership in semiconductor research, design, engineering, advanced manufacturing, and workforce development in ways that will promote the economic and national security of the United States. Finally, the Department of Commerce’s CHIPS R&D Office works closely with Natcast and is responsible for providing guidance on the priorities of the nation and ensuring accountability to taxpayers.  
+11 The William M. (Mac) Thornberry National Defense Authorization Act 
+for Fiscal Year 2021 authorized funding, while the CHIPS Act of 2022 
+appropriated  funding.to be recognized as a global leader in semiconductor 
+design, spearheading innovation and driving technological advancements. Many of the world’s most complex chips are invented and designed by American companies. However, despite the United States’ notable leadership in semiconductor research and design, the nation has not maintained the same position in semiconductor manufacturing. Only 12% of semiconductors were manufactured in the United States in 2021, representing a significant, long-term decline from 37% in 1990.
+10 This decline 
+in manufacturing has impacted innovation in the semiconductor manufacturing space. 
+Traditionally, manufacturing process innovations were 
+often considered distinct from design innovations; however, next generation process technology must start from an insightful understanding of key bottlenecks of system design. All innovations conceived from a system perspective must ultimately be manufacturable to be useful innovations. As a result, innovators must frequently be in close communications with the manufacturing factories to be successful. A robust semiconductor research program must be prepared to invest in both process and design  innovation.
+Traditionally, manufacturing process 
+innovations were often considered 
+distinct from design innovations; however, next generation process technology must start from an insightful understanding of key bottlenecks of system design. A robust semiconductor research program must be prepared to invest in both process and design innovation.
+10 Subcommittee on Microelectronics Leadership, “ National Strategy on 
+Microelectronics Research ”, March  2024.
+
+
+12
+Strategic Plan FY 2025-2027INTRODUCTION
+The NSTC will differ significantly in scale and 
+breadth from other examples of public-private partnerships in the U.S. semiconductor industry. It represents an unprecedented, once-in-a-generation investment to catalyze the U.S. R&D semiconductor ecosystem, with investments in research, shared infrastructure, and workforce development  programs.
+The NSTC will catalyze collaboration in the 
+semiconductor industry
+The NSTC recognizes that the industry is and 
+should be fiercely competitive, and it intends to enable NSTC member companies to effectively compete while recognising that collaboration across industry, academic and government is required to overcome many of the semiconductor industry’s most complex challenges. Natcast will also exemplify best practices in research security, enabling the benefits of broad collaboration by protecting research results, program data and associated intellectual  property.
+A significant element of the NSTC’s role is to be a convener for its members, whether through working groups, meetings, research programs, or advisory boards. Full ecosystem convening is required to collaboratively advance “whole stack” innovations that are required in the Post Moore Era. As a result, this convening role will serve the broad ecosystem, including government, industry, labor, customers, suppliers, educational institutions, and investors.  Extending U.S. technology leadership also requires international engagement with industry, academia, and consortia located in allied and partner countries worldwide for the simple reason that only the best ideas deserve focused attention. The scale and breadth of technological challenges addressed by the NSTC will benefit from leveraging the strengths and resources of international partners to collaborate and coordinate efforts on common  problems.
+A significant element of the NSTC’s 
+role is to be a convener for its 
+members. Full ecosystem convening 
+is required to collaboratively advance 
+“whole stack” innovations that are 
+required in the Post Moore Era.
+
+
+13
+Strategic Plan FY 2025-2027INTRODUCTION
+GOAL 1. Extend U.S. technology leadership
+1.1 Provide initial funding for early R&D projects and create early research community assets.
+1.2 Define first NSTC long-term research agenda, prioritizing the identification of next generation 
+technologies.
+1.3 Implement the long-term research agenda through research awards and programs.
+1.4 Foster connection, collaboration, and innovation in the semiconductor industry.
+GOAL 2. Reduce the time and cost to prototype
+2.1 Establish facilities that lower the barriers to semiconductor prototyping, experimentation, and other 
+R&D activities.
+2.2 Facilitate access to electronic design automation (EDA) and design resources, tools, and shared datasets.
+2.3 Increase access to multi-project wafers (MPWs) and other production needs across the value chain.
+2.4 Advance commercialization of promising innovations through capital investment in start-ups.
+GOAL 3. Build and sustain a semiconductor workforce development ecosystem
+3.1 Increase access to effective, industry-driven workforce solutions, including scaling evidence-based 
+sector strategies, through partnerships, funding, recognition programs, and access to shared resources.
+3.2 Facilitate the exchange of ideas, insights, tools, and resources among stakeholders in the semiconductor workforce community.
+3.3 Provide expertise and custom services to stakeholders to support the improvement of regional workforce development ecosystems.
+3.4 Unlock actionable insights into the current conditions of the semiconductor workforce, keep stakeholders informed, and identify and showcase best practices.Mission, goals, and objectives
+The NSTC’s mission is to serve as a focal point for 
+research, engineering, and workforce development throughout the semiconductor ecosystem, advancing and enabling disruptive innovation to provide U.S. leadership in the industries of the future.
+12
+This strategic plan lays out the steps that Natcast will take to achieve the three strategic goals outlined earlier and build the foundation for a vibrant, sustainable, and enduring ecosystem for semiconductor  R&D.
+12 CHIPS Research and Development Office, “ A Vision and Strategy for 
+the National Semiconductor Technology Center ”, April  2023.The NSTC’s mission is to serve as a 
+focal point for research, engineering, 
+and workforce development 
+throughout the semiconductor 
+ecosystem, advancing and enabling 
+disruptive innovation to provide 
+U.S.  leadership in the industries of 
+the future.
+
+
+14
+Strategic Plan FY 2025-2027INTRODUCTION
+Example journeys through the NSTC
+NSTC offerings will be complementary by design 
+and will seek to establish a semiconductor R&D ecosystem that gives members a robust launching pad for cultivating and realizing their innovative ideas. NSTC offerings will provide a consolidated environment for budding innovators: mentoring from experts, funding to prove out an idea, easy access to prototyping facilities, EDA tools for design and verification, and workforce programs for recruiting, hiring, and training talent to scale companies.  
+Two illustrative examples of how members might use the various aspects of the NSTC to successfully commercialize their research are shown in Figure 1  
+and Figure  2.Figure 1 shows a member that has a research idea they want to prove and depicts how the NSTC environment can aid them through the various stages: from receiving funding via the seedlings program, to using design tools via the design enablement gateway (DEG) to simulate their design, to securing additional capital from the investment fund to scale their idea. The WCoE’s programs will also provide streamlined connections to a talent pipeline for  recruitment.
+Figure 1. Example journey of commercializing a research idea using NSTC  offerings
+Research ideaSeedlings 
+program
+Apply for award Convenings
+Share ideas 
+with communityDesign enablement 
+gateway
+Design prototypeCommercialization
+Prototyping and
+packaging facility
+Validate idea and create POCInvestment fund
+Receive additional 
+fundingWorkforce programs
+Scale workforcePrototyping and 
+packaging facility
+Validate manufacturing and 
+scale POC
+
+
+15
+Strategic Plan FY 2025-2027INTRODUCTION
+Figure 2 shows a scenario where a member would 
+like to conduct research for a new material that could improve aspects of transistor characteristics (e.g. power, performance). The figure below shows their path to commercialization through the use of different anticipated NSTC offerings: from receiving funding via the research awards program, to testing and validating the material and related processes via the prototyping and packaging facility, to receiving additional guidance on workforce development through the WCoE’s technical assistance  program.
+Figure 2. Example journey of commercializing a new material using NSTC offerings
+Research 
+award program
+Apply for awardPrototyping and packaging facility
+Test and validate new materials
+(short loop, full loop)Technical 
+assistance program
+Receive guidance on 
+creating additional jobsPrototyping and 
+packaging facility
+Test and customize 
+with packaging
+New material
+R&DCommercialization
+Convenings
+Share findings 
+with community
+
+
+16
+Strategic Plan FY 2025-202716Despite efforts by the private sector, academia, 
+government, and other consortia, this “lab-to-fab” gap is becoming more problematic as semiconductor technology complexity increases. NSTC research will primarily focus on the early-stage of the lab-to-fab gap, helping ideas achieve a proof-of-concept or validation point.
+13 As 
+shown in Figure 3 , if these programs demonstrate 
+sufficient promise to gain the support of the NSTC membership, including in-kind and direct support, Natcast expects them to advance to the later stages of the lab-to-fab process where they can continue to mature with increasing private  investment.
+13 In this Strategic Plan, the early-stage of the lab-to-fab gap refers to 
+TRL/MRL 3 and beyond. Please see this link  for definitions of both 
+technology and manufacturing readiness  levels.Goal 1. Extend U.S. 
+technology leadership
+The NSTC will reinforce and extend U.S. 
+technology leadership in semiconductors by identifying and advancing promising research initiatives in foundational semiconductor  technologies.
+Worldwide demand for compute power and 
+functionality continues to accelerate as the digital transformation of the last decade spawns new ways to use the vast amounts of data generated. The current AI revolution, for example, is fueled by leading-edge semiconductors and advanced packaging technologies. There is a pressing need for advancements in semiconductor technology to meet the evolving needs and increasing demands of the vibrant and growing market. The next generation of semiconductor innovation will require collaborative research, sustained development efforts, and investment capital.  
+While there are many promising ideas in early stages of research, transitioning promising research to commercial production is particularly difficult for the semiconductor industry. The long timescales, high costs, and high risk involved are less attractive for investment, as compared to other opportunities. Evidence of this issue includes the demise of longer-term focused corporate R&D laboratories such as Bell Laboratories.  
+
+
+Strategic Plan FY 2025-202717
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Research program  principles
+The design of the NSTC research program will be guided by the following principles:
+Set an ambitious NSTC research agenda that encourages a competition of ideas beyond established  
+industry paradigms.
+Prioritize problems that the semiconductor ecosystem would not address through normal business and 
+technology development processes.
+Consider investing in research with outcomes that benefit the ecosystem (e.g., developing standards, test 
+vehicles, reference design flows, promoting semiconductor sustainability).Figure 3. NSTC research program focus14
+Note: This is a conceptual diagram of the stages of innovation for a new chip design across various government programs. 
+Common Cores are not displayed and shading is not to scale of investment.
+Investment
+Stages of InnovationBasic science and 
+process researchProof of 
+conceptPrototype in 
+laboratoryPrototype in 
+fabricationPilot and 
+scalingCommercial 
+production
+Federal science 
+programs
+DOD 
+Commons-HubsNSTC and NAPMP programs
+Manufacturing 
+USAPrivate sectorNSTC 
+research
+14 CHIPS Research and Development Office, “ A Vision and Strategy for the National Semiconductor Technology Center ”, April  2023.
+
+
+Strategic Plan FY 2025-202718
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Research types  
+Natcast expects to allocate research funding in 
+three parts:
+• Funded research.  Natcast will facilitate 
+NSTC-funded, co-funded, and member-funded 
+research. For NSTC-funded research, the programs will primarily focus on the early-stage of the lab-to-fab gap.
+15 Natcast will publish 
+calls for proposals, where proposers will create teams of NSTC members that cut across NSTC membership, from academia to industry to government labs. Natcast will award funding to teams of NSTC members on topics that align with the NSTC research agenda. Natcast expects some of this NSTC-funded research to be co-funded, where NSTC members provide supplemental funding. In addition, NSTC members may also fund, conduct, and fully own additional research that does not align with the research agenda through the use of NSTC  offerings.
+• In-house research.  This capability will include staff 
+scientists and visiting scientists and researchers, 
+and will be critical to bringing new ideas into the NSTC, providing technical advice to members, formulating industry roadmaps, and advancing specific research. In some cases, NSTC researchers may collaborate with or support funded awardees. To develop research talent and enhance the quality of in-house research, a residency program will be launched that aligns with workforce  initiatives.
+• Seedlings program.  This program will focus on 
+early-stage ideas with smaller, short-term awards 
+to help innovators achieve early milestones, de-risk a research investment, attract private capital and/or launch a larger collaborative program, and, when appropriate, explore topics outside the broader research  strategy.
+NSTC research programs will attract co-investment 
+from potential partners that could substantially amplify the amount  invested.
+15 Refer to Footnote  14.Research topics  
+The NSTC research agenda will be defined by Natcast, which will be advised by a Technical Advisory Board (TAB) comprised of NSTC members. Research topics will be organized around industry challenges.  
+The NSTC research agenda will be 
+defined by Natcast, which will be 
+advised by a Technical Advisory Board 
+(TAB) comprised of NSTC members.
+ Natcast is considering three initial research topics to focus on: energy efficiency in the AI era, sustainability in chip manufacturing, and security and provenance. Each of these topics is described further in Strategic Objective 1.2. Natcast anticipates that participants from across the semiconductor ecosystem will participate in the research program, which will include topics that span the semiconductor stack, from manufacturing process improvements to design  advances.
+
+
+Strategic Plan FY 2025-202719
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Complementary programs
+The NSTC will operate in coordination with other 
+CHIPS R&D programs, including the CHIPS NAPMP, the CHIPS Manufacturing USA institute program, and the CHIPS Metrology program. The NSTC will leverage existing investments and capabilities from other government agencies to further mature technologies, help bridge the lab-to-fab gap, and support the NSTC mission. Additionally, the CHIPS Small Business Innovation Research and Small Business Technology Transfer programs
+16 
+will align with the NSTC research agenda, fostering connectivity and partnerships with the small business  community.
+16 Small Business Innovation Research (SBIR) and Small Business 
+Technology Transfer (STTR), “ America’s Seed Fund “, 2024.Strategic Objectives
+1.1. Provide initial funding for early R&D 
+projects and create early research community  assets.
+1.2. Define first NSTC long-term research agenda, prioritizing the identifications of next generation  technologies.
+1.3. Implement the long-term research agenda through research awards and  programs.
+1.4. Foster connection, collaboration, and innovation in the semiconductor  industry.
+
+
+Strategic Plan FY 2025-202720
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Strategic Objective 1.1:   
+Provide initial funding for early R&D 
+projects and create early research community assets.
+To begin making an impact in the semiconductor 
+ecosystem, Natcast has launched an initial “Jump Start” research award program to focus on a portfolio of NSTC research topics that seek to maximize engagement across the semiconductor ecosystem. Through this strategic objective, Natcast will build momentum by engaging the community and establishing operational capabilities and  processes.
+For the initial program, Natcast has worked together with experts from industry, academia, and the DOC to identify areas of investment for research award opportunities. These research topics will create assets for NSTC members, including sample designs, methodologies, curricula, and intellectual property (IP) for the broader  community.
+The first research topic is Artificial Intelligence Driven Radio Frequency Integrated Circuit Design Enablement (AIDRFIC). This focuses on developing novel AI-based techniques to improve the automation of radio frequency (RF) circuit design. The key benefits of this work include leveraging AI to boost the productivity of engineers working on RF circuit design and increasing the efficiency of onboarding the next generation of high-skilled workforce in the RF design space.  
+The second research topic focuses on developing standardized test vehicles to create a Test Vehicle Innovation Pipeline (TVIP) program to accelerate the evaluation of materials, devices, and processing techniques. The TVIP program will address the lack of a common standard for test vehicles by standardizing and making them available for research. A standard test vehicle in targeted semiconductor areas would accelerate progress by reducing costs, promoting reuse, and enabling more effective comparative  benchmarks.
+The third research topic is PFAS Reduction and Innovation in Semiconductor Manufacturing (PRISM). This focuses on demonstrating the prototyping of solutions to capture and destroy per- and polyfluoroalkyl substances (PFAS) under relevant conditions, without disrupting existing process technology. This effort complements additional CHIPS R&D funding opportunities to develop new, more sustainable process technology to replace PFAS and other harmful compounds as well as lessen the energy and water consumption of semiconductor manufacturing.
+17
+Measures of Success
+Engagement: Number of webinar attendees 
+and high-quality applications submitted for each  project.
+Representation:  Percentage of applicants from 
+different parts of the semiconductor ecosystem and  demographics.
+Impact: Number and value of insights and community assets generated from individual awardee learnings and outputs for use by all NSTC  members.
+Achievement: Timely completion of project goals and milestones by  awardees.
+Transition: Quantity of resulting knowledge or technology transferred to  members.
+17 U.S. Department of Commerce, "Biden-Harris Administration to 
+Invest up to $100 Million to Accelerate R&D and AI Technologies for 
+Sustainable Semiconductor Materials ", October  2024
+
+
+Strategic Plan FY 2025-202721
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Energy efficiency in the AI era
+Many businesses are looking at Large Language 
+Models (LLMs) to support business growth.1, 2 
+These LLMs require huge amounts of resources (compute, memory, networking, energy) and while improvements are being made across these dimensions, the improvements are incremental.
+This breakthrough challenge will focus on 
+achieving a step change improvement in the overall efficiency for LLM (and/or future key AI models) training metrics as well as inference throughput. Industry trends currently project that efficiency for executing AI workloads will improve by 1,000 times within the next decade.
+3 
+This challenge will be to exceed this projection by two further orders of magnitude (i.e., to achieve a combined gain of 100,000x).
+1 McKinsey Global Institute, “AI could increase corporate profits 
+by $4.4 trillion a year, according to new research” , July 2023.
+2 Forbes, “The Rise Of AI: How Enterprises Harness The Power Of 
+Large Language Models” , September  2023.
+3 M. Liu and H.-S. P. Wong, “ How We’ll Reach a 1 Trillion Transistor 
+GPU ”, March  2024.Strategic Objective 1.2:  
+Define first NSTC long-term research 
+agenda, prioritizing the identification 
+of next generation technologies.
+While Natcast will consider and support a wide 
+range of research topics, it will avoid spreading its resources too broadly by focusing on a specific portfolio of problems that it believes it can uniquely address within the U.S. semiconductor ecosystem. With input from NSTC members, the TAB, and prior research publications
+18, Natcast expects to 
+publish its first long-term NSTC research agenda, then periodically update it as industry trends and stakeholder needs  change.
+Technical Advisory Board
+Natcast will form a TAB composed of world-class experts from its member base to advise on the NSTC research agenda, which will be chaired by Natcast’s Senior Vice President of Research. Through engaging with the TAB, Natcast will gain a holistic view of R&D efforts already underway across industry, academia, and government, and ensure the research agenda is differentiated and complementary to existing efforts. Natcast will also consider establishing ‘specialty’ Technical Advisory Councils (TACs) that advise on specific areas of R&D (e.g., next generation lithography, memory, analog mixed signal).
+18 Prior research and publications that will be used to inform 
+the research agenda include: PCAST’s Revitalizing the U.S. 
+Semiconductor Ecosystem  report, the National Science and 
+Technology Council’s National Strategy on Microelectronics Research  report, SRC’s Decadal Plan for Semiconductors , ASIC 
+Coalition’s Accelerating Research, Accelerating America  report, 
+MITRE Engenuity’s American Innovation, American Growth  report, 
+SIA’s American Semiconductor Research: Leadership Through Innovation  report, and the Industrial Advisory Committee  meetings .Figure 4. Initial breakthrough challenges   
+in consultation
+
+
+Strategic Plan FY 2025-202722
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Sustainability in chip manufacturing
+Sustainability in semiconductor chip 
+manufacturing is a broad topic including energy efficiency of the fab, water use, and emissions (greenhouse gases and toxic substances).  
+For this breakthrough challenge, the first program will be on the abatement of PFAS in chip manufacturing, namely: improving analysis, detection, separation and destruction without disrupting existing process technology. In the longer term, this can be expanded with deep collaboration with the semiconductor manufacturing supply chain (foundries, equipment suppliers, materials, etc.) to eliminate toxic emissions from semiconductor manufacturing in the next decade as suggested by the IAC R&D Gaps Working Group.
+4
+The substitution of PFAS is another important area of research, but beyond the focus of this challenge. A complementary CHIPS R&D funding opportunity is focused on materials discovery to replace PFAS and improve the sustainability of semiconductor manufacturing.
+5 Therefore, 
+we will work closely with other CHIPS R&D programs and government agencies (such as the CHIPS Manufacturing USA institute, NSF, and DOE) to support the lab-to-fab transition for outputs from this longer-term research.
+4 Industrial Advisory Committee, “IAC R&D Gaps Working Group, 
+February 7 Update to IAC” , February  2023.
+5 Refer to Footnote  18Security and provenance
+The complexity of today’s semiconductor supply chains can hide economically important data about yield and failure of components, for example. Additionally, it increases the risk of malevolent behaviors like tampering and counterfeiting. Many industries (such as defense, aerospace, automotive, infrastructure) and systems (such as AI, safety critical, medical diagnosis) built on semiconductor chips need to have confidence in their provenance, even when direct insights into suppliers can be difficult. Important parts of a solution are available today, such as Roots of Trust from National Institute of Standards and Technology
+6 and the Open 
+Compute Project7, which propose methods to 
+form the basis of a new standard for secure microelectronics. However, a comprehensive and cost-effective solution will require collaboration across many parts of the supply chain.  
+This breakthrough challenge will be to establish a provenance framework for silicon chips within current supply chains. It will leverage the convening ability of the NSTC as a public-private consortium to ensure that solutions are both effective and commercially viable. A solution should enable digital validation that components were manufactured with known provenance and according to industry best practices. Such a solution would provide widespread benefits in securing the digital systems that underpin today’s infrastructure, including commercial and national security systems.
+6 National Institute of Standards and Technology, “Roots of 
+Trust”, June 2020.
+7 Open Compute Project, “ Caliptra: A Datacenter System on a 
+Chip (SOC) Root of Trust (R o T) ”, July  2022.
+
+
+Strategic Plan FY 2025-202723
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+A framework to organize the research agenda
+Natcast is considering a portfolio of specific, 
+measurable, and actionable breakthrough challenges to frame the initial NSTC research agenda. These challenges represent significant improvements to underlying technologies beyond projected technology trends. The initial list of breakthrough challenges is described in Figure 4 . Natcast will 
+seek input and advice from the TAB to define the research agenda to confirm these challenges. To avoid duplication, Natcast will coordinate closely with other organizations, such as the DOC, NSF, DOD, DOE, and their associated labs. Natcast will task the TAB with suggesting additional breakthrough challenges as the NSTC research agenda  evolves.
+In addition to the challenges in consultation described in Figure 4, Natcast will outline challenges to address supply chain resilience. This is an important factor in strengthening national and economic security.  
+Achieving the aggressive targets of the breakthrough challenges under consideration will require innovations across the different dimensions of the semiconductor technology innovation space. For example, energy efficiency in the AI era requires research into novel machine learning model architectures, system partitioning (for memory wall challenges), compute architectures, new device, and integration technologies, etc. The NSTC is uniquely able to convene leaders across the ecosystem to tackle these challenges, which will create substantial value for the U.S. semiconductor ecosystem and potentially define next generation  technologies.Measures of Success:
+Interest:  Level of interest shown by NSTC 
+members in the form of responses to workshops, 
+RFIs, and CFPs for different research topics.
+Impact:  Number of research topics that 
+are commercialized, number of patents or publications that cite NSTC research, and adoption of NSTC research ideas into industry  roadmaps.
+Investment: Amount of investment made by industry to support efforts to solve the prioritized research topics and amount of additional government funding beyond the funding provided to Natcast for these topics.
+Feedback:  Continuous feedback from 
+stakeholders and NSTC members on the relevance and direction of the work.
+
+
+Strategic Plan FY 2025-202724
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+training to members, reviewing award proposals 
+and RFIs, evaluating research project effectiveness, providing feedback to the investment fund on promising applicants, creating additional internal impetus for maintaining high quality baseline flows as part of the DEG effort, and supporting the TAB.  
+Technical residency
+Active circulation of research talent in and out of the NSTC will be essential to the execution of world-class research aligned with national needs —a 
+focus of the WCoE. Natcast expects that members will place their researchers at NSTC facilities for a residency. To support this expectation, Natcast proposes to launch a technical residency program for students, scientists, and engineers to support both the development of research talent and enhance the vitality of in-house research. The residency program will offer resident fellows experiential learning and skills enhancement through NSTC facilities, and the opportunity to become a part of a larger research community and expand their networks. Additionally, the WCoE will ensure the program reflects best practices in semiconductor-related training and workforce development and will develop pathways for students, graduates, and postdoctoral researchers to acquire permanent job placements at member companies at the end of their  tours.Strategic Objective 1.3:   
+Implement the long-term research 
+agenda through research awards  and programs.
+Natcast will implement the long-term NSTC research 
+agenda through both awards and research programs, such as the in-house research program. These programs are intended to operate in synchronization with each other to execute the research agenda.
+Award funding program
+Natcast will establish an external award funding program available to NSTC members, involving both NSTC-funded and industry-funded work. Awardees will provide periodic progress reports, allowing Natcast and other sponsors to monitor progress, assess milestones, and share research outcomes. Natcast will have a unique perspective given its ability to see different work undertaken across the ecosystem and will leverage those insights to ensure effective  collaboration.
+In-house research
+Establishing a robust in-house research program is an essential component of creating a world-class research organization. The in-house research program will complement the NSTC research agenda, privately funded research, and other government programs, primarily seek to address the early-stage of the lab-to-fab gap, and enable members to adopt and leverage new capabilities. Therefore, it will be differentiated from research conducted by other organizations including the NSF, DOD, DOE, and their associated labs. NSTC members will benefit by getting access to valuable assets (e.g., IP, process flows, digital tools, data sets) and advancing critical research areas. NSTC researchers can initiate research, work with other NSTC members, and develop ideas further to attract participation from the broader NSTC community. In addition, an in-house technical capability will play a critical role in providing technical support and 
+
+
+Strategic Plan FY 2025-202725
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Measures of Success:
+Execution of milestones:  Number of milestones 
+achieved by recipients of external research awards.
+Execution of research agenda:  Progress against 
+each breakthrough challenge defined within the 
+research  agenda.
+Transition to industry:  Number of research   
+areas that benefit the semiconductor ecosystem   
+or translate into product development and commercial  applications.
+Contributions to the broader research   
+community:  Number of peer reviewed papers, 
+citations of papers, and conference  presentations.
+Talent: Number of responses to job postings and number of excellent scientists and engineers on staff, in proposer projects, or on selection teams.
+Technical residents:  Number and quality 
+of scientists and engineers that join the 
+residency  program.
+Workforce development:  Number of students 
+participating in residency  program.Research Centers of Excellence
+Natcast will consider forming Research Centers 
+of Excellence (CoEs) to place focus and critical mass on priority technical and application areas, including those in Strategic Objectives 1.2 and 1.3. Potential example CoEs include but are not limited to next generation memory technology, advanced logic, hardware security, automotive and power electronics, life sciences, and environmental  sustainability.
+Intellectual Property
+In parallel with the establishment of these research programs, Natcast will develop an IP Protocol that outlines general guidelines, procedures, and rules for handling IP and enabling IP sharing to advance the goals of the Act. The aim of the IP Protocol will be to incentivize and democratize innovation by increasing access to new IP by a diverse range of organizations, while simultaneously protecting proprietary interests and encouraging  commercialization.
+
+
+Strategic Plan FY 2025-202726
+GOAL 1. EXTEND U.S. TECHNOLOGY LEADERSHIP
+Strategic Objective 1.4:   
+Foster connection, collaboration, 
+and innovation in the semiconductor industry.
+Building the NSTC ecosystem will not only require 
+offering research funding, tools, and resources to support scientists and engineers, but also creating opportunities for members across the ecosystem to learn, share, collaborate, and innovate. As the challenges the industry faces become increasingly interdisciplinary and complex, historical silos across the ecosystem must be broken down. Prospective NSTC members have indicated a strong interest in convening, exchanging ideas, and collaborating on opportunities. The NSTC will be the focal point of research and engineering throughout the semiconductor ecosystem, connecting stakeholders across the community by hosting events to foster collaboration and communication, and serving as the entry point to a broad set of resources across the federal government and  nation.
+As the challenges the industry faces 
+become increasingly interdisciplinary 
+and complex, historical silos across the ecosystem must be broken down.
+Natcast will organize virtual and in-person events to 
+bring the semiconductor community together, allowing NSTC members to shape the creation of the NSTC and to connect with each other, such as by linking start-ups with potential investors and clients, and by providing a space for members to present technical papers to the community. Natcast will conduct research agenda workshops to engage the ecosystem on the focus of the NSTC and host an annual conference, along with other conferences and workshops throughout the year.  These conferences will provide value beyond existing industry conferences by organizing around NSTC roadmap discussions and offering participants the ability to influence these roadmaps. The conferences will also provide opportunities to organize across the technology stack (e.g., software, architecture, design, process developments, devices) to formulate comprehensive solutions to these roadmap challenges and secure potential funding for proposals addressing  them.
+Measures of Success:
+Event attendance:  Number of attendees per event 
+and in total over a year and diversity of industry 
+sectors and subsectors in  attendance.
+Quality of events: Regularly surveyed scores of the quality of events.
+Digital marketing and member reach:  Amount of 
+newsletter subscribers, social media followers, 
+and website  hits.
+
+
+27
+Strategic Plan FY 2025-202727the time and cost to prototype will allow the U.S. to 
+strengthen its competitive position in R&D, which, in turn, will create long-term technology  advantages.
+Co-design and co-optimization across the device-to-system stack will be crucial to drive future technology roadmaps. Figure 5  illustrates the technology stack 
+and highlights R&D needs at different levels of the stack. To achieve these co-design and  Goal 2. Reduce the time 
+and cost to prototype
+Natcast will establish and manage a 
+portfolio of physical and digital assets that benefit the NSTC community and reduce the time and cost to explore, prototype, and validate innovative semiconductor  designs.
+Robust, coordinated infrastructure is the foundation 
+for driving innovation that will ultimately be translated into real-world applications. This infrastructure enables researchers to advance their ideas from laboratory proofs-of-concept to prototypes and scaled demonstrations, easing their path to full-scale manufacturable products. Building this infrastructure also supports the current and ongoing investments in domestic semiconductor manufacturing. Reducing 
+Figure 5. Selected infrastructure needs at different levels of the stack19 
+Adaptable integration and 
+characterization of monolithic and 
+system-in-package designs to support 
+small- and medium-scale prototyping
+Reliable and robust fabrication 
+processes that enable repeatable and 
+reliable measurements of device 
+performanceAccess to documented and 
+supported process design kit (PDK) modules and foundational circuit IP, along with robust testing and characterization capabilities
+Key needKey needKey need
+Key needApplications
+So/f.alt01tware
+ArchitecturesAlgorithms
+Packages
+Devices
+MaterialsCircuits
+Structures
+Maximum ﬂexibility of facilities to accelerate R&D of new materials that will enable breakthrough 
+performance
+19 Adapted from “ National Strategy on Microelectronics Research ”, March  2024.
+
+
+Strategic Plan FY 2025-202728
+GOAL 2. REDUCE THE TIME AND COST TO PROTOTYPE
+capabilities to cater to their R&D needs, allowing small 
+businesses and universities developing new process technology to benefit from access to capital-intensive resources. Large companies also have a need for such facilities, as many companies lack the resources to fully explore the wide range of future, high-risk technologies they are interested in. Shared access to facilities can broaden their R&D capacity. Providing the NSTC community with access to state-of-the-art capabilities for validating concepts (e.g., materials, components, system-on-chip prototypes) will reduce barriers to developing semiconductor technologies and fuel innovation. In addition, these facilities will support workforce development efforts by providing students with access to resources that will help build skills through hands-on learning.  
+Through the following strategic objectives, NSTC members will be provided access to physical assets, digital assets, fabrication services, and investment capital to maximize their competitiveness in advancing new technology. To assess the impact of this goal, Natcast will also develop key performance indicators to measure how the investments and services offered have reduced the time and cost to prototype for NSTC members who use these services.
+NSTC members will be provided 
+access to physical assets, digital 
+assets, fabrication services, and 
+investment capital to maximize their 
+competitiveness in advancing new 
+technology.  co-optimization goals, researchers require access to an environment, including facilities and effective technical support, where collaboration and two-way information flow across the stack are encouraged.
+20
+Reducing the time and cost to 
+prototype will allow the U.S.  to 
+strengthen its competitive position in 
+R&D, which, in turn, will create long-term technology  advantages.
+ 
+Current U.S. semiconductor R&D facilities and design flows are designed for full-flow production and not for the experimentation of new ideas, while others are designed for distinct purposes (e.g., material research or module development with limited steps), and lack the capability to translate promising ideas into a full-flow environment. These limitations within existing facilities, combined with the absence of shared infrastructure, skilled resources, and capital, create barriers to innovation, preventing many innovators from further developing their ideas.
+NSTC facilities will be purpose-built to provide a differentiated advantage for NSTC members in moving their promising ideas toward commercial production, including experimenting with new materials or process recipes. This infrastructure will help the advancement of R&D for manufacturing process innovations. Such R&D is critical to strengthening U.S. semiconductor manufacturing competitiveness, as the complexity and sophistication of advanced semiconductor manufacturing requires continuous innovation for long-term self-sustainability.  
+The NSTC’s physical footprint is specifically designed to cater to the diverse R&D needs of members, regardless of size or type of organization. These facilities will offer all NSTC members additional 
+20 Subcommittee on Microelectronics Leadership, “ National Strategy on 
+Microelectronics Research ”, March  2024.
+
+
+Strategic Plan FY 2025-202729
+GOAL 2. REDUCE THE TIME AND COST TO PROTOTYPE
+Strategic Objectives
+2.1. Lower the barriers to semiconductor 
+prototyping, experimentation, and other R&D  activities.
+2.2. Facilitate access to electronic design automation (EDA) and design resources, tools, and shared datasets.
+2.3. Increase access to multi-project wafers (MPWs) and other needs across the value  chain.
+2.4. Advance commercialization of promising innovations through capital investment in  start-ups.
+
+
+Strategic Plan FY 2025-202730
+GOAL 2. REDUCE THE TIME AND COST TO PROTOTYPE
+Strategic Objective 2.1:   
+Establish facilities that lower 
+the barriers to semiconductor prototyping, experimentation, and other R&D activities.
+The NSTC will establish facilities that will address 
+critical gaps in the current ecosystem and be complementary to other government investments (e.g., Microelectronics Commons facility network, Defense Advanced Research Projects Agency’s Next-Generation Microelectronics Manufacturing program). The facilities will allow innovators to collaborate and solve the most challenging problems in microelectronics, offering unparalleled value to a diverse array of stakeholders across the semiconductor value  chain.
+The first three CHIPS for America R&D facilities which will support and advance the NSTC mission are the:
+•NSTC Prototyping and NAPMP Advanced
+Packaging Piloting  Facility
+•NSTC Administrative and Design Facility  (ADF)
+•NSTC Extreme Ultraviolet (EUV) Center
+Additionally, the NSTC may consider establishing 
+affiliated technical centers, discussed briefly on the next page, to support NSTC’s research programs.
+Figure 6. NSTC’s planned physical footprint
+Administrative 
+and Design Facility
+Affiliated Technical 
+CentersEUV CenterIdeally co-located
+Prototyping PackagingThis document provides a brief description of each 
+of the facilities within NSTC’s planned physical footprint. Additional detail on each facility can be found in the CHIPS for America R&D Facilities  Model .
+NSTC Prototyping and NAPMP Advanced 
+Packaging Piloting Facility
+The DOC and Natcast anticipate co-locating R&D 
+prototyping and advanced packaging capabilities to further both the NSTC and NAPMP programs. The DOC and Natcast believe a dedicated facility will allow the NSTC and NAPMP to fully optimize the design of the facility to meet their missions and provide differentiated value enabling world class research across the full technology stack for semiconductors —from materials to design, to 
+manufacturing, to silicon, to  packaging.
+The NSTC Prototyping Center will initially include at least one full-flow, complementary metal-oxide-semiconductor (CMOS) technology as a stable baseline for experiments. Stable and high-quality baseline flows are critical to enabling the best technology development decisions in the lab-to-fab 
+
+
+Strategic Plan FY 2025-202731
+GOAL 2. REDUCE THE TIME AND COST TO PROTOTYPE
+NSTC Extreme Ultraviolet Center
+Natcast will partner with an existing entity with EUV 
+lithography capabilities so that NSTC members can conduct research at state-of-the-art dimensions that will provide an accelerated pathway to commercialization. These capabilities will also be essential to CHIPS R&D programs.
+The DOC and Natcast envision this center to include 
+a full-flow EUV or High Numerical Aperture EUV technology and provide appropriate space for NSTC researchers, student researchers, staff, and member researchers to conduct research and collaborate in the facility.
+Affiliated Technical Centers
+Over the longer term, NSTC facilities are expected to include affiliated technical centers, which are existing facilities in the U.S. that have unique capabilities that can be leveraged and utilized by the NSTC community. Member needs and the availability of funding will determine how many affiliated technical centers will be established. Natcast will also seek to leverage government affiliated facilities such as federal labs or Federally Funded Research and Development Centers where possible to provide complementary capabilities and maximize the value of federal investments to members.  
+Measures of Success:
+Natcast will determine the success of each of the facilities through the following measures of  success:
+Progress against milestones:  Completion of 
+interim milestones for facility development 
+(e.g., site selection, design and permitting, construction, equipment  installation).
+Facility utilization:  Utilization rate of equipment in 
+the prototyping and advanced packaging  facilities.
+Member usage:  Number of NSTC members who 
+have used the facilities one or more times.
+Employee and member satisfaction with space: 
+Level of satisfaction of employees and NSTC members from  surveys.gap TRL stages.
+21 NSTC members can evaluate new 
+ideas in the NSTC prototyping center and compare 
+them to standard devices and yield baselines to determine readiness for production. The facility will include equipment that can process 300mm wafers, which enables the CMOS baseline flow described above, and will allow R&D developed in the facility to more easily transition to manufacturing.  
+The advanced packaging capability is anticipated to include a stable advanced packaging baseline flow that will focus on heterogeneous integration of multi-component assemblies with a large number of interconnects to achieve a degree of integration that blurs the line between the chip and package. The capability will include an initial baseline flow oriented to high performance compute on silicon substrates, which represents the current majority of industry demand-driven needs of advanced packaging applications and will exercise heterogeneous integration by decreasing the pitch of the attached chiplets. To run the baseline flow, the facility will utilize 300mm semiconductor manufacturing tools supplemented with equipment to provide capability for package processing such as die singulation, chip and wafer bonding, and pick and placement of chips and components, maximizing the benefits of both  facilities.
+NSTC Administrative and Design Facility
+The ADF will be a multi-functional facility, serving as the location for key operations of the NSTC, including hosting Natcast administrative functions, convening consortium members, and conducting NSTC programmatic activity. Furthermore, the ADF will serve as the center for advanced semiconductor research in chip design, EDA, chip and system architecture, and hardware security.  
+21 In this Strategic Plan, the early-stage of the lab-to-fab gap refers to 
+TRL/MRL 3 and beyond. Please see this link  for definitions of both 
+technology and manufacturing readiness  levels.
+
+
+Strategic Plan FY 2025-202732
+GOAL 2. REDUCE THE TIME AND COST TO PROTOTYPE
+risk and time for researchers who are not naturally 
+versed in the resources and tools. The DEG effort will be coordinated with similar efforts from the Microelectronics Commons, NSF, etc. The initial launch of the DEG will be a minimum viable product with additional strategic offerings coming online onto the platform as they are developed.  
+Measures of Success:
+Member usage:  Number of NSTC members 
+actively using the  DEG.
+Vendor participation: Engagement of member-
+valued companies (EDA, design firms, foundries, 
+etc.) whose software/flows/etc. are made available on the  DEG.
+Shared data:  Size and breadth of available shared 
+data  sets.Strategic Objective 2.2:   
+Facilitate access to electronic 
+design automation (EDA) and design resources, tools, and   
+shared datasets.
+Natcast will establish a design enablement gateway 
+(DEG) that provides members with a secure, cloud-based service with convenient access to design tools, reference flows and designs, and shared data sets.  
+The purpose of the DEG is to reduce the time and cost to design innovative ideas and facilitate collaboration by creating a centralized portal for design resources. Currently, the cost and inaccessibility of design tools and reference design flows pose challenges for organizations seeking to bring their innovative ideas to fruition. A cloud-based service will lower barriers for small and medium-sized businesses, universities, and other NSTC members to explore and develop innovative ideas. Through the DEG, members may contract access to essential tools, flows, and data sets essential for designing semiconductor chips. This access will also be complemented by support from technical experts, who can reduce 
+Figure 7. Anticipated DEG strategic offerings and benefits 
+Offering Description Expected  benefit
+EDA toolsEDA software tools, cloud compute, and 
+reference flows available through a secure digital chamber• Offerings conveniently accessible under cloud-based platform
+• Contracts with agreed usage terms for select service offerings
+• Secure operating environment for members
+• Reduced cost and cycle times for design, materials, and device innovationsData setsProvide members access to curated data sets that can be used to train AI models, for benchmarking, etc.
+Emulation 
+serversProvide members with emulation servers to verify their designs
+
+
+Strategic Plan FY 2025-202733
+GOAL 2. REDUCE THE TIME AND COST TO PROTOTYPE
+Measures of Success:
+Cost savings: Estimated cost savings achieved for 
+members through aggregation service compared to individual design and tape out processes.
+Time savings: Estimated time saved by members 
+for design iterations and tape out  processes.
+Demand: Number of total projects and services performed annually and wafer  utilization.
+Member satisfaction: Number of repeat members continuing to use services and level of satisfaction reported by members who have previously used  services.
+Differentiation: Number and utilization of differentiated services provided by the NSTC compared to those provided by existing silicon aggregation  providers.
+NSTC members will have access to 
+multi-project wafer (MPW) services 
+and support from technical experts 
+who can aid them with the chip 
+design  processStrategic Objective 2.3:   
+Increase access to multi-project 
+wafers (MPWs) and other production needs across the value chain.
+Natcast will establish a silicon aggregation service 
+to lower the time and cost to advance innovative ideas through the various stages of semiconductor design and manufacturing. This service will be a shared resource available for NSTC member use.  
+Natcast will establish partnerships with foundries and integrated device manufacturers (IDMs) that both participate in the NSTC and have received CHIPS manufacturing incentives from the CHIPS Program Office.
+22 Natcast will work with these 
+partners to identify and secure access to foundry/IDM processes which can provide additional value for NSTC members beyond commercial MPW programs, which may include but are not limited to, advanced logic, CMOS+X, and compound semiconductors. Natcast expects to establish partnerships in order to provide these services to members in a timely manner without incurring the costs associated with creating its own service.  
+Through these partnerships, NSTC members will have access to multi-project wafer (MPW) services and support from technical experts who can aid them with the chip design process (e.g., design sign-offs steps such as timing analysis, physical verification, design for manufacturability, reliability, aging, manufacturing test). These components will further streamline the time and cost to prototype.  
+22 The CHIPS Program Office (CPO) within the DOC is responsible 
+for administering $39 billion in semiconductor  incentives.
+
+
+Strategic Plan FY 2025-202734
+GOAL 2. REDUCE THE TIME AND COST TO PROTOTYPE
+The NSTC investment fund aims to collaborate 
+with existing investment funds that invest in semiconductors, whether private funds, corporate funds, or independent non-profit and government funds, and mission-driven philanthropic  capital.
+Measures of Success:
+Deployed investment:  Total dollars invested in 
+portfolio companies by Natcast through the NSTC 
+investment fund.
+Portfolio company ‘graduates’:  Number of 
+portfolio companies that are mature enough   
+to attract additional venture  funding.
+Additional investment:  Total private sector 
+dollars co-invested in portfolio companies   
+in addition to NSTC investment fund dollars.Research agenda alignment:  Distribution of 
+investments across the NSTC research agenda 
+and different technical areas.
+Investment outcome:  Number of exits   
+and break-even analysis on  investment.Strategic Objective 2.4:   
+Advance commercialization of 
+promising innovations through capital investment in start-ups.
+Natcast will create an NSTC investment fund to 
+support promising semiconductor ecosystem start-ups that have the potential to generate breakthrough innovations. Venture capital firms are often hesitant to invest in semiconductor technologies that are capital-intensive and have lengthy development cycles. Consequently, many promising semiconductor start-ups, including those focused on manufacturing process innovation such as wafer foundry, metrology, and equipment, face difficulties attracting private investment.  
+The NSTC investment fund will fill this market gap by strategically investing in start-ups that align with the research agenda or have true breakthrough potential. The fund’s objective is to provide capital and a supportive ecosystem that enables start-ups to achieve milestones and positions them to attract private capital.  
+The investment fund’s objective is 
+to provide capital and a supportive 
+ecosystem that enables start-ups to achieve milestones and positions them to attract private capital.
+ 
+Natcast will also provide start-ups with access to prototyping and advanced packaging facilities, design tools (via the DEG), and MPWs (via the silicon aggregation service). In addition, start-ups will have access through their NSTC membership to mentorship from industry experts, networking opportunities with NSTC members to identify potential customers and boost customer interest, additional strategic capital from NSTC members, and access to the NSTC WCoE.   
+
+
+35
+Strategic Plan FY 2025-202735their approaches to recruitment, partnerships, and 
+workforce development to support increased hiring and improve employee retention.
+These challenges must be addressed by the entire semiconductor workforce ecosystem, which comprises an array of stakeholders, including employers, academic institutions, labor organizations, the public workforce system, workforce solution providers, and workforce intermediaries.
+24 Various 
+federal agencies, including the NSF, DOC, DOD, and the Departments of Education and Labor, also have a role in semiconductor workforce development efforts.  
+Ecosystem stakeholders do not always hold sufficient incentives to collaborate effectively in addressing workforce challenges. Perceived risks, such as those related to protecting IP and retaining competitive advantage, result in stakeholders with shared goals working independently from one another, ultimately resulting in reduced collaboration and inefficiencies by way of duplication of efforts across separate  institutions.
+24 Urban Institute, “ Workforce Intermediaries and Collaboratives | Local 
+Workforce System Guide ”, 2022.Goal 3. Build and sustain 
+a semiconductor workforce development ecosystem
+23 Semiconductor Industry Association, “ Chipping Away: Assessing 
+and Addressing the Labor Market Gap Facing the U.S. Semiconductor 
+Industry ”, July  2023.The renewed interest in the semiconductor industry, 
+accompanied by substantial investments, has the industry on a path to rapid expansion. As a result, domestic demand for semiconductor talent is projected to dramatically outpace the currently available supply. Estimates indicate demand for an additional 238,000 semiconductor workers by 2030 across manufacturing and design. Without proactive action from federal agencies, the available semiconductor workforce is forecasted to fall short of meeting industry demand by as many as 67,000 workers, including engineers, computer scientists, and technicians.
+23  
+Estimates indicate demand for an 
+additional 238,000 semiconductor 
+workers by 2030 across manufacturing and  design.
+The success of the domestic semiconductor industry 
+requires solutions that address multiple challenges facing the efforts to develop the next generation of talent. These challenges include building sufficient infrastructure to serve the number of students and trainees required to meet the projected demand for workers, growing the interest in semiconductor careers, and boosting efforts to retain students, trainees, and employees. Colleges, universities, and other training providers in the U.S. must respond quickly to industry needs, cultivate interest in the field and develop the next generation of talent. Simultaneously, semiconductor employers must adapt 
+
+
+Strategic Plan FY 2025-202736
+GOAL 3. BUILD AND SUSTAIN A SEMICONDUCTOR WORKFORCE DEVELOPMENT ECOSYSTEM
+The WCoE will serve as the anchor 
+institution that brings stakeholders 
+together to better understand the 
+nature of, and find solutions to, the 
+workforce challenges facing the 
+domestic semiconductor industry.The Workforce Center of Excellence
+The WCoE is uniquely positioned to de-risk 
+collaboration and facilitate cooperation. It will identify and scale effective workforce solutions, coordinate workforce initiatives, create shared resources, and centralize data. As a neutral, third-party within the semiconductor workforce ecosystem, the WCoE will act as a trusted facilitator for stakeholder collaboration. It will incubate key workforce initiatives that require both regional and national coordination, including initiatives to strengthen domestic training and education  pathways.
+The WCoE will serve as the anchor institution that brings stakeholders together to better understand the nature of, and find solutions to, the workforce challenges facing the domestic semiconductor industry. Over the next ten years, the WCoE aims to enable over 35,000 individuals for roles in the semiconductor industry.  
+During its first year of operation, the WCoE expects to:
+1. Enable training of 2,000 individuals for roles int
+he industry  
+2. Serve more than 30 stakeholder institutions,in
+cluding all leading-edge manufacturing
+employers  
+With the goal of growing and sustaining the U.S. semiconductor workforce, the WCoE will lead strategic initiatives designed to support workforce development, centralize resources, and reduce barriers across the industry  ecosystem.Strategic Objectives
+3.1. Increase access to effective, industry-
+driven workforce solutions, including scaling evidence-based sector strategies, through partnerships, funding, recognition programs, and access to shared resources.
+3.2. Facilitate the exchange of ideas, insights, tools, and resources among stakeholders in the semiconductor workforce  community.
+3.3. Provide expertise and custom services to stakeholders to support the improvement of regional workforce development  ecosystems.
+3.4. Unlock actionable insights into the current conditions of the semiconductor workforce, keep stakeholders informed, and identify and showcase best  practices.
+
+
+Strategic Plan FY 2025-202737
+GOAL 3. BUILD AND SUSTAIN A SEMICONDUCTOR WORKFORCE DEVELOPMENT ECOSYSTEM
+program will focus on closing key skills and labor 
+market gaps in the U.S. for researchers, engineers, and technicians in key areas of need, including semiconductor design, manufacturing, and production.  
+NSF and DOC are co-investing to jointly establish the Network Coordination Hub and broader National Network for Microelectronics Education, which will align with and be complementary to the NSTC WCoE and broader workforce efforts. The National Network Coordination Hub and the WCoE will share information on best practices in curriculum and education, as well as outcomes and data from the workforce efforts the Hub sponsors. The NSTC WCoE will serve as the main platform for industry stakeholders to better understand workforce challenges and to identify solutions. The National Network, including the National Network Coordination Hub, will disseminate these best practices to organizations around the country, adapting them to local conditions, stakeholders, and  institutions.
+Measures of Success:
+Service provision:  Number of students, trainees, 
+and jobseekers trained or prepared through 
+high-quality approaches, and the number who are employed after participating in funded  initiatives.
+Execution of milestones:  Number of milestone 
+deliverables set in partnership agreements that were delivered on schedule by awardees.
+Community engagement with published 
+resources:  Download rates and number of citations 
+and webpage  visits.Strategic Objective 3.1:   
+Increase access to effective, industry-
+driven workforce solutions, including scaling evidence-based sector strategies, through partnerships, funding, recognition programs, and 
+access to shared resources.
+Currently, there are many effective workforce 
+education and training programs offered by semiconductor companies, training providers and educational institutions. The WCoE will recognize best practices and develop resources to facilitate their adoption by the broader NSTC community. Public recognition of effective workforce solutions is intended to be a signal to employers that graduates of these programs have achieved quality, industry-recognized training. It will also signal to members, companies, other organizations, and funders that these solutions are models deserving of investment or replication.  
+The WCoE team will focus on scaling, replicating, extending, and expanding effective workforce solutions —including specialized education and 
+training programs, earn-and-learn models, non-degree programs, and wrap-around support services —that prepare individuals for a wide range 
+of family-sustaining jobs. These solutions include attributes such as buy-in from employers planning to hire, a proven track record of successfully training students and jobseekers, partnerships with other workforce solutions and stakeholders to foster scalability and collaboration, and a demonstrable impact on the quality of life and earning potential of  participants.
+NSTC efforts to support and scale solutions through partnership and funding opportunities are already underway. In July 2024, Natcast launched the NSTC Workforce Partner Alliance program, which creates a nationwide fund to support projects that will address a critical workforce need in the U.S. semiconductor industry. This initial funding 
+
+
+Strategic Plan FY 2025-202738
+GOAL 3. BUILD AND SUSTAIN A SEMICONDUCTOR WORKFORCE DEVELOPMENT ECOSYSTEM
+To ensure that WCoE programming is informed 
+by key stakeholders, the WCoE will establish a WFAB composed of representatives from industry, government, academia, labor organizations, nonprofit workforce organizations, and other key stakeholders. The WFAB will provide strategic advice and guidance to the WCoE that will help connect the WCoE’s programming and activities to the needs of NSTC  members.
+Measures of Success:
+Event registration and attendance: Number   
+of registrations and the rate of attendance.
+Event feedback: Feedback from attendees   
+on the quality and utility of event content.Clearinghouse usage: Number, growth, and 
+retention of registered clearinghouse system users over time.
+Clearinghouse engagement:  Number of 
+downloads, views, and  interactions.Strategic Objective 3.2:   
+Facilitate the exchange of ideas, 
+insights, tools and resources across stakeholders in the semiconductor workforce community.
+A crucial mechanism for elevating innovative ideas 
+and accelerating progress is to connect members of the semiconductor ecosystem and enable them to share ideas, insights, tools, and resources. The WCoE will facilitate this connectivity between members by creating a clearinghouse that will act as a digital repository of best practices, establishing a Workforce Advisory Board (WFAB), and convening both virtual and in-person  events.
+The WCoE digital clearinghouse will enable members to exchange information about effective curriculum, support services, recruitment practices, and other resources between members online. When fully implemented, it will feature a digital forum for discourse and exchange of ideas among members and a curated digital resource library that will host a variety of materials, including curricula, assessment tools, training tools, best practice guides, proprietary analyses, and reports from the WCoE. The digital forum will promote interaction around the communal resources stored within the clearinghouse, enable members to learn from the experiences of their peers, and help organizations leverage these insights to improve their own workforce  programs.
+To complement the digital clearinghouse, the WCoE will convene stakeholders and NSTC members to share best practices and engage in discussions on workforce topics through events and workshops. An annual NSTC conference, along with more regular virtual and in-person events, will provide a platform for the WCoE to promote the organization of communities of interest focused on addressing the industry’s workforce challenges.  
+
+
+Strategic Plan FY 2025-202739
+GOAL 3. BUILD AND SUSTAIN A SEMICONDUCTOR WORKFORCE DEVELOPMENT ECOSYSTEM
+receiving awards through the WCoE’s partnership 
+programs, CHIPS incentives awardees and their designated workforce intermediaries, and the participants in cross-cutting workforce partnership strategies being deployed by the federal government, such as the Invest in America Workforce Hubs, states, and  localities.
+Measures of Success:
+Assistance provided: Number of NSTC members 
+that requested and received assistance from the technical assistance  team.
+Service quality: Quality and utility of services and the reported level of impact, including number of partnerships created and amount of funding secured based on guidance received, measured through feedback  surveys.Strategic Objective 3.3:   
+Provide expertise and custom 
+services to employers and stakeholders to support the improvement of regional workforce development ecosystems.
+The WCoE will support the development of effective 
+national and regional workforce ecosystems through providing hands-on support to NSTC members seeking to expand or improve their workforce development programs.  
+Natcast will stand up a technical assistance program to support employers and other workforce stakeholders in their national and regional semiconductor workforce ecosystems. This support will include assistance with utilizing workforce intermediaries, building internal capacity, and delivering workforce solutions that can reduce barriers to participation. Natcast will support the development of sector strategies, including through the formation and sustainment of sectoral partnerships led by employers and other key partners. The program staff will serve as liaisons between programs, provide guidance on funding opportunities, help stakeholders identify partners, and assist members with implementing best practices in workforce  development.
+The WCoE’s technical assistance program will educate the broader workforce ecosystem about the intermediary-led structure of CHIPS workforce development efforts. This will help foster innovative ideas for workforce solutions and build community by informing WCoE communities of interest. The program will be a critical pillar in ensuring the long-term success of NSTC members, including those 
+
+
+Strategic Plan FY 2025-202740
+GOAL 3. BUILD AND SUSTAIN A SEMICONDUCTOR WORKFORCE DEVELOPMENT ECOSYSTEM
+and effective practices within their own contexts. 
+These resources will include informative workforce reports to provide key stakeholders with insights into the current conditions of the workforce  ecosystem.
+Using insights from the data collected, 
+the WCoE team will develop practical 
+resources to promote the adoption of 
+best  practices.
+Measures of  Success:
+Progress of research agenda execution: Number 
+of innovative and useful reports published on 
+schedule and public engagement with  reports.
+Data collection: Quality and quantity of data collected to generate insights on workforce development efforts and the effectiveness of workforce  solutions.Strategic Objective 3.4 :  
+Unlock actionable insights into 
+the current conditions of the semiconductor workforce, keep stakeholders informed, and identify and showcase best practices.
+At present, the semiconductor industry lacks clear 
+and accurate data on the composition of the national semiconductor workforce and on the effectiveness of existing education and training programs. Publicly available datasets do not have the necessary level of granularity required to enable evaluation of issues related to the semiconductor workforce. To address this problem, the WCoE will serve as a consolidation point for data related to semiconductor workforce development in the U.S. and will establish a program to collect, analyze and share insights from data sourced from industry, workforce nonprofits, educational partners, training programs, academic institutions, NSTC members, and aggregators of public workforce data  sets.
+The WCoE will establish a data collection and research program that will feed a workforce data system capable of aggregating the supply, demand, and performance data needed to unlock actionable insights into the current conditions of the semiconductor workforce. The system will enable research that provides more timely and granular insights into the effectiveness of semiconductor workforce initiatives, including reporting on the talent gap and the progress made towards closing it.
+Using insights from the data collected, the WCoE team will develop practical resources to promote the adoption of best practices. These insights will provide the research team with indicators as to where best practices may have been successfully deployed and where innovations could be emerging. The WCoE team will pursue, document, and supplement these leads, turning them into educational content and resources that enable NSTC members to implement emerging 
+
+
+41
+Strategic Plan FY 2025-2027MEMBERSHIP ENGAGEMENT
+Service offerings
+NSTC membership offerings can be summarized 
+within a three-pronged  framework:
+• Innovate: The NSTC mission aims to ensure that 
+all organizations have an opportunity to advance and enable disruptive innovation by offering research awards, facilitating engagement with member-funded and NSTC-funded research, and providing access to essential infrastructure, such as prototyping facilities, a DEG, a silicon aggregation service, and an investment fund.
+• Collaborate:  The NSTC will create a neutral 
+and collaborative environment that promotes teamwork and cooperation among NSTC members, facilitating involvement in research programs, convening the community in physical and digital spaces to share ideas, and strengthening connections across the  community.
+• Educate:  The NSTC is dedicated to fostering 
+education and knowledge-sharing through a comprehensive range of offerings, such as residency programs, seminars, research reports, workforce awards, and workforce programs, which aim to disseminate knowledge, share best 
+practices, and spark fresh ideas.
+As a diverse member-led consortium, 
+the NSTC exists to serve and 
+catalyze the U.S.  semiconductor 
+R&D community. Active member 
+engagement and investment in the 
+NSTC are both important factors to  
+its success.  Membership 
+Engagement
+Natcast aims to build enduring value 
+for the NSTC through a membership program that drives innovation to com -
+mercialization, maximizes collaboration, fosters education, and contributes to the long-term financial sustainability of the organization.
+NSTC membership will be diverse and span the entire 
+semiconductor ecosystem. Examples of anticipated NSTC members include established semiconductor companies, start-ups, financial service providers and investors, academic research institutions, minority-serving institutions, Historically Black Colleges and Universities, emerging research institutions, community colleges, vocational institutions, labor organizations, consortia and associations, and government. Entities with a U.S. presence, including U.S. subsidiaries of foreign entities, can apply to be NSTC members. Prospective members, as well as other program participants, will be subject to security risk due diligence. Research security will be key to protecting the NSTC research enterprise, with members and program participants being required to comply with applicable research security  standards.
+As a member-led consortium, the NSTC exists to serve and catalyze the U.S. semiconductor R&D community. Active member engagement and investment in the NSTC are both important factors to its success.
+
+
+42
+Strategic Plan FY 2025-2027MEMBERSHIP ENGAGEMENT
+Customer service and support
+Natcast is committed to providing exemplary service 
+and expert support by continuously engaging members  through:
+•Member concierge:  Members will have access
+to concierges who will help them navigate the
+landscape of resources available through theirNSTC  membership.
+•Solicitation of member feedback:  The NSTC
+is focused on offering premier support andservice by soliciting ongoing feedback fromNSTC members to gather input on improvingtheir  experience.
+Value propositions across NSTC  
+member categories
+As illustrated in Figure 8 , NSTC membership will 
+be offered in two categories —Core membership 
+and Affiliate membership. The primary objective of 
+initially offering two categories is to simplify the model, while catering to the diverse needs that exist among different types of organizations. The NSTC may introduce additional membership categories as services evolve and mature.
+Core Members
+The Core membership category is designed for entities directly involved in semiconductor technology development or involved in the design of materials, tools, chips, or systems utilizing semiconductors. Core members are likely to include large and small entities supporting different elements of semiconductor design and manufacturing.  
+Given the range of organizations that will be a part of the Core membership, the membership model will allow Core members to select the service offerings that best align with their specific needs. Figure 9  highlights selected offerings and 
+benefits available to Core members in their base membership and as potential  add-ons.Figure 8. Membership  Categories
+Eligible affiliate entity types may choose to apply as core members, however, groups that should be core 
+members will not be eligible for affiliate membership
+Core  Members Affiliate  Members
+Entities directly involved  in technology development 
+or the design of materials, tools, chips, or systems 
+that use semiconductorsEntities not directly involved  in semiconductor 
+technology development or the design of materials, tools, chips, or systems that use semiconductors
+Example groups:
+•Companies
+1 (large & small)
+•Research-focused academic institutions
+•Consortia that are legal entities
+•National, state, private research labs
+•Government agencies focused on semiconductor 
+R&DExample groups:
+• Investors
+• Academic institutions not focused on research
+• Workforce intermediaries
+• Labor organizations
+• Consortia that are legal entities
+• Government agencies not focused onsemiconductor R&D
+• Professional services
+1 Company types include systems, IDM, foundry, fabless design, packaging, manufacturing, suppliers of equipment, EDA tool providers, IP companies 
+and  materials
+
+
+43
+Strategic Plan FY 2025-2027MEMBERSHIP ENGAGEMENT
+Figure 9. Core member value proposition  examples
+Core member service  offeringsIncluded in 
+base  membershipAvailable as 
+an add-on 
+service1 
+Innovate Apply for NSTC research awards
+Participate in in-house research projects
+Participate in member-funded research
+Provide input on NSTC research agenda
+Seek funding from NSTC Investment Fund
+Access to Prototyping facility
+… Advanced Packaging facility
+… EUV center
+… Design enablement gateway
+… Silicon aggregation service
+Collaborate Conferences & events  
+Technical fellowship program
+Eligibility for TAB/TAC/WFAB
+Member teaming & co-development
+Physical co-location to collaborate
+Educate Seminars, webinars, reports and newsletters   
+Workforce award eligibility  
+Workforce programs & technical assistance
+1 Members will be responsible for paying additional fees for add-on  services
+
+
+44
+Strategic Plan FY 2025-2027MEMBERSHIP ENGAGEMENT
+Affiliate Members
+The Affiliate membership category is designed for 
+entities not directly involved in semiconductor technology development or the design of materials, tools, chips, or systems that use semiconductors, but aspire to support and connect with Core members by providing workforce solutions and advocacy (e.g., workforce intermediaries, labor organizations), professional services (e.g., legal, accounting, consulting), and investment capital. There are unique needs for each of these groups and the NSTC membership program will offer appropriately scaled member services that closely align with their requirements. Affiliate members may upgrade their status to Core membership at any time. Figure 10  
+highlights selected offerings and benefits available to affiliate  members.Measures of  Success:
+Member growth:  Number of new entities that have 
+joined NSTC’s membership  program.
+Member satisfaction:  Average membership 
+length and renewal  rate.
+Member engagement:  Number of members 
+purchasing add-on services and utilization rate of 
+each  service.
+Diversity: Number of organizations in the 
+membership portfolio across each member category and tier (i.e., Core, Affiliate).Figure 10. Affiliate member value proposition  examples
+Affiliate member service  offeringsIncluded in 
+base  membershipAvailable as 
+an add-on 
+service2 
+Collaborate Conferences & events  
+Eligibility for Workforce Advisory Board (WFAB)
+Educate Seminars, webinars, reports and newsletters
+Workforce award eligibility
+Workforce programs & technical assistance
+2 Members will be responsible for paying additional fees for add-on  services
+
+
+45
+Strategic Plan FY 2025-202745Conclusion
+The NSTC represents a once-in-a-generation 
+opportunity to create a transformative institution that accelerates the pace of innovation, grows and nurtures a thriving semiconductor R&D ecosystem and related workforce, and sets the foundations for future  industries.
+This strategic plan seeks to build the NSTC as an enduring institution that will reinforce and extend U.S. leadership in semiconductor technologies by defining and prioritizing near-term goals and objectives for the next three years for the benefit of NSTC members and our country. The objectives span a wide domain, including defining the research agenda, initiating a research award program, establishing facilities, and developing and sustaining the U.S. semiconductor workforce.  
+The plan includes many specific programs that will deliver value to NSTC members in the near-term, such as the “Jump Start” research program, Design Enablement Gateway, silicon aggregation service, investment fund, and WCoE. The offerings and capabilities available to members will continue   
+to expand.  
+There is important work ahead to conduct cutting-edge research and prototyping 
+of advanced semiconductor technologies, grow and sustain the domestic semiconductor workforce, and ultimately strengthen the economic competitiveness and security of the U.S. semiconductor ecosystem.   
+ Natcast and the Department of Commerce are excited to begin this journey and grow the NSTC into a vibrant, collaborative member-led community.
+
+
+© 2025 Natcast. All Rights Reserved. 
+
+

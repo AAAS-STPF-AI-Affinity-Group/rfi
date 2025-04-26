@@ -1,0 +1,190 @@
+ Cloud Security Alliance Submission to the AI Action Plan RFI  
+ Email to:  
+ Subject:   AI Action Plan - Cloud Security Alliance   Submission  
+ Date:   March 15th, 2025  
+ Cloud Security Alliance (CSA) Response to the Request for Information on  
+ the Development of an Artificial Intelligence (AI) Action Plan  
+ AGENCY:   Networking and Information Technology Research   and Development  
+ (NITRD) National Coordination Office (NCO), National Science Foundation (NSF).  
+ SUBMISSION BY:   Cloud Security Alliance (CSA)  
+ STATEMENT OF PUBLIC DISSEMINATION:   This document is   approved for public  
+ dissemination. The document contains no business-proprietary or confidential  
+ information. Document contents may be reused by the government in developing the AI  
+ Action Plan and associated documents without attribution.  
+ Introduction  
+ The Cloud Security Alliance (CSA) is a global leader in defining best practices for  
+ securing cloud computing and emerging technologies, including artificial intelligence  
+ (AI). As an industry-driven nonprofit, CSA collaborates with public and private sector  
+ stakeholders to establish security frameworks, research AI risk management, and  
+ support policy development that ensures AI innovation is secure, resilient, and fosters  
+ trust. For over 15 years, CSA has enabled early adoption of technologies by providing  
+ best practices and assurance methodologies for both solution providers and those  
+ organizations implementing these technologies. We welcome the opportunity to provide  
+ input on the AI Action Plan and recommend key priority policy actions to maintain the  
+ United States’ leadership in AI while ensuring security and trustworthiness in its  
+ deployment.  
+ Notable initiatives:  
+
+
+ AI Safety Initiative  (  https://cloudsecurityalliance.org/ai-safety-initiative  ) 
+ CSA’s AI Safety Initiative is the premier coalition of trusted experts who converge to 
+ develop and deliver essential AI guidance and tools that empower organizations of all 
+ sizes to deploy AI solutions that are safe, responsible, and compliant. 
+ Security, T rust, Assurance, and Risk (ST AR) Program  
+ (  https://cloudsecurityalliance.org/star  ) 
+ The ST AR Registry is a free, publicly accessible registry that documents the security  
+ and privacy controls provided by popular cloud computing offerings, allowing public 
+ users to review and service providers to share security practices. ST AR encompasses 
+ the key principles of transparency, rigorous auditing, and harmonization of standards 
+ outlined in the Cloud Controls Matrix (CCM) to reduce complexity and show security 
+ and compliance posture across  regulations, standards, and frameworks.  
+ Zero Trust Advancement Center   (  https://cloudsecurityalliance.org/zt   ) 
+ Creating an industry “north star” for Zero T rust has huge implications in raising the  
+ cybersecurity baseline across the board and eliminating significant systemic risk. CSA's 
+ mission is to create research, training, professional credentialing and provide an online 
+ center for additional curated Zero Trust resources to understand and implement Zero  
+ Trust principles into business planning, enterprise architectures and technology  
+ deployments. 
+ Key Recommendations for the AI Action Plan 
+ 1. Strengthening Cloud AI Infrastructure Security
+ AI in Cloud and Data Center Infrastructure. 
+ ● AI models rely on cloud-scale infrastructure, creating new security risks. The U.S.
+ must lead in defining best practices for  AI model  protection  ,  secure
+ deployment  , and  data integrity  to prevent adversarial  exploits.
+ ● Promote resilient cloud security architectures to support AI workloads while
+ mitigating risks related to unauthorized access, data breaches, and AI model
+ leakage.
+ ● Address AI model security risks in cloud environments, including model theft,
+ adversarial attacks, and unauthorized access.
+ ● Establish best practices for AI security at hyperscale, ensuring scalability and
+ resilience.
+
+
+ ● Encourage industry collaboration on secure AI infrastructure, including security
+ measures for hyperscale cloud environments.
+ Supporting AI Compute and Energy Efficiency. 
+ ● Invest in research on energy-efficient and secure AI computing, balancing
+ innovation with sustainability and cybersecurity.
+ ● Address growing concerns about AI energy consumption by incentivizing
+ efficient AI processing architectures  .
+ ● Support research into sustainable AI infrastructure to optimize power usage
+ without compromising security.
+ Mitigating AI Cloud Energy and Compute Constraints 
+ ● AI workloads are projected to  overwhelm cloud and  energy resources  within
+ the next few years. Strategic investments in  efficient  AI computing  ,
+ sustainable AI infrastructure  , and  decentralized AI  processing  will be crucial
+ to maintaining U.S. leadership.
+ ● Anticipate increasing demand for AI-driven cloud computing and implement
+ strategies to mitigate energy constraints and security risks.
+ Securing AI Compute Supply Chains 
+ ● The AI boom is straining compute resources and creating dependencies on
+ foreign chip manufacturers. Policies should support  domestic AI compute
+ security  and  protect critical semiconductor supply  chains  from foreign
+ influence and cyber threats.
+ ● Strengthen supply chain security for AI accelerators (GPUs, TPUs) to prevent
+ foreign dependencies and ensure national competitiveness.
+ 2. Enable Secure AI Model Development and Agentic AI
+ AI Security and Risk Management 
+ ● The U.S. role as a global leader in AI depends on secure and trustworthy model
+ adoption. National guidelines should focus on  securing  AI training data  ,
+ preventing  model tampering  , and ensuring  verifiable  AI system integrity  .
+ ● Establish security best practices for  Agentic AI  —AI  systems that operate with
+ autonomy—ensuring their development and deployment adhere to strict security
+ controls to prevent unintended consequences and adversarial manipulation.
+
+
+ ● Assure AI model updates have been fully tested against  expected behaviors
+ prior to implementation into production and monitor for abnormalities in response
+ Zero Trust Strategy 
+ ● Apply  Zero Trust principles  to AI model development,  ensuring that only
+ verified, authorized entities can access and modify AI training data and models.
+ ● Ensure the continuous authentication of all access and specified roles, especially
+ for agentic behavior that may operate autonomously
+ ● Support development of privacy-preserving AI techniques, such as dif ferential
+ privacy and federated learning, to protect sensitive data while enabling AI
+ innovation.
+ AI Maturity Model 
+ ● Introduce an  AI Maturity Model  to assess organizational  readiness and security
+ posture for AI deployment, guiding enterprises on secure and responsible AI
+ adoption.
+ ● Support the adoption of AI explainability techniques that enhance confidence in
+ AI-driven decision-making.
+ ● Establish security guidelines for AI model development, covering threats such as
+ data poisoning, adversarial attacks, and model inversion risks.
+ ● Develop national guidelines for AI integrity, ensuring models are protected from
+ manipulation and adversarial exploits.
+ ● Support  transparent AI provenance tracking  to prevent  data poisoning and
+ unauthorized modifications.
+ Enhancing AI Privacy and Data Protection 
+ ● Strengthen security frameworks for sensitive training data in cloud AI systems.
+ ● Expand privacy-preserving AI technologies such as  federated learning  ,
+ homomorphic encryption, and confidential computing  to secure enterprise
+ adoption.
+ 3. Promoting Secure AI Model Assurance and Transparency
+ AI Cybersecurity Framework 
+ ● Adopt industry accepted AI cybersecurity controls frameworks, incorporating
+ expanded cybersecurity best practices for model assurance, adversarial
+ robustness, and secure AI supply chains.
+
+
+ ● Develop voluntary assurance frameworks for AI systems, ensuring verifiable,
+ interpretable, and trustworthy AI decision-making processes.
+ ● Establish standardized AI transparency reporting, enabling enterprises and
+ consumers to understand model behavior and reliability.
+ ● Require transparency measures for AI system integrity, including secure model
+ provenance and verifiable lineage.
+ Governance, Compliance, and Regulatory Coordination 
+ ● Establish harmonized AI security and governance policies that align with global
+ frameworks while reducing regulatory burdens on AI innovation.
+ ● Develop national security policies to protect AI supply chains from adversarial
+ threats, including foreign influence on AI infrastructure and datasets.
+ ● Harmonize industry-driven security standards, aligned with and encouraging the
+ NIST AI Risk Management Framework and the CSA AI Controls Matrix.
+ ● Encourage secure AI model development lifecycles with rigorous validation,
+ red-teaming, and security testing.
+ ● Define clear security and compliance requirements for AI models used in critical
+ infrastructure and high-risk applications.
+ 4. Advancing AI Cybersecurity to Protect National Interests
+ AI-Driven Defense Systems 
+ ● AI-powered cyber threats are evolving rapidly. The U.S. must develop  AI-driven
+ defense systems  that enable real-time threat detection,  adversarial AI
+ mitigation, and resilient cloud-based security architectures.
+ ● Implement  Zero Trust security models  for AI infrastructure  to ensure
+ continuous verification of AI systems, models, and data access.
+ AI-Driven Cybersecurity for Critical Infrastructure 
+ ● Prioritize  AI for cyber defense  to detect and mitigate  threats at machine speed.
+ ● Encourage government-industry collaboration on AI-driven security analytics to
+ protect critical infrastructure.
+
+
+ 5. AI Workforce Development and Training
+ AI Fundamentals and Expertise 
+ ● Expand AI security education programs to build a skilled workforce capable of
+ addressing AI cybersecurity challenges.
+ ● Invest in public-private partnerships to develop training initiatives focused on AI
+ security best practices.
+ ● Training and awareness for leveraging AI to support existing roles and
+ responsibilities
+ ● Establishing roles and responsibilities for advancing the use of AI
+ Strengthening International Collaboration and Competitiveness 
+ ● Engage in global partnerships to establish AI security norms and prevent
+ fragmentation in AI security standards.
+ ● Support AI security research collaborations between U.S. institutions and allied
+ nations to advance AI trustworthiness and interoperability.
+ ● Encourage responsible AI export policies that balance innovation with national
+ security interests.
+ Conclusion 
+ CSA strongly supports a balanced AI Action Plan that ensures robust security measures 
+ while fostering AI innovation. The importance of AI education, security frameworks, and 
+ assurance programs will enhance readiness and establish verifiable AI security 
+ practices to encourage AI adoption. Strengthening these areas will support sustainable 
+ AI adoption and resilience in evolving AI ecosystems. By incorporating 
+ security-by-design and Zero Trust principles, industry collaboration, and a risk-based  
+ approach, the United States can lead in AI development while ensuring safety and trust 
+ in AI technologies. 
+ We appreciate the opportunity to contribute to this ef fort and welcome further  
+ engagement in shaping AI security policy . 
+ Respectfully submitted, 
+ Cloud Security Alliance 
+
+

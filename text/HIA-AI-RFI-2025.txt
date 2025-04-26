@@ -1,0 +1,1464 @@
+March 13, 2025 
+Mr. Kirk Dohne, Acting Director 
+National Coordination Office Networking and Information Technology Research and Development Program National Science Foundation 2415 Eisenhower Avenue Alexandria, VA 22314 
+RE: A
+I Action Plan  
+Submitted electronically via regulations.gov 
+Dear Mr. Dohne:  
+The Health Innovation Alliance (HIA) is pleased to submit comments to  the Request for Information (RFI) on 
+the Development of an Artificial Intelligence (AI) Action Plan . HIA encourages the Trump a dministration to 
+accelerate the use of AI in health care with federal resources and incentives and to take a commonsense 
+regulatory approach using existing authorities that balances safety and effectiveness while allowing for 
+continued innovation and efficiency. 
+HIA is a diverse coalition of patient advocates, healthcare providers, consumer organizations, employers, 
+technology companies, and payers working together to improve health care through the commonsense use of 
+data and technology. Founded in 2007, HIA has been a stalwart supporter of health information technology and interoperability, having worked on key legislation ranging from the HITECH Act to the 21
+st Century Cures Act. 
+We are excited about t he impact AI is having on the health community and its potential to address many of 
+health care’s most challenging problems, particularly for administrative burden , provider burnout, and provider 
+shortages. For too long, the health care industry has faced  increasingly complex regulations and compliance 
+burdens due to an expanding and seemingly endless government bureaucracy. The Trump a dministration is 
+uniquely situated to recast federal health technology policy  and reorient to  market-driven, practical approaches  
+rather than a top -down, government-led system. The development of an AI Action Plan is a perfect place to 
+start. HIA looks forward to working with the Office of Science and Technology Policy and the National Science 
+Foundation to craft a national AI plan that fosters innovation and drives American excellence in AI. 
+Health care is a hyperregulated industry, and numerous existing authorities are already governing the use of AI i
+n health care. The Biden administration began this expan sion by creati ng the Assistant Secretary for 
+Technology Policy (ASTP) which issued AI policies that conflicted with existing ones at the Food and Drug 
+Administration (FDA). In particular, several requirements on AI from ASTP t ake a “function -based” approach, 
+where any technology that possesses machine learning or AI functionality i s subject to increased regulat ory 
+requirements . In contrast, the FDA has taken a risk -based approach to regulating medical products for decades. 
+HIA believes this is the correct approach to  AI and urges the Trump a dministration to  use existing authorities at 
+HHS, particularly the FDA, to  streamline regulatory processes where possible to encourage the proliferation of 
+AI technology.  
+
+
+In 2024, HIA convened stakeholders across the health care industry and developed principles for regulating AI 
+in health care. Our response to this RFI includes these principles to help guide the Trump a dministration’s AI 
+Action Plan for artificial intelligence  in health care. We have also included our recent report cataloging various 
+use cases for AI across health care. The volume of current and potential uses of AI in health care – and the 
+different forms these AI tools take given the dynamic circumstances of each health care encounter or transaction  
+– underscores the need to view health care AI with a risk -based lens and an adaptive regulatory model. There is
+no way to regulate AI in a one- size-fits-all approach, and we encourage the Trump a dministration to be flexible
+as we learn the true utility and limitations of AI  tools.
+Finally, we encourage the Trump administration to invest in AI across the health care industry. Without support 
+from the government, we run the risk of only the largest or wealthiest health care organizations adopting AI 
+tools. Artificial intelligence  should be available throughout, including in less resourced areas like rural and 
+behavioral health care. Since health care currently constitutes one-third of non-defense spending, HIA believes  
+the investment can come from one-third of non-defense AI spending. 
+We thank O STP and the National Science Foundation for the opportunity to respond to this RFI, and we look 
+forward to working with you to achieve American AI dominance and excellence in health care. 
+Sincerely,  
+Brett Meeks  
+Executive Director  
+CC: 
+Steven Posnack  
+Acting Assistant Secretary for Technology Policy/Office of the National Coordinator for Health Information 
+Technology ( ASTP/ONC) 
+U.S. Department of Health and Human Services 
+330 C St SW Floor 7 Washington, DC 20201  
+
+
+Principles for the Use of
+Artificial Intelligence in
+Health Care and Life
+Sciences
+
+
+Table of Contents
+About Health Innovation Alliance
+Foreword
+AI Principles
+MethodologyAcknowledgements
+Appendix
+2Industry Principles Review
+Resources3
+4
+13
+15
+17
+24Risk-Based
+Transparent
+Private
+Responsible
+Equitable8
+9
+10
+11
+12
+
+
+The Health Innovation Alliance (HIA) is a diverse coalition of patient
+advocates, healthcare providers, consumer organizations, employers,
+technology companies, and payers who support the adoption and use of
+data and technology to improve health outcomes and lower costs.  
+Formed in 2007, HIA has been on the front lines of federal policy related
+to healthcare technology and interoperability since our inception. HIA
+staff and members have helped pass the original Health Information
+Portability and Accountability Act (HIPAA), helped influence the Health
+Information Technology for Economic and Clinical Health (HITECH) Act,
+and helped draft, negotiate, and pass the 21st Century Cures Act.About
+Health Innovation Alliance
+3
+
+
+The Health Innovation Alliance is proposing principles for the regulation of artificial
+intelligence (AI) in health care and life sciences. We have been advocating for the
+improvement of health care through the commonsense use of data and technology
+since 2007.
+Our organization represents stakeholders across the industry, from some of the
+largest names in health tech to small and resource-strapped patient advocates, and
+we work collaboratively with our members to promote consensus policies for
+adoption by the government. 
+At the outset of this project, we recognized that there are many opinions,
+frameworks, and principles already circulating about AI. However, HIA’s principles
+differ in two ways: they are intended to guide Congress and the administration and
+are focused exclusively on the use of AI in health care.  
+AI has tremendous potential to relieve many symptoms afflicting the healthcare
+industry, such as administrative fatigue and rising compliance costs. Providers report
+increasing burnout and a need to spend nearly half of their time on paperwork or
+documentation rather than treating patients. AI tools can automate tasks, freeing up
+caregivers to spend more time in the exam room. HIA believes that technology and
+data can and will make health care better, and we are hopeful about the role AI will
+play in improving the lives of providers and patients alike.
+Foreword
+4
+
+
+Health care is a hyper-regulated industry, and AI has been present in health settings
+for at least a decade. Existing regulations are already being used to review AI
+products for use in health care. The Food and Drug Administration (FDA) has
+approved nearly 900 medical devices that include AI as of July 2024.   Despite this,
+there have been calls to pass new regulations specific to AI. HIA urges Congress to
+use existing authorities to continue regulating AI in health care and to learn more
+about the technology, its potential, and its limitations before passing further
+regulation of AI products. 
+HIA believes regulation under a risk-based approach is best for AI. The different
+solutions using AI need to be reviewed on a case-by-case basis:  just because an AI
+model works in one application and setting does not mean it will work in another. AI
+is just a tool, and it is being adopted in different places under different circumstances
+by different people. Review of health AI solutions must take all these variables into
+account. The FDA is already using this type of analysis, and we look forward to
+working with the FDA, Congress, and others to ensure the advancement of innovative
+health AI products that are safe and effective. Finally, government must support the private sector in developing, adopting, and
+maintaining AI tools in health care. The bipartisan Senate AI work group roadmap
+released in May 2024 recommends an annual investment of $32 billion to support
+non-defense AI innovation, adopting the recommendation of the National Security
+Council on Artificial Intelligence.    Health care takes up about a third of non-defense
+spending currently, and HIA recommends that at least $10 billion of this funding be
+reserved for AI in health care. 
+5[1] See https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-
+and-machine-learning-aiml-enabled-medical-devices
+[2 ] Available at https://www.young.senate.gov/wp-content/uploads/Roadmap_Electronic1.32pm.pdf1
+2
+
+
+This funding will be needed to promote access to technology and help ensure that
+health AI is available broadly and not just by organizations with more resources.
+Healthcare organizations across the country will need support not just in acquiring
+these technologies, but also in supporting them. The government will need to
+encourage access to supporting technologies like cloud services and graphics
+processing units and support the ability of organizations to monitor and maintain AI
+tools.HIA is excited about the future of health care, and we look forward to working with
+Congress and the administration to ensure the commonsense regulation and robust
+use of AI in the health industry.
+6
+
+
+AI Principles
+
+
+Risk-Based
+AI in health care should be regulated according to a context-dependent, risk-
+based approach.
+Lower-risk use cases of AI may not require human oversight, particularly
+when the use case is administrative and has little to no impact on patient
+outcomes.
+When used without a human in the loop, the use of AI to diagnose or treat
+patients is not low risk.
+8
+
+
+Transparent
+Individuals should have access to information about AI being used in health care,
+including the AI’s intended use and limitations.
+Patient- or consumer-facing information to improve AI transparency should
+be accessible to and capable of being easily understood by a reasonably
+informed individual.
+Transparency requirements in AI should not require the publication of proprietary
+information or trade secrets. 
+Developers of AI should create documentation sufficient to inform users about
+the tools. This documentation should include information about fairness, bias,
+privacy, security, intended use constraints, necessary oversight requirements, and
+functionality limitations.
+Regulators should be able to assess AI models intended for use in health care to
+determine safety, effectiveness, reliability, and limitations.  
+In the event a regulator believes information is required for an assessment
+that an AI developer maintains is proprietary, the regulator must provide
+reasonable safeguards and protections to preserve confidentiality.
+Information required to assess an AI model deployed or intended for
+deployment in health care should be reasonably limited to the purpose of
+that particular assessment.
+9
+
+
+Private
+AI use of health information should be compliant with all applicable privacy and
+security laws and regulations, such as the rules promulgated under HIPAA, and
+should follow patient preference through existing authorization and consent
+processes.
+Use of identifiable health information to train an AI model should be authorized
+by the individual through existing consent requirements.
+10
+
+
+Responsible
+Both developers and deployers should adopt and adhere to responsible and
+reasonable best practices throughout the development and deployment of AI
+models in health care.
+Government should work with the AI developers and deployers to encourage the
+development and adoption of AI best practices and processes.
+Developers of AI models for use in health care should participate in the
+development and coordination of best practices for the responsible use of AI
+models.
+Deployers of AI in health care should be responsible for the use of the AI models
+they deploy.
+This includes testing of a model within the intended environment, on
+intended populations, for the intended use case, and;
+Appropriately monitoring the models in use and implementing any necessary
+safeguards. 
+11
+
+
+Equitable
+Developers and deployers of AI in health care should take reasonable effort to
+mitigate bias, and where possible, remove bias.
+AI should be tested in the environment and population intended for its use and
+monitored for bias and inequity while in use.
+AI should be accessible and usable by the entire health care community – not just
+those who can afford it.
+Government should provide resources to encourage the adoption,
+deployment, and use of AI in health care, including supporting technologies
+and services, to facilitate equitable adoption.
+Government should provide resources for both the development of best
+practices and management protocols as well the adoption, implementation,
+and management of those best practices and management protocols in health
+care. 
+12
+
+
+Ack nowled gements
+Association of Behavioral Health and
+Wellness
+The Association of Clinical Research
+Organizations
+Altitude Ventures
+Amazon
+AstraZeneca
+athenahealth
+Autoimmune Association
+Avalon Healthcare Solutions
+Cambia Health Solutions
+Cancer Support Community
+CoverMyMeds
+Consumer Technology Association
+Digital Medicine Society
+Duke AI Health
+GO2 For Lung Cancer
+Greystone Group
+Healthcare Information and Management
+Systems SocietyiRhythm Technologies
+Maven Clinic
+Maverick Health Policy
+McKesson
+National Multiple Sclerosis Society
+National Council for Prescription Drug
+Programs
+Partnership to Fight Chronic Disease
+RELX
+STChealth
+Teladoc Health
+Tempus
+The Joint Commission
+The National Council for Mental
+Wellbeing
+United Spinal Association
+US Chamber of CommerceThese principles were made possible through the substantial contributions and
+thoughtful discussion of the workgroup members. While participation in the
+workgroup does not imply affiliation with or endorsement of the recommendations in
+this report, HIA wishes to thank the following organizations who participated in the
+AI Workgroup process:
+13
+
+
+Appendix
+
+
+Method ology
+HIA held two workgroup meetings and numerous individual discussions over the first
+half of 2024, with more than 30 different participating organizations. Participants
+represented solutions providers, established tech companies, tech startups, patient
+advocates, pharmaceutical manufacturers, provider organizations, and others. 
+The purpose of the workgroup was to produce a set of principles for the use of AI in
+health care and life sciences. HIA staff proposed five subcategories, based on a
+review of existing AI frameworks, through which principles could be formatted:
+transparent, risk-based, private, responsible, and equitable.
+During the first meeting in February 2024, participants raised several points within
+each category for consideration. Participants agreed that existing regimes such as
+HIPAA may be sufficient to adequately regulate AI, though other considerations on
+informing patients, and ensuring copyright protections and data ownership are
+necessary. There was also agreement that a risk-based approach would be best to
+manage and regulate AI, but significant attention would be needed to develop and
+deploy AI models responsibly and minimize bias.The second meeting of the workgroup was held on March 21, 2024. HIA staff
+reviewed existing principles for AI and created a summary document to help inform
+the workgroup. We reviewed and discussed AI principles from outside organizations
+during this meeting.
+Participants also discussed the types of information needed by patients and
+regulators to understand and oversee AI tools, respectively, and how risk levels vary
+with clinical uses of AI. There was again agreement that HIPAA is sufficient to
+address privacy concerns, though de-identification of data and internal governance
+are key considerations. 
+15
+
+
+A recurring theme was the need to monitor AI models for drift to avoid bias, and that
+data selection affects the development and may limit the breadth of final use cases. 
+On June 4, 2024, HIA staff introduced an initial draft principles document based on
+the discussion and feedback from participants throughout the workgroup process.
+After robust feedback and discussion with participants, HIA crafted the principles
+included here.
+16
+
+
+Industry Principles
+Review
+The following is a review of AI principles released by various organizations within or
+relevant to the health care community. The purpose of this document is to catalog
+publicly available positioning on health care AI to inform the workgroup. This list is
+not exhaustive, and some information may be outdated. The following is an
+interpretive summary and is not intended to directly represent the thinking of any
+organizations listed or to be an endorsement of any specific position by any of the
+organizations listed.The chart below reflects which organizations principles or best practices touched on
+each of the listed topic areas.
+17
+
+
+Organizations included:
+American Academy of Family Physicians (AAFP)
+Association of Clinical Research Organizations (ACRO)
+AdvaMed
+American Medical Association (AMA)
+American Telemedicine Association (ATA)
+Amazon Web Services (AWS)
+BastionGPT
+President Biden Executive Order on AI (Biden EO)
+Connected Health Initiative (CHI)
+European Union AI Act (EU AI Act)
+Forbes
+Google
+International Federation of Pharmaceutical Manufacturers & Associations
+(IFPMA)
+Merck
+Microsoft
+Office of the National Coordinator for Health Information Technology (ONC)
+Optum 
+White House Office of Science and Technology Policy (OSTP)
+Pfizer
+Philips
+RELX
+Roche
+World Health Organization (WHO)
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+ACRO: https://www.acrohealth.org/wp-content/uploads/2023/12/ACRO-AI-Principles-
+Final.pdf
+AAFP: https://www.aafp.org/about/policies/all/ethical-ai.html
+AMA: AMA Principles for Augmented Intelligence Development, Deployment, and Use
+(ama-assn.org )
+ATA: AMERICAN TELEMEDICINE ASSOCIATION PUBLISHES NEW ARTIFICIAL INTELLIGENCE
+(AI) PRINCIPLES - ATA
+AWS: https://aws.amazon.com/machine-learning/responsible-ai/
+BastionGPT: Generative AI Healthcare Principles (bastiongpt.com)
+ConnectedHealth Initiative (CHI): Policy-Principles-for-AI.pdf (connectedhi.com)
+European Union AI Act: The Act Texts | EU Artificial Intelligence Act
+Forbes Walter Kluwer Four Guiding Principles for Generative AI: Do No Harm: Four
+Principles For Adopting Generative AI In Healthcare (forbes.com)
+Google: https://ai.google/responsibility/principles/
+IFPMA: IFPMA Artificial Intelligence Principles - IFPMA
+Merck: AI_MRK_MAY23docx.pdf (merck.com)
+Microsoft: Responsible AI Principles and Approach | Microsoft AI
+ONC Health Sector Commitments: https://www.healthit.gov/sites/default/files/2023-
+12/Health_Sector_AI_Commitments_FINAL_120923.pdf
+Optum Responsible Use of AI: Ensuring Responsible Use of AI in Health Care | Optum
+OSTP AI Bill of Rights: https://www.whitehouse.gov/ostp/ai-bill-of-rights/  
+Pfizer Principles: Artificial Intelligence (AI) Responsibility in Healthcare is Critical | Pfizer
+Philips 5 Guiding Principles for Responsible Use of Ai in Healthcare and Healthy Living:
+Five guiding principles for responsible use of AI in healthcare and healthy living - Blog |
+Philips
+RELX: relx-responsible-ai-principles-0622.pdf
+Roche: Roche AI Ethics Principles-UX formatted
+WHO Ethics and Governance of AI for Health: Ethics and governance of artificial
+intelligence for health (who.int)
+24Resources
+
+
+440 1st Street NW, Suite 430
+Washington, DC 20001
+Health-Innovation.org
+@HIA_DC
+
+
+Use Cases
+for AI Tools to
+Improve Health Care
+March 2025
+
+
+Table of Contents
+About Health Innovation Alliance
+Introduction
+Overview of Risk Analysis for Health Care
+Conclusion
+Acknowledgements
+Appendix
+2Resources3
+4
+26
+28
+29
+30Discussion on Identifying Use Cases
+Taxonomy of Use Cases
+Patient Life Cycle / Journey
+Drug Discovery Life Cycle
+Medical Device Development Life Cycle6
+11
+14
+16
+23
+31
+Examples of AI Technologies 33
+
+
+The Health Innovation Alliance (HIA) is a diverse coalition of patient
+advocates, health care providers, consumer organizations, employers,
+technology companies, and payers who support the adoption and use
+of data and technology to improve health outcomes and lower costs. 
+For 18 years, HIA has been a leader on federal policy related to health
+care technology and interoperability. HIA staff and members
+successfully ushered through the original Health Information
+Portability and Accountability Act, influenced the Health Information
+Technology for Economic and Clinical Health Act, and drafted,
+negotiated, and passed the 21st Century Cures Act.About
+Health Innovation Alliance
+3
+
+
+Artificial intelligence (AI) models present tremendous opportunities to make the American
+health care system the best in the world. From increasing novel drug discoveries through
+AI-created problem solving that has already figured out protein folding – a biological
+process that has eluded scientists for over 50 years – to cleaning up the processes
+surrounding care delivery, coverage, and payment, AI can help us break through some of
+the health care industry's most entrenched problems. Take physician burnout – ninety-
+three percent of physicians regularly feel burned out, and over half would prefer to quit
+or at least stop seeing patients.[1] One of the largest contributors to this sentiment is
+documentation and compliance burden: doctors and their teams spend more time doing
+paperwork to get paid by insurers or comply with government rules than caring for
+patients. AI models are helping to address this problem with clinicians reporting a
+significant reduction in documentation burden after incorporating AI tools.[2]In 2024, HIA formed a working group of more than 30 different organizations to produce a
+set of principles for the use of artificial intelligence (AI) in health care and life sciences:  
+Risk-Based Approach: Regulation of AI in health care should be proportionate to risk
+Transparency: Patients, users, and regulators of AI should have access to information
+about how technology is being used, but not to proprietary information
+Privacy : Any use of health information by AI should be compliant with current laws
+and regulations, including HIPAA
+Responsibility : Developers and users of AI programs in health care should adopt and
+adhere to best practices and processes
+Fairness: AI tools should ·should mitigate bias and be available for all users, not just
+those who can afford it
+Introduction
+4[1]https://www.athenahealth.com/resources/blog/ai-help-clinician-burnout
+[2]https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830383
+
+
+Since the release of HIA’s principles, there has been increased interest in the safety of
+using AI in health care. To help guide those discussions and to highlight why AI should be
+regulated according to a context-dependent, risk-based approach, HIA examined
+currently available AI health care tools and their uses through the lens of the life cycles
+patients, drugs, and medical devices undergo in our health care system.
+The following report serves as a catalog of AI use cases, exploring the different types of
+AI tools that are and can be used across the healthcare system. HIA strongly believes
+these cases highlight the need for AI oversight to follow a risk-based model to ensure
+product innovation and effectiveness while maintaining patient confidentiality. 
+5
+
+
+Overview
+of Risk Analysis
+for
+Health Care
+
+
+Before exploring the considerations for artificial intelligence specifically, it is necessary to
+review the current state of risk analysis in health care more broadly. 
+Evaluating risk is necessary to ensure safety in patient care. Each step and process
+undertaken must be evaluated separately, ranging from diagnostic procedures performed
+by a clinician to diagnostic lab tests, pharmaceutical treatments, surgeries, imaging
+procedures, and more. Health information technology (health IT) solutions are present in
+many, if not all, of these processes to varying degrees – whether recording and
+transmitting or processing information. 
+Risk in the context of health IT solutions contemplates 1) the chance that output of a
+system will be inaccurate; 2) the likelihood or frequency of potential inaccuracy; and 3)
+the level of severity of the outcome resulting from an inaccurate output.[3] There are
+underlying assumptions in any quantification of risk, such as whether all available
+information was used to arrive at the outcome or output, and how information or sources
+were weighted to generate the output.
+The Food and Drug Administration (FDA) currently evaluates risk for medical products as
+a part of its mission to assure their safety and effectiveness. More than 1,000 medical
+devices have been approved by the FDA using their risk-based framework that includes
+the use of AI.[4] The FDA uses a variety of structures to evaluate the level of risk a
+particular device carries, whether it uses AI or not. Devices fall under Class I (low to
+moderate risk), II (moderate to high risk), or III (high risk).[5] Class I devices are generally
+exempt from premarket notification and approval processes from the FDA as are some
+Class II devices.
+7[3] This framework is the result of synthesizing and simplifying existing literature on risk analysis
+management practices in health IT and health care more broadly. Materials referenced include: Risk
+Analysis in Healthcare Organizations: Methodological Framework and Critical Variables , What is Risk
+Management in Healthcare? , and Risk Management Event Evaluation and Responsibilities.
+[4] August 7, 2024 update: The U.S. Food and Drug Administration updated the list of Artificial
+Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices. With this update, the FDA has
+authorized 950 AI/ML-enabled medical devices. Accessed October 23, 2024:
+https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-
+machine-learning-aiml-enabled-medical-devices
+[5]https://www.fda.gov/medical-devices/overview-device-regulation/classify-your-medical-device
+
+
+If a device is classified as Class III, then it undergoes more rigorous evaluation processes
+than a Class I or II device, including the full premarket approval process.
+Examples of products that fall into the different risk categories are:[6]
+Class I
+Bandages, manual stethoscopes, oxygen masks, surgical masks, hospital beds 
+Class II
+Syringes, pregnancy tests, transfusion devices, blood pressure readers
+Class III
+Pacemakers, cardiac stents, ventilators, defibrillators
+The FDA currently deals with AI in a few different ways. AI-enabled devices generally fall
+under Class II or Class III based on the intended use, level of risk, and potential impacts on
+users. If the device is substantially similar to an existing device, it might undergo a 510(k)
+clearance (this is common for Class II devices).[7] If the AI-enabled device presents
+greater risks or provides new functionality, it goes through a pre-market approval
+process, requiring greater evidence of safety and efficacy.
+For modifications to AI-enabled devices that have already been approved for marketing
+and use, the FDA has established a process called predetermined change control plans
+(PCCP).[8] [9] A device manufacturer submits a plan regarding how it may change the
+device over time, rather than submitting a new application every time it is updated. The
+FDA then reviews and approves the plan before it is carried out. The PCCP must contain
+an explanation of the proposed modifications and an assessment of how those
+modifications will impact the use of the device. In general, modifications that introduce
+some new risk to the use of the device require a separate application, rather than a PCCP.
+In general, low-risk modifications are acceptable and considered as changes that slightly
+modify existing risk considerations.Additionally, some tools fall outside of FDA’s purview: electronic health records and
+certain clinical decision support tools, for example. Electronic health records are
+regulated by the Assistant Secretary for Technology Policy (ASTP), formerly known as the
+Office of the National Coordinator for Health Information Technology.  
+8[6]https://www.fda.gov/medical-devices/classify-your-medical-device/device-classification-panels
+[7]https://www.qualio.com/blog/fda-medical-device-classes-differences
+[8]https://www.fda.gov/medical-devices/software-medical-device-samd/predetermined-change-
+control-plans-machine-learning-enabled-medical-devices-guiding-principles
+[9]https://www.fda.gov/media/180978/download
+
+
+ASTP issued several transparency requirements for AI tools embedded in EHRs that
+mandate the publication of certain information.[10] Unfortunately, ASTP adopted what
+they call a “function-based approach” for these transparency requirements, meaning that
+if an algorithm is in use, then it is subject to the requirements. This is the opposite of a
+risk-based approach, and HIA believes that AI should be regulated consistently by HHS
+through a risk-based lens.
+In the clinical trials space, the FDA recently issued draft guidance on how pharmaceutical
+manufacturers can submit AI-generated information to assist the regulatory approval
+process for drugs and biologics.[11] In their Considerations for the Use of Artificial
+Intelligence To Support Regulatory Decision-Making for Drug and Biological Products,
+FDA lays out a risk-based framework whereby credibility and trust can be established for
+an AI model for a particular context of use.
+HIA believes that new technologies, like some AI models, should be considered by the
+government under the existing regulatory structure. A risk-based approach is the most
+sensible approach to regulating AI in health care, and that is why it is current practice by
+the FDA. 
+When AI is used in health care applications, many factors go into an overall determination
+of risk. These vary not only by how an AI model itself is constructed, but also what the
+model is being used for (the use case), how and where the model is being implemented,
+and who is using the model on whom (or what). The following chart breaks down several
+categories of risk that commonly arise across health care use cases for medical products
+along with some factors that can impact the degree of risk. It is important to note that
+these factors impacting risk exist whether or not AI is being used.
+9[10]https://www.federalregister.gov/documents/2024/01/09/2023-28857/health-data-technology-
+and-interoperability-certification-program-updates-algorithm-transparency-and
+[11]https://www.fda.gov/regulatory-information/search-fda-guidance-documents/considerations-
+use-artificial-intelligence-support-regulatory-decision-making-drug-and-biological
+
+
+ Categories of Risk  Factors Influencing Risk
+Patient Harm and Safety Risks   Patient acuity  
+   Level of reliance on AI output for decision/action
+   Invasiveness to patient
+   Patient medical history
+   Intended user(s)
+   Provider/implementer training
+   Environmental factors/site of service
+   Ongoing monitoring of the AI system  
+Data Accuracy – Training and
+Testing Data   Representativeness of data
+   Insufficient data leading to delays or errors
+   Intended use and level of reliance on AI output for decision/action
+   Model trained and/or tested on outdated or historical patterns, resulting in a
+   gap between simulate scenario vs. experimental validation
+Bias and Ethical Concerns   Training and testing of model
+   Level of reliance on AI output for decision/action
+   Level of oversight and remedial processes
+Misallocation of Resources and
+Operations Issues   Intended use of model or output
+   Reliance on output for decision/action
+   Level of oversight  
+Privacy and Security   Intended use
+   Security systems and processes in place
+   Sensitivity of data in question
+   Likelihood of data misuse in case of disclosure and severity of resulting harm
+Technical Issues   Processes for system upgrades and corrections
+   System resiliency and redundancy
+   Level of reliance on AI output for decision/action
+   Understandability of assumptions, intended use, etc.
+   User sophistication
+   Reliability of connected systems
+Liability and Compliance Issues   Intended use of data or outputs
+   User sophistication
+   Reliance on data or outputs
+   Process or system for oversight and checks
+10
+
+
+Discussion
+on
+Identifying Use Cases
+
+
+12To map the various use cases in health care where AI can be used, HIA evaluated at the
+general life cycles of patients and medical products as they move through the health care
+system. 
+For example, a patient may use wearables and remote monitoring tools that incorporate
+AI to track aspects of their lifestyle by collecting data in real-time, such as physical
+activity, sleep, and blood pressure. As patients begin to feel unwell, virtual health
+assistants can provide information on symptoms, mitigation strategies, and even suggest
+scheduling a visit with a clinician. During the scheduling of a doctor’s visit, AI tools can
+book appointments. While at a clinic, chatbots can guide patients to their provider, as
+well as answer queries. To treat patients, providers use AI-powered medical imaging
+software, EHR systems, and ambient speech recognition (ASR) tools to generate
+suggested diagnoses. Once diagnosed, clinical decision support (CDS) tools provide
+personalized treatment plans. After treatment, patients may use wearables to track their
+health and use EHR systems or portals with automated messaging and reminders for
+future checkups and to flag potential complications.   
+HIA applied the same thought model to examine how AI can be used in the stages of the
+medical product development process, from discovery to post-market surveillance.  At
+the beginning of drug discovery , AI-driven research accelerates the identification of
+potential drug candidates through screening datasets and simulating chemical processes
+that predict drug safety and efficacy in preclinical testing.[12] During clinical trials for
+drugs and medical devices, AI streamlines patient recruitment, the design of the trial,
+experimental data, and dosing suggestions, allowing researchers to conduct more
+accurate Phase I, II, and III trials. In Phase I, AI tools assist in recruiting patients to achieve
+the best possible sample size. In Phases II and III, AI can help assess the drug’s efficacy by
+refining patient profiles within the sample size and increasing the sample size by checking
+application within a larger population. 
+[12] https://pubmed.ncbi.nlm.nih.gov/37514102/
+
+
+13Once a drug passes trials, AI can track compliance, helping speed up regulatory approval
+processing for drug or device launch, as well as assist with ongoing compliance
+reporting . Afterward, AI optimizes production through heightened quality control
+measures and supply chain management  during the manufacturing and distribution
+processes. This includes monitoring and identifying equipment that is operating out of
+tolerance or at risk of failure, conducting quality control and consistency checks, and
+ensuring distribution is optimized for a product’s shelf life. After the drug is introduced, AI
+supports pharmacovigilance  by monitoring patient safety data. AI can then take the
+results of pharmacovigilance into the post-market surveillance safety and recall phase to
+inform and advertise new iterations of the product and future innovations.
+In the provider domain, we applied the life cycle model to identify key AI-driven tools that
+streamline the operational aspect of health care delivery. Functions like billing,
+scheduling, and error/fraud detection ensure resource management efficiency, reduce
+administrative burden, and ease the patient experience, especially during transitions.  
+AI-powered billing can automate the claims process accurately and quickly. These AI tools
+can analyze claims data, detect anomalies, and identify coding errors before a patient
+enters the hospital system. This can reduce the likelihood of claim denials and shorten
+the reimbursement cycle. 
+AI-powered scheduling can optimize appointment bookings, manage patient flow, and
+reduce patient wait times. AI-driven platforms may also help schedule appointments
+based on patient preferences and clinician availability in a way that reduces
+bottlenecking.  
+In addition to billing and scheduling, AI models can transform and improve error and
+fraud detection by scanning claims and transactional data and using machine learning
+algorithms to detect anomalies or patterns. This may help hospitals and insurers reduce
+financial losses and maintain compliance with health care regulations by safeguarding
+against erroneous or improper billing practices.  
+The taxonomy lays out various AI use cases in health care. Each use case may carry a
+different level of risk, and that risk level can vary depending on the specific
+implementation and other factors within the context of use. In most circumstances, a use
+case will not always be a single risk level across implementations.
+
+
+Taxonomy
+of
+Use Cases
+
+
+The taxonomy below breaks out the potential use cases for AI in health care. This list is
+not exhaustive, nor would it be feasible to generate one as AI technology is constantly
+developing and is increasingly capable of more complex tasks.
+HIA offers this list for use by policymakers when considering AI’s potential applications,
+implementations, benefits, and associated risks and risk variation specific to health care.
+It is important to note that for a given use case, risk may vary depending on what the AI
+model is applied to – for example, the risks associated with scheduling a primary care visit
+are not the same as the risks associated with scheduling an emergency open-heart
+surgery. 
+In addition, these risks apply to a given application regardless of whether or not AI is
+being used. In some cases, an AI-enabled application would lower the risk in the context
+of use compared to a non-AI solution, even if the risk still exists.  
+Examples of commercially available AI solutions for some use cases below may be found
+in the appendix.
+15
+
+
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Symptom
+ResearchPatient researches
+condition using AI-powered
+search engine or symptom
+search toolFaster information to patient
+Increases patient involvement in
+care
+Reduces burden on providers  Misinterpretation of symptoms
+  Patient steered in incorrect direction
+  or to harmful action by model
+  Patient accepts erroneous diagnoses
+  Privacy concerns
+Appointment
+SchedulingAI finds and books an
+appointment for patientFaster and easier patient
+experience
+Burden reduction on office staff  Delayed care for emergency/ high-
+  priority visits
+  Discrimination risk
+Provider SearchAI tools query provider
+directory and check
+insurance participationLowers barrier to entry to find
+provider for patients with limited
+health/digital literacy
+Faster and more accurate network
+participation determination  Incorrect provider information
+  Insurance participation errors
+  Potential for delayed care based on
+  patient reliance on incorrect
+  information
+Price Estimator
+ToolAI tool estimates price of
+given services/drugs, in
+coordination with insurance
+coverage if applicableFaster, easier, more accurate cost
+estimation for patients  Inaccurate price estimates
+  Inaccurate coverage representation
+  Potential for delayed care based on
+  patient reliance on incorrect
+  information
+Patient IntakeAI collects and summarizes
+patient clinical and clinically
+adjacent information  Reduces clinician burden
+  Reduces patient burden on
+  redundant intake formsAI leaves out important patient
+information
+AI inaccurately summarizes patient
+record
+Bias concerns – how AI portrays social
+determinants of health or health-
+related social needs informationPatient Life Cycle / Journey
+16Pre-Diagnosis
+
+
+Patient Life Cycle / Journey
+17Diagnosis
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Clinical Decision
+Support (CDS)
+ToolsAI provides clinicians with
+treatment options or
+suggestions based on
+patient data, including
+genetic testing/mapping;
+patient summary generationFaster and potentially more
+tailored diagnosis and treatment
+suggestions
+Provider burden reduction – time,
+mental load
+Accounts for latest research and
+best practicesInappropriate suggestions based on
+incomplete or inaccurate patient
+history  
+Suggestions conflict with best practice
+guidelines  
+Tool suggests harmful treatment
+Provider relying too heavily on AI tool
+DiagnosticsAI is used for precision lab
+testing; real-time medical
+device data collection,
+recording, analysis, and
+interpretationFaster, more integrated data
+collecting, recording, reporting
+More accurate testing
+Faster results and next steps
+suggestions, faster treatment to
+patientErroneous test results and
+downstream effects of said results
+Inappropriate testing or services
+based on incorrect recommendations
+Vitals CollectionAI-powered medical devices
+collect vital signs data and
+input to patient recordProvider burden reduction
+Faster/easier integration with
+other technologiesPrivacy concerns
+Erroneous readings or miscalculated
+values 
+Medical Imaging
+Analysis
+(X-rays, MRIs)AI algorithms detect
+abnormalities in imaging
+data to assist cliniciansMore accurate, faster diagnosis
+Provider burden reduction
+Detect disease further in advanceMisinterpretation of imaging results
+Algorithmic bias
+Ambient
+Listening ToolsAI-driven ambient speech
+recognition (ASR) helps
+clinicians document patient
+interactionProvider burden reduction
+Better documentation and
+integration with patient record
+and other technologiesPrivacy risk
+Transcription inaccuracy
+
+
+Patient Life Cycle / Journey
+18Treatment
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Personalized
+Treatment PlanAI leverages patient data to
+create tailored treatment
+plan, drug recommendation
+(including contraindicated
+warnings), including
+patient’s genetic
+informationRelieves provider burden
+Better error detection and
+reduction
+More comprehensive analysis of
+whole patient recordErrors in data interpretation lead to
+inappropriate treatments
+Errors result in no treatment when
+treatment would have been
+appropriate
+Privacy concern
+Virtual Health
+AssistantAI provides patients with
+medication reminders,
+hospital supportMore tailored reminders
+Increases adherence to
+medication and keeping
+appointmentsErroneous communication or no
+communication when action would
+have been appropriate 
+Security concern
+Leading patients to incorrect
+treatment or care choices
+Medication/
+Equipment
+Ordering and
+DeliveryOptimize prescription,
+device, or equipment
+delivery method based on
+patient dataMitigate out-of-stock situations
+More patient-centered careIncorrect item(s) delivered; deliveries
+missed
+Drug diversion
+Privacy
+Medical
+Procedure
+AssistanceSurgical technology
+augmented by AIMore precise than human alone
+Potentially more up-to-date on
+best practicesPatient harm
+Potential for physician reliance on tool
+Potential for deviation from best
+practices  
+Malpractice liability
+Vitals MonitoringMonitor vital signs, record
+data, notify providers of
+important changesFaster actionable information
+Better integration with electronic
+recordsMisallocation of staff resources if a
+false positive
+Failure to notify provider in dangerous
+situation
+
+
+Patient Life Cycle / Journey
+19Post-Treatment and Follow-Up Phase
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Remote
+Monitoring with
+WearablesAI analyzes data from
+wearables to track recovery
+and detect complicationsCheck incoming data more
+frequently than patient or
+provider
+Faster notice of warning signs of
+adverse health eventsData breach
+Privacy concerns
+Incorrect readings or assumptions
+Patient
+Follow-up
+SchedulingAI streamlines scheduling
+process based on treatment
+timelinesAdministrative staff burden
+reduction
+Optimize treatment timelines for
+individual patients and facility
+usageScheduling errors
+Delayed treatment
+Recurring OrdersOrganize recurring
+deliveries of medical
+supplies for patient or
+practice locationReduce adverse events for
+patients
+Increase patient convenience
+Increase adherence to treatment
+regimenDeliveries too often, not often enough,
+or not at all
+Issues when the course of care is
+changed, or p roduct is not available
+Monitoring
+Treatment
+GuidelinesMonitoring and notifying
+providers of changes to best
+practices, treatment
+guidelines, etc.Provider burden reduction
+Lower chances of adverse events
+due to outdated best practicesErroneous information
+Misrepresentation of guidelines
+
+
+Patient Life Cycle / Journey
+20Administrative and Logistics Support; Public Health
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Billing, Coding,
+and ClaimsAI automates billing
+processes and medical
+coding, claims submission,
+adjudication, and reviewAdministrative burden reduction
+Increase cost efficiency
+Faster adjudication of claimsIncorrect billing due to flawed
+algorithm
+Security concern  
+Fraud DetectionAI identifies patterns in
+claims data to detect fraudIncreased accuracy of fraud
+detection, resulting in more
+money saved for payers
+Increased cost efficiency of fraud
+detectionFalse positives
+Privacy concern
+Resource
+Allocation and
+OptimizationAI suggests allocation or
+allocates resources based
+on projections/reports  Administrative burden reduction
+More efficient allocation of
+resources
+Reduce unnecessary surpluses or
+shortagesResource misallocation
+Shortage/surplus of supplies
+Insurance
+OptimizationReal-time checks and
+coverage efficiency
+suggestionsReduce unnecessary expenditures
+for patients
+Increase medication pick-up rateIncorrect information
+Care avoidance due to inaccurate
+information or flawed assumptions
+Caregiver
+StaffingAllocate medical staff  Increase efficiency of staff
+allocation, reduce costsStaffing misallocation due to incorrect
+data or assumptions
+Patient harm
+Site AllocationSynthesize schedules and
+room usage to optimize the
+use of the siteIncrease efficiency
+Advanced warning of capacity
+issuesSuboptimum allocation of resources
+Misplaced providers unable to give
+timely care
+Patient harm
+
+
+Patient Life Cycle / Journey
+21Administrative and Logistics Support; Public Health Cont.
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Care Team
+CoordinationNotify providers of new
+medications, treatments,
+and diagnoses of patientsProvider burden reduction
+Imp rove patient experience
+Incre ased visibility for
+contraindicated medication or
+treatments, reduces adverse
+eventsIncorrect/misrepresented information
+Public Health
+Surveillance and
+PredictionAI systems analyze data
+patterns to identify
+potential outbreaks and
+monitor disease spreadMore advanced warning for
+emerging threatsFalse positives
+Privacy concern
+
+
+Patient Life Cycle / Journey
+22Data-Management and Security
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+EHR System
+ToolsAI-enabled EHRs integrate
+patient data for care
+coordination; summarize
+patient information; help
+automate compliance and
+documentationProvider burden reducti on
+Improved patient outcomes and
+experienceData breach
+System inoperability
+Incorrect data or assumptions lead to
+inappropriate care or patient harm
+Drug Discovery
+and
+DevelopmentAI analyzes molecular
+structures and trial data to
+develop new drugsFaster and less expensive
+discovery of new moleculesAlgorithmic bias
+Lack of validation in clinical
+environments
+Clinical Trial
+OptimizationAI identifies candidates and
+predicts outcomes for
+clinical trialsMore diverse clinical trial
+representation
+Faster, lower cost clinical trialsOutcomes may not be diverse
+ComplianceCompliance with
+government requirements
+around cybersecurity,
+value-based payment, etc.Lower cost complianceFinancial, civil, and criminal liability
+Breach of contract
+
+
+Drug Discovery Life Cycle
+23Pre-Development
+  Use Case
+    Description
+    Benefits of Applying AI 
+    Factors Impacting Level of Risk 
+  
+Target ID and
+ValidationAI identifies biological
+targets for drug interventionFaster, more efficie nt process
+Enhanced capability for rapid
+response to emerging pathogensFalse positives/ negatives
+ 
+Excluding diverse populations in a
+dataset
+Additional
+Indication
+ResearchAI identifies additional uses
+for existing drugs/moleculesMore efficient use of resources –
+more targeted investment in
+molecules with promiseInaccurate predictions create resource
+waste
+
+
+Drug Discovery Life Cycle
+24Development & Clinical Trials
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Drug Design and
+OptimizationAI uses predictive modeling
+to generate molecular
+compounds to identify
+candidatesFaster, less costly drug
+development
+Provides another reference point
+for people making decisionsRelying on simulations vs.
+experimental validation
+Potential to miss side effects
+Preclinical
+TestingAI models predict drug
+efficacy as a replacement
+for animal testingProvides additional reference
+points, more data supporting
+decisions
+Faster, less costly drug
+developmentInaccurate predictions lead to side
+effects
+Ethical concern about relying on
+incomplete models
+Clinical Trial
+Design and
+OptimizationAI predicts trial outcomesProvides additional reference
+points, more data supporting
+decisions
+Can  help mitigate shortcomings of
+clinical trial participation/designPotential risk of excluding
+underrepresented gro ups
+Bias in predictive models
+Clinical Trials
+Search ToolPatient or provider uses AI
+tool to search clinical trials
+for given condition(s)Streamlined clinical trial
+participation pathway
+Provider burden reduction
+Increased clinical trial diversityPatient pursues a trial they are not
+eligible to participate in  
+Delayed care based on incorrect data
+or model assumptions
+FundingAI evaluates historical
+funding data to recommend
+an investment timelineGreater financial predictability
+More efficient investment in
+clinical trialsHistorical patterns might not predict
+current trends
+Trial Participant
+Recruitment and
+CommunicationAI identifies trial subjectsIncreased diversity in clinical trials
+Patient benefits from access to
+medicine in trialsPossible narrow inclusion criteria
+
+
+Drug Discovery Life Cycle
+25Development & Clinical Trials Cont.
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Data ValidationAI evaluates clinical trial
+data to determine
+effectivenessFaster, more efficient evaluationSafety concerns
+Risk of inappropriately weighing
+results and demographic trends
+FDA Approval
+PreparationAI is used to compile
+information for the FDA
+approval processFaster, more efficient data
+compilationErrors in documentation, delaying the
+compliance process
+Post-Market
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Logistics for
+ShippingAI optimizes the supply
+chainFaster, more efficient shipping
+Lower costs for logistics providers
+and customersPossible algorithm issues and errors in
+handling that can cause delays
+Post-Approval
+Safety
+MonitoringAI analyzes patient and
+clinician data to detect
+adverse events post-marketFaster identification of events  
+Fewer adverse events as trends
+are detected faster  Missing rare adverse events
+Underreporting from incomplete data
+sources
+Post-Market
+SurveillanceAI monitors databases for
+signals of drug-related
+safety issuesFaster identification of events  
+Fewer adverse events as trends
+are detected fasterFalse positives/ negatives
+
+
+Medical Device Development Life Cycle
+26Pre-Development
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+FundingAI identifies investment
+timelineGreater financial predictability
+Greater predictability in timelinesOutdated market trends may not
+supply a good timeline for the current
+landscape
+Development & Clinical Trials
+ Use Case  Description  Benefits of Applying AI  Factors Impacting Level of Risk 
+Device DesignAI generates prototypes of
+medical devicesLower cost prototyping
+Faster iteration on prototypesChance of faulty designs that do not
+withstand real-world application
+Clinical Trial
+EfficiencyAI predicts patient
+outcomes, device failure
+ratesMore efficient iteration process
+for devices
+Better identification of potential
+issuesBiased data sets
+Trial Participant
+CommunicationAI provides real-time
+updates to participants to
+collect feedbackBetter communication with
+patients; patients more engaged
+Enhanced feedback loop from trial
+participantsCommunication gaps between AI and
+human participants
+Regulatory
+SubmissionAI compiles data and
+documentation to ensure
+regulatory compliance for
+FDA approvalFaster, more efficient data
+compilationErrors in documentation, delaying the
+compliance process
+Data ValidationAI evaluates clinical trial
+data to determine
+effectivenessBetter detection of underlying
+trends in data  
+Additional validation of safety and
+effectivenessSafety concerns
+Risk of inappropriately weighing
+results and demographic trends
+
+
+Medical Device Development Life Cycle
+27Post-Market
+ Use Case  Description  Benefits of Applying AI   Factors Impacting Level of Risk 
+Logistics for
+Shipping and
+DeploymentAI optimizes the supply
+chain to deliver devicesFaster, more efficient shipping
+Lower costs for logistics providers
+and customersFailure in prediction can lead to delays
+Improper handling may result in
+damages
+Safety
+MonitoringAI tracks device usage data
+and adverse eventsFaster identification of events 
+Fewer adverse events as trends
+are detected faster False negatives/ positives
+Post-Market
+SurveillanceAI monitors user feedback
+and performance logs to
+identify trends in device
+malfunctionsFaster identification of events  
+Fewer adverse events as trends are
+detected faster
+Better and more information for
+future device modificationsAlgorithmic blind spots
+
+
+Conclusion
+The future of health c are includes AI. How it is incorporated and used depends on the
+constraints placed on it and resources allocated to support it by both Congress and the
+administration. As regulators continue to evaluate the use of AI in health care, they must
+consider what the technology is being used for and decide how it is being deployed to
+appropriately consider the potential risk factors inherent to every individual scenario. The
+federal government must also consider how best to support the development and
+deployment of AI broadly and in the health care ecosystem, including how to train the
+workforce to use these new tools. HIA believes that government should work with the
+private sector to ensure that these tools are available across the health care industry so
+that AI can realize its full potential to solve some of the industry’s most challenging
+problems.  HIA encourages policymakers and regulators to be thoughtful and forward-looking, rather
+than reactionary, in their approach to the rules and regulations around AI in health care. A
+one-size-fits-all approach is not appropriate and risks mitigating any of the potential
+benefits of the technology now and in the future.
+If you have questions about the findings of HIA’s use cases, please contact Brett Meeks at
+28
+
+
+Acknowledgements
+This report was meticulously compiled through the extensive research and collective
+expertise of Brett Meeks, Ishan Basu Ray, and Colton Henning, whose dedicated efforts
+were essential in producing a thorough and insightful analysis.
+29
+
+
+Appendix
+
+
+AI model in EHRs
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695078 
+https://aws.amazon.com/solutions/case-studies/anthem/?did=cr_card&trk=cr_card  
+Efficacy of AI models 
+https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-
+9/fulltext 
+AI transforming lab and clinical trials, drug development
+https://www.tandfonline.com/doi/full/10.2144/btn-2021-0077?
+rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9424628/  
+https://aws.amazon.com/solutions/case-studies/AstraZeneca-case-study/?
+did=cr_card&trk=cr_card 
+AI detecting diabetic retinopathy  
+https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30060-
+1/fulltext 
+https://jamanetwork.com/journals/jama/fullarticle/2588763  
+https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30250-
+8/fulltext 
+AI in decision making process  
+https://arxiv.org/abs/1905.02599v2  
+https://www.nature.com/articles/s43856-022-00214-4  
+AI assessment of cardiac function  
+https://www.nature.com/articles/s41586- 8  
+https://www.nature.com/articles/s41586-023-05947-3  
+https://www.nature.com/articles/s41746- 8 
+2023 AI developments   
+https://iapp.org/news/a/ai-lang-syne-a-look-back-on-2023-and-considerations-for-
+2024/ 
+31Resources
+
+
+State to state differences in AI regulation 
+https://www.csg.org/2023/12/06/artificial-intelligence-in-the-states-emerging-
+legislation/  
+https://www.brennancenter.org/our-work/research-reports/states-take-lead-
+regulating-artificial-
+intelligence#:~:text=Though%20most%20states%20have%20yet,government%2Dorg
+anized%20entities%20to%20increase 
+https://www.ncsl.org/technology-and-communication/artificial-intelligence-2023-
+legislation 
+FDA Approval  
+https://medicalfuturist.com/the-current-state-of-fda-approved-ai-based-medical-
+devices/ 
+https://encord.com/blog/ai-algorithm-fda-approval/
+https://crsreports.congress.gov/product/pdf/R/R47374
+https://www.fda.gov/regulatory-information/search-fda-guidance-
+documents/predetermined-change-control-plans-medical-devices?
+utm_medium=email&utm_source=govdelivery
+https://www.fda.gov/vaccines-blood-biologics/artificial-intelligence-and-machine-
+learning-aiml-biological-and-other-products-regulated-cber
+https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/artificial-
+intelligence-drug-development
+https://www.fda.gov/media/167973/download
+https://www.fda.gov/regulatory-information/search-fda-guidance-
+documents/factors-consider-when-making-benefit-risk-determinations-medical-
+device-premarket-approval-and-de 
+History of artificial intelligence in medicine 
+https://www.giejournal.org/article/S0016-5107(20)34466-7/fulltext
+https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+32
+
+
+33Examples of AI
+Technologies
+Below are examples of real-life products, solutions, and ecosystems that incorporate AI
+technologies in some capacity, organized by use case. This is by no means an exhaustive
+list of all products available on the market – rather it is meant to be illustrative of the fact
+that AI is already being used across the health care system.
+Treatment Assistance
+Surgical Robots
+Da Vinci Surgical System
+Mazor X Stealth Edition
+Monarch platform
+Medical Imaging Data
+X-Rays
+Zebra Medical Vision’s Al1
+MRIs
+Philips SmartExam AI
+Siemens AI-Rad Companion Brain MR
+CT Scans
+GE HealthCare’s Revolution CT with Deep Learning Image Reconstruction
+Ultrasound
+Philips EPIQ Elite with AI-assisted quantification
+Mammography
+iCAD ProFound AI
+Kheiron Medical’s Mia
+Retinal Imaging
+IDx-DR for diabetic retinopathy detection
+General
+AWS HealthImaging
+Diagnosis
+MYCIN
+IBM Watson
+Jvion
+EHR systems
+Athenahealth
+McKesson
+Epic 
+Cerner
+MEDITECH
+
+
+34Examples of AI
+Technologies Cont.
+CDS Tools
+ClinicalKey
+UpToDate
+Epocrates
+VisualDx
+DynaMed and Microdex with Watson
+Medscape
+MDCalc
+Transcription and Automatic Speech Recognition (ASR)
+Nuance Dragon Medical One
+M*Modal Fluency Direct
+DeepScribe
+AWS Healthscribe
+Administration
+Billing
+Waystar
+Change Healthcare
+Scheduling
+Qventus
+Lumeon
+Zocdoc
+Fraud Detection
+LexisNexis Risk Solutions
+HMS Healthcare / Gainwell Technologies
+OptumInsight
+Pharmaceutical Development
+Atomwise
+Excientia
+BenevolentAI
+Clinical Trials
+AiCure
+Unlearn.ai
+Medidata (Acorn AI)
+
+
+35Examples of AI
+Technologies Cont.
+Public Health Research
+Disease Outbreak and Prediction
+BlueDot
+HealthMap
+Metabiota
+Patient Experience
+Virtual Health Assistants
+Ada Health
+Babylon Health
+Woebot
+Remote Patient Monitoring
+Wearables
+Apple Watch
+Fitbit
+Garmin
+Whoop Coach
+
+
+440 1st Street NW, Suite 430
+Washington, DC 20001
+Health-Innovation.org
+@HIA_DC
+
+

@@ -1,0 +1,131 @@
+March 6, 2025 
+Subject: Comment on the Development of an AI Action Plan 
+This document is approved for public dissemination. The document contains no business-proprietary or 
+confidential information. Document contents may be reused by the government in developing the AI Action 
+Plan and associated documents without attribution. 
+To Whom It May Concern, 
+We appreciate the opportunity to provide comments on the development of the AI Action Plan. As an 
+interdisciplinary team of researchers in the field of AI, with a specific focus on the intersection of AI 
+and pervasive sensing technologies, we wish to highlight several crucial considerations that should 
+be integrated into the AI Action Plan. 
+Key Considerations 
+1. Material Foundations of AI: The Role of Sensors in Driving AI Innovation
+AI systems are increasingly embedded in consumer products. As the material foundation of many AI
+systems, sensors directly shape data collection and processing. Since the performance of AI systemsheavily depends on data quality, any comprehensive AI Action Plan must account for the role of
+sensors in AI development and outcomes. A sensor-aware AI framework will provide a strategic
+advantage that allows the U.S. to develop AI solutions that are both cutting-edge and responsibly
+designed to minimize downstream liabilities.
+2. Calibration and Documentation of Sensor-Based AI Systems for Competitive Advantage
+A significant challenge in sensor-driven AI systems is calibration—ensuring that sensors provide
+reliable data across populations and environments. Miscalibrated sensors can contribute to systemic
+inaccuracies, leading to faulty outputs. The AI Action Plan should mandate transparent calibration      P   (434) 243 -8836  
+      F   (434) 982 -2600  
+     www .virginia.edu  Wilson Hall  
+Room 220  
+Charlottesville, VA 22904  
+
+
+standards and documentation requirements for AI systems relying on sensor data. Establishing high 
+standards for calibration will lead to superior AI performance, cementing U.S. leadership in AI-
+driven innovation. 
+3. Mitigating Privacy and Pervasive Sensing Risks as a Catalyst for Market Trust
+Many sensors operate in opaque ways, making it difficult for individuals to opt out of data collection.
+The AI Action Plan should address sensor fusion risks, wherein multiple sensor data streams are
+combined to infer additional personal information beyond what individuals knowingly disclose. By
+proactively addressing these risks, the U.S. can lead in creating AI systems that balance innovation
+with public trust, a necessary component for sustained market adoption and long-term leadership.
+4. Proprietary Data Profusion and Market Dynamics Driving AI Leadership
+As sensor networks expand, the volume of proprietary data generated has surged, raising concerns
+about market concentration and slowed innovation The AI Action Plan should encourage public-
+interest data infrastructure by promoting open-source sensor datasets and transparent data-sharingagreements. By fostering a collaborative AI ecosystem, where innovation is built on high-quality,
+accessible sensor data, the U.S. will be able to accelerate technological advancements and solidify its
+leadership in AI development.
+5. Environmental Sustainability of AI-Enabled Sensors as an Innovation Priority
+The environmental impact of AI
+-driven sensors remains underestimated. The manufacturing,
+deployment, and disposal of AI sensors contribute significantly to electronic waste and resourcedepletion. The AI Action Plan should include guidelines for sustainable sensor design, energy-
+efficient AI architectures, and responsible e-waste management. Additionally, it should support
+research into biodegradable and recyclable sensor components to mitigate long-term environmental
+consequences. A leadership position in sustainable and more efficient AI will not only benefit theplanet but also provide U.S. companies with a competitive edge in emerging global AI markets.
+Recommendations To address the above considerations, we recommend: 
+•Establishing Independent Calibration and Documentation Standards for Competitive AI
+Systems: AI models dependent on sensor inputs should include independent validation
+mechanisms, with publicly accessible documentation to ensure accountability. This will make 
+AI more effective and competitive in the global arena. 
+•Streamline Sensor Fusion and Data Aggregation Practices: Policymakers should develop
+guidelines for how multiple data streams from AI-driven sensors can be combined and used
+for inference. By prioritizing better data aggregation practices for AI, the U.S. will attract both 
+market trust and international leadership opportunities. 
+
+
+	
+	• Supporting Energy-Efficient AI Development for Long-Term Market Competitiveness: 
+Federal investment should prioritize research into low-energy AI models, biodegradable 
+sensors, and e-waste reduction strategies to ensure continued AI leadership in sensor-driven 
+AI technology.  
+• Developing Public Data Commons to Foster AI Innovation: The government should facilitate 
+the creation of open-source sensor data repositories to support rapid innovation. Accessible, 
+high-quality sensor data will drive more breakthroughs, giving U.S. companies a competitive 
+advantage in AI. 
+ 
+The AI Action Plan presents a crucial opportunity to ensure that AI innovation is precise, reliable, and trustworthy, setting the U.S. apart in global AI markets. This is particularly true for sensor-
+driven AI. By establishing calibration standards, streamlining sensor fusion and data aggregation 
+practices and supporting sustainable AI development, policymakers can ensure sensor-driven AI is 
+deployed in ways that are a catalyst for innovation.   
+We appreciate your consideration of these recommendations and welcome further discussions on 
+how to integrate them into AI governance efforts. 
+ 
+Sincerely, 
+ 
+Dr. Susan Kennedy 
+Assistant Professor of Philosophy, Santa Clara University 
+ 
+Dr. Emanuel Moss 
+Affiliate Faculty, Sloane Lab, University of Virginia  
+Dr. Brian Plancher 
+Assistant Professor of Computer Science, Barnard College, Columbia University 
+ 
+Dr. Vijay Janapa Reddi 
+Associate Professor of Engineering, Harvard University 
+ 
+Dr. Mona Sloane 
+Assistant Professor of Data Science and Media Studies, University of Virginia 
+ 
+Peter Warden PhD Student, Computer Science, Stanford University 
+ 
+ 
+ 
+ 
+
+
+References 
+Sloane, Mona, Emanuel Moss, Susan Kennedy, Matthew Stewart, Pete Warden, Brian Plancher, and 
+Vijay Janapa Reddi. “Materiality and Risk in the Age of Pervasive AI.” Accepted to Nature Machine Intelligence. Pre-print: https://arxiv.org/abs/2402.11183.   
+Dinakarrao, Sai Manoj Pudukotai, Arun Joseph, Amlan Ganguly, Anand Haridass, and Vijay Janapa 
+Reddi. "Guest Editors’ Introduction: Special Issue on Benchmarking Machine Learning Systems and 
+Applications." IEEE Design & Test 39, no. 3 (2022): 5-7. 
+Mattson, Peter, Christine Cheng, Gregory Diamos, Cody Coleman, Paulius Micikevicius, David 
+Patterson, Hanlin Tang et al. "Mlperf training benchmark." Proceedings of Machine Learning and Systems 
+2 (2020): 336-349. 
+Reddi, Vijay Janapa, Christine Cheng, David Kanter, Peter Mattson, Guenther Schmuelling, Carole-
+Jean Wu, Brian Anderson et al. "Mlperf inference benchmark." In 2020 ACM/IEEE 47th Annual 
+International Symposium on Computer Architecture (ISCA), pp. 446-459. IEEE, 2020. 
+Mazumder, Mark, Colby Banbury, Xiaozhe Yao, Bojan Karlaš, William Gaviria Rojas, Sudnya 
+Diamos, Greg Diamos et al. "Dataperf: Benchmarks for data-centric ai development." Advances in 
+Neural Information Processing Systems  36 (2023): 5320-5347. 
+Sudhakar, Soumya, Vivienne Sze, and Sertac Karaman. "Data centers on wheels: Emissions from 
+computing onboard autonomous vehicles." IEEE Micro 43, no. 1 (2022): 29-39. 
+Wu, Carole-Jean, Ramya Raghavendra, Udit Gupta, Bilge Acun, Newsha Ardalani, Kiwan Maeng, 
+Gloria Chang et al. "Sustainable ai: Environmental implications, challenges and opportunities." 
+Proceedings of Machine Learning and Systems 4 (2022): 795-813. 
+Gupta, Udit, Young Geun Kim, Sylvia Lee, Jordan Tse, Hsien-Hsin S. Lee, Gu-Yeon Wei, David 
+Brooks, and Carole-Jean Wu. "Chasing carbon: The elusive environmental footprint of computing." In 
+2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA), pp. 854-867. 
+IEEE, 2021. 
+Prakash, Shvetank, Matthew Stewart, Colby Banbury, Mark Mazumder, Pete Warden, Brian 
+Plancher, and Vijay Janapa Reddi. "Is tinyml sustainable?." Communications of the ACM 66, no. 11 
+(2023): 68-77. 
+Warden, Peter, Matthew Stewart, Brian Plancher, Sachin Katti, and Vijay Janapa Reddi. "Machine 
+learning sensors." Communications of the ACM 66, no. 11 (2023): 25-28. 
+
+

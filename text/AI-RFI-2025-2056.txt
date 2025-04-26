@@ -1,0 +1,150 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-g2wv-2hea
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-2056
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Damian Porcari  
+General Comment
+See attached file(s)
+Attachments
+Response to RFI on AI Action Plan
+
+
+Response to RFI on AI Action Plan
+Submitted by Damian Porcari
+Background & Expertise
+Damian Porcari is a leading intellectual property expert with over 40 years of experience in IP 
+strategy, enforcement, and innovation management. He served as Director of the Elijah J. 
+McCoy Midwest Regional USPTO and previously led the Ford Global Technologies Licensing 
+and Enforcement group. He also co-founded the IP software product Anaqua with BAT. He has 
+testified before Congress on design patents, co-authored a Supreme Court amicus brief in KSR v. 
+Teleflex , and published extensively on AI-driven patent systems and IP policy. He currently 
+advises technology startups, AI companies, and law firms on patent strategy and automation.
+Summary of Key Points
+1. AI’s use of copyrighted and trademarked materials in AI prompts constitutes
+commercial exploitation and should require compensation.
+2. Patent laws should adapt to AI-human collaborative workflows, ensuring AI-generated
+iterations are non-patentable while human-refined innovations remain eligible.
+3. AI should enhance access to prior art through structured data, improving technological
+advancement.
+1. Intellectual Property Considerations for the Protection of Copyrighted & Trademarked
+Works in AI Prompts
+The rapid adoption of AI raises significant legal concerns regarding intellectual property rights, 
+particularly the unauthorized use of copyrighted and trademarked materials. While at least 39 
+copyright infringement cases related to AI-generated works are pending in the U.S., the legal 
+system has yet to address a critical and emerging issue: hybrid infringement, where AI-generated 
+works incorporate trademarked or copyrighted elements in prompts to produce content that 
+mimics the original creator.
+This creates an unregulated space where AI systems commercially exploit protected intellectual 
+property without appropriate compensation. AI models do not operate in isolation—they are 
+trained on vast datasets that include copyrighted and trademarked content. When users input 
+1
+
+
+prompts such as “Create a song in the style of Let It Be by The Beatles ®”  or “Generate an 
+image of a dog in the style of Keith Haring®” , the AI model mimics the stylistic and 
+compositional elements of the original work. Worse, it uses the creator’s source-identifying 
+trademark without permission or compensation. This practice constitutes commercial 
+exploitation for several reasons. Trademark law prohibits unauthorized use of a protected mark 
+in a way that suggests an association with the original trademark holder (Lanham Act, 15 U.S.C. 
+§ 1114). Copyright law grants exclusive rights to creators to reproduce, distribute, and create 
+derivative works (17 U.S.C. § 106). AI-generated content that imitates a creator’s distinctive 
+style or brand name without authorization violates these principles.
+Beyond legal infringement, AI-generated works disrupt licensing markets. Traditionally, artists 
+and authors license their work for commercial reproduction, but AI-generated content allows 
+users to bypass licensing fees, depriving rights holders of revenue and control over their 
+intellectual property. Industries such as music and broadcasting already recognize the necessity 
+of licensing copyrighted and trademarked works. Digital music streaming services, for example, 
+operate under a compulsory licensing system (17 U.S.C. § 115) to compensate songwriters, 
+composers, and artists. AI should be subject to similar requirements.
+To ensure fair compensation and uphold intellectual property rights, USPTO and Copyright 
+Office should recognize AI-generated content that incorporates copyrighted or trademarked 
+materials as a commercial use, regardless of whether the output is monetized. This would ensure 
+that all derivative works generated through AI prompts referencing specific IP require 
+appropriate licensing.
+A compulsory licensing system should be established to allow AI developers and users to legally 
+generate content based on copyrighted and trademarked works, subject to a statutory fee paid to 
+rights holders. This framework should include standardized royalty rates, a digital tracking 
+system for AI-generated outputs, and penalties for non-compliance. AI platforms should also be 
+required to notify users when their prompts contain protected trademarks or copyrighted 
+materials and offer an opt-in licensing mechanism. Without clear regulations, AI models will 
+continue to exploit the works of creators without compensation, diminishing the value of 
+copyrighted and trademarked materials.
+2. Adapting Patent Law to AI-Human Collaborative Workflows
+The emergence of AI as a tool for innovation has introduced complexities that challenge existing 
+patent law frameworks. One of the most pressing issues is the application of the non-obviousness 
+standard, which has historically been a cornerstone of patent eligibility. As AI becomes an 
+integral part of engineering and scientific development, the current approach to non-obviousness 
+fails to account for AI-generated iterations.
+Patent law must evolve to ensure that human-driven innovations receive protection while AI-
+exclusive outputs—particularly those constituting preliminary, machine-generated proposals—
+are excluded. A revised model should replace the current non-obviousness requirement with a 
+2
+
+
+more objective test: if an AI system, using only a claim as input, generates a fully functional 
+description of an invention, that invention should be deemed unpatentable. This algorithmic 
+approach would vastly simplify patentability analysis and create a more reproducible framework 
+than the traditional Graham factors established in Graham v. John Deere Co. (1966) .
+Currently, the Graham factors for non-obviousness (codified in 35 U.S.C. § 103) include:
+1. The scope and content of prior art.
+2. The differences between the claimed invention and prior art.
+3. The level of ordinary skill in the art (PHOSITA).
+This framework is increasingly ineffective in addressing AI-generated solutions, as AI systems 
+now routinely propose designs that may appear non-obvious based on conventional human 
+reasoning but are, in fact, the result of algorithmic pattern recognition.
+A human-refined patentability model should retain the first two Graham factors but replace the 
+third factor (PHOSITA) with a comparison between the claim and the AI-generated solution. 
+Would an AI innovation model arrive at the same invention? This step should be bounded to 
+ensure that AI does not conduct exhaustive searches but rather uses a reasonable allocation of 
+resources based on currently vetted AI models.
+The likely consequence of this approach is that as AI innovation models improve, human 
+contributions must also increase in sophistication to qualify for patent protection. Over time, AI 
+will surpass human inventors in many fields—just as chess engines now outperform 
+grandmasters—but that will not end human innovation. Instead, it will drive new ways of 
+thinking and problem-solving.
+To implement this approach, USPTO should:
+• Require that the inventive step be derived from human insight rather than algorithmic
+prediction.
+• Establish a presumption that AI-generated initial iterations are not patentable, requiring
+applicants to demonstrate meaningful human refinement.
+• Develop a framework distinguishing AI-assisted engineering from AI-autonomous
+invention, ensuring that patent protection is reserved for human creativity.
+This updated approach would align with the fundamental goals of patent law—encouraging 
+human innovation—while preventing the monopolization of AI-generated ideas that lack genuine 
+human input.
+3
+
+
+3. Enhancing Innovation Through AI-Powered Access to Prior Art
+The patent system exists to protect innovation and disseminate knowledge, yet engineers and 
+scientists rarely engage with patent literature in the early stages of research. Prior art searches are 
+often conducted after an invention is conceived, limiting prior art’s ability to inspire new ideas. 
+AI could transform this process by integrating patent literature directly into early-stage 
+innovation, but current patent data is not structured in a way that allows seamless AI integration.
+Patent data should be machine-readable and structured for AI analysis. Chemical formulae 
+should be stored in computational formats, allowing AI-driven chemistry platforms to analyze 
+compounds and predict new materials. Three-dimensional CAD models and Finite Element 
+Analysis (FEA) data should be included in patent filings in a format that AI-based engineering 
+tools can interpret. In biotechnology and computer science, source code and genomic sequences 
+should be stored in structured repositories that AI can process, enabling bioinformatics research.
+USPTO must collaborate with AI-driven innovation platforms to ensure that patent data is 
+accessible and structured. AI-powered ideation tools could parse vast amounts of patent 
+literature, identifying patterns and connections that human researchers might overlook. This 
+would accelerate innovation while ensuring new developments build upon existing knowledge 
+rather than duplicating prior inventions.
+AI policy must be structured to protect intellectual property rights, modernize patent eligibility, 
+and leverage AI to improve access to structured prior art data. USPTO and policymakers must 
+recognize that AI is not just a regulatory challenge but a tool that, when properly integrated, can 
+enhance innovation.
+4
+
+

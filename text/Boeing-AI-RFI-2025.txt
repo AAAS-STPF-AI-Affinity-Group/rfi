@@ -1,0 +1,141 @@
+March 14 , 2025 
+W-ESMC-REG-25-KC-14
+Mr. Faisal D’Souza 
+National Coordination Office 
+2415 Eisenhower Avenue Alexandria, VA 22314 
+Subject:  National Science Foundation Request for Information on the Development of an 
+Artificial Intelligence (AI) Action Plan 
+Dear Mr. D’Souza,  
+This document is  approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+The B oeing Company appreciates the opportunity to provide comments to the Office of Science 
+and Technology Policy (OSTP) and the National Science Foundation (NSF) on its “ Request for 
+Information (RFI) on the Development of an Artificial Intel ligence (AI) Action Plan”. Boeing views 
+the action plan as an important document that can solidify the United States' position as a leader in usable AI -based systems and address key problems for our country.  
+While the development of AI methods and systems  for low-risk tasks and applications has 
+proliferated over the last two decades, developing systems, models and methods that address high-stakes problems is complex, requires significant infrastructure, lacks clear regulatory guidance, and is difficult to validate.  
+There fore, our proposal will be centered on technical, mathematical, and infrastructure ideas 
+that will enable our country to reduce the complexity of developing safe and reliable AI -enabled 
+aerospace systems. 
+1. Real -world Environments for Advancing Research on AI-Enabled Aerospace
+Systems
+We pr opose the funding and development of real -world and surrogate environments in
+which AI researchers and engineers can prototype, deploy, test and analyze and testtheir code, methods, techniques and sub -systems.
+We pr opose the development of state-of -the-art real -world environments for:
+-Aviation and aerospace - for advancing research in autonomy and advanced
+advisory systems for pilots, air traffic controllers, and aviation operators for all
+phases of flight , building on our experience in developing autonomous prototypeKara Charles  The Boeing Company  
+Director , Regulatory Issues Management  P.O. Box 3707, MC 081-60 
+Safety, Security & Airworthiness  Seattle, WA 98124- 2207 
+
+
+aircraft that make decisions, advise and perform autonomously during taxi, 
+approach, landing, take -off, and cruise. 
+-Precision aerospace manufacturing – for advancing research and rapid testing  of
+ideas of manufacturing processes that require high precision, interaction withhumans, validation, and certification. In particular, we are interested in integrating
+perception and reliable human interaction into manufacturing processes for the
+detecti on of small objects, advising on anomalous situations, and warning on safety
+concerns that may occur.
+2. Re al-World Challenge Problems
+Solutions for tasks that require high -stakes decisions and execution in the real -world
+show a significant acceleration an d maturation when challenge problems are set up in
+the real -world and when the AI system developers are offered a setting in which their
+systems compete against each other with no supervision from the developers. Real -
+world problems allow researchers and engineers to test and deploy technologies beyond
+simulated and lab environments, leading to robust and generalizable technologies thatwill be transitioned into value-added products.  The DARPA Learning Applied to Ground
+Robots challenge tasks and the DARPA  Grand Challenges from the 2004-2008 period
+opened a path to the development of autonomous cars, through a fast exposure of theresearch-hard problems that needed to be addressed (such as real -time perception and
+planning under uncertainty).
+In general, for advancing AI methods towards AI engineering methods, prototyping
+advances much faster when a practically relevant challenge problem (and environment)is addressed, and the research focuses on optimizing constraints that matter for thatproblem.
+We p ropose the development of challenge problems for decision making in flight, air
+traffic control, as well as perception and decision making for manufacturing operations.
+3.Reasoning for Semantic Understanding
+Reason ing – logical or probabilistic – is an int rinsic component of any complex decision-
+making system and it is central to human intelligence. Reasoning has been at the centerof AI research for decades, however, reasoning in high -dimensional spaces (such as the
+ones that modern machine learning method s excel in) is inefficient.
+Reas oning refers to the capability of deriving new information content based on existing
+information and knowledge. Learned models and generative models alone, can inferconcepts only in the regions in which data/observations are available.
+Meanw hile, safety critical operations and systems require reasoning and acting in
+regions with low density data and regions of no data.
+
+
+There fore, methods for computationally efficient reasoning are essential for high-stakes 
+applications . Formal probabilistic and logical approaches for reasoning offer semantic 
+interpretations and explainability, which is crucial to safety critical AI engineering 
+applications. Current AI approaches are based on the data -intensive connectionist 
+approach that lacks semantic understanding and rigorous reasoning. Techniques that combine fast (e.g. neural machine learning approaches) and slow reasoning (logical and 
+probabilistic methods), following the approach pioneered by Kahneman [1,2] provide 
+foundational elements for this challenge. Combining probabilistic, logic, and neural approaches, referred to as neuro -symbolic AI, offers the robust way to build semantically 
+sound systems required in safety -critical domains.  
+Proba bilistic reasoning and inference on situations and inputs for which little or no data 
+is available, has received very little attention, and is an important requirement for robust operations of AI -enabled aerospace systems.  
+We pr opose additional temporal event reasoning research. 
+[1] Daniel Kahn eman (2011). Thinking, Fast and Slow. Macmillan.
+[2] M. Bergamaschi Ganapini, L. Horesh, L. Lamb, A. Loreggia, N. Mattei, F. Rossi, B.Srivastava and K. B. Venable. Proceedings of Thinking Fast and Slow and OtherCognitive Theories in AI. Arlington, VA , AAAI 2022 Fall Symposium.
+4.Long-term Me mory, Planning and Plan Execution
+Insects, b irds, and animals with brains of several orders of magnitudes smaller than
+human brains build nests and store food and return to them months or years after thefirst time at that location. In an AI -relevant way, these animals can plan and execute
+plans to reach those locations with tens of millions of intervening and potentiallydistracting sensory inputs/tokens before recalling these locations and navigating to them.These living analogues compute and operate efficiently in a low -power regime. The
+construction of such systems would lead to breakthroughs in low -power non -volatile
+memory computing devices that would be efficiently deployed on edge applications.Further, researching on how to build long -term persistent memory devices that can plan,
+and act in multi -agent scenarios is highly relevant to future strategic applications in
+autonomous domains. These devices need to be available and operational in low -
+connectivity, air-gapped, cloud-independent and constrained environments.
+We p ropose additional research in AI -enabled aerospace systems that have such
+capabilities.  Computationally, these systems will require:
+a.Memory  – for efficiently summarizing and storing the history of past interaction into a
+representation and employing it in context;
+b.Planning – for devising a set of actions for reaching a long -range goal; and
+c.Plan Execution – for choosing the next actions (or tokens) deliberately to achieve
+the goal or goals safely.
+
+
+5.Integration of Ge nerative Models into Systems, with Risk Guarantees
+The la st decade has provided us a wealth of generative AI approaches. These methods
+can be employed in the design and in the implementation of high-stakes systems, when
+integrated with other perception and sensing, actuation, expert interfaces.
+In particular, generative methods offer a unique opportunity for probabilistically
+predicting intent and future states of the environment, a function that is required for
+advanced automation and autonomous systems.
+We pr opose addressing the fundamental research questions that will enable (A) the
+design of systems that have generative sub-systems and (B) generative models to be
+integrated int o high-stakes systems, such that risk guarantees can be estimated for the
+performance of the system.
+To add ress these goals, we propose research on extending and developing a formal risk
+assessment of the system.
+6.Robust Hum an-AI-Enabled System Teams
+AI-ena bled aerospace systems support complex tasks in conjunction with a human
+user/expert.
+High Reliability Orga nization (HRO) research (published by Todd LaPorte, Gene Rochlin
+and Karlene Roberts in the 1996 -1999 period) has analyzed and provided the base for
+robust human team decision making. We can derive the goals for human -computer or
+human – AI-Enabled System teams that are required to perform in safety critical
+environments and execute high -stakes tasks.
+As human -in-the-loop models become more prevalent in AI technologies, Robust
+Human -AI systems, developed under the HRO principles can lead to improved
+technologies for monitoring and oversight needed in complex decision-makingscenarios.
+We p ropose additional research on the topics below to advance robust human-computer
+teaming:
+-Joint Situational Awareness
+-Detecting and Handling Anomalies
+-Detecting and Processing Near Misses
+-Explaining Anomalies and Near Misses
+-Improvising Solutions
+
+
+7.New Mathematics and  Novel Fundamental Mathematical and Probabilistic
+Approaches  for Handling and Analysis of Anomalies and Rare Events
+Standard statistical methods and approaches currently employed for the analysis of the
+performance of decision systems fall short in assessing the performance on anomalous
+observations/situations and extremely rare events. Averages, means, PR and ROC
+analyses are not sufficient.
+We p ropose the development of a research track that develops novel mathematical and
+probabilistic metrics and tools for anomalous events.
+Thank y ou for your consideration of our input. Please direct any comments or questions to  
+Sincerely, 
+Kara C harles  
+Director, Regulatory Issues Management  
+Safety, Security & Airworthiness 
+
+

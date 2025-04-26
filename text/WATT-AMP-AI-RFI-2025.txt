@@ -1,0 +1,320 @@
+1 March 1 5, 2025  
+Submitted via  email  
+Attn: Faisal D'Souza, NCO,  
+2415 Eisenhower Avenue,  
+Alexandria, V A 22314, USA 
+Telephone: 
+RE: Response to Request for Information on the Development of an Artificial Intelligence (AI) 
+Action Plan  
+I.Introduction
+The Working for Advanced Transmission Technologies (WATT) and Advancing Modern 
+Powerlines (AMP) Coalitions respectfully submit these comments in response to the request for 
+information (RFI) issued February 3, 2025, on the development of an Artificial Inte lligence (AI) 
+Action Plan. The Coalitions are focused on facilitating the adoption of advanced technologies on 
+the US electric transmission system that improve reliability, lower cost, and accelerate 
+integration of new  load and  generation resources.  
+II.About the WATT Coalition
+The WATT Coalition advocates for policy that supports the wide deployment of Grid Enhancing 
+Technologies (GETs) to accelerate the lower energy costs and enable economic growth. GETs are 
+hardware and/or software that increases the capacity, efficiency, and maintains the reliability of 
+the electric grid. Learn more at watt -transmission.org. WATT’s membership includes Dynamic 
+Line Ratings, Advanced Power Flow Control and Transmission Topology Optimization vendors, 
+as well as independent power producers, clean energy investors and utilities.  
+III.About the AMP Coalition
+The AMP Coalition is an ad hoc coalition of CTC Global Corporation, TS Conductor, VEIR, and 
+MetOx. AMP’s goal is to further the use of High Performance Conductors as a tool for 
+modernizing and increasing grid capacity, as well as improving the overall resi lience, reliability, 
+and energy efficiency of the grid.  
+IV.The Current Generation Interconnection and Transmission Planning Processes
+Are Creating Unacceptable Delays for Data Center Development
+Shortcomings in transmission planning and generation interconnection processes have emerged 
+as the critical bottleneck in the AI revolution. The unprecedented energy demand necessary to 
+train and run more powerful models is stretching the grid to its limits. Late last year, the 
+Department of Energy released a study finding that data centers would use a s much as 12 % of 
+
+
+ 2 total US electricity demand by 2028 , up from 4.4% in 2023 .1 On top of this new demand, US 
+grid infrastructure is rapidly aging.  
+In PJM, the 13 -state transmission region which includes major data center clusters in Ohio and 
+Virginia, two -thirds of all electrical assets are at least forty years old , and one -third are at least 50 
+years old.2 PJM is projected to host as much as 70 % of US data center growth.3 This demand – 
+particularly in northern Virginia’s ‘data center alley’, home to as much as 70% of all internet 
+traffic – is driving the need for new greenfield transmission.4 But transmission projects are 
+notoriously difficult to site: they are time and capital intensive, cross multiple municipalities, and 
+often involve use of eminent domain. For example, the Piedmont Reliability Project, a planned 
+transmission line running from southeast Pennsylvania into Maryland, has sparked backlash from 
+landowners and politicians of both parties.5 New greenfield transmission projects can be 
+contentious – a fundamental reality that can be managed, but not eliminated, by permitting 
+reform. Consequently, utilities are quoting wait times as long as seven years for new large loads 
+to interconnect.6￼The US  AI Action Plan  should prioritize  support  for near-term and long -term 
+transmission solutions in tandem to ensure grid  operators  can bring new load online quickly and 
+unlock the transformative power of AI.  
+Behind -the-meter (BTM) generation options  are not a panacea for data center operators, who 
+have turned to a wide array of agreements with generation developers  to accelerate the powering 
+of these facilities. But, at least for the foreseeable future, nearly all such arrangements will still 
+rely on grid interconnection. Going fully off -grid poses unique risks which many large 
+interconnection customers will not acc ept. AI data centers need to operate at extremely high 
+levels of reliability – often at least 99. 999 percent (‘five nines’) uptime.7 That standard allows for 
+less than seven minutes of outage in a year. Any off -grid generation solution would require 
+maintenance outages exceeding that limit and offer less redundancy compared to the grid. Fully 
+BTM solutions would also introduce project risks and regulatory uncertainty.8 For the vast 
+majority of operators, grid interconnection with generator backup is preferable to fully off -grid 
+data centers.   
+ 
+1 Lawrence Berkeley National Laboratory, “ 2024 United States Data Center Energy Usage Report ,” December 
+2024, https://eta -publications.lbl.gov/sites/default/files/2024 -12/lbnl -2024 -united -states -data-center -energy -usage -
+report.pdf  at 5. 
+2  PJM, “ The Benefits of the PJM Transmission System ,” at 5, April 16, 2019.  
+3 Boston Consulting Group, “ Breaking Barriers to Data Center Growth ,” January 20, 2025, 
+https://www.bcg.com/publications/2025/breaking -barriers -data-center -growth.  
+4 Prince William Times, “ Opposition mounts to ‘spiderweb’ of new transmission lines needed to power data center 
+alley,” October 25, 2023, https://www.princewilliamtimes.com/news/opposition -mounts -to-spiderweb -of-new-
+transmission -lines -needed -to-power -data-center -alley/article_b7da863c -dfac-516d -9dfe-9adc34b8c8bd.html.  
+5 WBAL, “ PSEG files application with PSC seeking authority to build Maryland Piedmont Reliability Project ,” 
+December 31, 2024, https://www.wbaltv.com/article/piedmont -powerline -project -pseg-files-application -
+psc/63313157.  
+6 Bloomberg, “ Data Centers Face Seven -Year Wait for Dominion Power Hookups ,” August 29, 2024, 
+https://www.bloomberg.com/news/articles/2024 -08-29/data -centers -face-seven -year-wait-for-power -hookups -in-
+virginia?embedded -checkout=true  
+7 SemiAnalysis, “ Datacenter Anatomy Part 1: Electrical Systems ,” October 24, 2024, 
+https://semianalysis.com/2024/10/14/datacenter -anatomy -part-1-electrical/.  
+8 Id. 3,  
+
+
+3 “Speed -to-power" has emerged as the key priority for data center developers – outpacing 
+considerations like access to land, water, chips, or fiber , and  the price of electricity.9 But the US  
+electricity system is struggling to match the pace of AI expansion . Planning, siting and 
+permitting new transmission lines requires, on average, seven to ten years.10 In some extreme 
+examples, projects have taken up to  seventeen years  to complete due to permitting delays and 
+other challenges .11 There is an inherent mismatch between the timelines required by AI use and 
+the pace of growth of our electricity system. Making it easier to permit  and build large 
+transmission and generation projects is a crucial part of the solution – permitting reform  is 
+needed . But the administration should also aim to maximize the generation  already  connected  to 
+the grid by taking advantage of advanced transmission technologies (ATTs).  
+V.Advanced Transmission Technologies (ATTs) Can Offer Some Immediate Relief
+to Data Center and Power Generation Developers
+ATTs  can maximize the useful capacity of existing grid s and infrastructure . These technologies 
+are lower -cost and faster to deploy than either new transmission lines or new generation 
+resources.12 ATTs includ e Grid Enhancing Technologies (GETs) and High Performance 
+Conductors (HPCs).  
+a.About Grid Enhancing Technologies
+Grid Enhancing Technologies, or GETs, are hardware and software that increase the capacity, 
+efficiency and reliability of the transmission system. These technologies are installed on existing 
+transmission infrastructure to give operators more situational a wareness and control over the 
+grid.  
+•Power flow control technologies  actively balance the flow on transmission lines. The
+hardware can intelligently raise or lower the impedance, or the opposition to current, in
+real time to ensure that power is delivered on lines that have the capacity to carry it.
+Advanced power flow control (APFC)  expands on this function with enhancements
+such as faster and more flexible deployment options, easy scaling to meet the size of the
+need, and ability to relocate when needed elsewhere on the grid.
+•Dynamic Line Rating (DLR)  monitors ambient conditions which heat or cool
+transmission lines to calculate the true capacity of transmission lines, based on their
+9 McGeady, Cy et al., “ The Electricity Supply Bottleneck on US AI Dominance ,” March 2025, https://csis -website -
+prod.s3.amazonaws.com/s3fs -public/2025 -
+03/250303_McGeady_Electricity_Bottleneck.pdf?VersionId=LsCkrctQBekLSYFPxus3XWdmTCnmIr9Z  
+10 Lisa Kelso, Testimony before the Public Utilities Commission of Ohio, “ Direct Testimony of Lisa Kelso on Behalf 
+of Ohio Power Company ,” Case No. 24 -508-EL-ATA, filed May 13, 2024, 
+https://dis.puc.state.oh.us/ViewImage.aspx?CMID=A1001001A24E13B43501B00952.  
+11 Wall Street Journal, “ The U.S. ‘Fast -Tracked’ a Power Project. After 17 Years, It Just Got Approved .” May 18, 
+2023, https://www.wsj.com/articles/the -u-s-fast-tracked -a-power -project -after-17-years -its-nearing -approval -
+1a7edb86  
+12 The Working for Advanced Transmission Technologies (WATT) Coalition and The Advancing Modern Powerlines 
+(AMP) Coalition, Benefits of ATTs Compared to Traditional Upgrades , August 2024, WATT -and-AMP -Benefits -of-
+ATTs -compared -to-traditional -upgrades.pdf, at 1  
+
+
+ 4 thermal limits. In windy regions where transmission capacity is critical for wind power 
+development, DLR often allows significantly more power flow than a static rating over 
+the course of the year but also detects when flows should be reduced to continue s afe and 
+reliable operation in extreme heat or other conditions.  
+ 
+ 
+• Transmission topology optimization (TTO)  software models the grid's network and 
+power flow conditions to identify ways to reroute power flow around congested or 
+overloaded transmission elements. These "reconfigurations" are implemented by 
+switching on or off existing high -voltage circuit breaker s. By more evenly distributing 
+flow over the network, topology control increases the transfer capacity of the grid, like 
+Google maps redirecting cars in traffic.  
+ 
+b. About High Performance Conductors  
+High Performance Conductors (HPCs) is a term that encompasses modern conductor 
+technologies which have greater performance characteristics when compared to traditional 
+conductors, including increased capacity, higher efficiency, and less thermal sag.  
+• Carbon and Composite Core Conductors , also known as Advanced Conductors, are 
+overhead, bare conductors that use a trapezoid shaped wire of annealed aluminum to 
+carry electrical current and use a carbon or composite core for support. Used 
+commercially for 20 years, the conductors are deployed  in over 60 countries across 5 
+continents. Carbon and composite core conductors have three key advantages over 
+traditional conductors: stronger and lighter weight cores, which allows for more 
+aluminum to be added to the conductor, doubling the capacity; 20% or greater efficiency, 
+and half as much thermal sag.  
+ 
+• Superconducting transmission lines  use a class of metallic compounds that exhibit 
+negligible resistance when cooled using liquid nitrogen, enabling very low losses and 
+very high power -flow capacities. Developed in the 1980s, countries in Europe and Asia, 
+as well as the U.S., have installed  superconductors over the past 20 years. 
+Superconductors have three key advantages over traditional conductors: increase capacity 
+5-10 times at lower voltages, reducing substation build and cost, no thermal sag and line 
+sag does not vary with ambient weather conditions or exposure to elements, and they are 
+at least 50% more energy efficient.  
+These technologies are low-hanging fruit: they are  cost-effective and can help bring new load 
+and new generation online quickly by better utilizing the grid or increasing the power density of 
+existing corridors.  Not only will they help meet the electricity demand from new data centers , 
+but they will also  be a crucial tool as data center developers  move to larger compute clusters.  
+GETs and HPCs have well -established benefits but are not yet widely deployed in the US. 
+Reconductoring with carbon or composite core conductors  can increase the capacity of an 
+
+
+5 existing line by 50 -110% at a cost less than half that of greenfield transmission  and rebuilding 
+with modern superconductors could increase the capacity of lines by over 500% .13  Deploying  
+GETs including  dynamic line rating  (DLR)  created an average increase of 47% in line capacity in 
+Massachusetts, and up to 60% increase in line capacity for the New York Power Authority.14 
+DLR is currently the subject of a n advanced  notice of proposed rulemaking at FERC.15 
+These technologies are widely deployed in Europe and Asia, but uptake has been slower in the 
+US. Barriers to deployment include a lack of familiarity from grid planners, regulators , and 
+utilities.  
+HPCs can offer an excellent solution for utilities dealing with significant  load growth. In 2015, 
+rapid population growth drove record power demand in the Rio Grande Valley. The area’s sole 
+source of power was a pair of legacy transmission lines – each over thirty years old. AEP was 
+able to replace 240 line -miles with advanced conductors , nearly doubling the previous power 
+capacity. The project was completed millions of dollars under budget, eight months ahead of 
+schedule, and without any interruptions for consumers.16  
+As interconnection requests have increased over the past decade, generation developers have 
+experienced longer waits, higher interconnection costs, and more frequent cancellations 
+stemming in part from limited transmission headroom.17 According to the Lawrence Berkeley 
+National Lab, over two terawatts of generating resources are currently languishing in 
+interconnection queues .18 A Brattle Group  study of states in the Southwest Power Pool found that 
+uptake of GETs coul d allow double the generating resources to come online relative to a base 
+case.19 GETs would also enable operators to reduce curtailment of new and existing generation . 
+Similarly, using HPCs to replace just 25% of the oldest infrastructure on the US  transmission 
+system would allow the interconnection of an additional 27  GW of generation annually over the 
+next decade.20  
+13 GridLab, “ The 2035 Report: Reconductoring with advanced conductors can accelerate the rapid transmission 
+expansion required for a clean grid ,” April 2024, www.2035report.com/wp -
+content/uploads/2024/04/GridLab_2035 -Reconductoring -Technical -Report.pdf at 17.  
+14 The Working for Advanced Transmission Technologies (WATT) Coalition and The Advancing Modern Powerlines 
+(AMP) Coalition, Benefits of ATTs Compared to Traditional Upgrades, August 2024, WATT -and-AMP -Benefits -of-
+ATTs -compared -to-traditional -upgrades.pdf , at 2  
+15 Fact Sheet | ANOPR: Implementation of Dynamic Line Ratings, June 27, 2024, https://www.ferc.gov/news -
+events/news/ferc -seeks -comment -potential -dlr-framework -improve -grid-operations -fact-sheet#FS.  
+16 Power Engineers, “ Lower Rio Grande Valley 345 kV Reconductor Project ,” (n.d.).  
+17 Gorman, W. et al. (2025) ‘Grid connection barriers to renewable energy deployment in the United States’, Joule, 
+9(2). doi:10.1016/j.joule.2024.11.008.  
+18 Rand, Joseph et al., “ Queued Up: 2024 Edition Characteristics of Power Plants Seeking Transmission 
+Interconnection As of the End of 2023 ,” April 2024, https://emp.lbl.gov/sites/default/files/2024 -
+04/Queued%20Up%202024%20Edition_R2.pdf.  
+19 Tschuida, T. Bruce et al.,  “Unlocking the Queue with Grid -Enhancing Technologies ,” February 1, 2021,  
+https://watt -transmission.org/wp -content/uploads/2021/02/Brattle__Unlocking -the-Queue -with-Grid-Enhancing -
+Technologies__Final -Report_Public -Version.pdf90.pdf.  
+20 Jay Caspary and Jesse Schneider, Grid Strategies, Advanced Conductors on Existing Transmission Corridors to 
+Accelerate Low Cost Decarbonization, ACORE, March 2022, https://acore.org/wp -
+content/uploads/2022/03/Advanced_Conductors_to_Accelerate_Grid_Decarbon ization.pdf at 19-20. 
+
+
+ 6 States as politically  and geographically  diverse as Montana, Minnesota,  Virginia,  and California  
+have approved measures to expand the use of GETs and HPCs  due to their cost saving benefits .21 
+FERC has also stressed the need for grid operators and utilities to consider GETs  and HPCs . In 
+Order No. 2023, the agency’s landmark interconnection reform, transmission providers are 
+required to evaluate HPCs  and a select number of GETs technologies in assessing grid upgrades 
+needed for generator interconnection.22 In Order No. 1920 -A, the transmission planning rule 
+passed last May  and unanimously reaffirmed in November, transmission providers were required 
+to assess a range of GETs and HPCs in their planning processes.23  
+The speed of the AI transition demands that, in addition to installing vast new sources of 
+generation, the US  maximize s the potential of the existing grid  and prudently expand its capacity 
+in new areas as needed . Interconnection queues, siting and permitting challenges, and supply 
+chain constraints around critical technologies, including large power transformers, have 
+expanded the lead times to build all forms of new generation and grid components.24 25 HPCs  
+and GETs offer near -term transmission capacity expansion solutions  for the existing grid and 
+new projects , with installation times of  can 1 -3 years and six months , respectively .26 
+In recognition of the important role ATTs can play in supporting the development of grid 
+infrastructure and capacity needed to support AI development, the AI Action Plan should include 
+the following recommendations:  
+• DOE should continue  and expand  its support of HPC and GETs projects. As of April 
+2024, DOE’s Grid Resilience and Innovation Partnerships program supported over $2 
+billion worth of GETs and HPC projects.27 Similarly, the Loan Programs Office has 
+supported $23 billion in transmission projects, including reconductoring, under the Title 
+17 Energy Infrastructure Reinvestment program.28 Funds in other existing programs, 
+including the Innovative Energy Loan Program and the Tribal Energy Finance Program 
+could be dedicated to GETs or HPCs.29 Federal support for these technologies, whether 
+ 
+21 Pew Charitable Trusts, “ With U.S. Energy Grid Under Strain, Governments Promote Technology Solutions ,” 
+August 2, 2024, https://www.pewtrusts.org/en/research -and-analysis/articles/2024/08/02/with -us-energy -grid-under -
+strain -governments -promote -technology -solutions.  
+22 Order No. 2023, Docket No. RM22 -14, at 1011 . 
+23 Order No. 1920 -A, Docket No. 21 -17, at 506.  
+24 Resources for the Future, “ Modeling Obstacles to Energy Infrastructure for Improved Policy Analysis ,” September 
+2024, https://media.rff.org/documents/Report_24 -16_-_Updated_Draft.pdf.  
+25 Department of Energy “ Pathways to Commercial Liftoff: Innovative Grid Deployment ,” April 2024, 
+https://liftoff.energy.gov/wp -content/uploads/2024/04/Liftoff_Innovative -Grid-Deployment_Final_4.15.pdf.  
+26 Department of Energy “ Pathways to Commercial Liftoff: Innovative Grid Deployment ,” April 2024, 
+https://liftoff.energy.gov/wp -content/uploads/2024/04/Liftoff_Innovative -Grid-Deployment_Final_4.15.pdf.  
+27 Department of Energy “ Pathways to Commercial Liftoff: Innovative Grid Deployment ,” April 2024, 
+https://liftoff.energy.gov/wp -content/uploads/2024/04/Liftoff_Innovative -Grid-Deployment_Final_4.15.pdf.  
+28 Department of Energy, “ Deal Digest: LPO’ s Latest Conditional Commitments Help Keep Power Affordable 
+Through New Generation and Expanded Transmission for Utility Customers in Twelve States ,” January 16, 2025, 
+https://www.energy.gov/lpo/articles/deal -digest -lpos-latest -conditional -commitments -help-keep -power -affordable -
+through -new. 
+29 Watt Coalition, “ Federal Funding for Advanced Transmission Technologies ,” accessed February 28, 2025, 
+https://watt -transmission.org/wp -content/uploads/2024/08/WATT -and-AMP -Federal -Funding -for-Advanced -
+Transmission -Technologies.pdf.  
+
+
+7 through grants or loans, will help accelerate their urgently needed deployment, and 
+improve utility comfort with the technology along with providing lessons learned for 
+future deployments.  
+•DOE should consider implementing a conductor efficiency and/or a resistance -based
+standard. Congress has already vested DOE with the authority to establish energy -
+efficiency standards for certain electrical equipment. Standards have been developed for
+over 70 product categories, including boilers, central air conditioners, and distribution
+transformers.30 Establishing efficiency or resistance -based standards for transmission
+would provide an important signal for utilities and manufacturers.
+•The administration should leverage  the authority of the national laboratories.
+Skepticism from industry planners and utility regulators is a key barrier to deployment of
+GETs and HPCs. The federal government should leverage institutions, such as the
+national labs, to lead on bringing these important tools into the mainstream. For example,
+they should be considered in assessments of technology readiness such as the NREL’s
+Annual Technology Baseline.31
+•The administration should support the future transmission workforce.  The
+administration should examine whether our workforce is equipped for the widespread
+manufacture and deployment of these advanced technologies. Congress and the
+Departments of Education and Labor should invest in workforce training programs for
+power sy stem engineers, electricians, and linemen.
+•The administration should require other federal agencies to adopt DOE’s
+categorical exclusion for reconductoring and rebuilds. DOE established a NEPA
+Categorical Exclusion to streamline the permitting process for projects reconductoring or
+rebuilding transmission lines, increasing capacity much more quickly by utilizing
+existing rights -of-way and potentially existing infrastructur e, such as transmission
+towers. DOE has limited control over federal lands and other agencies such as the
+Department of Interior should adopt similar categorical exclusions.
+•FERC should adopt a shared savings incentive. As previously discussed, utilit ies’
+well-known capex bias can discourage investment in  certain  ATTs. A shared savings
+incentive rewards utilities for saving ratepayers money. Utilities would receive a portion
+of the savings derived from use of ATTs as determined through a standard cost -benefit
+analysis.  This incentive could save consumers billions of dollars per year.32
+30 Department of Energy, “Standards and Test Procedures,” https://www.energy.gov/eere/buildings/standards -and-
+test-procedures.  
+31 GridLab, “ Supporting Advanced Conductor Deployment: Barriers and Policy Solutions ,” April 9, 2024, 
+https://www.2035report.com/wp -content/uploads/2024/05/5.3 -Reconductoring -policy -report.pdf.  
+32 Gramlich, Rob et al., “ A Roadmap for Advanced Transmission Technology Adoption ,” September 2024, 
+https://ceepr.mit.edu/wp -content/uploads/2024/09/MIT -CEEPR -RC-2024 -06.pdf.  
+
+
+ 8  
+Respectfully , 
+Julia Selker  
+Executive Director  
+WATT Coalition  
+ 
+ 
+Zach Zimmerman  
+AMP Coalition  
+ 
+ 
+ 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+ 
+
+

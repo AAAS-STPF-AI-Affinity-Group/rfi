@@ -1,0 +1,736 @@
+This proposal includes data that shall not be disclosed outside the Government and shall not be duplicated, used, or disclose d—in whole or in 
+part—for any purpose other than to evaluate this proposal. If, however, a contract is awarded to this offeror as a  result of—or in connection 
+with—the submission of this data, the Government shall have the right to duplicate, use, or disclose the data to the extent provid ed in the 
+resulting contract. This restriction does not limit the Government’s right to use inform ation contained in this data if it is obtained from another 
+source without restriction. The data subject to this restriction are contained in all pages/sheets herein.  National Science Foundation  
+Networking and Information Technology Research and Development  
+(NITRD) National Coordination Office (NCO)  
+Development of an Artificial Intelligence (AI)  Action Plan  
+REQUEST FOR INFORMATION RESPONSE  
+CAPABILITIES STATEMENT  
+Date of submission:  
+15th March 2025  
+Attn: 
+Faisal D’Souza, NCO, 2415 Eisenhower  
+Avenue, Alexandria, VA 22314, USA 
+National Science Foundation  
+Submitted by:  
+Alvarez & Marsal Federal LLC 
+655 15th St reet N.W., Suite 600  
+Washington, DC 2000 5 
+UEI: M3S7QKFTB3W5  
+CAGE: 9LP73  
+FCL: Top Secret (If DoD)  
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+i March 14, 2025 
+National Science Foundation  
+Networking and Information Technology Research and Development  (NITRD) 
+National Coordination Office (NCO)   
+Mr. D’Souza , 
+Alvarez & Marsal Public Sector Services, LLC (A&M) is pleased to respond to the Request for 
+Information (RFI) for Development of an Artificial Intelligence (AI) Action Plan . Our response 
+is aligned with Executive Order 14179 (Removing Barriers to American Leadership in Artificial 
+Intelligence), which establishes U.S. policy for sustaining and enhancing America’s AI 
+dominance to promote human flourishing, economic competitivene ss, and national security.   
+As the world’s leading restructuring firm, A&M offers a combination of expertise gained 
+through our embedded leadership model and our corporate experience delivering more than 
+1,000 commercial and public sector strategic transformation efforts. In support of our clients, we 
+bring a fully integrated commercial and public sector capability utilizing senior -led teams with 
+strong industry , functional and technology experience. We are confident that digital and AI 
+expertise, and commitment to providing strong se nior leadership will allow us to accelerate 
+results and deliver implementable strategies.  
+If you have any questions or would like to schedule a presentation by our team, please contact 
+me at  or via email at  
+Sincerely, 
+Edwad Hanapole  
+Chief AI Officer  – Public Sector Services  
+Managing Director  
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+ii Table of Contents  
+1.0 Introduction  ................................ ................................ ................................ ....................  1 
+2.0 Addressing National AI Priorities: Key Themes & Recommendations  ......................  1 
+2.1. AI Infrastructure: Hardware, Data Centers, and Compute Resources  .......................  1 
+Recommendation A1: National AI Compute Infrastructure Initiative  ................................ ......................  1 
+Recommendation A2: Critical Materials Supply Chain Security  ................................ .............................  1 
+Recommendation A3: Federal AI Compute Framework  ................................ ................................ ........  2 
+Recommendation A4: AI Compute Access Program  ................................ ................................ .............  2 
+Recommendation A5: Next -Generation Computing Research  ................................ ...............................  2 
+2.2. AI Model Development and Open -Source Innovation  ................................ .................  3 
+Recommendation B1: Strategic AI Research Program  ................................ ................................ ..........  3 
+Recommendation B2: Long -Term AI Research Funding  ................................ ................................ ....... 3 
+Recommendation B3: National AI Testbed Network  ................................ ................................ ..............  3 
+Recommendation B4: Real -World AI Testing Framework ................................ ................................ ...... 4 
+Recommendation B5: National Open -Source AI Initiative  ................................ ................................ ..... 4 
+Recommendation B6: AI Model Security Framework  ................................ ................................ ............  4 
+2.3. AI Security: Cybersecurity and AI Resilience  ................................ ...............................  5 
+Recommendation C1: National AI Security Framework  ................................ ................................ .........  5 
+Recommendation C2: AI Supply Chain Security ................................ ................................ ....................  5 
+Recommendation C3: National AI Cyber Shield  ................................ ................................ ....................  5 
+Recommendation C4: Adversarial AI Research Program  ................................ ................................ ...... 6 
+Recommendation C5: AI Model Integrity Framework  ................................ ................................ ............  6 
+Recommendation C6: Training Data Security  ................................ ................................ ........................  6 
+2.4. AI in Government: Efficiency, Workforce, and Citizen Services  ................................ . 7 
+Recommendation D1: Federal AI Transformation Initiative  ................................ ................................ ... 7 
+Recommendation D2: Mission -Critical AI Applications  ................................ ................................ ..........  7 
+Recommendation D3: Citizen -Facing AI Services  ................................ ................................ .................  8 
+3.0 Public -Private Collaboration: The Role of Public -Private Partnerships & Value -for-
+Money Framework in the “Age of AI”  ................................ ................................ .......................  8 
+3.1. The Strategic Imperative for AI -Enhanced Public -Private Partnerships  ...................  8 
+3.2. Priority Areas for AI -Enhanced PPPs  ................................ ................................ ............ 8 
+Recommendation E1:  National AI Research Infrastructure  ................................ ................................ .. 8 
+Recommendation E2: AI -Driven Critical Infrastructure Protection  ................................ .........................  9 
+Recommendation E3: AI Workforce Development  ................................ ................................ .................  9 
+Recommendation E4: Sovereign AI Model Development  ................................ ................................ .... 10 
+3.3. Applying the Value -for-Money Framework to U.S. AI Leadership Imperatives  ...... 10 
+Real-Time Cost -Benefit Analysis  ................................ ................................ ................................ .........  11 
+Performance -Linked Payment Structures  ................................ ................................ ............................  12 
+3.4. Implementing Strategic AI Economic Zones  ................................ ..............................  12 
+4.0 Capabilities Statement  ................................ ................................ ................................ . 13 
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+1 1.0 Introduction  
+Alvarez & Marsal (A&M) is pleased to provide a response to the National Science Foundation’s Request 
+for Information (RFI) on the development of an Artificial Intelligence (AI) Action Plan. As a global leader 
+in performance improvement, digital transformation and AI execution, we recognize the critical role AI 
+will pl ay in sustaining U.S. global leadership, enhancing national security, and driving economic growth.  
+Our approach will support N SF’s mission to develop  AI action  plan  and establish robust standards.  This 
+document is approved for public dissemination.  The document contains no business -proprietary or 
+confidential information.  Document contents may be reused by the government in developing the AI  
+Action Plan and associated documents without attribution  
+2.0 Addressing National AI Priorities: Key Themes & Recommendations  
+2.1. AI Infrastructure: Hardware, Data Centers, and Compute Resources  
+To maintain AI leadership, the United States must establish a resilient, high -performance AI 
+infrastructure that can support national security objectives, economic growth, and innovation. The 
+global race for AI supremacy is fundamentally a competition for computational advantage. Nations that 
+control their AI compute infrastructure will lead the next technological revolution.  
+Recommendation A1: National AI Compute Infrastructure Initiative 
+The U.S. must invest in domestic semiconductor manufacturing and AI -focused data centers to ensure 
+computational sovereignty. This initiative should include:  
+•Direct federal funding for leading -edge semiconductor fabrication facilities specialized in AI
+accelerators and high -performance computing chips
+•Tax incentives for private sector investment in domestic AI hardware manufacturing
+•Creation of Strategic AI Economic Zones with streamlined permitting, tax benefits, and
+infrastructure support to accelerate data center construction in regions with abundant
+renewable energy sources
+•Establishment of a Sovereign AI Hardware Consortium bringing together key industry players,
+government agencies, and research institutions to ensure U.S. independence from foreign
+supply chains
+The Department of Commerce, in coordination with the Department of Defense and Department of 
+Energy, would oversee this initiative. Implementation would follow a three -phase approach: (1) 
+immediate funding for shovel -ready projects at existing semiconducto r facilities; (2) medium -term 
+expansion through new fabrication plants in Strategic AI Economic Zones; and (3) long -term research 
+into next -generation semiconductor technologies specifically optimized for AI workloads.  
+Recommendation A2: Critical Materials Supply Chain Security  
+Secure access to essential materials for AI hardware manufacturing by:  
+•Developing a National Critical Materials Strategy focusing on rare earth elements, specialized
+metals, and other resources needed for AI chip production
+•Establishing a Strategic AI Materials Reserve to guard against supply chain disruptions
+•Creating international partnerships with allied nations to diversify supply sources and reduce
+dependence on potentially adversarial countries
+•Providing funding for research into alternative materials and recycling technologie
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+2 The initiative would be led by a joint task force including the Departments of Commerce, Defense, 
+Energy, and State. The strategy would employ a whole -of-government approach utilizing the Defense 
+Production Act for critical domestic production, diplomatic channels to secure supply agreements with 
+allied nations, and research grants for developing synthetic alternatives and closed -loop recycling 
+systems.  
+Recommendation A3: Federal AI Compute Framework  
+The government should establish a federated AI compute infrastructure:  
+•Integrates existing high -performance computing resources at national laboratories, universities,
+and defense facilities into a secure, unified grid accessible to authorized researchers and
+developers
+•Implements a tiered access system that provides computing resources based on national
+priority, with streamlined access for projects related to national security, healthcare innovation,
+and energy research
+•Establishes regional AI compute hubs across the country, ensuring geographical distribution of
+resources and creating centers of excellence in AI research
+The National Science Foundation would lead this initiative in partnership with the Department of 
+Energy's national laboratories and the Department of Defense. The framework would build upon 
+existing investments like the National Research Cloud pilot progra m but scale it dramatically to meet the 
+exponential growth in AI computing requirements.  
+Recommendation A4: AI Compute Access Program  
+Democratize access to high -performance computing for AI development through:  
+•Creation of an "AI Compute Credit" system for qualified startups, researchers, and small
+businesses to access federal compute resources
+•Allocation of federal AI compute capacity for commercial applications that advance national
+economic priorities
+•Development of streamlined procurement vehicles to allow government agencies to rapidly
+acquire AI computing resources from pre -approved vendors
+The program would be administered by the National Science Foundation with an interagency oversight 
+committee. Implementation would include a merit -based application process with expedited review 
+cycles, integration with existing research grant mechanisms, and public -private partnerships . The 
+program would measure success through metrics including patents filed, startups launched, and peer -
+reviewed publications resulting from compute access.  
+Recommendation A 5: Next -Generation Computing Research 
+Invest in transformative computing technologies:  
+•Accelerate quantum computing research focused on quantum machine learning algorithms and
+hardware
+•Fund development of neuromorphic computing architectures that mimic biological neural
+networks to achieve orders -of-magnitude improvements in energy efficiency
+•Support research into photonic computing for AI applications, leveraging light -based processing
+to reduce energy consumption and increase processing speeds
+•Establish a Moonshot Challenge program with substantial prizes for breakthroughs in AI
+computing efficiency
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+3 A new DARPA -like Advanced Computing Research Agency would coordinate the initiative, emphasizing 
+public -private partnerships, university research centers, and milestone -based funding. The program 
+would be structured around "grand challenges" with financial incentives for achieving specific 
+performance benchmarks, and increased investment as technologies demonstrate viability.  
+2.2. AI Model Development and Open -Source Innovation  
+AI innovation must be balanced between open -source development for accessibility and proprietary 
+advancements for national security and economic competitiveness. The right policy approach can foster 
+both a robust innovation ecosystem and strategic advantag es in critical applications.  
+Recommendation B1: Strategic AI Research Program  
+Establish a coordinated national AI research initiative with funding of $25 billion over five years:  
+•Create domain -specific AI research programs in critical sectors including defense, healthcare,
+energy, agriculture, and financial technology
+•Fund a network of AI Centers of Excellence at top research universities, with each center
+focusing on specific aspects of AI (foundation models, reinforcement learning, explainable AI,
+etc.)
+•Implement a fast -track grant approval process for high -priority AI research, reducing the time
+from application to funding to under 60 days
+The White House Office of Science and Technology Policy would coordinate this initiative across 
+agencies including NSF, NIH, DOE, DOD, and USDA. Each agency would establish AI research offices with 
+streamlined funding mechanisms and domain expertise. Imple mentation would emphasize coordinated 
+but distributed research investment, avoiding duplication while ensuring comprehensive coverage of 
+strategic AI research areas.   
+Recommendation B2: Long -Term AI Research Funding  
+Support fundamental AI research with stable, multi -year funding mechanisms:  
+•Establish a National AI Fellowship program supporting 1,000 doctoral students and 500
+postdoctoral researchers annually in AI -related fields
+•Fund interdisciplinary research initiatives combining AI with other fields such as materials
+science, biotechnology, and quantum physics
+•Develop a "Manhattan Project for AI" focused on achieving artificial general intelligence (AGI)
+with strong security and alignment guarantees
+The National Science Foundation would administer this program in coordination with other research 
+agencies. Implementation would include creating new funding mechanisms specifically designed for 
+long -term, high -risk AI research; establishing a prestigious fellowship program with competitive stipends 
+and research budgets; developing interdisciplinary research centers that bring together experts from 
+multiple fields.  
+Recommendation B3: National AI Testbed Network  
+Create a nationwide network of regulatory ‘sandboxes ’ with an initial investment of $5 billion:  
+•Establish sector -specific testbeds for healthcare, financial services, transportation, and energy
+applications of AI
+•Implement streamlined regulatory frameworks that allow for rapid experimentation while
+ensuring basic safety standards
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+4 •Create a "Safe Harbor" for companies testing AI systems within approved testbeds, providing
+liability protections for good -faith innovation
+•Develop standardized testing protocols and evaluation metrics to assess AI system performance,
+safety, and reliability
+Coordinated by the Department of Commerce with sector -specific agencies (HHS, DOT, DOE, etc.), 
+implementation would establish testbed environments, approval processes, evaluation protocols, and 
+balanced governance committees.  
+Recommendation B4: Real -World AI Testing Framework  
+Establish guidelines and infrastructure for testing AI systems in realistic environments:  
+•Create dedicated testing environments that simulate real -world conditions for autonomous
+vehicles, industrial robots, and other physical AI systems
+•Develop standardized scenarios and stress tests to evaluate AI system performance under
+various conditions
+•Implement a graduated testing approach that moves from simulation to controlled physical
+environments to limited real -world deployment
+•Establish clear criteria for advancing AI systems through progressive testing stages
+NIST would lead the development of testing standards with implementation by relevant regulatory 
+agencies. The framework would be developed through a multi -stakeholder process involving standards 
+organizations, industry representatives, safety experts, and academic researchers.  
+Recommendation B5: National Open -Source AI Initiative  
+Invest in developing and maintaining secure, high -quality open -source AI models:  
+•Fund the development of government -backed foundation models in critical areas such as
+biomedical research, materials science, and climate modeling
+•Establish a security certification program for open -source AI models to ensure they meet
+minimum standards for safety and security
+•Create a national repository of verified, secure AI components and building blocks that
+developers can incorporate into their applications
+•Provide ongoing maintenance funding for critical open -source AI infrastructure to ensure long -
+term viability
+The National Science Foundation would lead this initiative in partnership with national laboratories, 
+academic institutions, and industry consortia. Implementation would include competitive grants for 
+development of open -source models, funding for ongoing maintenance and security updates, 
+establishment of model governance frameworks, and creation of a dedicated evaluation team to assess 
+model performance and security.  
+Recommendation B6: AI Model Security Framework  
+Develop comprehensive security standards for AI models:  
+•Create a mandatory security review process for AI models deployed in critical infrastructure or
+government applications
+•Establish a National AI Security Testing Laboratory to conduct independent evaluations of AI
+system security
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+5 •Develop security standards for training data collection, model architecture, and deployment
+environments
+•Implement a vulnerability disclosure program and bug bounty system for identifying and
+remediating security flaws in AI systems
+NIST, in coordination with other agencies, would lead the development of AI security standards.  
+Implementation would include developing security requirements, establishing a certification process, 
+creating a national laboratory for security research and testing, and implementing a vulnerability 
+disclosure process.  The framework would be regularly up dated.     
+2.3. AI Security: Cybersecurity and AI Resilience  
+AI models must be hardened against cybersecurity risks to prevent vulnerabilities that could be 
+exploited by adversarial actors. As AI systems become more powerful and widespread, ensuring their 
+security becomes a national security imperative.  
+Recommendation C1: National AI Security Framework  
+Develop comprehensive security standards for AI systems with binding requirements for critical sectors:  
+•Establish mandatory security controls for AI systems deployed in 16 critical infrastructure
+sectors as defined by CISA
+•Create a tiered security classification system for AI models based on their capabilities and
+potential risks
+•Develop specialized security requirements for large language models, vision systems, and
+autonomous decision -making systems
+•Require regular security assessments and penetration testing of high -risk AI systems
+NIST, with stakeholder input, would lead a phased implementation: (1) baseline standards; (2) sector -
+specific extensions; (3) voluntary adoption with incentives; (4) mandatory requirements for critical 
+infrastructure and government . 
+Recommendation C2: AI Supply Chain Security  
+Implement controls to ensure the integrity of AI development and deployment:  
+•Establish a Secure AI Development Lifecycle framework with security controls at each stage from
+data collection to deployment
+•Create a trusted vendor program for AI components and services used in government and
+critical infrastructure
+•Implement provenance tracking for datasets, models, and software components used in AI
+systems
+•Develop security standards for AI development environments and model hosting platforms
+The Cybersecurity and Infrastructure Security Agency (CISA) would lead this initiative in partnership with 
+NIST and sector -specific regulatory agencies. Implementation would include developing guidelines for 
+secure AI development practices, establishing a certification program for AI components used in 
+government applications, creating technical standards for provenance tracking and verification, and 
+implementing a continuous monitoring program for supply chain risks.  
+Recommendation C3: National AI Cyber Shield 
+Invest in AI -powered cybersecurity capabilities:  
+
+
+   Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+  FR Doc. 2025 -02305 
+ 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+6 
+ • Deploy AI -based threat detection and response systems across federal networks and critical 
+infrastructure  
+• Establish a National AI Cybersecurity Operations Center to coordinate automated responses to 
+cyber threats  
+• Develop AI systems capable of autonomously hunting for vulnerabilities in critical software and 
+infrastructure  
+• Create a Cyber Defense AI Competition program to incentivize development of advanced 
+defensive AI capabilities  
+The Department of Homeland Security and Department of Defense would jointly lead this initiative. 
+Implementation would include developing and deploying AI -based security tools across federal 
+networks, establishing a dedicated security operations center wit h advanced AI capabilities, creating a 
+federated threat intelligence system that shares data across agencies and critical infrastructure sectors, 
+and launching a series of competitions to accelerate innovation in defensive AI.  
+Recommendation C4: Adversarial AI Research Program  
+Fund research into adversarial attacks and defenses for AI systems:  
+• Establish a dedicated research program focused on identifying and mitigating vulnerabilities in 
+AI systems  
+• Create a National Red Team for AI that conducts ongoing assessments of critical AI systems  
+• Develop standardized testing methodologies for evaluating AI system robustness against 
+adversarial attacks  
+• Fund research into novel attack vectors specific to different types of AI systems and applications  
+DARPA and the National Science Foundation would co -lead this research program. Implementation 
+would include establishing a network of academic research centers focused on adversarial AI, creating a 
+standing red team composed of leading security researchers  from government, academia, and industry, 
+developing standardized benchmarks and evaluation methodologies for AI security, and hosting regular 
+competitions to identify novel attack vectors.   
+Recommendation C5: AI Model Integrity Framework  
+Establish comprehensive controls to ensure AI model security:  
+• Develop standards for secure model training and validation processes  
+• Implement cryptographic verification of model origins and integrity  
+• Create a National AI Model Registry for critical applications with verified security properties  
+• Establish requirements for continuous monitoring of deployed models for signs of tampering or 
+degradation  
+NIST would lead the development of technical standards with implementation coordinated through 
+relevant regulatory agencies. Implementation would include developing guidelines for secure model 
+development and validation, creating technical standards for mo del verification and integrity checking, 
+establishing a registry system for models used in critical applications, and implementing requirements 
+for ongoing monitoring and verification of deployed models. The framework would be designed to be 
+technically fe asible for current systems while establishing aspirational goals for future development.  
+Recommendation C6: Training Data Security  
+Protect the integrity and quality of data used in AI development:  
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+7 •Establish guidelines for secure data collection, storage, and preparation for AI training
+•Create a framework for detecting and preventing data poisoning attacks
+•Develop standards for data diversity and quality to ensure robustness
+•Implement controls for secure data sharing between organizations for AI development
+NIST would develop technical standards in collaboration with industry and academic experts. 
+Implementation would include creating guidelines for secure data collection and preparation practices, 
+developing tools and methodologies for detecting potential po isoning or manipulation, establishing 
+minimum standards for data diversity and representation in different application domains, and creating 
+frameworks for secure data sharing and federation. The initiative would emphasize both technical 
+controls and gover nance processes to ensure data integrity throughout the AI development lifecycle  
+2.4. AI in Government: Efficiency, Workforce, and Citizen Services  
+AI must be integrated across government agencies to improve efficiency, service delivery, and national 
+competitiveness. The federal government can both improve its own operations and serve as a model for 
+responsible AI adoption.  
+Recommendation D1: Federal AI Transformation Initiative  
+Launch a comprehensive program to modernize government operations with AI:  
+•Establish a $10 billion fund specifically for AI implementation across federal agencies
+•Create agency -specific AI implementation roadmaps with measurable efficiency targets
+•Implement a shared services model for common AI applications (document processing,
+workflow automation, etc.)
+•Develop standardized procurement vehicles and contracting templates for AI services
+The Office of Management and Budget would lead this initiative in partnership with the General Services 
+Administration and agency CIOs. Implementation would include establishing a central fund with specific 
+allocation for high -impact AI projects, developin g standardized implementation playbooks for common 
+use cases, creating shared service offerings that agencies can adopt without duplicating development 
+efforts, and establishing a Federal AI Center of Excellence to provide technical assistance and share be st 
+practices. Success would be measured through quantifiable metrics including cost savings, processing 
+time reductions, error rate improvements, and customer satisfaction scores.  
+Recommendation D2: Mission -Critical AI Applications 
+Identify and fund high -impact AI implementations:  
+•Deploy AI -powered fraud detection systems across benefit -administering agencies (SSA, CMS,
+VA, etc.) with potential savings of $50 billion annually
+•Implement AI -based document processing systems for immigration applications, tax processing,
+and regulatory filings
+•Develop predictive maintenance systems for federal infrastructure, military equipment, and
+transportation assets
+•Create AI -powered emergency response coordination systems for FEMA and other disaster
+response agencies
+The transformation would be led by a new Federal AI Implementation Task Force comprising agency 
+CIOs, domain experts, and industry advisors. Implementation would include identifying high -value 
+applications across agencies, developing standardized technolog y solutions that can be customized for 
+agency -specific needs, establishing cross -agency working groups to share best practices and lessons 
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+8 learned, and creating a phased implementation roadmap with early wins to demonstrate value. The 
+initiative would emphasize measuring and publicizing outcomes to build support for broader AI 
+adoption.  
+Recommendation D3: Citizen -Facing AI Services  
+Transform government -citizen interactions through AI:  
+•Deploy AI assistants across federal agency websites to provide 24/7 support for citizen inquiries
+•Create a unified Federal Services AI Platform that provides a consistent interface across all
+government services
+•Implement voice -enabled AI services for citizens with limited digital literacy or disabilities
+•Develop personalized service delivery based on citizen needs and preferences
+Citizens interact with government services at critical moments in their lives. During health crises, 
+financial hardship, natural disasters, or major life transitions. Beyond efficiency gains, AI -powered 
+services can make government more accessible to all citizens, including those with disabilities, limited 
+English profic iency, or limited digital literacy.  
+3.0 Public -Private Collaboration: The Role of Public -Private 
+Partnerships & Value -for-Money Framework  in the “Age of AI”  
+3.1. The Strategic Imperative for AI -Enhanced Public -Private Partnerships  
+Public -Private Partnerships (PPPs) represent a critical mechanism for advancing America's AI dominance 
+while optimizing government resources and fostering private sector innovation .  Traditional PPPs have 
+demonstrated effectiveness in infrastructure development, but AI demands a new generation of 
+collaborative frameworks . These partnerships are specifically designed to address the unique challenges 
+of AI development, including massive computational requirements, data access needs, talent scarcity, 
+and the r apid pace of technological change.  
+PPPs  in the Age of AI  need to evolve  from traditional arrangements in several ways:  
+1.Accelerated Development Cycles: Modern  PPPs incorporate agile development methodologies,
+allowing for rapid prototyping, testing, and deployment cycles measured in months ; not years.
+2.Dynamic Risk Allocation: Given the evolving nature of AI technology, AI -Enhanced PPPs
+incorporate flexible risk -sharing mechanisms that adjust as technologies mature and new
+challenges emerge.
+3.Outcomes -Based Success Metrics: Rather than focusing solely on project completion milestones,
+AI-Enhanced PPPs track impact metrics like processing time reductions, decision quality
+improvements, and return on investment.
+The White House should issue an Executive Order directing federal agencies to prioritize AI -Enhanced 
+PPPs in their technology modernization efforts, with specific guidance on flexible procurement 
+mechanisms, accelerated approval processes, and risk -sharing  models appropriate for AI initiatives  
+3.2. Priority Areas for AI -Enhanced PPPs  
+We recommend prioritizing AI -Enhanced PPPs in the following high -impact domains:  
+Recommendation E1:  National AI Research Infrastructure  
+The computational requirements for developing cutting -edge AI models have increased exponentially, 
+with training costs for frontier models now exceeding $100 million. This scale of investment is 
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+9 prohibitive for most research institutions and startups, creating a competitive advantage for large 
+technology companies and well -funded foreign competitors. A national research infrastructure would 
+democratize access to computing resources, accelerate inn ovation across sectors, and ensure U.S. 
+leadership in next -generation AI development.  
+We recommend establishing a National AI Compute Consortium that:  
+•Creates a network of government -industry shared supercomputing facilities specifically
+optimized for AI workloads, with specialized hardware accelerators that deliver 10 -100x
+performance improvements over general -purpose computing systems
+•Implements tiered access models allowing researchers from academia, government, and
+qualifying small businesses to access computational resources based on project merit and
+national priority alignment, with subsidized rates for projects advancing national security or
+economic competitiveness
+•Develops specialized hardware accelerators and novel computational architectures optimized
+for next -generation AI models, including neuromorphic computing, optical AI accelerators, and
+quantum -inspired systems
+The Department of Energy's national laboratories, in partnership with the National Science Foundation, 
+should establish a coordinating council with leading AI hardware companies, cloud providers, and 
+research institutions. This council would define technic al specifications, coordinate resource allocation, 
+and oversee development of a unified access portal for the distributed computing resources.  
+Recommendation E2: AI-Driven Critical Infrastructure Protection  
+Critical infrastructure systems including power grids, transportation networks, and water management 
+systems represent both prime opportunities for AI optimization and significant security vulnerabilities. 
+Recent cyber -attacks have demonstrated the vulnera bility of these systems, with potential disruptions 
+costing billions and threatening national security. AI offers unprecedented capabilities to detect 
+anomalies, predict vulnerabilities, and automate responses at a speed and scale impossible for human 
+oper ators.  
+We recommend:  
+•Deploying AI -powered anomaly detection systems across critical infrastructure networks to
+identify and respond to cyber threats in real -time, capable of processing millions of system
+events per second to identify subtle patterns indicating potential attack s
+•Implementing AI -enhanced predictive maintenance solutions to reduce system failures and
+extend infrastructure lifespan, leveraging multimodal data from sensors, operational logs, and
+external factors to anticipate failures before they occur
+•Creating autonomous system restoration capabilities that can rapidly respond to physical or
+cyber disruptions, minimizing downtime and preventing cascading failures across
+interconnected systems
+The Department of Homeland Security (DHS) and the Department of Energy (DOE) should jointly 
+establish a Critical Infrastructure AI Security Initiative, partnering with infrastructure operators and 
+technology companies to develop reference architectures, de ployment guides, and evaluation 
+frameworks for AI security solutions across critical sectors.  
+Recommendation E3: AI Workforce Development  
+The severe shortage of AI talent represents one of the most significant constraints on U.S. AI leadership. 
+Current estimates indicate a shortage of over 300,000 AI -skilled workers nationwide, with competition 
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+10 for talent driving salaries to unsustainable levels for many organizations. This talent gap particularly 
+affects government agencies, small businesses, and critical infrastructure operators who cannot match 
+the compensation packages offered by large techno logy companies.  
+We recommend:  
+•Creating an AI Skills Certification Framework that establishes recognized credentials for AI
+professionals at various proficiency levels, from technical implementers to strategic leaders,
+providing a clear pathway for career advancement and skill developme nt
+•Expanding the National Science Foundation's AI Research Institutes program to include intensive
+AI training programs for mid -career professionals, focusing on practical implementation skills
+and domain -specific applications rather than purely theoretical k nowledge
+•Establishing tax incentives for companies that invest substantially in AI workforce development
+programs, with enhanced incentives for programs targeting underrepresented communities,
+veterans, and displaced workers from traditional industries
+The Department of Labor, in partnership with the National Science Foundation and industry 
+associations, should establish a National AI Skills Coalition tasked with developing standardized 
+curricula, certification programs, and workforce transition pathways . This coalition would coordinate 
+with community colleges, universities, and online learning platforms to rapidly scale training capacity.  
+Recommendation E4: Sovereign AI Model Development  
+Foundation AI models increasingly represent critical digital infrastructure, with applications spanning 
+healthcare, financial services, defense, and government operations. Current development of these 
+models is dominated by a small number of large technolo gy companies and foreign entities, creating 
+potential dependencies and vulnerabilities in applications critical to national security and economic 
+resilience.  
+We recommend:  
+•Establishing a consortium of U.S. companies and research institutions to develop sovereign,
+U.S.-controlled foundation models for strategic applications, ensuring that critical AI capabilities
+remain under U.S. jurisdiction and aligned with American values
+•Creating secure testing environments for evaluating model capabilities and vulnerabilities prior
+to deployment, allowing rigorous assessment without exposing sensitive capabilities or
+weaknesses
+•Developing specialized AI models optimized for government applications with enhanced security
+and explainability features, prioritizing trustworthiness and alignment with legal and ethical
+requirements over raw performance metrics
+DARPA, in collaboration with the National Security Council and leading research universities, should 
+coordinate a multi -year initiative to develop, evaluate, and deploy sovereign AI models across priority 
+government applications. This initiative should lev erage existing research programs while establishing 
+new partnership models with industry.  
+3.3. Applying the Value -for-Money Framework to U.S. AI Leadership 
+Imperatives  
+Proper evaluation of AI investments requires a systematic framework that captures both quantitative 
+returns and qualitative benefits while accounting for the unique characteristics of AI technologies. 
+Traditional return -on-investment calculations often fail to capture the full value of AI implementations, 
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+11 leading to underinvestment in high -potential applications and misallocation of resources across 
+competing priorities.  
+A Value -for-Money (VfM) Framework  provides a structured method for evaluating AI investments based 
+on efficiency, transparency, and national strategic objectives.  
+Figure 1:  Value -for-Money Framework for evaluating U.S. National AI investments  
+VfM Framework 
+Component  Application to U.S. AI Leadership Imperatives  
+Real -Time Cost -
+Benefit Analysis  AI project funding should prioritize high -ROI use cases like AI -powered 
+fraud detection in Medicare/Medicaid and cybersecurity for national 
+defense.  
+Performance -Linked 
+Payments  AI vendors in PPPs should be incentivized through milestone -based 
+funding, ensuring government AI initiatives deliver measurable 
+impact.  
+Risk Allocation 
+Optimization  AI-related risks (e.g., cybersecurity threats, bias in AI models) should 
+be assigned to the entities best equipped to mitigate them —ensuring 
+national security remains a government function while industry drives 
+innovation.  
+AI-Enhanced Public 
+Impact 
+Measurement  AI investments should be tracked through citizen impact metrics, such 
+as improved service delivery times in healthcare, reduced energy 
+consumption, and faster response times in disaster relief.  
+Continuous 
+Monitoring & 
+Adaptive 
+Governance  AI PPP projects should be continuously evaluated using real -time AI -
+driven performance analytics, allowing for rapid course corrections.  
+This VfM approach de -risks public AI investments, ensuring taxpayer funds are used effectively and that 
+AI investments  align  across five critical dimensions:  
+Real -Time Cost -Benefit Analysis  
+Traditional cost -benefit analyses often fail to capture the exponential nature of AI capabilities and the 
+network effects of successful implementations. Static analyses conducted at project initiation become 
+rapidly outdated as AI systems evolve, data accumulates, and use cases expand. Real -time analysis 
+ensures investment decisions reflect current system performance and emerging opportunities.  
+A real-time approach incorporates:  
+•Dynamic ROI Modeling: AI investments often demonstrate increasing returns as data
+accumulates and models improve. to continuously refine ROI projections based on observed
+performance data, adjusting projections as systems mature and capabilities evolve.
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+12 •Multi -Factor Benefit Quantification: Quantif y benefits such as improved decision quality,
+reduced risk exposure, enhanced innovation capacity, and strengthened competitive
+positioning.
+•Externality Accounting: Incorporate positive and negative externalities, including environmental
+impacts, privacy implications, and broader economic effects.
+OMB should update Circular A -94 (Guidelines for Cost -Benefit Analysis) to incorporate AI -specific 
+valuation methodologies, including guidance on quantifying decision quality improvements, risk 
+reduction benefits, and network effects resulting from AI imple mentations.  
+Performance -Linked Payment Structures  
+Traditional government contracting models incentivize technology delivery rather than outcome 
+achievement, leading to systems that technically meet specifications but fail to deliver real -world value. 
+AI projects are particularly vulnerable to this misalig nment, as technical performance metrics may 
+correlate weakly with operational impact. Performance -linked payment structures ensure that vendors 
+and government agencies maintain focus on valuable outcomes rather than technical specifications.  
+Our framework recommends:  
+•Outcome -Based Contracts: Structure vendor contracts around specific, measurable performance
+improvements (e.g., fraud detection rates, processing time reductions) rather than technology
+delivery milestones. This approach aligns vendor incentives with gover nment objectives and
+shifts performance risk to the party best positioned to manage it.
+•Sliding Scale Incentives: Implement payment structures that increase vendor compensation
+when outcomes exceed targets and reduce payments when targets are missed. This approach
+creates continuous improvement incentives rather than binary success/failure cr iteria.
+•Long -Tail Performance Bonuses: Include incentives for sustained performance improvements
+that accrue as AI systems gather more data and improve over time. This approach encourages
+vendors to design self -improving systems rather than static solutions requir ing constant manual
+updates.
+The Federal Acquisition Regulation (FAR) should be updated to establish AI -specific contract vehicles 
+that facilitate outcome -based payments, including multi -year performance measurement and flexible 
+payment structures that can adapt to evolving system cap abilities.  
+3.4. Implementing Strategic AI Economic Zones  
+AI innovation thrives in ecosystems that combine specialized infrastructure, regulatory clarity, talent 
+concentration, and collaborative frameworks. The distributed nature of U.S. innovation creates 
+strengths through diversity but can impede the critical m ass necessary for breakthrough advances. 
+Strategic AI Economic Zones create focused environments where resources, talent, and policy 
+innovations converge to accelerate development in priority domains.  
+To accelerate the development and deployment of AI -Enhanced PPPs, we recommend establishing 
+Strategic AI Economic Zones (SAEZs) that provide concentrated environments for AI innovation with 
+specialized regulatory frameworks, infrastructure investments, and  collaborative ecosystems.  
+Each SAEZ would feature:  
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+13 •Streamlined Regulatory Frameworks: Tailored regulatory environments that maintain
+appropriate safeguards while expediting AI development and testing.
+•Shared Infrastructure: Pre -built computational resources, data management systems, and
+physical facilities optimized for AI research and deployment.
+•Talent Concentration: Educational partnerships, visa programs, and incentive structures to
+attract and retain top AI talent.
+•Implementation Strategy: The Department of Commerce, in partnership with state governments
+and private sector leaders, should establish a SAEZ development program with federal matching
+funds for qualified zones, regulatory coordination assistance, and spec ialized visa allocations for
+participating organizations.
+We recommend establishing five initial SAEZs, each with distinct specialization:  
+AI Innovation Zones  
+Five specialized AI innovation hubs across the United States, each with distinct focus areas:  
+1.National Security AI Zone (Northern Virginia): Defense, intelligence, and critical infrastructure
+applications in partnership with DoD, intelligence agencies, and defense contractors.
+2.Healthcare AI Zone (Boston/Cambridge): Medical diagnostics, drug discovery, and healthcare
+delivery optimization in collaboration with teaching hospitals, pharmaceutical companies, and
+healthcare technology firms.
+3.Financial Services AI Zone (New York): Financial risk management, fraud detection, and market
+analysis through partnerships with financial institutions, regulatory agencies, and fintech
+startups.
+4.Manufacturing and Supply Chain AI Zone (Detroit/Pittsburgh): Industrial automation, predictive
+maintenance, and supply chain resilience in cooperation with manufacturing companies,
+logistics providers, and industrial engineering programs.
+5.Agricultural and Climate AI Zone (California Central Valley): Sustainable agriculture, resource
+management, and climate adaptation in partnership with agricultural producers, environmental
+agencies, and climate technology companies.
+Congress should authorize the Department of Commerce to establish a Strategic AI Economic Zone 
+program, with appropriations for matching grants, regulatory coordination staff, and specialized visa 
+programs for qualifying AI professionals and students.  
+4.0 Capabilities Statement  
+Alvarez & Marsal Capabilities & Experience  
+Alvarez & Marsal (A&M) is a global professional services firm with 7500+ employees in over 65 cities and 
+35 countries.  
+A&M assists organizations with complex business issues, operating performance, and stakeholder value, 
+specializing in restructuring and turnaround management.  A&M provides performance improvement, 
+business transformation, and change management advisory se rvices, with a dedicated Public Sector 
+practice that uses private sector principles to help public sector entities.  A&M's Public Sector 
+professionals average 15 to 25 years of experience and include former government and corporate 
+operators and consultant s, providing practical, implementable solutions . We combine this expertise 
+with the following tenets to truly drive innovation and transformation for our clients:  
+
+
+Development of an Artificial Intelligence (AI) Ac
+Request for Information  
+FR Doc. 2025 -02305 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.  
+14 Figure 2 -A&M Federal Market Offerings  
+Alvarez & Marsal Public Sector Services (PSS)  
+PSS has extensive experience in working across all levels of government from Federal, State and 
+Municipalities. With dedicated Federal, State & Local, Education and Health and Human Services 
+practices, A&M has experience in resolving the most challenging p roblems for all levels of government. 
+25% of A&M professionals have held CIO, CTO, CFO and CHRO appointments within government or the 
+private sector. Our teams have been in your shoes, we have experienced the challenges that come from 
+implementing transfor mative change across governments, in resource constrained environments with 
+missions that cannot fail.   
+A&M's Strategic Partnership with Virtus   
+A&M's partnership with Virtus combines A&M's industry expertise and operational excellence with 
+Virtus's technology platform and specialized capabilities. Clients benefit from reduced implementation 
+timeframes, lower total cost of ownership, 
+improved outcomes, scalable solutions, and 
+continuous innovation. The partnership has 
+demonstrated substantial client impact, including an average 30% reduction in implementation 
+timelines, 25 -40% improvement in process efficiency, and ROI exceeding initial projections  by 15 -20%. 
+A&M is committed to delivering exceptional value through this partnership.   
+
+

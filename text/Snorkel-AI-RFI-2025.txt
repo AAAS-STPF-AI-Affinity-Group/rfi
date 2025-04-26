@@ -1,0 +1,295 @@
+Response to Request for Information: AI Action Plan Development 
+I. Introduction
+Artificial Intelligence (AI) is at an inflection point in government and national security 
+applications. While agencies recognize AI’s transformative potential, traditional approaches 
+remain constrained by manual data labeling, which leads to slow, costly, and unscalable AI 
+deployments. AI models struggle to achieve the precision, adaptability, and governance 
+required for mission success without a data-first approach. To bridge this gap, government 
+agencies must embrace programmatic data development—an approach that accelerates AI 
+model training, ensures transparency, and enables real-time adaptation to evolving threats and 
+operational needs. 
+About Snorkel AI 
+Snorkel AI has pioneered programmatic data labeling, leveraging weak supervision to create 
+high-quality AI training data at scale. Unlike traditional manual approaches, Snorkel Flow 
+enables Subject Matter Experts (SMEs) and data scientists to collaborate programmatically, 
+slashing the time and cost of AI development while ensuring models are mission-ready, 
+adaptive, and compliant. By shifting the focus from model-centric AI to scalable, data-centric 
+strategies, Snorkel AI empowers organizations to rapidly deploy AI solutions that are 
+accurate, transparent, and continuously improving. 
+Founded out of the Stanford AI Lab, Snorkel AI is revolutionizing AI data development with 
+its patented weak supervision technology. This technology programmatically integrates 
+multiple noisy data sources to generate precise, labeled datasets. This software-driven 
+approach replaces slow, manual annotation, allowing government agencies and enterprises to 
+accelerate AI adoption by 10 to 100x while reducing risk and cost. Already deployed across 
+Fortune 500 companies and national security agencies, Snorkel AI ensures AI systems remain 
+agile, auditable, and optimized for real-world impact.  
+
+
+II. Executive Summary
+Regardless of their sophistication, AI models are fundamentally constrained by the quality, 
+completeness, and representativeness of the data they are trained on. Yet, current AI 
+development efforts often treat data as an afterthought—resulting in slow, expensive, and 
+unreliable deployments that fail to scale. National security agencies and government 
+organizations cannot afford to build AI systems on incomplete, biased, or static datasets. In 
+high-stakes environments, poor data quality directly translates to mission failure. 
+The U.S. Government (USG) must adopt a data-first AI strategy that prioritizes scalable, 
+transparent, and adaptive data pipelines rather than introducing new risks or inefficiencies to 
+ensure AI enhances decision-making and operational agility. This means moving beyond 
+traditional, manual data-labeling approaches and embracing programmatic, scalable methods 
+that enable AI systems to continuously learn, adapt, and improve. This document outlines a 
+practical, mission-driven AI action plan that prioritizes governance, adaptability, and 
+operational readiness—ensuring that AI initiatives deliver reliable, transparent, and 
+high-impact results at scale. 
+This AI action plan provides four key recommendations to ensure AI scalability, governance, 
+and operational effectiveness: 1.Shift from Model-Centric to Data-Centric AI – AI deployment must be accelerated
+through scalable data pipelines that reduce reliance on slow, manual data-labeling
+efforts.2.Strengthen AI Governance and Compliance – A robust AI data governance framework
+ensures auditability, security, and bias mitigation across all AI applications.
+3.Implement Reinforcement Learning & Agentic Workflows – AI systems must
+continuously learn and adapt, requiring a data-first policy framework that integrates
+real-time feedback loops and mission-driven decision-making.4.Adopt Fine-Grained, Programmatic AI Evaluation – AI models should be evaluated
+continuously using automated techniques that enable mission-specific performance
+assessments, real-time adaptation, and rigorous transparency mechanisms.
+By adopting this data-first AI strategy, the USG can accelerate AI deployment, enhance 
+decision-making, reduce costs, and ensure AI applications deliver mission success at scale. 
+2 
+
+
+III. The Problem: AI’s Effectiveness is Limited by Data, Not Model Sophistication
+For years, AI development has been dominated by a model-first approach, where 
+organizations focus on fine-tuning architectures while treating data as an afterthought. This 
+approach has repeatedly failed to deliver reliable AI outcomes in commercial and government 
+environments. The reality is that AI models are only as effective as the data they are trained 
+on. Yet, many organizations struggle with accuracy, scalability, and governance in AI 
+development. Even the most advanced models cannot overcome deficiencies in training data. 
+Poor-quality, biased, or incomplete datasets introduce systemic vulnerabilities, increasing the 
+likelihood of model hallucinations, incorrect predictions, and decision failures in 
+mission-critical environments.1 
+One of the most significant risks AI faces today is accuracy and adaptability. Models trained 
+on incomplete or low-quality data are prone to hallucinations, misinformation, and biased 
+decision-making, which is especially dangerous in high-stakes environments like national 
+security, intelligence analysis, and cyber defense.2 Additionally, model drift—where AI 
+systems degrade over time due to changing mission needs or unseen data 
+distributions—further diminishes reliability. The inability of traditional AI pipelines to rapidly 
+adapt to evolving threats and mission requirements means that AI models often become 
+obsolete before they can provide meaningful operational value. 
+The inability to scale AI training and evaluation processes remains a major bottleneck. 
+Traditional AI data curation methods—such as manual labeling, outsourced annotation, or 
+crowdsourcing—introduce significant bottlenecks, making it difficult to evaluate, fine-tune, 
+and scale AI models efficiently.3 Many AI projects fail to move beyond the proof-of-concept 
+stage because the time and cost required to curate, label, and structure training data for 
+production-grade performance are too high. This is particularly evident in enterprise and 
+government applications, where AI systems must process massive volumes of complex, 3 Renggli, C., Rimanic, L., Gürel, N. M., Karlaš, B., Wu, W., & Zhang, C. (2021). A Data Quality-Driven View 
+of MLOps. arXiv preprint arXiv:2102.07750. 2 Hu, M., Behar, E., & Ottenheimer, D. (2024). National Security and Federalizing Data Privacy Infrastructure 
+for AI Governance. William & Mary Law School Scholarship Repository, 1829. 1 Soni, A., Arora, C., Kaushik, R., & Upadhyay, V. (2023). Evaluating the Impact of Data Quality on Machine 
+Learning Model Performance. Journal of Nonlinear Analysis and Optimization, 14(1), 8-18. 
+3 
+
+
+ 
+domain-specific data. Organizations cannot operationalize AI effectively without a 
+systematic, scalable approach to data development. 
+Governance and compliance challenges further obstruct AI adoption, particularly due to the 
+lack of version-controlled datasets, explainability frameworks, and structured audit trails. The 
+inability to audit AI training data increases regulatory risk, eroding trust in AI-driven 
+decision-making.4 Security vulnerabilities arise when AI models are trained on unverifiable 
+data, opening the door to adversarial manipulation, bias, and misinformation. Additionally, 
+the lack of version control in AI training data prevents organizations from tracking changes, 
+ensuring consistency, and mitigating operational risks. This lack of traceability in regulated 
+industries and government applications makes meeting transparency and accountability 
+requirements nearly impossible. 
+The common denominator across all these challenges is that AI is not just about building 
+better models but also better data. The key to unlocking AI’s full potential lies in 
+programmatic data development, which elevates AI training from a manual, error-prone 
+process to a scalable, systematic approach. This shift allows organizations to generate 
+high-quality, structured, and auditable training data at a fraction of the time and cost required 
+by traditional methods. At Snorkel AI, we have spent the last decade pioneering this 
+approach, enabling AI teams to move beyond static, manually labeled datasets and instead 
+develop, refine, and adapt their data programmatically. 
+As organizations navigate the next phase of AI deployment, those relying on outdated, 
+model-first approaches will struggle to transition from flashy demos to production-ready AI. 
+The following sections will outline the solutions that enable AI to be trained, evaluated, and 
+deployed at mission scale—without reliance on inefficient manual processes. In an era where 
+data is the new frontier in AI, enterprises and government agencies must recognize that their 
+success or failure in AI will ultimately depend on how they develop their data. 
+ IV. The Solution: A Data-First AI Strategy for the U.S. Government 
+4 National Security Council. (2024). Framework to Advance AI Governance and Risk Management in National 
+Security. 
+4 
+
+
+1. Shift Focus from Model-Centric AI to Data-Centric AI: Accelerating Specialized AI
+Development by Scaling Domain Expertise
+The most significant strategic advantage of AI is access to high-quality, mission-aligned data. 
+In a world where advanced AI models have been commoditized, the true differentiator is the 
+ability to specialize AI models using proprietary data to drive mission success. 
+From Model-First to Data-First AI Development 
+●“Generalist” AI models are becoming increasingly commoditized. Specialization is
+required for mission-critical applications, which require access to proprietary data for
+training and evaluation.
+●Agencies must transform their data to be structured, labeled, and task-oriented. Data
+quality and readiness should be prioritized over model selection.
+●Auditability & Traceability: AI decisions must be fully traceable, with provenance
+metadata, lineage tracking, and explainability mechanisms embedded into
+programmatic data pipelines.
+●To achieve the data quality required for specialization, AI initiatives should mandate
+that experts are kept in the loop. Mission success depends on programmatically
+applying subject matter expertise and avoiding manual labeling by non-experts
+Eliminating Bottlenecks in AI Data Development 
+The primary roadblock to AI deployment is the reliance on slow, manual data labeling 
+processes, which are costly, time-consuming, and unscalable. 
+●Current approach: Manual annotation—slow, high-cost, and unscalable.
+●Proposed solution: Programmatic data labeling, enabling rapid iteration, continuous
+learning, and scalable AI fine-tuning.5
+To accelerate the development of specialized models, we recommend the Administration: 
+●Ensure that the federal government has access to software capabilities that allow
+subject matter experts to programmatically transform unstructured data into
+high-quality datasets suitable to power the next generation of specialized AI
+5 Ratner, A., Ehrenberg, H., Hussain, Z., Dunnmon, J., & Ré, C. (2019). Weak Supervision: The New 
+Paradigm for Machine Learning. Stanford AI Lab. 
+5 
+
+
+●Direct federal agencies to curate and develop their proprietary data programmatically,
+with the ambition to develop highly specialized task-oriented AI systems
+2. Strengthen AI Governance, Compliance, and Transparency
+To ensure AI is trustworthy and mission-aligned, the USG must implement a robust AI Data 
+Governance Framework with four key pillars: 
+●Auditability & Traceability: AI decisions must be fully traceable to specific labeled
+data and programmatic data pipelines.
+●Bias & Security Controls: AI models must be trained on balanced, mission-relevant
+datasets to mitigate bias, adversarial risks, and unauthorized access.
+●Adaptability: AI systems should ingest new mission data in real-time without
+requiring full retraining.
+●Secure AI Infrastructure: AI systems must adhere to zero-trust principles, ensuring
+role-based access control (RBAC), cryptographic data integrity checks, and federated
+learning architectures for decentralized data security.
+By ensuring transparency, security, and adaptability, the USG can deploy reliable, 
+mission-ready AI while reducing risk. 
+3. Reinforcement Learning & Agentic Workflows: A Data-First Policy Framework
+Reinforcement learning (RL) and data-driven AI methodologies complement one another in a 
+variety of significant ways: 
+Data Quality as the Foundation for RL Success 
+Reinforcement learning agents learn by interacting with their environment and feedback 
+loops, but such incremental learning is exceedingly sensitive to initial data quality: ●Ground-truth baseline data gives the starting state representations and reward
+structures that inform agent learning
+●Calibration data sets suitable baselines for evaluating agent performance
+●Good-quality historical data supports good pre-training prior to live deployment
+Without robustly curated foundation data, RL agents are vulnerable to reward 
+misspecification, overfitting to training distributions, and adversarial exploitation - learning to 
+6 
+
+
+ 
+optimize the wrong goals or discovering new shortcuts that technically meet rewards but carry 
+no genuine mission intent.6 
+Complementary Feedback Loops 
+Data-driven RL and AI generate strong complementary feedback loops: 
+● Improved RL with data curation: Well-structured, clean data enables RL agents to 
+learn more about the state spaces and consequences of actions 
+● Improved collection of data with RL: Well-planned agents can recognize gaps in data 
+and look for useful data 
+● Continuous Learning: AI agents must be designed to dynamically incorporate new 
+mission-relevant data, with mechanisms to detect and mitigate drift in learned policies. 
+Overcoming Compounding Error Challenges 
+Reinforcement learning systems have some specific error propagation challenges: 
+● Error compounding: Minor initial biases in data can cause disastrous compounding 
+errors as agents keep adding upon their learned policies 
+● Drift detection: Agents must have strong monitoring to identify when agent behavior 
+has moved away from anticipated patterns 
+● Intervention mechanisms: Human monitoring and backup plans must be activated 
+when data quality declines 
+Designing Resilient Agentic Workflows 
+In government environments, agentic workflows must be designed with mission resiliency in 
+consideration: 
+● Data provenance tracing: All data sources have to be logged and checked for quality 
+● Multi-modal verification: Key decisions have to be checked against different modes 
+and data sources 
+● Domain-specific guardrails: Mission parameters have to limit agent exposure to avoid 
+unsafe action 
+● Graceful degradation: Systems have to deal with data quality problems by 
+autoionizing less instead of carrying on with bad inputs 
+USG Implementation Suggestions 
+To implement these systems effectively, the USG has to take into account the following: 
+● AI development teams paired with committed data engineering teams 
+6 Budach, L., Feuerpfeil, M., Ihde, N., Nathansen, A., Noack, N., Patzlaff, H., Harmouch, H., & Naumann, F. 
+(2022). The Effects of Data Quality on ML-Model Performance. Proceedings of the VLDB Endowment, 14(1). 
+7 
+
+
+●Cross-agency data standards to enable knowledge sharing across different mission
+areas
+●Rich simulation environments modeled from great data for agent testing in a safe and
+controlled environment before deployment
+●Gradated autonomy architectures that enable increasingly autonomous agents as
+performance criteria are achieved
+●Routine adversarial testing to identify potential failure modes before deployment
+The Path Forward 
+The eventual effectiveness of AI systems like the future government relies on holding data 
+infrastructure as mission-critical. Merging reinforcement learning with data-driven and 
+agentic practices allows agencies to create systems that: ●Improve incrementally without compromising alignment with mission goals
+●Learn to adapt to shifting conditions without threatening operational dependability
+●Offer transparent explanation for action required by data lineage
+●Guard against adversarial manipulation through strong validation procedures
+This strategy reorganizes the traditional image of data as a static commodity into data as a 
+dynamic source for more autonomous systems. 
+4. Implement Fine-Grained, Programmatic Evaluation of AI Models
+To ensure AI reliability, adaptability, and mission alignment, the USG must adopt a 
+comprehensive AI evaluation framework that moves beyond static performance benchmarks 
+and enables continuous, mission-driven assessment. 
+Traditional AI evaluation relies on static test sets and one-time SME reviews, which lack the 
+granularity, automation, and mission-adaptive feedback loops required for real-world 
+deployments. Instead, the USG should implement a systematic, data-centric evaluation 
+framework that: ●Continuously assesses model performance across operational scenarios.
+●Use programmatic techniques (e.g., weak supervision, LLM-as-a-judge, fine-grained
+slicing) to identify and correct AI failure modes rapidly.
+●Provides metrics on how well the above programmatic techniques align with SME
+knowledge.
+8 
+
+
+●Establishes continuous, mission-specific AI evaluation pipelines, integrating real-time
+adversarial testing and performance degradation monitoring to ensure sustained model
+integrity.
+V. Conclusion: Data as the Foundation of AI Success
+The future of AI in government and national security depends on how well the USG develops, 
+structures, and governs its data. While past AI initiatives have focused on improving model 
+architectures, real operational impact will come from scalable, transparent, continuously 
+evolving data pipelines. 
+To achieve this, the USG must take immediate action: 
+1.Adopt a Data-First AI Development Framework – AI models can only be effective if
+trained on high-quality, continuously curated, and programmatically adaptable data
+aligned with evolving mission priorities.
+2.Accelerate AI Deployment Through Scalable Data Pipelines – AI must move beyond
+pilot projects. Programmatic data labeling and iterative refinement will enable faster,
+more effective AI deployments across government agencies.3.Embed SME Knowledge into AI Systems – AI systems must integrate subject matter
+expertise into their training data to ensure models remain mission-aligned and
+adaptable.4.Strengthen AI Governance and Evaluation—AI reliability depends on fine-grained,
+programmatic evaluation that ensures auditability, bias mitigation, and real-time
+adaptability to evolving mission needs.
+A data-centric AI approach is not just a technological shift but an operational necessity. By 
+prioritizing scalable data infrastructure, automated governance, and mission-adaptive 
+evaluation, the USG can rapidly transition AI from experimental to operational at scale.   
+At Snorkel AI, we believe that the future of AI in national security and government hinges on 
+a data-first approach, one that prioritizes scalability, adaptability, and governance from the 
+ground up. Our work with leading enterprises and government agencies has proven that 
+programmatic data development is the key to unlocking AI’s full potential while mitigating 9 
+
+
+risk, reducing costs, and accelerating deployment. As AI continues to reshape mission-critical 
+operations, ensuring policies reflect the importance of scalable, high-quality data will be 
+paramount to maintaining our competitive and security advantage. 
+I would welcome the opportunity to serve as a consultative resource in shaping this critical 
+policy and ensuring the U.S. Government has the tools and strategies necessary to lead in AI. 
+If there is a way I can support your efforts—whether through sharing insights, facilitating 
+discussions, or providing technical guidance—I am at your disposal. I’m excited to work 
+together to define a data-first AI strategy that secures the future of our nation’s AI 
+capabilities. 
+Signed, 
+Alex Ratner 
+Founder & CEO, Snorkel AI 
+Affiliate Assistant Professor, University of Washington 55 Perry St 
+Redwood City, CA 94063 
+10 
+
+

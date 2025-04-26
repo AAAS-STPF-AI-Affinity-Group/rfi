@@ -1,0 +1,241 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-cnca-15e9
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1514
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  CrowdStrike
+General Comment
+Please see attachm ent.
+Attachments
+CrowdStrike AI Action Plan Com m ents
+
+
+ 
+REQUEST FOR INFORMATION RESPONSE  
+ 
+DEVELOPMENT OF AN ARTIFICIAL INTELLIGENCE (AI) ACTION PLAN 
+ 
+March 14, 2024 
+ I. INTRODUCTION 
+ 
+In response to the Of ﬁce of Science and Technology Policy’s (“OSTP”) request for 
+information on the development of an Arti ﬁcial Intelligence (“AI”) Action Plan (“AI Plan”), 
+CrowdStrike offers the following views. 
+ 
+We approach these questions from the standpoint of a leading international, 
+US-headquartered, cloud-native cybersecurity provider that defends globally 
+distributed enterprises from globally distributed threats. CrowdStrike offers insights 
+informed by multiple practice areas: cyber threat intelligence; proactive hunting, 
+incident response and managed security services; and an AI-powered 
+software-as-a-service cybersecurity platform and marketplace. Accordingly, this 
+perspective is informed by CrowdStrike’s role in protecting organizations from data 
+breaches and a variety of other cyber threats.      
+II. COMMENTS 
+ 
+We appreciate Executive Order 14179 Removing Barriers to American Leadership in 
+Artiﬁcial Intelligence’s and the OSTP’s following efforts to create a comprehensive AI 
+Plan that promotes innovation. The request for information correctly notes that the 
+intersection of AI and cybersecurity is a relevant and timely topic. AI is evolving at a 
+rapid pace and creating beneﬁts, and considerations of risks, across many sectors and 
+aspects of life. The cybersecurity sector is no different with AI enhancing security 
+capabilities while also creating new threats that require mitigation.   
+ 
+We welcome the opportunity to offer several points that may be of value to the OSTP 
+as it drafts the AI Plan. 
+ A. Cybersecurity and AI 
+ 
+While the public discourse around AI has grown exponentially in recent years, AI in 
+cybersecurity is not a new concept. CrowdStrike has deployed AI at scale across tens of 
+1 
+
+
+ 
+millions of endpoints for prevention, dating back ten years. Other vendors are also 
+experimenting with these tools. As a community, we should continue to leverage AI for 
+cybersecurity use cases.  
+ AI can help improve cybersecurity functions. The use of AI to detect cyber threats is an 
+enormous advantage. Today, security teams demand contextual awareness and 
+visibility from across their entire environments, including within cloud and ephemeral 
+environments, and AI can help defenders process this data and make detections more 
+actionable. AI is the best tool defenders have to identify and prevent zero-day attacks 
+and malware-free attacks, because AI can defeat novel threats based on behavior cues 
+rather than known signatures. AI can also signiﬁcantly reduce response and mitigation 
+times. This is crucial in an era where attacks can spread across networks in seconds. 
+ 
+AI-native tools provide continuous monitoring and automated scanning for security 
+weaknesses, assisting in vulnerability management. It can prioritize vulnerabilities 
+based on real-world threat intelligence, ensuring resources are focused on the most 
+critical issues. Finally, AI-assisted threat hunting enhances the work of human analysts, 
+combining human intuition with AI's data processing capabilities. This synergy allows 
+for more effective and proactive threat hunting. 
+ Leveraging best-in-class cybersecurity technologies deploying AI is essential to 
+meeting constantly-evolving threats. 
+ 
+B. Adversary Use of AI 
+ 
+Unfortunately, AI is also accessible to potential bad actors. Thwarting AI-enabled 
+attacks can start with understanding how adversaries are currently using AI. One 
+concern is that it enables unsophisticated threat actors to achieve nation-state level 
+cyber capabilities in certain contexts. However, at this point, it does not appear to be 
+broadly elevating threats from actors that are already sophisticated. We anticipate 
+further evolution in the use of AI for defensive and malicious purposes over the coming 
+years.  
+ In CrowdStrike’s 2025 Global Threat Report, we examined adversary use of AI, 
+particularly generative AI. Generative AI has emerged as an attractive tool for 
+adversaries with a low barrier to entry that makes it widely accessible. Recent 
+advancements in generative AI have enhanced the efﬁcacy of certain cyber operations, 
+particularly those using social engineering. Adversaries increasingly adopted 
+2 
+
+
+ 
+generative AI throughout 2024, particularly in support of social engineering efforts and 
+high-tempo information operation campaigns.1 Both were supported by generative AI 
+tools that can create highly convincing outputs without precise prompting, custom 
+model training, or ﬁne-tuning.  
+ 
+In order for the U.S. to maintain its AI cybersecurity advantage and stay ahead of 
+adversaries, U.S. public and private sectors must be encouraged to continue innovating. 
+New requirements or regulations should not stiﬂe innovation and new technologies. 
+Regulating AI, and its use, for the sake of the technology rather than its application is 
+not the best approach to foster-innovative solutions to dif ﬁcult problems. As 
+adversaries continue to evolve and ﬁnd new ways to target victims, organizations must 
+increase their emphasis on cybersecurity practices that leverage the most effective 
+technologies - and that includes AI.  
+ 
+C. Protection of AI Systems  
+ 
+The request for information raises the important issue of securing AI systems. In fact, 
+CrowdStrike recently published a blog examining this very issue – protecting AI itself.2 
+While AI is instrumental in protecting data, we must also consider the protection of AI 
+systems themselves, including the importance of avoiding silent failures. The following 
+are principles CrowdStrikes uses to frame our approach in protecting AI systems.3  
+ 
+● Data Operations: Ensuring the integrity of AI models through carefully curated 
+training data. This includes rigorous processes for protecting our corpus against 
+adversarial machine learning attacks. 
+ 
+● Continuous Improvement: Constant re ﬁnement of models to adapt to new 
+threats. Our adversarial pipeline, for instance, allows us to generate new 
+adversarial samples to train our machine learning models, increasing their 
+effectiveness against evolving threats. 
+ 
+● Privacy-by-Design: Developing AI systems with Privacy-by-Design principles in 
+mind. This helps to leverage AI in a manner designed to respect user privacy 
+3 Ibid.  2 The Evolving Role of AI in Data Protection, Drew Bagley and Christoph Bausewein, 
+https:/ /www.crowdstrike.com/en-us/blog/the-evolving-role-of-ai-in-data-protection/  1 2025 Global Threat Report, CrowdStrike, 
+https:/ /www.crowdstrike.com/explore/2025-global-threat-report?tab.consessionscheduledday=17
+30400114135003mEeJ&utm_medium=dir  
+3 
+
+
+ 
+while delivering robust security.  
+ 
+● Transparency and Accountability: Clear documentation of AI systems' capabilities 
+and limitations. This transparency is crucial for building trust with users and 
+complying with emerging AI regulations. 
+ 
+D. Generative AI  
+ 
+There are multiple facets of AI. Traditional AI, including algorithmic machine learning, 
+is widely used today. Generative AI, including Large Language Models (“LLMs”), are 
+increasing in popularity and pose separate but related policy questions. The 
+opportunities and potential risks for each are different. For example, CrowdStrike 
+leverages LLMs to assist analyst workﬂows and to make other security analyst tasks 
+more ef ﬁcient. This capability (coined “Charlotte”) utilizes CrowdStrike’s 
+highest- ﬁdelity security data, which includes the trillions of security events captured 
+in the CrowdStrike Threat Graph, asset telemetry from across users, devices, identities, 
+cloud workloads, and threat intelligence. The use of this knowledge base drives 
+efﬁcacy, actionability, and relevance, as well as addresses the risk of “hallucination.”  
+ 
+Further, the natural language interface seeks to make cybersecurity responsibilities 
+more broadly accessible. Our goal with Charlotte is to help close the cybersecurity 
+skills gap and improve the response time so users can stay ahead of adversaries – 
+boosting security across organizations. Charlotte is transforming the security analyst 
+experience by allowing natural language queries and simplifying complex data analysis, 
+making cybersecurity capabilities more accessible to individuals with less training, as 
+well as making trained analysts more efﬁcient in operating at scale. For example, as 
+security teams race to outpace AI-wielding threat actors, Charlotte saves customers 
+more than 40 hours of manual work per week on average by doing initial detection 
+triage on their behalf, bringing capabilities up to expert-level Security Operation 
+Center (“SOC”) triage speed.4   
+Generative AI, like Charlotte, can help democratize cybersecurity, allowing users of all 
+skill levels to leverage advanced security capabilities. We view this as especially 
+important given the ongoing shortage in the cybersecurity workforce. Today, we see 
+4 CrowdStrike Leads Agentic AI Innovation in Cybersecurity with Charlotte AI Detection Triage, Elia 
+Zaitsev, 
+https:/ /www.crowdstrike.com/en-us/blog/agentic-ai-innovation-in-cybersecurity-charlotte-ai-d
+etection-triage/  
+4 
+
+
+ 
+this use of LLMs as one of the most relevant to improving security outcomes in the 
+near- to mid-term.  
+ 
+E. Privacy and AI 
+ 
+The request for information raises data privacy through the lifecycle of an AI system. As 
+mentioned above, we have incorporated “Privacy-by-Design” principles in our use of AI, 
+from the training data that powers AI models to the queries used to automate 
+productivity.5 While AI is often framed as posing a risk to privacy, it’s important to 
+recognize that AI is critical for protecting data against cyber threats, thereby becoming 
+critical for modern privacy. AI-powered systems can detect and respond to threats 
+faster and more accurately than traditional methods, making them essential in our 
+defense against sophisticated cyberattacks and data breaches. 
+ 
+III. CONCLUSION 
+ 
+We believe the AI Plan will be a thoughtful analysis of a complex, constantly evolving, 
+policy area - AI. As the AI Plan moves forward and evolves, we recommend continued 
+engagement with stakeholders. Finally, because the underlying technologies evolve 
+faster than law and policy, we recommend that any ﬁnal framework focus on principles 
+rather than prescriptive requirements and include a mechanism for periodic revisions. 
+   
+IV . ABOUT CROWDSTRIKE 
+ 
+CrowdStrike  (Nasdaq: CRWD), a global cybersecurity leader, has rede ﬁned modern 
+security with one of the world’s most advanced cloud-native platforms for protecting 
+critical areas of enterprise risk – endpoints and cloud workloads, identity and data. 
+ 
+Powered by the CrowdStrike Security Cloud and world-class AI, the CrowdStrike 
+Falcon® platform leverages real-time indicators of attack, threat intelligence, evolving 
+adversary tradecraft and enriched telemetry from across the enterprise to deliver 
+hyper-accurate detections, automated protection and remediation, elite threat hunting 
+and prioritized observability of vulnerabilities. 
+ 
+5 The Evolving Role of AI in Data Protection, Drew Bagley and Christoph Bausewein, 
+https:/ /www.crowdstrike.com/en-us/blog/the-evolving-role-of-ai-in-data-protection/  
+5 
+
+
+Purpose-built in the cloud with a single lightweight-agent architecture, the Falcon 
+platform delivers rapid and scalable deployment, superior protection and performance, 
+reduced complexity and immediate time-to-value. 
+CrowdStrike: We stop bre aches. 
+Learn more: https:/ /w ww.crowdstrike.com/. 
+CONTACT  
+We would welcome the opportunity to discuss these matters in more detail. Public 
+policy inquiries should be made to:  
+Drew Bagley CIPP /E  Elizabeth Guillot 
+VP & Counsel, Privacy and Cyber Policy          Senior Manager, Public Policy 
+Email: 
+©2025 CrowdStrike, Inc. All rights reserved. CrowdStrike, the falcon logo, CrowdStrike 
+Falcon and CrowdStrike Threat Graph are trademarks owned by CrowdStrike, Inc. and 
+registered with the United States Patent and Trademark Ofﬁce, and in other countries. 
+CrowdStrike owns other trademarks and service marks, and may use the brands of 
+third parties to identify their products and services. 
+*** 
+6 
+
+

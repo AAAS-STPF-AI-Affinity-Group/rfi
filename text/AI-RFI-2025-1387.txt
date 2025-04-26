@@ -1,0 +1,241 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-2k2d-8gsg
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1387
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Telecom m unications Industry Association (TIA)
+General Comment
+See attached the com m ents of the Telecom m unications Industry Association (TIA).
+Attachments
+2025.3.14 TIA AI Com m ents FINAL
+
+
+Before the  
+NETWORKING AND INFORMATION TECHNOLOGY RESEARCH AND 
+DEVELOPMENT (NITRD) NATIONAL COORDINATION OFFICE (NCO), 
+NATIONAL SCIENCE FOUNDATION 
+Washington, D.C. 20024 
+In the Mat ter of ) 
+) 
+Request for Information on the Development  ) Docket No. 90 FR 9088 
+of an Artificial Intelligence (AI) Action Plan  ) 
+) ) 
+COMMENTS O F THE TELECOMMUNICATIONS INDUSTRY ASSOCIATION  
+The Telecom munications Industry Association (“TIA”) appreciates the opportunity to 
+provide comments regarding the Development of an Artificial Intelligence (“AI”) Action Plan. 
+TIA is a U.S. -based trade association and Standards Developing Organization that represents 
+more than 400 trusted, global manufacturers of telecommunications equipment and services. TIA members design, produce, market, and manage the information communications technology (“ICT”) equipment and services that connect Americans to high-speed broadband networks and power artificial intellig ence. TIA supports this effort by NITRD and the NCO to collect input on 
+and develop an AI action plan to support American leadership in Artificial Intelligence. At a high level, our comments are as follows: 
+1.AI demands connectivity: While much of the focus has been on the compute and
+application layers of the AI technology stack, connectivity is at the heart of AI and merits
+significant attention and support.
+2.AI drives connectivity: The telecommunications industry can use AI to drive efficiency,
+improve reliability and security while simultaneously reducing costs, as well as tosupport customers in new ways. These applications are not controversial and do not needto be unduly regulated.
+3.The U.S. government should embrace benchmarking: U.S. Government should use its
+position as a purchaser, developer, and user of AI solutions to leverage commonbenchmarks for AI Data Centers in order to increase reliability, security, efficiency and
+
+
+resiliency. As it does should, it should – in line with guidance in OMB Circular A119 – 
+leverage voluntary consensus standards such as ANSI/TIA-942: Telecommunications Infrastructure Standard for Data Centers.  
+4.The U.S. should lead in global technical standards for AI: Leadership necessitates
+rules that do not interfere with the ability of U.S. entities to participate in internationalstandards development fora, as well as a recognition that the private sector plays theleading role – in partnership with government – in the development of technicalstandards.
+5.Tariffs make American AI more expensive:  While U.S. investments in AI would face
+import taxes, investments made by competitors in the EU, China, or elsewhere would not.This puts U.S. AI at a disadvantage and could promote the offshoring of AI data centers.
+TIA appreci ates that the Administration is engaging with the public in developing this 
+strategy. American AI dominance will necessarily be led by private sector innovation, and the 
+Trump Administration’s AI strategy has a vital role to play in ensuring that that innovation has the environment it needs to prosper.  
+I. AI DEMANDS CONNECTIVITY
+The discussion around AI has focused mainly on Large Language Models (“LLMs”) like 
+ChatGPT and on AI chips from companies like NVIDIA. This focus is understandable – these are novel innovations with a sizeable user base. However, there are many other technologies that are vital to unlocking the power of AI, in particular communications networks.
+ Communications 
+networks are critical drivers of AI innovation and success. They unlock the potential of AI applications by enabling seamless data transmission between devices, cloud platforms, data centers, and edge infrastructure. Since internet connectivity has more history of direct government support and may receive less AI- focused private investment, it may be an area 
+where the federal government can make the mo st difference in terms of unlocking U.S. AI 
+leadership.  
+On the most basic level, access to the internet is fundamental in establishing a customer 
+base for AI products. If a user cannot access the internet, they cannot use AI services. According 
+
+
+to NTIA, 12% of people live in households without internet access.1 These people won’t be able 
+to use AI, which limits the addressable market for AI applications. Government programs like 
+the Broadband Equity Access and Deployment fund have the potential to, if reformed, connect these people to the internet and create new  markets for AI services.  
+Additionally, for many AI applications, customers must have access to very high-speed, 
+low-latency wireless internet. Take the example of autonomous vehicles. While onboard cameras and LiDAR can successfully enable navigation, the ability of vehicles to na vigate the built 
+environment is significantly enhanced through vehicle- to-everything (“V2X”) connectivity that 
+allows the car to receive signals from connected infrastructure, pedestrians, and other vehicles in a manner that surpasses what visual cues can.
+2 However, lag or insufficient bandwidth could 
+potentially impact the safety of the driver, no matter how good the AI chips on board the vehicle might be. This is also true with applications such as Extended Reality (“XR”) that utilize AI and will be very valuable to areas such as medicine, education, manufacturing. XR needs low latency, high bandwidth connectivity to support the immersive experiences is provides. 
+Connectivity can also support a range of business models by shifting the compute from 
+the AI -enabled device into the network. For autonomous vehicles, a significant part of the cost of 
+an autonomous vehicle comes from the fact that each car is carrying around its own computational capacity to support AI applications. In an era of pervasive, high- speed wireless 
+connectivity, that computation can be shifted to nearby data centers where it could be done more cost-effectively. Outside of autonomous vehicles, t here are many IoT applications where space is 
+1 Rafi Goldberg, New NTIA Data Show 13 Million More Internet Users in the U.S. in 2023 than 2021, NTIA Blog 
+(June 6, 2024), https://www.ntia.gov/blog/2024/new -ntia -data- show -13-million -more -internet -users -us-
+2023- 2021 . 
+2 Lawrence Ulrich, To Make Cars Safer, Connect Them to Everything, IEEE Spectrum (May 6, 2024), 
+https://spectrum.ieee.org/v2x -cars . 
+
+
+a constraint (e.g., virtual/mixed reality) and where shifting the computation needed to power the 
+device into the network can make the AI technology commercially viable.  
+In addition to supporting the last-mile connection to the user to support AI applications, 
+networks need robust cable infrastructure to support the increase in the amount of data that needs to transit the network. In many cases, vendors will likely choose fiber optic cables to transmit data to and from data centers given their reliance on fast and reliable data transmission for the delivery of low- latency, real -time applications and services. That dependency will continue to 
+grow as the proliferation of AI and other advanced technologies continues to increase. It is important to remember that wireless solutions also rely extensively on fiber optic cable for backhaul and in the so-called “middle mile” of the network. Fundamentally, a range of technologies will be needed to support AI.  
+II. AI DRIVES CONNECTIVITY
+While AI applications rely on robust networks to ensure a positive user experience, AI 
+can also play a transformative role in enhancing telecommunications networks and operations. According to a survey from NVIDIA, 49% of telecommunications companies are currently using AI, while 97% percent say that they are adopting or assessing AI in their operations.
+3  Service 
+providers are turning to AI to simplify network operations, optimize performance, improve security, reduce energy consumption, and predict and prevent downtime. Machine learning algorithms can analyze vast amounts of data to detect patterns and anomalies in real time and identify and resolve potential issues and threats before they impact consumer services. This proactive approach reduces operating costs and improves overall network reliability.  
+3 NVIDIA Corp., State of AI in Telecommunications: 2025 Trends (2025) https://resources.nvidia.com/en- us-
+ai-in-telco/telco -report -state -o  
+
+
+In the telecom sector, the use cases for AI are non -controversial and do not merit 
+significant government intervention. Current use cases include: 
+1.Customer experience optimization
+2. Network planning and operations
+3.Field operations optimization
+4. Security Customer retention5. Energy conservation and sustainable AI
+4
+The industry is  utilizing AI to create autonomous networks that can self-configure, self-
+optimize, and self- heal with minimal human intervention.5 At the highest levels of autonomy, AI 
+plays a crucial role by enabling the network to manage complex operations, adapt to changes, and ensure continuous performance optimization all on its own. AI can also augment and enhance customer service by leveraging data and analytics, enabling service providers to automate network operations and service assurance, cut costs, increase agility, and boost subscriber experience. AI -driven solutions detect and resolve network, service, and device issues 
+proactively before customers are impacted. They do this by monitoring and troubleshooting network service quality, service usage, and traffic in real -time at a network -wide level down to 
+individual cells for subscribers and devices in mobile and fixed networks. This enabl es the 
+visualization of network performance, providing real- time visibility to subscriber activity across 
+mobile and fixed networks, and enabling operations teams to stay on top of what is happening in the network. 
+4 Ibid.  
+5 TM Forum, Autonomous Networks Projects , https://www.tmforum.org/autonomous -networks -project/  (last 
+visited Mar. 14, 2025).  
+
+
+With these non-controversial, cost-saving, and technology-enhancing AI innovations in 
+mind, TIA recommends that : 
+1. To the extent there are relevant government programs that might be able to leverage
+telecommunications -related AI innovations, they should consider doing so to reduce
+operating expenses and enhance network capabilities.
+2. Given the non-controversial nature of the use of AI in the telecommunications industry,
+relevant U.S. government agencies should refrain from the potential overregulation of
+telecommunications -related AI applications.
+III. USG SHOULD USE ITS POSITION AS AN AI PURCHASER ANDDEVELOPER TO LEVERAGE COMMON BENCHMARKS FOR AI
+Data centers play a crucial role in the success of AI by providing the computational 
+power necessary for AI applications, including large-language models. The construction of data centers is a capital -intensive endeavor, requiring significant investments in spa ce, time, and 
+financial resources. Moreover, data centers are highly energy- intensive, which places a 
+considerable strain on utilities and results in negative externalities such as pollution. According to the International Energy Agency, data centers and data transmission networks currently account for around 1.5% of global electricity use
+6, with some estimates suggesting this figure 
+could rise to 9% by 2030.7  
+To address these challenges, the establishment of common benchmarks for key metrics is 
+essential. These benchmarks can assist both public and private sector consumers in making 
+6 Vida Rozite, Emi Bertoli & Brendan Redienbach, International Energy Agency,  Data Centres  and Data 
+Transmission Networks  (July 11, 2023) https://www.iea.org/energy -system/buildings/data -centres -and -data -
+transmission -networks . 
+7 Electric Power Research Institute, Powering Intelligence: Analyzing Artificial Intelligence and Data Center 
+Energy Consumption, Report No. 3002028905 (2024), 
+https://www.epri.com/research/products/3002028905 . 
+
+
+efficient use of limited resources and reducing energy consumption. As the federal government 
+contemplates setting these benchmarks, it is important to consider existing federal guidance under OMB Circular A-119. This guidance mandates that federal agencies must use voluntary consensus standards (“VCS”) instead of government-unique standards in their procurement and regulatory activities, where suitable standards exist. By leveraging voluntary consensus standards developed by the private sector, the federal government can lower costs and benefit from benchmarks that are widely used by industry. 
+Using VCS standards developed on a consensus basis by SDOs ensures that the standards 
+reflect a broad range of stakeholder input. One such VCS is the ANSI/TIA-942 standard, developed by TIA’s TR-42 Committee. This standard provides a comprehensive framewor k for 
+the design and installation of data center infrastructure, including cabling, cooling, power, architecture, physical security, fire protection, safety, and monitoring. The ANSI/TIA-942 standard ensures consistency across data centers and offers a scalable design that allows data centers to adapt to growth and technological advancements. 
+The ANSI/TIA -942 standard defines four rating categories for redundancy and fault 
+tolerance, enabling organizations to audit and certify their data centers to meet their operational requirements while promoting resiliency. This standard is widely recognized and used, providing a reliable benchmark for data center infrastructure. By adhering to these standards, data centers can achieve a high level of consistency, reliability, and efficiency, which are critical for supporting the growing demands of AI and other advanced technologies. 
+Establishing common benchmarks for data centers is vital for optimizing resource use 
+and reducing energy consumption. Leveraging voluntary consensus standards developed by SDOs, such as the ANSI/TIA-942 standard, ensures that these benchmarks are comprehensive, 
+
+
+widely accepted, and reflective of diverse stakeholder input. As the federal government considers 
+setting these benchmarks, it is important to adhere to existing federal guidance and utilize voluntary consensus standards to achieve cost savings and operational efficiency. By doing so, data centers can continue to support the advancement of AI and other technologies while minimizing their environmental impact.  
+IV. THE U.S. SHOULD LEAD IN GLOBAL TECHNICAL STANDARDS FOR AI
+TIA is an ANSI -accredited Standards Developing Organization (“SDO”) with decades of 
+experience developing technical standards for emerging technologies. Although we are not currently engaged directly in developing standards for AI, our experience developing technical standards is nonetheless relevant as the government considers strengthening American leadership in the development of standards in the AI space. We believe that the Trump Administration is uniquely positioned to help the United States lead the world in terms of voluntary, consensus standards for AI by doing the following: 
+1.Doubling down on private sector leadership in voluntary, consensus AIstandards: Only the private sector has the right combination of expertise and
+commercial interest that will accelerate AI standardization. With this in mind, thegovernment should avoid generating its own government-unique AI standards andrely on a well -developed system of private sector SDOs and consortia that have kept
+the U.S. on the frontier of technological progress. Private sector leadership alsoensures that the best technical sol utions, not the most politically convenient ones,
+win.
+2.The private sector should be present and robustly consulted inbilateral/multilateral engagements: This would correct a worrying trend from the
+
+
+Biden Administration where, for example, Federal government staff worked with 
+European Commission counterparts to develop key terminology and taxonomy for AI without any meaningful consultations with the private sector.
+8 Where such bilateral 
+and multilateral conversations take place on issues that have a disproportionate impact on the private sector, the private sector should be in the room. 
+3.AI technical standards should maximize interoperability, create industry bestpractices, and minimize barriers to trade: For the U.S. to win in AI, it needs to
+lead a global market. With this in mind, the government should ensure that AIstandards focus on addressing real technical challenges and are not misused to limitU.S. companies from accessing global markets or vice versa. Where foreigncompanies use technical standards as technical barriers to trade, the Office of theUnited States Trade Representat ive should work to hold them accountable.
+4.USG should avoid limiting U.S. participation in AI standards:  The U.S. needs to
+be at the table to win the game in terms of AI standards. Technology controls – ifimproperly scoped – might inadvertently limit the ability of U.S. companies toparticipate in and influence international standards. Worse, such rules woulddisadvantage U.S. companies by leaving the space open for companies from othercountries to drive the standards development processes. While there are legitimateconcerns with respect to controlling specific AI applications, those are fundamentallyseparate from standardization, and the government should pursue them usingappropriate tools and controls. In support of this, we recommend maintaining theCommerce Department’s existing approach wit h respect to the application of the
+8 European Commission, EU -U.S. Terminology and Taxonomy for Artificial Intelligence (May 31, 2023) 
+https://digital -strategy.ec.europa.eu/en/library/eu -us-terminology -and -taxonomy -artificial -intelligence  
+
+
+Export Administration Regulations to standards development outlined in 89 FR 
+58265. 
+5.Make targeted investments in R&D: Congress can do so by restoring the ability of
+companies to immediately expense R&D for the R&D tax credit, allowing them tosupport further AI standards-related R&D. The government can also move towardimplementation of Section 10245(d) of the CHIPS and S cience Act, which supports
+small businesses and SDOs with grants they can use to support AI standardization.
+9
+By taking these  steps, we believe that the Administration has an opportunity to ensure 
+that the U.S. is at the forefront of global efforts to develop voluntary, consensus standards for artificial intelligence.  
+V. TARIFFS MAKE AMERICAN AI MORE EXPENSIVE
+TIA believes the United States of America should lead the world in Artificial 
+Intelligence. That means America needs to make significant investments in U.S. -based data 
+centers as we race against China, Europe, and other countries to build the connectivity and computing backbone that AI needs to thrive. These data centers will require high- performance 
+computing equipment, advanced data storage systems, networking equipment supported by fiber optic cables, and power and cooling solutions. 
+The majority of this equipment – with the notable exception of some fiber optic cable – 
+will need to be imported from abroad. It is not feasible to shift manufacturing for many of these products to the United States in the short term. Assuming everything goes right, it takes 3 – 4 years to build a semiconductor fab, and many of the investments in this field remain in a nascent 
+9 CHIPS and Science Act, Pub. L. No. 117- 167, [§ 10245(D) ] (2022).  
+
+
+state.10 Even if some companies are able to shift final assembly to the U.S. for key equipment, 
+they may still face duties on components that go into those finished products. The result will 
+necessarily be that it becomes more expensive to build AI data centers an d other key AI 
+infrastructure in the United States, a problem that our competitors, whether they are China, Europe, or any other country, will not impose on themselves.  
+We understand and appreciate the goals that the Administration has with respect to 
+reshoring U.S. manufacturing, securing the border, and eliminating the illicit trade in fentanyl. To ensure that the Administration can make progress with respect to these broad goals – while at the same time limiting the impact on AI investment – the Administration could consider up-front 
+exclusions for key AI-related imports, such as telecommunications equipment, GPUs, and other products. Alternatively, the Administration could establish a broader exclusion process for duties that includes the consideration of three factors: 
+1.Whether the product can feasibly be made in the United States on reasonable commercial
+terms;
+2. Whether the product is an intermediate input into products subsequently manufactured in
+the United States and
+3. Whether the imposition of additional duties on the particular product would cause severe
+economic harm to the requestor or other U.S. interests.
+An exclusion proc ess should be improved with respect to the process and the criteria
+used. This would build on prior practice from the first Trump Administration, wherein USTR 
+wisely established a similar exclusion process to mitigate the impact on key ind ustries and 
+consumers.11   
+VI. Conclusion
+10 Intel Corp., What does it take to build a fab? (2022) 
+https://download.intel.com/newsroom/2022/manufacturing/fab -final -static.pdf  
+11 84 FR 25895  
+
+
+AI will be essential to the United States economy as we approach potential technological 
+leaps that promise to dramatically expand productivity, reshape entire industries, and create new 
+products and services that have yet to be imagined. The Trump Adminis tration, with its bold 
+focus on de-regulation and private sector partnerships, is uniquely suited to help unlock the coming waving of AI innovation. As it does so, we believe that including a strong focus on telecommunications networks, leveraging common benchmarks for data centers such as TIA -
+942, promoting private- sector standards leadership, and limiting the impact that tariffs for AI 
+products  will help turbocharge AI innovation. We appreciate the consideration of our comments and stand ready to work wi th the Trump Administration as it moves forward with its AI Action 
+Plan.  
+Signed, 
+Patrick Lo zada 
+Director, Global Policy  
+TELECOMMUN ICATIONS INDUSTRY 
+ASSOCIATION  
+1201 Wilson Boulevard, Floor 27 
+Arlington, VA 22209 
+Filed: 3/14/2025 
+Required st atement:  
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution. 
+
+

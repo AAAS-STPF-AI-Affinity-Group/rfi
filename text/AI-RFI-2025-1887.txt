@@ -1,0 +1,201 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-c4w5-3d6y
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1887
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  OHSU
+General Comment
+Dear colleagues:
+On January 23, 2025, President Trum p signed Executive Order 14179, “Rem oving Barriers to Am erican Leadership in Artificial
+Intelligence,” to establish U.S. policy for sustaining and enhancing Am erica's position as a leader in AI through the developm ent of an AI
+Action Plan focused on on hum an flourishing, econom ic com petitiveness, and national security. At the invitation of the Office of Science
+and Technology Request for Inform ation, we are writing to share policy ideas for the AI Action Plan with a focus on im proving Am erican
+com petitiveness, health and healthcare. 
+We recom m end three key actions to support responsible AI developm ent and adoption in healthcare: 1) a Foster strong partnerships
+between health system s and AI developers to build trust, im prove accuracy, and ensure continued innovation.; 2) Make high-quality
+benchm arking datasets—such as those from  Bridge2AI—widely available for m odel training and carefully controlled for realistic testing.;
+3) Apply the sam e security, privacy, and transparency standards to both AI developers and the health system s that use their technology.
+These steps will help create a robust, trustworthy AI ecosystem  that accelerates innovation, strengthens m arket com petitiveness, and
+delivers m eaningful benefits to patients and healthcare providers.
+We have attached a file with details.
+Sincerely,
+David Dorr, Shannon McWeeney, Bridget Barnes, Paul Allen, Robin Cham pieux, and Karen Eden; Oregon Health & Science University
+Attachments
+AI_RFI_response_OHSU
+
+
+March 14, 2025
+OHSU response to Federal Government AI Request for Information  
+Dear colleagues:
+On January 23, 2025, President Trump signed Executive Order 14179, 
+“Removing Barriers to American Leadership in Artificial Intelligence,” to establish 
+U.S. policy for sustaining and enhancing America's position as a leader in AI 
+through the development of an AI Action Plan focused on on human flourishing, 
+economic competitiveness, and national security. At the invitation of the Office 
+of Science and Technology Request for Information, we are writing to share 
+policy ideas for the AI Action Plan with a focus on improving American 
+competitiveness, health and healthcare.  
+We recommend three key actions to support responsible AI development and 
+adoption in healthcare: 1) a Foster strong partnerships between health systems 
+and AI developers to build trust, improve accuracy, and ensure continued 
+innovation.; 2) Make high-quality benchmarking datasets—such as those from 
+Bridge2AI—widely available for model training and carefully controlled for 
+realistic testing.; 3) Apply the same security, privacy, and transparency 
+standards to both AI developers and the health systems that use their 
+technology. These steps will help create a robust, trustworthy AI ecosystem that 
+accelerates innovation, strengthens market competitiveness, and delivers 
+meaningful benefits to patients and healthcare providers.  
+1.Model development
+Models need realistic, representative data to be effective Health data is 
+constrained by privacy needs, limiting its accessibility for innovation. To 
+address this, the U.S. should invest in more open, AI ready datasets 
+available to US citizens, fueling advancements while maintaining strong 
+privacy protections. The Bridge2AI program is an excellent example of 
+the generation of these datasets and is ready to generate more effective 
+models. Additionally, strengthening partnerships between health systems 
+and AI developers will help the U.S. maintain its competitive edge. These 
+collaborations ensure that models are trained on substantial, high-quality 
+data and receive the necessary support for safe and effective 
+development. Given the complexity and variability of health data, 
+continuous fine-tuning is essential. To promote responsible adoption, 
+mechanisms for assessing model safety should be in place, enabling 
+health systems to confidently integrate AI innovations.  
+2.Application and use
+The rapid advancement of AI models has already led to 
+significantinvestment, over $30b in the health sector alone. However, as 
+with model development effectively using these models to drive 
+efficiency and improved health outcomes requires partnerships between 
+model developers and health systems.The ARPA-H initiative known as 
+PRECISE-AI intends to accelerate this innovation by addressing issues 
+of trust, uncertainty and model performance in real-world settings. 
+Assuring models are fair, accurate, valid, effective, and safe is necessary 
+to drive uptake and use of AI and ensure a return on investment. 
+Investing in approaches that drive this uptake is crucial to achieve the 
+value from AI, including a substantial transformation of health care to be 
+Center for AI-enabled 
+Learning Health Science 
+(CAILHS)
+Division of Informatics, 
+Clinical Epidemiology and 
+Translational Data Science
+Mail code BICC
+3181 SW Sam Jackson Park Rd
+Portland, OR 97239-3098
+tel 
+fax 
+David A. Dorr, MD, MS
+Professor, CAILHS co-director
+And Chief Research Information 
+Officer
+Jeff Gold, MD
+Professor, CAILHS co-director
+And Associate Chief Health 
+Information Office
+
+
+more person-centered and efficient.  A fundamental issue for AI models is reliability and accuracy: 
+ongoing use requires trust, and unknown errors raise significant liability concerns for the companies. 
+Partnering with health systems, especially those with an academic component, will improve both trust 
+and reduce liability. Encouraging these investments through government programs and regulations will 
+ensure we retain a competitive advantage. Patient safety is a crucial consideration: models must be 
+tested carefully in the real world to ensure ongoing safety. Expectations for ongoing evaluation and 
+surveillance should be set.  
+3.Explainability and assurance of AI model outputs
+For AI models to be widely adopted and deliver value, they must be explainable and trustworthy. 
+Without confidence in their outputs, both financial investments and America’s competitive advantage in 
+AI risk being lost. Explainability is key not only for trust but also for maximizing the return on investment 
+in AI development and implementation. As mentioned earlier, PRECISE-AI intends to enhance this trust 
+by supporting efforts to assure model outputs through benchmarking and increase explainability and 
+assessment of uncertainty through additional algorithms intended to both explain and quantify potential 
+errors in the models. Without sustained investment in these efforts, the U.S risks falling behind in AI 
+innovation and adoption  
+4.Cybersecurity
+The impact of cybersecurity cannot be understated: efficient and effective ways to protect the privacy 
+and security of patient data have to be implemented widely. However, current security requirements 
+ask the impossible of health systems: to both completely protect data from any future breach and make 
+the data available to models. Instead, trusted networks and pipelines for data to flow to AI/ML 
+algorithms are required. To achieve this goal, a pragmatic approach to security is required. 
+Foundational elements related to AI security should be applied evenly across the industry; currently, 
+there are substantial differences in security requirements between HIPAA entities and non-HIPAA 
+entities, such as AI companies. In addition, the increasing FEDRAMP requirements for security 
+standards are a substantial burden and cost when they are applied to health systems; a pragmatic 
+approach to the application of standards that doesn’t increase cost and unnecessary burden would be 
+helpful.  
+5.Data privacy and security throughout the lifecycle of AI system development and deployment (to
+include security against AI model attacks).
+Collaborative agreements with innovative companies and health systems will inevitably require cloud-
+based exchange of information and model results. Specifically, standard language to address the risks 
+and benefits of this exchange will improve the ability of institutions to test and implement new 
+innovations for the benefit of all. Organizations that uniformly explain the risks and benefits to people 
+seeking care should receive legal protection against risks, especially when they are incurred by the 
+company that is creating or implementing models. This will ensure the ongoing development and 
+implementation of models while balancing risks and to whom they accrue.  
+6.Regulation and governance
+To have efficient and effective governance, regulations must set boundaries. A primary example is 
+asking AI innovators to be transparent in how their model was built and tested, including known errors. 
+Guidelines for governance should be set: in this way, organizations can work together to understand 
+the foundation for governance. In addition, an industry can develop to make governance more cost-
+effective, especially for small hospitals and other care settings. Each organization and locality should 
+define their own governance approach based on these guidelines. An effective governance model 
+identifies the risks, benefits, implementation plan, and evaluation needed for local implementation. 
+Support and guidance should be provided to enable these organizations to develop their own 
+governance for the implementation, with an open and transparent exchange of best practices. Patients 
+seeking care at health institutions should be informed about AI use and allowed to make their own 
+decisions about the potential benefits and risks.  
+7.Technical and safety standards
+Standards for AI development, testing, and implementation should be established. HTI-1 and HTI-2 
+represent a fair foundation for describing the use of decision support interventions, including AI. These 
+modest standards – a ‘model card’ approach to describing the algorithms and how they are used will 
+allow all people to evaluate how this model may be valuable to them.  
+8.Research and development
+
+
+Industry-driven AI development has produced groundbreaking tools, but successfully integrating them 
+into healthcare requires alignment between informatics, implementation science, and incentives. 
+Encouraging an AI-enabled learning health system approach will accelerate research and development 
+while ensuring the U.S. maintains its competitive advantage.  Strong partnerships between AI 
+developers and health systems are essential for fine-tuning models and maintaining quality over time. 
+Without ongoing collaboration, AI models risk degradation as data shifts and algorithms evolve.  
+9.Education and workforce
+AI tools appear to work exceptionally well but can contain significant errors. To ensure their safe and 
+effective use, healthcare professionals must develop strong critical thinking skills to recognize and 
+mitigate these errors.  As AI becomes more integrated into healthcare, problem-solving and analytical 
+reasoning will be even more essential.  
+Health education should evolve to reinforce these skills, ensuring that assessments and training 
+emphasize critical thinking in the context of AI decision-making. By doing so, we can better prepare 
+future healthcare professionals to navigate AI-driven tools with confidence and sound judgment.  
+10.Innovation and competition
+Fundamentally, retaining the innovative edge in America requires ongoing, continued support and 
+evaluation. Reducing investment in research will limit the impact of AI models in health, as trust will 
+continue to be eroded and any errors will put industry at risk from lawsuits. To accelerate innovation, 
+direct support must be provided to cross-sector teams that implement robust and rigorous evaluations 
+of the tools and monitor trust.  
+If there are additional questions, we are available at the submitting address.  
+Robin Champieux, MLIS  
+University Librarian  
+Associate Professor  
+Bridget Barnes, MBA, Ph.D.  
+Senior Vice President & Chief Information Officer  
+Karen Eden, PhD  
+Professor 
+Shannon McWeeney, PhD  
+Professor and OHSU Knight Cancer Institute Chief Data Officer 
+
+
+David A. Dorr, MD, MS
+Professor of Informatics, Clinical Epidemiology, and Translational Data Science
+Professor of General Internal Medicine/Geriatrics
+Chief Research Information Officer
+Paul Allen  
+Vice President & Chief Data Officer  
+
+

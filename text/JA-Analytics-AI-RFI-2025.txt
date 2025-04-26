@@ -1,0 +1,75 @@
+1 
+  
+ 
+Comments on  the US  AI Action Plan 
+Alan F. Karr and Jeanne Ruane  
+March 1 4, 2025 
+ 
+The United States must take the scientific and ethical high road as AI permeates every 
+aspect of society. The collective consequences  of AI  are massive, but are dwarfed by the 
+impact on real people’s lives. T here must be paths for informed, impartial input from not 
+only the research community  but also  the public at large.  We are members of both.  
+We are specifically concerned about the quality of data used to train AI models . Many 
+models indiscriminately devour data of unknown and probably unknowable quality, 
+seemingly hoping that “truth will out” in the end. Metadata, if they exist, are often ignored, 
+to the point that it may not be known whether variables are measured, impute d, or the 
+result of statistical modeling. The re is no version control for data: who changed what, 
+when, and why is  rarely  recorded. Paradata (data about the data collection process) are 
+nearly universally absent. Ontologies for data quality do not exist.1 
+But do we know that training data quality matters? In the example below, we show that it 
+does, sometimes dramatically. And this is in a constrained scientific conte xt with well -
+understood, transparent AI models —in  this case, statistical classifiers. As responsible 
+scientists, we must assume that the situation is worse for large, opaque AI models.  
+Here briefly, is one example from research we are currently conducting. The problem, 
+which is classical in structure, is to classify short DNA reads produced by next generation 
+sequencers as having arisen from one of three candidate genomes. This is a cent ral step in 
+metagenomic assembly. The three genomes, downloaded from NCBI, are an adenovirus genome, an early (2020) COVID genome and a SARS (-CoV -1) genome. The reads are 
+simulated Illumina reads of length 101  from each of the genomes . Four classifiers wer e 
+employed, a naïve Bayes classifier, a neural net, a partition model , and a random forest 
+model, all using triplet distributions as predictors. The mo dels  are adjusted to protect 
+ 
+1 One notable exception is the Total Survey Error (TSE) paradigm. See for example, P. Biemer, et al. (2017) 
+Total Survey Error in Practice, Wiley, New York, to which one of us (AFK) was a contributor. 
+JA Analytics & Insights, LLC  
+Philadelphia, PA 19103  
+info @ja -analytics- insight s.com  
+
+2 
+ against  over -fitting. The training dataset contains 5869 reads, and there is an 
+independently generated validation dataset of size 6000. In both, the numbers of reads 
+from each genome are approximately equal.  
+In general, measuring, let alone improving, data quality is expensive and/or impossible. In 
+our experiments we employ the strategy articulated in A. F. Karr, et al. (2022) , Measuring 
+quality of DNA sequence data via degradation (2022). PLoS ONE . DOI: 
+10.1371/journal.pone.027197. But, w e do know how to degrade data quality, in this 
+instance by mimicking nature: we simulate single nucleotide polymorphisms (SNPs). 
+Crucially, high -quality data are demonstrably more fragile than low-quality data.  
+Our experiments consist of increasingly degrading the training data, refitting the models 
+and assessing effects o n the validation dataset. Here is one illustrative result, showing 
+performance of the four classifiers as the degradation (parameterized by the SNP probability) increases.  The response is the number of correctly classified reads.  
+ 
+ 
+
+
+3 
+ While the gradual decrease in performance was anticipated, the phase transition in the 
+vicinity of SNP_Probability = .75 was not. The same happens for the congruence among the 
+classifiers, as shown below.  In this case, for SNP_Probability < .75, the congruence results 
+from the four models  being mostly, albeit decreasing, correct. For SNP_Probability > .75, 
+they agree again,  but because they are wrong in same way.  
+ 
+Our point, then,  is straightforward: if these kinds of things can happen in  simple 
+situations,  the Action Plan dares not ignore them in complex situations.  
+Secondary Comment:  Nor, we add, do most AI models provide actionable information 
+about uncertainties in the results they deliver. The same research mentioned above has 
+led to surrogate measures of uncertainty for cases where the input space is a graph, which 
+it is in the case at hand. In particular, classifier boundaries, where graph neighbors are 
+classified differently , are complex, high-dimensional and ubiquitous. In the example 
+discussed above, they too change rapidly at SNP_Probability = .75.  
+***************** 
+Required Disclaimer:  This document is approved for public dissemination. The document 
+contains no business -proprietary or confidential information. The document contents may 
+be reused by the government in developing the AI Action Plan and associated documents 
+without attribution.  
+
+

@@ -1,0 +1,278 @@
+March , 2025 
+AI Action Plan 
+Attn: Faisal D’Souza  
+NCO 
+2415 Eisenhower Avenue 
+Alexandria, VA 22314 
+Subject: AI Action Plan Request for Information 2025-02305 (90 FR 9098) 
+Dear Sir 
+We are writing in response to the RFI published on behalf of the Office of Science and 
+Technology Policy (OSTP) on the Development of an Artificial Intelligence (AI) Action Plan. 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution. 
+Alignment AI is a company focused on the governance, risk management, measurement, 
+and transparency for the use of AI in healthcare. Alignment AI works with both healthcare 
+AI developers, and healthcare AI procurers/implementors/users on matters including 
+certification, accreditation, governance development, risk assessment, and measurement 
+of AI.  
+We offer comments on the following topics raised by the RFI. 
+General Comments 
+Healthcare offers a more fraught environment for the use of AI than many industry 
+sectors. It offers not only the challenges of trust, privacy of personal information, validity, 
+appropriateness, and fairness of AI present in most, but it has additional profound 
+concerns that accrue to patient safety. In many healthcare use cases, the role of AI is to 
+support clinical decision makers often in critical or emergency care situations. Healthcare 
+has used clinical decision support algorithms for decades based on more predefined 
+reference data-driven models that have been developed based on empirically researched 
+protocols and clinical trials. Unlike these models, the use of AI that can learn and adapt 
+asks for new approaches to be taken to ensure they stay true to the intended purpose of 
+use, and adaptations based on new learning are treated with appropriate rigor to assure 
+the AI continues to perform in manners that are valid, safe, and accurate. Our concern is 
+especially to argue for the adoption of robust governance models predicated on a 
+risk-based approach to ensure that AI can be used safely with sufficient transparency to 
+enable implementors and users to understand how they have been designed, tested, and 
+deployed.  
+Use 1 
+
+
+AI represents an evolution of the use of decision support algorithms in healthcare that 
+have long been used to represent the application of empirical best practices for supporting 
+clinical decision making. Healthcare information technology (HIT) developers have been 
+working to respond to the need for reliable, transparent, effective, and safe AI 
+applications to support use cases for clinical, financial, and operational needs. AI 
+procurers/implementors need to be able to understand how the AI they place into use has 
+been designed, developed, trained, and tested. They need to understand as the AI models 
+evolve how they do so with fidelity to intended use, and that modifications are subject to 
+the same rigor as original development. Users need to be able to have transparency into 
+how the AI algorithms function. There is not a current par level of such requirements 
+across all AI use cases within healthcare. Instead, there is partial coverage offered by 
+regulation between the guidance  published by the Food and Drug Administration (FDA) for 
+software as a medical device, and the Office of the National Coordinator for Health 
+Information Technology (ONC) in its HTI-1 final rulemaking which adopted a set of 
+requirements for HIT and AI developers seeking certification with the ONC. However, HIT 
+of other kinds such as for use in revenue cycle processes and operational processes or by 
+payers and providers who are not required to use Certified EHR Technology (CEHRT) may 
+be using AI not bound by such requirements. 
+The healthcare vertical needs a common baseline approach to provide transparency into 
+how the AI was designed, developed, trained, and tested, and what kind of risk 
+management approach was taken to support assurance of performance. Implementors 
+and users need to be able to have the same expectation for transparency no matter the 
+type of use case at hand, and regardless of whether current regulation demands it of the 
+developer. Whether this is through a federally driven regulatory approach or through 
+development of industry best practices that form a code of conduct for governance based 
+on standards such as ISO 42001:2023 , we believe that such requirements should be 
+supported by this Administration for healthcare to set a baseline for AI developers and 
+adopters alike to expect as a minimum bar to support insight into the transparency of the 
+AI that is procured and used.  
+Explainability and Assurance of AI Development and Deployment 
+Significant to the matter of providing transparency into healthcare AI is how it supports 
+and stays accurate to its purpose of use. The current ONC regulations require that 
+certified HIT developers identify any source data attributes that serve as inputs into a 
+given algorithm’s processing, and source reference information into the logic of the 
+algorithm. The requirements also require information to be shared by the developer as to 
+how the AI was trained, what kind of considerations went into the design of the training 
+data set, how the AI was tested, and how representativeness was preserved through the 
+AI’s development to assure it held fidelity to its purpose. Healthcare is unique in that the 
+concerns for patient safety must always be met, which introduces a real human impact 
+that may not be present in a lot of other industries. The reliability, validity, and efficacy of 
+AI in terms of the impact on patient safety is top of mind. This means that the design and 
+performance of the AI must be understood by procurers and implementors to make good 
+decisions about introducing any given algorithm into use in a safe, reliable manner. The 
+risks to safe and effective AI use are too great not to have strong governance and 
+measurement systems in place. 
+
+
+To exemplify the points above we offer a couple illustrative examples. ALIGNMT AI, 
+through programmatic red-teaming, identified a critical flaw in an ambient AI solution that 
+mistakenly transcribed patient consultations as if a procedure had been performed, rather 
+than merely discussed. Similarly, ALIGNMT AI discovered a design pattern in an ambient 
+AI solution that prevented the summarization of objective clinical findings, leading to 
+medical charts missing clinical encounter data required for risk-adjustment. 
+Mitigating risks in healthcare requires a strong, risk-based governance framework for both 
+AI developers and implementers. This recommendation is an element of both the FDA and 
+the ONC regulatory approaches for AI for the medical devices and software products for 
+which they have regulatory purview. For the developer, the interest is in assuring that the 
+AI remains of fidelity to its purpose of use throughout the development lifecycle, and that 
+what has been done to engage in risk management to assure AI performance is 
+understood by procurers and users. For the implementor, this means that they have 
+established a firm strategic purpose of why they seek to adopt AI, how they are going to 
+measure its performance to assure not only that it supports its purpose of use, but also 
+that any potential risks to patient safety are evaluated on a continuous basis. To establish 
+this, information such as what ONC requires be provided by certified HIT developers must 
+be made available to implementors to design and develop their own AI governance and 
+risk management approaches.  
+Healthcare providers like integrated health systems already have in place policies, 
+procedures, and practices for governance and risk management in areas such as clinical 
+research, cybersecurity, medical staff credentialing, and similar demands. The use of AI 
+represents another key area of requirement that necessitates transparent inputs, and 
+measurement systems. Implementors should be urged to connect their AI risk 
+management approaches to the same approaches they use for similar needs across the 
+enterprise. 
+In the real world, AI risk-mitigation platforms like ALIGNMT AI have started to support the 
+FAVES framework—Fairness, Appropriateness, Validity, Effectiveness, and 
+Safety—originally required by the ONC. This framework ensures that AI systems in 
+healthcare are equitable, clinically relevant, scientifically sound, impactful, and secure, 
+aligning with regulatory expectations and best practices for AI management during pilot 
+and post deployment in clinical settings. 
+We urge the Administration to consider how it can set the expectation with AI developers 
+and procurers/implementors to develop governance and risk management approaches 
+that depend on transparent sharing of information about AI required to build a sound 
+foundation of trust and awareness of AI performance. This should start with continuing to 
+support what has been done under ONC’s HTI-1 rule, urging the adoption of a common 
+floor across areas of the industry that may not be subject to federal regulation where an 
+industry driven best practice is in order, and to strongly support the need to develop 
+measurement capabilities to support continuous monitoring of AI performance similar to 
+the FAVES approach adopted by ONC. 
+Risks 
+
+
+In its framework of requirements for healthcare AI, ONC leveraged the concepts of FAVES 
+(Fair, Appropriate, Valid, Effective, and Safe) to describe the risk areas that are of high 
+concern to healthcare uses of AI. Each of these represents an area of material risk for 
+what may go wrong with AI and are risks that undermine AI’s use in healthcare.  
+By implementing a risk management framework, healthcare enterprises can proactively 
+mitigate AI risks—ensuring AI models are validated, appropriately deployed, and 
+continuously monitored to protect patient safety and promote equitable, effective care. We 
+offer below a few examples illustrating the types of risks that can be detected by the 
+FAVES framework: ●Fairness – A predictive readmissions model may systematically underestimate risk
+for Black and Hispanic patients due to historical disparities in healthcare access,
+leading to inequitable allocation of preventive resources.
+●Appropriateness – An AI sepsis detection tool designed for ICU patients might be
+applied in general hospital wards without validation, triggering false alarms or
+missed diagnoses in lower-acuity settings.
+●Validity – A breast cancer screening AI trained primarily on data from Caucasian
+women may fail to detect cancer as accurately in Asian or African American women,
+leading to misdiagnoses.
+●Effectiveness – An AI-powered chatbot for mental health screening may perform
+well in controlled studies but fail to engage real-world patients effectively, leading
+to low adoption and missed opportunities for early intervention.
+●Safety – A robot-assisted surgical system with AI-driven guidance could
+misinterpret anatomic structures due to poor image quality, increasing the risk of
+surgical errors.
+AI use may be impacted by the risk that the AI was developed given a limited training 
+data set that does not support extension to a patient population that is dissimilar to that 
+represented by the training data set. Without good oversight and understanding to 
+monitor performance in production use, AI may not provide fair outcomes for a patient 
+population that differs in its demographic makeup from that which informed the training 
+database. Bias in the outcome can result. 
+Similarly, if the AI is adapted for use to solve for clinical conditions that vary from the 
+original purpose of use, or for a patient population that differs in its composition from that 
+which it was trained upon, it may experience “drift” from its purpose of use that renders it 
+inappropriate to be used the way the implementor intends. Without the ability to measure 
+such drift and again lacking in understanding as to the AI’s original design and intended 
+purpose, the AI may not be appropriate to be used in the manner attempted. 
+The AI may also be at risk for reaching incorrect or inaccurate conclusions for the intended 
+purpose. If the production use experience differs because of the types of issues that come 
+from deviating from the intended patient population or from the clinical use cases for 
+which it was designed, inaccurate outcomes could result from hallucination of the AI.  
+Any of these issues can render the AI to be ineffective for its intended use. If it is being 
+used for a purpose deviating from its intended use, for a patient population not 
+
+
+represented by its training, or using inputs it has not been trained to encounter, the 
+effectiveness of the AI may be undermined.  
+Finally, the accumulative effect of any of these risk areas endangers patient safety or 
+introduces potential for detrimental effects on those individuals who are subjects of its 
+processing.  
+Without measurement systems that are designed to monitor AI performance against risk 
+areas represented by the FAVES when those risks are inadequately defined, the realization 
+of those risks in adverse ways is likely and especially problematic given the overriding 
+concern for patient safety.  
+We urge the Administration to take the lead in emphasizing the significance in designing 
+governance, risk management approaches, and measurement of AI performance informed 
+by design principles such as the FAVES to instill confidence and assurance into the use of 
+AI. We urge a harmonization of approach between the FDA and ONC, and a collaboration 
+with the healthcare industry to extend these principles and requirements into industry 
+best practices such that no matter the intended purpose of the AI, whether clinical, 
+operational, administrative or financial, there is a par level of requirement for supporting 
+sound AI risk management. 
+Data Privacy and Security 
+Corollary to the risk areas represented by the FAVES are risks that accrue to the privacy 
+and security of the data sets used to train and test AI as well as the integrity of the AI 
+algorithms themselves. The Administration should support efforts to require the use of 
+de-identified data sets for training and testing purposes where such data sets may be 
+developed derived from identifiable personal information. For healthcare, the 
+Administration should develop guidance outlining how HIPAA Security and Privacy rules 
+apply to the systems and data sets that underlie AI development, deployment, and use. 
+Beyond the risks that may accrue from handling identifiable personal electronic health 
+information, there are risks to adulteration of the AI algorithm itself by hostile actors 
+using malware or other cyberattack methods as well as denial of service attacks against 
+environments that support AI provision as software as a service. In the new proposed 
+HIPAA Security Rule , HHS proposes that covered entities must test their cybersecurity 
+methods such as encryption on a regular basis to assure contemporary capabilities are 
+maintained to ensure continued effectiveness for the purpose intended. We urge the 
+Administration to support similar approaches for the security of healthcare AI especially 
+should this rule be made final and include proposed requirements such as removing the 
+addressable nature of encryption. This may include providing guidance to reinforce with 
+covered entities and business associates that the requirements of any final Security Rule 
+from the current rulemaking extends to healthcare AI as “technology assets” as defined in 
+the proposed rule. This would help raise the significance and clarity of how AI is included 
+in the inventory of technology assets as systems that are material to HIPAA Security Rule 
+compliance. Healthcare AI bears a high degree of relevance to the “confidentiality, 
+integrity, and availability” of electronic personal health information.  
+Regulation 
+
+
+We have observed that there is a need for a sound consistent set of regulating principles 
+for AI use in healthcare, to help enterprises who are now struggling to comply with a 
+myriad of rules emerging at the state level. We are not suggesting that it must be 
+achieved solely through federal regulation. However, we argue for preserving the current 
+regulatory framework established by the ONC for AI use in decision support. We also 
+argue for this Administration to take the lead in strongly encouraging industry best 
+practices built on the approaches taken by the ONC to inform industry codes of conduct 
+for developers, and by international standards such as the ISO standard referenced earlier 
+on the matter of building governance frameworks for the oversight of AI. Further, we urge 
+the Administration to consider how these can extend to the procurer/implementor of 
+healthcare AI to help inform a framework for how they may in turn develop sound 
+governance practices consistent with industry standards. The Administration should 
+require these kinds of practices to be in evidence in federal contracting for AI across the 
+board, and specifically to healthcare, adopt as requirements the need for contractors to 
+prove they have in place robust systems of governance and measurement of AI 
+performance.  
+ISO standards can play a key role in guiding AI procurement in healthcare and use 
+without requiring additional federal regulation. ISO frameworks, such as ISO 42001 (AI 
+Management Systems) and ISO 23894 (AI Trustworthiness), offer structured, 
+internationally recognized methodologies for assessing and mitigating AI risks—making 
+them valuable tools for healthcare enterprises and AI developers alike. 
+Furthermore, positioning ONC as the leader in AI oversight for the healthcare industry, 
+rather than the FDA, aligns well with ONC’s broader scope of AI in healthcare beyond just 
+medical devices. The ONC’s approach to algorithmic transparency, data quality, and 
+real-world performance validation is more adaptable for AI-driven decision support tools, 
+clinical workflows, and administrative automation. This could foster an AI 
+innovation-friendly ecosystem with clear but flexible governance standards rather than 
+strict regulatory mandates. 
+Outside of federal-sponsored certification programs, AI risk-adjustment companies like 
+ALIGNMT AI work with the industry on voluntary certification of AI best practices. For 
+example, ALIGNMT AI partners with Drummond Group (a certification agency) to help AI 
+developers certify to  an independent benchmark for AI governance best practices. While 
+this helps AI developers demonstrate compliance with AI best practices and standards, it 
+also helps showcase to the implementors of AI the reliability of the solution they are 
+looking to purchase. 
+Governance 
+We have recommended that the Administration support robust governance practices by AI 
+developers and implementors alike, and to consider using its authorities to require this 
+from federal contractors and agencies. For healthcare, we have urged consideration of the 
+program elements ONC has incorporated into its certification requirements for decision 
+support interventions or to consider promoting a par level industry best practice that can 
+be based on recognized standards such as ISO 42001:2023. Further, the HIPAA Security 
+Rule requires security risk assessment of all information systems considered in scope of its 
+compliance requirements. This also is a risk-driven exercise that complements the 
+
+
+approach that should be central to any governance effort. We urge that any industry code 
+of conduct for AI development and use include measurement systems for accountability 
+against the principles of the FAVES we discussed earlier. The main need is for a par-level 
+governance approach across all industry use cases for AI regardless of the presence of 
+federal regulation mandating its existence. 
+We appreciate the opportunity to offer these comments, and we are happy to offer our 
+expertise to assist efforts in any way to help the Administration understand healthcare 
+segment specific considerations further regarding the governance and measurement of AI 
+deployment and performance.  
+Sincerely, 
+Andreea Bodnari 
+Chief Executive Officer 
+ALIGNMT AI 
+
+

@@ -1,0 +1,622 @@
+ 
+ 
+1 
+March 14, 2025  
+ 
+Mr. Faisal D'Souza  
+Technical Coordinator for the NCO and the NITRD Program  
+Networking and Information Technology Research and Development (NITRD)  
+490 L'Enfant Plaza S .W., Suite 8001  
+Washington, D .C. 20024  
+ 
+Request for Information on the Development of an Artificial Intelligence (AI) Action Plan  
+(Document Number 2025 -02305)  
+ 
+The Financial Technology Association (FTA) appreciates the opportunity to respond to this 
+request for information (RFI) from the Office of Science and Technology Policy (OSTP) on the 
+Development of an Artificial Intelligence (AI) Action Plan (the “Plan”). We commend the 
+proactive approach taken by the OSTP and the NITRD National Coordination Office (NCO) in 
+soliciting input from stakeholders to ensure that policy actions promote U.S. AI leadership while 
+minimizing unnecessary regulatory burdens.  
+FTA is a nonprofit trade organization representing leading technology -centered financial services 
+(fintech) companies. Our members are committed to advancing the responsible use of technology, 
+which significantly improves the industry’s ability to offer in novative financial products while 
+maintaining robust compliance with regulatory standards.  
+AI is central to these advancements, enabling fintech companies to deliver personalized financial 
+tools  that help individuals select the right savings, investment, or budgeting products to fit their 
+needs. Advisory tools, for example, can process an individual’s financial data to empower 
+informed financial decisions, such as selecting higher -yield savings accoun ts, pursuing strategies 
+to lower tax burdens, paying off higher -cost credit, or making optimal investment decisions.  
+In the credit or insurance underwriting context, AI models enhance accessibility, accuracy, and 
+fairness1 by providing holistic financial or risk profiles that lower rates, reduce fees, and/or 
+minimize debt. By analyzing data from online transactions, utility bills, and other cash flow 
+history, for example, fintech providers can develop more accurate, fair, a nd transparent 
+underwriting models for consumers with limited traditional credit profiles.2 This approach creates 
+ 
+1 Fuster, A. et al. (2021) “Predictably Unequal? The Effects of Machine Learning on Credit Markets,” Journal of Finance , 
+Forthcoming. Available at: https://ssrn.com/abstract=3072038 .  
+2 BLDS, L., Discover Financial Services and H2O.ai (2020) Machine Learning: Considerations for Fairly and Transparently 
+Expanding Access to Credit . Available at: https://h2o.ai/resources/white -paper/machine -learning -considerations -for-fairly -and-
+transparently -expanding -access -to-credit/ . 
+
+ 
+ 
+2 
+opportunities for consumers to build a credit record, ultimately offering them more affordable, 
+tailored options.3  
+Finally, AI is increasingly used to enhance regulatory compliance, particularly in anti -money 
+laundering (AML), fraud detection, and transaction monitoring. These “regtech” applications can 
+reduce compliance costs while increasing the effectiveness of compliance programs , strengthening 
+trust in U.S. financial markets and services.  
+Given these many benefits, the U.S. government should prioritize actions that promote responsible 
+AI adoption and ensure America’s continued leadership in AI innovation. As stated in the RFI, 
+“with the right government policies, the United States can solid ify its position as the leader in AI 
+and secure a brighter future for all Americans.” This opportunity is fully present in the context of 
+America’s financial services and markets. We recommend the following key priorities for 
+inclusion in a section of a na tional AI Action Plan that focuses on financial services and supports 
+AI in advancing greater financial health, access, and opportunity for consumers and businesses:  
+1. Support Responsible AI Adoption : By recognizing the benefits of AI adoption in 
+financial services and markets, and the appropriateness of existing legal and regulatory 
+frameworks that have effectively governed financial services technologies for decades, the 
+government can foster furthe r AI development and adoption.  
+2. Avoid Regulatory Fragmentation : By promoting a unified national regulatory approach 
+to AI technologies and avoiding piecemeal approaches of conflicting, duplicative and 
+ambiguous rules, the government can ensure certainty and support U.S. industry abroad 
+against hostile or anti -competiti ve measures.  
+3. Apply Risk Management Frameworks and Support Technical Standards Formation : 
+By applying well -known risk management frameworks to AI adoption and supporting the 
+development of standards through standards -setting organizations (SSOs), the government 
+can clarify regulatory expectations and safeguard the financial system.  
+4. Enhance Data Access and Privacy Protections:  By crafting comprehensive national data 
+privacy legislation and unlocking high -quality data sets, the government can ensure 
+responsible access to data needed to power AI models.  
+5. Enhance Regulatory Agency Expertise, Support Use of AI to Advance Compliance, 
+and Foster Public -Private Collaboration : By developing regulatory innovation offices, 
+ensuring agency hiring of subject -matter experts, and fostering public -private information 
+sharing, the government can ensure it has the knowledge and expertise to keep pace with 
+AI development and foster adop tion. 
+ 
+ 
+3 Calomiris, C. W. (2020) “Chartering the Fintech Future, Presentation at the Cato Institute’s 38th Annual Monetary Economics 
+Conference,” 19 November.  
+
+ 
+ 
+3 
+I. A National AI Action Plan Should Recognize the Benefits of AI in Financial Services 
+and Confirm that Existing Legal Frameworks Permit Responsible AI Adoption  
+ 
+A. AI in Financial Services Benefits Consumers, Businesses and the Broader Economy  
+ 
+Fintechs are at the forefront of leveraging new technologies, including AI, to enhance services for 
+consumers, investors, and small businesses. Many of the AI applications discussed below involve 
+more “traditional” AI models and pre -date the advent of GenA I models, which are being carefully 
+developed and integrated, starting with lower -risk applications within the financial services 
+industry. More traditional AI models that have been developed or deployed in recent years are 
+already allowing fintechs to sig nificantly reduce the cost of essential services like credit, financial 
+advisory, and payments. These forms of AI further enable fintechs to increase speed, financial 
+access, and inclusion while offering tailored financial services that cater to a broader demographic.  
+Recent advances in AI can largely be traced to three key factors.4 First, advances in AI computer 
+science have moved the field beyond prior rules -based approaches (e.g., if -then statements), 
+allowing machines to identify correlations, connections, anomalies, and insights beyond human 
+analysis. These advances hold substan tial promise across a range of activities, including 
+identifying creditworthy borrowers who would previously be declined to detecting suspicious 
+financial activity that would have otherwise dodged rules -based detection.  
+With respect to GenAI , these models generate new content across multiple formats —including 
+text, images, music, audio, and video —by leveraging advanced algorithms to learn from vast 
+datasets and produce probabilistic outcomes. In the financial sector, GenAI improves operations  
+by enhancing efficiency and augmenting intelligence. It can streamline routine operations, 
+boosting productivity and reducing costs, while also providing insights, recommendations, and 
+decision -making support to human experts. The development and deployme nt of GenAI in 
+financial services has been approached cautiously to minimize risk.  
+Second, the development of exponentially more powerful and lower -cost computers and data 
+storage systems, including through the use of public cloud, allows programmers to innovate AI 
+models in ways that were unimaginable only a decade ago. Open -source  tools have further 
+accelerated innovation and facilitated broader access to AI tools for functions ranging from 
+underwriting to compliance.5 
+Third, the world has experienced an exponential proliferation of data, which powers AI models, in 
+just the past few years. While data quality is a key requirement, fintechs are uniquely positioned 
+ 
+4 Financial Technology Association (2021) Shaping the future of finance , Financial Technology Association (FTA) . Available at: 
+https://www.ftassociation.org/wp -content/uploads/2021/03/fta -launch -paper_shaping -the-future -of-finance.pdf .  
+5 Hermeling,  M. (2020)  Open Source and Cloud: A Power Couple in Financial Services , FINTECH MAG. Available at:  
+https://fintechmagazine.com/venture -capital/open -source -and-cloud -power -couple -financial -services . 
+
+ 
+ 
+4 
+to address related challenges due to their digitally -native systems which improve core functions 
+such as data standardization and platform interoperability. Fintechs are also leading efforts to 
+empower consumers regarding data  use, privacy, and control.  
+Against this backdrop, policymakers should explicitly support the adoption of AI technologies 
+within the context of existing robust legal and regulatory frameworks. Regulators should use their 
+soft power to highlight the benefits of AI technologies, preven ting speculative fear from deterring 
+the adoption of these new tools that will prove essential to maintaining competitiveness and best 
+serving end -users in an increasingly digital economy.  
+Positive messaging from regulators will prove especially important for smaller banks and financial 
+institutions, as ambiguity regarding regulator receptivity to new technologies can deter adoption. 
+More specifically, smaller FIs often lack large compliance  teams capable of parsing vague 
+regulatory expectations —for this reason, clear and consistent messaging can encourage adoption 
+and establish clear compliance requirements.  
+With respect to the impact of AI, as noted, these technologies are already transforming the financial 
+sector —from banking to financial markets —by enhancing decision -making processes, 
+personalizing customer experiences, and expanding access to financial ser vices. Such advances 
+will continue to foster competition in financial services and enhance financial inclusion through 
+enhanced analysis of traditional and non -traditional data sources. Key applications that regulators 
+should encourage include:  
+● Credit Innovation:  Creating holistic financial profiles, expanding access, lowering rates 
+and fees, and improving fairness and accuracy.  
+● Financial Health & Wellness : Delivering customized education and advice to help 
+individuals manage budgets, savings, and personal finances.  
+● Customer Service:  Enhancing customer experiences through personalized interactions and 
+tailored support.  
+● Fraud Detection:  Identifying and preventing fraudulent activities or illicit conduct.  
+● Risk Management:  Assessing and managing various risks associated with financial 
+products and services.  
+● Regulatory Compliance:  Automating compliance processes and ensuring adherence to 
+regulatory requirements.  
+With respect to regulatory compliance and monitoring, it is important to note that AI enhances the 
+efforts of both financial institutions and regulators. For financial institutions, this translates to 
+improved efficiency, reduced costs, enhanced risk contr ols, and expanded access to financial 
+products and services. For financial regulators, AI offers enhanced capabilities for monitoring and 
+
+ 
+ 
+5 
+supervision, improved fraud detection, and more effective regulatory compliance oversight. The 
+importance of regulators adopting such technologies is discussed in greater detail below.  
+B. In Order to Promote Clarity, Certainty and Adoption, a National AI Action Plan Should 
+Confirm that Existing Laws and Regulations are Fit -For-Purpose in Allowing AI 
+Adoption in Financial Services  
+ 
+AI and algorithms have been integral to financial services for decades, governed by comprehensive 
+laws, regulations and risk management frameworks. This long -standing integration has enabled 
+responsible innovation and development of the tailored financial solutions noted above, expanding 
+service reach, improving markets, and enhancing risk mitigation efforts.  
+More specifically, financial services laws and regulations governing banking and capital markets 
+conduct and activities are technology neutral. Beyond these laws and regulations, well -established 
+risk management frameworks have for decades helped the finan cial services industry to 
+responsibly adopt and incorporate a broad range of technologies, including AI, by mitigating 
+model risks, third -party relationship risks, and IT risks.  
+In the consumer finance context, federal laws and regulations offer consumers numerous 
+protections when their data is used to make underwriting or other financial decisions. The Fair 
+Credit Reporting Act (FCRA) outlines acceptable uses of consumer data, wh ile the Equal Credit 
+Opportunity Act (ECOA) prohibits discrimination and establishes requirements implementing 
+anti-bias measures. Other applicable federal consumer laws include the Truth in Lending Act 
+(TILA), the Fair Housing Act (FHAct), and laws protec ting against unfair and deceptive acts and 
+practices.  
+Consumer underwriting activities using AI technologies garner significant regulatory interest but 
+remain equally subject to ECOA and its fair lending regulations. Additionally, lenders must search 
+for less discriminatory alternatives (LDA) if a model resul ts in a disparate impact on protected 
+classes. Notably, AI technologies can increase  transparency in understanding how a model reaches 
+a conclusion, making LDA searches more accessible and effective, thereby increasing fairness and 
+inclusivity in underwrit ing.6 
+Additionally,  the federal banking agencies’ third -party  risk management7 guidance requires 
+financial service providers to monitor and manage certain activities of third -party vendors, 
+ 
+6 Zest AI (2023) Zest AI announces FairBoost, A tool for fairer and clearer credit underwriting for lenders , PR Newswire. 
+Available at: https://www.prnewswire.com/news -releases/zest -ai-announces -fairboost -a-tool-for-fairer -and-clearer -credit -
+underwriting -for-lenders -301862754.html  (Accessed: August 5, 2024).  
+7 The Federal Deposit Insurance Corporation (FDIC), the Board of Governors of the Federal Reserve System (FRB), and the 
+Office of the Comptroller of the Currency (OCC) (collectively, the agencies) (2023) Interagency guidance on third -party 
+relationships: Risk management . Available at: https://www.fdic.gov/news/financial -institution -letters/2023/fil23029.html  
+(Accessed: July 16, 2024).  
+
+ 
+ 
+6 
+including models acquired through them. Further, banking agencies’ model risk management 
+guidance8 provides a framework for financial institutions and vendors to develop and manage 
+models through testing and validation. The OCC updated its MRM Guidance in 2021, specifically 
+detailing its applicability to AI technologies.9 
+In the financial markets context, federal laws police for fraud and manipulation in trading 
+activities, irrespective of the technology utilized. Market regulators have further established risk 
+management frameworks to mitigate technology risks through mode l governance expectations or 
+by imposing circuit breakers for exchanges. These frameworks have effectively mitigated risk in 
+financial markets as AI -based trading technologies have been widely adopted over the past few 
+decades.  
+To this final point, it is important to underscore that existing legal, regulatory, and risk 
+management frameworks have proven adept at facilitating the responsible adoption of AI 
+technologies in financial markets and services over time. As discussed furth er below, while it 
+remains important to monitor new risks and potentially enhance clarity and update regulatory 
+expectations, a “new” regulatory approach to the use of AI in the financial services or markets 
+context is not necessary. Confirming this realit y can unlock increased adoption and innovation 
+involving AI within financial services.  
+C. A National AI Action Plan Should Encourage Fintech -FI Partnerships to Overcome AI 
+Access Barriers  
+As noted above, promoting collaboration between smaller FIs and AI -technology providers to 
+access leading AI solutions can help address adoption challenges that smaller firms may otherwise 
+face. Developing and implementing AI solutions can be resource -intensive, potentially posing a 
+barrier to smaller FIs. By partnering with technology providers, smaller institutions can leverage 
+leading AI tools and infrastructure, thereby reducing financial burdens and accelerating adoption. 
+This collaboration can help br idge the knowledge and resource gaps, enabling smaller institutions 
+to effectively implement and utilize AI technologies to remain competitive with larger FIs and 
+better serve their customers.  
+While recent banking agency third -party risk management guidance was a step in the right 
+direction,10 more action is needed to foster bank -fintech partnerships and encourage AI technology 
+ 
+8 Board of Governors of the Federal Reserve System (FRB), Office of the Comptroller of the Currency (OCC) (2011)  
+Supervisory Guidance on Model Risk Management.  Available at: https://www.federalreserve.gov/supervisionreg/srletters/
+sr1107a1.pdf   
+9 Office of the Comptroller of the Currency (OCC) (2021) Model risk management: New Comptroller’s Handbook Booklet, 
+Office of the Comptroller of the Currency (OCC). Available at: https://occ.gov/news -issuances/bulletins/2021/bulletin -2021 -
+39.html (Accessed:  August 5, 2024).  
+10 The Federal Deposit Insurance Corporation (FDIC), the Board of Governors of the Federal Reserve System (FRB), and the 
+Office of the Comptroller of the Currency (OCC) (collectively, the agencies) (2023) Interagency guidance on third -party 
+
+ 
+ 
+7 
+adoption. To this end, it is critical that the banking agencies reverse what is currently perceived as 
+hostility towards such partnerships —evidenced by disproportionate regulatory enforcement 
+actions against banks that partner with fintechs11—and leverage their soft power to support 
+technology adoption, as detailed above. Failure to encourage responsible AI adoption will 
+undermine the overall competitiveness and effectiveness of the U.S. financial services industry, 
+disproportionally impacting  smaller FIs.  
+II. An AI Action Plan Should Adopt a Unified National Regulatory Approach to AI 
+Technologies to Avoid Patchwork Regulations and Prevent Unfair Global Treatment 
+of American Companies  
+A. Patchwork State Regulations Create Uncertainty and Unnecessary Compliance 
+Challenges  
+ 
+To foster a conducive environment for AI innovation, policymakers should adopt a unified 
+regulatory approach at the national level. This streamlined approach is essential to prevent the 
+imposition of duplicative, conflicting and burdensome regulations on AI model developers who 
+must navigate compliance across both state and federal jurisdictions.  
+Currently, a disparate patchwork of state regulations for AI development poses a threat to 
+innovation. Such fragmentation can stifle technological advancement and impose complex 
+compliance burdens on entities utilizing AI for essential and beneficial use c ases, such as 
+streamlining processes and efficiently delivering products to consumers. For this reason, policies 
+concerning borderless technologies should ideally be implemented at the national level —a point 
+that should be emphasized in a national AI Actio n Plan. At the very least, states that choose to 
+regulate AI should pursue uniform, model laws to prevent exacerbating regulatory fragmentation 
+and confusion.  
+One way that states can promote uniformity is by recognizing compliance efforts undertaken by 
+an AI model deployer that satisfy similar requirements in other states. For instance, FTA urges 
+states to adopt regulations that acknowledge and integrate impact assessments conducted pursuant 
+to other state requirements. Specifically, we recommend the following provision that would create 
+a model for multi -state compliance and reciprocity:  
+“If a deployer, or a third party contracted by the deployer, completes an impact assessment for 
+the purpose of complying with another applicable law or regulation, such impact assessment 
+ 
+relationships: Risk management , Federal Deposit Insurance Corporation (FDIC). Available at: https://www.fdic.gov/news/
+financial -institution -letters /2023/fil23029.html  (Accessed: July 16, 2024).  
+11 Campbell, K. (2024) Fintech partner banks facing “volatile mix” of supervisory scrutiny, American Banker. Available at: 
+https://www.americanbanker.com/news/fintech -partner -banks -facing -volatile -mix-of-supervisory -scrutiny  (Accessed: August 5, 
+2024).  
+
+ 
+ 
+8 
+shall be deemed to satisfy the requirements established in this [regulation] if such impact 
+assessment is reasonably similar in scope and effect to the impact assessment that would 
+otherwise be completed pursuant to this [regulation].”12 
+ 
+Adopting a unified regulatory approach to AI development will streamline compliance procedures 
+and significantly reduce costs and administrative burdens. This will enable financial institutions 
+and innovators to allocate resources toward developing and imp lementing innovative AI solutions, 
+accelerating the pace of innovation.  
+B. Global Coordination and Leadership is Needed to Enhance U.S. Competitiveness in AI 
+Technologies and Defend Against Foreign Discriminatory or Punitive Measures  
+ 
+While establishing a unified national regulatory framework is essential to avoid fragmentation at 
+the state and federal level, extending this coherence internationally is equally critical. Such 
+alignment is key to maintaining and enhancing the U.S. global competitiveness and leadership in 
+AI technologies. It ensures that U.S. regulations are streamlined and globally harmonized, 
+preventing them from becoming overly burdensome or disadvantageous to U.S. AI developers on 
+the global stage.  
+Accordingly, the U.S. must assume a leadership role internationally to guide the development of 
+responsible AI technologies and regulatory standards —and to deter discriminatory or punitive 
+measures directed at U.S. companies. By proactively engaging with i nternational jurisdictions and 
+shaping global regulatory norms, the U.S. can promote a regulatory environment that fosters 
+innovation while ensuring robust safeguards. This leadership should not only shape international 
+dialogue on responsible AI but also demonstrate effective management of regulatory challenges, 
+ensuring the continued competitiveness and dynamism of the U.S. economy globally. Importantly, 
+such leadership will also help guard against anti -competitive or protectionist measures deployed 
+by fo reign jurisdictions seeking to disadvantage U.S. industry.  
+III. To Enhance Clarity and Certainty Needed for AI Adoption in Financial Services, an 
+AI Action Plan Should Support Application of Well -Known Risk Management 
+Frameworks and the Development of Standards -Setting Organizations (SSOs)  
+While existing legal and regulatory frameworks are able to facilitate the responsible adoption of 
+emerging technologies, including AI, involved stakeholders should continue monitoring for 
+potential new risks and challenges. Key areas of focus include model  risk, data management, and 
+third -party risk. By operating within current regulatory and guidance frameworks, an AI Action 
+ 
+12 Financial Technology Association (FTA) (2024 a) “FTA Opposition to AB 2930.” Available at: https://www.ftassociation.org/
+wp-content/ uploads/2024/06/FTA -CA-AI-Letter -vF.pdf  (Accessed: July 16, 2024).  
+
+ 
+ 
+9 
+Plan can further mitigate these identifiable risks by promoting standards development and 
+enhancing risk management frameworks.  
+To this end, given the technical nature and complexity of AI technologies, it is critical that 
+policymakers and regulators leverage existing and developing standards and model risk 
+frameworks to mitigate risks. Accepted standards are necessary in areas suc h as model 
+transparency, explainability, and testing. Policymakers can foster this development by 
+empowering standards setting organizations (SSOs), creating safe harbors for standards adherence 
+or by viewing such adherence as demonstrating good faith comp liance efforts. Acting Chair of the 
+FDIC, Travis Hill, recently supported exploration of SSOs stating that “[i]t is also worth revisiting 
+the possibility of a public -private standard setting organization that would establish standards for 
+due diligence of fintech vendors and technologies, which would reduce the need for each bank that 
+partners with a fintech to conduct costly, time -consuming due diligence of its own.”13  
+More specifically, new explainability techniques and tools are emerging that can enhance 
+understanding of model outputs across various AI applications and use cases. Regulators should 
+recognize the importance of explainable AI and actively encourage the de velopment of tools 
+providing insights into AI decision -making. SSOs, leveraging their technical expertise, can help 
+identify and promote these explainability tools, ensuring standards evolve alongside technological 
+advancements.  
+In consumer underwriting, regulators should encourage adoption of AI models capable of offering 
+greater transparency into how a model reaches a particular outcome relative to legacy models or 
+approaches.14 Transparent and explainable AI should be recognized for its potential to mitigate 
+bias in traditional approaches, such as reliance on flawed traditional credit scores,15 thereby 
+enhancing fairness and promoting financial inclusion.16  
+Given the highly technical nature of AI development, governance, and monitoring, FTA 
+recommends that an AI Action Plan supports use of various regulatory tools that can help industry 
+and regulators keep pace. Specifically, regulators should encourage indus try standards 
+ 
+13 Hill, T. (2025) Charting a new course: Preliminary thoughts on FDIC policy issues . Available at: https://www.fdic.gov
+/news/speeches/2025/charting -new-course -preliminary -thoughts -fdic-policy -issues/ .  
+14 FinRegLab (2023) Fact sheet: Explainability & fairness in machine learning for credit underwriting: Policy & empirical 
+findings. Available at: https://finreglab.org/research/fact -sheet -explainability -fairness -in-ml-policy -and-empirical -findings/  
+(Accessed: August 5, 2024).  
+15 Klein, A. (2020) “Reducing Bias in AI -based Financial Services,” Brookings Institution. Available at: 
+https://www.brookings.edu/articles/reducing -bias-in-ai-based -financial -services/.  
+16 See Upbin, B. (2020) Making AI Less Biased is Becoming a Big Deal , Zest AI, 5 November. Available at:  https://www.zest.ai/
+insights/making -ai-less-biased -is-becoming -a-big-deal; Ficklin, P. and Upbin, B. (2019) An Update on Credit Access and the 
+Bureau’s First No -Action Letter , Consumer Financial Protection Bureau. Available at:  https://www.consumerfinance.gov/about -
+us/blog/update -credit -access -and-no-action -letter/  [noting  
+that Upstart’s AI model approves 27% more borrowers than traditional lending models with 16% lower average APRs for 
+approved loans ]. 
+
+ 
+ 
+10 
+development and risk management frameworks through safe harbors and active support of SSOs. 
+The National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI 
+RMF), for example, can be tailored further for financial services applica tions and recognized by 
+regulators as effectively reflecting regulatory expectations.17 Adherence to these standards should 
+constitute clear evidence of good -faith compliance. Effective standards and risk management 
+approaches that should be recognized by regulators include:18  
+● Risk-based Approach: Consistent with model risk management principles, AI policy 
+frameworks must be risk -based, ensuring businesses using AI in low-risk use cases are not 
+subjected to the same requirements necessary for the most sensitive use cases. It is 
+important to avoid blanket labeling of entire sectors —such as all financial services —as 
+“high -risk,” as this could unnecessarily stifle innovati on. 
+● Diverse Testing Methods: Employing a variety of testing methods, including backtesting, 
+benchmarking, outcomes analysis, sensitivity analysis, and ongoing stress testing.  
+● Robust Data Governance: Establishing processes to ensure the accuracy, completeness, 
+and reliability of data used in AI models.  
+● Appropriate Controls : Implementing controls to safeguard sensitive customer information 
+throughout the AI lifecycle.  
+● Transparency and Accountability:  Maintaining clear documentation and accountability 
+regarding data sources, data usage, and potential biases.  
+● Multi -layered Risk Management:  Involving developers and regularly monitoring AI 
+systems to ensure performance aligns with intended purposes, for example through audit 
+functions.  
+● Responsibilities for Different AI Actors: Recognizing that the AI ecosystem includes 
+developers, deployers, and users, governance policies should assign responsibilities 
+appropriately among these actors.  
+● Explainable AI: Prioritizing the development and use of explainable AI models and 
+techniques to enhance transparency and mitigate bias.  
+● Staff Training and Development:  Investing in programs to equip staff with necessary skills 
+and expertise to manage AI risks effectively.  
+There is existing precedent for regulators creating effective safe harbors for firms that adhere to 
+well-accepted standards, such as the NIST AI RMF or those developed by other recognized SSOs. 
+Regulators across various technical domains have relied on ind ustry standards -setting bodies to 
+ 
+17 National Institute of Standards and Technology  (2023) NIST AI Risk Management Framework , National Institute of Standards 
+and Technology . Available at: https://www.nist.gov/itl/ai -risk-management -framework  (Accessed: July 1, 2024).  
+18 These approaches are underpinned by regulatory guidance and standards, such as the “Supervisory Guidance on Model Risk 
+Management” (SR 11 -7) and the NIST AI RMF. The NIST AI RMF offers clear guidance on understanding and managing AI 
+risks, including integ rating AI governance into existing governance structures and processes. Additionally, the NIST's recent 
+draft AI RMF Generative AI Profile addresses unique risks posed by GenAI.  
+
+ 
+ 
+11 
+develop technical frameworks, using compliance as an indicator of regulatory adherence. For 
+example, Singapore recognizes ISO/IEC 27001 in its Cyber Trust and Finance -as-a-Service API 
+Playbook19, while the UK and Australia20 integrate industry standards into open banking 
+regulations. In AI governance, Japan promotes ISO/IEC 4200121, and India’s financial regulators 
+rely on ISO 27000 for banking security22. This approach makes sense in the context of increasingly 
+complex or intricate technologies, where regulators will struggle to keep pace. Adopting a similar 
+strategy for AI technologies can clarify regulatory expectations, fostering alignment with 
+establi shed standards and promoting effective risk management.  
+To this end, SSOs can play a critical role in assessing the effectiveness of various approaches to 
+AI risk mitigation that are grounded in technical understanding. Currently, there is discussion 
+around the merits and trustworthiness of open -source AI models, and  whether they adequately 
+satisfy MRM expectations. Additionally, there is ongoing focus about assessing the quality and 
+veracity of unverified external datasets. An SSO can help identify compliance red herrings that 
+could mislead firms regarding what  constitutes appropriate compliance and risk management 
+measures.  
+IV. By Supporting Comprehensive National Data Privacy Legislation and Making 
+Available High -Quality Data Sets, the AI Action Plan Can Ensure Responsible Access 
+To Data Needed To Power AI Models  
+ 
+A. Enhance National Data Privacy, Governance, and Security with Comprehensive 
+National Data Privacy Legislation  
+Data is the key ingredient in developing, training and operating responsible AI models. Given the 
+centrality of data, it is critical that the U.S. develop a baseline national legal framework that can 
+ensure that data is properly collected and permissioned,  high-quality, and safeguarded. FTA 
+accordingly has called for the promulgation of comprehensive federal data privacy legislation that 
+safeguards consumers, ensures certainty, and fosters responsible innovation.23 Consumer data 
+ 
+19 The Association of Banks in Singapore and Monetary Authority of Singapore (MAS) (2016) ABS-MAS Financial World | 
+Finance -as-a-Service: API PlayBook, p. 41. Available at: https://www.mas.gov.sg/ -/media/mas/smart -financial -centre/api/
+absmasapiplaybook.pdf .  
+20 Australian Government and Consumer Data Right (2022) Supplementary accreditation Guidelines: Information Security , p. 8. 
+Available at:  https://www.cdr.gov.au/sites/default/files/2022 -12/CDR -Supplementary -accreditation -guidelines -information -
+security -version -5-December -2022.pdf#page=9&zoom=100,92,250 .  
+21 Japan Ministry of Economy, Trade and Industry (2024) New International Standard for AI Management Systems published , 
+METI . Japan Ministry of Economy, Trade and Industry. Available at: https://www.meti.go.jp/english/press/2024/0115_002.html  
+(Accessed: February 25, 2025).  
+22 Carter, W. and Crumpler, W. (2019) Financial sector cybersecurity requirements in the Asia -Pacific region , Center for 
+Strategic and International Studies (CSIS) , p. 22. Available at: https://www.jstor.org/stable/pdf/resrep22555.5.pdf .  
+23  See Financial Technology Association (FTA) (2024 b) FTA Policy Agenda for the Future of Finance. Available at: 
+https://www.ftassociation.org/wp -content/uploads/2024/07/FTA_FutureofFinanceAgenda_240701.pdf (Accessed: August 5, 
+2024).  See also Financial Technology Association (FTA) (2022) “Commercial Surveillance ANPR and Request for Comment” 
+
+ 
+ 
+12 
+should be protected by data security standards that are fit for purpose and designed for today’s 
+modern digital finance age. These standards should support robust data protection for consumers 
+and be informed by leading security practices.  
+A strong focus on data governance and security —including data lineage and transparency of data 
+access —is essential to address data quality risks associated with AI model development. Currently, 
+a patchwork of state -level privacy laws creates inconsistent e xperiences for consumers and small 
+businesses based on their location, causing confusion and uncertainty. State -based privacy 
+requirements also pose challenges for AI model developers operating at the national level, as they 
+must navigate different state -specific data requirements. For these reasons, a federal privacy 
+standard is essential to ensure consistent protection, allowing consumers and businesses to 
+confidently and securely share data that may be used to develop AI models. This approach also 
+reinfo rces consumer control over personal data and fosters responsible AI innovation.  
+ 
+B. Ensure Access to High -Quality Datasets and Amend the CFPB’s Implementation of 
+Dodd Frank Section 1033 Open Banking Requirements  
+As discussed, ensuring the quality and integrity of data used to develop and train AI models is 
+paramount. To further support responsible AI innovation, and enhance fairness and accuracy, 
+policymakers should:  
+● Ensure Dodd -Frank Section 1033 Fosters Responsible AI Model Development: In 
+finalizing Dodd -Frank Section 1033 open banking rules under the prior Administration, 
+the CFPB imposed broad restrictions on secondary data use by providers receiving 
+permissioned data via the rule’s mechanisms. A national AI Action Plan should call on the 
+CFPB to amend the final rule to permit the secondary use of financial data and de -identified 
+data, with appropriate disclosures and safeguards. Excessive data restrictions on data  
+collection, retention, and use will undermine consumer interests by reducing the ability of 
+third parties to develop new AI -based products and services and offer consumers additional 
+products that compete with their legacy providers. A blanket prohibition  on de -identified 
+data use will hinder further U.S. global competitiveness in developing responsible AI 
+technologies, which has significant potential across various financial services areas, 
+including improving the fairness of consumer underwriting, enhanc ing compliance, and 
+improving fraud detection. Done right, Section 1033 can create a transparent and regulated 
+pipeline of high -quality data, subject to appropriate safeguards, for responsible AI 
+innovation and enhance consumer outcomes.   
+ 
+Available at: https://www.ftassociation.org/wp -content/uploads/2023/01/FTA -response -to-FTC-Commercial -Surveillance -and-
+Data -Security -ANPR -vF.pdf   (Accessed: July 16, 2024).  
+
+ 
+ 
+13 
+● Promote Open Finance Frameworks: Beyond calling for amendment of Section 1033 
+open banking requirements, a national AI Action Plan should advocate for the broadening 
+of this baseline into an “open finance” framework. Given the importance of financial data 
+in providing consumers a holistic  view of their financial lives and enabling financial 
+services firms to develop AI models, this framework should encompass the broadest 
+possible range of datasets. Fulsome access to the full range of their financial data al lows 
+consumers to better assess their financial health and wellness and enables them to access 
+the broadest range of financial products and services. It further allows AI model developers 
+to access broader sets of high -quality data in order to train and de velop such models. 
+Accordingly, an open finance framework should include brokerage, savings and pension 
+funds, government benefits, payroll, telecom, utility, and government -related accounts, 
+which can provide, for example, benefits information.  
+ 
+● Provide Access to Government -Held Nationally Representative Datasets:  
+Government -held datasets contain diverse, high -quality, and comprehensive information 
+about individuals and their consumer financial behaviors, employment histories, and other 
+relevant factors, making them valuable assets for training AI models. Providing  model 
+developers with access to these datasets —subject to appropriate safeguards —can improve 
+the accuracy and fairness of algorithms and mitigate biased outcomes stemming from AI 
+models trained on biased or incomplete data.  
+Incorporating government -held datasets into an open finance framework, as discussed 
+above, would further enhance the accuracy and inclusivity of AI models. By considering a 
+broader range of factors, AI models can more effectively assess creditworthiness an d guide 
+informed financial decision -making.  
+V. Enhance Regulatory Agency Expertise, Foster Public -Private Collaboration, and 
+Support Use of AI to Advance Regulatory Compliance  
+A. Strengthening Regulatory Agency Expertise  
+To promote the responsible development of AI in financial services, a national AI Action Plan 
+should call on financial regulators to prioritize the establishment of dedicated innovation offices. 
+These offices would serve as hubs for expertise, focusing on:  
+1. Deepening Understanding:  
+Innovation offices would go beyond simply acknowledging the presence of AI in finance; they 
+would actively cultivate a deep, technical understanding of AI’s application across financial 
+services, including consumer lending, credit scoring, investment manag ement, and fraud detection. 
+Specifically, this involves:  
+
+ 
+ 
+14 
+● Engaging with Industry:  Regularly engaging with fintech companies and financial 
+institutions to better understand AI development and implementation practices, fostering 
+open communication and collaboration.  
+● Conducting Research:  Performing independent research and analysis on AI applications 
+in finance, staying informed of technological advancements, and identifying potential 
+benefits and risks.  
+● Developing Expertise:  Building internal regulatory expertise in  AI concepts, techniques 
+and risk management considerations to enable informed and effective policymaking.  
+2. Attracting Specialized Talent:  
+To effectively oversee the rapidly evolving AI landscape in finance, regulators need specialized 
+expertise. Innovation offices can facilitate this by:  
+● Targeted Recruitment:  Developing targeted recruitment strategies to attract experts in 
+AI, machine learning, data science, and related fields.  
+● Upskilling Existing Staff:  Providing training and development opportunities for existing 
+staff to deepen their understanding of AI and its regulatory implications.  
+● Broadening Expertise:  Prioritizing a broad range of technical expertise in recruitment 
+efforts to ensure coverage of emerging technologies within the innovation office.  
+ 
+3. Leveraging Regtech:  
+Innovation offices should not only understand and regulate AI but also leverage its capabilities to 
+enhance regulatory oversight. To this end, regulators should pursue modernization of regulatory 
+infrastructure —for example, replacing outdated “batch and send” reporting systems that impose 
+high costs on both industry and regulators. Implementing standardized, API -enabled reporting can 
+reduce costs for all parties and generate actionable data and insights. Additionally, develop ing 
+machine -readable and executable rulebooks can further automate compliance processes, 
+improving overall regulatory effectiveness. Such technology upleveling would facilitate greater 
+adoption of AI -driven solutions, streamlining regulatory oversight and enhancing regulatory 
+efficiency.  
+B. Fostering Public -Private Collaboration  
+An AI Action Plan should urge regulators to create fintech and regtech  advisory committees 
+pursuant to the Federal Advisory Committee Act (FACA). These committees can help regulators 
+remain informed about fintech and regtech developments, identify promising opportunities for 
+innovation, and improve financial services and markets. While many agencies already have 
+technology -focused committees, a targeted mandate to explore fintech and regtech developments 
+would deepen regulators’ understanding and enhance overall literacy and understanding. Congress 
+set a notable precedent in the Anti -Money Laundering Act of 2020, which created  a subcommittee 
+
+15 
+on Innovation and Technology within the Bank Secrecy Act Advisory Group (BSAAG) 
+specifically tasked with advising regulators on regtech innovation.   
+C.Supporting Adoption of AI Technologies to Advance Regulatory Compliance
+An AI Action Plan should actively encourage the adoption of AI -driven solutions to enhance 
+regulatory compliance. Regulators can build upon prior efforts —such as the 2018 joint statement 
+from FinCEN, the Board of Governors of the Federal Reserve System, th e Federal Deposit 
+Insurance Corporation, the National Credit Union Administration, and the Office of the 
+Comptroller of the Currency —which encouraged financial institutions to adopt innovative 
+approaches in their AML compliance programs. In that statement,  the Agencies specifically 
+underscored the important role of technology, noting that “[t]he Agencies recognize that private 
+sector innovation, including new ways of using existing tools or adopting new technologies, can 
+help banks identify and report money  laundering, terrorist financing, and other illicit financial 
+activity by enhancing the effectiveness and efficiency of banks’ BSA/AML compliance 
+programs.”24 Regulators should expand on these previous initiatives to encourage the financial 
+industry’s investment in and adoption of AI -powered regtech solutions.  
+* * * 
+FTA urges the government to issue an AI Action Plan with dedicated sections addressing financial  
+services , ensuring that AI’s potential in this sector is fully realized. A tailored strategy will provide 
+clear guidance for regulators, support responsible AI adoption, and foster innovation while 
+maintaining strong consumer protections. We appreciate the opportu nity to contribute to this 
+discussion and look forward to continued engagement in shaping policies that advance AI -driven 
+financial services.  
+Sincerely,  
+Penny Lee  
+President and C hief Executive Officer  
+Financial Technology Association  
+24 U.S. Department of the Treasury (2018) Treasury’s FinCEN and federal banking agencies issue joint statement encouraging 
+innovative industry approaches to AML compliance . Available at: https://home.treasury.gov/news/press -releases/sm562 .  
+
+ 
+ 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+

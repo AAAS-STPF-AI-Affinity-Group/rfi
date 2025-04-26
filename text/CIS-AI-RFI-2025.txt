@@ -1,0 +1,170 @@
+ 
+ 
+Charles Yang 
+Founder and Executive Director 
+Center for Industrial Strategy 
+@industrialstrat  
+ About  
+The Center for Industrial Strategy is a bipartisan think tank focused on developing 
+policies and strategies to build US industrial power.  
+ 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents. 
+ 
+1 
+
+
+Scaling AI into the Physical World 
+Artificial Intelligence (AI) has made tremendous advances in the past several years, 
+driven largely by U.S. innovation. However, impressive scores on AI benchmark 
+tests alone will not secure strategic competitiveness or build national power. The 
+Trump Administration should prioritize ensuring the US is a leader in not just developing 
+AI models, but scaling AI into the real world,  integrating AI systems in key domains 
+relevant for strategic competition. 
+In this response, we identify three key areas where this administration can focus 
+attention to accelerate the diffusion and adoption of AI systems to support US 
+leadership: next-generation AI chip designs, autonomous power grids, and accelerating 
+real-world scientific discoveries.  
+2 
+
+
+Next Generation AI Chip Designs 
+The CHIPS and Science Act helped onshore advanced semiconductor manufacturing 
+capabilities and bolster a key gap in the American supply chain. However, China 
+continues to advance in its domestic development of semiconductor manufacturing 
+through SMIC and chip design capabilities through Huawei and other companies. Not 
+only does China aim to close the gap in semiconductor manufacturing, it is also seeking 
+to erode U.S. leadership in chip design. Since the first chip export control rules limiting 
+PRC access to Nvidia GPUs, there has been a proliferation of new Chinese AI chip 
+companies and PRC funding to develop new designs of AI accelerators. Today, China is 
+the world leader in high quality and top-cited research on AI chip design1 and is 
+continuing to use public capital to support new AI chip startups. The US should take steps to avoid strategic surprise in AI hardware design. 
+Export controls may, as a second order effect, create conditions for our competitors to 
+invest in and explore different technological paths towards a next-generation AI chip, 
+potentially co-designed with new AI model architectures, and leapfrog US capabilities. A 
+robust “compute industrial base” is needed to avoid strategic surprise, not just in terms 
+of advanced semiconductor manufacturing, but also in terms of a multi-vendor AI chip 
+ecosystem.  The US government can play a crucial role in supporting adoption of AI technologies to 
+accelerate chip design iteration and innovation. This will not only boost US leadership in 
+AI chips, but also help support the development of more energy efficient and performant 
+AI chips, which can reduce the energy requirements and cost for AI training runs.  
+Finally, there are a number of proposals to impose security requirements onto AI chip 
+designers. Many of these proposals promise that such requirements come at “no cost to 
+the government”, eliding the fact that such requirements would impose enormous costs 
+on chip design companies, hurting US chip competitiveness while also adding 
+surveillance technologies onto these chips that jeopardize global trust in US-led AI 
+development. The Trump administration should carefully balance security concerns with 
+the importance of global competitiveness and be mindful of imposing burdensome 
+regulations that inhibit technoindustrial development. 
+1"The state of global chip research," Emerging Technology Observatory, March 3, 2025, 
+https://www.eto.tech/blog/state-global-chip-research/.   
+3 
+
+
+Key recommendations: 
+●Support Department of Energy national lab AI testbeds2, which serve as a
+customer-of-first-resort for many early stage AI chip companies, such as
+Cerebras, Sambanova, and Groq. These testbeds also give our national labs and
+other US scientists early access to advanced AI hardware to run novel scientific
+AI models●Leverage the Department of Defense’s varied mission requirements as an early
+market for leveraging AI to develop domain-specific chips. For instance, DIU3 and
+DARPA4 have released solicitations in the past year to design new
+high-performance, mission-specific chip chips. DARPA could replicate their
+self-driving car Grand Challenge5 to create a competition for AI designed chips
+that meet certain mission requirements.
+5 "The DARPA Grand Challenge: Ten Years Later," DARPA News, March 13, 2014, 
+https://www.darpa.mil/news/2014/grand-challenge-ten-years-later.   4 Sydney J. Freedberg Jr., "DARPA's OPTIMA Program Seeks Ultra-Efficient AI Chips," Breaking Defense, 
+March 20, 2024, 
+https://breakingdefense.com/2024/03/darpas-optima-program-seeks-ultra-efficient-ai-chips/.  3Cal Biesecker, "DIU Seeks Digital Platform to Help Speed Design and Validation of Analog Chips," 
+Defense Daily, February 10, 2025, 
+https://www.defensedaily.com/diu-seeks-digital-platform-to-help-speed-design-and-validation-of-analog-ch
+ips/advanced-transformational-technology/.  2"Artificial Intelligence Testbeds at DOE," U.S. Department of Energy, 
+https://www.energy.gov/cet/artificial-intelligence-testbeds-doe.  
+4 
+
+
+Autonomous Power Grids 
+Building frontier scale AI models in the US increasingly requires the rapid deployment of 
+domestic AI training data centers, which often require 1GW+ of power. While the US 
+benefits from deep capital markets that are willing to invest in data centers and the 
+powerful AI chips in them, the US power market has been sluggish to respond to the 
+addition of large-scale power loads. While CIS has written about steps the Trump 
+Administration can take to scale Federal Hydropower to realize Energy Dominance and 
+support load growth6, AI can also play a role in helping meet the very load growth it 
+creates. A growing grid is key to a growing economy. Part of China’s success in 
+industrialization is their dynamic power grid, which has grown at over 6% every year7, 
+compared to the U.S. which is struggling to maintain a new pace of 2% in year over 
+year growth8 in power demand over the past several recent years. Power is critical not 
+only for data centers, but also smelters, refineries, and manufacturers critical to building 
+U.S. industrial dominance.  
+Key bottlenecks in adding new power generation include federal permitting9 and a 
+sluggish interconnection process for connecting new power10. AI can help accelerate 
+every part of grid processes, down to the physics models used to operate the grid. 
+New utility industry alliances11 are already beginning to form to support adoption of new 
+grid technologies that incorporate AI. While AI data centers are driving load growth, AI 
+can also help solve the very problems it creates by creating a modern, autonomous 
+power grid.  
+11 "Orchestrating the Grid to Deliver the Energy Transition," TGO Alliance, https://tgoalliance.org/.  10 Dan McCarthy and Maria Virginia Olano, "Chart: The US Clean Energy Backlog Is Getting Bigger and 
+Bigger," Canary Media, April 19, 2024, 
+https://www.canarymedia.com/articles/transmission/chart-the-us-clean-energy-backlog-is-getting-bigger-a
+nd-bigger.  9 Thomas Hochman, "The Energy Permitting Reform Act Doesn’t Go Far Enough," Foundation for 
+American Innovation, October 29, 2024, 
+https://www.thefai.org/posts/the-energy-permitting-reform-act-doesn-t-go-far-enough.  8 “EIA publishes its first energy-sector forecasts through 2026”, Energy Information Administration, 
+January 14, 2025. https://www.eia.gov/pressroom/releases/press564.php  7
+ Lin Boqiang, "New developments in the recent low-carbon transition of electricity in China," World 
+Economic Forum, January 15, 2025, 
+https://www.weforum.org/stories/2025/01/low-carbon-transition-of-energy-electricity-china/.  6 Charles Yang, "Trump’s National Energy Dominance Council Should Appoint a ‘Hydropower Czar’," 
+Utility Dive, February 25, 2025, 
+https://www.utilitydive.com/news/trump-national-energy-dominance-council-hydropower/740801/.   
+5 
+
+
+Key recommendations: 
+●The DOE can leverage remaining funding through the Grid Deployment Office to
+support commercial deployment of AI to accelerate grid interconnection
+processes.12 Interconnection queue timelines are one of the primary barriers to
+more rapidly deploying all-of-the-above energy generation; DOE can help derisk
+adoption of new AI tools to address this key bottleneck.
+●The Council for Environmental Quality (CEQ) can accelerate the deployment of
+AI for permitting tools, like Pacific Northwest National Lab’s PolicyAI13, across
+federal regulatory agencies. These tools help augment the environmental
+permitting workforce and can help streamline approvals for permits.
+13 "PolicyAI," Pacific Northwest National Laboratory, https://www.pnnl.gov/projects/policyai. 12 "AI for Interconnection (AI4IX)," U.S. Department of Energy, November 25, 2024, 
+https://www.energy.gov/gdo/ai-interconnection-ai4ix.  
+6 
+
+
+Bringing AI into the Lab 
+AI will be a key accelerant for scientific discovery. However, current models today are 
+unable to realize or actuate in the physical world. In a world where inference and 
+ideas are cheap, testing and verification become the bottleneck for scientific 
+progress. The bottleneck to discovering new semiconductor materials, new cancer 
+drugs, and new high-performance ceramics for hypersonics in the age of AI is no longer 
+ideas, but rather the ability for scientists to test and verify predictions in the real world.  
+Autonomous experimentation infrastructure is the linchpin to bring AI into the lab. 
+Combining robotics, automation, and AI-driven predictive models, autonomous 
+experimentation enables closed-loop cycles of hypothesis testing, synthesis, and 
+characterization of new materials. Tech companies are already beginning to recognize 
+the importance of so-called “self-driving labs” in advancing AI for science: Meta worked 
+with University of Toronto to autonomously test hundreds of catalyst designs through 
+their self-driving labs, after they had already developed an AI materials model trained on 
+simulation data. However, autonomous experimentation is high capital intensity and still 
+nascent - public R&D investment will be required to scale this linchpin technology to 
+realize AI-accelerated science. 
+Key recommendations: ●The Office of Science and Technology Policy (OSTP) can coordinate through the
+interagency Material Genome Institute (MGI) to create a consortium for
+self-driving labs, bringing together scientific equipment providers, robotics
+manufacturers, scientists, and AI developers, to develop a roadmap for “Grand
+Challenges in Autonomous Scientific Discovery”. MGI can leverage responses tothe recent Request for Information the Department of Energy released on
+autonomous experimentation  to develop this roadmap.
+●The Department of Energy (DOE) Office of Science should increase funding
+support for national labs to invest in autonomous experimentation infrastructure
+for self-driving labs. The Trump administration should also work with Congress to
+pass the bipartisan DOE AI Act, which would support the development of a
+national AI capability through the DOE and its national labs. DOE and its 17
+national labs are well-positioned to integrate and scale AI through scientific
+infrastructure and its national security mission.
+7 
+
+

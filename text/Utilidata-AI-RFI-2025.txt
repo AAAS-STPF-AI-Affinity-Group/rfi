@@ -1,0 +1,59 @@
+1 
+Networking and Information Technology Research and Development (NITRD); National 
+Coordination O ﬃce (NCO) for/on behalf  of the O ﬃce of Science and T echnology Policy 
+Subject: AI Action Plan 
+Utilidata, Inc.   
+225 Dyer Street, Providence, RI 02903 
+Angela Kassahun, Director, Policy & Market Development  
+Re: Request for Information on the Development of an Arti ﬁcial Intelligence (AI) Action  
+Plan, Federal Register Number 2025-02305  
+Utilidata appreciates the opportunity to submit comments to the O ﬃce of Science 
+and T echnology Policy (OSTP) and the National Science Foundation (NSF) in connection 
+with the Administration’s Arti ﬁcial Intelligence  (AI) Action  Plan.  
+Utilidata has operated real-time machine learning software on the grid for over a 
+decade. In 2021, Utilidata partnered with NVIDIA to co-develop an AI module 
+custom-designed for the electric distribution grid, called Karman, after recognizing the 
+need for more computing power at the grid edge in order to handle its growing 
+complexity.  
+Karman is built on an NVIDIA Graphics Processing Unit (GPU) to run distributed 
+AI—the most advanced form of edge computing—allowing electric utilities to run multiple 
+AI models locally without moving vast amounts of sensitive data to a central system. 
+This distributed AI architecture decreases costs and improves reliability, security and 
+outcomes. For example, advanced digital signal processing at the edge combined with 
+local AI models can continuously identify relevant information in real time, such as 
+anomalies that could lead to reliability issues, predict pre-outage conditions or pending 
+equipment failure. AI-enabled, real-time edge visibility improves grid reliability, identi ﬁes outages 
+befor e they occur and reduces the time it takes to recover from outages. This has a 
+material impact for all customers. Most outage mapping and responses today rely on 
+Advanced Metering Infrastructure (AMI) data, which is dependent on communication 
+system backhaul and more limited data systems, providing information delayed up to 
+one-hour. Deploying distributed AI improves utilities’ reliability and resiliency through 
+more granular analysis - sub-minute level - from more sites, more often. It also enhances 
+utilities’ ability to more quickly diagnose issues in individual neighborhoods based on 
+correlated grid edge data, such as transformer issues, before infrastructure fully fails.  Finally, distributed AI  also makes power more affordable. AI prediction models 
+can be used to forecast customer program impacts and enable real-time program 
+measurement and veriﬁcation. Utilities  can use this capability to inform program 
+enrollment and design, with the result of lower customer energy bills.  
+This document is approved for public dissemination  
+
+
+2 
+As utilities begin to adopt AI technologies, they will require a mix of centralized AI 
+models and distributed AI models that run directly on the infrastructure itself. This 
+architecture is widely utilized across industries, such as automotive, shipping, healthcare, 
+and robotics. Distributed AI is more affordable and secure than solely relying on 
+centralized models that require streaming large amounts of data back to a centralized 
+location. For example, by operating distributed AI in a meter, most of the data would 
+never leave the devices, thereby enhancing security and improving accuracy. These types 
+of architectural decisions will be critical to utilities adopting safe and responsible AI 
+practices.  
+The electric grid is becoming increasingly complex and traditional physics-based 
+models cannot respond to all of the complexity; instead, our electric grid needs 
+well-managed AI systems to process multiple data sources simultaneously while 
+managing rapid changes in real-time. Utilidata welcomes the opportunity to work with the 
+Administration on AI policy measures that accelerate innovation and adoption of 
+AI-powered technology, like Karman, that improve operations for electric grid 
+infrastructure and provide affordable, reliable, and secure electric power to all Americans. 
+This document is approved for public dissemination  
+
+

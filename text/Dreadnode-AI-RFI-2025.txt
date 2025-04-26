@@ -1,0 +1,231 @@
+ 
+ 
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  1 
+March 15, 2025  
+  
+Faisal D’Souza, NCO  
+Office of Science and Technology Policy  
+Executive Office of the President  
+2415 Eisenhower Avenue Alexandria, VA 22314  
+  
+Submitted by email to  
+  
+Re: Request for Information (RFI) on the Development of an Artificial Intelligence (AI) Action 
+Plan (“Plan”)   
+  
+About Dreadnode  
+  
+Dreadnode is at the forefront of offensive AI Research and Development  (R&D) , building AI 
+systems that demonstrate parity with, or exceed, human capabilities in the offensive 
+security domain.   
+  
+Dreadnode was founded in 2023 by Will Pearce, who built the AI red teams at Microsoft 
+and NVIDIA, and Nick Landers, an accomplished offensive security engineer, VP of 
+Research, and author of the Dark Side Ops penetration testing and adversary simulation 
+training. They bring diverse domain expertise and rare, hands -on experience from NVIDIA, 
+Microsoft, Meta, Cohere, NetSPI among other leading innovators.  
+ 
+Dreadnode is committed to America’s dominance in the AI race. We believe that AI will 
+transform cybersecurity by introducing new vulnerabilities and enabling new offensive 
+capabilities. Now is the time to be on the offense , and Dreadnode  combines cybersecurity 
+and AI knowledge to test models to their limits and leverage them for the national mission.  
+ 
+Overview  
+Artificial Intelligence (AI) is one of the most powerful tools of our time. Unfortunately, 
+amidst the significant steps the United States has made to advance innovations in 
+machine learning, the AI industry is consistently met with equal forces of fear -mongering 
+and c onsequently, threats of heavy regulation. We believe this to be misguided —between 
+cutting -edge  AI models and the agentic systems built on top of them , America holds the 
+key to  strengthen ing its own cyber defense and retain ing an offensive edge over its 
+adversaries.   
+ 
+Leveraging AI To Protect America: Today’s cyberspace threat landscape is at an inflection 
+point. From adversarial nations to sophisticated criminal enterprises, American 
+cyberspace is under continuous attack. Dreadnode advocates for harnessing the power of 
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  2 
+AI to defend the nation. Our work emphasizes AI -enabled security solutions that can 
+anticipate and automate national defense measures –particularly in cyberspace.   
+We suggest  that this administration : 
+•Facilitat e the testing and adoption of automated vulnerability discovery and
+remediation (AVDR) solutions .
+•Consolidate the efforts of the Chief Digital and Artificial Intelligence Office (CDAO),
+the Defense Digital Service (DDS) the Defense Innovation Unit (DIU), the Strategic
+Capabilities Office (SCO) without losing the inherent agility of DDS, DIU, and SCO.
+•Maintain and elevate the National Institute of Standards and Technology (NIST)
+Testing Risks of AI for National Security (TRAINS) Taskforce .
+•Establish a Code Continuity Task Force .
+Attacking AI to Test Its Limits : Dreadnode  believes that today’s AI systems are only the 
+beginning . As systems evolve, exploring their full range of capabilities will require more 
+advanced testing. Our team understands that adversarial machine learning research and 
+testing of AI systems is critical to exposing  security gaps, identifying solutions, and 
+optimizing AI integrations into our broader ecosystems.   
+We suggest  that this administration:  
+•Rebrand the Artificial Intelligence Safety Institute (AISI) as NIST’S Exploration of AI
+Advancement (NEXA) , to include a Scientific Advisory Board . This would enable
+NIST to lead interagency AI model evaluation and performance metrics, and
+position the U.S. as the global leader in scientific AI standards.
+•Create an AI Red Teaming Hub  within NEXA.
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  3 
+Leveraging AI to Protect America  
+Today’s global threat landscape has tested our ability to strengthen U.S. national security 
+posture. Between the rise of non -state and unattributed threat actors in combination with 
+escalations in the cyber and space domains, Dreadnode recognizes the impor tance of 
+understanding and harnessing the power of AI to defend the nation. Our work emphasizes 
+AI-enabled security solutions that can anticipate and automate national defense 
+measures –particularly in cyberspace.   
+Automated Vulnerability Discovery and Remediation (AVDR)  
+Dreadnode has had the opportunity to support DARPA’s Artificial Intelligence Cyber 
+Challenge  (AIxCC), a two -year competition that seeks to find and fix vulnerabilities in open -
+source software, which undergirds the majority of U.S. critical infrastructure. This program 
+is one example of how the U.S. government can successfully convene both public and 
+private organizations to create and operationalize critical security solutions.   
+Policy Recommendations:  
+•Facilitate the transition of winning Cyber Reasoning Systems (CRSs) from DARPA’s
+Artificial Intelligence Cyber Challenge (AIxCC) by ensuring the continued evaluation
+of these CRSs in software test beds until they are optimized for real -world
+implementation .
+•Incentivize  the existing agency members within the AIxCC Transition Working Group
+to securely test and report on the results of CRS performance within designated
+software test beds.
+•Similar to the Cyber Incident Reporting for Critical Infrastructure Act of 2022
+(CIRCIA), create a legislative framework  for the private sector to adopt best
+vulnerability management practices within a reasonable timeline as determined by
+NIST, the Cybersecurity and Infrastructure Security Agency (CISA) and the
+Department of Energy. AVDR solutions will only strengthen U.S. national security
+posture and position USG to serve as a conduit for mass adoption of critical
+technologi cal innovation.
+AI-Enabled Military  
+In order to match the speed and scale of AI -enabled attack vectors targeting the nation, 
+U.S. military forces will require the training and resources to leverage and understand AI in 
+real time —including, but not limited to deterrence operations and proport ionality 
+strategies. As the DoD focuses more on AI -enabled warfighting capabilities through the 
+Replicator Initiative  and other programs, it is imperative that systems relied on by the 
+warfighter are secure, nimble, and reliable.  
+This will require deep insight into how these systems perform under pressure and serve our 
+warriors. At Dreadnode , we have built  Strikes: an AI capability development environment to 
+gather data on AI agent and model performance. Strikes traces each step undertaken by 
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  4 
+the model or agent and makes clearly visible how permutations in structure and design 
+influence outcomes and successes. Given this insight into how models can be tested and 
+evaluated, our suggestions are as follows.  
+Policy Recommendations:  
+•Consolidate the efforts of the Chief Digital and Artificial Intelligence Office (CDAO),
+the Defense Digital Service (DDS) the Defense Innovation Unit (DIU), the Strategic
+Capabilities Office (SCO) without losing the inherent agility of DDS, DIU, and SCO.
+oCDAO is particularly effective as an amplifier of interagency military
+operations, which requires an internal structure that often prohibits agility.
+For this reason, it is imperative that DIU, SCO, and even the Defense Digital
+Service (DDS) maintain enoug h independence to operate nimbly and quickly
+produce technological solutions for the warfighter.
+•Establish an AI Capabilities Council, integrating industry representatives from small
+businesses to private AI labs, to identify real -world machine learning solutions in
+support of U.S. military forces.
+oAn AI Capabilities Council could  iterate  upon initiatives such as the AI Rapid
+Capabilities Cell (AI RCC) .
+•Maintain the TRAINs Taskforce to include or run in parallel with the National
+Science Foundation’s  Planning Grants to Create Artificial Intelligence (AI) -Ready
+Test Beds  for the sake of transparency in resource sharing and AI evaluations.
+Automations to Streamline Bureaucracy  
+Many inefficiencies in software implementation and integration efforts stem from basic 
+fundamental operational and functional differences between programming languages. AI -
+enabled code translation efforts can facilitate software migration and cross -platform 
+development.  
+Policy Recommendations  
+•Establish a Code Continuity Task Force: a centralized federal effort focused on
+automated code translation. This would expand upon existing but disparate efforts
+to modernize legacy software programs, i.e.  IBM’s watsonx Code Assistant  and
+DARPA’s  TRACTOR  program to automate translations from C and C++ code to Rust.
+•Within said task force, DIU and DARPA are currently best situated to lead contracts
+with companies and pilot specific code translation tools. NIST collectively oversees
+the standardization and testing in close coordination with CDAO, which can
+operationali ze tested solutions across the DoD.
+Attacking  AI to Find I ts Limits  
+To assess the performance of AI models and AI requires sufficient testing including AI red 
+teaming. At Dreadnode we have built unique knowledge and tooling to do just that. In our 
+
+
+ 
+ 
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  5 
+platform Strikes, we have set up a digital AI laboratory in which AI models and Agents are 
+exposed to specified tasks, their performance tracked and traced, and their results 
+catalogued. The resulting insights allow builders to understand which changes to models 
+and agents result in which changes in outcomes. This supports not only the iterative 
+research process that is key to development , but also the assessments of risks and trade -
+offs.  
+ 
+Furthermore, Dreadnode  has built an AI red -teaming platform called Crucible for users to 
+challenge and test out the newest AI models. The platform, which is open to the public, 
+has shown how users can figure out ways to break and improve AI systems and agents.  
+ 
+Based on these unique insights, Dreadnode believes that the private sector is best 
+positioned to optimize AI resiliency through internal evaluation techniques and benchmark 
+tests. The successful development of advanced research tooling to test AI models and 
+agents is enough to ensure any  subsequent transition into real -world environments 
+without cumbersome oversight or regulation. Any centralized federal efforts should reflect 
+this responsible stewardship of cutting -edge AI innovations to ensure America  maintains 
+its lead in the global AI  race . 
+ 
+Rebranding the Artificial Intelligence Safety Institute (AISI): NEXA  
+• The Artificial Intelligence Safety Institute (AISI) renamed as NIST’S Exploration of AI 
+Advancement (NEXA) would position NEXA to lead interagency AI model evaluation 
+and performance metrics, strengthening America’s role as the global leader in 
+scientific AI standards without slowing down private sector development and 
+implementations.  
+• Under NEXA, existing partnership efforts between AISI and the U.S. Department of 
+Defense’s (DoD) Chief Digital and Artificial Intelligence Office (CDAO) would be 
+formalized to identify and collaborate with test and evaluation (T&E) partners.  
+o Scale AI has already demonstrated the value -add of joining forces with AISI 
+for model evaluation and CDAO for customized LLM benchmark tests geared 
+towards DoD use cases.   
+o This approach should be expanded to more areas of application with new 
+standardized quality criteria for DoD use cases as well as specialized 
+domain knowledge in high priority areas such as cybersecurity.  
+o To account for the variance of scoring between testing and evaluation 
+providers CDAO should also expand the list of partners. This is especially 
+true in highly technical areas in which different scoring systems can lead to 
+different outcomes. Including mor e T&E partners will serve to strengthen AI 
+integrations.  
+• NIST’s convening power is paramount, particularly through the existing AISI  
+Consortium  (AISIC) of over 200 member companies and organizations. If AISIC were 
+to expand and rebrand as the NEXA Consortium, it would be able to take on a 
+Scientific Advisory Board.  This change would enable more interagency 
+
+
+This document is approved for public dissemination. The document contains no business -proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  6 
+involvement, accounting for the National Science Foundation’s (NSF)  notable 
+absence from AISIC  
+oNSF is uniquely embedded within the nation’s academic ecosystem, with
+unparalleled access to the country’s leading research institutions. This
+makes  NSF t he most powerful engine for scientific discovery and
+technological innovation.
+•NEXA would allow more opportunity for an AI Red Teaming Hub,  wherein
+participants across federal agencies like CISA, the intelligence community, and
+private AI labs could streamline information sharing through classified threat
+intelligence sharing channels.
+oFor example, NIST’s  AI Test, Evaluation, Validation, and Verification  (TEVV)
+red teaming framework works closely with CISA to  ensure AI systems are fit
+for purpose .
+oWhile NIST’s TEVV framework focuses on public sector priorities and
+standards, and NIST’s AISI SEAL hones in on industry -led, containerized
+innovation, both of these initiatives speak to the value of AI red teaming and
+model testing.
+oThe more these teams can securely interact with one another and share their
+findings, the easier it will be to optimize AI models and encourage solution
+adoption at the enterprise level.
+Contact  
+To get in touch with the team for further discussion,  please email 
+
+

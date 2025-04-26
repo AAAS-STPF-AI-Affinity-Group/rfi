@@ -1,0 +1,301 @@
+ 
+To: Faisal D'Souza, NCO  From: Jeremie Harris 
+Office of Science and Technology Policy Gladstone AI 
+2415 Eisenhower Avenue 2152 Pump House Rd 
+Alexandria, VA 22314 Murphysboro, IL 62966 
+ 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution. 
+ 
+The Future of Compute in America 
+ 
+Note: For brevity, and due to time constraints, this document is written in point form. It 
+was drafted based on input from (1) AI engineering and security researchers at 
+America’s top AI labs, (2) state-level cabinet officials who have to wrestle with 
+burdensome regulations every day to build hyperscaler AI and other national security 
+infrastructure, (3) national security experts who counter some of our adversaries’ most 
+advanced operations, and (4) some of the largest private AI data center companies in 
+the United States.  
+Desired end state 
+ 1. Ramp up AI training and inference cluster development in America.  
+ 
+2. Secure AI training and inferencing clusters involved in developing AI systems 
+with probable WMD-like or WMD-enabling capabilities against nation-state 
+espionage and denial/disruption operations.  
+Context 
+ 
+● This document outlines measures that could kick off a robust Compute in 
+America policy effort that will see us onshore our national security technology, 
+retain and build on U.S. competitive advantage in AI, and accelerate innovation 
+across our industrial base. We should expect to update our approach frequently 
+1 
+
+
+to keep up with new developments; the field moves too fast for a static 
+framework.  
+ 
+Definitions 
+ 
+● Advanced AI clusters are AI-specialized computing clusters that may be 
+geographically distributed (but still with dedicated point-to-point connections; no 
+need to include all data centers connected over standard internet fiber 
+connections) either: ○ With aggregate power supply of >50MW or; 
+○ Expected to house AI processors in the aggregate capable of >2x10^20 
+FLOP/s with sparsity, at any numerical representation or; 
+○ That have trained, deployed, or stored models shown to be capable of 
+independently producing strategic classified U.S. secrets when prompted, 
+as determined by a relevant U.S. Government entity.  
+● Critical AI clusters are AI-specialized computing clusters that may be 
+geographically distributed (but still with dedicated point-to-point connections; no 
+need to include all data centers connected over standard internet fiber 
+connections) either: ○ With aggregate power supply of >200MW or; 
+○ Expected to house AI processors in the aggregate capable of >8x10^20 
+FLOP/s with sparsity, at any numerical representation or; 
+○ That have trained or deployed models shown to be capable of WMD 
+development (either autonomously or by supporting non-experts with such 
+development), or shown capable of independently producing strategic 
+classified U.S. secrets deemed by a relevant U.S. Government entity to be 
+of critical importance to U.S. national security.  
+Government support for American infrastructure 
+Deregulation and tax incentives 
+ 
+● Some types of security research – such as research focused on developing 
+flexHEG technologies, or nation-state-level red teaming and hardening of frontier 
+AI infrastructure  – are badly needed to ensure the security of domestic frontier 
+AI development, and hard to fund commercially because security is viewed as a 
+cost center rather than a competitive advantage at leading labs. The U.S. 
+2 
+
+
+Government could subsidize this work via grants and tax incentives. Investments 
+frontier labs make in hardening against nation state espionage, theft, and 
+sabotage are investments in U.S. national security.  
+●The government could invoke DPA Title III to provide NEPA exemptions to
+advanced and critical AI clusters and related dedicated energy infrastructure that
+meet requirements that will be defined in the Government Support for Data
+Center Security section.
+●The government could introduce categorical exclusions to NEPA for no-impact
+preliminary activities on these projects, like design, drilling boreholes, collecting
+soil samples. This would help unlock early DOE Loan Programs Office financing.
+Energy infrastructure & permitting 
+●The President could declare AI-related power infrastructure as critical to national
+security, enabling expedited processes.
+●The President could direct federal agencies to establish a 3-month maximum
+timeline for power infrastructure project approvals ("idea-to-construction").
+●The President could direct agencies to revise the definition of energy
+"emergency" to include supporting rapid development of infrastructure in a
+competitive geopolitical context.○"Energy emergency" provisions are the workaround to environmental
+opposition to carbon-intensive energy sources. In litigation against a
+power generation build, emergency provisions (essential service
+provisions, greater good, etc.) can be called on by the courts to enable
+energy generation.
+●The government could mandate consolidated/unified permitting processes across
+federal agencies to eliminate redundant reviews. Refined processes should be
+directly informed by a working group with representation by industry and the
+states to ensure the points of greatest friction are removed.
+Environmental review reform 
+3 
+
+
+● The President could order agencies to reform environmental review processes to 
+enable rapid approvals, and establish expedited environmental review processes 
+for AI/compute-related power projects. 
+ 
+● The President could direct creation of limits on litigation options for designated 
+critical infrastructure projects. 
+○ In particular, expedited court decisions. For example: a mandate that 
+cases need to be concluded within 30 days. Every mechanism for delay 
+should be time-bounded. 
+Workforce development 
+ 
+● The Department of Labor could establish accelerated training programs for 
+utility/power infrastructure trades. 
+ 
+● The Department of Labor could order creation of a national apprenticeship 
+program focused on power infrastructure construction and sponsor state-level 
+programs (e.g. grants) calibrated for the most relevant trades and energy 
+industries in their territory. Federal apprenticeship programs could include a 
+one-year fellowship with a key department or agency to ensure the executive 
+branch remains attuned to the industry’s needs.  
+Critical infrastructure security 
+ 
+● The President could order enhanced physical and cybersecurity requirements for 
+power infrastructure serving AI compute facilities. 
+ 
+● The Department of Homeland Security could direct coordination between federal 
+agencies on infrastructure security evaluations. 
+ 
+● The Department of Homeland Security could mandate the creation of 
+information-sharing protocols between public/private entities on infrastructure 
+security.  
+● DHS and DOE, with the support of the CIA and NSA could study the feasibility of 
+securing fiber communications between data centers to form geographically 
+distributed clusters. This is very time-sensitive, since it affects data center design 
+decisions that are difficult to reverse once made.  
+4 
+
+
+○This study should consider the trade-offs between (1) the risks introduced
+by dark fiber security vulnerabilities and (2) the access to power that
+geographically distributed clusters (featuring sites linked together by dark
+fiber) would provide.
+ Resource access 
+●The President could direct agencies to expedite access to critical minerals
+needed for infrastructure development, granting priority access to critical and
+advanced cluster component supply chains.
+●Same dereg/permitting approvals terms as above (<3 months, etc.) could apply
+here to critical minerals.
+●In addition, the President could suspend or mitigate the FCPA abroad, which is
+increasing the effective cost of U.S.-based companies to explore and extract
+critical minerals outside the United States.○Note that FCPA is Congressionally mandated so recommend a WH legal
+review to understand to what extent this can in fact be mandated.
+●The President could order a review/reform of restrictions on domestic mining and
+resource extraction.
+●The President could order a review of legal recourse/penalties for weaponization
+of lawfare with increased penalties for conspiring with or involvement with foreign
+entities. In addition to increased penalties, legal costs could be borne by the
+entity under review.
+Government support for secure AI data centers in America 
+Personnel security 
+●The President could direct the U.S. Government to develop (90 days) and offer
+(120 days) a timely and effective background check option for sensitive roles at
+advanced AI clusters, critical AI clusters, and AI labs, or develop the criteria that
+these entities should/must use to perform such background checks and make
+hiring decisions based on them.
+5 
+
+
+Government support for data center security 
+●To maintain our lead in AI, we must build the AI data centers of the future in
+America. To avoid our adversaries simply stealing our advances, those data
+centers need to be secure against adversary infiltration. But data centers take a
+long time to build and cannot be retrofitted for adequate security at this level after
+the fact. This means we need to build this infrastructure securely now.
+●There could be some “best effort” U.S. Government-incentivized (tax incentives,
+funding, resources made available, etc.) directed at strengthening the security of
+existing clusters. Otherwise America’s future AI models — that will be trained on
+today's clusters — will just end up in the CCP’s hands automatically.
+●The President could instruct CISA and the AISI, with technical support from NSA,
+CIA, and CYBERCOM, to define security requirements for inference clusters,
+since these will also hold sensitive model weights while being potentially much
+smaller than training clusters.
+●The President could appoint an “AI infrastructure czar” to coordinate policy to
+accelerate the build-out of secure data centers. The steps described here will
+require the use of a broad set of federal authorities across different agencies, as
+well as coordination with private companies.
+●The President could direct Commerce, State, and DOD to investigate the
+prospect of setting up a version of the DOD’s Trusted Foundry Program for
+advanced AI chips fabbed on leading nodes, with its mandate to include working
+with international foundries like TSMC who have domestic footprints. The idea
+would be to later be able to offer government subsidies/incentives for using
+hardware fabbed in trusted AI foundries.●The DOE could establish a working group to identify points of contact on data
+center security who can advise the designers, builders, and operators of
+advanced AI clusters and critical AI clusters on vulnerabilities to nation-state
+exfiltration, sabotage, and denial ops. This working group could operate under
+the understanding that the United States may ultimately require that training runs
+and deployments above a certain threshold be carried out within
+security-compliant clusters. This working group could cover, for example:○Cyber, physical, RF/electronic warfare and personnel security.
+6 
+
+
+○ Passive data collection techniques. 
+○ TEMPEST standards (may include sharing classified standards in whole 
+or in part, if deemed necessary). 
+ 
+● The President could instruct the relevant government entities, with technical 
+support from NSA, CIA, CYBERCOM to take an active role in advanced AI data 
+center and critical AI data center security: ○ By developing best practices and sharing tactics, techniques, and 
+procedures to fortify advanced AI and critical AI clusters with select private 
+sector partners. ○ By developing counterintelligence playbooks to address risk of nation 
+state exfiltration and denial attacks against clusters and labs based on 
+such practices as passive data collection and active monitoring of 
+adversary efforts. ○ By coordinating these efforts closely with (classified) denial operations. 
+ 
+● The President could instruct the NSA, CIA, and CYBERCOM to conduct 
+pen-testing of current and future advanced AI clusters to map vulnerabilities to 
+physical/cyber/personnel access points. The results of these exercises should be 
+shared with labs/data centers if deemed supportive.  
+Government support for AI hardware security 
+ 
+● The President could instruct the NSA, CIA, CYBERCOM to identify points of 
+contact on chip security (and hardware more broadly) who can advise on design 
+for next-generation chips with a view to securing critical American national 
+security IP. These agencies could create a working group to coordinate with chip 
+design firms and fabs on chip security.  
+● The President could instruct DOE National Laboratories, DARPA, IARPA to 
+launch new research programs focused on radically accelerating security for AI 
+hardware devices, including cluster-scale confidential computing, and making 
+advanced AI hardware devices highly resilient to both invasive and non-invasive 
+physical attacks from sophisticated actors (including possible tampering at every 
+stage in the supply chain). This should be done in collaboration with the relevant 
+private sector entities.  
+● The President could instruct NIST to develop new, prescriptive security standards 
+specifically for AI hardware devices, working in collaboration with industry 
+7 
+
+
+partners and agencies including NSA, CIA, and CYBERCOM. Unlike current 
+standards such as FIPS 140-3 which provide general security objectives, these 
+new standards should detail specific technical requirements, implementation 
+measures, and verification methods required to protect AI hardware against 
+sophisticated attackers. 
+Indications and warnings 
+Situational awareness for cloud computing 
+●To learn who is using certain compute resources and for what purpose, the
+President could have Commerce/BIS:
+○Establish an advanced AI chips registry to ensure chips are delivered to
+intended destinations and remain subject to monitoring. Combine with
+either random inspections or location verification features to make this
+actually useful for enforcement.○Implement reporting and evaluation obligations for AI clusters used to train
+models above a training compute threshold (10^26 FLOP), or with total
+power consumption over the “advanced AI cluster” threshold of 50MW.
+(For context: the capex associated with a 50MW cluster is over a billion
+dollars.)○Establish a know-your-customer (KYC) identification and screening for
+access to high-volume compute usage to verify the identity and legitimacy
+of users.○Require commitments from recipient countries and entities, such as
+restrictions on sharing model weights, access to U.S. natsec red teamers,
+other security standards.■The Chinese are doing deals with offshore non-U.S. data centers
+for AI training cloud services, and essentially funding these facilities
+(e.g. Bytedance in Malaysia).
+○Require regular reporting and auditing of compute usage to identify
+patterns of misuse and inform future policy decisions.
+○Establish clear consequences for violating these commitments and
+restrictions, such as the revocation of access to AI compute resources,
+sanctions, and more.
+8 
+
+
+Identifying future requirements 
+ 
+● The President could order the formation of a task force jointly with industry 
+stakeholders to look into and produce ongoing/evolving 
+recommendations/requirements for:  
+○ Infrastructure for ultra-secure advanced AI and critical AI clusters. 
+○ Defining public and classified standards for data center security. 
+○ Identifying security considerations associated with the development of 
+technologies allowing for distributed training of critical AI models in highly 
+decentralized settings (e.g. DiLoCo, Intellect-1, Nous Research-type 
+schemes). 
+Data center security requirements 
+ 
+● The Secretary of Commerce, in coordination with the Director of National 
+Intelligence and the Secretary of Defense, could establish a task force within 30 
+days to develop comprehensive data center security standards for facilities 
+housing advanced AI clusters (>50MW) and critical AI clusters (>200MW). 
+○ This task force could be required to develop distinct security frameworks 
+for advanced AI and critical AI clusters, with critical AI facilities requiring 
+security measures at least as rigorous as those required for Top 
+Secret/Sensitive Compartmented Information facilities, addressing 
+physical security, cybersecurity, supply chain integrity, and access 
+controls. 
+ 
+● The U.S. Government could require companies building data center shells 
+meeting the frontier AI power threshold (>200MW) to obtain BIS approval before 
+breaking ground on a new build if they have received investment.  
+ 
+ 
+9 
+
+

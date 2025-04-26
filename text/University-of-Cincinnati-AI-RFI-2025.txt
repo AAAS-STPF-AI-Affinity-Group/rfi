@@ -1,0 +1,260 @@
+ 
+ 
+University of Cincinnati Recommendations In Response To  
+A Request for Information on Development of an Artificial Intelligence Action Plan 
+ 
+Introduction and Executive Summary 
+The University of Cincinnati (UC) is pleased to provide the following recommendations in 
+response to the subject request for information.  The United States must seek an AI 
+development and deployment action plan that produces both safe and secure AI. We propose 
+such action plan adopt two innovative core foundations: 1. Approach AI as decision-making 
+agents  rather than tools of decision-making, thereby linking safe and secure development 
+and deployment to the core elements of decision-making loops (observation, orientation, 
+decision, and action); 2. Adopt a virtual laboratory structure with a fuzzy logic verification 
+methodology as its cornerstone.  UC is recognized in the U.S. and globally for performing 
+advanced artificial intelligence (AI) research , development, and testing with a particular 
+emphasis on verifiable AI models and fuzzy logic machine learning.  This work, led by Professor Kelly Cohen is part of UC’s Digital Futures initiative housed in an off-campus research facility populated by a collection of UC researchers with a track record of performing 
+applied research in close cooperation with industry leading global companies, NASA, NSF, 
+NIH, Department of Transportation, Department of Homeland Security and U.S. Department 
+of Defense research labs, US Cyber Command and NSA.  This AI expertise is complemented 
+by Digital Futures hosting the Ohio Cyber Range Institute (OCRI), co-directed by Professor Richard Harknett.   The OCR I provides a safe and secure environment to train, test, and 
+verify the next generation of cyber systems and personnel and is actively utilized by both industry and government .  The OCR I infrastructure provides cyber system analysts a platform 
+to rapidly develop and test products and train on a fielded system.  The Ohio Cyber Range is 
+utilized by universities and educational institutions across the state of Ohio, many Ohio state agencies, the Ohio National Guard and is housed at the University of Cincinnati.   The 
+benefits of this range have reduced testing cycle times and provided a significant training ground to develop future cyber system experts.  The central theme of UC’s AI policy 
+recommendations focuses on the pressing need to develop AI model trainin g, testing and 
+certification capabilities in a safe virtual environment with an emphasis on safety and mission 
+critical applications.  Based on the principles that have proven successful at the OCRI, UC 
+recommends AI policies that promote creation of a similar capability focused on AI.   This 
+proven capability will allow for rapid, and safe AI development with enhanced testing 
+capability.    
+   
+
+
+The Need for a Different Approach to AI Training, Testing and Certification 
+The AI revolution is upon us with immense potential to enhance the quality of our lives and 
+bring about economic gains, but AI comes along with risks.  As AI systems continue to 
+integrate into many aspects of everyday life at home, work, and in the defense of our nation, 
+the need for transparency and explainability of these systems has never been more 
+important.  While AI use in safety critical systems has been studied by others, UC 
+researchers are adopting a different framework, one tying AI development and deployment to 
+a decision-making frame in which AI function aligns with the four basic elements of decision-
+making:  observe, orient, decide, and act.  Policies that support the rapid development of 
+virtual environments that allow for independent verification, validation, and accreditation 
+(VV&A) of these safety critical AI models is essential for public safety and for mission critical defense applications. 
+Establishing policies that promote the accelerated development of AI VV&A capabilities and 
+infrastructure will address several of the priority areas identified in the RFI including:  
+•Model development
+•Open -source development
+•Application and use
+•Explainability and assurance of AI model outputs
+•Cybersecurity
+•Data privacy and security
+•Risks, regulation, and governance
+•Comprehensive approaches for VV&A of safety/mission critical systems
+•AI Testing framework and infrastructure
+•Technical and safety standards
+•National security and defense
+•Research and development
+•AI Education and workforce development
+•Innovation and competition
+•International collaboration
+Of particular importance is promotion of AI policies that drive development of verifiability  and 
+transparent AI systems. Development of methods for verifying AI systems, especially in 
+national security applications will ensure they are reliable and secure. Fuzzy logic-based AI is 
+regarded as a foundation for responsible AI for several reasons.  Key features include the ability to serve as universal approximators, simulate linguistic uncertainty, computational 
+efficiency, capturing degrees of truth, and the ability to offer flexibility for more human-line 
+reasoning.  While conventional logic requires precise inputs and produces definite outputs, 
+fuzzy logic allows for intermediate possibilities, mirroring human thought processes.  This 
+
+
+ 
+ 
+ability makes fuzzy logic effective for uncertain data and can be effective in decision-making 
+where information is unclear, vague or incomplete.  By using fuzzy logic, AI systems can be 
+made more explainable, as it allows for the representation of the certainty of each data point, 
+which contributes to the development of explainable AI.  Fuzzy logic is crucial in the 
+development of more transparent and understandable systems, especially in safety-critical domains such as transportation, aerospace, health, cybersecurity, and manufacturing. These 
+systems enable the transition from fault-tolerance to optimize fault adaptive in near real-time. 
+Fuzzy logic systems have demonstrated capability and have met success in meaningful 
+safety critical systems.   
+Professor Kelly Cohen, the Brian H. Rowe Endowed Chair in Aerospace Engineering at the 
+University of Cincinnati, has extensively researched the integration of artificial intelligence (AI) in data fusion and situational awareness, focusing on applications in unmanned aerial 
+vehicles (UAVs) and autonomous systems. His work emphasizes the development of genetic 
+fuzzy logic-based AI methodologies to enhance decision-making and control in dynamic 
+environments. 
+One notable contribution is his research on genetic fuzzy systems for UAV control. In the 
+paper "Genetic fuzzy based artificial intelligence for unmanned combat aerial vehicle control 
+in simulated air combat missions," Cohen and his co-authors developed AI algorithms that 
+enable UAVs to autonomously perform complex maneuvers in simulated combat scenarios. 
+This study demonstrated the potential of genetic fuzzy systems to manage uncertainties and 
+improve the autonomy of UAVs in mission-critical situations.  
+Cohen has also explored cooperative control strategies for multiple UAVs. In "Cooperative 
+control of multiple uninhabited aerial vehicles for monitoring and fighting wildfires," he 
+investigated how multiple UAVs can work collaboratively to monitor and combat wildfires. 
+This research highlighted the effectiveness of multi-agent systems in enhancing situational 
+awareness and response efficiency during emergency management operations.  
+Additionally, Cohen's work on explainable AI (XAI) is noteworthy. His research focuses on 
+developing fuzzy logic-based AI solutions that are transparent and interpretable, addressing 
+the need for responsible AI in safety-critical applications. This approach ensures that AI-
+driven decisions in areas like air traffic control and emergency management are 
+understandable to human operators, thereby fostering trust and facilitating integration into 
+existing systems.  
+Through these efforts, Professor Cohen has significantly advanced the application of AI in 
+enhancing data fusion and situational awareness, contributing to improved safety and 
+efficiency in various domains. 
+  
+
+
+These advances in AI are applicable across multidomain information systems and industries.  
+They are applicable for advances across not only UAV platforms, but throughout the medical, 
+energy, and cyber communities.  To continue the advancements in this dynamic field, the 
+University of Cincinnati, recommends the following policy focus recommendations.   
+•AI Testing Infrastructure to Assess Risks for Startups - Immediate (6-12 months)
+oCreate an AI regulatory sandbox for startups to safely test and validate AI solutions
+under supervision
+oDevelop standardized AI risk assessment frameworks to evaluate new AIapplications’ safety, fairness, and privacy
+oProvide mentorship and compliance guidance for AI startups to ensure ethical bestpractices and regulatory alignment
+•Long-Term (High-Reward Gains)
+oMake Cincinnati a safe AI innovation hub, known for a supportive environment andstrong ethical standards that attract startups and investors
+oInfluence broader policy by showcasing effective AI risk management, positioningthe region as a leader in shaping responsible AI governance
+•AI for Emergency Management - Immediate (6-12 months)
+oImplement AI-driven disaster prediction and early warning systems for events like
+floods or severe weather
+oUse AI to optimize emergency resource allocation (e.g. smart dispatching of fire,police, EMS) based on real-time data
+oDeploy AI chatbots for real-time public crisis communication, providing citizens withtimely updates and guidance during emergencies
+•Long-Term (High-Reward Gains)
+oBuild an AI-powered emergency management network that anticipates risks and
+coordinates rapid response across agencies
+oContinuously improve disaster preparedness through AI simulations and analytics,reducing response times and mitigating impacts
+These recommendations directly align with the priority of "Explainability and assurance of AI 
+model outputs" as well as "Technical and safety standards". In part, this policy should include 
+implementing robust safety protocols for AI systems, with a specific focus on fuzzy logic and 
+safety AI drivers to improve reliability and decision-making in autonomous systems. 
+Policies for AI development that build upon the  successful train, test and certify approach 
+taken at the Ohio Cyber Range should be implemented to accelerate national AI capabilities.  
+In addition , policies that promote research that  explores AI applications in cybersecurity, such 
+as threat detection, network security, and incident response should be implemented.  
+
+
+ 
+ 
+ 
+These recommendations align with the "Cybersecurity" and "National security and defense" 
+priorities and would build on existing strengths at UC, such as the Ohio Cyber Range 
+Institute. 
+Broader AI Recommendations 
+ 
+While UC ’s policy recommendations primarily focus on accelerating the development of the 
+application of fuzzy logic, UC recommends seven additional focus areas to secure and accelerate U.S. dominance in AI technology. 
+ 
+• Academic Institutions Enhancement 
+o Strengthen Trustworthy AI and related programs in universities and research 
+centers in a way that creates pathways of opportunity for industry. 
+o Foster collaborations between academia and industry for cutting-edge research 
+o Enhance AI research infrastructure by providing access to state-of -the-art 
+laboratories, computational resources, and data storage facilities  to provide 
+industry efficiencies.  
+o Support the development of AI education programs to train the next generation 
+of AI researchers and practitioners, ensuring a steady pipeline of skilled 
+professionals. 
+ 
+• Business Community Development 
+o Support the growth of AI startups and established technology companies 
+o Encourage venture capital investment in AI-focused enterprises 
+o Facilitate mentorship programs linking startups with industry veterans  
+o Foster interdisciplinary AI research across various industrial sectors to enhance 
+innovation and application. 
+o Encouraging interdisciplinary research by facilitating collaborations between AI 
+researchers and experts from other fields such as healthcare, education, and 
+environmental science. 
+ 
+• Government Support 
+o Advocate for policies that promote AI innovation and development 
+o Offer  grants and tax incentives to support AI projects and companies 
+o Establish innovation zones with benefits for AI-related businesses 
+o Promote the development of explainable AI to ensure transparency and 
+accountability in AI systems.  
+ 
+
+
+•Infrastructure Improvement
+oUpgrade technological infrastructure to support AI development
+oEnsure high-speed internet and robust data centers are available
+oPromote smart city initiatives integrating AI for urban improvement
+oFacilitating access to high-quality datasets and computational resources for AI
+research and development.
+oEstablishing partnerships with AI research institutions to promote national
+collaboration and knowledge sharing.
+•Talent Pool Expansion
+oCreate workforce development programs that leverages AI
+oAttract and retain skilled AI professionals in the U.S
+oDevelop local education and training programs in AI and data science
+oSupport universities to create specialized AI certification programs
+oImplement AI curriculum in schools (K-12 and vocational schools)
+•Networking and Collaboration
+oSupport organization of regular conferences, workshops, and meetups to foster
+community and partnerships
+oCreate platforms for collaboration between academia, industry, and government
+oCreate platforms for knowledge sharing and innovation exchange
+•Healthcare Innovation
+oLeverage AI to improve diagnostics, treatment personalization, and patient care
+oSupport AI-driven health research through partnerships with local hospitals and
+research center
+oExpand preventative health services with AI to identify community health risks.
+oEstablish healthcare AI talent pipelines through collaborations with medical
+schools and healthcare providers.
+
+
+ 
+ 
+ 
+Qualifications of UC Researchers Providing AI Policy Recommendations 
+ 
+Kelly Cohen, PhD 
+• Director, AI Bio Lab, Digital Futures, UC, May 2022-present 
+• Aerospace Engineer since 1986 (joined UC in 2007, fuzzy logic developer since 1994) 
+• BS, MS, and PhD from Israel Institute of Technology, Technion 
+• Developing Explainable Fuzzy AI systems since 1994 
+• Interim Department Head, UC/Aerospace: 2017-2021 
+• Chair of American Institute for Aeronautics and Astronautics (AIAA), Intelligent 
+Systems Technical Committee, 2013-15  
+• President, North American Fuzzy Information Processing Society (NAFIPS), May 
+2024-May 2026 
+• Honorary Co-Chair and Industrial Liaison Chair , 2025 IFSA/NAFIPS, International 
+Fuzzy Systems Association Joint Congress to be held in Banff, Alberta, Canada, 
+August 15-18, 2025.   
+• Board Member, Cincinnati AI Catalyst (CAIC) • Genexia, LLC, Co-Founder and Chairman of the Board – _Genexia is a start-up 
+• Brandrank, Chief Academic Advisor 
+• Associate Editor, IEEE Transactions on Fuzzy Systems, Impact Factor – _10.7  
+• Subject Editor for Aerospace and Intelligent Systems: Complex Engineering Systems , 
+OAE Publishers, Impact Factor - 3.7 
+• Specialty Chief Editor for Intelligent Aerospace Systems , Frontiers in Aerospace 
+Engineering, Frontiers, Switzerland 
+ 
+Richard Harknett, PhD 
+• Professor of Political Science and Director of the School of Public and International 
+Affairs, Director of the Center for Cyber Strategy and Policy , Co-Director of the Ohio 
+Cyber Range Institute at the University of Cincinnati. He holds an affiliate faculty position with the School of Information Technology at UC.  
+• First Scholar-in-Residence at United States Cyber Command and NSA in 2017. 
+• Advisor to the US government and state of Ohio and contributor to US Cyber 
+Command’s doctrine of persistent engagement as well as advising allies on adopting 
+similar proactive cyber postures. 
+• Co-author of Cyber Persistence Theory: Redefining national security in cyberspace 
+(UK: Oxford University Press, 2022). 
+• Professorial lectureship at the Diplomatic Academy Vienna, Austria, where he served 
+as Fulbright Professor in 2001.  
+• Inaugural Fulbright Professor in cyber studies at Oxford University, UK in 2017 
+• Over 60 publications with research focus on international relations theory and 
+international security studies with particular focus on cyber strategy.  
+
+
+Conclusion 
+The University of Cincinnati is dedicated to advancing AI research that aligns with national 
+priorities and fosters innovation. By leveraging the expertise of our esteemed faculty and supporting responsible AI policies, we aim to contribute significantly to the development of a 
+robust AI action plan.  In addition , we believe that policy recommendations focused on cyber 
+security enabled AI which leverage the capabilities of the Ohio Cyber Range Institute will allow for continued growth within the AI field.  By implementing these policies, the University 
+of Cincinnati aims to create a supportive environment for all AI researchers, fostering 
+innovation, collaboration, and responsible AI development .   
+
+

@@ -1,0 +1,69 @@
+ 
+   As AI continues to expand across industries, the lack of standardized messaging formats hinders 
+interoperability, governance, and transparency. We propose the creation of an extensible JSON -
+based AI Messaging Standard, similar to the ACORD standard used in  the insurance industry, to 
+define structured electronic exchanges between AI systems, regulatory bodies, and enterprise 
+applications. This standard should be designed with extensibility, allowing organizations to 
+define private extensions to support propr ietary or domain -specific AI use cases while 
+maintaining interoperability with the broader ecosystem. Key Areas for Standardization: - AI 
+Model Input Prompts – Standardizing prompt structures ensures consistent model interactions, 
+improving reliability and  reducing ambiguity across AI platforms. - AI Model Responses – 
+Establishing a common format for AI -generated outputs allows seamless integration with 
+enterprise applications, regulatory compliance systems, and multi -AI workflows. - AI Model 
+Cards – Providing a standardized format for AI documentation, including model origin, training 
+data sources, performance benchmarks, bias detection, and ethical considerations. - AI Audit 
+Logs – Defining structured records of AI decisions (inputs, outputs, confidence sc ores) for 
+compliance and risk mitigation purposes. - Explainability and Justifications – Creating a 
+framework for AI -generated explanations, ensuring transparency in high -stakes decision -making 
+(e.g., finance, healthcare, legal). - AI System Performance Me trics – Standardizing reporting for 
+model latency, drift detection, fairness assessments, and operational efficiency. - AI Governance 
+and Compliance – Structuring governance and regulatory compliance reporting in a machine -
+readable format for auditing and oversight. - Federated AI Learning & Model Sharing – Enabling 
+secure model training and transfer protocols to facilitate collaborative AI development without 
+compromising privacy. - AI Agents and Multi -Agent Coordination – Establishing structured 
+messaging  protocols for AI agents to communicate effectively in automated workflows. 
+Extensibility in the AI Messaging Standard: - Organizations should have the ability to extend the 
+standard with private extensions that allow for custom fields, proprietary model m etadata, and 
+organization -specific governance rules. - Extensions should be structured in a way that ensures 
+backward compatibility, preventing interoperability issues across different AI platforms. - A 
+governance mechanism should be in place to encourage industry-wide adoption of common 
+extensions, ensuring best practices while allowing innovation. Benefits of an Extensible JSON -
+Based AI Messaging Standard: - Interoperability – Ensures AI services, platforms, and 
+regulatory bodies can communicate effective ly. - Transparency & Trust – Facilitates auditing 
+and oversight of AI decision -making processes. - Efficiency & Scalability – Reduces 
+development and compliance costs by providing a universal messaging framework. - Security & 
+Privacy – Supports encrypted a nd structured AI data transmission in compliance with 
+regulations. - Customization & Innovation – Provides a structured but flexible framework that 
+allows organizations to tailor AI messaging to their specific needs. Call to Action: We urge 
+policymakers to  prioritize the development of this standard, bringing together AI stakeholders, 
+industry leaders, and government agencies to ensure AI systems operate in a structured, secure, 
+and transparent manner while maintaining the flexibility to accommodate evolvin g AI 
+applications. We appreciate your consideration and look forward to contributing to this initiative.  
+ 
+As AI systems increasingly influence critical areas such as healthcare, transportation, finance, 
+and infrastructure, the requirements for ongoing monitoring of AI systems that impact safety 
+remain unclear. To ensure reliability and public trust, policies a nd regulations should explicitly 
+
+
+ 
+   call for continuous automatic monitoring for AI systems where safety is a concern. Key Reasons 
+for Continuous Automatic Monitoring: - AI systems used in safety -critical applications should be 
+monitored in real -time or near -real-time to detect anomalies, fa ilures, or unexpected behaviors 
+that could lead to harm. - Periodic or manual monitoring approaches are insufficient for AI -
+driven systems that operate dynamically and make real -time decisions. - Automated monitoring 
+can provide continuous oversight, detec ting bias, drift, or security vulnerabilities as they arise, 
+rather than after an incident occurs. - Industries such as aviation, autonomous vehicles, and 
+medical AI require rapid response mechanisms that only automated monitoring can support. 
+Clarity Need ed in Policy: - Define explicit requirements for continuous monitoring versus 
+periodic audits, ensuring regulatory expectations align with the nature of AI operations. - 
+Establish industry -agnostic guidelines for automated AI monitoring, applicable across sectors 
+where AI impacts human safety. - Require AI developers and operators to implement real -time 
+anomaly detection, logging, and alert mechanisms to ensure rapid intervention when needed. - 
+Provide clear compliance frameworks that specify monitoring exp ectations for different AI risk 
+levels. Call to Action: We urge policymakers to explicitly address the necessity of continuous 
+automatic monitoring in AI safety regulations to close existing gaps in oversight and ensure AI 
+systems remain safe, reliable, an d trustworthy throughout their lifecycle. I appreciate your 
+consideration, please reach out any time to discuss.  
+ 
+
+

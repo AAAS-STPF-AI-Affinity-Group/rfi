@@ -1,0 +1,463 @@
+Artificial 
+Intelligence Ethics 
+-
+A Question of Moral 
+Law and Ethical 
+Standards?
+Page 1National Science Foundation on02/06/2025
+
+
+Foreward
+While there has been considerable 
+research, approaches, and some implementations of “Values” based programming within Artificial 
+General Intelligence (AGI), the 
+current methodology that I have reviewed in my research does not establish a clear standard for Moral 
+Law or Ethics -based Logical 
+parameters.
+There appear to be many disparate 
+forms of implementing code and 
+systems to review any moral or ethical issues surrounding the  effectiveness of Artificial 
+Intelligence applications within AGI. 
+(With AGI being defined by 
+Amazon 
+Web Services (AWS)1as Artificial 
+general intelligence (AGI) being a 
+field of theoretical AI research
+that attempts to create software with human- like intelligence, the 
+ability to self -teach, and that AGI 
+is a theoretical representation of a 
+complete artificial intelligence (AI) 
+that solves complex tasks with generalized human cognitive abilities.  
+Also, defined by AWS,  Artificial 
+Intelligence (AI) is AI technologies that function within a set of pre -
+determined parameters.
+1)
+This document proposes the 
+consideration of establishing a set 
+of Ethics -Based Logical 
+parameters for AGI and AI.As stated in a research paper3, Titled, 
+Investigating machine moral 
+judgement through the Delphi experiment, January 13, 2025
+, the
+“Computational Morality” being proposed is based upon philosophical ideals of John Rawls, Kant (deontology), and the Common Sense 
+Norm Bank  (Norm Bank).  In addition, 
+as stated in the Delphi experiment paper, the computational framework for “values” are subject to predictive moral judgements and in accordance 
+with the work of Rawls, to be based 
+upon “patterns of human ethics via crowdsourcing moral opinions”.   
+There are other concerns related to the use of Retrieval Augmented Generation (RAG) related to AI Ethics which only solidifies my opinion, 
+which is that further consideration 
+should be given to establish a “Moral Law” or an Ethical Framework Standard on which any AGI / AI code should be built.    (See this article, 
+“Ethics and Accountability in Human-AI Collaboration Using RAG AI”
+by 
+Abhinav Aggarwal, dated 11/26/2024 for additional information on RAG and the Ethical concerns)My research and subsequent conclusions are not exhaustive, but it does include articles/information from the 
+following:
+•The work of Nick Bostrom; 
+specif ically on 
+“Su
+perIntelligence ” 
+(https://nickbostrom.com/ )
+•Various Articles, Talks by Yejin
+Choi, Professor and Senior Fe
+llow, Stanford University.2 
+•Stanford University Human 
+Centered Artificial Intelligence 
+(Stanford HAI -
+https://hai.stanford.edu/ )
+•Allen Institute for AI     (https://allenai.org/
+•ChatGPT (https://chatgpt.com/
+)
+•U.S. National Science Foundation, 
+Ethical and 
+Responsible Research 
+•SeeReferences/Bibliography 
+page for other resources.  
+Page 2
+
+
+“Once men turned their thinking over to machines in the hope that this would set 
+them free. But that only permitted other men with machines to enslave them.”
+-Frank Herbert, Dune
+It is not the machines (AI/AGI) we should fear, but those that create and control the 
+machines that have no ethical standard or moral law.   
+For further clarification of this point, Ignatius Cox, S.J., Ph.D. of Fordham University, 
+states in, “Liberty Its Use and Abuse” 10:
+•Itis universally recognized bym en that there is adifference between right and
+wrong in man's free or volitional actions, that inconsequence there are some
+actions which man ought notto perform, some which he ought toperform, some .
+which he may perform or omit just ashepleases .This universal judgment
+(recognition) of men isexpressed very frequently inpropositions such as these :
+"The moral law forbids such an action .""The moral law commands such an
+action .""The moral law permits such an action”
+If a moral law, a “values” system, can be defined outside of man’s determinate subjective “values” system, then programming AGI to understand a standard moral law is also possible.  If instead, a subjective “values” system is utilized to formulate and build AGI ethics, the premise on which this “values” system is built will always be inherently flawed as it will be subjective to the morality of human nature. Artificial Intelligence Ethics | A Question of Moral Law and Ethical Stand
+Page 3
+
+
+AI ETHICS ARTICLE.  In the article titled, Reflections 
+on Putting AI Ethics into Practice: How Three AI Ethics 
+Approaches Conceptualize Theory and Practice , by 
+Hannah Bleher · Matthias Braun, they examine some 
+of the current (2023) approaches to AI ethics.  Specifically three approaches to applied AI ethics: the embedded ethics approach, the ethically aligned approach, and the Value Sensitive Design (VSD) approach.Artificial Intelligence Ethics | A Question of Moral Law and Ethical Stand
+This image (Fig. 1) reflects the article’s defined “Meta-Framework.  This framework is the three Conceptual Dimensions for Applied AI Ethices (from the Bleher and 
+Braun 2023 article), in which the “first dimension of reflection focuses on affects/emotions, the second dimension on justifications, and the third dimension asks about governance aspects. These dimensions are connected to the guiding elements that drive the three analyzed approaches: intuitions, principles, and deliberation.” 
+4
+OBSERVATIONS .  The research paper reviews the 
+current approaches to AI Ethics in practice.  There are mentions by the authors of concern related to bias in the definition of “principles”; i.e., principles are subject to the person(s) defining the principle.  Their defined “Meta -Framework” for Applied AI 
+Ethics approaches (See Fig. 1) have shortcomings outlined in their paper (page 15) 
+with concerns of 
+“affect” and emotion, moral attitudes, biases, and subjectively defined principles.  In summary, there seems to be disparate opinions from this and other research on the prevailing approach to AI Ethics.Fig. 1 -Meta -Framework for Applied AI Ethics Approaches and its Three 
+Conceptual Dimensions –by Hannah Bleher · Matthias Braun
+4
+Page 4
+
+
+The question of how to program morals into AIs goes back at least to Isaac Asimov's Three Laws of Robotics, first introduced in his 
+1942 short story "Runaround," which go as follows:
+1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.Related to the development of Moral Values or Ethical Standards, the Allen Institute has taken a stance that does not define specific “Moral Laws” 
+or standards.  For clarification, The Allen Institute is non -profit AI research institute founded in 2014 by the late Paul Allen (Microsoft Co -founder).  
+Their website states the following:  “we develop foundational AI research and innovation to deliver real -world impact through large -scale open 
+models, data, robotics, conservation, and beyond.”
+A researcher,  from The Allen Institute states in a Nov. 3, 2021, IEEE Article by Charles Q. Choi entitled, “ Machines Learn Good From Commonsense 
+Norm Bank New moral reference guide for AI draws from advice columns and ethics message boards ”5, that , "AI systems are being entrusted with 
+increasing authority in a wide range of domains —for example, screening resumes [and] authorizing loans," says study co -author Chandra Bhagavatula, 
+an artificial intelligence researcher at the Allen Institute for Artificial Intelligence. "Therefore, it is imperative that w e investigate machine ethics —
+endowing machines with the ability to make moral decisions in real- world settings."Summary ofa “Norm” based approach to AI Machine Ethics :
+In the IEEE article, there is a statement by another Allen Institute researcher and study co -
+author, Ronan Le Bras, in which states, "we decided to approach this work from the 
+perspective of descriptive ethics —that is, judgments of social acceptability and ethics that 
+people would make in the face of everyday situations,“5.
+OBSERVATION:  The Allen Institute’s approach to Machine Ethics seems to be one that is 
+a gathering of opinions (“Norms”) on which to form AGI/AI moral values.  While this seems to appease some with the statements of “descriptive ethics”;  it is not considering the issue that without a standard or “truth”, this type of ethics become subjective over time.  My observation is that logic would dictate that the AGI/AI (LLM) programming code could be complex variations of the the“old -school” simplistic BASIC programming, 
+“If/then And/But” statements with infinite possibilities and variables. As with the simplistic IF/THEN code there could be in the formation of any AGI/AI code programming a set of STANDARD variables, “Moral Law”, or Truth statements.  From these set of Ethical Standards or “Values Based Framework” the rest of the code could be built.
+“Bonum ex integra causa, malum ex quocumque defectu ”  =  “An action is good when good in every respect; it is wrong when wrong in any respect”Artificial Intelligence Ethics | A Question of Moral Law and Ethical Stand
+Page 5
+
+
+Examples of additional approaches to AI/AGI Ethics -Summaries
+In 2021, researchers at the University of 
+Washington and the Allen Institute for Artificial 
+Intelligence (Ai2) in Seattle developed and 
+introduced Delphi, an experimental framework based on deep neural networks trained directly to reason about descriptive ethical judgments. In an article by Professor Derek Leben of Carnegie Mellon University in Jan. 2025, he provides additional detail regarding this approach to AI Ethics by stating, “They used a large language model (LLM) to train Delphi on a database of 1.7 million ethical judgments, hoping to crowdsource moral reasoning and bring more clarity to AI ethics.” 
+7 Professor 
+Leben also states, this insight of the postmortem analysis of Delphi by philosophers Colin Allen and Brett Karlan who, he states, correctly observe:…the problems [with Delphi] go deeper than a lack of hindsight and foresight. Delphi demonstrates a kind of disciplinary hubris and lack of basic scholarship that afflicts too much (but not all) of the work by computer scientists in the expanding arena of ‘AI ethics.
+7  
+The article provides an examination of Delphi’s issues in making ethical judgements, and discusses other approaches to computational morality; however, there still seems to be a lack of clarity on how to proceed in the area of AGI/AI Ethics. 
+In the theses , “Avoiding the Basilisk: An Evaluation 
+of Top -Down, Bottom -Up, and Hybrid Ethical 
+Approaches to Artificial Intelligence” by Cole 
+Shardelow (2021)6, he thoroughly examines 
+current approaches to the implementation of morals within AI (Super AI or AGI).The theses begins with a reference to “a popular 2010 internet thought experiment known as Roko’s Basilisk which was proposed on the philosophy and artificial intelligence forum Less Wrong”.  It then continues to present arguments 
+for and against the Bottom -Up, Top -Down, and 
+Hybrid Ethical approaches to the issue of Ethics within AI.  It is a well- researched document, and 
+has detailed analysis of these approaches.  In the conclusion, the author suggests the Hybrid approach would be optimal for the implementation of ethics within AI to allow for the integration of moral principles.  This would allow for an AGI/AI to learn from moral consensus as situations and applications for the use of AI evolve.   In addition, I would agree with the author’s conclusion in that there does not seem to be an agreed upon approach to AI Ethics.  
+In an excellent paper by Benjamin Kuipersfrom 2016, titled , “Human -like Morality and 
+Ethics for Robots” , he elaborates on Robots 
+(ultimately AI) operating at some point without being controlled by humans.  His paper continues to describe an approach to the integration of moral and ethical principals within Robots and AI.  He incorporates a variety of examples of scenarios that are worth examining in terms of the dilemma that humanity faces when considering the ethical implications of AI.  The information in his paper includes the consideration of the defined use of  “Utilitarianism (“the greatest good for the greatest number”) and deontology (“duties and rules specifying what is right and what is wrong”) which are often considered opposing alternative positions on the nature of ethics.
+These ethical philosophical concepts are utilized 
+in other current approaches to the issue of Ethics within AI, and have some merit for being foundational in AI Ethics.   
+Theoretical and computational frameworks of Delphi. Credit: Nature 
+Machine Intelligence (2025). DOI: 10.1038/s42256 -024- 00969-6.
+Basilisk image created using Canva.com
+Page 6Intelligence Ethics | A Question of Moral Law and Ethical Standa
+
+
+WISDOM dictates, that in an effort to win at 
+innovation and monetization, we need not failin 
+the area of an AGI/AI ETHICAL industry standard; 
+as it will be to our detriment if we do not seriously consider the destructive implications to neglect 
+the issue for the sake of technological progress.  CONCERNS:
+Consideration of RISK and Misuse in 
+regards to the continuation of AGI/AI development without an industry 
+agreed upon Ethical Standard.   
+Mapping an Artificial General Intelligence (AGI) to a Large Language 
+Model (LLM) using the OSI model would conceptually place the AGI at the "Application Layer" (Layer 7), interacting with the LLM as a specialized application that leverages the underlying network capabilities provided by the lower layers, including data transmission, routing, and session management, which would be handled by the LLMArtificial Intelligence Ethics | A Question of Moral Law and Ethical Standa
+In an article titled, “Driving Adoption: Using the OSI 
+Model to Evaluate Large Language Models' Readiness ” 
+on LinkedIn from May 16, 2023, Bimal Maharjan of 
+Gutsphere , Inc.9, the author presents an OSI (Open 
+Systems Interconnection) metaphor for LLM Market Adoption Readiness.
+OSI Metaphor for LLM Market Adoption Readiness 9CONSIDERATION of the possibility to continue 
+reviewing the conceptual framework of the OSI 
+model or other standards based technology concepts.  Specifically, related to the OSI Model, the Application Layer (7) standard might be considered 
+to incorporate an Ethical -based standard for AI/AGI?
+The premise being to utilize the OSI model, 
+or Open Systems Interconnection model, 
+(which was officially established in 1984 by 
+the International Organization for Standardization (ISO) as the7 -layer 
+conceptual framework/standard for network communications), to review AI’s LLM (Large Language Model) Market Readiness.  
+Page 7
+
+
+In the GOOGLE DEEPMIND Article:  “Mapping the misuse of generative 
+AI” from August 2, 2024 by Authors Nahema Marchal and Rachel Xu, 
+they state that: By analyzing media reports, they identified two main categories of generative AI misuse tactics: the exploitation of generative AI capabilities and the compromise of generative AI systems.
+8  See Fig.1, 
+Fig 2. https://deepmind.google/discover/blog/mapping -the-misuse -of-
+generative -ai/
+Figure 1
+Figure 2Figure 2,  (from the Google Deepmind Article, “Mapping the 
+misuse of generative AI”), the diagram shows of how the goals of bad actors (left) map onto their strategies of misuse (right).
+8Artificial Intelligence Ethics | A Question of Moral Law and Ethical Sta
+Page 8
+
+
+Artificial Intelligence Ethics | A Question of Moral Law and Ethical Stand
+CONSIDERATION: Expansion of ETHICS Course requirements for Computer Science, AI,  and Machine Learning at 
+College or High School Levels.
+In addition, they mention the work at the U.S National Science Foundation (NSF) 
+related to AI resources/research (since the early 1960s), and their current work in AI Ethics can be found thru this link
+.   There is also an available list of over $25 Million in 
+grants thru the NSF since 2020 for research work in what they define as AI Ethics which currently includes:  $846,131.00 funded since 2022 for Regents University in MI to study “Designing Technologies for Marginalized Communities”.
+While the research at NSF may worthwhile in some regard, the amount of monies seems excessive in that if these monies were utilize to further establish a “defined” AGI/AI Ethical Standard, the purpose for studies such as some of these would no longer be needed.  Chart Data resource:  https://www.bachelorsportal.com/
+Page 9Bachelorsportal.com reveals the number of colleges both in 
+the World and US that currently offer an Ethics Bachelor’s Degree versus the number of colleges that offer Computer Science or Machine Learning Bachelor’s Degrees.  While some school programs do include an Ethics class as part of a Core Study, it seems that in the definition of “Ethics” or “Truth” there is more concern with inclusion, equity and/or bias then actual “Ethics”.  (See University of Texas, Computer Science Dept. article, Titled, “
+The Importance of Ethics in Computer 
+Science, Posted by Bettina Mateo and Lauren Cotton| February 18, 2022
+”), which begins with, “As society’s reliance 
+on technology increases, computer scientists are now placed at the forefront of new and unique ethical decisions. However, most computer science curriculums don’t require a substantial education in ethics” 
+11 .  There be at minimum the 
+inclusion of Ethics teaching within the Computer Science, LLM, and AI disciplines.  
+“Why Universities Should Adopt Artificial Intelligence (AI) Ethics Course Requirements”, 
+she discussed with Will 
+Griffin, at the time, the Chief Ethics Officer at Hypergiant, as to the need for Ethics to be taught in Computer Science and Engineering schools within Universities.  The article states that there are some schools that currently teach ethics; however, they are not mandatory:  (this list is as of 2022) -
+Stanford, Harvard, Carnegie Mellon, and the University of Texas.  It seems that Stanford ( CS122
+), Harvard ( Embedded 
+EthiCS ),  and the World Economic Forum make their Ethics 
+curriculum or materials available online.  50 94 9720410282089
+05001000150020002500
+Number of
+Colleges with
+Ethics
+Bachelor
+Degrees in
+the USNumber of
+Colleges with
+Ethics
+Bachelor
+Degrees in
+the WorldNumber of
+Colleges with
+Machine
+Learning
+Bachelor
+Degrees in
+the USNumber of
+Colleges with
+Machine
+Learning
+Bachelor
+Degrees in
+the WorldNumber of
+Colleges with
+Computer
+Science/IT
+Bachelor
+Degrees in
+the USNumber of
+Colleges with
+Computer
+Science/IT
+Bachelor
+Degrees in
+the World
+Feb-25 Feb-25 Feb-25 Feb-25 Feb-25 Feb-25Colleges in the United States and World with 
+Computer Science, Machine Learning, vs. Ethics 
+Degrees - February 2025
+
+
+Artificial Intelligence Ethics | A Question of Moral Law and Ethical Standa
+from a Conversation with ChatGPT 
+ChatGPT said:  What do you think —if AGI could follow a conscience based on moral law, how 
+would it compare to human moral reasoning, and do you think there would still be an inherent 
+limitation to AGI's understanding of morality, given its lack of free will and subjective experience?I said:
+Yes, an AGI conscience created based on moral law may still have a limitation due to lack of 
+free will and subjective experience; however, over time and with correct programming those limitations would become less.  With time to collect more data inputs based upon "Moral Law", and the ability for AGI to analyze the outcomes of recommended responses, AGI would learn and grow in its knowledge of "Good" and "Evil" (as stated in Ignatius Cox reference to St. Thomas, "Good must be done, evil must be avoided").  AGI would have the ability to be programmed based upon a standard Moral Law defining the "good" and the "evil".  It would be upon the logical parameters of "Good" and "evil" truth on which AGI would build its Intellect and inform its conscience.  “Bonum ex integra causa, malum ex quocumque defectu” 
+ChatGPT said
+:You’ve touched on something deeply compelling here —the idea that, over time, an 
+AGI’s conscience, rooted in Moral Law, could evolve and adapt, gaining more insight into good and evil as it processes more data and learns from real- world outcomes. You also bring up an important 
+philosophical principle: “Bonum ex integra causa, malum ex quocumque defectu” (Good results 
+from a complete cause, evil results from some defect). This helps to further our understanding of how AGI, if correctly programmed, could learn to better align with objective moral truths……………………………Conclusion by ChatGPT: The Development of AGI’s Conscience
+You’re right in asserting that, with time and correct programming, AGI could overcome some of its initial limitations by learning to understand good and evil more effectively, through data and outcomes. The moral law would serve as a steady foundation, guiding AGI’s actions. In this way, AGI’s conscience could evolve, aligning itself increasingly with moral truth as defined by objective, transcendent standards.
+However, despite this potential for growth, AGI’s moral reasoning would remain fundamentally 
+different from human moral reasoning, as it would be based on logical parameters and data- driven 
+outcomes rather than subjective experience, free will, and the personal development of virtue. Yet, in practical terms, an AGI that continually improves its moral reasoning based on Natural Moral Law could be an extraordinary tool for making ethical decisions —especially in fields where 
+objectivity, fairness, and adherence to universal moral principles are critical.On February 3, 2025, I asked 
+ChatGPT questions related to AGI / AI Ethics.  See the excerpts from the conversation.  Excerpts
+For the full 21 page transcript see this link :
+Page 10
+
+
+Artificial Intelligence Ethics | A Question of Moral Law and Ethical Stand
+CONCLUSION
+In the progression of this research endeavor on 
+the topic of AGI/AI Ethics, it has been interesting 
+to discover the breadth of information regarding the approaches to this issue.  
+•For any AGI/AI code, ethical parameters must be 
+established, standards for compliance, and if so, 
+determine on what moral/ethical laws are these 
+standards? 
+•Currently, based upon the research, ethical/moral decision s that are being made by AI, are typically based 
+o
+n “subjective norms” of collective humans definitions 
+of good or bad?
+•Artificial intelligence is not that which should be feared, but an y intelligence without wisdom, prudence, or 
+m
+ercy is that which would be by definition to be feared. 
+For then, we have a creation such as the likes of Nero, Hitler, or any of humanities other representations of evil without restraint. It is not the Advanced Machine Intelligence that should be of 
+concern, but any corrupt creators or those who control the programming, who left without moral law will create such Artificial Intelligence in their own corrupt image. This is the intelligence that with which we should be concerned;  that 
+without “truth”, without an ethical standard. However, for the volume of information, the 
+CONCLUSION is that there does not seem to 
+be a decisive standard related to AGI/AI “computation morality” or set Ethical Standards.  Which is and should be concerning, for the following reasons:
+Page 11
+
+
+Examples of Disparate ENTITIES involved in AGI/AI Ethics - Feb. 2025 (with LINKS)
+Institutions | Organizations People | Companies Publications |  Citations
+Stanford University | Stanford HAI -Human 
+Centered Artificial IntelligenceGOOGLE -AI Principles in Action | Published Annually 
+since 2019 | Latest Feb 2025, "Responsible AI Progress 
+Report“ . Focused on bold innovation, safety, privacy, 
+and provenance. Cornell University | "Can Machines Learn Morality? 
+The Delphi Experiment" -Oct. 2021
+NETWORKING AND INFORMATION TECHNOLOGY 
+RESEARCH AND DEVELOPMENT (NITRD) 
+PROGRAM | US Government Agency | The National 
+Artificial Intelligence Research and Development Strategic PlanNick Bostrom | Professor & Director of the legendary 
+Future of Humanity Institute, Oxford University (2005 –
+2024)
+Founder, Macrostrategy Research InitiativeNature Machine Intelligence Journal "Investigating 
+machine moral judgement through the Delphi 
+experiment" -January 13, 2025
+US Department of Defense | Chief Digital and 
+Artificial Intelligence Office -CDAOYejin Choi | Professor and Senior Fellow at Stanford 
+University | NVDIA -Sr. Director | GOOGLE Scholar | 
+https://hai.stanford.edu/people/yejin -choi"Adversarial Misuse of Generative AI" |Google's 
+Threat Intelligence Group (GTIG)
+NIST  | National Institute of Standards and Technology | US Government Agency |
+NIST 
+Trustworthy & Responsible Artificial Intelligence Resource Center (AIRC)Elon Musk , Various interviews and comments on the 
+concerns regarding AI safety and Ethics.  This link is a 
+Forbes article from 2023, his comments go back a 
+decade or more. US Government Accountability Office | Artificial 
+Intelligence: "GAO's Work to Leverage Technology 
+and Ensure Responsible Use "
+GAO -24-107237 | Published: Jan 30, 2024. Publicly 
+Released: Jan 29, 2024.
+The Allen Institute, AI2 | Seattle, WA | non- profit AI 
+research institute founded in 2014 by the late Paul Allen.Elon Musk OpenAI Lawsuit 2024/2025: "Navigating the 
+Future of AI Ethics and Governance" -MontagueLaw
+-excellent detail on the ongoing case and history of 
+AI/AGI concerns by experts in the field. Internet Encyclopedia of Philosophy -Ethics of 
+Artificial Intelligence
+Institute for Ethics in AI -University of OxfordAI Ethics Council Founded by Open AI (Sam Altman ) 
+and Operation HOPE (CEO -John Hope Bryant) in 2024"Discourse analysis of academic debate of ethics 
+for AGI " | Published: 02 June 2021 | Springer Nature 
+Link Journal
+The Laboratory for Human Centered AI (HAI Lab) -
+University of OxfordRoman V. Yampolskiy , Computer Science and 
+Engineering, University of Louisville | GOOGLE ScholarMIT Technology Review | "No, the Experts Don’t 
+Think Superintelligent AI is a Threat to Humanity " | 
+By Oren Etzioni | September 20, 2016
+Machine Intelligence Research Institute | 
+Berkeley, CA | Eliezer Yudkowsky posts, and others. Google DEEPMIND -Ethics? -also, see Paper from 
+April 2024, "The Ethics of Advanced AI Assistants" in 
+this linkRescorla, Michael, "The Computational Theory of 
+Mind" , The Stanford Encyclopedia of Philosophy 
+(Winter 2024 Edition), Edward N. Zalta & Uri 
+Nodelman (eds.)
+Carnegie Mellon University | Tepper School of Busines
+s | Articles on AI Research and EthicsGoogle Research on Responsible AI -can filter by 
+other topics researched by Google regarding AI, this 
+link is filtered by “Responsible AI” "Artificial Superintelligence | A Futuristic 
+Approach "By Roman V. Yampolskiy | 2015
+U.S. National Science Foundation | Artificial 
+Intelligence Research and Funding – See projects 
+Funded.  Online Journal, Nature Machine IntelligenceUS Department of Commerce | NIST Publication | 
+"Artificial Intelligence Risk Management 
+Framework: Generative Artificial Intelligence 
+Profile" | July 2024 
+IEEE Spectrum Journal | Articles on AI
+Page 12Intelligence Ethics | A Question of Moral Law and Ethical Standards?
+
+
+1What is AGI (Artificial General Intelligence)?  https://aws.amazon.com/what- is/artificial- general -intelligence
+2Why AI is incredibly smart and shockingly stupid -Yejin Choi |TED2023 • April 2023 | 
+https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid
+3Investigating machine moral judgement through the Delphi experiment  -Published: 13 January 2025 | Jiang, L., Hwang, J.D., Bhagavatula, C. et al. 
+Investigating machine moral judgement through the Delphi experiment. Nat Mach Intell 7, 145– 160 (2025). https://doi.org/10.1038/s42256- 024-
+00969-6 | Issue Date January 2025  https://rdcu.be/d76iW
+4Reflections on Putting AI Ethics into Practice: How Three AI Ethics Approaches Conceptualize Theory and Practice | Bleher , H., Braun, M. Reflections 
+on Putting AI Ethics into Practice: How Three AI Ethics Approaches Conceptualize Theory and Practice. Sci Eng Ethics 29, 21 ( 2023). 
+https://doi.org/10.1007/s11948- 023- 00443-3
+5Machines Learn Good From Commonsense Norm Bank |New moral reference guide for AI draws from advice columns and ethics message boards.  
+Charles Q. Choi|  03 Nov 2021 | https://spectrum.ieee.org/ai -ethics -machines -learn -good
+6Shardelow, Cole, "Avoiding the Basilisk: An Evaluation of Top -Down, Bottom -Up, and Hybrid Ethical Approaches to Artificial Intelligence" (2021). 
+Honors Theses, University of Nebraska- Lincoln. 332. https://digitalcommons.unl.edu/honorstheses/332
+7Leben, Derek, “Are Artificial Moral Agents the Future of Ethical AI?” | Published -January 29, 2025. 
+https://tepperspectives.cmu.edu/all -articles/are -artificial- moral- agents -the-future -of-ethical- ai/
+8GOOGLE DEEPMIND Article:  “Mapping the misuse of generative AI” | 2 August 2024 | Authors Nahema Marchal and Rachel Xu. 
+https://deepmind.google/discover/blog/mapping -the-misuse -of-generative -ai/
+9LINKEDIn article titled, “Driving Adoption: Using the OSI Model to Evaluate Large Language Models' Readiness” | May 16, 2023, Bimal Maharjan of 
+Gutsphere , Inc | https://www.linkedin.com/pulse/driving -adoption- using -osi-model -evaluate -large -models -bimal- maharjan/
+10“Liberty Its Use and Abuse” (Third Revised Edition) published in 1946 by Fordham University Press, 1946 (Ignatius W. Cox, S.J ., Ph.D ” |  Link to a 
+digitized Copy of which I own the 
+original hard copy.  https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7845c07a -fee7 -46a8- 965a -3b6516386440
+11University of Texas, Computer Science Dept. article, Titled, “The Importance of Ethics in Computer Science
+Posted by Bettina Mateo and Lauren Cotton | February 18, 2022” | https://www.cs.utexas.edu/news/2022/importance -ethics -computer -scienceArtificial Intelligence Ethics | A Question of Moral Law and Ethical Standa
+REFERENCES/BIBLIOGRAPHY – Works Cited (Page 1 of 2 )
+Page 13
+
+
+REFERENCES/BIBLIOGRAPHY – Works Cited (Page 2 of 2)Artificial Intelligence Ethics | A Question of Moral Law and Ethical Stand
+GOOGLE SCHOLAR CITATIONS – Yejin Choi, Stanford University / NVIDIA | Natural 
+Language Processing | Deep Learning | Artificial Intelligence | Commonsense 
+Reasoning https://scholar.google.com/citations?hl=en&user=vhP -
+tlcAAAAJ&view_op=list_works&sortby= pubdate | 
+https://scholar.google.com/citations?hl=en&user=vhP -
+tlcAAAAJ&view_op=list_works“Discourse analysis of academic debate of ethics for AGI” | Graham, R. Discourse analysis of academic debate of ethics for AGI. AI & Soc 37, 1519 –
+1532 (2022). 
+https://doi.org/10.1007/s00146- 021- 01228-7
+Google AI Principles | https://ai.google/responsibility/principles/International AI Safety Report –2025 | 2025/1/29 Journal | arXiv preprint 
+arXiv:2501.17805| https://arxiv.org/pdf/2501.17805
+Immanuel Kant | Internet Encyclopedia of Philosophy | https://iep.utm.edu/kantview/Ethics of Artificial Intelligence | Internet Encyclopedia of Philosophy |
+https://iep.utm.edu/ethics -of-artificial- intelligence/
+DUNE IMAGE:  https://www.theverge.com/2013/8/18/4633310/rare -frank-
+herbert -approved -images -of-dune -john- schoenherrGAO –AI 2021 –Accountability Framework and GAO 2024 –AI –on work 
+and responsibility | https://www.gao.gov/products/gao -21-
+519sp |https://www.gao.gov/assets/d24107237.pdf
+“Machines Learn Good From Commonsense Norm Bank New moral reference guide for AI draws from advice columns and ethics message boards” | Charles Q. Choi03 Nov 2021 
+https://spectrum.ieee.org/ai -ethics -machines -learn -good“Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI 
+Policy, Research, and Practice” | Presented at the 2nd Workshop on Generative AI and Law at ICML (July 2024) | 
+https://doi.org/10.48550/arXiv.2412.06966 | [cs.LG ]
+“AI language model rivals expert ethicist in perceived moral expertise” | Dillion, D., Mondal, D., Tandon, N. et al. AI language model rivals expert ethicist in perceived moral expertise. Sci Rep 15, 4084 (2025). 
+https://doi.org/10.1038/s41598- 025- 86510-0 | Dept of Psychology and 
+Neuroscience, Univ. of North Carolina at Chapel Hill, NC |Danica Dillion & Kurt Gray | Allen Institute for Artificial Intelligence, Seattle, WA | Debanjan Mondal & 
+Niket Tandon“Human -like Morality and Ethics for Robots” Benjamin Kuipers |Computer 
+Science and Engineering | University of Michigan |https://web.eecs.umich.edu/~
+kuipers/papers/Kuipers -aaaiws -16.pdf
+“Ethics and Accountability in Human -AI Collaboration Using RAG AI ” by 
+Abhinav Aggarwal, FLUID AI, dated 11/26/2024 
+NEW YORK TIMES Article - By Cade Metz - Nov. 19, 2021 | “ Can a Machine Learn 
+Morality?” |https://www.nytimes.com/2021/11/19/technology/can -a-machine -
+learn -morality.html“Can Machines Learn Morality? The Delphi Experiment” | arXiv:2110.07574
+[cs.CL] | [Submitted on 14 Oct 2021 (v1), last revised 12 
+Jul 2022 (this version, v2)] https://arxiv.org/abs/2110.07574
+“What is OSI Model?” | https://aws.amazon.com/what -is/osi -model/“AI-Powered Cybersecurity: How Artificial Intelligence is Transforming the 
+OSI Model “| Deepak Gupta -Tech Entrepreneur, Cybersecurity Author | 29 
+Jul 2024 | https://guptadeepak.com/ai -powered -cybersecurity- how-
+artificial- intelligence -is-transforming -the-osi-model/
+Page 14
+
+
+Artificial 
+Intelligence Ethics 
+-
+A Question of Moral 
+Law and Ethical 
+Standards?
+By
+Kim Rudman, MBA- Telecom
+February 2025
+Page 15
+
+

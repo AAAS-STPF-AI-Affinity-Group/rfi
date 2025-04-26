@@ -1,0 +1,180 @@
+1 Response to Request for Information (RFI) on AI Action Plan  
+Kaushik  Chowdhury , University of Texas at Austin  
+Yingbin Liang, The Ohio State University  
+Jia Liu, The Ohio State University  
+Sanjay  Shakkottai , University of Texas at Austin  
+Ness Shroff, The Ohio State University  
+All authors are affiliated with the NSF AI -EDGE Institute  
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without 
+attribution.  
+Introduction  
+The United States has long been the global leader in artificial intelligence and 
+communication networking – two of the most foundational fields of the IT industry. This 
+leadership has driven innovations that have shaped the modern digital world and 
+generat ed industries that have already created trillions of dollars in economic growth and 
+provided employment for millions of US workers. These technologies are going to 
+continue to improve people’s lives and be critical for future economic growth, job creation,  
+national security, and national defense. However, the rapid surge in AI and 5G 
+investments worldwide, particularly in countries heavily investing in next -generation 
+connectivity and AI infrastructure, poses a significant challenge to U.S. dominance in 
+these critical domains. Recent breakthroughs in generative AI, exemplified by large 
+language models (LLMs) like GPT and DeepSeek, have demonstrated unprecedented 
+capabilities in reasoning, adaptation, and real -time interaction. These AI advancements 
+are resha ping industries, including networking, and redefining human -machine 
+collaboration. Therefore, integrating AI and networking technologies such as 6G/7G in a 
+closely interdependent manner is imperative to ensure continued U.S. leadership in these 
+fields.  
+To this end, two critical and complementary research challenges must be addressed: AI 
+for Networks and AI on Networks . The former would focus on leveraging AI to develop 
+next-generation intelligent networks that are more adaptive, efficient, and capable of self -
+optimization  – enabling real -time traffic management, enhanced cybersecurity, and AI -
+assisted 6G/7G innovations. The latter needs to concentrate on  designing and facilitating 
+distributed AI systems that can operate seamlessly on decentralized edge ne tworks 
+leveraging advanced networking technologies to optimize AI model efficiency, reduce 
+latency, and enhance robustness, safety, and privacy of AI computation at the edge. 
+These heterogeneous edge devices that will form the network -edge are being create d in 
+the billions and are expected to become a major driver of innovations in health, medicine, 
+drug discovery, traffic engineering, and automation. By fostering a synergistic relationship 
+
+
+2 between AI and networking, the U.S. can create a virtuous cycle of innovation, where 
+breakthroughs in AI models drive networking advancements, and improved network 
+infrastructures, in turn, enable more scalable and efficient AI deployments. This integrated  
+vision is essential for securing U.S. leadership in both AI and networking, ensuring US 
+technological dominance in an era increasingly defined by intelligent and interconnected 
+systems.  
+AI for Networks: Transforming Network Intelligence  
+As the growth of wireless communication accelerates, future networks will increasingly 
+rely on edge computing, where computational and data -intensive tasks occur closer to 
+the user. These networks comprise complex distributed systems with diverse network 
+elements, including heterogeneous software and hardware components. Traditional 
+network management approaches, relying on heuristic designs and domain -specific 
+knowledge, are increasingly inadequate in managing the scale, dynamism, and 
+uncertainty of modern  networks.  
+The astonishing successes of AI, particularly in Machine Learning (ML) and Generative 
+AI, provide a transformative opportunity to design next -generation networks that are not 
+only more efficient but also intelligent and self -optimizing. Recent advancements  in 
+foundation models, such as Large Language Models (LLMs) like GPT and DeepSeek, as 
+well as generative AI techniques including diffusion models, have demonstrated 
+remarkable capabilities in reasoning, decision -making, and long -term sequence modeling. 
+These capabilities can be harnessed to develop AI -driven edge networks that can 
+dynamically learn, predict, and optimize network behaviors with minimal human 
+intervention.  
+By leveraging AI’s ability to model long -term dependencies and adapt in real time, we can 
+transition from rigid, manually managed networks to autonomously operating intelligent 
+systems. The incorporation of AI agents into networking infrastructures enables 
+automated optimization of routing, traffic engineering, network security, and resource 
+allocation —all of which are crucial for handling the i ncreasing complexity of edge 
+computing environments. These AI agents, powered by LLMs and multi -modal AI models, 
+can understand, infer, and optimize network conditions dynamically, ensuring efficient 
+and robust performance under highly variable and uncerta in conditions.  
+Moreover, as edge networks predominantly consist of wireless devices, their distributed 
+nature demands a decentralized AI -driven management paradigm. A distributed AI 
+control plane would fundamentally transform both current and future network 
+architectures  in two key ways:  
+1.Optimizing Existing Networks – Current networking architectures can be revitalized
+by replacing antiquated management frameworks with self -learning AI agents that
+continuously interact, analyze, and optimize network control and data planes.
+These agents can intelligently balance loads, predict failures, and dynamically
+adjust resources without human intervention.
+
+
+3 2.Designing Future Networks – The next generation of networks will be built with an
+AI-driven, distributed intelligence at their core, ensuring security, efficiency, and
+adaptability. Through co -designing the data, control, and management planes, AI
+will ena ble fully autonomous, self -healing, and resilient networking ecosystems
+that can proactively respond to threats, congestion, and operational challenges in
+real time.
+By integrating AI at every layer of network design, from intelligent traffic prediction and 
+anomaly detection to generative AI -assisted self -configuration and automated network 
+planning, the future of networking will be defined by adaptive, self -optimizing , and ultra -
+efficient infrastructures. This vision will not only enhance performance and security but 
+also ensure that AI -powered networks can scale seamlessly to meet the demands of an 
+increasingly connected world.  
+AI on Networks: Revolutionizing Distributed AI  
+Distributed AI will play a critical role in the future of AI, particularly as AI -driven 
+technologies has become integral to everyday life and smart mobile devices have 
+proliferated in the last decade. As a result, we are witnessing a significant portion of  AI-
+powered applications —ranging from personal assistants to intelligent IoT devices, real -
+time analytics, and autonomous systems —are increasingly shifting to the edge and 
+personal devices rather than relying solely on centralized cloud infrastructures. Th e 
+recent breakthroughs in large -scale generative AI models, such as GPT, DeepSeek, and 
+diffusion models, are predominantly trained and controlled by large corporations that can 
+afford the extensive computational and data resources required for their develo pment.  
+To democratize research and development of such transformative generative AI models 
+and enable flexible, secure, and personalized AI experiences for individuals, a shift 
+toward networked  yet distributed  AI training and inference is not only highly desirable but 
+also necessary. We envision that future AI applications based on generative AI models 
+will need to be deployed and fine -tuned across decentralized, heterogeneous, and 
+privacy -sensitive environment s rather than being confined to a few centralized data  
+centers. Enabling such distributed AI mechanisms not only makes AI more scalable, 
+accessible, and trustworthy but also ensures that powerful AI models are available to all —
+not just large corporations with extensive computational infrastructure.  
+As AI shifts toward edge -first deployment, a fundamentally different landscape arises. 
+Future edge networks will consist of resource -constrained devices that introduce 
+significant challenges: (i) limited memory and computational power at edge nodes, 
+requir ing efficient model compression, quantization, and adaptive training techniques; (ii) 
+straggler problems, where heterogeneous devices experience varying delays, making 
+traditional synchronous training inefficient; (iii) slow and unreliable communication li nks, 
+necessitating network -aware AI algorithms that minimize communication overhead; and 
+(iv) imbalanced, heterogeneous, and privacy -sensitive datasets, requiring novel
+approaches such as federated learning, differential privacy, and self -supervised
+adapta tion. Given these constraints, it is essential to develop scalable, network -aware
+
+
+4 distributed AI algorithms that jointly optimize computation, communication, and data 
+utilization in edge settings. These algorithms must be adaptive, fault -tolerant, and capable 
+of continuous learning in dynamic environments.  
+Since distributed AI algorithms inherently operate over networked infrastructures, it is 
+natural for them to leverage and co -design with the underlying network to achieve optimal 
+performance. This motivates a fundamental shift: instead of networks being de signed 
+separately from AI, future networks must be re -engineered to become AI -aware, 
+optimizing resources dynamically to support intelligent applications. To this end, future 
+AI-aware networks must be designed to intelligently allocate bandwidth and proces sing 
+power to optimize real -time AI inference and training; dynamically optimize data 
+movement and storage to ensure the right information reaches the right AI models at the 
+right time; incorporate AI -driven network orchestration to predict congestion, pre emptively 
+reconfigure resources, and enhance resilience to failures; and enable privacy -preserving 
+AI architectures that support secure federated learning and encrypted model training 
+across decentralized nodes. By bridging the gap between network optimiza tion and 
+distributed AI, we can ensure that the next generation of AI -powered systems operates 
+with maximum efficiency, scalability, and adaptability —bringing powerful AI capabilities 
+directly to individuals and decentralized communities rather than being monopolized by 
+centralized entities.  
+Explainability of AI: Ensuring Reliable  AI for and on Networks  
+The explainability of AI/ML models (XAI) is crucial for their adoption in wireless networks, 
+yet research in this area remains limited. Hence, there is need to pursue foundational 
+knowledge that leads to interpretability of such models for network performa nce analysis, 
+resource management, 5G service classification in the upper layers of the stack, as well 
+as spectrum analysis and sensing, at the physical layer. As publicly available RF datasets 
+grow, tools that offer opportunities for rapid data visualizat ion and on -site human -level 
+understanding of the  features that the trained ML models are learning will become 
+increasingly important. Other domains, such as image processing, have pioneered 
+methods like Class Activation Mapping (CAM) that highlights regions of images that the 
+model is focusing on during training, which could be adapted for RF data, e.g., image -like 
+spectrograms, for improving trust in automated wireless systems. When the number of 
+input features to a ML model is very large, there are many c hallenges of storing, 
+processing and relaying these features to/from the wireless edge. In such cases, 
+approaches like SHapley Additive exPlanation (SHAP) can be utilized to identify the most 
+discriminative features as determined by the model, which can th en be used to reduce 
+the overhead of collecting an exhaustive set of features at the edge.  
+There is a need for certifying ML models to mitigate risks posed to network functionalities 
+in case of failures once they are deployed. This is challenging since (i) testing on every 
+exhaustive case is infeasible and (ii) the data used for model training m ay not be available. 
+While advancing the foundational research for robust ML models that are highly resilient 
+to both naturally evolving environmental conditions and security breaches, it is also of 
+high interest  in developing ML -guided test and measuremen t practices. These efforts will 
+
+
+5 lead to ML -generated tests for previously trained models and provide benchmarks to 
+measure the performance against alternate  deterministic or heuristic solutions. One 
+promising approach is to use  gradient -based optimization, since it avoids spanning the 
+exhaustive set of all wireless environment and channel conditions; instead, it generates 
+the next test in real time to further probe specific configurations that offer the highest risk 
+of failure. S uch radically different methodologies, co -developed with inp uts from leading 
+US-based test and measurement companies will lead the way in developing a new 
+science for verifying and validating model performance.  
+
+

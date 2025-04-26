@@ -1,0 +1,593 @@
+-1 -National Science Foundation  
+Networking and Information Technology Research and Development  
+National Coordination Office  
+& 
+Executive Office of the President  
+Office of Science and Technology Policy  
+Washington, DC 20024  
+) 
+On the Matter of  ) 
+) 
+Request for Information on the  ) FR Doc. 2025 –02305  
+Development of an Artificial  ) 
+Intelligence (AI) Action Plan  ) 
+) 
+COMMENTS OF CONNECTED NATION, INC.  
+Network Interconnection , Latency Reduction  & Resilience : 
+Critical Element s of a National AI Strategy  
+Connected Nation , Inc.  welcomes the opportunity to provide comment to the Networking 
+and Information Technology Research and Development (NITRD) National Coordination Office 
+(NCO) and the White House Office of Science and Technology Policy  (OSTP) regarding the  
+development of a national Artificial Intelligence (AI) Action Plan.  
+Found ed in 2001, Connected Nation is a mission -driven national non -profit dedicated to 
+ensuring that all people , regardless of location,  can realize  the opportunities that connectivity and 
+technology can offer.   Throughout our history, we have fostered the development of 
+telecommunications infrastructure in unserved and underserved areas , serving  as a bridge 
+between network operators and government ag encies  to ensure that everyone, everywhere can 
+get connected.  The infrastructure that enables AI  is the next frontier that we must tackle.  
+We welcome the policy pivot in favor of “permissionless innovation ” represented by  
+President Trump ’s Executive Order 14179.  Innovation is a strategic national security and 
+economic development  imperative.  The United States must demonstrate AI leadership and 
+dominance in all areas .  The federal government ’s AI policy, as outlined in EO 14179, prioritizes  
+"removing barriers to AI innovation .”  Yet a  key barrier that exists today is often  overlooked :  
+network inefficiency caused by an inadequate  number of carrier -neutral Internet Exchange Point 
+(IXP ) facilities  across the U.S.   
+IXPs are physical buildings where Internet Protocol (IP) networks connect locally to 
+exchange data traffic (i.e., peering). This happens through direct fiber cross -connects between IP 
+networks , as well as through  Virtual Local Area Network (VLAN) connections across an Internet 
+Exchan ge (IX) switch , the presence of which is what distinguishes an IXP from other buildings.  
+The lack of IXPs , relative to the U.S. ’s expansive geography,  increases network latency  and will 
+make the widespread deployment of latency -sensitive AI applications at the network edge 
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-2 - impossible  to achieve .  A permissionless innovation environment can only exist in every 
+region of the country  if geographically distributed , carrier -neutral  IXPs are also deployed.  
+AI has already demonstrated some amazing capabilities, and it will continue to improve. 
+While its impact is hard to quantify or forecast, it  is a safe bet that important AI applications with 
+high economic value have already emerged and are spreading. AI’s role in the economy cannot 
+be dictated by central planners; it will emerge through hands -on experimentation. Ordinary 
+individuals, startups, and established companies will drive its discovery and practical 
+implementation.  
+While the federal government should avoid premature or heavy -handed regulations that  
+could stifle innovation with red tape, public planning is key to addressing AI ’s infrastructure 
+needs.  Three primary  success factors deserve focused attention , and align with the 
+administration ’s goals for achieving global AI leadership : 
+1.Power : AI needs a significant amount  of electricity to power its computations.
+2.Networks  & Interconnection : Sufficient transport network capacity, traffic  routing ,
+and latency reduction through geographically distributed interconnection facilities,
+also known as IXPs.  (Our focus)
+3.Security : Keeping AI secure, resilient, on task , and immune  from being hacked by
+bad actors.
+Government has traditionally maintained a footprint in these areas due to factors like 
+natural monopolies, environmental impacts, public land use,  regulatory constraints in telephony, 
+and network security ’s overlap with law enforcement.  Effective policy should guide private 
+investment through incentives while ensuring that public planning complements, not crowds out, 
+private efforts.  Policymakers ne ed a clear vision of future AI infrastructure to guide effective 
+decision -making.  
+The following comments  focus  primarily on key network elements  of a vibrant AI 
+ecosystem and particularly o n the need for investment in geographically dispersed  carrier -neutral  
+IXP facilities  to enable  the ultra-low latency connections  that generative and inference -based AI 
+applications will require , while also  fostering  increased network resilience, improved data traffic 
+routing, Layer 2 peering among network operators , and the evolution of mature marketplaces for 
+fiber transport and IP transit competition .   
+For 20 years, federal connectivity policy has prioritized last -mile access and bandwidth 
+expansion. However, reducing latency demands a different kind of infrastructure investment 
+from both public and private sectors . While much of the focus on AI -enabling infrastructure to 
+date has been on the creation of gigawatt -scale mega data center  campuses  for AI training ( along 
+with the electrical generation, transmission, and distribution  needed to power  it), the deficiencies 
+in network infrastructure  to enable ultra -low-latency connections locally have largely been 
+overlooked —namely, the need for significantly more neutral points of network interconnection . 
+According to our own analysis of the data found on PeeringDB.com —widely considered 
+to be the most authoritative resource on peering and network interconnection globally —57 cities  
+in the United States have at least one IXP facility for the exchange of Inter net traffic among 
+disparate networks .  Yet 14 states and three U.S. territories have no such facility at all,  and three 
+additional  states have a single  facility that is either failing or functionally limited .  As a result, 
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-3 - Internet traffic from these areas  must travel hundreds or even thousands of miles to the nearest 
+peering point, adding unnecessary latency —akin to driving from Washington, DC, to Baltimore 
+via Atlanta.  
+The “trombone effect ” of inefficient traffic routing  will certainly hamper the exchange  of 
+traffic with hyperscaler networks (i.e., AWS, Microsoft, Meta, Google, etc.)  as they deploy 
+latency -sensitive generative and inference -based AI applications  at the network edge .  There 
+must  also be neutral network interconnection facilities  at the network edge —facilities that serve 
+as a neutral venue for local Internet Service Providers ( ISPs), hyperscaler networks, transport 
+networks, mobile networks, education networks, etc. to interconnect with one another locally.   
+This model for neutral network interconnection has been the status quo  in major metros 
+for over 20 years, beginning with the evolution of neutral carrier hotels —somewhat by 
+happenstance —in major cities like New York, Chicago, Atlanta, Dallas, and Seattle , and 
+gradually migrating to slightly smaller metros like Washington, DC (Ashburn, V A), Kansas City, 
+Salt Lake City, Miami, and Phoenix .  These facilities are now core internet infrastructure . But 
+with the expected rapid deployment of latency -sensitive app lications , reliance on network 
+interconnection through those cities alone is no longer an option.   The next evolution of the 
+internet ecosystem must be planned  and well -coordinated.  
+China , which has a  centrally planned economy  and a tightly controlled technology  
+ecosystem , is rapidly expanding state -funded AI infrastructure  to ensure  seamless low -latency 
+data exchange across its AI clusters.   To win the AI “race” with China, the U.S. must balance 
+efficiency with free market principles while supporting  essential infrastructure development.   As 
+with other types of shared infrastructure  (e.g., interstate highways, airports, and shipping port s 
+for the efficient routing of goods and people ), there will need to be a cooperative interplay 
+between public, private, and non -profit sectors  for the efficient routing of data traffic.   
+President Trump highlighted  the need for competitiveness in his 2019 Executive Order on 
+Maintaining American AI Leadership , emphasizing the importance of AI infrastructure as a 
+competitive and national security advantage. Expanding IXPs aligns with the administration ’s AI 
+leadership goals  by improving real -time data processing  capabilities , particularly  at the network 
+edge for AI use cases that require  ultra-low latency.  Without investment in high -performance 
+IXPs, AI application such as autonomous vehicles, drone logistics, and edge computing will face 
+unnecessary performance barriers.  
+Moreover, t he National AI Initiative Act of 2020 ( Public Law 116 -283) recognizes that AI 
+infrastructure is a strategic imperative. However much of the federal investment to date has 
+focused on compute power rather than network interconnection and latency reduction. IXPs are a 
+missing pillar in AI infrastructure investment that ensures ultra -lay latency data transfer and 
+strengthens AI -driven industries. Without a robust IXP network, AI innovations will be 
+constrained by inefficient data exchange.  
+The Appendix  below discusses promising applications such as AV-to-A V communication, 
+drone delivery, augmented reality (AR), smart tools, robotics and AI tutors.  Of course, it  is very 
+difficult to anticipate beforehand what new applied technologies will break through into mass 
+adoption. However,  the demand for high-performance connectivity  has been surging for decades, 
+and as bandwidth increases , the latency aspect of lag time reduction becomes more important. To 
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-4 - minimize latency will require a more distributed backbone and interconnection architecture of 
+the interne t, requiring more IXPs  to be developed in more places .   
+Our comments below  proceed as follows : 
+First , we explore the geography of AI and how the optimal AI ecosystem will distribute 
+functions between centralized data center campuses and the near edge or “fog” layer of data 
+centers closest to users via local IXPs.  
+Second , we discuss how public policy can promote the development of the more 
+distributed AI infrastructure necessary to support universal or near -universal access to the 
+cutting -edge AI applications that we anticipate will require ultra -low latency.  
+We conclude with a summary of our recommendations and how they align with OSTP ’s 
+priorities.   
+In the Appendix  that follows , we put forward a few potential candidates for “killer app ” 
+use cases that may revolutionize our economy and society while relying on ultra -low-latency 
+connectivity in ways that will make any lack of a local IXP a pain point that must be addressed.  
+The Geography of AI: Centralized Training vs. Edge AI  
+The development of AI mirrors traditional human education: training first, followed by 
+practical application.  
+In the training stage, large language models use machine learning to develop intelligence, 
+drawing from the vast expanse of internet -based information , that simulates human thought. 
+Once trained, AI applies its learned capabilities in real -world scenarios on demand. Generative 
+and inference AI rely on this foundational training, continuously evolving and improving over 
+time. 
+These two stages —training and application —have different geographic footprints . 
+Training Large Language Models (LLMs) an d machine learning require immense 
+computing power, typically centralized in rural areas where electricity is abundant and 
+inexpensive. In these cases, network latency is not a major concern. Conversely, AI ’s generative 
+and inference tasks function like ot her consumer -facing applications, making them well -suited 
+for deployment at the network edge. As models evolve, Edge AI  and 'Fog AI' (which operates 
+between the edge and the cloud) will likely expand, enabling broader distribution to CDNs and 
+edge devices.  
+AI’s geographic distribution will continue to evolve, balancing computing power and 
+latency. Tasks requiring extreme computing power will remain centralized, while applications 
+demandin g ultra -low latency will increasingly shift to the network edge.  
+Latency in AI has multiple meanings. Compute latency refers to the time an AI 
+application takes to process a request, while network latency measures data transmission delays. 
+Both play a cruc ial role in determining whether AI tasks are handled in the cloud or at the 
+network edge.  
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-5 - If compute latency is substantial  (e.g., several  seconds ), network latency below 100 
+milliseconds has little effect on the user experience . For example, typical  netwo rk latency and 
+bandwidth are unproblematic for text -based conversations with AI chatbots or for the basic 
+function of using prompts to generate images. If an AI task is constrained by bandwidth 
+limitations or is not time -sensitive, centralizing it remains a practical approach.  
+Edge AI adoption is most likely for time -sensitive tasks of moderate computational 
+complexity, and for these cases,  IXP proximity will become important. Ultra -low latency AI 
+applications will likely emerge in regions already equipped for them, driven by entrepreneurial 
+and grassroots innovation. These technologies will then expand to other low -latency regions  as 
+they evolve . However, a new latency -driven digital divide will emerge in areas that continue to 
+lack access to a nearby IXP , with whole regions unable to support new and emerging AI -powered 
+technologies that require ultra -low latency  to function . 
+How  Public Policy Can Promote Distributed  IXPs  for Low -Latency  AI Readiness  
+In the decade before 2020, a consensus grew that adequate internet service is a basic need 
+and its  universal  availability needs to be a policy objective, verging on a tenet of the social 
+contract. This eventually bore fruit in major public and private investments in last -mile 
+broadband networks to increase bandwi dth, extend it to unserved areas, and make it affordable .  
+While these goals are laudable, public investments thus far have  largely ignored  reducing  latency  
+to any significant degree , which is becoming more important as bandwidth constraints ease and 
+internet use grows more interactive and cloud -dependent.  
+A more intentional public policy focus  and possibly to some extent , public investment , 
+will be needed in order to tackle this emerging aspect of the digital divide and enable all 
+Americans to benefit  from cutting -edge  AI applications. Achieving ultra -low latency nationwide, 
+with public and private sector support, is estimated to cost between $500 million to $1 billion, far 
+less than the BEAD Program or the announced hyperscaler investments in AI data centers .  
+The BEAD  Program  ($42.45B) , the most recent and largest in a series of federal efforts to 
+expand broadband coverage that included the FCC ’s Rural Digital Opportunity Fund (RDOF) 
+program  ($9.2B) and  the ARPA Capital Projects Fund ($10B) , crowned an effort  (and federal 
+commitment ) to achieve universal broadband coverage. BEAD will increase  access for millions 
+of people  with bandwidth  available to them of  at least 100  Mbps downstream and 20 Mbps 
+upstream .  In many cases, this will involve the deployment of end-to-end fiber that can deliver  
+gigabit symmetric al speeds. Unfortunately, BEAD is unambitious with respect to latency. Not 
+only does its standard for “reliable ” broadband service settle for a mere 100 milliseconds of 
+latency , allowing greater lag time than most existing internet connections  today , but it doesn ’t do 
+anything to incentivize or reward less-latent  connections. In this respect , its treatment of latency 
+contrasts with bandwidth, for which  the rather unambitious 100/20 minimum standard is 
+supplemented by a preference for “priority ” broadband projects with gigabit symmetric speeds. 
+BEAD projects can be expected to reduce latency slightly since fiber  will move data faster at the 
+last mile  than the copper  it replaces . Some c urrent subscribers of geostationary/ high-orbit  
+satellite  internet, in particular, will enjoy huge latency reductions thanks to BEAD.  But f or the 
+most part, BEAD kicks the can of latency reduction down the road.  
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-6 - While many internet -based  applications function adequately with latencies above 100 
+milliseconds today, reducing latency (particularly by minimizing  lengthy data backhaul  and 
+inefficient routing) will be increasingly crucial in four key ways . 
+First, the faster the bandwidth  (or throughput) , the more of a network ’s response time is 
+driven by latency rather than bandwidth constraints. This is  a matter of simple math. For a user 
+loading a 1 MB page, a 25 Mbps connection takes 320 milliseconds due to bandwidth limits, 
+with 100 milliseconds of latency adding 30% more delay. On a gigabit connection, bandwidth 
+delays drop to 8 milliseconds, making latency the dominant factor, increasing load time by over 
+1,000% . 
+Second, AI will likely accelerate the shift of compute functions from local devices to 
+powerful cloud and near -edge servers . 
+Third, machine -to-machine communication  use cases , such as in healthcare monitoring 
+and smart cities , are expanding. AI will further accelerate this trend by enabling adaptive devices 
+to take on traditionally human functions.  The low -latency AI use cases discussed in the Appendix  
+illustrate these trends.  
+Fourth, technologies like L4S1 optimize data flow management, reducing "loaded" 
+latency compared to "unloaded" latency. This brings practical latency closer to the theoretical 
+minimum dictated by physical data travel limits.  
+As computing adapts to the new opportunities created by ultra -low latency connections  in 
+many areas, a digital divide will emerge between regions that have local IXPs and regions that 
+have higher latency because every interaction with the internet requires a data journey of 
+hundreds of miles.  The time will come when  popular new applied technologies will 
+underperform or just won ’t work at all  in areas where  latency is too high  because data traffic is 
+being routed through IXPs  that are physically too far away .  
+Just as the BEAD program set a goal for universal 100/20 broadband, a national target for 
+IXP proximity is needed to ensure full participation in the AI -powered internet. A reasonable 
+benchmark would be deploying IXPs so that no broadband serviceable location (BSL) is more 
+than 60 miles away: roughly the distanc e light travels in fiber before amplification is required.  
+Currently, less than 20% of U.S. land is within 60 miles of an IXP2, creating significant coverage 
+gaps in national internet infrastructure. While most IXPs are near major population centers, 
+milli ons of Americans remain hundreds of miles from one, facing growing digital disadvantages 
+as new technology leverages the median internet user ’s low-latency  capabilities .  
+Of course, just because a need exists doesn ’t mean the government needs to address  it. 
+Often, laissez -faire is the best approach.  IXPs are , in most cases,  run as private businesses and 
+are often profitable. Nonetheless, the economics of IXP  administration are somewhat different 
+than a traditional  for-profit business  because of the need to preserve neutrality . 
+1  See https://potsandpansbyccg.com/2025/03/04/new -technology -to-lower -latency/  
+2 The basis for this calculation is that (a) 57 metros have IXPs, (b) a 60 -mile radius contains just 11,000 square 
+miles, (c) the U.S. landmass is 3.8 million square miles, and (d) 57 * 11,000 < 20% * 3.8 million. A more 
+sophisticated analysis would take int o account that some IXP -endowed cities are coastal.  
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-7 - The value that IXPs  create is derived from the network interconnections they enable . The 
+full value they generate , however, is difficult to quantify in terms of service fees  alone . Carrier 
+neutrality is essential for long -term efficiency  and governance , as ISPs are hesitant to build in to 
+facilities owned by  or aligned with  competitors —or find it prohibitively expensive to do so . 
+Preserving a  level playing field requires both rules  and fair pricing , preventing IXPs from 
+charging higher fees based on the actual derived value of service benefits. So, while successful 
+IXP facilities  often do earn a profit , they often do not attract the private capital necessary to 
+cover the capex costs  to build them because of the necessity to preserve a level playing field  for 
+network operator customers . 
+Therefore, the  challenge for IXP economics is that a for -profit business model  gets in the 
+way of complementary investments that are needed for IXP success , especially if private 
+investors look for high ROIs and are inclined to aggressively monetize the upside of success . 
+Because the purpose of an IXP is interconnection, every ISP or Content Delivery Network 
+(CDN ) that connects within  it raises the facility ’s value to other ISPs and CDNs. As these 
+“network externalities ” accumulate, an IXP gains increasing pricing  power vis -a-vis the ISPs and 
+CDNs that use it. If ISPs and CDNs anticipate  that the IXP will abuse this pricing power, they 
+may be reluctant  to build into it in the first place. Therefore, i t can be important to IXP success 
+that they operate at least partly with the public -interest objective s of 1) reducing latency for  
+network customers and end -users , 2) improving regional network resiliency, and 3) lowering 
+wholesale prices —all with a long -term horizon for measuring success  in these areas .  
+Public investment in closing IXP coverage gaps follows the same core rationale (and 
+challenges) as BEAD ’s last -mile subsidies. It addresses local market fa ilures by filling financial 
+gaps where revenue capture alone is insufficient. It also promotes fairness, ensuring communities 
+aren’t left behind due to geography. Additionally, it helps build the market scale needed for 
+cutting -edge innovation, freeing tec hnologists to advance solutions without backward -
+compatibility constraints. However, like BEAD, directing public funds into private infrastructure 
+that serves both public and private interests presents complex legal, institutional, and decision -
+making chal lenges that require careful navigation.  
+That is why it ’s important to set goals early . It may be several years before AI -powered 
+technologies that require ultra -low latency achieve mass adoption to the point where the 
+infeasibility of using them in regions  lacking IXP proximity becomes an acute pain point of 
+digital disadvantage. By that time, however, the opportunity to proactively solve  the problem 
+will have been missed, and investment in fixes is likely to be either hasty and inefficient or slow 
+enough t o do considerable cumulative economic damage while the area waits for a solution. The 
+time is now to get ahead of the problem.  
+Funding is not a major barrier, as the financing gap for IXPs is minimal compared to 
+federal agency and hyperscaler budgets. In s ome cases, well -designed policies to encourage 
+hyperscaler IXP co -builds can eliminate the need for public investment . Where public funding is 
+needed, a few million dollars per IXP , or less than a billion dollars  nationally , should suffice to 
+meet ambitiou s latency reduction goals.  
+The BEAD Program is expected to have hundreds of millions (possibly billions) in "non -
+deployment" funds remaining after the program ’s last-mile broadband  objectives have been met . 
+States anticipate using these funds locally rather than returning them to the federal government. 
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-8 - Efforts to modify BEAD, including the SPEED for BEAD Act, seek to limit how these funds can 
+be spent. The NTIA, within existing statutes, should  redirect fu nds toward broadband 
+infrastructure like IXPs instead of non -infrastructure initiatives that will not have a long -term 
+impact . Small but strategic adjustments to BEAD could drive meaningful investment in 
+geographically distributed carrier -neutral IXPs . 
+Universal Service Fund reform, which has long been perceived as an acute need by the 
+telecommunications industry  and may be necessitated by an imminent Supreme Court decision, 
+could be designed in ways that woul d facilitate and support IXP investment. Optimiz ing the 
+funding solution,  either with new legislative appropriations or by  leveraging  any of  the wide  
+variety of existing programs , is not trivial but is downstream of framing national policy goals.  
+As a final consideration, in disaster scenarios, such as an Electromagnetic Pulse (EMP) 
+event from solar flares or a nuclear attack, geographically dispersed IXPs would significantly 
+improve internet resiliency —especially  if new ly constructed  IXPs are hardened against EMP 
+events . The transition from copper (high ly vulnerable to EMPs) to fiber (which is not) has 
+reduced some risks, but connectivity remains dependent on the power grid  and the electronics 
+used to light fiber  optic cables  at each end.   Communities that are dependent upon IXPs, even 
+those far beyond t he direct impact zone, will see their connectivity disrupted  for long periods of 
+time, even if local power remains intact . Investing in more geographically distributed IXPs 
+would not only lower latency under normal conditions but also ensure the internet remains 
+functional in the wake of disasters. As AI further integrates into daily life, strengthening network 
+resiliency becomes even more crucial . 
+Conclusion: A National AI Action Plan Must Not Overlook the Crucial Need to Reduce 
+Latency and Enhance Netwo rk Resilience  
+In summary, Connected Nation  supports  the creation of a  national AI action plan that 
+addresses the need for infrastructure development  beyond just power and security .  Latency 
+reduction and enhanced network resilience must lie at the core of any strateg y.  We believe these 
+challenges  can only be overcome  through the creation of physical network interconnection 
+facilities , commonly known as Internet Exchange Points , that are geographically distributed , 
+carrier -neutral,  and hardened  to withstand natural and man -made disasters.  
+To achieve the country ’s national security and economic competitiveness  objectives, any 
+national AI strategy should  adhere to three principles  that OSTP has emphasized in its own 
+planning:  1) all Americans deserve the opportunity to benefit from AI advancements, 2) national 
+security requires AI resilience , and 3) America must assert global leadership in AI  and remain 
+dominant in the race against China.  
+Just as AI computing resources must be distributed  nationally , AI network 
+interconnection must also be decentralized. Today, 14 states and 3 U.S. territories lack neutral  
+IXPs. This forces AI related data traffic to be routed ineffici ently. Any f ederal AI strategy should 
+prioritize neutral IXP deployment as a core infrastructure investment, ensuring that all Americans 
+benefit  from the innovation and economic opportunity that AI will bring.  
+It is n o secret  that AI-enabled defense and intelligence applications require secure real -
+time data exchange between systems. The problem:  current IXP gaps create single points of 
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-9 - failure, making AI systems vulnerable to network disruptions, EMP, cyberattacks, and foreign 
+interception.   The National  Security Commission on AI has warned that U.S. digital 
+infrastructure is a weak point in AI deployment. Without a distributed IXP  ecosystem , real -time 
+AI applications such as cyber defense, autonomous systems, and AI -assisted intelligence analysis 
+face av oidable performance risks. The federal government must recognize neutral IXPs as 
+critical infrastructure to support AI resilience.  
+The U.S. and China are in an AI infrastructure race, with China aggressively investing in 
+data centers, cloud computing, and high -speed network interconnection. Unlike China ’s state -
+coordinated AI infrastructure, the U .S. has no national policy for AI -related netw ork 
+optimization, leaving key regions of the country with poor latency performance  and many single 
+points of failure.   A national target for carrier -neutral IXP proximity is needed, and existing and 
+future  IXPs should be classified as critical infrastructu re. 
+We commend the administration  for its efforts to develop a comp rehensive national AI 
+action plan, and we welcome any opportunity to engage further on this important topic.  
+Dr. Nathan ael Smith , Ph.D., is Director of Economics & Policy  at Connected Nation .  
+Brent Legg is Executive Vice President, Government Affairs at Connected Nation.  
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-10 - Appendix  
+Ultra -Low -Latency AI Use Cases  
+Below are key potential use cases for AI -driven applications requiring  ultra-low latency 
+connectivity.  
+1.Autonomous Vehicle -to-Autonomous Vehicle (A V -to-A V) Communications for
+Traffic Safety
+Autonomous vehicles (A Vs) will play a transformative role in the economy,
+revolutionizing logistics and transportation.  The use -cases ar e numerous: more efficient  grocery 
+delivery, streamlined  peer-to-peer sales ( e.g., negotiated via Facebook Marketplace and delivered 
+by A V), more mobility for seniors, teenagers, and the disabled, less car ownership (with benefits 
+for many people ’s persona l finances ), fewer traffic collisions, a repurposing of urban parking 
+lots, and near-limitless other benefits. Advances in AI are finally making widespread driverless 
+adoption a reality. In cities like San Francisco, Austin, Phoenix, and Miami, commercially 
+operated robotic taxis are already on the streets.  
+Driving demands quick reflexes , whether human or machine —requiring  rapid, 
+situationally informed decisions. In many cases, split -second accuracy can mean the difference 
+between life and death.  
+A Vs don ’t always require ultra -low latency communications for driving decisions 
+because they require  significant onboard  computing power. A Vs cannot be cloud -dependent to 
+the point of losing functionality during network disruptions.  However, t his computing power has 
+significant financial and design implications —adding thousands of dollars to the car ’s price, 
+requiring a couple cubic feet of space, and weigh ing up to 50 pounds. Th is may be  acceptable in 
+something as large as a car but completely  impractical  for many other machines.  
+In hazardous situations, AV-to-A V communication  will be a crucial ultra -low latency use 
+case. While currently less relevant due to A Vs' small market share, its importance to traffic safety 
+will grow as adoption increas es. 
+Of course, vehicle -to-vehicle (or driver -to-driver) communication , e.g., via brake lights 
+and turn signals , is important to traffic safety even now. But the set of signals drivers can send to 
+one another is very limited.  AV-to-A V communication can be much richer but will probably 
+require the cloud , and i ts need for real -time, situational  decision -making is intolerant of delay.  
+Consider a hazardous scenario in which a child runs into a road as two A Vs approach 
+from opposite directions. Other children a re playing near the roadside from which the child 
+came. There is insufficient time to brake to a stop. The A V in the nearer lane can swerve to avoid 
+the child, but if the other A V stays its course, that will result in a head -on collision, likely fatal to 
+the passengers in both A Vs. However, if the other A V also swerves, steering into the far shoulder 
+of the road, a collision can be prevented , and all the human lives involved can be saved. Human 
+drivers typically could not execute such a maneuver in real tim e. A Vs have that potential, b ut 
+extremely rapid communication between the two A Vs would be necessary  to coordinate the 
+maneuver.  
+AV-to-A V communication has many other possibilities. For example, it  is energy -efficient 
+for cars to convoy, one following clo se behind another so that each one can benefit from the 
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-11 - slipstream of the last. This is currently prevented by traffic rules for safety reasons, since it  is 
+highly likely that , if one driver had to brake suddenly, the next driver ’s reflexes would not be fa st 
+enough to avoid rear -ending the car ahead. With good A V -to-A V communication, convoys could 
+coordinate braking behavior and reduce or eliminate collision risks. Such convoys could also 
+make more efficient use of scarce road space.  
+Again, the evolution o f traffic patterns and driving decisions to leverage ultra -fast A V -to-
+A V communications is most likely to occur largely in places that already have local IXPs and 
+low latency. When it does, places lacking local IXPs may be unable to adopt emerging best 
+practices. This form of digital disadvantage could get dangerous if carmakers adapt their A Vs to 
+rely on ultra -low latency A V -to-A V communications  only to  discover  that their A Vs can ’t operate 
+properly in high -latency areas. It might be necessary to limit the  use of cutting -edge A Vs to low -
+latency areas.  
+2.Drone Delivery, as Enabled by Cloud -Based Real -Time Decision -Making
+A second candidate use case for ultra -low latency is drone delivery . Drones resemble A Vs
+in many ways, with the key difference being  onboard computing power is far more of an 
+operational problem for a drone versus a car. Drones need to outsource more computing and 
+decision -making to servers at the network edge.  
+Drone delivery is less intuitive than A Vs, which mimic human functions. Drones have  
+been operationalized , and their  economic promise is enormous. Delivering small packages by 
+drone rather than by car is inherently cost -effective . Drones are far smaller  and faster . While  
+cargo drones ’ flight velocity tends to be like that of cars, they ar e often faster because they can 
+follow straighter courses and face no stop signs, stoplights, etc. Drones can also go to places that 
+cars can ’t, such as islands, boats on the water, hikers in the forest, or the balcony of an apartment 
+on the tenth floor.  
+Widespread drone delivery could transform lifestyles. While not a full substitute for 
+ground -based transportation , drones will  enable deliveries to remote locations, especially when 
+combined with off -grid technologies like LEO satellite broadband, solar pa nels, and batteries —
+potentially  allowing teleworkers to live in truly remote  areas.  
+If it becomes generally available, drone delivery will enable new lifestyles. Currently, 
+modern life is largely infeasible outside the immediate vicinity of a road traversa ble by car. 
+While drone delivery will not be a comprehensive substitute for car access, the option of drone 
+delivery from retailers and restaurants to roadless points on the map , combined with other 
+emerging off -the-grid technologies like LEO satellite bro adband service, solar panels and 
+batteries , opens up fascinating possibilities for teleworking professionals to subsist indefinitely in 
+wild beauty spots such as islands. At the other end of the urbanism spectrum, city dwellers might 
+be able to order goods  by drone delivery while out and about or to penthouse apartment 
+balconies while staying in. Benefits to suburban single -family home dwellers start with fewer 
+trips to the store.  
+Like A Vs, delivery drones , which need to operate Beyond Visual Line of Sight (BVLOS) , 
+need to make real -time decisions, such as rerouting in the event of unexpected obstacles, 
+performing detect -and-avoid maneuvers, adapting to wind conditions, and finding good spots to 
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-12 - land or drop cargo when they reach their destinations. As with A Vs, this decision -making will 
+often need to be very rapid. But there are several big differences between A Vs and drones:  
+1.A Vs need to integrate into a well -developed traffic system designed around human
+drivers, which may later be optimized for A Vs. For dr ones, the traffic system needs to be
+created.
+2.A V operations always pose a danger to human life which must be minimized or
+eliminated by good driving decisions. Drones don ’t ordinarily jeopardize human life but
+can damage buildings and infrastructure.
+3.A Vs must operate in the road grid, which is two-dimensional and circumscribed, whereas
+drones can use three -dimensional space and so have far more room to operate.
+4.A Vs can afford far more onboard computing power, whereas drones will need to rely on
+the cloud o r, preferably , on servers at the network edge, via ultra -reliable low -latency
+communications (uRLLC).
+Drone detect -and-avoid systems will initially need to deal more with natural obstacles
+such as trees, telephone lines, tall buildings, birds and bats than  with other drones. For that, 
+sensors and the interpretation and use of their data are key. As drone fleets grow, the risk of 
+drone -on-drone collisions will increase, and drone -to-drone communications, probably via 
+servers at the network edge, will increas e in importance.  
+Geographically, A Vs and drone delivery may differ because road density relative to land 
+and population has, in some ways, opposite effects on demand. A Vs need roads and will thrive 
+where road density is high and roads are good. By contras t, drones don’t need roads, and drone 
+delivery may sometimes find the most eager adoption in rural and remote areas where roads are 
+few.  
+The risk that early drone delivery systems will pose to ground  and vertical structures will 
+be far lower in rural and remote areas, where an err ant drone will mostly hit trees, than in urban 
+centers, where they  may cr ash into buildings or power lines. While urban drone delivery 
+operations could create extremely high value, it may take a long time before their safety track  
+records are strong enough to induce the densest of metropolitan centers to open their airspace to 
+high-density commercial drone delivery operations. Rural and remote areas are ideal venues for 
+drone delivery to start initial operation  and accumulate a  track record that can justify operations 
+in urban airspaces later on ; however, this only works if the rural and remote areas  can offer the 
+infrastructur e, such as nearby IXPs and ultra -low latency, that make drone delivery operations 
+possible.  
+3.AI Invades Phy sical Space: Augmented Reality, Smart Tools, and Robotics
+Until now, AI has primarily existed in the digital realm (text, images, and code) but will
+soon expand into physical space, driven by the convergence of:  
+1.Augmented reality (AR) . Human functionality can be enhanced by AR tools that add
+relevant data to the human field of vision by means of wearable devices.
+2.Internet of things (IOT) . Many objects can be enhanced by connectivity to the cloud,
+emitting and/or receiving information.
+3.Robotics . Adaptable machines can imitate human motor functions and substitute human
+labor for a variety of tasks.
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-13 - Despite their impact in industry, AR, IoT, and robotics have struggled with mass 
+consumer adoption, largely due to unintuitive human -machine interfaces.  This appl ies outside the 
+realm  of information technology, too. Tool makers have long faced the challenge of making their 
+products user -friendly, and a key barrier to adding features that customers might value is that 
+customers may never figure out how to use them. User manuals are notoriously underused.  
+This is where AI promises to be transformative. AIs excel at making information intuitive 
+and understandable. A tool whose features are explained by an AI chatbot rather than an old -
+fashioned user manual has immediat e appeal. But combining this with AR yields even more 
+exciting possibilities. An AR headset could, for example, label the features of a newly purchased 
+tool with markups to the human field of vision and respond to voice questions from the user 
+about what f eatures do. This is already being  done in industrial and healthcare settings , and AI 
+could facilitate mass adoption by making the technology  more user -friendly.  
+Two new frontiers could be opened by AI -powered AR instruction in tool use.  
+First, tools themselves can become more complex with more features. AI might explain 
+the tool to users, or it might give commands to tools itself based on its understanding of what the 
+human users say they want. That would require the tool to be online, th us integrating AR with 
+IOT.   
+Second, AR and IOT functionalities powered by AI can facilitate tool rental  as a way for 
+households to get access to useful tools without the costs and complexities of purchase, storage, 
+maintenance and repair. Tool rental is an active yet somewhat underutilized market, and 
+households both routinely own tools that they very rarely use and hire professionals to do things 
+that could be done DIY with the right tools and a few simple skills. AI can help people learn or 
+control tool s as a substitute both for tool ownership and for hiring professionals, while also 
+enabling tool rental providers to track what happens with their rental tools and charging less to 
+careful and competent tool renters.  
+Such trends would also pave the way for  increased utilization of robots . They  are 
+advanced tools, with the Roomba being a prime example of home automation. While millions 
+have been sold, household robotics still lag behind industrial automation.   As AI makes robots 
+more intelligent , able to ada pt to their environments , and e asier for humans to interface with 
+them, that may change.  
+All of this is deliberately abstract and noncommittal about where mass consumer 
+applications of AI in physical space , outside of transportation , will achieve breakthro ughs. 
+However, much of the functionality here will depend on ultra -low latency. For example:  
+•In order for an AR headset to mark up a human field of vision for greater intelligibility,
+the display will need to adapt to human movements extremely quickly. A f ew
+milliseconds of delay, would substantially lessen the usefulness of the AR.  (Such as
+requiring  a user to hold still for the labels to settle into the right places ).
+•In tool use, errors can do damage fast. An AI might be able to stop a tool in time to
+prevent damage, but only if its “reflexes ” are good enough.
+•A robot navigating its environment needs to process sensor data and model its
+environment in real time.
+
+
+Comments of Connected Nation, Inc.  
+FR Doc. 2025 –02305  
+March 15, 2025
+-14 - As the footprint of AI in physical space grows through AR, IOT , and robotics, low -
+latency a reas will have an advantage. IXP investment can both save areas from being left behind 
+and expand the addressable market for these exciting AI use cases.  
+4.Real -Time Interaction with AI Tutors
+Anyone who wishes to can already use Bing Copilot, Google Gemini,  or Grok as a kind
+of AI tutor. Ask questions, get answers, and learn. But to do that, one needs to be able to read, 
+type, and be somewhat articulate in formulating questions.  
+Young children and early readers need a different kind of assistance . Reliance on spoken 
+conversation rather than text enables new  possibilities for AI to teach people who are not yet 
+literate. The range of knowledge that needs to be readily accessible for an AI tutor teaching 
+young children  (e.g., how to form letters and numbers, ba sic grammar and math)  is far more 
+limited than what is needed for an AI that contributes at the cutting edge of business, technology , 
+and culture. But to maximize  success, the interactive  experience should be as human -like as 
+possible.  
+High latency can be  an impediment to that. Interactions don ’t “feel” natural if there is a 
+long delay. That can impede communication because normal language processing relies on a 
+certain reaction time. While 5 -10 milliseconds of delay aren ’t noticeable per se , they add  up, and 
+some educational uses of AI may turn out to warrant decentralization to the network edge for the 
+sake of optimal response times.  
+
+

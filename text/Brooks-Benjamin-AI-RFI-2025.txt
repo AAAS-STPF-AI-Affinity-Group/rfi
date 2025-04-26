@@ -1,0 +1,297 @@
+March 15, 2025 
+Faisal D'Souza 
+Oﬃce of Science and Technology Policy 
+2415 Eisenhower Avenue 
+Alexandria, VA, 22314  
+Shifting Gears from Containment to Safe Di ﬀusion 
+Response to the Request for Information on the Development of an AI Action Plan 
+Figure 1: Total open derivative models released per month by open base model family on the Hugging Face platform 
+(March 2025, n=90,285). Indicative only. These data may undercount releases, since they exclude models uploaded 
+via other platforms (e.g. GitHub) and since derivative model repositories may omit or obfuscate their underlying base 
+model(s). These data do not reﬂect the total open model activity across all model families, which is signiﬁcantly 
+higher, or private modiﬁcation and deployment of open models.  
+To Whom It May Concern, 
+Thank you for the opportunity to provide input on the O ﬃce of Science and Technology Policy 
+Request for Information on the Development of an arti ﬁcial intelligence (AI) action plan. I am 
+Fellow at the Berkman Klein Center, Harvard scrutinizing the regulation of AI models, and 
+previously led public policy for Stability AI, a developer of popular open models.1 I write in a 
+1 My views do not necessarily represent the views of any a ﬃliated organization. This document is approved 
+for public dissemination. The document contains no business-proprietary or con ﬁdential information. 
+Document contents may be reused by the government in developing the AI Action Plan and associated 
+documents without attribution. In this comment, I use “open” to refer to any model with publicly-available 
+parameters, or weights, consistent with National Telecommunications and Information Administration 
+nomenclature.  
+1 
+
+
+personal capacity to stress the importance of capable open models for driving AI adoption across 
+the U.S. economy, and projecting U.S. in ﬂuence abroad. By actively promoting the open release 
+of capable models—including models trained with computational resources that are otherwise 
+subject to export controls—the Administration can help to embed U.S.-trained, U.S.-regulated, 
+and U.S.-aligned models in the technology stack of AI systems around the world, and encourage 
+sustained global dependencies on U.S. industry.2  
+Background. To date, federal technology policy has favored precautionary containment over safe 
+diﬀusion. The 118th Congress introduced over 350 AI-related bills, up from just two in the 114th 
+session. States enacted at least 60 laws governing AI, while the European Union reconciled 
+nearly 700 pages of amendments to arrive at the ﬁnal AI Act (Regulation 2024/1689). Many of 
+these reforms were targeted, proportionate, and overdue interventions to close gaps in the 
+regulatory system. However, many of these frameworks contained what I describe as regulatory 
+“traps" that could directly or indirectly limit access to open models, chie ﬂy:3 
+ 
+● Explicit restrictions that directly inhibit the release of capable open models by imposing 
+prior restraints such as export controls or pre-release authorization requirements;  
+● Implicit constraints that indirectly inhibit release by requiring developers to exercise a 
+level of downstream visibility, control, or custody that is incompatible with open models; 
+and  
+● “One size ﬁts all” obligations that fail to distinguish between base models and modi ﬁed 
+or derivative versions of those models; corporate labs with signi ﬁcant resourcing and 
+everyday developers or independent researchers with limited resourcing; and frontier 
+models and sub-frontier models. 
+ 
+In particular, a number of bills, including S.321 (119th Cong.), H.R. 8315 (118th Cong.), and S.5616 
+(118th Cong.) proposed export controls or licensing frameworks that would determine whether 
+developers can release capable open models to the public. To date, few of these proposals have 
+materialized. The Biden Administration’s Interim Final Rule (90 FR 4544) brought closed-source 
+frontier model weights within scope of the Commerce Control List, but exempted “published” 
+model weights, consistent with longstanding exemptions in the Export Administration Regulations 
+for many types of capable, unclassiﬁed, and published technology or software (see e.g. 15 CFR 
+734.7 and 15 CFR 742.15). Despite signi ﬁcant criticism over the complexity of its AI Act, the 
+European Union does not impose controls or authorization obligations that restrict the release of 
+models, and speciﬁcally exempts certain open-source models from most provisions of the AI Act.  
+ 
+3 These are detailed in Brooks, ‘Open-Source Casualties of Model-Layer Regulation’, AAAI Workshop on 
+Open-Source AI for Mainstream Use (2025), preprint forthcoming via Arxiv.  2 For an overview of these positions, see prior works: Brooks, ‘If China Shares AI, the U.S. Can’t A ﬀord to 
+Lock It Out’, The Hill (2025, available here and Brooks and Fang, ‘U.S. Leadership in AI Requires 
+Open-Source Diplomacy’, The Hill (2025), available here. 
+2 
+
+
+Challenge. The U.S. can maintain a lead in the development and deployment of capable AI. Yet 
+“winning” in AI means more than training a handful of frontier models behind a paywall—and 
+keeping them there through regulatory controls on models, data, or research. Winning means 
+driving the rapid diﬀusion, localization, and adoption of useful AI capability across the U.S. 
+economy. That is how the U.S. will achieve a durable advantage in productivity, innovation, and 
+competitiveness over strategic rivals, such as the People’s Republic of China. However, national 
+AI adoption has been neglected in U.S. policymaking to date. The Trump Administration has an 
+opportunity to “reset” U.S. policy, with a focus on making AI useful for everyday Americans and 
+everyday businesses, and mitigating real-world harms as they come into focus.  
+The DeepSeek moment underscores what's at stake. When DeepSeek released its latest model, 
+it demonstrated the tensions within U.S. policy. Their open R1 reasoning model, built on an earlier 
+V3 language model, rivals closed-source U.S. models on several benchmarks,4 and there remain 
+questions about the extent to which DeepSeek utilized controlled chips in the pre-training of V3 
+or the post-training of R1. A hosted version of those models powers the popular DeepSeek AI 
+Assistant, which was brie ﬂy the most downloaded mobile application globally. The model is 
+subject to the PRC’s Interim Measure on Generative AI, and is required to embed a range of 
+censored behaviors: for example, it refuses to answer questions concerning Tiananmen Square 
+or Taiwan, bypassing the model’s chain of thought reasoning process. However, because the 
+model was released openly, developers around the world can modify the model to unwind 
+refusal behaviors and substitute alternative values. Within days, hundreds of derivative models 
+appeared online, many correcting the model's political limitations (Figure 2). 
+Figure 2: The original DeepSeek R1 model (left) embeds refusal behaviors as required by PRC regulation. A modi ﬁed 
+derivative of R1 from Perplexity AI (right) unwinds many of those refusal behaviors through post-training modi ﬁcation. 
+4 DeepSeek, ‘DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning’ (2025), 
+available here.  
+3 
+
+
+AI models will become critical technology across the digital economy. They will be embedded in 
+decision making systems from insurance to ﬁnance to healthcare; transform how we interact with 
+information online; and automate a range of analytic, creative, or scienti ﬁc tasks in high-stakes 
+domains. In that environment, as the DeepSeek “scare” demonstrates, open models play a vital 
+role in promoting transparency and experimentation in foundational AI technology: 
+●Transparency. Open models can be inspected to verify performance, identify
+vulnerabilities, and test mitigations.
+●Optimization. Open models can be optimized for safer, more reliable, or less biased
+performance on speciﬁc tasks.
+●Competition. Open models enable third-party developers to build capable AI systems
+without the signiﬁcant costs of pre-training a capable model from scratch.
+●Security. Open models can be deployed without sharing sensitive data (e.g. ﬁne-tuning,
+prompt, or output data) with the original model developer, and without sharing the
+parameters of any derivative models.
+●Access. Many open models can be modi ﬁed or deployed on-prem or on-device,
+promoting greater experimentation among independent researchers and developers.
+These trends are playing out in the developer community today. A handful of capable open base 
+models is driving a wave of innovation among downstream researchers and developers. That is 
+helping to promote greater understanding of their performance and, crucially, their practical 
+limitations. Independent developers are optimizing these models for better performance in 
+diﬀerent tasks, and many are choosing to redistribute those derivative models back to the public 
+(Figure 3). The pace of innovation is accelerating rapidly (Figure 4). Notably, the center of gravity 
+in these ecosystems is shifting: today, developers are releasing derivatives of models from 
+Chinese labs more often than derivatives of models from U.S. labs (Figure 1 at top). 
+4 
+
+
+Figure 3: Composite benchmark score for 4,418 open base and derivative models on the Hugging Face Open LLM 
+Leaderboard, which averages a number of reasoning and comprehension benchmarks (March 2025). For simplicity, 
+base models are models tagged as “pre-trained” without subsequent post-training modi ﬁcation. Derivative models are 
+models modi ﬁed through a range of techniques including ﬁne-tuning, reinforcement learning, or merging. These data 
+may overcount the number of base models due to inconsistencies in naming and tagging conventions. 
+ 
+  
+5 
+
+
+Figure 4: Contributing developers per month and average time between release for derivative models across major 
+open base model families on the Hugging Face platform (March 2025, n=), including Llama, Mistral, Gemma, 
+DeepSeek, Qwen, Falcon, GPT-J, GPT-neoX, Pythia, BLOOM, T5, and BERT / RoBERTa. Note these include a mix of 
+text-to-text and classi ﬁer models. These data do not re ﬂect the total open model activity across all model families, 
+which is signi ﬁcantly higher, or private modi ﬁcation and deployment of open models.  
+Path forward. The U.S. Government should refocus national policy around AI di ﬀusion, 
+localization, and adoption:  
+●Diﬀusion. Putting useful AI technology in the hands of businesses, specialist
+professionals, and developers at the coalface of real-world problems.
+●Localization. Optimizing AI for di ﬀerent tasks in di ﬀerent domains, by equipping a wider
+community of downstream actors to curate data, optimize models, and integrate systems.
+●Adoption. Deploying AI to solve our most pressing challenges, by giving
+businesses—large and small—the con ﬁdence to build, test, and use AI tools.
+Key priorities and quick wins include: 
+1.Better regulation for open innovation. The U.S. should signal its commitment to open
+innovation in intangible AI technology: i.e. weights, data, and research. At home, capable
+open models will help to drive national adoption of AI, by promoting transparency,
+innovation, security, privacy, independence, and competition in base technology. Abroad,
+capable open models can help to deepen the global dependence on U.S. industry. The
+world is clamoring for open alternatives to paywalled models, and U.S.-trained,
+6 
+
+
+U.S.-regulated, and U.S.-aligned open models can underpin the tech stack of AI systems
+around the world. Speci ﬁc actions include:
+a.Prioritize open innovation in federal policy. The Administration could issue an
+Executive Order on Open Innovation stipulating that (i) the open release of
+intangible AI technology will be encouraged by the U.S. Government, where
+appropriate, as a matter of policy; (ii) where open and closed systems meet
+required capabilities, open-source technology must be prioritized in federal
+procurement; and (iii) all federally-funded AI research or infrastructure must be
+released openly.
+b.Amend the Interim Final Rule. The Interim Final Rule (90 Fed. Reg. 4544)
+establishes a troubling precedent by subjecting frontier AI models to export
+controls. BIS should rescind the Rule to the extent it applies to model weights, and
+refrain from implementing further controls on intangible technology unless
+justiﬁed by (i) clear and compelling evidence of (ii) unacceptable risk that (iii)
+cannot be mitigated other than through model-layer regulation.
+c.Practise open-source diplomacy. The Administration can wield U.S. open-source
+technology as a diplomatic strategy by (i) actively promoting U.S. models, data,
+and research as the foundation for AI systems globally, in partnership with U.S.
+research institutions and model developers, (ii) promoting pro-open policy in
+regulatory frameworks globally, utilizing the U.S. Trade Representative and other
+agencies as needed, and (iii) establishing U.S. leadership in standards bodies, with
+a focus on ensuring transparency, modi ﬁability, regulatory harmonization, technical
+interoperability, and competition at every lay in the technology stack.
+2.Develop AI with con ﬁdence. The Administration should develop a robust monitoring
+capability to track emerging trends of public signi ﬁcance, and respond with targeted
+regulation. That capacity will help to avoid overbroad or reactive intervention that might
+stiﬂe open innovation. Indeed, the U.S. can play a leading role in research, evaluation, and
+monitoring for national security risks globally. However, other jurisdictions such as the
+United Kingdom are outspending the U.S. by ten-to-one through entities such as the AI
+Security Institute. The U.S. can:
+a.Reconstitute the USAISI. The USAISI could be reconstituted and revitalized with a
+singular mandate: supporting the safe and secure di ﬀusion of AI technology
+across the national economy. Concretely, it should establish U.S. leadership in
+global standards development across the supply chain: from data to models to
+systems, from developers to deployers, and from language to vision to audio
+models.
+7 
+
+
+b.Tighten its mandate. The USAISI should focus on producing: (i) evaluations for
+oﬀensive cyber and CBRNE capabilities; (ii) frameworks to assess marginal
+catastrophic risk, taking into account the balance of o ﬀense / defense across the
+digital economy; (iii) evaluations for the performance of AI systems in sensitive
+domains (e.g. healthcare, ﬁnancial services, or public administration); (iv)
+interoperable standards to support the adoption of agentic systems in digital
+environments; and (v) ready-made tools to support AI adoption by small
+businesses. The UAISI should deprioritize research into vague, diﬀuse, or
+poorly-de ﬁned harms that aren’t amenable to upstream mitigation.
+c.Expand its resources. The UAISI should be adequately resourced to ful ﬁl its
+function as the world’s leading institution for standards and evaluation.
+3.Deploy AI with con ﬁdence. The Administration should give downstream actors the
+conﬁdence to deploy AI when appropriate, with a clear understanding of how to evaluate
+reliability, ensure security, and protect privacy.
+a.Incentivize safe deployment. There is no “one size ﬁts all” regulatory framework
+for AI safety. AI safety is context dependent, and depends on how AI systems are
+applied to particular tasks. To that end, the Administration should develop a
+generous package of tax credits and other inducements to incentivize safety
+among system developers and system deployers who apply AI in sensitive
+environments. Businesses could claim credits for qualifying expenses that
+promote transparency, reliability, privacy, security, and redress in relevant AI
+systems.
+b.Plug the gaps. Governments are racing to regulate AI without stopping to ask if
+existing rules are adequate. The Administration should require every regulatory
+agency to (i) conduct a gap analysis that identi ﬁes how AI systems are being
+deployed today, (ii) con ﬁrm they have the necessary resources, expertise, and
+authority to e ﬀectively oversee AI deployments in those domains, and (iii) partner
+with the UAISI to develop performance standards for AI systems deployed in
+high-stakes environments.
+c.Eliminate barriers to safe deployment. The White House should commence a
+broad consultation on automated technology that asks industry to identify
+instances where existing regulatory structures might inhibit the safe and scalable
+introduction of automated technologies, where those technologies could improve
+public or consumer outcomes. Following that consultation, the Administration
+should direct relevant agencies to expedite any rulemakings necessary to support
+the safe integration of these technologies.
+8 
+
+
+d.Promote small business. Small businesses will be the engine of AI adoption
+across the economy. The vast majority of small business applications will not
+require a frontier model: they will depend on self-hosted or locally-run models
+performing routine tasks. However, the Small Business Administration and
+individual states may not have the expertise to support this transition. Alongside
+the SBA, Commerce should take the lead in establishing a small business strategy
+to ensure that America’s sole traders, ﬂedgling startups, and everyday businesses
+are not left behind—and to ensure everyday consumers and everyday workers are
+not disadvantaged by the integration of AI. This will require a sustained campaign
+to: (i) distribute useful technical guidance to business owners across the U.S., (ii)
+share easy-to-use and easy-to-access tools, evaluation frameworks, and ancillary
+software to enable reliable and secure AI integration (including local deployment
+of AI systems), and (iii) ensure fair access to compute for inference.
+4.Use AI with con ﬁdence. The Administration should give American businesses, investors,
+and workers the con ﬁdence to use AI—and live with AI—without fear of exploitation. In
+particular, the Administration should spearhead e ﬀorts to address obvious examples of
+misuse, either using existing authority or by accelerating Congressional reform:
+a.Abusive deepfakes. The Administration should signal to Congress that it expects
+immediate action to criminalize the distribution of non-consensual intimate
+imagery (NCII) federally, including synthetic NCII, in addition to existing federal civil
+liability. Several bills have been introduced in the House and Senate, but none
+have passed.
+b.Right of publicity. To address the most acute concerns from the creative industry,
+the Administration could indicate to Congress that it welcomes a narrow federal
+right of publicity to protect the use of a person’s physical or vocal likeness from
+improper commercial use. The right would enable nationwide recovery of
+damages in federal courts, but it should complement existing state statutes, and
+avoid chilling legitimate artistic or casual expression.
+c.Synthetic voice scams. The Administration should (i) require the FCC and FTC to
+report on their progress in addressing the scam call epidemic across the U.S., (ii)
+identify options for further intervention (including heightened criminal penalties for
+scam operators and civil liability for carriers), and (iii) require ﬁnancial service
+providers and other data processors to report on the prevalence of breaches or
+fraud involving synthetic voice.
+5.Federal preemption. Today, AI regulation is piecemeal. Di ﬀerent states are enacting
+wildly di ﬀerent approaches. While state intervention may be welcome in certain areas, the
+Administration can help to establish a uni ﬁed national strategy that avoids further
+9 
+
+
+fragmentation. By reconstituting the USAISI; standardizing AI evaluation; and positioning 
+the U.S. as the leader in global harmonization, the Administration can alleviate state fears 
+of a federal “vacuum” and avoid overbroad state regulation. To avoid future duplication, 
+omission, or confusion, the Administration should establish a clear preemption strategy. 
+The Administration should: 
+a.Preempt to prevent states restricting the availability of models, data, or software.
+Any restrictions on development or release of versatile technology should be a
+last resort, determined by national security considerations, and imposed federally.
+b.Don’t preempt how states regulate the intentional use or deployment of
+integrated systems in sensitive domains. States should be free to regulate how AI
+systems are used for speci ﬁc kinds of tasks, or speci ﬁc forms of misuse, with the
+ability to modify liability, set performance requirements, or de ﬁne acceptable risk.
+6.Scaling up compute. The Administration should commit to streamlining approvals for data
+centers and access to energy. In addition, the Administration should accelerate the
+onshoring of supply chains to mitigate against geopolitical risks. These proposals are
+covered in detail by others so I won’t reiterate them here, but scaling up compute is
+critical to downstream leadership in models and systems. One caveat is that preferential
+federal policy should not work solely in the favor of a handful of chip, cloud, and model
+providers: the Administration should take steps to diversify the ecosystem, including by
+supporting new entrants.
+10 
+
+

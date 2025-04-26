@@ -1,0 +1,570 @@
+GREGORY SMITH, ELINA TREYGER, ELIKA SOMANI
+Enhancing In-House 
+U.S. Government  
+AI Talent
+RAND Global and Emerging Risks
+WR-A3882-1  
+March 2025Working Paper
+RAND working papers are intended to share early insights. This document is approved for public dissemination by 
+RAND, but it has not been peer reviewed. Review comments are welcomed to the authors via email by viewing their 
+profiles at rand.org. This working paper can be quoted and cited without permission of the author, provided the source is clearly referred to as a working paper. This working paper does not necessarily reflect the opinions of RAND’s research clients and sponsors. The paper contains no business-proprietary or confidential information. Its contents may be reused by the U.S. government in developing the AI action plan and associated documents without attribution.
+About RAND
+RAND is a research organization that develops solutions to public policy challenges to help make communities 
+throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest. To learn more about RAND, visit www.rand.org.
+RAND’s publications do not necessarily reflect the opinions of its research clients and sponsors.Published by the RAND Corporation, Santa Monica, Calif.
+© 2025 RAND Corporation
+ is a registered trademark.
+Limited Print and Electronic Distribution Rights
+This publication and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to its webpage on rand.org is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research products for commercial purposes. For information on reprint and reuse permissions, please visit www.rand.org/pubs/permissions.
+
+
+1 About This Working Paper 
+This paper provides public comment in response to the February 6, 2025, request for 
+information (RFI) by the National Science Foundation’s Networking and Information 
+Technology Research and Development National Coordination Office on behalf of the Office of 
+Science and Technology Policy (OSTP), concerning the development of an artificial intelligence 
+(AI) action plan.1 Our purpose is to answer OSTP’s request and share relevant expert knowledge 
+on the following subject areas prioritized in the RFI: “hardware and chips, data centers, energy 
+consumption and efficiency, model development, open source development, application and use 
+(either in the private sector or by government), explainability and assurance of AI model outputs, 
+cybersecurity, data privacy and security throughout the lifecycle of AI system development and 
+deployment (to include security against AI model attacks), risks, regulation and governance, 
+technical and safety standards, national security and defense, research and development, 
+education and workforce, innovation and competition, intellectual property, procurement, 
+international collaboration, and export controls.”2 
+We focus on the topic of education and workforce because developing a skilled workforce is 
+crucial for AI innovation. We consider the highe st priority policy actions in this area for driving 
+U.S. AI competitiveness. Our target audience is OSTP; we have written the paper in a manner 
+that non–technical experts can understand, but i t does require some background knowledge in 
+AI. This paper is filed by Gregory Smith, Elina Treyger, and Elika Somani. The opinions 
+presented in this paper are those of the authors and do not reflect those of RAND. This paper 
+does not contain original research; it draws from the authors’ professional assessment of 
+published research and current best practices.  
+Technology and Security Policy Center 
+RAND Global and Emerging Risks is a division of RAND that delivers rigorous and 
+objective public policy research on the most consequential challenges to civilization and global 
+security. This work was undertaken by the division’s Technology and Security Po licy Center, 
+which explores how high-consequence, dual-use technologies change the global competition and 
+threat environment, then develops policy and technology options to advance the security of the 
+United States, its allies and partners, and the world. For more information, contact.  
+Funding 
+This effort was independently initiated and conducted within the Technology and Security 
+Policy Center using income from operations and gifts from philanthropic supporters, which have 
+been made or recommended by DALHAP Investments Ltd., Effektiv Spenden, Ergo Impact, 
+1 National Science Foundation, “ Request for Information on the Development of an Artificial Intelligence (AI) 
+Action Plan ,” Federal Register , Vol. 90, No. 24, February 6, 2025 . 
+2 National Science Foundation, 2025, p. 9089.  
+
+
+ 
+ 2 Founders Pledge, Charlottes och Fredrik Stiftelse, Good Ventures, Jaan Tallinn, Longview, Open 
+Philanthropy, and Waking Up Foundation. A complete list of donors and funders is available at 
+www.rand.org/TASP. RAND donors and grantors have no influence over research findings or 
+recommendations. 
+Acknowledgments  
+We would like to thank our RAND colleagues Casey Dugan, Christopher Byrd, Jeff Alstott, 
+and Yusuf Mahmood for their guidance and helpful feedback on this paper, and Gary Cecchine, the research quality assurance manager for the Global and Emerging Risks division, for 
+managing the quality assurance process. 
+  
+  
+
+
+ 
+ 3 Enhancing In-House U.S. Government AI Talent 
+The U.S. Government Faces Significant Challenges in Leveraging AI for 
+National Advantage 
+The U.S. government’s (USG’s) ability to leverage artificial intelligence ( AI) is increasingly 
+a critical determinant of national security, economic competitiveness, and efficient public 
+services. However, there is a need for in-house AI skills and new talent pipelines to improve 
+government operations, manage oversight that might apply to AI, or understand attempts to 
+develop and regulate AI abroad.1 Such talent could also provide USG with the core institutional 
+capacity required to understand AI development by competitor nations, collaborate with industry to accelerate AI development, perform technical assessments of advanced AI systems, and 
+ensure information is shared across agencies as required. 
+However, few federal agencies have dedicated AI experts on staff, and those that do remain 
+understaffed relative to mission needs.
+2 Generally, federal service pays significantly less than the 
+private sector for in-demand technical talent.3 Furthermore, traditional hiring authorities are 
+often poorly suited for recruiting technical staff because they impose burdensome requirements 
+that prevent the hiring of the best applicants.4 As a result, agencies have faced challenges in 
+hiring AI talent, limiting USG’s ability to access, develop, shape, and deploy advanced AI systems that could enhance government functions.
+5 
+If the United States does not overcome these barriers, it risks falling behind foreign 
+competitors because it lacks the critical capabilities required to enable U.S.-developed AI to succeed domestically and abroad. Several countries have implemented comprehensive strategies 
+to build in-house AI talent within their governments (see the appendix). China’s government has 
+made recruiting and training AI experts a national priority: Its strategic plan calls for 
+“accelerat[ing] the training and gathering of high-end AI talent” and encourages foreign 
+ 
+1 U.S. Government Accountability Office  (GAO), Artificial Intelligence: Actions Needed to Improve DOD’s 
+Workforce Management, GAO- 24-105645, December 14, 2023 ; AI and Tech Talent Task Force, Increasing AI 
+Capacity Across the Federal Government, Executive Office of the President, April 2024. 
+2 GAO, 2023; AI and Tech Talent Task Force, 2024 . For more details on the challenges of preparing government 
+workers for creating, using, and deploying AI, see Rachel Slama, Nelson Lim, and Douglas Yeung, eds., Leading 
+with Artificial Intelligence: Insights for U.S. Civilian and Military Leaders on Strengthening the AI Workforce , 
+RAND Corporation, PE -A3414-1, October 2024 , https://www.rand.org/pubs/perspectives/PEA3414 -1.html. 
+3 Mark Lerner, “The Government Technology Silver Bullet: Hiring In -House Technical Talent,” Belfer Center for 
+Science and International Affairs, Harvard Kennedy School,  June 2021 .  
+4 Lerner, 2021. The  Defense Innovation Board  lays out vignettes illustrating the difficulties of hiring technical talent 
+for the U.S. Department of Defense (DoD) on its “Software Acquisition and Practices (SWAP) Study” webpage, 
+undated, https://innovation.defense.gov/software/ . 
+5 National Security Commission on Artificial Intelligence, “Chapter 6: Technical Talent in Government, National 
+Security Commission on Artificial Intelligence,” National Security Commission on Artificial Intelligence Final 
+Report, March 2021. 
+
+
+ 
+ 4 companies to set up AI development in China.6 The United Kingdom (UK) and European Union 
+(EU) are launching similar initiatives to attract AI talent.7  
+Fortunately, USG can address many of these shortcomings in recruiting AI talent by 
+exercising existing hiring authorities to hire AI talent into government and by contracting with, 
+or connecting to, the private sector in other ways. In particular, USG could use current hiring 
+authorities to streamline AI-focused hiring and address the wide pay disparities between federal 
+and private sector employment, as well as rapidly onboard required talent by exercising some of 
+the authorities discussed in the next section. We also  cover special and direct hiring authorities to 
+rapidly onboard AI talent, how to optimize existing pipelines to support AI-focused hiring, and 
+other reforms to maximize USG’s hiring and retention of AI talent. 
+Policy Options to Address the Government’s AI Talent Needs  
+USG Could Leverage Special Hiring Authorities to Rapidly Enhance Its AI Workforce 
+While USG faces significant challenges in recruiting a workforce to deploy AI, it has the 
+tools to respond to this problem. USG could expand excepted service and direct-hire authorities 
+and appointments to rapidly bring in AI experts and shortcut traditionally burdensome 
+government hiring timelines. The U.S. Office of Personnel Management (OPM) has previously 
+authorized a government-wide direct-hire authority for AI-related positions (General Schedule 
+(GS)-9 to GS-15) for AI.8 OPM could provide similar authorizations for a similar set of positions 
+for AI professionals. Additionally, agencies can apply excepted service appointments for 
+specialized short-term AI hires. OPM has authorized such hiring authority in the past to enable 
+the rapid hiring of AI talent in line with executive orders and could be directed to do so again to 
+implement the USG’s AI priorities.9 Some of these mechanisms, such as excepted service hiring, 
+have been used to implement alternative pay scales for in-demand talent.10 Such tools can bypass 
+lengthy competitive hiring processes; agencies simply need to be directed to use them to their 
+full effect. 
+ 
+6 Graham Webster, Rogier Creemers, Elsa Kania, and Paul Triolo,  “Full Translation:  China’s ‘New Generation 
+Artificial Intelligence Development Plan’ (2017),”  DigiChina, Stanford University, August 1, 2017.  
+7 The United Kingdom recently launched an AI Action Plan and created an Office for Artificial Intelligence to 
+coordinate strategy , and it is funding prestigious AI fellowships to attract top researchers, including committing to 
+paying at least 75 percent of those researchers’ private- sector salaries  (UK Department for Science, Innovation, and 
+Technology, “AI Opportunities Action Plan,” UK Government, January 13, 2025).  The European Union, for its part, 
+is establishing a new European AI Office to serve as the “centre of AI expertise” across member states  (European 
+Commission, “European AI Office ,” webpage, undated, https://digital -strategy.ec.europa.eu/en/policies/ai -office). 
+8 Kiran A. Ahuja, “Government -Wide Hiring Authorities for Advancing Federal Government Use of Artificial 
+Intelligence (AI),” memorandum for heads of departments and agencies, U.S. Office of Personnel Management, 
+December 29, 2023 ; Hinton, Veronica E., “ The Artificial Intelligence  Classification Policy and Talent Acquisition 
+Guidance —The AI in Government Act of 2020, ” memorandum for Chief Human Capital Officers, U.S. Office of 
+Personnel Management, April 29, 2024 
+9 Hinton, 2024. 
+10 For example, see the discussion of excepted service hiring for cyber  professionals in Gilbert R.  Cisneros, Jr. , 
+“Direct Hire Authority for Certain Personnel of the Department of Defense, ” memorandum for senior pentagon 
+leadership, commanders of the Combatant Commands, Defense Agency , and DoD Field Activity Directors , Under 
+Secretary of Defense, Personnel and Readiness, U.S. Department of Defense, June 23, 2023. 
+
+
+ 
+ 5 Implementing Direct-Hire Authorities for AI Roles Would Create Mechanisms for Rapidly 
+Recruiting Necessary Staff 
+Direct-hire authority (DHA) allows agencies to hire qualified individuals for critical skills 
+positions without the normal competitive rating and ranking process, expediting recruitment.11 
+OPM can issue government-wide DHAs when a severe talent shortage or critical hiring need is 
+identified. Using and expanding DHAs would be most useful for rapidly bringing already-skilled 
+AI professionals into government to address pressing needs for such skills. 
+This mechanism has already been used to hire AI talent: In December 2023, in response to 
+the urgent need for AI expertise, OPM authorized a new government-wide DHA for AI-related 
+positions.12 This DHA covers several occupational series at GS-9 through GS-15, including IT 
+specialists (2210), computer scientists (1550), computer engineers (0854), and program analysts (0343) working on AI.
+13 OPM determined that a “critical hiring need” exists for these roles and 
+allowed agencies to hire for them through 2028 without the typical competitive examinations.14 
+OPM has also extended guidance allowing agencies to direct-hire professionals in science, 
+technology, engineering, and mathematics  (STEM) fields for terms of up to ten years in certain 
+circumstances.15 Even prior to this government-wide action, certain agencies had obtained their 
+own DHAs for high-tech talent. For example, DoD has special hiring authorities for STEM and 
+cyber positions, which often encompass AI-related jobs.16 
+These agency-specific authorities can be models for broader use. With a government-wide AI 
+DHA in place, all agencies would have a powerful tool to directly recruit data scientists, machine 
+learning engineers, and related specialists into federal roles. It would be important to promote 
+awareness and use of this authority across departments and to consider extending it or making it 
+permanent based on its success in addressing the AI talent gap. OPM could use this as a model to 
+create special hiring authorities to drive AI innovation and adoption across all of USG.  
+Excepted Service Hiring (Schedule A and Other Exceptions) 
+Beyond DHAs, USG can also deploy excepted service hiring to support its talent recruiting 
+efforts. Excepted service hiring provides the flexibility to hire outside the usual competitive civil 
+service procedures for positions that have unusual or specialized duties. Under such authority, 
+OPM can except positions from the competitive service when traditional hiring rules are 
+impractical.17 Excepted service hiring can be used to make government employment more 
+attractive for AI-skilled professionals and help pay competitive salaries for such staff, as well as accelerate the hiring of such professionals. One relevant category is Schedule A, which can allow 
+temporary appointments for specialized talent when a “critical hiring need exists” or when OPM 
+ 
+11 Code of Federal Regulations, Title 5, Administrative Personnel; Chapter I, Office of Personnel Management; 
+Subchapter B, Civil Service Regulations; Part 337, Examining System; Subpart B, Direct -Hire Authority.  
+12 Ahuja, 2023.  
+13 Ahuja, 2023; U.S. Office of Personnel Management, “General Schedule Overview,” webpage, undated -b. 
+14 Ahuja, 2023.  
+15 OPM, “Temporary and Term Employment,” Federal Register , Vol. 87, No. 230, December 1, 2022. 
+16 Cisneros, 2023. 
+17 Code of Federal Regulations, Title 5, Administrative Personnel; Chapter I, Office of Personnel Management; 
+Subchapter B, Civil Service Regulations; Part 334, Temporary Assignments Under the Intergovernmental Personnel 
+Act (IPA), Sections 3371 –3375. 
+
+
+ 
+ 6 determines that traditional hiring examination is impractical. As an example, DoD maintains a 
+Cyber Excepted Service for hiring cyber specialists into its workforce.18  
+In 2023, OPM authorized Schedule A appointments for positions supporting the 
+implementation of the now-rescinded AI Executive Order.19 This enabled agencies to hire AI 
+experts on a temporary basis (e.g., one- to two-year terms) without competition, to surge capacity for AI initiatives. Such experts might include data scientists brought in to jump-start AI projects 
+or reform outdated or faulty government systems. While temporary, these appointments fill immediate skill gaps and can inform longer-term needs. Agencies could identify critical AI 
+projects (such as those stemming from executive orders) that warrant the hiring of experts 
+covered under Schedule A. OPM could then issue guidance to enable hiring to execute on these 
+valuable priorities. The Cybersecurity and Artificial Intelligence Talent  Initiative, run by the 
+nonprofit Partnership for Public Service, has historically focused on recruiting recent graduates in cybersecurity into public service through two-year placements at federal agencies via the 
+Schedule A(r) hiring authority. The program recently expanded (for the 2024 program cycle) to 
+include hiring AI talent as well.
+20 The benefits to agencies are access to vetted cybersecurity and 
+AI early career talent who are interested in public service careers (instead of working in the more competitive private sector).
+21 Furthermore, participating agencies can send up to 20 of their early 
+career staff (GS7–GS11), to Partnership for Public Service’s one-year leadership and onboarding program.
+22 This program could be further expanded to admit more hires, particularly those with 
+AI skills that would be of use to relevant federal agencies, such as DoD, the U.S. Department of Energy, and the Cybersecurity and Infrastructure Security Agency. Salaries, however, are 
+covered by agencies, so additional authorization and appropriations of funds would be needed. 
+Other excepted service mechanisms can also aid AI-focused hiring. Schedule B can be used 
+for internships or fellowship programs where hiring is based on alternative criteria (for instance, 
+academic training in AI).
+23 The U.S. Digital Corps (a program for early career technologists) is 
+using Schedule D excepted service; similar models could target AI-proficient recent graduates.24 
+ 
+18 Code of Federal Regulations, Title 5, Administrative Personnel; Chapter I, Office of Personnel Management; 
+Subchapter B, Civil Service Regulations; Part 213, Excepted Service; Subpart C, Excepted Schedules; Schedule A, 
+Section 213.3101, Positions Other Tha n Those of a Confidential or Policy- Determining Character for Which It Is 
+Impracticable to Examine; Kristy N. Kamarck and Catherine A. Theohary, FY2023 NDAA: Cyber Personnel 
+Policies, Congressional Research Service, R47270, March 6, 2023.  
+19 Executive Order 14110, “ Safe, Secure, and Trustworthy Artificial Intelligence ,” Executive Office of the 
+President, October 30, 2023.  
+20 Partnership for Public Service, “Cybersecurity and Artificial Intelligence Talent Initiative,” webpage, undated -a, 
+https://gogovernment.org/fellowship/cybersecurity- ai-talent-initiative/. 
+21 Partnership for Public Service, “ Join the Cybersecurity and Artificial Intelligence Talent Initiative,” undated-b.  
+22 Partnership for Public Service, undated-b. 
+23 Code of Federal Regulations, Title 5, Administrative Personnel; Chapter I, Office of Personnel Management; 
+Subchapter B, Civil Service Regulations; Part 213, Excepted Service; Subpart C, Excepted Schedules; Schedule B, Section 213.3201, Positions Other Than Those of a Confidential or Policy- Determining Character for Which It Is 
+Not Practicable to Hold a Competitive Examination. 
+24 OPM, “Excepted Service, Career and Career -Conditional Employment; and Pathways Programs,” Federal 
+Register, Vol. 77, No. 92, May 11, 2012.  
+
+
+ 
+ 7 USG Could Leverage Existing Pipelines and Establish New AI Fellowships and 
+Exchange Programs to Rapidly Increase In-House AI Talent  
+In addition to hiring current AI experts, USG can create systems to temporarily bring on AI 
+talent from outside the government. Specialized fellowship programs have proven effective in 
+infusing technical talent into government on term assignments. These programs operate via 
+excepted service or contractual arrangements and could be deployed to focus on AI or provide 
+models for the creation of new programs focused on recruiting AI talent. These tools would 
+allow USG to temporarily recruit talent from the private sector to address pressing AI needs or 
+provide surge capacity for such needs. We describe several potential mechanisms below. 
+Presidential Innovation Fellows (PIFs): This White House–sponsored program recruits 
+mid-career technologists from industry and academia for one- to two-year terms in federal 
+agencies. In 2024, the program launched its first cohort exclusively focused on AI, placing 11 AI 
+experts across eight agencies (PIF appointments are in the excepted service).25 Scaling up the 
+PIF AI cohort (e.g., multiple batches per year, more fellows per batch) could directly inject dozens of skilled AI practitioners into high-impact federal projects.  
+Intergovernmental Personnel Act (IPA) assignments: The IPA allows the temporary 
+assignment of personnel between the federal government and state and local governments, 
+institutions of higher education, Indian tribal governments, federally funded research and 
+development centers (FFRDCs), and other eligible organizations.
+26 Agencies can heavily use 
+IPA assignments to bring in AI researchers or AI scientists from universities, FFRDCs, and organizations already certified as eligible by federal agencies and from organizations that may be 
+eligible for certification for one to two years. This approach is intended to bridge skill gaps 
+quickly.
+27 It does not require hiring the individual as a federal employee (they remain on their 
+home institution’s payroll, with the federal agency usually fully or partly reimbursing the 
+employer), which makes the process of bringing in talent more flexible.28 
+Opportunities for future expansion: USG can establish an AI Talent Reserve or Council 
+that enables experts from industry and academia to do stints in government.29 Agencies might be 
+directed to create their own fellowship programs targeting AI talent. For example, an “AI Professionals” program for each agency could invite Ph.D.-level AI researchers to spend a year 
+in residency solving agency problems (modeled on JASON defense advisory panelists ).  
+National Science Foundation’s CyberCorps: Scholarship for Service is an example of a 
+similar program intended to recruit cybersecurity professionals by offering scholarships to 
+students, and a similar scholarship program could be established for AI talent.
+30 
+ 
+25 U.S. General Services Administration, “Presidential Innovation Fellows Launches First Cohort Focused 
+Exclusively on Artificial Intelligence,” press release,  June 17, 2024.  
+26 Code of Federal Regulations, Title 6, Part 158,  Sections 3371–3375; U.S. Office of Personnel Management, 
+“Intergovernmental Personnel Act (IPA),” webpage, undated -c, https://www.opm.gov/policy -data-oversight/hiring -
+information/intergovernment -personnel -act/#CertificationOfOtherOrganizations .  
+27 GAO, Personnel Mobility Program: Improved Guidance Could Help Federal Agencies Address Skills Gaps and 
+Maximize Other Benefits , GAO-22-104414, January 2022. 
+28 GAO, 2022. GAO (2022) finds, however, that home organizations are reluctant to lose employees and that salary 
+limits for participants reduce the attractiveness of the program .   
+29 National Security Commission on Artificial Intelligence, 2021 . 
+30 OPM, “CyberCorps®: Scholarship for Service,” webpage, undated -a, https://sfs.opm.gov/. 
+
+
+ 
+ 8 USG Should Also Consider Broader Reforms to Establish Longer-Term Consistent 
+Hiring Pipelines 
+While special programs address immediate needs, integrating AI talent into the standard civil 
+service pipeline is also important for sustainable capacity in this field. The UK government has 
+prioritized the hiring of AI talent: It has more than 50 technical staff members in its AI Security 
+Institute to position the country as a leader in AI evaluations and policy (see the appendix).31 The 
+mechanisms below would help USG develop long-term recruiting pipelines for AI talent, particularly among students and younger professionals early in their career development. 
+Until recently, USG had no distinct AI job series. Under the AI in Government Act of 2020, 
+OPM studied needed AI skills and released an AI competency model.
+32 OPM has begun coding 
+certain positions (e.g., the 1550 computer scientist series) for AI work and identified 43 general competencies and 14 technical competencies essential for AI roles.
+33 Continuing to refine hiring 
+standards for AI roles will help agencies identify and hire qualified candidates (e.g., requiring experience with machine learning algorithms, data management). OPM could establish a 
+dedicated AI job series or officially recognize subspecialties in existing series, which would 
+simplify targeted recruitment. 
+Building a longer-term pipeline requires attracting new graduates with AI training into public 
+service. Agencies could also partner with universities (especially those with strong AI programs) 
+to offer internships, capstone projects, and recruitment fairs focused on federal AI jobs. 
+Scholarship-for-service models (akin to the CyberCorps program) could be explored, providing 
+students tuition aid in exchange for committing to work in the government upon graduation.  
+USG Should Also Improve Retention and Career Paths for AI Experts  
+While recruiting AI talent is important, USG should also take steps to better use the talent it 
+already has and retain skilled personnel. To this end, USG could create career tracks and growth 
+opportunities for AI practitioners in government that compensate them at levels commensurate to 
+their skills. In particular, the White House could direct OPM to use the above authorities and 
+identify other mechanisms that would authorize higher pay to ensure that the federal government 
+can attract and retain AI-skilled individuals. This could help make government service more 
+attractive by closing the compensation gap with current salaries for technical staff at AI labs, 
+which are far higher than traditional pay scales for federal employment.
+34  
+Without changes to close this pay gap, recruiting AI talent into government will be difficult 
+because the most skilled individuals will be drawn to the private sector’s higher salaries, and 
+those that join government service will become more difficult to retain as they gain experience 
+for the same reason. 
+USG could create clear paths for advancement so that AI experts can grow without leaving 
+government service. This might entail new technical leadership positions (e.g., AI Technical 
+Fellow ranks) that allow advancement based on expertise rather than supervisory duties. It may 
+ 
+31 AI Security Institute, “Rigorous AI Research to Enable Advanced AI Governance ,” UK Department for Science, 
+Innovation, and Technology, webpage, undated , https://www.aisi.gov.uk/ . 
+32 Hinton, 2024.  
+33 Cate Burgan, “OPM Developing AI Competency Model to Help Recruit AI Talent,”  MeriTalk, February 20, 2024 . 
+34 Grace Kay, Katherine Long, and Andy Kiersz, “Public Salary Data Reveals How Much  xAI Pays Some Workers 
+Compared to OpenAI,” B usiness Insider , December 12, 2024.  
+
+
+ 
+ 9 also involve mentoring programs and cross-agency communities of practice for AI, so that 
+specialists feel professionally supported. The U.S. Digital Corps and PIF alumni networks are 
+examples of fostering communities; a dedicated “AI Professionals” community of practice across 
+USG (perhaps under the Federal Chief AI Officers Council) could aid knowledge-sharing and 
+morale.  
+In addition, to keep AI professionals engaged, agencies would benefit from modern tools 
+(e.g., cloud computing access, high-performance computing where needed, relevant datasets) and 
+an agile project environment. The National Security Commission on Artificial Intelligence found 
+that the biggest obstacle to recruiting digital talent was the perception that they cannot “perform 
+meaningful work, with modern computing tools, at the forefront of a rapidly changing field” in 
+government.”35 Addressing this by equipping teams with the right infrastructure, such as access 
+to advanced hardware that is used in cutting-edge AI systems, could improve retention and enable federal AI professionals to more rapidly deliver high-quality work. 
+In sum, leveraging existing hiring authorities and establishing targeted AI initiatives can 
+contribute to effectively addressing the current AI talent gap within USG. Implementing these 
+strategies might not only enhance the government’s capacity to develop and oversee advanced 
+AI systems but also could ensure that the United States leads the world in AI development. 
+  
+ 
+35 National Security Commission on Artificial Intelligence, 2021, p. 122.  
+
+
+ 
+ 10 Appendix . International Approaches to Cultivating AI Talent in Government  
+Several countries have launched concerted programs to cultivate AI expertise within their 
+governments. In this appendix, we examine initiatives in China, the UK, and the EU—
+highlighting their strategies for AI talent recruitment, dedicated AI offices, and related efforts—
+to inform U.S. policy responses. 
+China 
+China’s approach to AI development is defined by national policies and significant 
+investments designed to cultivate AI expertise within government and industry. Under its 2017 
+“New Generation Artificial Intelligence Development Plan,” China has drawn a road map to 
+2030 that targets an expansion of core AI industries from $21.5 billion in 2020 to more than 
+$150 billion by 2030.36 This framework is reinforced by the Made in China 2025 Initiative, 
+which allocates $137 billion to AI infrastructure investments intended to build the technological backbone for advanced AI development.
+37 
+Regional implementation and support: China’s Ministry of Science and Technology 
+established 11 AI pilot zones by 2020—seven in 2019 and four in 2020—with each zone 
+targeting a different specialization: For example, Beijing develops autonomous vehicles, 
+Shanghai focuses on humanoid robotics and AI industrial services with plans for a national 
+manufacturing innovation center, and Shenzhen concentrates on AI hardware and computer vision.
+38 These zones receive various forms of government support, including subsidized 
+housing, research and development (R&D) tax incentives, and short-term vocational programs for transitioning engineers. 
+This framework drives interprovincial competition. In Suzhou, local authorities offer up to 
+$13.7 million in project funding for AI enterprises and $1.3 million in housing subsidies, 
+committing to 5,000 annual positions for young AI professionals.
+39 Shanghai emphasizes large-
+scale talent attraction—targeting 20,000–30,000 AI experts—and provides up to $13.7 million in subsidies for elite AI research teams, plus $689,000 grants for academician-founded firms under 
+its 2024 policy.
+40 
+Education development: China employs a multilevel AI talent strategy spanning primary 
+school through postgraduate programs. By 2030, Ministry of Education plans to integrate AI 
+awareness for students ages 6–9; applied AI learning for students ages 10–14; and advanced, 
+ 
+36 Kania, Elsa, “China’s AI Talent ‘Arms Race,’” The Strategist , Australian Strategic Policy Institute, April 23, 
+2018. 
+37 William A.  Carter, and William D. Crumpler, “China’s National Strategy for AI,” in Smart Money on Chinese 
+Advances in AI , Center for Strategic and International Studies, September 2019; Ray Wang, “DeepSeek Is 
+Reshaping China’s AI Landscape, ” Foreign Policy , January 29, 2025 . 
+38 Ministry of Science and Technology of the People’s Republic of China , “China Creates National New Generation 
+Artificial Intelligence Innovation and Development Pilot Zones,” translation,  Center for Security and Emerging 
+Technolog y, March 11, 2020a ; Yujia He, “How China Is Preparing for an AI -Powered Future,” ed. by Anne 
+Bowser, Wilson Center, June 2017 . 
+39 Cang Wei, “Suzhou to Propel AI Industry Growth,” China Daily , February 15, 2025.  
+40 Ann Cao and Lilian Zhang, “Shanghai Renews Call for Global Talent to Join Its AI Industry Amid US -China 
+Tech War , ChatGPT Frenzy,” South China Morning Post , February 27, 2025.  
+
+
+ 
+ 11 project-based AI curricula for students ages 15–18.41 As of 2022, 440 Chinese universities were 
+authorized to offer AI undergraduate degrees: Tsinghua University and Shanghai Jiao Tong 
+University established AI schools featuring “AI + X” interdisciplinary tracks.42  
+Workforce development: In 2024, the Ministry of Education introduced 40 vocational 
+majors targeting advanced AI and manufacturing fields.43 Major tech partnerships include 
+Alibaba’s plan to train 100-plus postdoctoral researchers by 2026 and Huawei’s collaboration with 600-plus universities
+ on AI hardware.44 Vocational reforms mandate practical training for 
+new AI majors, supported by national subsidies of up to $688 per apprentice.45 Regional hubs 
+such as Shenzhen and Suzhou provide additional incentives for workforce upskilling.46  
+Attracting global talent: China employs targeted foreign recruitment programs to address 
+AI talent gaps. The High-End Foreign Expert Recruitment Program (2019) provides research 
+funding and travel subsidies for experts recruited through Chinese institutions.47 Moreover, the 
+Thousand Talents Plan offers bonuses, housing subsidies, and reduced income tax (15 percent) in designated zones.
+48  
+Talent poaching from Taiwan, South Korea, and the United States: Chinese companies, 
+such as NAURA Technology Group, have recruited Taiwanese engineers from TSMC’s supply 
+chain to support the Semiconductor Manufacturing International Corporation’s (SMIC’s) 7-
+nanometer chip development via remote collaboration, prompting more than 100 investigations 
+and raids by Taiwanese authorities since 2020, with penalties of up to 12 years for trade secret 
+violations.49 In South Korea, Chinese firms have recruited veterans from Samsung and SK Hynix 
+by offering salaries three to five times higher than local rates.50 In the United States and Europe, 
+recruitment focuses on advanced tooling; Huawei and SMIC have hired engineers from ASML’s 
+supplier network up to three times their current salary, while ByteDance has directly hired U.S.-
+based engineers for AI projects.51  
+ 
+41 China Policy, “AI Education in Elementary and Secondary Schools by 2030,” December 3, 2024 .  
+42 Dahlia Peterson, Kayla Goode, and Diana Gehlhaus,  “AI Education in China and the United States,” Center for 
+Security and Emerging Technolog y, September 2021. An example of “AI + X” is “AI for health care.”  
+43 Meredith Chen, “China Gives Vocational Training a Hi -Tech Overhaul to Upskill Workforce,” South China 
+Morning Post , December 13, 2024.  
+44 Quantum Mechanic , “Quantum China : The Future for China’s Technological and Economic Development? ” 
+Quantum Zeitgeist , September 11, 2023.  
+45 Alexander Chipman Koty, “Apprenticeships in China: New Vocational Education Incentives,” China Briefing , 
+October 1, 2021.  
+46 Koty, 2021 . 
+47 Ministry of Science and Technology of the People’s Republic of China, “ Notice Declaring the 2019 High -End 
+Foreign Expert Recruitment Plan, ” translation, Center for Security and Emerging Technology, March 17, 2020b.  
+48 Federal Bureau of Investigation, “The China Threat: Chinese Talent Plans Encourage Trade Secret Theft, 
+Economic Espionage,” webpage, undated, https://www.fbi.gov/investigate/counterintelligence/the -china-
+threat/chinese -talent-plans. 
+49 Nick Farrell, “Huawei and SMIC Used US Tech to Make Chinese ‘Super Chip,’” Fudzilla, March 8, 2024.  
+50 TrendForce, “Memory Giants in Talent War as Samsung Hires in Taiwan, Micron & CXMT Poach South Korean 
+Engineers,” February 19, 2025.  
+51 Mels Dees, “Chinese Companies Poach ASML Staff with High Salary,” Techzine, November 29, 2024. 
+
+
+ 
+ 12 United Kingdom 
+The UK has recognized AI as critical to its future and is taking steps to ensure both the public 
+and private sectors have the necessary talent. Its National AI Strategy of 2021 set a vision, based 
+on three pillars, to make the UK a global AI leader. One of these pillars focuses on developing 
+people’s skills and an AI talent pipeline.52 Building on this, the UK government released an AI 
+Opportunities Action Plan, which it adopted in full.53 Key elements of the UK approach follow.  
+Government AI coordination and offices: The UK established an Office for AI in 2018 
+that coordinates AI policy across government, oversees strategy implementation, and has convened an AI Council of Experts. In February 2024, the Office for AI was incorporated into 
+the UK Department for Science, Innovation, and Technology, reflecting the elevation of AI in 
+the governmental structure.
+ The UK also created a Cabinet-level Minister for AI in late 2023, 
+signaling high-level leadership attention.54 
+Talent development initiatives: The UK is heavily investing in AI skills programs and 
+higher education. The government funds specialized AI Centers for Doctoral Training at universities to train Ph.D. students in AI. Its National Action Plan calls for assessing the AI skills 
+gap and expanding AI education pathways, aiming to train tens of thousands of AI-skilled 
+individuals by 2030.
+55   
+Attracting global talent: Recognizing domestic training alone may not fill all needs, the UK 
+leverages its immigration system to attract AI experts. The UK has an AI Talent Visa pathway as 
+part of its Global Talent Visa, making it easier for highly skilled AI researchers and engineers to 
+work in the UK.56 Additionally, the government announced funding to “double the number of 
+exceptional talent fellowships in AI”—these include the Turing AI Fellowships, which are prestigious awards for top researchers.
+57 In 2025, the UK government committed funding for 25 
+more AI fellowships to sustain and grow the program. These fellows often work jointly with universities and government research labs, helping to advance strategic AI research (e.g., in 
+health care or defense) and mentoring the next generation of AI researchers.  
+Public sector AI training: Internally, the UK civil service is also building capacity. A 
+program called Data Science Fast Stream recruits graduates into government and rotates them 
+through departments to develop data science and AI skills for future leadership. The Digital 
+Centre of Government recently established in the Cabinet Office focuses on upskilling civil 
+servants and deploying AI across public services.
+58  
+ 
+52 UK Department for Science, Innovation and Technology, Office for Artificial Intelligence, Department for 
+Digital, Culture, Media & Sport , and Department for Business, Energy & Industrial Strategy , “National AI 
+Strategy,” UK Government, September 22, 2021.  
+53 UK Department for Science, Innovation, and Technology, 2025. 
+54 UK Science, Innovation and Technology Committee, Governance of Artificial Intelligence (AI): Third Report of 
+Session 2023– 24, House of Commons, HC 38, May 28, 2024.  
+55 UK Department for Science, Innovation, and Technology, 2025. 
+56 UK Department for Science, Innovation, and Technology, 2025. 
+57 UK Department for Science, Innovation, and Technology, 2025, Recommendation 36.  
+58 UK Department for Science, Innovation, and Technology, 2025, Recommendation 36.  
+
+
+ 
+ 13 European Union 
+EU institutions and member states collectively recognize the strategic importance of AI 
+talent, although their approach emphasizes network-building, regulatory oversight expertise, and 
+research investments:  
+EU-level strategy and coordination: The EU’s Coordinated Plan on Artificial Intelligence 
+(first adopted in 2018, updated in 2021) serves as a road map for member states and the 
+European Commission to align efforts. One objective of the plan is to “ensure that AI 
+technologies work for people,” which includes developing skills and talent.59 The EU encourages 
+each member state to have a national AI strategy with a talent component. To support coordination, the European Commission facilitates an AI Skills Alliance under its Digital Skills 
+and Jobs Coalition, bringing together governments, industry and academia to identify skills gaps 
+and promote training in AI.
+60 
+Talent and research investment: Through programs like Horizon Europe, the EU has 
+allocated substantial funding for AI research and innovation: €1 billion per year on AI-related 
+R&D. Part of this investment goes into training the next generation of AI researchers via grants 
+and scholarships. The EU has established networks of AI excellence centers—such as the 
+European Lab for Learning and Intelligent Systems network—which help keep top European AI 
+researchers in Europe and connect them with public sector challenges. By funding cross-border 
+research teams, the EU indirectly builds a talent pipeline that can feed into government advisory 
+roles and projects.61  
+European AI Office and regulatory experts: A major recent development is the creation of 
+the European AI Office within the European Commission. As “the centre of AI expertise across 
+the EU,” this office will play a key role in implementing the forthcoming EU AI Act.62  It will 
+house experts in AI policy who can guide member states and enforce rules. The AI Office supports the European Artificial Intelligence Board, a new body of national AI expertise centers. 
+This structure is essentially building an EU-wide cadre of AI-literate officials to oversee AI 
+development and use. The AI Office can also conduct evaluations of high-risk AI systems and 
+coordinate knowledge—effectively an in-government think tank and enforcement arm on AI.  
+  
+ 
+59 European Commission, undated; European Commission , “Coordinated Plan on Artificial Intelligence ,” April 
+2018. 
+60 European Commission, undated; European Commission , 2018. 
+61 European Commission, undated; European Commission , 2018. 
+62 European Commission, undated.  
+
+
+ 
+ 14 Abbreviations  
+AI artificial intelligence  
+CTO Chief Technology Officer  
+DHA direct-hire authority 
+DoD U.S. Department of Defense 
+EU  European Union  
+GAO U.S. Government Accountability Office  
+GS General Schedule  
+IPA Intergovernmental Personnel Act  
+OPM U.S. Office of Personnel Management 
+PIF Presidential Innovation Fellow  
+R&D research and development  
+UK United Kingdom  
+USG U.S. government 
+About the Authors  
+Gregory Smith is a policy analyst at RAND. His work focuses on great power competition, 
+international trade and finance, and the study of critical and emerging technologies, such as AI. 
+He holds a J.D.  
+Elina Treyger is a senior political scientist at RAND and professor at the Pardee RAND 
+Graduate School, working at the intersection of homeland and national security. Her work 
+tackles challenges related to migration and border security, foreign disinformation and 
+propaganda, and emerging technologies, such as AI. She holds a Ph.D. in political science.  
+Elika Somani is an assistant policy researcher at RAND and a Ph.D. candidate in policy 
+analysis at the Pardee RAND Graduate School. She conducts technical and policy research on 
+the governance of AI and biological threats. She holds a B.A. in global health and development. 
+
+

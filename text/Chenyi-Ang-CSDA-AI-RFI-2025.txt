@@ -1,0 +1,182 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WHITEPAPER:  ESTABLISHING  STANDARDS  FOR  RESOURCE - 
+EFFICIENT AI SOFTWARE & COMPUTE MANAGEMENT  
+CHENYI  ANG,  CHAIRMAN  
+Chartered  Software  Developer  Association  (CSDA) 
+07 FEBRUARY 2025  
+
+2  Author:  Date:  07 February  2025  
+Chenyi Ang, Chairman  
+Chartered  Software  Developer  Association  (CSDA)  
+ 
+Executive  Summary  
+Artificial Intelligence (AI) is at the forefront of global technological transformation, driving 
+advancements in automation, decision -making, and large -scale data processing. However, 
+these innovations come at a cost —AI development and deployment require significant 
+computational power, leading to  high energy consumption, carbon emissions, and 
+environmental impact.  
+The emergence  of a compute  marketplace, where computing power  is traded as a commodity, 
+has raised concerns about unregulated energy usage, inefficient compute distribution, and 
+sustainability.  The recent  article  in The Wall  Street  Journal  titled  "AI Needs  a Lot of Computing 
+Power—Is a Market for Compute the Next Big Thing?" highlights the growing demand for 
+computational resources and the risks associated with excessive consumption, cost inflation, 
+and lack of accountability .1 
+This whitepaper  outlines  the need  for an international  standard  to govern  resource -efficient  AI 
+software and compute usage. The  proposed ISO standard  aims to establish  benchmarks for 
+energy -efficient AI workloads, standardize carbon measurement methods, and encourage 
+sustainable AI development practices.  
+ 
+Table  of Contents  
+1. The Compute  Market  & Rising  AI Energy  Demands  ................................ ................................ .... 3 
+1.1 Growth  of Compute -as-a-Commodity  ................................ ................................ .......................  3 
+1.2 Environmental  & Economic  Challenges  ................................ ................................ ....................  3 
+2. The Role  of a Global  Standard  for Resource -Efficient  AI Software  ................................ .............  3 
+2.1 Setting  Efficiency  Benchmarks  ................................ ................................ ................................ ... 3 
+2.2 Standardizing  Energy  & Carbon  Measurement  ................................ ................................ ....... 4 
+2.3 Optimizing  Software -Hardware  Interaction  ................................ ................................ .............  4 
+2.4 Supporting  Policymakers  & Regulators  ................................ ................................ ....................  4 
+3. Addressing  the Compute  Market:  Regulation  vs. Innovation  ................................ .......................  4 
+4. The Path  Forward:  Implementing  a Resource -Efficient  AI Standard  ................................ ..........  4 
+4.1 Collaboration  with  Standards  Bodies  ................................ ................................ ........................  4 
+4.2 Industry  & Government  Adoption  ................................ ................................ ............................  4 
+4.3 Next  Steps  ................................ ................................ ................................ ................................ ..... 5 
+5. Conclusion  & Call to Action  ................................ ................................ ................................ .............  5 
+Next  Steps  & How  to Get Involved  ................................ ................................ ................................ ...... 5 
+1 The Wall  Street  Journal  (2025)  'AI needs  a lot of computing  power:  Is a market  for compute  the next big thing?', 
+The Wall Street Journal , 7 February. Available at: https://www.wsj.com/tech/ai/ai -needs -a-lot-of-computing - 
+power -is-a-market -for-compute -the-next-big-thing -2302133c  
+
+3   WHITEPAPER:  ESTABLISHING  STANDARDS  FOR  RESOURCE -EFFICIENT  AI 
+SOFTWARE & COMPUTE MANAGEMENT  
+ 
+ 
+1. The Compute  Market  & Rising  AI Energy  Demands  
+1.1 Growth  of Compute -as-a-Commodity  
+With AI models requiring  massive computational resources, companies are turning to  cloud 
+providers,  specialized  AI chips  (GPUs/TPUs),  and decentralized  compute markets.  While  this 
+offers accessibility, it also introduces:  
+• Unregulated  energy  consumption,  leading  to higher  carbon  emissions.  
+• Market  inefficiencies,  where  demand  outstrips  supply,  inflating  costs.  
+• Lack of transparency, as AI developers have  no standardized benchmarks  for energy - 
+efficient computing.  
+1.2 Environmental  & Economic  Challenges  
+The AI industry’s  compute  demand  is unsustainable  without  regulation.  Key concerns  include:  
+• Excessive carbon footprint : Training an advanced AI model can consume as much  
+energy as five cars over their lifetime.2 
+• Cooling & heat waste : High -performance GPUs generate  significant heat, increasing 
+cooling costs for data centers.  
+• Unfair  access : Smaller  AI companies  struggle  to afford  expensive  compute  
+resources, widening the AI divide.  
+ 
+ 
+2. The Role  of a Global  Standard  for Resource -Efficient  AI 
+Software  
+A resource -efficient  AI standard  is crucial  for guiding  AI developers,  cloud  providers,  and 
+policymakers in sustainable compute usage. The proposed standard aims to:  
+2.1 Setting  Efficiency  Benchmarks  
+• Define  power  usage  metrics for  AI model training  (e.g.,  kWh  per epoch).  
+• Establish guidelines  for GPU/TPU  energy  efficiency,  reducing  unnecessary 
+computation.  
+ 
+ 
+ 
+ 
+ 
+2 Strubell, E., Ganesh, A. & McCallum, A. (2019) Training a single AI model can emit as much carbon as five 
+cars in their lifetimes . MIT Technology  Review.  Available  at: 
+https://www.technologyreview.com/2019/06/06/239031/training -a-single -ai-model -can-emit-as-much -carbon -  
+as-five-cars-in-their-lifetimes/  
+
+4  2.2 Standardizing  Energy  & Carbon  Measurement  
+• Create  universal  reporting  methods  for AI compute  emissions.  
+• Introduce  Carbon  Usage  Effectiveness  (CUE)  & Power  Usage  Effectiveness  (PUE) 
+standards.  
+2.3 Optimizing  Software -Hardware  Interaction  
+• Encourage  low-energy  AI model  designs  (e.g.,  model  pruning,  quantization).  
+• Promote  resource -aware cloud  AI deployment to  minimize  redundant  compute cycles.  
+2.4 Supporting  Policymakers  & Regulators  
+• Provide  a framework  for sustainable  AI governance in  compute -intensive  applications.  
+• Help  governments  align  AI policies  with United  Nations  Sustainable  Development 
+Goals (SDGs).  
+ 
+ 
+3. Addressing  the Compute  Market:  Regulation  vs. Innovation  
+While  the compute  market  provides flexibility  for AI companies,  it lacks  transparency  and 
+sustainability mechanisms. The proposed standard would help:  
+1. Prevent overconsumption : Companies would optimize  compute allocation  to reduce 
+unnecessary AI workloads.  
+2. Create  fairer  access : Standardized  efficiency  benchmarks  help smaller  AI firms 
+compete without excessive compute costs.  
+3. Encourage  sustainable  AI investments : Investors  & cloud  providers  favor  green - 
+compliant AI models, reducing carbon emissions.  
+ 
+ 
+4. The Path  Forward:  Implementing  a Resource -Efficient  AI 
+Standard  
+4.1 Collaboration  with  Standards  Bodies  
+• Work with the International Organization for Standardization (ISO) on  ISO/IEC JTC 
+1/SC 39 (Sustainability for IT)  & ISO/IEC JTC 1/SC 42 (AI Standards) to formalize 
+energy -efficient AI software metrics.  
+• Engage  AI cloud  providers  (AWS,  Google  Cloud,  Microsoft  Azure)  to implement  best 
+practices in sustainable AI deployment.  
+4.2 Industry  & Government  Adoption  
+• Encourage  data centers  to comply  with AI sustainability benchmarks.  
+• Advocate for  AI compute efficiency policies  similar to  energy efficiency standards in 
+hardware.  
+
+5  4.3 Next  Steps  
+• Develop  an open -source benchmarking  tool for  AI compute  efficiency.  
+• Publish  a technical  guideline  for AI engineers  on energy -efficient coding.  
+• Seek  collaboration  with AI industry  leaders,  cloud  providers,  and policymakers.  
+ 
+ 
+5. Conclusion  & Call to Action  
+AI computing demands will continue to grow, but without  standardized governance, the 
+environmental impact will  escalate unsustainably. A  global standard for resource -efficient AI 
+software is critical to:  
+• Ensure  energy -efficient  AI development.  
+• Regulate  the compute  marketplace  to avoid  resource  overconsumption.  
+• Encourage  transparent reporting  of AI compute  emissions.  
+Policymakers, AI researchers, and industry leaders must act now to  establish standards that 
+balance innovation with sustainability. By adopting  resource -efficient AI software practices, 
+we can drive responsible AI development while minimizing its environmental footprint.  
+White  Paper  published  07 February 2025  
+ 
+ 
+Next  Steps  & How  to Get Involved  
+ For collaboration  inquiries  or contributions,  contact:  
+Chenyi Ang  
+Chairman  of Chartered  Software  Developer  Association  (CSDA) 
+Email: chenyi@charteredsoftwaredeveloper.org  
+ 
+ 
+About  Chartered  Software  Developer  Association  (CSDA)  
+Chartered  Software  Developer  Association  is a global  professional association  for technology 
+profession.  CSDA  brings  together  leading  standards  technology  practitioners  & researchers  for 
+industry -wide  cooperation  on setting  standards  needed  for AI & ESG  revolution  by advancing 
+responsible AI and mapping out the coding strategies that can reduce CO2 emissions.  
+https://charteredsoftwaredeveloper.org/  
+
+

@@ -1,0 +1,378 @@
+1 AI action plan recommendations from  the MIT Computer Science  and 
+Artificial Intelligence Lab  (CSAIL). CSAIL  has been pioneering the 
+future of computing and AI for over six decades . 
+Executive Summary  
+The United States is well-positioned to lead the world in AI innovation but must act to build on 
+the organic advantages we have in basic science, a thriving technology industry, and a society infused with stable laws and democratic values. We offer the following recommendations based on our analysis of the underlying computer science challenges, market conditions and the public policy context in which AI systems operate. 
+1.Support  for basic research in AI is essential, as we are still in the early stages of AI
+technology development and application. Investing in fundamental AI research will drive the
+next wave of breakthroughs, ensuring that the U.S. remains at the forefront of innovation,scientific discovery, and real-world AI integration. For all the excitement around thisgeneration of Large Language Models, the rate of growth in performance and efficiency isslowing down. In order to continue to make foundational advances in AI architectures weneed ongoing 6.1 research support from agencies like the NSF and DoD . Any reduction in
+these funds, particularly in the face of proposed tax cuts, would severely undermine the
+U.S.'s ability to maintain its competitive edge and secure its future in AI.
+2.Set a goal of achieving Artificial Super Intelligence (ASI) to reach beyond the limitationsof current Large Language Models (LLMs) by integrating real-world awareness, common-sense reasoning, agentic computation, and physical intelligence. Investing in theseadvancements will ensure that AI systems evolve from statistical pattern recognition to trueautonomous reasoning and physical-world interaction, unlocking transformative capabilitiesacross industries and scientific disciplines. Achieving this vision will also require AI
+hardware innovation, with a co-design design approach where AI algorithms and hardware
+evolve together for optimizing performance. As AI adoption expands, innovations in low
+power chips and edge computing will be crucial for real-time applications
+3.Increase  investment in AI applications for scientific discovery to spur greater
+understanding of how to apply powerful AI tools to a wide range of society’s needs .
+Advancing AI-driven research will enable the development of high-accuracy, high-efficiency
+models that can accelerate breakthroughs in physics, biology, chemistry, medicine, andengineering. The research community has a vital role here to pioneer new uses , proving
+their value and derisking them for market application.
+4.Maintain a stable regulatory framework that ensures reliability, security, and legalcompliance, leveraging existing sectoral regulations unless they prove insufficient
+for AI-specific risks. Many high-value, high-sensitivity applications of AI such as
+healthcare, transportation, and financial services already have stable regulatoryrequirements that apply to services both offered with or without AI. We must ensure that
+
+
+2 there are adequate resources to enforce these laws to maintain public confidence in Ai 
+technologies. A key research priority is to build technical tools – privacy-enhancing 
+technologies, resilience and safety metrics, and explainability techniques  that make it 
+easier for service providers to use AI while adhering to legal requirements and give the 
+public confidence that these innovative new services are reliable.  
+5.Invest  in robust job transition and retraining programs  to ensure that workers
+displaced by AI can continue contributing meaningfully to the economy. Expanding accessto AI-driven workforce development initiatives—including reskilling in emerging technologyfields, automation management, and digital economy jo bs—will help mitigate disruptions
+and create new opportunities. Additionally, strengthening mathematics and computerscience education at the high school level is critical to preparing the next generat ion for an
+AI-driven future, ensuring a highly skilled workforce that can innovate, adapt, and competeon a global scale. While AI job displacement will be less rapid than doomsayers predict, it
+will nevertheless represent a substantial shift to the tasks being done by U.S. workers and
+will lead to job losses for some. Integrating AI into work has the potential to help workers ifthey can leverage new tools to make themselves more productive, and to meaningfully hurttheir earning ability if they don’t. Research should be pursued to identify which skills andprofessions will be most advantageous for workers as AI automation proceeds .
+Overall Goal  
+The broad goal of U.S. AI policy should be to drive toward what we call Artificial Super Intelligence – a level of machine intelligence that surpasses the current state of the art in AI, 
+going beyond statistics, data processing and pattern recognition toward deep reasoning, rea l-
+world understanding, and autonomous problem solving across disciplines. While recent 
+breakthroughs in Large Language Models have demonstrated remarkable progress and capabilities, they remain fundamentally limited by their lack of p hysical intuition, common 
+sense reasoning, formal representation of actual knowledge, and real-world adaptability.  
+To unlock the next era of AI and ensure AI leadership in for the U .S., it is critical to invest in the 
+basic research that will comprehend and interact with the physical world alongside the digital 
+world. This means developing systems that don’t just analyze vast amounts of data, but that 
+can reason about cause and effect, predict and manipulate physical systems, and operate seamlessly in dynamic, uncertain environments. Physics-informed learning (we call Physical AI), will help create AI that is not just intelligent in a digital sense, but fundamentally capable of autonomous scientific discovery, engineering breakthroughs, and real -world problem-solving. 
+The future of AI must be one that drives scientific progress, enhances national security, revolutionizes industries, and accelerates human potential. The United States must lead this charge, forging an AI ecosystem that balances innovation with responsibil ity, scales AI for 
+global impact, and ensures an AI ready workforce.
+ 
+
+
+3 Background: Early stage of the AI S -curve 
+The current state of artificial intelligence development is in the early phase of an innovation S -
+curve. These early stages are marked by significant uncertainty regarding the trajectory of 
+technological advancements and the eventual patterns of market ado ption. Consequently, any 
+attempts to predetermine specific AI applications or pick winners through prescriptive policy interventions or narrowed research priorities are likely to be premature and potentially counterproductive. 
+Historical precedent, exemplified by the development of Internet search technologies, provides 
+an example of this perspective. While earlier search engines existed, Google's later entry with the PageRank algorithm demonstrated that market forces, rather th an initial government 
+mandates, are better at identifying and rewarding superior innovations. The innovation behind PageRank, along with other supporting technologies, grew out of a well -supported computer 
+science research environment that continued to advance scientific progress in fields such as the theory of computation and information retrieval. From that fruitful ground grew the underpinnings of the entire Internet economy that has produced trillions of dollars of growth over the last three decades. Yet, premature intervention and absence of a well-resourced research community could have inadvertently favored less-effective technologies, hindering the eventual emergence of better solutions. Given our early position on the S -curve in the U.S., 
+we offer four observations to guide the direction of AI research in the U.S.
+  
+Investing in fundamental research  
+Fundamental research is necessary to maintain U.S. leadership in AI, and the U.S. government is a core funding source. Specifically, 6.1 research funds from agencies like the NSF and DoD are indispensable for driving the foundational discoveries that fuel AI innovation. Any reduction in these funds, particularly in the face of proposed  tax cuts, would severely 
+undermine the U.S.'s ability to maintain its competitive edge and secure its future in AI. These funds support the exploratory research that leads to breakthroughs in the three areas we highlight, ensuring the U.S. remains at the forefront of AI development. 
+We present five strategic observations for AI policy in the United States based on analysis from computer science researchers at MIT’s Computer Science and Artificial Intelligence Lab. 
+Observation 1: AI’s largest future gains will come from new ideas in 
+software and algorithm s, supported by new hardware architecture s 
+The trajectory of AI performance indicates that future gains will be realized largely from 
+algorithmic innovation. While  hardware is also improving rapidly, growth trends indicate that 
+efficiency gains from software/algorithmic innovation will be significantly faster. Increased research and advance development in new algorithms and machine learning architectures thus 
+represents an essential avenue for U.S. growth and continued global leadership . This will also 
+need to be supported by hardware innovations and co-design that make it possible for new 
+
+
+4 algorithms to be run efficiently. As AI adoption expands, innovations in low power chips and 
+edge computing will be crucial for real-time applications 
+While hardware gains have been impressive, they have been significantly outpaced by software and algorithm improvements. Staying at the forefront of AI thus depends more on 
+being able to be at the cutting edge of software and algorithms.  
+Progress in building better fundamental AI systems can largely be attributed to three factors: (i) 
+better hardware, (ii) better algorithms / software, and (iii) greater financial investment to scale up the number of chips being used.  All three of these have grown enormously over the past decade, often in ways that overturn traditional relationships seen in pre -deep learning AI.  In 
+particular, AI hardware has improved significantly faster than Moore’s Law progress on CPUs, AI algorithm progress now outpaces hardware progress, and whereas traditionally only small 
+numbers of chips were used for AI, now hundreds of thousands of GPUs are being used to 
+train single models (Grattafiori et al. 2024). As we shall show, getting the best experts focused on these areas of improvements promises large gains. 
+Hardware improvement: There has been rapid improvement in GPU performance, owing 
+largely to customizing chips to AI uses, particularly through specialized processing units for tensor computations (namely Tensor Cores), hardware support for low -bit representations, and 
+high-bandwidth off -chip memories. The following graph (Figure 1) shows this trend for top-
+performing data center NVIDIA GPUs per year from 2007 to 2024, illustrating 67% yearly improvements in 16-bit Floating Point (FP16) performance. 
+Figure 1: Performance of NVIDIA Server GPUs 
+Source: (Del Sozzo, Emanuele et al. 2025)
+
+
+5 Algorithmic improvement: Algorithmic improvements encompass a wide range of techniques 
+for getting better efficiency, ranging from optimizing software to creating systems that can learn more efficiently from fewer examples. While historically the pace of algorithm improvements in IT has been moderately rapid (Sherry and Thompson 2021), their pace has escalated dramatically in recent years for AI.  Algorithmic and software improvements are estimated to 
+have doubled the effective compute of LLMs every 8 months (Ho et al. 2024) and computer 
+vision models every 9 months (Erdil and Besiroglu 2023).  Converting this into an improvement rate yields more than 150% per year, more than twice as fast as hardware improvements.  The net effect of these changes since 2014 has been a 22,000x improvement in efficiency (as shown in Figure 2). 
+Figure 2: Estimated contribution of algorithmic improvement to effective computation 
+(Physical compute represent using more GPUs/flops). 
+Source: Adapted from (Ho et al. 2024) with permission. 
+The power of performance engineering and algorithmic efficiency improvements was demonstrated dramatically with DeepSeek’s V3 and R1 models (DeepSeek-AI, Liu, et al. 2025; 
+DeepSeek-AI, Guo, et al. 2025). Despite ChatGPT’s new 4.5 model being about 500  times 
+more expensive to use than Deepseek v3, it has lower benchmarking performance for benchmarks such as the Aider Polyglot coding benchmark (“Aider LLM Leaderboards” 2025). 
+ 
+As this example highlights, even large funding differences can be overcome with better 
+algorithms and training. This means that it isn’t enough for the U.S. to lead in A.I. investment. 
+The U.S. must also lead in AI software and algorithms.  Thus, a central tenet of any AI policy that seeks to maintain strategic leadership must be to have a portfolio of speculative, high -
+potential research that could transform AI if successful. Absent such investments, strategic shocks like those from DeepSeek will increasingly come from outside the U.S. 
+What should we do about it? 
+Non-GPU approaches: As traditional GPU-based methods for training LLMs are becoming 
+increasingly computationally expensive and energy-intensive, researchers are exploring alternative strategies to boost performance. Researchers are exploring the potential of analog 
+
+
+6 deep learning (Datar and Saha 2024). Other methods such as Co-LLM models offer a 
+promising solution by splitting the workload among multiple smaller models that specialize in different tasks, enabling more efficient, accurate, and generalizable solutions without relying on massive GPU resources (Shen et al. 2024). By facilitating cooperation among models, we have the potential to revolutionize the field of natural language processing, enabling smarter 
+and more efficient solutions for complex tasks like language translation, question -answering, 
+and text generation, all while reducing the dependence on GPU-based computing. 
+Improving cognitive agility and common -sense  reasoning : The absence of robust 
+cognitive agility and common-sense reasoning in current large language models poses a core 
+challenge. Bridging these gaps through fundamental research holds the potential to 
+substantially increase both the utility and reliability of AI systems  (Choi 2022; Felin and Holweg 
+2024).  
+New learning dynamics:  The exploration of novel learning dynamics, exemplified by physics -
+guided deep learning, agentic computation, and liquid networks, represents a critical frontier in 
+AI research. Physics-guided deep learning integrates domain-specific physical principles into neural network training, enabling models to learn from limited data and achieve greater generalization in complex physical systems (Yu and Wang 2024). Liquid networks, characterized by their dynamic and adaptive architectures, offer the potential for enhanced temporal processing and robustness in dynamic environments (Hasani et al. 2020). 
+Investigating these approaches, and other emerging learning paradigms, is essential for 
+moving beyond static, data-intensive training methods and developing AI systems that exhibit greater adaptability, efficiency, and understanding of the physical world.  Fundamental research 
+in these areas will drive the next generation of AI models, enabling them to tackle increasingly complex and dynamic real-world challenges 
+AI and Robotics: While Generative AI thrives digitally, its application in the complex physical 
+world is limited. Bridging this gap requires physics-based models for accurate simulation and understanding. Furthermore, deploying AI in real-world applications like robotics necessitates 
+energy-efficient designs for sustainable, real-time performance (Rus 2025).  
+Improvements in AI capabilities have manifested most clearly in cognitive tasks. But AI is also rapidly expanding in robotics where the number of research papers about machine learning and foundation models has grown from 13 in 2021 to 738 in 2024 (Sartor and Thompson 2025). When AI control of robotic systems starts rivaling human levels of performance, it will have profound consequences for labor automation, economic growth and national security.   
+The beginning of these effects is already visible in recent robotics improvements , for example 
+the recent work on autonomous truck fleets that bring efficiency to logistics.  And since there is 
+evidence that the same improvements that have driven performance increases in other deep learning models are also affecting robotics (Sartor and Thompson 2025), we should imagine that it is only a matter of time before algorithmic, hardware, and data improvements yield much improved performance for robotics tasks.  Importantly, however, the U.S. lead in this area (see Figure 3) may be short-lived if the larger numbers of deployed robots in China each year 
+
+
+7 (~270,000 vs ~39,000 in 2023) leads to greater investment and/or research deployments there 
+(IFR 2024). 
+Figure 3. Research papers using machine learning or foundation models for robotics 
+Source: (Sartor and Thompson 2025) 
+AI and Science: While automation of everyday tasks has clear, tangible benefits, automation 
+of scientific progress offers bigger long-term benefits.  Some of these gains come directly from new capabilities (for example, earlier diagnosis of breast cancer  (Bahl et al. 2018). But 
+innovation also generates economic prosperity . According to data from Robert Gordon, 
+approximately 57% of per capita prosperity growth since 1920 is due to innovation  (Gordon 
+2017). Moreover, accelerations in science lead to economic benefits that compound each year. For example, if AI adoption doubled the rate of U.S. innovation, the increase in per capita growth rates would lead to American incomes doubling every 20 years, rather than every 31.  
+Of course, the converse is also true. If another country accelerates their science with AI more 
+than the U .S., they would close the gap between the two countries. Thus, it is not surprising 
+that both China and the  United States are actively pursuing this strategy (Allison et al. 2021; 
+Min et al. 2023), and are neck-to-neck in their competition (Figure 4).  
+
+
+8 Figure 4. Adoption of foundation models across 65,600 open-access English-language 
+scientific papers, logarithmic scale  
+Source: (Trišović, Fogelson, and Thompson 2025) 
+Despite this rapid adoption there is clear evidence that American scientists could be achieving 
+more if they had additional resources, as AI is more compute and data hungry than other 
+disciplines (Besiroglu, Emery, Thompson, 2024). In particular, the median model size used by American scientists in 2024 is 1.1 billion parameters, corresponding to median foundation 
+models released 4 years ago. For the Chinese this gap is 5 years  (Trišović, Fogelson, and 
+Thompson 2025). This resource shortfall also aligns with previous work showing that the ability for U.S. academics to do cutting-edge AI work is slowly being eroded by better-resourced competitors (Ahmed, Wahed, and Thompson 2023). 
+Observation 2: The U .S. should promote AI applications and learn from 
+real-world implementations 
+The United States currently leads the world in AI development and applications, but other countries such as China are vying for leadership. Our approach in the U .S. should leverage 
+our unique strengths and values. While China may prioritize rapid data acquisition and model development without rigorous regard for privacy, the U.S. will not do that. One key strength of 
+American AI leadership is that the AI systems we build must adhere to its existing legal and 
+regulatory principles. Our strategic advantage will stem from the development of robust, accurate, and explainable AI applications that thrive within a framework of legal compliance and societal values. Work on expanding innovative AI applications is an ideal arena for developing public-private partnerships within consortia such as CSAIL’s Future of Data Initiative (futureofdata.mit.edu). 
+As a general-purpose technology, AI systems will be deployed in high-stakes environments 
+that require enhanced explainability and reliability beyond our current knowledge. Strategic investments in the explanation capabilities and reliability of AI systems will help maintain U.S. 
+leadership in AI by supporting the design and deployment of more accurate systems, speeding 
+
+
+9 up the identification and addressing of issues when things go wrong, and creating robust 
+systems that can adapt to evolving market requirements for stability and reliability as well as existing regulatory obligations in United States law.  
+What should we do about it? 
+The U .S. should focus on building systems that respect privacy, provide security and are 
+resilient against failure. Key research areas include understanding what is happening within models (improving model accuracy, adaptability, and error diagnosis),  adversarial robustness 
+and real-world benchmarking.  
+Improving Model Accuracy, Adaptability, and Error Diagnosis: Much more research is 
+needed to understand the internal workings of AI systems to enable more accurate and adaptable models. This knowledge facilitates targeted improvements and fine -tuning, allowing 
+for effective application deployments across various domains. It also allows AI application designers to respond to evolving regulatory environments faster (Jain et al. 2024).  
+Adversarial Robustness (Security of AI models): As part of AI explanation and reliability, AI 
+systems must be designed to withstand adversarial attacks, particularly when the model’s processes are poorly understood. Research should focus on developing robust defense mechanisms that ensure the integrity and security of AI models in the face of adversarial manipulation. 
+Real -World Benchmarking:  The development of standardized, real-world benchmarks is 
+critical for evaluating the performance of AI models and applications (Raji et al. 2021). This 
+requires a multidisciplinary approach among researchers from diverse fields. The U .S. 
+government can play a vital convening role in facilitating these collaborations and fostering the 
+development of robust evaluation methodologies through organizations such as NIST.  
+Open-Source Licensing: Decades of experience in the software ecosystem has 
+demonstrated the value of open-source licensing for encouraging innovation and open 
+markets. Today, we should maintain the healthy mix of open source and proprietary licensing modes for AI models, data and underlying software. To the extent that there are concerns about powerful models falling into the hands of malicious actors, research develops new styles 
+of model limitations (Xiao et al. 2023). Still, neither open nor closed-source licensing will 
+prevent software-based AI algorithms or other expertise from falling into the hands of determined, well-resourced adversaries. 
+Observation 3: Widespread adoption of AI throughout society requires 
+a clear, stable regulatory environment 
+Debates over different regulatory approaches to legal rules governing AI systems and 
+applications tend to be presented as a binary choice: more regulation or less. This view presents a false choice, especially as we aim for deployment of AI in high -value, highly 
+sensitive environments such as healthcare, transportation, and financial decision making. In all 
+
+
+10 these arenas, society has a basic expectation that safety-critical systems will operate at a 
+reasonable level of reliability and predictability. There is great potential for AI -powered medical 
+devices, but of course we want to assure that they are safe and effective. We can revolutionize transportation but not at the cost of decreased passenger safety. Financial decision making can be made more efficient, paving the way for a range of innovative service s for consumers 
+and businesses, but we will need assurances that those systems operate according to existing legal rules and societal norms regarding privacy, illegal discrimination, consumer fairness, and market stability.  
+In virtually all these sectors we have existing laws on the books that will apply to services and 
+products with AI every bit as much as those using earlier computational techniques. Enforcement agencies may need additional resources and expertise to evaluate uses of AI 
+systems within their jurisdiction. The  technical challenge we still face is how to make it easier 
+to comply with these obligations in the use of new AI systems. Some part of that challenge must be addressed by computer scientists who are working to develop measures of resilience, security, reliability, bias, and privacy protection. Whether or not we need new laws or new regulatory approaches in this area remains to be seen, but we know there is still research to do to develop technical approaches that can be integrated with innovative new AI mod els to 
+answer basic performance and reliability requirements.  
+What should we do about it? 
+U.S. AI policy should focus research on four key areas related to the AI regulatory environment: seeking the most streamlined way to apply existing sectoral laws regarding health care, drug safety, transportation, financial services, privacy, etc., to new cont exts in 
+which AI systems are used as part of developing or delivering those already regulated services, addressing privacy and security needs, investing in research to support AI model 
+compliance and adaptability, and more research on leveraging privac y enhancing 
+technologies.  
+Privacy and Security: As public awareness of data privacy and security grows, demand for AI 
+applications that protect sensitive information will increase. Research could focus on identifying the types of data that need specific protection, building secure AI architectures, and  
+providing regulatory clarity to users of sensitive data.   
+Regulatory Compliance and Adaptability: Given the integration of AI applications in critical economic and social areas such as health, the U.S. would benefit from an emphasis on designing AI systems that accommodate real-world regulatory requirements. This necessitates a shift towards methodical design processes that include compliance with evolving legal requirements. Computer science research must focus on developing systems that inherently support regulatory adherence and move away from development metho dologies that are 
+characteristic of early-stage development (e.g. move fast and break things). 
+
+
+11 Privacy Enhancing Technologies: Reliability is paramount for the widespread adoption of AI 
+across the economy. Achieving this requires a balanced approach to data privacy and model training. While robust privacy protections are essential, overly restrictive data access can impede model development and limit innovation. Investing in the development and deployment of privacy-enhancing technologies (PETs) offers one pragmatic approach to balancing data 
+utility and privacy (OECD 2023). PETs enable the analysis of sensitive data while minimizing 
+the risk of individual identification, providing a viable pathway for responsible data utilization. Additional research is needed to develop the technologies and adapt them for AI applications.  
+Observation 4: The U .S. should maintain its comparative advantage in 
+AI energy efficiency and infrastructure  
+Domestic energy consumption from data centers is projected to triple by 2028, potentially accounting for 6.7 to 12% of the total U.S. energy supply according to recent Department of 
+Energy reports (DoE 2024)(Figure 5). Policymakers must ensure that projected power 
+generation capacity can meet the escalating demands of data centers and AI model 
+development. There are two important paths to address this challenge. The first is ensuring that U .S. energy capacity will be sufficient to meet this demand. The second is developing 
+more energy-efficient hardware and software solutions.  
+Figure 5: Total U.S. data center electricity use from 2014 through 2028 
+Source: (DoE 2024) 
+What should we do about it? 
+US AI research should focus on three core areas to address future power needs: 
+understanding the power supply and consumption needs to accommodate AI growth, building energy efficient AI hardware, and developing energy efficient AI software and training approaches.  
+Power Supply and Consumption: Power generation infrastructure planning requires 
+substantial lead times, necessitating long-term planning to anticipate future needs. Given the 
+
+
+12 fluctuating estimates of AI training requirements, stable, long-term planning for power 
+generation and transmission capabilities is crucial to ensure sufficient capacity.  
+Energy-Efficient AI Hardware: Even marginal improvements in AI hardware energy efficiency 
+can yield substantial aggregate benefits. Governments can incentivize the development, 
+adoption, and deployment of specialized AI chips, GPUs, and TPUs through various 
+mechanisms. Enhancing energy efficiency not only reduces overall energy consumption but 
+also unlocks new application areas, particularly in resource-constrained environments such as space exploration where minimal energy usage is critical for mission lon gevity. One key 
+research areas is neuro-inspired computing chips (Zhang et al. 2020). Other research approaches include limiting the amount of power available to hardware within the data center 
+and trading off for slightly longer run times known as “power capping”  (Zhao et al. 2023).  
+Energy-Efficient AI Software/Training Approaches:  There are software and training 
+approaches that can make AI model development more efficient. The hyperparameter 
+optimization process can be adjusted to decrease energy consumption by stopping 
+underperforming models early (MITLL 2023). Studies have found dramatic savings of up to 80% of the energy used for model training (Frey et al. 2022). Research into optimizing 
+software and training approaches for AI model development are low -hanging fruit for easing 
+some of the energy demands.  
+Observation 5: AI will require a workforce transformation  
+AI is bringing about a transformation of U.S. jobs unlike previous IT automation, which focused primarily on routine tasks (Autor, Levy, and Murnane 2003). Today’s AI systems encroach on a wider range of human tasks, including some previously thought to be uniquely human (e.g. creativity). On the positive side, this automation is unlocking substantial productivity gains  
+(Brynjolfsson, Li, and Raymond 2025; Toner-Rodgers 2024).
+At the same time, AI systems can be enormously expensive, with training costs in the billions 
+of dollars. Even once a system is built, there can be substantial “last mile” costs when a 
+generally capable model needs to be customized to perform well in a specific context (e.g. knowing about a firm’s particular products) . Collectively these costs can mean that even when 
+AI automation is possible, it can be so expensive that human workers are a more economical choice (Svanberg et al. 2024) and thus the automation potential of AI may not manifest right away. 
+Together, these two trends mean that (i) human workers that were previously safe from 
+automation will now have to face it, and (ii) the reach of AI systems will expand as hardware, algorithm, and other implementation costs fall.  Faced with this encroachin g frontier of 
+automation, it will be important for workers to find new jobs and/or tasks to work on. Fortunately, the same capabilities that make AI powerful at automating existing tasks also make AI a powerful tool to do new tasks.  The key will be helpin g workers harness these new 
+
+
+13 tools so that when existing workers are displaced, the tools will open up new jobs for other 
+humans using AI. 
+What should we do about it? 
+Research on understanding the evolving nature of work: Traditional guidance about which jobs to adopt (e.g., learning coding) seems flawed in light of new AI capabilities (Nezaj 2024). But regularities do exist in how AI systems gain capabilities (Rosenfeld et al. 2019), so research is needed to map the coming growth in AI capabilities to predictions about the skills and tasks that will be automated. At the same time as some skills are devalued by AI, others will become more valuable because they are complementary to new AI capabilities.  For example, a recent deployment of AI in material science R&D found that workers with good 
+evaluation skills for potential materials benefited disproportionately (Toner-Rodgers 2024).
+Creating a talent/skills pipeline of workers and investing in reskilling the current 
+workforce: As new technologies hit the labor market, “creative destruction” occurs; new jobs are created and old ones are made obsolete. The economy is used to such churn, but it is not costless. Workers must retrain, and social institutions must exist to give them the time and security to do so. It is essential that before AI job losses rise, social safety structures are evaluated to ensure that workers are able to make fruitful job transitions. The other option, that 
+workers drop down to lower-skilled, lower-paid positions because of a need to find a new job 
+too quic kly, has the potential to strand hard workers with good expertise in bad jobs that hurt 
+them and the prosperity of the country. Workers will also need to be supported with retraining, so we recommend that existing retraining programs be broadened and new o nes set up to 
+support AI-specific skills. 
+This document is approved for public dissemination. The document contains no business -proprietary or 
+confidential information. Document contents may be reused by the government in developing the AI 
+Action Plan and associated documents without attribution . 
+
+
+14 Ahmed, Nur, Muntasir Wahed, and Neil C. Thompson. 2023. “The Growing Influence of Industry in AI Research.” 
+Science  379 (6635): 884 –86. https://doi.org/10.1126/science.ade2420.  
+“Aider LLM Leaderboards.” 2025. Aider. 2025. https://aider.chat/docs/leaderboards/.  
+Allison, Graham, Kevin Klyman, Karina Barbesino, and Hugo Yen. 2021. “The Great Tech Rivalry: China vs. the 
+US.” Science Diplomacy  73. https://www.fisd.in/sites/default/files/Publication/SDR_10 -December -
+2021.pdf#page=79.  
+Autor, David H., Frank Levy, and Richard J. Murnane. 2003. “The Skill Content of Recent Technological Change: 
+An Empirical Exploration*.” The Quarterly Journal of Economics  118 (4): 1279– 1333. 
+https://doi.org/10.1162/003355303322552801.  
+Bahl, Manisha, Regina Barzilay, Adam B. Yedidia, Nicholas J. Locascio, Lili Yu, and Constance D. Lehman. 2018. 
+“High -Risk Breast Lesions: A Machine Learning Model to Predict Pathologic Upgrade and Reduce 
+Unnecessary Surgical Excision.” Radiology  286 (3): 810– 18. https://doi.org/10.1148/radiol.2017170549.  
+Brynjolfsson, Erik, Danielle Li, and Lindsey Raymond. 2025. “Generative AI at Work.” The Quarterly Journal of 
+Economics , February, qjae044. https://doi.org/10.1093/qje/qjae044.  
+Choi, Yejin. 2022. “The Curious Case of Commonsense Intelligence.” Daedalus  151 (2): 139– 55. 
+https://doi.org/10.1162/daed_a_01906.  
+Datar, Aditya, and Pramit Saha. 2024. “The Promise of Analog Deep Learning: Recent Advances, Challenges and 
+Opportunities.” arXiv. https://doi.org/10.48550/arXiv.2406.12911.  
+DeepSeek -AI, Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, et al. 2025. 
+“DeepSeek- R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.” arXiv. 
+https://doi.org/10.48550/arXiv.2501.12948.  
+DeepSeek -AI, Aixin Liu, Bei Feng, Bing Xue, Bingxuan Wang, Bochao Wu, Chengda Lu, et al. 2025. “DeepSeek -
+V3 Technical Report.” arXiv. https://doi.org/10.48550/arXiv.2412.19437.  
+Del Sozzo, Emanuele, Fleming, Martin, Flamm, Kenneth, and Thompson, Neil. 2025. “How Much Progress Has 
+There Been For GPUs?” ACM Economics and Computation, (Under review), . 
+DoE. 2024. “DOE Releases New Report Evaluating Increase in Electricity Demand from Data Centers.” 
+Energy.Gov. December 20, 2024. https://www.energy.gov/articles/doe- releases- new-report -evaluating-
+increase -electricity- demand- data- centers.  
+Erdil, Ege, and Tamay Besiroglu. 2023. “Algorithmic Progress in Computer Vision.” arXiv. 
+https://doi.org/10.48550/arXiv.2212.05153.  
+Felin, Teppo, and Matthias Holweg. 2024. “Theory Is All You Need: AI, Human Cognition, and Decision Making.” 
+SSRN Electronic Journal . https://doi.org/10.2139/ssrn.4737265.  
+Frey, Nathan C., Dan Zhao, Simon Axelrod, Michael Jones, David Bestor, Vijay Gadepally, Rafael Gómez -
+Bombarelli, and Siddharth Samsi. 2022. “Energy -Aware Neural Architecture Selection and 
+Hyperparameter Optimization.” In 2022 IEEE International Parallel and Distributed Processing 
+Symposium Workshops (IPDPSW) , 732 –41. https://doi.org/10.1109/IPDPSW55747.2022.00125.  
+Gordon, Robert. 2017. The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War . 
+Princeton University Press. https://doi.org/10.1515/9781400888955.  
+Grattafiori, Aaron, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al -Dahle, 
+Aiesha Letman, et al. 2024. “The Llama 3 Herd of Models.” arXiv. 
+https://doi.org/10.48550/arXiv.2407.21783.  
+Hasani, Ramin, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu. 2020. “Liquid Time -Constant 
+Networks.” arXiv. https://doi.org/10.48550/arXiv.2006.04439.  
+Ho, Anson, Tamay Besiroglu, Ege Erdil, David Owen, Robi Rahman, Zifan Carl Guo, David Atkinson, Neil 
+Thompson, and Jaime Sevilla. 2024. “Algorithmic Progress in Language Models.” arXiv. 
+https://doi.org/10.48550/arXiv.2403.05812.  
+IFR. 2024. “International Federation of Robotics.” IFR International Federation of Robotics. 2024. https://ifr.org/wr -
+industrial -robots.  
+Jain, Saachi, Kimia Hamidieh, Kristian Georgiev, Andrew Ilyas, Marzyeh Ghassemi, and Aleksander Madry. 2024. 
+“Data Debiasing with Datamodels (D3M): Improving Subgroup Robustness via Data Selection.” arXiv. https://doi.org/10.48550/arXiv.2406.16846.  
+Min, Chao, Yi Zhao, Yi Bu, Ying Ding, and Caroline S. Wagner. 2023. “Has China Caught up to the US in AI 
+Research? An Exploration of Mimetic Isomorphism as a Model for Late Industrializers.” arXiv. https://doi.org/10.48550/arXiv.2307.10198.  
+MITLL. 2023. “AI Models Are Devouring Energy. Tools to Reduce Consumption Are Here, If Data Centers Will 
+Adopt. | MIT Lincoln Laboratory.” 2023. https://www.ll.mit.edu/news/ai- models -are-devouring- energy-
+tools -reduce -consumption -are-here- if-data- centers -will-adopt.  
+Nezaj, Jeff. 2024. “The Rise —and Fall —of the Software Developer.” ADP Research. June 17, 2024. 
+https://www.adpresearch.com/the -rise-and-fall-of-the-software -developer/.  
+
+
+15 OECD. 2023. “Emerging Privacy -Enhancing Technologies: Current Regulatory and Policy Approaches.” Paris: 
+OECD. https://doi.org/10.1787/bf121be4 -en. 
+Raji, Inioluwa Deborah, Emily M. Bender, Amandalynne Paullada, Emily Denton, and Alex Hanna. 2021. “AI and 
+the Everything in the Whole Wide World Benchmark.” arXiv. https://doi.org/10.48550/arXiv.2111.15366.  
+Rosenfeld, Jonathan S., Amir Rosenfeld, Yonatan Belinkov, and Nir Shavit. 2019. “A Constructive Prediction of 
+the Generalization Error Across Scales.” arXiv. https://doi.org/10.48550/arXiv.1909.12673.  
+Rus, Daniela. 2025. “1.2 From Chips to Thoughts: Building Physical Intelligence into Robotic Systems.” In 2025 
+IEEE International Solid -State Circuits Conference (ISSCC) , 68:16 –22. 
+https://doi.org/10.1109/ISSCC49661.2025.10904576.  
+Sartor, Sebastian, and Neil Thompson. 2025. “Neural Scaling Laws in Robotics.” arXiv. 
+https://doi.org/10.48550/arXiv.2405.14005.  
+Shen, Shannon Zejiang, Hunter Lang, Bailin Wang, Yoon Kim, and David Sontag. 2024. “Learning to Decode 
+Collaboratively with Multiple Language Models.” arXiv. https://doi.org/10.48550/arXiv.2403.03870.  
+Sherry, Yash, and Neil C. Thompson. 2021. “How Fast Do Algorithms Improve? [Point of View].” Proceedings of 
+the IEEE  109 (11): 1768 –77. https://doi.org/10.1109/JPROC.2021.3107219.  
+Svanberg, Maja, Wensu Li, Martin Fleming, Brian Goehring, and Neil Thompson. 2024. “Beyond AI Exposure: 
+Which Tasks Are Cost -Effective to Automate with Computer Vision?” SSRN Scholarly Paper. Rochester, 
+NY: Social Science Research Network. https://doi.org/ 10.2139/ssrn.4700751.  
+Toner -Rodgers, Aidan. 2024. “Artificial Intelligence, Scientific Discovery, and Product Innovation.” arXiv. 
+https://doi.org/10.48550/arXiv.2412.17866.  
+Trišović, Anna, Alexander Fogelson, and Neil Thompson. 2025. “China and the USA Keep Pace in Foundation 
+Model Adoption [Manuscript in Preparation].”  
+Xiao, Wei, Tsun- Hsuan Wang, Ramin Hasani, Makram Chahine, Alexander Amini, Xiao Li, and Daniela Rus. 
+2023. “BarrierNet: Differentiable Control Barrier Functions for Learning of Safe Robot Control.” IEEE 
+Transactions on Robotics  39 (3): 2289– 2307. https://doi.org/10.1109/TRO.2023.3249564.  
+Yu, Rose, and Rui Wang. 2024. “Learning Dynamical Systems from Data: An Introduction to Physics -Guided 
+Deep Learning.” Proceedings of the National Academy of Sciences  121 (27): e2311808121. 
+https://doi.org/10.1073/pnas.2311808121.  
+Zhang, Wenqiang, Bin Gao, Jianshi Tang, Peng Yao, Shimeng Yu, Meng -Fan Chang, Hoi -Jun Yoo, He Qian, and 
+Huaqiang Wu. 2020. “Neuro -Inspired Computing Chips.” Nature Electronics  3 (7): 371 –82. 
+https://doi.org/10.1038/s41928- 7. 
+Zhao, Dan, Siddharth Samsi, Joseph McDonald, Baolin Li, David Bestor, Michael Jones, Devesh Tiwari, and Vijay 
+Gadepally. 2023. “Sustainable Supercomputing for AI: GPU Power Capping at HPC Scale.” In 
+Proceedings of the 2023 ACM Symposium on Cloud Computing , 588 –96. SoCC ’23. New York, NY, USA: 
+Association for Computing Machinery. https://doi.org/10.1145/3620678.3624793.  
+
+

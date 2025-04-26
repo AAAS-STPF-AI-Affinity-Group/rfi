@@ -1,0 +1,582 @@
+YUSUF MAHMOOD, CHRISTOPHER BYRD, ELIKA SOMANI, KONSTANTIN F. PILZ, LENNART HEIM
+Possible Options 
+for Unlocking and Securing U.S. Energy for AI Production
+RAND Global and Emerging Risks
+WR-A3883-1  
+March 2025Working Paper
+RAND working papers are intended to share early insights. This document is approved for public dissemination by 
+RAND, but it has not been peer reviewed. Review comments are welcomed to the authors via email by viewing their 
+profiles at rand.org. This working paper can be quoted and cited without permission of the author, provided the source is clearly referred to as a working paper. This working paper does not necessarily reflect the opinions of RAND’s research clients and sponsors. The paper contains no business-proprietary or confidential information. Its contents may be reused by the U.S. government in developing the AI action plan and associated documents without attribution.
+About RAND
+RAND is a research organization that develops solutions to public policy challenges to help make communities 
+throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest. To learn more about RAND, visit www.rand.org.
+RAND’s publications do not necessarily reflect the opinions of its research clients and sponsors.Published by the RAND Corporation, Santa Monica, Calif.
+© 2025 RAND Corporation
+ is a registered trademark.
+Limited Print and Electronic Distribution Rights
+This publication and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to its webpage on rand.org is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research products for commercial purposes. For information on reprint and reuse permissions, please visit www.rand.org/pubs/permissions.
+
+
+1 About This Working Paper 
+This paper provides public comment in response to the February 6, 2025 , request for information 
+(RFI) by the National Science Foundation’s Networking and Information Technology Research 
+and Development National Coordination Office on behalf of the Office of Science and 
+Technology Policy (OSTP), concerning the development of an artificial intelligence (AI) action 
+plan.1 Our purpose is to share relevant expert knowledge on the subject areas prioritized in the 
+RFI call. We focus on the “data centers,” “energy consumption and efficiency,” “regulation and governance,” and “innovation and competition” aspects, as described in the RFI, with particular 
+emphasis on potential options to unlock energy for AI development. These options could 
+improve energy capacity, which is key to accelerate AI progress and maintain U.S. 
+competitiveness. Our target audience is OSTP . This paper is filed by Yusuf Mahmood, 
+Christopher Byrd, Elika Somani, Konstantin Pilz, and Lennart Heim. The opinions presented in 
+this paper are those of the authors and do not reflect those of RAND. This paper does not contain 
+original research. We have not conducted a full analysis of the costs, benefits, or legal feasibility 
+of the policy options described herein; we drafted the response based on our professional 
+expertise and an assessment of published research.  
+Technology and Security Policy Center  
+RAND Global and Emerging Risks is a division of RAND that delivers rigorous and objective 
+public policy research on the most consequential challenges to civilization and global security. 
+This work was undertaken by the division’s Technology and Security Policy Center, which 
+explores how high-consequence, dual-use technologies change the global competition and threat 
+environment, then develops policy and technology options to advance the security of the United 
+States, its allies and partners, and the world. For more information, contact 
+Funding 
+This effort was independently initiated and conducted within the Technology and Security Policy 
+Center using income from operations and gifts from philanthropic supporters, which have been 
+made or recommended by DALHAP Investments Ltd., Effektiv Spenden, Ergo Impact, Founders 
+Pledge, Charlottes och Fredrik Stiftelse, Good Ventures, Jaan Tallinn, Longview, Open 
+Philanthropy, and Waking Up Foundation. A complete list of donors and funders is available at 
+www.rand.org/TASP. RAND donors and grantors have no influence over research findings or 
+recommendations. 
+1 National Science Foundation, “ Request for Information on the Development of an Artificial Intelligence (AI) 
+Action Plan, ” Federal Register , Vol. 90, No. 24, February 6, 2025.  
+
+
+2 Acknowledgments  
+We would like to thank the leadership of the RAND Technology and Security Policy Center, Jeff 
+Alstott and Casey Dugan, for their guidance on this paper, and Ben Della Rocca and Ismael 
+Arciniegas Rueda for helpful guidance and feedback. 
+Summary 
+Globally, AI data centers are facing a significant power shortfall, with an estimated fourfold 
+increase in demand in 2025 compared to 2023.2 If growth in AI chip demand continues at the 
+current rate, this need could rise to 68 gigawatts (GW) by 2027, nearly doubling global data 
+center power needs from 2022.3 AI chip production could increase by 1.3 - 2x annually through 
+2030, driving a projected demand of 327 GW by 2030.4 Per U.S. policy, the U.S. may need to 
+unlock an additional 50 gigawatts of energy capacity in order to remain dominant in AI 
+infrastructure by 2027.5 Yet, it is uncertain whether the U.S. is expanding its energy capacity 
+quickly enough to meet growing demand from U.S. AI data centers.6 We refer to the resulting 
+shortfall of energy supply in the U.S. as the “AI energy gap.” 
+The last administration took some steps to reduce the AI energy gap by issuing Executive Order 
+(EO) 14141 in its final weeks. The Trump administration took additional steps to unlock 
+domestic energy production in EO 14154: Unleashing American Energy.7 This working paper 
+explores potential options to build on these executive actions across the following lines of effort:  
+•A. Streamlining Permitting: Reducing the regulatory burden for environmental
+reviews–especially for geothermal, nuclear, and traditional energy sources –to speed up
+the development of AI infrastructure.
+•B. Transmission Development: Expediting the construction of necessary transmission
+lines to connect AI data centers to the energy grid, including leveraging DOE authorities
+to avoid state-level delays.
+•C. Federal Lands for AI Infrastructure: Expanding the use of federal lands for AIinfrastructure by expediting federal site selection processes and removing restrictions thatmandate clean power procurement for AI data centers on leased federal land.
+•D. National Security Considerations: Enhancing security measures for AI infrastructuredevelopers, including the reporting of personnel risk factors and ensuring cybersecurity
+standards are met. Such measures help protect AI systems critical to national security.
+2 Dylan Patel, and Gerald Wong, “GPT -4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE,” 
+webpage, July 10, 2023.  
+3 Konstantin F Pilz, Yusuf Mahmood, and Lennart Heim,  AI’s Power Requirements Under Exponential Growth:  
+Extrapolating AI Data Center Power Demand and Assessing Its Potential Impact on U.S.  Competitiveness,  RAND 
+Corporation, RR -A3572-1, 2025.  
+4 Jaime Sevilla and Edu Roldán, Training Compute of Frontier AI Models Grows by 4 –5x per Year , Epoch AI, May 
+28, 2024. 
+5 Pilz, 2025. 
+6 Pilz, 2025 . 
+7 Executive Order 14141, 2025 . 
+
+
+ 3 Possible Options for Unlocking and Securing U.S. Energy for AI 
+Production   
+The AI Energy Problem  
+The U.S. is at risk of losing its lead in data center and compute provider market share and is 
+struggling to meet the growing energy demands to support AI training and inference needs.8  
+This could result in the U.S. losing its AI advantage and missing economic opportunities.9  In 
+order to maintain and expand the current U.S. lead in AI, actions could facilitate the creation of 
+new AI infrastructure, including new and larger AI data centers, additional facilities for energy 
+generation/storage, and enhanced transmission capacity. This paper suggests potential options for 
+OSTP to coordinate action across various agencies to expedite the development of this 
+infrastructure. In formulating these options, we have drawn on our professional expertise and our assessment of published research. We did not conduct a full analysis of the costs, benefits, or 
+legal feasibility of these options. We suggest further study prior to implementing any of these 
+options.  
+Predicted Energy Shortfalls 
+Exponential growth in AI is placing significant strain on U.S. power grids, with the global 
+demand for AI data centers projected to reach 68 GW by 2027.
+10 This is nearly equivalent to 
+California’s total power capacity (86 GW) in 2022.11 U.S. companies are already struggling to 
+secure enough grid capacity for data centers to meet AI demand, a challenge expected to 
+intensify as AI training and deployment continue to grow.12 If U.S. companies are unable to 
+secure sufficient power, they may relocate their data centers abroad, which could undermine the country’s AI leadership and carry national security implications. Furthermore, there is a 
+significant economic growth opportunity for the U.S., as global AI data center demand is 
+projected to reach 327 GW by 2030—far surpassing currently total global capacity of just 88 
+GW in 2022.
+13 This growing demand presents a critical area of opportunity for the U.S. to 
+capitalize on its leadership in AI and related infrastructure. A subset of the authors studied expected increases in AI’s power demands by 2027 and 2030 and found that the U.S. may fall 
+short of the amount of energy it needs to maintain AI infrastructure dominance.
+14  
+ 
+8 Pilz, 2025 ; Sastry, Girish et al, “Computing Power and the Governance of Artificial Intelligence, ” 
+arXiv:2402.08797, February 13, 2024.  
+9 Under EO 14141, “ AI infrastructure” includes AI data centers, energy generation/storage, and transmission 
+facilities. 
+10 If exponential growth in chip supply continues.  
+11 Pilz, 2025. 
+12Sebastian Moss, “Meta’s Mark Zuckerberg Says Energy Constraints Are Holding Back AI Data Center Buildout, ” 
+webpage, April 19, 2024.  
+13 Pilz, 2025. 
+14 Pilz, 2025.  
+
+
+4 Impact of Federal, State, and Local Regulations 
+One of the key challenges in constructing data centers and power infrastructure is permitting 
+processes, which can cause significant delays in development. For example, state and local land-
+use permits often take years to clear for large construction projects. Additionally, grid 
+interconnection requests for new generation resources can take four to seven years for power hookup.
+15 Finally, transmission line projects often face complex multistate permitting processes 
+and local opposition, further delaying power delivery to data centers.16 The difficulty of securing 
+local and state permits is compounded by environmental regulations that make the use of 
+available power sources challenging –  limiting data center developers’ opportunities to procure power quickly, and pushing them to rely on more challenging-to-scale renewable options. 
+National Environmental Policy Act (NEPA) environment impact statement (EIS) completion 
+time was on average 4.5 years.
+17 A recent U.S. Department of Commerce (DOC) survey of 
+manufacturers identified the Clean Air Act (CAA), Clean Water Act (CWA), and Endangered Species Act (ESA) as among the most significant regulatory barriers to new production , affecting 
+industries’ ability to scale inputs such as AI chips.
+18 As a result, U.S. companies are exploring 
+expansion into countries with more accessible power and quicker permitting processes  as 
+potentially their only opportunity to remain at the AI frontier.19 To address these challenges, we 
+suggest potential options to free up energy for AI data centers.  
+Potential  Energy Policy Options  
+The following policy options may help unlock and secure domestic energy production to support 
+expanded AI data centers by 2027. We organize these policy options around four key features: 
+(A) streamlining federal permitting processes; (B) grid access and building transmission lines ;
+(C) designating federal lands for AI infrastructure; (D) and national security-related requirementsto support AI infrastructure developers.
+A. Streamlining Federal Permitting Processes
+It may be possible to streamline federal permitting for AI infrastructure projects by simplifying 
+requirements and providing compliance assistance with laws such as National Environmental 
+Policy Act (NEPA), the Clean Air Act (CAA) and the Clean Water Act (CWA).
+20 EO 14141 
+introduced some changes to these processes, and also places special focus on deregulating 
+geothermal and nuclear energy.21 These policies could be expanded by: (i) ensuring timely 
+completion of the U.S. Department of Defense’s (DOD) programmatic environmental review; 
+15 Josh Saul, “ Data Centers Face Seven- Year Wait for Dominion Power Hookups, ” Bloomberg , August 29, 2024. 
+16 Brian Potter, Arnab Datta, and Alec Stapp, How to Stop Environmental Review from Harming the Environment, 
+Institute for Progress, September 13, 2022.  
+17 Council on Environmental Quality, Environmental Impact Statement Timelines (2010 -2018), June 12, 2020. 
+18 This is a compilation of RFI response s from manufacturers , which relates to energy but may not be entirely 
+transferrable. U.S. Department of Commerce, Streamlining Permitting and Reducing Regulatory Burdens for 
+Domestic Manufacturing , October 6, 2017.  
+19 Zaeem Shoaib, “Big Tech Moves More AI Spending Abroad, ” Wall Street Journal , May 23, 2024.  
+20 Sections 7 and 9 reduce NEPA review burden via categorical  exclusions and programmatic environmental  review; 
+assist projects with CAA air-quality permit compliance;  and orders speedy processing  of CWA permits; among 
+other examples.   
+21 Geothermal power holds promise for rapidly supplying several gigawatts of capacity to AI data centers.  
+
+
+5 (ii) exploring NEPA categorical exclusions for natural gas and oil; (iii) initiating interagency
+consultation processes required for Endangered Species Act (ESA) exemptions; (iv) activating
+national security exemptions for the Clean Air Act and Clean Water  Act; and (v) considering
+Defense Production Act (DPA) authorities to avoid triggering federal and state regulations.
+Option 1: Ensure timely completion of the DOD ’s programmatic environmental review 
+Establishing federal sites for data centers obviates many state and local land use permits –and 
+may speed data center development timelines significantly–but triggers federal environmental review under NEPA, which must occur before data center construction begins.
+ Because DOD 
+and U.S. Department of Energy (DOE) will not award new projects until mid-2025, DOD’s programmatic review is critical to reducing data centers’ NEPA requirements.
+22 The 
+programmatic review can take place before sites or projects are selected and , if done 
+appropriately, may substantially reduce the need for site-specific analysis after selection.  
+This Administration’s energy EO (14154) has already taken steps to streamline NEPA, which 
+might work in tandem with DOD’s programmatic review. However, EO 14154 does not 
+eliminate the need for DOD’s review. The NEPA statute will require a threshold level of review 
+in any event – and DOD programmatic review may satisfy this requirement more quickly than 
+the alternative, which is for agencies to undertake lengthy new rulemaking to revise and update 
+their NEPA procedures. 
+Option 2: Require additional review of categorical exclusions (CXs) for natural gas and oil  
+Under NEPA, federal agencies are required to draft detailed environmental impact statements 
+(EISs) for all “major Federal actions” (generally including permit approvals) that are determined 
+to “significantly affect the quality of the human environment”.23 EISs can take 2 or more years 
+for many projects. To determine whether an action would significantly affect the quality of the human environment, agencies must often separately prepare environmental assessments (EAs).  
+Pursuant to Section 109 of NEPA, agencies may establish categorical exclusions (CXs), which 
+are categories of major actions that do not require any further environmental review (i.e., an 
+environmental assessment (EA) or environmental impact statement (EIS)). To establish a 
+categorical exclusion, the agency must determine that the relevant category of action typically 
+does not have a significant effect on the human environment. EO 14141 directs agencies such as  
+the U.S. Department of the Interior (DOI) to explore adding new categorical exclusions for geothermal energy and other forms of clean energy, as well as to leverage existing ones which 
+could apply to AI infrastructure (e.g., transmission, substations).
+24 It may be possible to unlock 
+additional energy capacity by developing categorical exclusions for traditional energy sources (e.g., natural gas). This could streamline federal permitting processes and data center 
+development timelines. Note, however, that establishing such exclusions could take significant 
+time and further cost-benefit analysis is needed. 
+22 See generally this memorandum explaining programmatic NEPA revie w: Council on Environmental Quality, 
+Effective Use of Programmatic NEPA Reviews , December 18, 2014.  
+23 U.S. Environmental Protection Agency, “National Environmental Policy Act Review Process, ” webpage, July 15, 
+2024; U.S. Department of Energy, “Categorical Exclusion (CX) Determinations, ” webpage, undated. 
+24 Executive  Order 14141 §7(f)(iii), 2025.  
+
+
+6 Option 3: Activate Exemptions from the Endangered Species Act  (ESA)  
+The ESA has historically created delays for infrastructure projects.25 Section 7 of the ESA 
+provides that federal agencies’ must insure that their actions are “not likely to jeopardize the 
+continued existence of any endangered species or threatened species ” or result in the destruction 
+or adverse modification of “critical habitats” of such species.26 Agency “action” is expansively 
+interpreted to include federal projects, granting federal permits, licenses, contracts, rights-of-
+way, leases and promulgation of federal regulations.27 Agencies must evaluate the effects of 
+agency actions and consider alternatives to minimize those effects, as needed.28 However, 
+Section 7(j) of the ESA allows the DOD to exempt projects where the Secretary of Defense finds 
+that such exemption is “necessary for … national security.”29 The DOD exemption can take 
+effect only after the ESA’s required 90-day consultation process with the U.S. Fish and Wildlife Service – as such, it could be important to proceed with such consultations quickly for AI 
+infrastructure on federal sites.
+30 
+Option 4: Activate Clean Air Act (CAA) and Clean Water Act (CWA) Exemptions 
+The CAA and CWA impose several permit requirements on industrial projects , which can delay 
+construction.31 The CWA requires section 404 permits to build near federal wetlands – “more 
+significant impact” permits take about 217 days (7+ months) on average.32 The CAA mandates 
+that new major sources of air pollution (or major modifications to existing sources) undergo New Source Review (NSR) permitting and install state-of-the-art emission controls before 
+construction begins.
+33 The NSR permitting process for large energy projects is “complex, time-
+consuming, and occasionally costly – the average processing time was about 420 days (well over a year) from application to permit issuance.”
+34 These delays in obtaining air permits can 
+postpone the start of construction and deter investments.35  
+The CAA and CWA both give the President broad authority to exempt projects from those acts ’ 
+compliance requirements, so long as the President deems such exemptions to be “in the 
+25 See, e.g., the Atlantic Coast Pipeline (ACP), a proposed 600 -mile interstate natural gas pipeline , was halted after 
+ESA litigation in 2018  (see Gilmer, 2018) ; Additionally, Nebraska Public Power District ’s “R-Project”, a proposed 
+225-mile, 345-kV transmission line, was halted by courts pursuant to ESA litigation ( see Doyle, 2024).
+26 Code of Federal Regulations, Title 16, Conservation; Chapter 35, Endangered Species; Section 1536, Interagency
+Cooperation.
+27 Code of Federal Regulations, Title 16, Chapter 35, Section 1536 ; Erin H Ward and Pervaze A Sheikh,
+Endangered Species Act (ESA) Section 7 Consultation and Infrastructure Projects,  Congressional Research Service,
+R46867, August 4, 2021.
+28 Code of Federal Regulations, Title 16, Chapter 35, Section 1536 ; Ward, 2021.
+29 Code of Federal Regulations, Title 16, Chapter 35, Section 1536 (j); note that this exemption has never been
+invoked, and it may not fully exempt agencies from Section 9’s prohibitions on “taking” endangered  species.
+30 Further analysis its feasibility and the cost -benefits of a such a decision is needed ; Benjamin Rubin, “Calling on 
+the God Squad. Endangered Species Law and Policy,” webpage, April 13, 2024.  
+31 CAA, CWA, and ESA were cited by a survey of domestic manufacturers by the DOC as being among their most 
+significant production bottlenecks.  Bottlenecks to manufacturing are particularly relevant for industrial projects that 
+rely on manufacturing inputs such as solar panels or AI chips. U.S. Department of Commerce, 2017.  
+32 Nicole T Carter, The Army Corps of Engineers ’ Nationwide Permits Program: Issues and Regulatory 
+Developments , Congressional Research Service, R97223, January 12, 2017.  
+33 These may apply to data centers ’ backup generators, construction work for transmission lines, and more.  
+34 Arthur G Fraas, “EPA’s New Source Review Program: A Look at Permit Processing Time, ” webpage, February 
+10, 2025. 
+35 Fraas, 2025. 
+
+
+7 paramount interest” of the United States.36 These exemptions are limited to actions by “agencies” 
+and “federal instrumentalit[ies] of the executive branch.”37 Although privately built data centers 
+(even on federal lands) may not count as “federal instrumentalities,” a legal argument could be 
+made that transmission projects benefiting from Section 1222 public/private partnerships 
+(discussed below) would meet the bar. Further legal analysis is needed to assess this potential 
+argument. The Executive Office of the President (EOP ) could also explore whether projects 
+involving significant DPA-initiated purchases may count as “federal instrumentalities.”38   
+Option 5: Consider using Defense Production Act (DPA) authorities 
+DPA Title I prioritization and allocation 
+The President may be able to use DPA prioritization and allocation authority to accelerate AI 
+infrastructure. Title I of the DPA also allows the President – as “necessary or appropriate” for 
+national defense – to: (i) require companies to prioritize fulfilling U.S. government (USG) contracts; or (ii) allocate materials and services.
+39 EOP could explore several possible uses of 
+these authorities to expand energy supplies for AI data centers. First, the USG could leverage Title I authorities to require utilities to accelerate providing interconnections to the electric grid 
+for energy resources needed to power AI data centers on federal sites, to the extent necessary for 
+national security. A second potential option may be for the USG to require energy companies to 
+reserve energy resources for AI data centers, ensuring that they receive power in periods of 
+energy scarcity – as required for national security. For example, if natural gas supplies are 
+constrained by a severe shortage, the President could potentially require gas pipelines to deliver 
+fuel preferentially to power plants serving AI data centers to the extent necessary for national 
+security. 
+DPA Title III notwithstanding clause 
+Title III of the DPA may permit the President to purchase materials needed for national defense notwithstanding federal and state laws that might otherwise constrain such purchases. Subsection 
+303(b) states that Presidents may make such purchases “without regard to the limitations of 
+existing law.”
+40 Similar “notwithstanding” provisions have been used to exempt large projects 
+from environmental laws. For example, when President Trump declared a national emergency at the southern border, his administration used 10 U.S.C. §2808’s “notwithstanding” clause to 
+avoid triggering NEPA-required procedures before constructing portions of a wall at the U.S. 
+southern border.
+41 This DPA provision has not been used to exempt large-scale projects before, 
+so further legal analysis is needed to determine under what circumstances the President may 
+36 Code of Federal Regulations,  Title 42, The Public Health and Welfare; Chapter 85, Air Pollution Prevention and 
+Control; Subchapter  I, Programs  and Activities;  Part A, Air Quality and Emission Limitations;  Section 7418, 
+Control of pollution from Federal facilities; Code of Federal Regulations,  Title 33, Navigation  and Navigable  
+Waters; Chapter 26, Water Pollution Prevention and Control; Section 1323, Federal Facilities Pollution Control. 
+37 Code of Federal Regulations, Title 42, Chapter 85, Section 7418 ; Code of Federal Regulations,  Title 33, Chapter 
+26, Section 1323. 
+38 Further analysis its feasibility and the cost -benefits of a such a decision is needed.  
+39 Note that the President must make certain factual findings about the resources ’ scarcity to activate these 
+authorities ; Alexandra G Neenan  and Luke A Nicastro,  The Defense Production Act of 1950: History, Authorities, 
+and Considerations for Congress, Congressional Research Service, R43767 October 6, 2023.  
+40 Neenan, 2023. 
+41 Trump v. Sierra Club, 140 S. Ct. 2620, 2020 . 
+
+
+8 leverage this authority to avoid triggering or waive NEPA or other federal environmental 
+requirements for AI infrastructure projects. 
+B.Grid Access and Building Transmission Lines
+It is important to ensure that the federal sites have reliable energy transmission access. EO 14141 
+took some actions to this end, such as by requiring transmission providers to report locations 
+with surplus capacity to connect new energy projects to the grid. Potential expansions to these 
+policies include: (i) leveraging DOE’s Section 1222 authority to facilitate construction of certain electric power transmission facilities, especially where state permitting processes may 
+significantly delay necessary transmission projects; and (ii) task ing DOE to engage utilities 
+serving AI infrastructure to accelerate their interconnection processes.
+42 
+Option 6: Avoid triggering state regulatory processes  that delay transmission projects 
+Additional statutory authorities may be available to accelerate the sitting and upgrading of transmission lines. EOP  might consider commissioning a thorough legal review of statutes, 
+potentially enabling the executive branch to avoid triggering state regulatory reviews that can delay transmission projects. One potential example is Section 1222 of the Energy Policy Act 
+(EPA) of 2005, which enables DOE to partner with companies to accelerate transmission 
+projects. Prior DOE legal analysis suggests that Section 1222 may permit the executive branch 
+to:
+43  
+Avoid triggering lengthy reviews by state utility commissions by leveraging public/private 
+partnerships. Section 1222 of the EPA  allows DOE to establish public/private partnerships for 
+transmission projects and does not waive DOE’s sovereign immunity. Pursuing transmission projects via these public/private partnerships– for which sovereign immunity is not waived–thus 
+avoids triggering state level public utility commission (PUC) reviews, which can last many 
+years.
+44   
+Activate backstop eminent domain authorities. Section 1222 allows the DOE to exercise 
+eminent domain over private parcels of land needed for transmission development , as a backstop, 
+if doing so serves a public purpose. These authorities would function similarly to eminent domain powers that state PUCs typically grant private developers for transmission projects .  
+Activating this authority requires finding that the transmission project is “necessary to 
+accommodate … [a] projected increase in demand for electric transmission capacity ” – a 
+condition that may be met by expected future AI infrastructure demand.
+45 EOP could explore 
+42 Public Law 109 -58, Energy Policy Act; Section 1222, Third- Party Finance, August 8, 2005.  
+43 Further analysis its feasibility and the cost-benefits of a such a decision is needed . Section 402 of the American 
+Recovery and Reinvestment Act and Section 40106 of the Infrastructure Investment and Jobs Act grant DOE similar 
+authorities ; U.S. Department of Energy, Summary of Findings: Plains & Eastern Clean Line Project , March 25, 
+2016.; Justin Gundlach, Transmission Siting Reforms in the Infrastructure Investment and Jobs Act of 2021 , Institute 
+for Policy Integrity, December 2021 , p. 4, 9-10. 
+44 DOE possesses independent authorities to perform– and in some cases does perform –” cost allocation” functions 
+for transmission lines normally handled by state public utility commissions . See: Western Area Power 
+Administration, “Rates and Repayment, ” webpage, September 20, 2024 . 
+45 National Law Review, “DOE Participation In Plains & Eastern Clean Line Could Open Doors for Other 
+Transmission Projects, ” webpage, March 30. 2016 . 
+
+
+9 these legal authorities further to determine whether they may permit the USG to establish a 
+program for AI developers to apply and partner with DOE on transmission projects that serve 
+frontier AI data centers.  
+Option 7: Task DOE to engage utilities on overhauling interconnection processes  
+The DOE could help expedite utility interconnection processes for AI infrastructure on federal sites. To provide sufficient energy to serve their data centers, AI developers may need to draw on 
+power from multiple utilities, which will require significant interconnections.
+46 However, 
+utilities’ interconnection processes often take 4-6 years.47 Utility companies could take several 
+steps to streamline interconnection for AI infrastructure — such as reforming queue processes, 
+adopting faster grid resilience tests, or prioritizing AI infrastructure over other applicants. While 
+only the Federal Energy Regulatory Commission, an independent regulator, can require utility 
+companies to reform their processes, DOE can negotiate voluntary reforms with utilities serving 
+federal sites. Potential reforms by utilities could include: (i) prioritizing generation resources that 
+satisfy “resource adequacy” needs or bring national security benefits; (ii) using automated tools 
+to adjudicate interconnection applications; and (iii) information disclosures that facilitate 
+auctions of low-cost interconnection capacity. 
+C. Designating Federal Lands for AI Infrastructure
+Infrastructure projects built on federal lands are not subject to many state and local-level 
+regulations, such as permitting requirements. The USG has previously directed DOD and DOE 
+to make sites federal lands available for AI data centers, streamlining permitting requirements for 
+these projects.48 This policy could be expanded by: (i) ensuring timely completion of DOD and 
+DOE’s federal site-selection process; (ii) and potentially removing clean power requirements. We discuss these potential options next. 
+Option 8: Ensure timely completion of DOD and DOE federal site- selection processes  
+The strategy laid out by EO 14141 and EO 14154 – making federal lands available for AI 
+infrastructure – hinges on the DOD and DOE’s ability to quickly identify suitable sites for AI 
+data centers. DOD and DOE could screen for potential issues that may cause future delays and 
+litigation (e.g., the need for substantial new transmission infrastructure or the presence of 
+historical properties). Any delay in site selection could cascade through the entire development 
+timeline, as most other work cannot begin until sites are chosen and leased. 
+Option 9: Remove requirements related to “clean power” 
+EO 14141’s strict clean power requirements restricts the available options for bringing new energy sources online quickly. While the U.S. has abundant traditional energy sources – 
+particularly natural gas – EO 14141 makes them challenging to use for AI infrastructure. Almost 
+none of EO 14141’s mechanisms for streamlining permitting may apply to natural gas, oil, or 
+46 Specific statues relevant are EPA act sec 1222, ARRA sec 402, and IIJA sec 40106; Srivathsan, Bhargs, AI 
+Power: Expanding Data Center Capacity To Meet Growing Demand , McKinsey & Company, October 29, 2024.  
+47 Paul Ciampoli, “DOE Offers Funding to Accelerate Interconnection Process Through Utilization of Artificial 
+Intelligence,” webpage, November 26, 2024 . 
+48 See e.g., Section 4 of EO 14141, which  directs the DOD and DOI to make at least six federal sites available for AI 
+data centers in a one -off rental auction, streamlining the permitting process for these locations.  
+
+
+10 coal unless accompanied by highly costly carbon capture technology. EO 14141 requires all 
+companies leasing federal sites to “procur[e] sufficient new clean power generation resources … 
+to meet [all of] the frontier AI data center’s planned electricity needs.” If such requirements were 
+removed, more companies could potentially access a wider range of energy sources and land for 
+power production.  
+D.National Security-Related Requirements for AI Infrastructure Developers
+To ensure that the USG harnesses AI for national security, EO 14141 requires leasing entities to:
+(i) adhere to cybersecurity standards, which may be needed to prevent foreign theft or sabotage
+of AI infrastructure; (ii) allow the USG to procure AI models at or below market rates; and (iii)
+sign memorandum of understanding (MOU) with the DOC to collaborate on AI evaluations.
+These policies could be expanded by requiring leasing entities to report risk factors of the
+personnel they hire – including nationality and work history – to counter potential espionage.
+Although these are not directly energy policies, they could support and strengthen companies
+that play a key role in unlocking power for AI, e.g., by improving their security.
+Option 10: Require companies leasing federal sites to report security risk factors of their 
+personnel  
+As frontier AI capabilities improve, AI infrastructure may increasingly become a high -priority 
+target for cyber operations by China, Russia, and other U.S. adversaries.49 Leading AI companies 
+are not on track to achieve the security required to protect against well -resourced actors.50 If 
+adversaries gain physical access to AI data centers – including those developed on federal sites – 
+they may steal AI model weights or sabotage AI systems by inserting vulnerabilities.51 
+Mandatory reporting of personnel risk factors – including nationality and work history – could 
+aid AI security efforts. RAND’s ongoing research into AI facility personnel security is available 
+upon request to inform the development of these protocols. 
+E. Conclusion
+This paper identifies potential policy options that may help reduce the U.S. AI energy gap. The 
+energy policy landscape is complicated, with overlapping federal, state, and local equities. The 
+costs and benefits of these changes, as well as their legal feasibility, should be fully assessed 
+prior to implementation. This full assessment was beyond the scope of this working paper. We 
+suggest further study on these policy options including their costs, benefits, and legal feasibility. 
+49 Luke Barr, “China, Russia and Iran ‘Attempting To Illegally Acquire’ US Technology, Top DHS Official Says, ” 
+ABC News, 28 July 2023 ; Farivar, Masood, “FBI Warns About China Theft of US AI Technology, ” Voice of 
+America, 28 July 2023.  
+50 See Sella Nevo, Dan Lahav, Ajay Karpur, Yogev Bar -On, Henry Alexander Bradley, and Jeff Alstott, Securing AI 
+Model Weights: Preventing Theft and Misuse of Frontier Models , RAND Corporation, RR -A2849-1, 2024. 
+51 Nevo et al, 2024 . 
+
+
+11 Abbreviations  
+AI artificial intelligence 
+CAA Clean Air Act 
+CX Categorical Exclusion 
+CWA Clean Water Act 
+DOC Department of Commerce 
+DOE Department of Energy
+DOI Department of the Interior 
+DOD Department of Defense  
+DPA Defense Production Act 
+EA Environmental Assessment 
+EIS Environmental Impact Statement 
+EO Executive Order 
+EOP Executive Office of the President 
+ESA Endangered Species Act 
+GW Gigawatt 
+NEPA National Environmental Policy Act 
+U.S. United States 
+USG U.S. government 
+References  
+Barr, Luke, “China, Russia and Iran ‘Attempting To Illegally Acquire’ US Technology, Top 
+DHS Official Says,” ABC News, 28 July 2023. 
+Carter, Nicole T, The Army Corps of Engineers’ Nationwide Permits Program: Issues and 
+Regulatory Developments, Congressional Research Service, R97223, January 12, 2017. 
+Ciampoli, Paul, “DOE Offers Funding to Accelerate Interconnection Process Through Utilization 
+of Artificial Intelligence,” webpage, November 26, 2024. As of March 2, 2025: 
+https://www.publicpower.org/periodical/article/doe-offers-funding-accelerate-interconnection-process-through-utilization-artificial-intelligence  
+Code of Federal Regulations, Title 16, Conservation; Chapter 35, Endangered Species; Section 
+1536, Interagency Cooperation. 
+Code of Federal Regulations, Title 33, Navigation and Navigable Waters; Chapter 26, Water 
+Pollution Prevention and Control; Section 1323, Federal Facilities Pollution Control.   
+Code of Federal Regulations, Title 42, The Public Health and Welfare; Chapter 85, Air Pollution 
+Prevention and Control; Subchapter I, Programs and Activities; Part A, Air Quality and 
+Emission Limitations; Section 7418, Control of pollution from Federal fac ilities. 
+Council on Environmental Quality, Effective Use of Programmatic NEPA Reviews , December 
+18, 2014. 
+
+
+12 Council on Environmental Quality, Environmental Impact Statement Timelines (2010-2018), 
+June 12, 2020. 
+Doyle, Michael, “A Threatened Species Complicates Power Line Plans,” E&E News, September 
+17, 2024. 
+Executive Order 14141, 2025. 
+Farivar, Masood, “FBI Warns About China Theft of US AI Technology,” Voice of America, 28 
+July 2023. 
+Fraas, Arthur G, “EPA ’s New Source Review Program: A Look at Permit Processing Time,” 
+webpage, February 10, 2025. As of March 7, 2025: https://www.resources.org/common-
+resources/epa039s-new-source-review-program-a-look-at-permit-processing-time/  
+Gilmer, Ellen M, “Court Order Could Derail Atlantic Coast Construction,” E&E News, May 16, 
+2018. 
+Gundlach, Justin, Transmission Siting Reforms in the Infrastructure Investment and Jobs Act of 
+2021, Institute for Policy Integrity, December 2021. 
+Harrell, Jeremy, “Improving the Federal Environmental Review and Permitting Processes,” 
+webpage, February 24, 2025, As of March 2, 2025: https://clearpath.org/our-take/improving-
+the-federal-environmental-review-and-permitting-processes/  
+Helm, Audrey A, Royalty Wars: The Dark Side to Raising the Minimum Royalty Rate for Oil and 
+Gas Leasing on Federal Land, Texas A&M J. Prop. L, April 25, 2024. 
+Landry, Cathy, “US BLM Boosts Costs to Drill on Federal Lands in Sweeping New Leasing 
+Regulations,” webpage, April 12, 2024. As of March 2, 2025: https://www.ogj.com/general-
+interest/government/article/55017991/us-blm-boosts-costs-to-drill-on-federal-lands-in-
+sweeping-new-leasing-regulations 
+Moss, Sebastian, “Meta ’s Mark Zuckerberg Says Energy Constraints Are Holding Back AI Data 
+Center Buildout,” webpage, April 19, 2024. As of March 2, 2025: 
+https://www.datacenterdynamics.com/en/news/metas-mark-zuckerberg-says-energy-
+constraints-are-holding-back-ai-data-center-buildout/  
+National Law Review, “DOE Participation In Plains & Eastern Clean Line Could Open Doors 
+for Other Transmission Projects,” webpage, March 30. 2016. As of March 3, 2025: 
+https://natlawreview.com/article/doe-participation-plains-eastern-clean-line-could-open-
+doors-other-transmission 
+National Science Foundation, “Request for Information on the Development of an Artificial 
+Intelligence (AI) Action Plan,” Federal Register, Vol. 90, No. 24, February 6, 2025. 
+Neenan, Alexandra G and Nicastro, Luke A, The Defense Production Act of 1950: History, 
+Authorities, and Considerations for Congress, Congressional Research Service, R43767 
+October 6, 2023. 
+Nevo, Sella, Dan Lahav, Ajay Karpur, Yogev Bar-On, Henry Alexander Bradley, and Jeff 
+Alstott, Securing AI Model Weights: Preventing Theft and Misuse of Frontier Models, RAND Corporation, RR-A2849-1, 2024. As of March 13, 2025: https://www.rand.org/pubs/research_reports/RRA2849-1.html 
+
+
+13 Patel, Dylan, and Gerald Wong, “GPT-4 Architecture, Infrastructure, Training Dataset, Costs, 
+Vision, MoE,” webpage, July 10, 2023. As of March 4, 2025: 
+https://www.semianalysis.com/p/gpt-4-architecture-infrastructure 
+Pilz, Konstantin F., Yusuf Mahmood, and Lennart Heim, AI’s Power Requirements Under 
+Exponential Growth: Extrapolating AI Data Center Power Demand and Assessing Its 
+Potential Impact on U.S. Competitiveness, RAND Corporation, RR-A3572-1, 2025. As of 
+March 12, 2025: https://www.rand.org/pubs/research_reports/RRA3572-1.html.  
+Potter, Brian, Arnab Datta, and Alec Stapp, How to Stop Environmental Review from Harming 
+the Environment, Institute for Progress, September 13, 2022. 
+Public Law 109-58, Energy Policy Act; Section 1222, Third-Party Finance, August 8, 2005. 
+Rubin, Benjamin, “Calling on the God Squad. Endangered Species Law and Policy,” webpage, 
+April 13, 2024. As of March 2, 2025: 
+https://www.endangeredspecieslawandpolicy.com/calling-on-the-god-squad 
+Sastry, Girish et al, “Computing Power and the Governance of Artificial Intelligence,” 
+arXiv:2402.08797, February 13, 2024. 
+Saul, Josh, “Data Centers Face Seven-Year Wait for Dominion Power Hookups,” Bloomberg, 
+August 29, 2024. 
+Sevilla, Jaime, and Edu Roldán, Training Compute of Frontier AI Models Grows by 4–5x per 
+Year, Epoch AI, May 28, 2024. 
+Shoaib, Zaeem, “Big Tech Moves More AI Spending Abroad,” Wall Street Journal, May 23, 
+2024. 
+Srivathsan, Bhargs, AI Power: Expanding Data Center Capacity To Meet Growing Demand, 
+McKinsey & Company, October 29, 2024. 
+Trump v. Sierra Club, 140 S. Ct. 2620, 2020. 
+U.S. Department of Commerce, Streamlining Permitting and Reducing Regulatory Burdens for 
+Domestic Manufacturing, October 6, 2017. 
+U.S. Department of Energy, “Categorical Exclusion (CX) Determinations,” webpage, undated. 
+As of March 2, 2025:  
+https://www.energy.gov/nepa/categorical-exclusion-cx-determinations-cx 
+U.S. Department of Energy, Summary of Findings: Plains & Eastern Clean Line Project, March 
+25, 2016. 
+U.S. Energy Information Administration, U.S. Power Grid Added 20.2 GW of Generating 
+Capacity in the First Half of 2024, August 19, 2024. 
+U.S. Environmental Protection Agency, “National Environmental Policy Act Review Process,” 
+webpage, July 15, 2024. As of March 13, 2025: https://www.epa.gov/nepa/national-
+environmental-policy-act-review-process. 
+U.S. Government Accountability Office, Oil, Gas, and Coal Royalties: Raising Federal Rates 
+Could Decrease Production on Federal Lands but Increase Federal Revenue, GAO-17-540, 
+June 20, 2017. 
+
+
+14 Vann, Adam, Energy Production on Federal Lands: Leasing and Authorization, Congressional 
+Research Service, R48130, July 19, 2024. 
+Ward, Erin H and Sheikh, Pervaze A, Endangered Species Act (ESA) Section 7 Consultation and 
+Infrastructure Projects, Congressional Research Service, R46867, August 4, 2021. 
+Western Area Power Administration, “Rates and Repayment,” webpage, September 20, 2024. As 
+of March 3, 2025: https://www.wapa.gov/power-marketing/rates-and-repayment/ 
+About the Authors  
+Yusuf Mahmood is a Technology and Security Policy Fellow at RAND; for more information 
+on the fellowship program, visit www.rand.org/tasp-fellows. He conducts policy research on the 
+national security implications of AI. He holds B.A. degrees in economics and philosophy and is a 
+J.D. candidate.
+Christopher Byrd is a Technology and Security Policy fellow at RAND; for more information 
+on the fellowship program, visit www.rand.org/tasp-fellows. He conducts policy research on 
+defense innovation and emerging technologies. He holds a M.A. in international economics and 
+strategic studies. 
+Elika Somani is an assistant policy researcher at RAND and a Ph.D. candidate in policy analysis 
+at the Pardee RAND Graduate School. She conducts technical and policy research on the 
+governance of AI and biological threats. She holds a B.A. in global health and develop ment. 
+Konstantin Pilz is a research assistant at RAND. His research focuses on data centers and AI 
+supercomputers and their importance for training and deployment of frontier AI models. He 
+holds a B.S. in biology and is a candidate for an M.A. in security  studies. 
+Lennart Heim is an information scientist at RAND and a professor of policy analysis at the Pardee RAND Graduate School. His research focuses on the role of compute for advanced AI 
+systems and how compute can be leveraged as an instrument for AI governance, with an 
+emphasis on policy development and security implications. Heim’s publications cover the 
+impacts and governance of advanced AI systems and empirical trends in machine learning, such 
+as compute, data, and AI hardware. He holds an M.S. in electrical engineering. 
+
+

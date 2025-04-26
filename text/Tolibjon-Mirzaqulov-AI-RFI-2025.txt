@@ -1,0 +1,599 @@
+March 15, 2025  
+Faisal D’Souza, NCO  
+Office of Science and Technology Policy  
+Executive Office of the President  
+2415 Eisenhower Avenue  
+Alexandria, VA 22314  
+Submitted by email to 
+Recomendations in answer to  Request for Information 
+(RFI) on the Development of an Artificial Intelligence (AI) 
+Action Plan (“Plan”)  
+Introduction  
+My name is Tolibjon Mirzakulov, M.Sc on Economi cs, co-founder and CEO of Jett Investment 
+Service. As an AI enthusiast, I strongly support  OSTP’s effort to define the priority policy 
+actions needed to actively promote  artificial intelligence  with the support of US and other 
+countries governments.  
+My recommendations mainly focus on international standartisation  of AI tools and 
+technologies.  
+The rapid evolution of artificial intelligence (AI) and robotics marks a transformative era in 
+human history. These technologies drive advancements across sectors —autonomous 
+vehicles streamline transportation, robotic assistants enhance daily life, and AI -powered 
+diagnostics revolutionize healthcare. The benefits are immense: increased efficiency, 
+improved productivity, and elevated quality of life. Yet, this progress comes with challenges. 
+As AI systems grow more autonomous and ubiquitous, ensuring their safety, security, 
+privacy, and ethical alignment becomes paramount.  
+Without standardized regulation, we risk a fragmented landscape where inconsistent 
+practices undermine public trust and amplify vulnerabilities. The absence of unified 
+protocols could lead to misuse, breaches of privacy, or even physical harm. This documen t 
+proposes several recommendations to AI Regulation Action Plan, outlining six critical 
+standards to address these challenges:  
+1.Knowledge Sharing Protocols
+2.Knowledge Classification
+
+
+Recommendations on AI Action Plan  Tolibjon Mirz
+2 3.Decision -Making Levels
+4.Restriction Standards
+5.Commander Credibility Validation
+6.Crime Detection and Reporting  (“911” for robots)
+These standards aim to balance innovation with oversight, fostering a global framework that 
+ensures AI serves humanity responsibly. This introduction sets the stage for a detailed 
+exploration of each standard, culminating in a call for international cooper ation to secure 
+AI’s future.  
+Executive Summary  
+This AI Regulation Action Plan presents six foundational standards to govern AI and robotics, 
+ensuring their safe, ethical, and efficient integration into society:  
+•Knowledge Sharing Protocols : Facilitate secure, efficient exchange of AI -learned
+information to reduce redundancy and spur innovation.
+•Knowledge Classification : Categorize AI -acquired knowledge to protect privacy and
+regulate sharing permissions.
+•Decision -Making Levels : Classify AI systems by autonomy to tailor regulatory
+oversight and enhance safety.
+•Restriction Standards : Establish universal commands to limit or shut down robotic
+functions during emergencies.
+•Commander Credibility Validation : Verify the authority of command issuers to
+prevent misuse and ensure accountability.
+•Crime Detection and 911 Reporting : Equip robots to detect and report illegal
+activities to appropriate authorities consistently.
+Designed for global adoption, these standards promote consistency, safety, and trust in AI 
+systems. Together, they form a proactive strategy to harness AI’s potential while mitigating 
+its risks, urging immediate action from policymakers, industry leaders, and international 
+bodies.  
+1.Knowledge Sharing Protocols
+"Knowledge sharing protocols" refer to standardized frameworks, interfaces, and rules that 
+enable different AI models, systems, and robots to exchange learned information, insights, 
+or skills efficiently and securely. These protocols would allow AI entitie s—whether 
+developed by different organizations, trained on distinct or overlapping datasets, or 
+designed for varied purposes —to share reusable knowledge representations (e.g., neural 
+network weights, decision -making rules, or task -specific strategies) with out requiring full 
+retraining or redundant resource use. Think of it as a "universal language" for AI systems to 
+collaborate, akin to how the internet relies on protocols like TCP/IP for data exchange.  
+
+
+Recommendations on AI Action Plan   Tolibjon Mirz
+ 3 Key components of such protocols might include:  
+1. Knowledge Representation Standards : A common format for encoding what an AI 
+has learned (e.g., structured ontologies, compressed neural network embeddings).  
+2. Interoperability Interfaces : APIs or middleware that allow AI systems to query, 
+send, or receive knowledge from one another.  
+3. Authentication and Security : Mechanisms to verify the identity of sharing entities 
+and protect against malicious or corrupted data.  
+4. Granularity Control : Options to share specific subsets of knowledge (e.g., only 
+navigation skills for a robot, not its entire model).  
+5. Metadata and Provenance : Tags that describe the source, context, and reliability of 
+shared knowledge (e.g., "trained on urban driving data, 2024").  
+Why Knowledge Sharing Protocols Are Important  
+1. Resource Efficiency : Training AI models from scratch requires massive 
+computational power, energy, and financial investment. Sharing pre -trained 
+knowledge could reduce redundancy, cutting costs and environmental impact.  
+2. Accelerated Innovation : By pooling knowledge, AI systems could collectively 
+advance faster. A robot learning to navigate warehouses could share its spatial 
+reasoning with a drone mapping disaster zones, skipping years of development.  
+3. Consistency and Safety : Shared protocols could standardize best practices (e.g., 
+ethical decision -making or hazard avoidance), reducing the risk of divergent, unsafe 
+behaviors across AI systems.  
+4. Equity in AI Development : Smaller organizations or countries with limited resources 
+could access shared knowledge, leveling the playing field against tech giants and 
+fostering global collaboration.  
+5. Adaptability : In a rapidly changing world, AI systems need to adapt quickly. 
+Knowledge sharing would enable real -time updates —like a medical AI sharing new 
+diagnostic insights with others during a pandemic.  
+Without such protocols, the AI ecosystem risks becoming fragmented, inefficient, and 
+monopolized by a few players, stifling progress and exacerbating inequalities.  
+Vision for the Future  
+Imagine a world where a cleaning robot in Japan shares its obstacle -avoidance tricks with a 
+mining robot in Australia, or where an AI diagnosing rare diseases in Europe instantly uplifts 
+medical bots globally. Knowledge sharing protocols could transform AI  from isolated silos 
+into a collaborative network, mirroring how human societies advance through shared 
+learning. For AI policy, this means drafting regulations that prioritize interoperability, 
+sustainability, and equitable access —ensuring the technology serves humanity as a whole, 
+not just its creators.  
+ 
+
+
+Recommendations on AI Action Plan  Tolibjon Mirz
+4 2.Knowledge Classification
+To create effective knowledge sharing protocols, we need a robust system to categorize and 
+manage the knowledge AI systems acquire. Here’s what’s required:  
+1.Knowledge Taxonomy:
+−General Knowledge : Non -sensitive, widely applicable insights (e.g., how to identify
+a flower species, optimize battery usage, or navigate stairs).
+−Context -Specific Knowledge : Task - or environment -specific data (e.g., layout of a
+particular home, local traffic patterns).
+−Personal Data : Information tied to individuals (e.g., shower preferences, family
+relationships, financial habits).
+−Sensitive Operational Data : Proprietary or security -related details (e.g., where
+money is stored, robot manufacturer’s algorithms).
+2.Granularity Levels :
+−Define how finely knowledge is broken down (e.g., "navigation" vs. "navigation in a
+cluttered living room at night").
+−Allow AI to tag data with metadata like source, context, and sensitivity level.
+3.Sharing Permissions Framework :
+−Who Can Access : Categories of recipients (e.g., robot owners, manufacturers, other
+robots, third parties, or public repositories).
+−What Can Be Shared : Rules for each knowledge type (e.g., general knowledge is
+public, personal data is owner -only).
+−When and How : Conditions for sharing (e.g., real -time vs. periodic uploads) and
+methods (e.g., encrypted APIs).
+4.Automated Classification Tools :
+−AI systems need built -in mechanisms to label data as it’s collected (e.g., "this is
+personal data" vs. "this is environmental data").
+−Include override options for human review when ambiguity arises.
+5.Legal and Ethical Guidelines :
+−Compliance with data protection laws (e.g., GDPR, CCPA) and ethical norms (e.g.,
+minimizing harm, respecting autonomy).
+Why Knowledge Classification Is Important  
+1.Privacy Protection: Without classification, a robot might inadvertently share sensitive
+data—like a homeowner’s shower schedule or gold storage location —with
+manufacturers or other robots, violating trust and legal boundaries.
+2.Security : Unclassified knowledge could expose vulnerabilities (e.g., a robot sharing a
+home’s layout with a third party that exploits it for theft).
+
+
+Recommendations on AI Action Plan   Tolibjon Mirz
+ 5 3. Efficiency : Classification ensures only relevant, shareable knowledge (e.g., flower 
+identification) is transmitted, avoiding data overload and reducing bandwidth or 
+processing demands.  
+4. Trust and Adoption : Users and regulators will only embrace knowledge -sharing AI if 
+they’re confident sensitive data stays protected. Missteps could derail public 
+acceptance.  
+5. Collaboration Without Compromise : Manufacturers and other robots can benefit 
+from general insights (e.g., obstacle avoidance) without accessing proprietary or 
+personal details, balancing cooperation with competition.  
+6. Ethical Integrity : Classifying knowledge helps enforce ethical boundaries, ensuring AI 
+doesn’t amplify biases or misuse private information.  
+Impacts of Knowledge Classification  
+1. Positive Impacts :  
+− Enhanced Collaboration : Robots and AI can share useful knowledge (e.g., flower 
+care tips) without compromising privacy, accelerating innovation.  
+− User Empowerment : Owners gain control over what their devices share, building 
+trust in AI technologies.  
+− Global Equity : Smaller players can access general knowledge pools, reducing the 
+dominance of tech giants.  
+− Regulatory Harmony : A unified classification system simplifies compliance across 
+borders, fostering international AI markets.  
+2. Economic Impacts :  
+− Cost Savings : Less redundant training and data processing as shareable knowledge 
+is cleanly separated.  
+− New Markets : Knowledge hubs could become a service industry, with firms 
+specializing in curating and distributing classified data.  
+3. Societal Impacts :  
+− Privacy Assurance : Reduced risk of personal data leaks, enhancing public 
+confidence.  
+− Ethical AI : Clear boundaries limit misuse, aligning AI with societal values.  
+4. Challenges and Risks :  
+− Implementation Costs : Retrofitting existing AI systems could be expensive and 
+slow.  
+− Misclassification : Errors in tagging (e.g., labeling personal data as general) could 
+lead to breaches, requiring robust safeguards.  
+− Resistance : Companies might resist sharing even general knowledge to protect 
+competitive edges, necessitating incentives.  
+ 
+
+
+Recommendations on AI Action Plan  Tolibjon Mirz
+6 3.Decision-Making Levels Classification
+A classification system for decision -making levels would categorize AI and robotic systems 
+based on their autonomy and responsibility in making decisions. Here’s a potential 
+framework:  
+1.Level 1: Reactive/Informative Systems
+−Description : AI that responds to queries or performs simple, pre -programmed tasks
+with no independent judgment (e.g., a chatbot answering “What’s the weather?” or a
+vacuum robot following a set path).
+−Autonomy : None—fully dependent on human input or fixed rules.
+−Examples : Virtual assistants, basic sensors.
+2.Level 2: Advisory Systems
+−Description : AI that analyzes data and provides recommendations, but humans
+make the final call (e.g., a medical AI suggesting a diagnosis or a navigation app
+proposing a route).
+−Autonomy : Limited—offers options but doesn’t act.
+−Examples : Decision -support tools, predictive maintenance systems.
+3.Level 3: Semi -Autonomous Systems
+−Description : AI that can execute decisions within defined parameters, with human
+oversight or veto power (e.g., a robot adjusting a thermostat based on preferences,
+or a self -driving car that stops if the driver intervenes).
+−Autonomy : Moderate —acts independently but under supervision.
+−Examples : Smart home devices, adaptive manufacturing robots.
+4.Level 4: Fully Autonomous Systems
+−Description : AI that makes and implements complex decisions without human
+intervention (e.g., self -driving cars navigating, or helper robots managing daily tasks).
+−Autonomy : High—operates independently in dynamic environments.
+−Examples : Autonomous vehicles, caregiving robots.
+Each level would come with distinct regulatory requirements —lighter for Level 1, stricter for 
+Level 4—reflecting the increasing stakes of autonomy.  
+Why Classifying Decision -Making Levels Is Important  
+1.Safety and Risk Management : Higher autonomy means greater potential for harm if
+something goes wrong (e.g., a self -driving car crash vs. a chatbot giving bad weather
+info). Classification ensures regulation matches risk.
+2.Accountability : Who’s responsible when decisions fail? Classification clarifies
+whether liability falls on developers, users, or the AI itself, especially as autonomy
+increases.
+
+
+Recommendations on AI Action Plan   Tolibjon Mirz
+ 7 3. Innovation Enablement : Lower -level systems (e.g., chatbots) don’t need heavy 
+oversight, freeing developers to experiment. Strict rules for Level 4 systems ensure 
+safety without stifling simpler innovations.  
+4. Public Trust : Clear distinctions reassure users that autonomous systems (e.g., 
+home robots) are rigorously tested, while less autonomous ones pose minimal risk.  
+5. Regulatory Efficiency : A one -size -fits-all approach overburdens simple AI and 
+under -regulates complex ones. Classification streamlines policy, targeting 
+resources where they’re needed most.  
+6. Ethical Alignment : Autonomous systems making life -altering decisions (e.g., 
+caregiving robots) need ethical scrutiny that simpler systems don’t, ensuring fairness 
+and transparency.  
+Effects of Decision -Making Levels Classification  
+1. Positive Effects:  
+− Safer Deployment : Rigorous testing for Level 4 systems (e.g., self -driving cars) 
+reduces accidents, while Level 1 innovations roll out quickly.  
+− Clear Accountability : If a Level 3 robot fails, liability rules tied to its autonomy level 
+streamline legal resolution.  
+− Boosted Innovation : Developers can focus on Level 1 -2 systems without regulatory 
+hurdles, while Level 4 advancements get the scrutiny they need.  
+− Consumer Confidence : Knowing a home robot’s autonomy level (e.g., Level 3 vs. 
+4) helps users trust and adopt it appropriately.  
+2. Economic Effects :  
+− Market Growth : Clear rules attract investment in autonomous tech, especially at 
+higher levels, by reducing uncertainty.  
+− Cost Distribution : Lower regulation for simpler systems cuts compliance costs, 
+while Level 4 developers bear justified expenses for safety.  
+3. Societal Effects :  
+− Ethical Safeguards : Level 4 systems undergo ethical vetting, reducing risks like 
+bias or unintended harm in caregiving or policing robots.  
+− Global Standards : Harmonized levels prevent a “race to the bottom” where lax 
+regions deploy unsafe autonomous AI.  
+4. Potential Challenges :  
+− Implementation Lag : Defining and testing levels globally could take years, delaying 
+benefits.  
+− Boundary Disputes : Some systems (e.g., a robot that advises and  acts) may blur 
+lines between levels, requiring arbitration.  
+− Resistance : High -level developers might lobby against strict rules, necessitating 
+strong policy resolve.  
+ 
+
+
+Recommendations on AI Action Plan  Tolibjon Mirz
+8 4.Restriction Standards for Robotic Systems
+Restriction standards would define a set of universal commands or signals that allow users 
+(or authorized entities) to limit or fully disable robotic functions in emergencies or suspected 
+breaches. These standards would ensure consistent, immediate control  across all robotic 
+systems, regardless of manufacturer, model, or purpose. Here’s what they might include:  
+1.Tiered Restriction Levels :
+−Level 1: Pause Data Collection
+▪Stops the robot from gathering or storing new information (e.g., cameras off,
+microphones muted).
+▪Use Case: Prevents data harvesting by hackers.
+−Level 2: Halt Data Sharing
+▪Blocks transmission of data to external parties (e.g., manufacturer servers,
+cloud systems).
+▪Use Case: Stops stolen data from leaving the device.
+−Level 3: Cease Motor Functions
+▪Disables physical actions (e.g., moving, lifting, cutting).
+▪Use Case: Prevents a hacked robot from causing harm or theft.
+−Level 4: Full Shutdown
+▪Powers down the robot completely, requiring manual restart or authentication
+to resume.
+▪Use Case: Total control in a confirmed breach.
+2.Universal Command Interface :
+−A standardized signal (e.g., voice command like “Robot Emergency Stop,” a button
+sequence, or a wireless protocol) that all robots recognize and obey instantly.
+−Must override manufacturer -specific controls to ensure consistency.
+3.Authentication Mechanism :
+−Commands restricted to authorized users (e.g., homeowner, police) via passwords,
+biometrics, or physical keys to prevent misuse by attackers.
+4.Fail -Safe Triggers :
+−Automatic activation of restrictions if tampering is detected (e.g., unusual network
+activity, unauthorized access attempts).
+5.Status Feedback :
+−Robots must confirm compliance (e.g., a light turns red, a voice says “Functions
+restricted”) so users know the command worked.
+Restriction Standards 
+1.Security Against Hacking : As robots proliferate in homes (e.g., cleaners,
+assistants), they become targets for hackers seeking data (e.g., home layouts) or
+control (e.g., theft). Standardized restrictions limit damage.
+2.User Empowerment : Without universal controls, users must wrestle with varied
+manuals or apps during a crisis —impractical and slow. Standards give immediate,
+intuitive authority.
+
+
+Recommendations on AI Action Plan   Tolibjon Mirz
+ 9 3. Public Safety : A hacked robot moving furniture or wielding tools could injure people 
+or damage property. Quick motor shutdown prevents escalation.  
+4. Cross -Manufacturer Consistency : In a multi -robot home (e.g., a Samsung vacuum, 
+a Google assistant, an iRobot mower), disparate controls create chaos. Standards 
+ensure uniformity.  
+5. Legal and Ethical Compliance : if robots are misused (e.g., for illegal surveillance), 
+standardized shutdowns help authorities intervene, aligning with laws and ethics.  
+6. Trust in Robotics : Knowing there’s a universal “off switch” reassures users, boosting 
+adoption of robotic tech.  
+Effects of Restriction Standards  
+1. Positive Effects :  
+o Enhanced Security : Immediate control over hacked robots limits theft, 
+surveillance, or harm.  
+o User Confidence : Knowing they can stop all robots with one command 
+encourages adoption.  
+o Market Stability : Manufacturers compete on features, not safety shortcuts, 
+as all meet the same baseline.  
+o Public Safety : Quick shutdowns in emergencies (e.g., a robot fire hazard) 
+save lives and property.  
+2. Economic Effects :  
+o Compliance Costs : Initial investment for manufacturers, offset by long -term 
+trust and sales.  
+o New Services : Security firms could offer restriction hubs or monitoring, 
+creating jobs.  
+3. Societal Effects :  
+o Reduced Crime : Hackers lose incentive if robots can be easily disabled.  
+o Ethical Assurance : Standards prevent robots from being unwitting tools in 
+illegal acts.  
+4. Challenges :  
+o Implementation Lag : Retrofitting millions of devices takes time and 
+coordination.  
+o Resistance : Manufacturers might balk at added costs or loss of proprietary 
+control, requiring strong policy push.  
+o False Positives : Overuse of restrictions (e.g., accidental shutdowns) could 
+disrupt normal use, needing careful design.  
+ 
+
+
+Recommendations on AI Action Plan  Tolibjon Mirz
+10 5.Commander Credibility Validation
+Commander credibility validation is a standard that requires robots to verify the authority of 
+a person or system issuing a command using secure methods like passwords, biometrics, 
+or digital certificates. It ensures that high -risk instructions —such as a s elf-driving car moving 
+or a military robot engaging —are executed only by credible sources, safeguarding against 
+unauthorized or malicious directives.  
+Why Commander Credibility Validation is important?  
+1.Safety : Unauthorized or inappropriate commands can lead to catastrophic
+outcomes. For example, a child telling a self -driving car to “drive off a bridge” or a
+home robot to “cut down a tree” could cause injury, death, or property damage.
+Validation ensures only le gitimate instructions are followed.
+2.Security : Hackers or malicious actors could exploit robots for theft, sabotage, or
+violence (e.g., a military robot receiving a fake order to attack). Credibility checks
+prevent unauthorized access from triggering harmful actions.
+3.Accountability : If a robot executes a destructive command (e.g., “destroy the TV”),
+it’s vital to trace whether the order came from an authorized user or an impostor.
+Validation ties actions to responsible parties.
+4.Ethical Integrity : Robots must avoid executing commands that violate ethical norms
+(e.g., a military robot targeting civilians). Validating the commander’s authority helps
+enforce ethical boundaries.
+5.Trust in Technology : People won’t adopt robots —whether in homes, cars, or
+defense—if they fear random or malicious commands could override their control.
+Credibility validation builds confidence.
+6.Prevention of Misuse : In scenarios like military robotics, unauthorized commands
+could escalate conflicts or destabilize regions. Validation ensures only legitimate
+authorities wield such power.
+Effects of Commander Credibility Validation  
+1.Effects for People :
+oIncreased Safety : Prevents accidents from unauthorized or reckless
+commands (e.g., a child’s prank crashing a car).
+oPrivacy Protection : Stops hackers from using robots to spy or steal, as only
+validated users can issue data -related commands.
+oEmpowerment : Users gain confidence knowing they —and not random
+actors—control their devices.
+oReduced Liability : If a robot rejects an invalid command, users aren’t blamed
+for unintended outcomes.
+2.Effects for Governments :
+oNational Security : Military robots with validation resist enemy hijacking,
+reducing risks of rogue operations.
+oRegulatory Clarity : Standardized protocols simplify oversight, ensuring all
+robots meet safety and security benchmarks.
+
+
+Recommendations on AI Action Plan   Tolibjon Mirz
+ 11 o Crime Reduction : Hackers lose the ability to exploit home or public robots for 
+theft or vandalism, easing law enforcement burdens.  
+o International Stability : Global standards prevent disparities where lax 
+validation in one country undermines others’ security.  
+3. Broader Societal Effects :  
+o Trust in Robotics : Widespread adoption accelerates as people feel secure 
+with validated systems.  
+o Ethical Governance : Validation aligns robots with authorized human 
+oversight, reducing autonomous overreach.  
+o Economic Growth : Secure, credible robots boost markets for home, 
+transport, and defense tech.  
+4. Potential Challenges :  
+o Implementation Costs : Adding validation systems raises production 
+expenses, though long -term safety justifies it.  
+o False Negatives : Overly strict validation might block legitimate commands 
+(e.g., in emergencies), requiring fallback options.  
+o Global Disparities : Countries with weaker tech infrastructure might lag, 
+needing support to comply.  
+ 
+6. Hotline “911” for Robots   
+As robots increasingly perform tasks in diverse environments, they are likely to encounter 
+illegal or suspicious activities. To address this, you propose an international standard 
+requiring robots to detect and report such incidents to local authorities vi a a universal 
+"hotline," regardless of their manufacturer, model, or location. For example, a robot made in 
+Japan with U.S. software operating in Germany should report crimes to German police. 
+Below, I will describe this proposed standard, explain its impo rtance, and outline how it 
+could be implemented.  
+Description of the Standard  
+The international standard would establish a unified protocol for robots to detect and report 
+illegal or suspicious activities to the appropriate regional authorities. It would consist of the 
+following key components:  
+1. Detection Criteria   
+o Robots would need clear, standardized guidelines on what activities to report. 
+These could include:  
+▪ Violent crimes : Assaults, robberies, or physical harm.  
+▪ Property crimes : Theft, vandalism, or break -ins.  
+▪ Suspicious behavior : Unattended bags, loitering in restricted areas, 
+or potential threats.  
+▪ Emergencies : Fires, accidents, or medical crises.  
+o The criteria would need to be adaptable to local laws and cultural norms, 
+ensuring relevance in different regions.  
+
+
+Recommendations on AI Action Plan  Tolibjon Mirz
+12 2.Reporting Protocol
+oA universal communication method would enable robots to report incidents
+efficiently. This could involve:
+▪A direct link  to local authorities (e.g., police or emergency services).
+▪A centralized hotline system  that identifies the robot’s location and
+routes the report to the correct jurisdiction.
+oReports would be transmitted in a standardized format, ensuring that
+authorities can interpret and respond to them, regardless of the robot’s origin.
+3.Localization and Jurisdiction
+oRobots would use technologies like GPS or pre -programmed regional
+databases to:
+▪Determine their exact location.
+▪Identify the appropriate local authority (e.g., German police for a robot
+in Germany).
+oThis ensures seamless reporting across borders, even for robots
+manufactured or programmed elsewhere.
+4.Data Privacy and Security
+oThe standard would mandate:
+▪Compliance with local privacy laws (e.g., GDPR in Europe).
+▪Encrypted, secure transmission of reports to prevent data breaches or
+misuse.
+oOnly relevant incident data would be shared, minimizing privacy risks.
+5.Manufacturer -Agnostic Design
+oThe protocol would apply to all robots —whether industrial, domestic, or
+mobile—ensuring universal compatibility.
+oManufacturers would integrate this capability into robots via hardware (e.g.,
+communication modules) or software updates.
+6.Legal and Ethical Framework
+oInternational agreements would define:
+▪The legal status of robot -generated reports (e.g., admissibility in court).
+▪Ethical guidelines to prevent overreach, such as excessive monitoring
+or false reporting.
+Why This Standard Is Important  
+1.Enhancing Public Safety
+oRobots in public spaces, homes, or workplaces could act as early warning
+systems, detecting crimes or emergencies that humans might miss. For
+instance, a delivery robot could spot a theft or a home assistant could detect
+a fire, alerting authorities prompt ly.
+2.Uniformity and Reliability
+oA single hotline and protocol ensure that all robots report incidents
+consistently, avoiding confusion from differing manufacturer systems. This
+reliability is critical for effective law enforcement response.
+3.Cross -Border Functionality
+
+
+Recommendations on AI Action Plan   Tolibjon Mirz
+ 13 o As robots operate globally, a standardized system allows them to report 
+crimes in the correct jurisdiction, supporting international crime prevention 
+efforts. This is vital in scenarios like transnational trafficking or disaster 
+response.  
+4. Building Trust and Accountability   
+o Requiring robots to report illegal activities demonstrates their role as active 
+contributors to safety, not just passive tools. This can increase public trust 
+and ensure robots aren’t inadvertently complicit in crimes through inaction.  
+An international standard for crime detection and reporting by robots would enable them to 
+contribute to public safety by alerting authorities to illegal or suspicious activities via a 
+universal hotline. It’s important for ensuring safety, consistency, and  trust as robots 
+become ubiquitous. Implementation would require global cooperation, advanced 
+technology, and careful planning to address legal, ethical, and practical challenges. Starting 
+with targeted applications —like security robots —and scaling up coul d make this vision a 
+reality, creating a safer world where robots actively support law enforcement.  
+ 
+Implementation of AI Regulation Standards  
+Technical Foundations  
+Implementing these six AI regulation standards requires a robust technical backbone to 
+ensure compatibility, security, and scalability across diverse robotic and AI systems 
+globally:  
+• Standardized Formats and Protocols : Knowledge Sharing Protocols demand 
+universal encoding systems (e.g., ONNX, symbolic graphs) and a common 
+“credibility handshake” for Commander Credibility Validation (e.g., cryptographic 
+signals). Restriction Standards rely on standardized signals (e.g.,  wireless protocols), 
+while Crime Detection and Reporting needs encrypted APIs for secure reporting. 
+These formats ensure interoperability across manufacturers and regions.  
+• AI and Sensor Integration : Knowledge Classification requires real -time 
+classification algorithms (e.g., NLP, pattern recognition), and Crime Detection needs 
+sensors (cameras, microphones) paired with AI (computer vision) to identify 
+incidents. Decision -Making Levels use embedded m etadata and benchmarks (e.g., 
+reaction time tests) to certify autonomy levels.  
+• Modularity and Retrofitting : Modular architectures (plug -and -play components) 
+support Knowledge Sharing, while retrofitting existing devices with firmware updates 
+or add -on modules ensures Restriction Standards and Credibility Validation reach 
+older systems.  
+• Testing and Simulation : Virtual sandboxes for Knowledge Sharing and standardized 
+benchmarks for Decision -Making Levels (e.g., ethical decision -making tests) provide 
+safe environments to validate functionality before deployment.  
+
+
+Recommendations on AI Action Plan  Tolibjon Mirz
+14 •Secure Infrastructure : Cloud -based “knowledge hubs” for Knowledge Sharing and
+Classification, secure databases for Credibility Validation, and communication
+channels (e.g., Wi -Fi, cellular) for Restriction Standards and Crime Reporting form
+the backbone for real -time operation s.
+Government and Policy  
+A coordinated policy framework is essential to enforce these standards globally, balancing 
+innovation with safety and ethical considerations:  
+•International Standards Bodies : Establish coalitions (e.g., ISO, IEEE, UN
+extensions) to define and maintain protocols for all six standards, involving
+stakeholders from industry, academia, and governments. Treaties or trade
+agreements (e.g., WTO rules) harmonize adoption across borders.
+•Regulatory Mandates : Governments mandate compliance, such as requiring
+Knowledge Classification for market entry, Decision -Making Level certifications, or
+Restriction Standards by a set date (e.g., 2030). Laws enforce Credibility Validation
+and Crime Reporting for all operat ional robots.
+•Incentives and Enforcement : Offer tax breaks, grants, or subsidies to encourage
+early adoption (e.g., Knowledge Sharing, Restriction Standards), while fines or bans
+penalize non -compliance (e.g., unclassified data breaches, uncertified autonomy
+levels). National agencies oversee au dits and certification.
+•Pilot Programs : Test standards in high -impact domains: autonomous vehicles
+(Knowledge Sharing, Decision -Making), smart homes (Knowledge Classification,
+Restriction), military robotics (Credibility Validation), and security settings (Crime
+Reporting). Scale globally base d on results.
+•Legal Frameworks : Develop IP models for Knowledge Sharing, privacy compliance
+(e.g., GDPR) for Classification and Crime Reporting, and liability rules tied to
+Decision -Making Levels and Credibility Validation.
+Challenges to Address  
+Implementing these standards faces technical, political, and practical hurdles that must be 
+proactively managed:  
+•Compatibility : Diverse AI architectures (e.g., transformers vs. rule -based systems)
+complicate Knowledge Sharing and Classification. Bridging these gaps requires
+flexible formats and middleware. Decision -Making Levels may blur across systems,
+needing clear arbitration.
+•Security Risks : Hacking threatens Restriction Standards (e.g., signal spoofing),
+Credibility Validation (e.g., spoofed credentials), and Crime Reporting (e.g., data
+breaches). Robust encryption and tamper -proof designs are critical.
+•Cost and Retrofitting : Adding sensors, modules, or updates for all standards
+burdens manufacturers, especially for older devices. Phased rollouts and subsidies
+can mitigate this, prioritizing high -risk domains first.
+
+
+Recommendations on AI Action Plan   Tolibjon Mirz
+ 15 • Global Disparities : Countries with weaker infrastructure may lag in adopting 
+technical requirements (e.g., Crime Reporting hotlines, Knowledge Hubs). 
+International support (e.g., funding, training) is needed to ensure equity.  
+• Resistance : Commercial entities may resist Knowledge Sharing (competitive 
+advantage) or strict Decision -Making regulations (cost). Incentives and strong policy 
+enforcement must balance these tensions.  
+ 
+Conclusion  
+This AI Regulation Action Plan  recomendations  outlines six standards to govern AI and 
+robotics responsibly: Knowledge Sharing Protocols, Knowledge Classification, Decision -
+Making Levels, Restriction Standards, Commander Credibility Validation, and Crime 
+Detection and Reporting. Together, they address  safety, privacy, security, and ethical 
+challenges, ensuring AI benefits humanity while minimizing risks.  
+Action is urgent. We recommend:  
+• Global Collaboration : Establish international bodies to refine and enforce 
+standards.  
+• Pilots : Test frameworks in key sectors like transportation and healthcare.  
+• Regulation : Mandate compliance through certification and audits.  
+• Engagement : Educate stakeholders to build trust and adoption.  
+By uniting policymakers, industry, and the public, we can create an AI ecosystem that is 
+safe, equitable, and innovative —a foundation for a future where technology uplifts all.  
+
+

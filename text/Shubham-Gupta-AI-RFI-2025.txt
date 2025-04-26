@@ -1,0 +1,511 @@
+1 
+ AI Action Plan  
+ 
+Submitted By  :Shubham Gupta  
+This AI Action Plan outlines clear policy actions across key areas – Model Development, 
+Cybersecurity, Data Privacy, Technical & Safety Standards, Research & Development,  and 
+International Collaboration  – and expands on additional priorities such as energy efficiency, 
+regulation & governance, national security, and education/workforce development. Each section 
+includes actionable steps, measurable targets where possible, and references to existing policies 
+and best practices to ensure the United States continues to “sustain and enhance America’s global 
+AI dominance” in a safe and trustworthy manner. Implementation will involve public-private 
+collaboration and a whole- of-government approach, with progress measured against clear 
+benchmarks.  
+Model Development  
+Develop cutting-edge AI models that advance American innovation and uphold our values. This 
+involves promoting robust model design, transparency, and evaluation practices that fuel 
+innovation without ideological bias, aligned with the directive to keep AI development free from 
+undue agendas. Key actions include:  
+• Incentivize Advanced AI Models:  Support the development of next-generation AI systems 
+(e.g. foundation models in language, vision, and science) by U.S. companies and 
+researchers. Set a target for U.S. innovators to produce at least 5 world-leading AI models 
+annually  in critical domains. Progress can be tracked via benchmark achievements (e.g. 
+improvements on language understanding or healthcare AI benchmarks by 10% each 
+year).  
+• Robust Testing & Transparency:  Require rigorous pre-release testing and risk assessment 
+for any high-impact AI model. Encourage use of independent “red teams” to stress-test 
+models for safety, fairness, and security issues before public deployment. For example, all 
+major AI models above a certain capability threshold should undergo external security 
+testing and publish transparency reports (such as Model Cards  detailing training data, 
+intended use, and limitations). Measurable outcome:  100% of federal AI projects and 90% 
+of industry-led frontier models report testing results and known risks publicly.  
+• Best Practices for Responsible AI:  Promote industry adoption of responsible AI best 
+practices. This includes sharing information on risk management and mitigation 
+techniques across the AI sector. Leading AI firms have voluntarily committed to share best 
+
+
+2 
+ practices and information on managing AI risks (e.g. addressing attempts to bypass 
+safeguards)– the government will build on these efforts by facilitating an AI Safety 
+Coalition to exchange information on emerging risks and solutions.  
+• Open Innovation & Interoperability:  Encourage open-source frameworks and standards 
+that allow interoperability of AI models and tools. Reducing barriers for startups and 
+researchers to build on prior models (while respecting IP and security) will spur 
+innovation. Goal:  Increase the number of openly available reference models or datasets 
+by 20% per year, enabling wider experimentation and lowering entry hurdles for new AI 
+developers.  
+Cybersecurity  
+Strengthen the cybersecurity of AI systems and leverage AI to enhance cyber defense. As AI 
+becomes ubiquitous, it creates new attack surfaces – a significant portion of organizations (over 
+40%) have already reported AI-related security incidents such as adversarial attacks on machine 
+learning models. This plan fortifies AI against threats and uses AI as a tool for security:  
+• Secure AI Systems Against Attacks:  Develop and disseminate guidelines for making AI 
+models resilient to adversarial attacks and data poisoning. By 2026, all federal AI systems 
+should implement adversarial robustness testing (e.g. testing against manipulated inputs) 
+as part of their development lifecycle. Industry will be encouraged to do the same, given 
+that 41% of organizations have faced AI security incidents (with threats like model 
+manipulation or data poisoning) . Measurable target:  Reduce known AI vulnerabilities 
+(such as successful adversarial attacks in evaluation tests) by 50% within 3 years across 
+critical systems.  
+• AI for Cyber Defense:  Invest in AI-driven cybersecurity tools to protect critical 
+infrastructure and networks. AI can help detect intrusions and anomalies faster than 
+traditional methods. The plan sets a goal to cut cybersecurity incident response times by 
+50%  using AI analytics and to deploy advanced AI monitoring on 100% of federal civilian 
+networks by 2026. Support public-private partnerships (e.g. with cybersecurity firms and 
+academia) to develop algorithms that identify and counter new threats in real-time.  
+• Protect AI Assets and IP:  Mandate strong cybersecurity and insider-threat safeguards for 
+sensitive AI assets like model weights and training data. AI models, especially large ones, 
+are strategic assets; losing them to theft or espionage would be a national security risk. 
+Companies are already committing to protect proprietary model weights and to enable 
+third-party vulnerability reporting– the U.S. government will reinforce this by establishing 
+a confidential AI incident reporting mechanism (possibly via the Cybersecurity and 
+Infrastructure Security Agency) so that AI developers can report breaches or model 
+
+
+3 
+ com promises anonymously and get support. Success will be measured by increased 
+reporting and reduction in successful theft attempts.  
+• Cybersecurity Workforce & Training:  Expand training for cybersecurity professionals in AI 
+and for AI practitioners in cybersecurity. The goal is to train at least 5,000 cybersecurity 
+experts in AI-specific security techniques (like securing ML pipelines) and vice versa, by 
+2028. This cross-training ensures a workforce capable of securing AI systems and using AI 
+to secure other systems. Agencies will also incorporate AI-security exercises (e.g. “red 
+team/blue team” drills with AI attack scenarios) into their regular cybersecurity training 
+by 2025.  
+Data Privacy and Security  
+Ensure AI development and deployment uphold rigorous data privacy standards and protect 
+sensitive information.  Building public trust is crucial for AI adoption. Key measures:  
+• Robust Privacy Standards for AI:  Require that AI systems, especially those handling 
+personal or sensitive data, adhere to privacy- by-design principles. Developers should 
+integrate techniques like data anonymization, encryption, and differential privacy during 
+model training to safeguard individual data. All federal AI projects involving personal data 
+will undergo Privacy Impact Assessments and implement recommended protections. 
+Target:  Achieve 100% compliance with privacy assessments for federal AI systems by 
+2026, and encourage the private sector to match this standard for high-risk AI 
+applications.  
+• Promote Privacy-Enhancing Technologies (PETs):  Accelerate the research and use of PETs 
+in AI, such as federated learning (which allows AI models to train on data without 
+centralizing it) and secure multi-party computation. These technologies enable AI 
+innovation while minimizing raw data sharing. The plan will launch grand challenges or 
+pilot programs (in domains like healthcare and finance) to apply PETs at scale, aiming for 
+a 50% increase in the use of PETs in government AI systems within 3 years.  
+• Data Security and Governance:  Establish clear data governance frameworks for AI. This 
+includes setting standards for data quality, integrity, and lineage (provenance) so that AI 
+models are trained on secure and reliable data. Agencies will inventory and securely open 
+up government data sets for AI R&D, with appropriate access controls and privacy 
+safeguards (aligning with the principle of enhancing access to high-quality data while 
+maintaining security). We will measure progress by the number of new high-value 
+government data sets released for AI use (with a goal of at least 20 major new datasets 
+per year) and zero significant data breaches from those resources.  
+
+
+4 
+ • Strengthen Public Trust and Transparency:  To address public concerns, mandate 
+transparency measures for AI systems that use personal data. For example, if an AI system 
+impacts an individual (in loan decisions, hiring, etc.), there should be an explanation or 
+documentation of how it uses data and protects privacy. Agencies will develop easy- to-
+understand user consent and notification guidelines for AI services. Industry will be 
+encouraged to adopt voluntary transparency labels for AI products, indicating if and how 
+personal data is used. Success will be reflected in improved public sentiment (as measured 
+by surveys) and trust in AI – e.g., increasing the percentage of Americans who trust AI with 
+their data from current low levels to over 50% in the next five years.  
+Technical and Safety Standards  
+Establish and champion technical standards and safety best practices to ensure AI systems are 
+reliable, safe, and compliant with American values. Standardizing how we evaluate and manage 
+AI risks will remove uncertainty for innovators while protecting the public. The U.S. will build on 
+frameworks like the NIST AI Risk Management Framework, which provides guidelines to 
+incorporate trustworthiness into AI design. Key initiatives:  
+• Adopt AI Risk Management Frameworks:  Encourage widespread adoption of NIST’s AI 
+Risk Management Framework (RMF) across federal agencies and industry. This voluntary 
+framework outlines characteristics of trustworthy AI (such as validity, security, 
+accountability, and transparency) and methods to minimize potential negative impacts on 
+civil liberties while maximizing benefits . Policy action:  All federal agencies will use the NIST 
+AI RMF (or a comparable standard) as guidance when procuring or deploying AI systems, 
+starting within one year. The private sector will be engaged through NIST-led workshops 
+to tailor the framework for different industries. Measurable outcome:  By 2025, 75% of 
+Fortune 500 companies developing AI will report alignment with NIST’s AI guidelines or 
+similar industry standards, up from an initial baseline.  
+• Develop and Update Safety Standards:  In collaboration with industry and international 
+bodies, accelerate the development of technical standards for AI safety, performance, and 
+interoperability. This includes standards for testing AI algorithms (for example, standard 
+benchmark suites for verifying an AI system’s accuracy and failure modes) and for 
+certifying AI in high-stakes uses (like healthcare, transportation). The plan calls for 
+publishing at least 3 new technical standards per year via organizations like IEEE, ISO/IEC 
+JTC1, or NIST’s collaborative programs. These standards will address things like AI system 
+robustness against attacks, explainability of AI decisions, and fail-safe mechanisms to 
+handle AI errors. Agencies like NIST will also work internationally to ensure U.S. 
+perspectives shape global standards (avoiding a patchwork of conflicting rules).  
+
+
+5 
+ • Certifi cation and Audit Mechanisms:  Establish mechanisms to test and certify AI systems 
+before wide deployment, especially in safety-critical sectors. For example, create an AI 
+Safety Certification Program (potentially via a public-private partnership) that can 
+evaluate AI models for known risks (bias, security holes, reliability) similar to how 
+Underwriters Laboratories certifies electrical appliances. Aim to have all high-risk AI 
+systems (as defined by usage in areas like medicine, automotive, etc.) undergo 
+independent assessment by 2026. Additionally, promote third-party algorithm audits and 
+red-team exercises as a norm. Outcome:  Reduced incidents of AI failures causing harm – 
+track and aim for a year-over-year decrease in reported AI malfunctions or accidents in 
+regulated sectors.  
+• Continuous Improvement & Research:  Support R&D in tools that improve AI safety (e.g., 
+AI systems that can explain their reasoning, techniques for better model validation). 
+Create feedback loops: incidents or near-misses involving AI will be analyzed by a national 
+AI Safety Board (or existing bodies like the National AI Advisory Committee) to recommend 
+new best practices or standards. Success in this area will be measured by the breadth of 
+safety measures implemented (for instance, an increase in the number of AI systems that 
+provide explanations for their outputs , or the proliferation of “ethical AI” reviews in 
+organizations). By continuously updating technical guidelines, the U.S. ensures AI systems 
+are not only innovative but also trustworthy by design, reinforcing public confidence and 
+international credibility.  
+Regulation and Governance  
+Develop a balanced regulatory and governance framework for AI that protects public interests 
+and national values without stifling innovation. The U.S. approach will be risk-based and flexible, 
+focusing on high-risk AI applications with appropriate oversight, while allowing space for 
+experimentation and growth in low-risk areas. This aligns with the Administration’s directive to 
+reduce regulatory barriers that unnecessarily hinder AI deployment, even as we enact sensible 
+guardrails for safety and ethics. Key steps:  
+• Light-Touch, Risk-Based Regulation:  Rather than broad one-size-fits-all rules, pursue a 
+regulatory strategy that distinguishes between uses of AI. High-risk AI systems (for 
+example, AI in medical diagnosis, autonomous vehicles, or loan decisions) should meet 
+stricter requirements for safety, fairness, and transparency. Lower-risk applications (like 
+AI in spam filtering or routine business analytics) would face minimal regulation, guided 
+by voluntary standards. This approach contrasts with more prescriptive regimes abroad – 
+e.g., the EU’s draft AI Act imposes stringent rules on “high-risk” AI systems – and is 
+intended to maintain U.S. competitiveness. Action:  Within 12 months, issue an AI 
+Governance Framework document that outlines categories of AI risk and recommended 
+
+
+6 
+ regu latory or oversight actions for each category. This will guide sector-specific regulators 
+(like FDA, DOT, FTC) in updating rules for AI in their domains.  
+• Update and Harmonize Laws:  Conduct a comprehensive review of existing laws and 
+regulations to identify those that impede AI development or are insufficient to address AI-
+driven outcomes. For example, assess whether current product liability laws adequately 
+cover harms caused by AI decisions, or if intellectual property rules need clarification for 
+AI-generated content. Remove or modernize regulations that unintentionally block AI 
+innovation (a direct mandate of the President’s AI leadership strategy), such as outdated 
+restrictions on data use, while filling gaps in consumer protection and anti-discrimination 
+enforcement as they relate to AI. Measurable goal:  Propose or enact updates to 100% of 
+relevant federal regulations identified as outdated or hindering AI within 2 years, and 
+develop new guidelines for at least 5 emerging AI issue areas (e.g. autonomous drones, AI 
+in HR, etc.).  
+• Regulatory Sandboxes and Pilots:  Encourage innovation-friendly governance by 
+establishing “regulatory sandboxes” for AI – controlled environments where companies 
+can pilot new AI technologies under the supervision of regulators without immediately 
+being subject to all regulations. These sandboxes (potentially hosted by agencies like the 
+FTC or sectoral regulators) will allow experimentation with, say, AI-driven healthcare 
+diagnostics or fintech algorithms, while ensuring oversight to manage risks. The plan aims 
+to launch sandbox programs in key sectors (health, finance, transportation) by next year, 
+with at least 20 companies/teams participating  and generating data to inform smarter 
+future regulations.  
+• Ethical Governance and Advisory Bodies:  Strengthen governance by incorporating ethical 
+oversight in AI development. Agencies and companies will be encouraged to form AI Ethics 
+Boards or advisory committees that include diverse stakeholders (technologists, ethicists, 
+community representatives). These bodies can review AI initiatives for compliance with 
+ethical guidelines and societal values. The federal government will support the ongoing 
+National AI Advisory Committee and similar bodies to continually advise on AI policy, 
+ensuring that governance keeps pace with technological advances. We will also promote 
+the OECD AI Principles – which urge that AI be innovative, trustworthy, and respect human 
+rights and democratic values – as a foundation for our governance approach. Success here 
+is measured by the establishment of clear, trusted processes for AI oversight (e.g., a 
+majority of federal agencies with significant AI projects have an internal AI governance 
+policy and advisory process by 2025) and by maintaining public trust in AI as usage 
+expands.  
+Research and Development (R&D)  
+
+
+7 
+ Expan d support for AI research and development to drive technological breakthroughs and 
+maintain America’s scientific and economic edge. The Federal Government will prioritize AI R&D 
+in budgets and programs, in line with the national AI strategy to invest in the “Industries of the 
+Future.” This echoes long-standing policy objectives to promote sustained AI R&D collaboration 
+across government, industry, and academia. Key components of this R&D agenda:  
+• Increase Federal R&D Investment:  While avoiding specific dollar amounts, the plan calls 
+for significantly ramping up AI R&D funding across agencies (NSF, DARPA, DOE, NIH, etc.). 
+The focus is on long-term, high-reward research that industry might not undertake alone. 
+Priority areas include fundamental AI algorithms, next-gen computing (quantum AI, 
+neuromorphic chips), and applied research in fields like healthcare, agriculture, climate, 
+and education. We set a quantifiable goal to double the number of federally funded AI 
+research projects (grants, programs) over the next 5 years. Agencies will report on the 
+number of AI projects and publications yearly to track progress. This fulfills the objective 
+of promoting sustained investment to generate AI breakthroughs that enhance economic 
+and national security.  
+• National AI Research Infrastructure:  Build out the infrastructure needed to support 
+cutting-edge AI R&D. This includes high-performance computing resources, cloud 
+platforms, and testbed environments accessible to researchers nationwide. For example, 
+the plan will establish at least three AI research testbeds (for instance, a large-scale 
+autonomous vehicle testing environment, a secure federated learning network for health 
+data, and a simulation platform for military AI testing). We will also make high-quality 
+federal datasets and tools more accessible for AI training – expanding initiatives like 
+Data.gov  and domain-specific data trusts. Measured outcome:  By 2026, the number of 
+researchers (academic or small-business) who access national AI research infrastructure 
+(computing or data) should increase by 50%, democratizing R&D beyond well-funded tech 
+labs.  
+• Public-Private Research Partnerships:  Encourage joint research endeavors between 
+government, academia, and industry. Building on the success of programs like the 
+National AI Research Institutes, the plan will create new AI innovation hubs that bring 
+together university researchers, startups, and industry partners to tackle grand challenges 
+(e.g., developing AI for clean energy or pandemic response). Our goal is to launch 8 new 
+multi-sector AI institutes or centers  within the next 2 years, a 50% increase in such 
+collaborative entities, covering all major regions of the country to spur local innovation 
+ecosystems. These partnerships will ensure that research results transition into practical 
+applications quickly, fueling economic growth.  
+
+
+8 
+ • Metrics and Evaluation of Progress:  Establish clear metrics for evaluating U.S. AI research 
+leadership. For instance, track the number of top-tier AI publications by U.S. researchers, 
+patents filed in AI, and international AI competitions won by U.S.-led teams. The plan 
+aspires to achieve a 10% year-over-year increase  in AI patent applications and keep the 
+U.S. at the forefront of key international AI benchmarks (e.g., ranking #1 in competitive 
+tasks like vision recognition, or maintaining the majority of the world’s most powerful AI 
+computing installations in the U.S.). These quantifiable indicators will help monitor the 
+effectiveness of R&D investments and signal areas needing more attention.  
+Energy Efficiency and Sustainability  
+Mitigate the energy consumption and environmental impact of AI systems as their use grows. 
+Advanced AI, especially large-scale model training and deployment, can be extremely energy-
+intensive – for example, training a single state- of-the-art model like GPT-3 (175 billion parameters) 
+consumed about 1,287 MWh of electricity and produced 500+ tons of CO2 emissions , comparable 
+to the annual emissions of 100+ cars. This action plan integrates energy efficiency as a core 
+priority to ensure AI advancements align with sustainability goals:  
+• Green AI Research Initiatives:  Invest in R&D for energy-efficient AI algorithms and 
+hardware. This means developing new techniques that require less computation (and thus 
+less power) for training and inference, as well as supporting the design of specialized AI 
+chips that are more power-efficient. Goals include achieving a 5-10x improvement in 
+energy efficiency for training large AI models by 2030 (for example, through better 
+algorithms or hardware accelerators). The government will launch programs (possibly via 
+DOE and NSF) focused on “Green AI” – measuring researchers not just on accuracy of 
+models, but also on energy usage. Measurable target:  Publish energy usage metrics with 
+all major federal AI research projects and incentivize projects that reduce compute 
+requirements for the same performance.  
+• Sustainable AI Infrastructure:  Promote the use of renewable energy and advanced 
+cooling in data centers that power AI computations. Federal data centers and facilities 
+used for AI will transition to clean energy sources in line with broader sustainability 
+commitments (e.g., aiming for 100% carbon-free power for these centers by 2030). For 
+the private sector, encourage and potentially offer fast-track permitting or recognition for 
+AI data centers that are energy-efficient (e.g., using state- of-the-art cooling, waste-heat 
+recovery) and predominantly powered by renewables. We will track the carbon footprint 
+of AI operations: the aim is to reduce CO2 emissions per AI training task by 50% over the 
+next five years, through efficiency gains and green energy adoption. Progress will be 
+reported via an annual AI Energy Impact Report . 
+
+
+9 
+ • Energy Transparency and Standards:  Develop standards and best practices for reporting 
+the energy usage and carbon impact of AI models. Just as we have model cards for 
+transparency about data and performance, we will promote “Energy Cards” or similar 
+documentation that companies and researchers can provide, detailing the compute 
+resources and electricity used for training major models. This transparency will raise 
+awareness and drive competition to optimize energy use. The plan will work with industry 
+and IEEE/ISO to standardize how AI energy consumption is measured. By 2025, our goal is 
+that all major AI research papers or product releases voluntarily include an energy impact 
+statement (with metrics like kilowatt-hours consumed). This echoes the growing 
+international call for sustainable AI practices  
+• AI for Climate Solutions:  Leverage AI as a tool to improve energy efficiency across the 
+economy. Support projects where AI optimizes power grids, improves energy storage, or 
+reduces waste in manufacturing and transportation. For example, set a target to deploy 
+AI-driven energy management systems in at least 50% of federal buildings  by 2026 to cut 
+energy use. By showing how AI can contribute to climate goals (e.g., smarter grids 
+reducing blackouts, AI in agriculture lowering water and fertilizer needs), we reinforce a 
+positive feedback loop: AI helping to solve the very environmental challenges it can 
+exacerbate. Success will be measured in tangible savings – for instance, petroleum use 
+reduced, megawatts saved, or emissions avoided due to AI-augmented optimizations, as 
+reported by agencies and partners.  
+National Security  
+Implement AI initiatives that bolster national security, defense, and protection of critical 
+technologies. The United States faces strategic competitors investing heavily in AI for military and 
+intelligence purposes. Maintaining leadership in AI is not just an economic issue but a national 
+security imperative. This plan focuses on both adopting AI for defense and shielding our AI 
+advantage from adversaries:  
+• AI Integration in Defense:  Rapidly expand the integration of AI systems into appropriate 
+defense and intelligence operations to enhance capabilities. This includes applications 
+such as AI-driven analysis of intelligence data, autonomous systems for surveillance or 
+logistical support, and decision-support tools for commanders. The Department of 
+Defense (DoD) should aim to be “ AI-ready” across core functions by 2025, as 
+recommended by the National Security Commission on AI . Action:  Scale up successful 
+pilot programs (e.g., predictive maintenance of equipment using AI, or cybersecurity 
+threat detection as mentioned earlier) into fully deployed solutions across the armed 
+services. Set a quantifiable objective that, within 3 years, at least 20 major defense 
+programs incorporate AI and demonstrate improved performance or cost savings (for 
+
+
+10 
+ examp le, reduced equipment downtime, faster intelligence processing). Regular progress 
+updates will be provided to ensure these integrations are on track.  
+• Protect Critical AI Technology:  Strengthen measures to prevent the transfer or theft of 
+critical U.S. AI technology and expertise to adversarial nations. As stated in prior policy, 
+maintaining our lead requires protecting the American AI technology base from 
+acquisition by strategic competitors and adversaries. The U.S. will use export controls, 
+investment screening (via CFIUS), and cyber protections to safeguard key assets like 
+advanced AI chips, sensitive datasets, and intellectual property. Policy actio n: Update 
+export control lists annually to cover the most advanced AI-related hardware and 
+algorithms, balancing security with the need for a robust domestic industry. Also, enhance 
+counter-intelligence efforts against industrial espionage targeting AI (e.g., espionage 
+directed at tech companies or research labs). A measurable outcome is reducing instances 
+of illicit technology transfer – tracked by enforcement actions or prevented attempts – 
+and ensuring no significant loss of cutting-edge AI source code or models to hostile actors.  
+• AI Workforce for National Security:  Dramatically expand AI training and recruitment 
+within national security agencies (DoD, intelligence community, homeland security). The 
+talent deficit in government is one of the greatest impediments to U.S. AI readiness. We 
+will create specialized Digital Corps or AI career tracks to attract AI engineers and scientists 
+into public service for national security. For example, establish an AI ROTC-style program: 
+fund students through AI-related degrees in exchange for a term of service in defense or 
+public sector roles. Aim to train at least 1,000 military and civilian personnel with 
+advanced AI skills (through programs like the DoD’s JAIC initiatives or scholarships) by 
+2025, and continue scaling that number. Additionally, promote exchange programs where 
+private sector AI experts can do short-term stints in government and vice versa, to cross-
+pollinate expertise.  
+International Collaboration  
+Engage with allies, partners, and multilateral forums to promote a global environment that 
+supports responsible AI innovation and upholds democratic values. AI is a frontier not bound by 
+national borders; U.S. leadership in AI must be exercised on the world stage to shape norms, 
+standards, and partnerships. In accordance with policy, the U.S. will “promote an international 
+environment that supports American AI research and innovation and opens markets for American 
+AI industries”, while also protecting our interests. Major strategies:  
+• Lead in Global AI Governance:  Take an active role in international forums setting the rules 
+and norms for AI. This includes the Global Partnership on AI (GPAI) – a multi-country 
+initiative to guide the responsible development and use of AI in line with human rights 
+
+
+11 
+ and democratic values– as well as engagement with the G7 (e.g. the G7’s AI code of 
+conduct), G20, and United Nations discussions on AI. The U.S. will use its influence to 
+champion frameworks that emphasize trustworthy and human-centric AI globally 
+(echoing principles similar to the OECD AI Principles). Action:  Within the next year, 
+convene a high-level Global Summit on AI with allies to align strategies on AI safety, trade, 
+and security (building on existing efforts). Measure progress by concrete outcomes such 
+as the adoption of international AI  standards that reflect U.S. input, or new agreements 
+on data sharing and research collaboration among like-minded nations.  
+• Harmonize Standards and Regulations:  Work with allied nations to align AI standards and 
+regulatory approaches to the extent possible, reducing fragmentation. Through bodies 
+like the OECD and bilateral engagements (e.g. the U.S.-EU Trade and Technology Council’ s 
+AI working group), promote interoperability – so an AI system developed in the U.S. can 
+be trusted and used in Europe, and vice versa, without compromising safety. For instance, 
+collaborate on defining what constitutes “high-risk AI” and appropriate safeguards, so that 
+democratic nations present a unified front versus more permissive or authoritarian 
+standards. A practical step is to develop joint testing methodologies or certification 
+processes recognized across countries (perhaps a mutual recognition agreement for AI 
+certifications). Success would be reflected in fewer conflicts between regulatory regimes 
+and in U.S. companies being able to export AI systems abroad seamlessly, bolstering our 
+industry.  
+• Joint Research and Talent Exchange:  Expand international collaboration in AI R&D. 
+Increase funding for joint research projects between U.S. labs and those in allied countries 
+(for example, co-funding AI research centers tackling global challenges like pandemic 
+prediction or climate modeling). Create talent exchange programs that allow top AI 
+researchers and students from partner countries to work/study in the U.S. and vice versa, 
+building a network of experts aligned with democratic values. For measurable impact, aim 
+to sponsor at least 100 international AI research fellows  in U.S. institutions each year and 
+double the number of collaborative publications between U.S. and allied researchers 
+within five years. Such collaboration will not only advance science but also strengthen 
+relationships and standardize ethical practices.  
+• Global Market Access and Competition:  Work diplomatically to open markets for U.S. AI 
+products and services. Push back against protectionism or unfair practices that could 
+exclude U.S. companies (for instance, advocating against unjustified data localization 
+requirements that hamper cloud-based AI services). Ensure that trade agreements include 
+provisions on digital trade and AI that favor free flow of data with trust (consistent with 
+privacy/security). Meanwhile, coordinate with allies on monitoring and responding to 
+
+
+12 
+ strategic competitors’ AI advancements – sharing assessments of adversaries’ capabilities 
+and coordinating export controls or sanctions when necessary to maintain a strategic 
+edge. The outcome should be a robust international market where U.S. AI firms can 
+compete and a coalition that collectively addresses any malicious uses of AI (such as 
+disinformation campaigns or AI-enabled cyber attacks from adversaries).  
+• Capacity Building for Developing Nations:  As part of international leadership, help build 
+AI capacity in developing countries in a way that aligns with responsible use. This can 
+involve providing technical assistance or tools for using AI in areas like agriculture, health, 
+and education. By offering partnership (instead of allowing adversarial powers to fill the 
+void with potentially exploitative tech), the U.S. can foster goodwill and ensure 
+international AI progress is inclusive. For example, extend initiatives like AI for Good and 
+work with organizations (World Bank, UNDP) to fund projects where U.S. tech companies 
+and universities mentor or support AI deployments for social good abroad. Over time, this 
+will enlarge the global community of AI practitioners who share our standards and bolster 
+U.S. soft power.  
+Education and Workforce Development  
+Cultivate a skilled AI workforce and educate citizens to thrive in an AI-driven economy. Talent is 
+the bedrock of AI leadership – the U.S. faces a global competition for AI expertise and must invest 
+in both developing home-grown talent and attracting the best minds worldwide. This section 
+outlines how we will expand education, training, and workforce initiatives to ensure a robust 
+pipeline of AI-capable workers, while also creating opportunities for all Americans to benefit from 
+the AI boom:  
+• K-12 and STEM Education Expansion:  Integrate computer science and AI concepts into K-
+12 curricula to spark interest and build foundational skills early. By 2026, the plan is for 
+every student to have access to some form of AI or computer science education before 
+graduating high school (whether through coursework, after-school programs, or online 
+modules). Federal grants and challenges (in line with the 2018 STEM Education Strategic 
+Plan) will support states in teacher training and curriculum development for AI literacy. 
+We also encourage project-based learning (e.g., students building simple AI projects) to 
+demystify AI. Metric:  Double the number of high schools offering AI-related courses or 
+clubs in the next three years, and increase enrollment in high school computer science 
+classes (as a proxy) significantly year-over-year.  
+• Higher Education and Vocational Training:  Greatly increase the output of AI specialists 
+from universities and training programs. As noted by the NSCAI, the number of U.S.-born 
+students pursuing advanced AI degrees has stagnated since 1990– we must reverse this 
+
+
+13 
+ trend. The plan will fund scholarships, fellowships, and targeted expansion of university 
+programs in AI, machine learning, and data science. For example, establish a “National AI 
+Fellowship” program to support an additional 500 domestic graduate students in AI-
+related fields annually (with a focus on diversity and underrepresented communities). 
+Partner with community colleges and technical schools to create AI certification and 
+apprenticeship programs for those not pursuing 4-year degrees, enabling pathways into 
+AI technician roles (e.g., data annotation specialists, AI model testers). Aim to retrain 
+workers from declining industries by enrolling at least 100,000 American workers in AI-
+skills training programs (online or in person) over five years. Outcome:  A 50% increase in 
+the number of AI and data science degrees/certificates awarded per year by 2028, helping 
+meet industry demand.  
+• Attract and Retain Global Talent:  Make the U.S. the most attractive destination for AI 
+researchers and engineers worldwide. Recognizing that cultivating domestic talent and 
+recruiting international talent are both essential to sustain U.S. AI leadership, we will 
+streamline immigration pathways for individuals with AI expertise. This includes 
+expanding the eligibility for O-1 visas  (for individuals with extraordinary ability) in AI fields, 
+clearing green card backlogs for STEM Ph.D. graduates, and potentially creating a new “AI 
+Talent Visa.” The goal is to retain top foreign AI students graduating from U.S. universities 
+(who might otherwise be recruited by competitors) and draw experienced professionals 
+from abroad. We aim for a net gain of AI talent each year (as measured by jobs filled and 
+companies started by immigrants in AI). Additionally, encourage U.S. AI experts working 
+overseas to return or collaborate through “brain circulation” initiatives (like jointly funded 
+labs).  
+• Lifelong Learning and AI Literacy:  Implement programs to ensure the broader U.S. 
+workforce can adapt alongside AI. This involves upskilling workers whose jobs may be 
+transformed by AI automation – offering short courses or micro-credentials in using AI 
+tools in one’s occupation (for example, AI in marketing, AI in manufacturing). The 
+Department of Labor, in partnership with industry, will launch an AI Skills Toolkit and 
+outreach campaign to help small businesses and workers understand how to leverage AI, 
+not fear it. We set a target to provide AI awareness or basic training to 500,000 workers 
+(across various sectors) within 5 years, which will be tracked by enrollment numbers in 
+such programs. Moreover, promote digital literacy for all citizens: libraries, community 
+centers, and online platforms will disseminate easy- to-understand materials about what 
+AI is and how it affects daily life, so the public can engage with AI knowledgeably. This will 
+help mitigate fear and misinformation, ensuring society at large is prepared for AI’ s 
+impacts on work and life. 
+
+
+14 
+ By executing these strategic actions in Model Development, Cybersecurity, Privacy, Standards, 
+R&D, Energy, Governance, National Security, International Collaboration, and 
+Education/Workforce, the United States will foster an environment where AI innovation 
+flourishes and American leadership is strengthened. This Action Plan emphasizes measurable 
+outcomes – from doubling research initiatives to increasing skilled graduates and reducing 
+security incidents – to track progress. It aligns with the Administration’s vision of removing 
+unnecessary obstacles for AI developers while instituting responsible guardrails for safety and 
+ethics. Through coordinated implementation (led by the White House’s science and security 
+advisors in partnership with agencies and stakeholders), we will ensure that the transformative 
+power of AI is harnessed in a manner that secures economic prosperity, upholds our democratic 
+values, and protects national security for years to come.  
+ 
+
+

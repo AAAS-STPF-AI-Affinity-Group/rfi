@@ -1,0 +1,215 @@
+1 
+ | 1979 Milky Way, Verona, WI 53593 | (608) 271 -9000 | FAX (608) 271 -7237 | www.epic.com  
+March 1 1, 2025  
+Faisal D'Souza , NITRD National Coordination Office  
+2415 Eisenhower Avenue  
+Alexandria, VA 22314  
+Submitted Electronically via ostp-ai-rfi@nitrd.gov  
+Re: AI Action Plan  
+Dear Mr. D’Souza,  
+Thank you for the opportunity to respond to your RFI regarding the Development of an 
+Artificial Intelligence (AI) Action Plan. Epic is a global healthcare technology company 
+that works with hospitals and clinics in every state across the nation, providing an 
+integrated software suite to manage both clinical care and back -office operations. Our 
+patient portal, MyChart, puts medical records in the pockets of patients, enhancing 
+medical literacy, communication, and wellness.  
+AI has the potential to ease administrative burdens for providers and help patients get 
+well faster. Epic has over 100 use cases of generative AI under active development, and 
+more than half of our customers are already using at least one generative AI feature. 
+However, there are several unnecessarily burdensome requirements in U.S. regulation 
+that have either held back our development efforts or made our customers question 
+their willingness to imple ment our features. In this response, we provide multiple 
+categories of reform for your consideration and provide specific examples within each.  
+We would be happy to answer any questions you may have and would welcome further 
+collaboration on the development of the AI Action Plan. This document is approved for 
+public dissemination. The document contains no business -proprietary or confidential 
+infor mation. Document contents may be reused by the government in developing the AI 
+Action Plan and associated documents without attribution.  
+Sincerely,  
+Ladd Wiley  
+Senior Vice President  for Global Corporate Affairs, Public Policy, and Advocacy  
+
+
+2 
+ | 1979 Milky Way, Verona, WI 53593 | (608) 271 -9000 | FAX (608) 271 -7237 | www.epic.com  
+Define AI Appropriately, and Don’t Regulate Beyond It  
+Government regulation of AI will be  most effective when it is grounded in an 
+understanding of how the technology works and what specific risks it presents. 
+Healthcare organizations have used rules -based, deterministic decision support to 
+improve patient care for decades. Predictive and gene rative AI are different, using 
+statistics and probability to draw inferences from data and recreate patterns in ways that 
+vary across organizations and even from one use to the next. AI -specific rules should 
+not inadvertently be applied to non -AI software.  
+It is important for the federal government to set the standard on core, definitional issues 
+in AI regulation because, at present, many states are taking matters into their own hands 
+and causing confusion. For example, the California Privacy Protection Agen cy (CPPA) 
+recently issued a proposed rule regulating, among other things, “automated decision -
+making technology (ADMT).” While California has adopted an industry -standard 
+definition of AI, the proposed rule defines ADMT broadly as “any technology that 
+processes personal information and uses computation to… substantially facilitate human 
+decision making.”1 This definition effectively encompasses all computer software. Even a 
+bipartisan group of California legislators submitted a public comment imploring the 
+CPPA to “scale back” the ADMT regulations and “avoid the general regulation of AI.”2 
+This example demonstrates the importance of adopting an appropriately narrow and 
+precise definition of AI. Other common, flawed definitions often invoke “human -like 
+capabilities,” which undermines regulatory certainty by introducing a moving target; 
+presum ably, at some point, simple pocket calculators were perceived as performing 
+tasks typically associated with human intelligence.  
+The federal definition of AI currently established in 15 USC § 9401(3) is an outdated 
+version of the definition drafted by the Organization for Economic Co -operation and 
+Development (OECD) and was put in force by the William M. (Mac) Thornberry National 
+Defense Authorization Act for Fiscal Year 2021 .3 The definition is decent, but OECD has 
+since improved it further , and an increasing number of jurisdictions (including several 
+U.S. states and other countries) have been adopting the new version . The federal 
+government could better promote interstate commerce by updating its definition of AI 
+to “a machine -based system that, for explicit or implicit objectives, infers, from the input 
+it receives, how to generate outputs such as predictions, content, recommendations, or 
+decisions that can infl uence physical or virtual environments.”  
+1 CPPA, “Proposed Regulations on CCPA Updates, Cybersecurity Audits, Risk Assessments, Automated Decisionmaking Technology 
+(ADMT), and Insurance Companies,” https://cppa.ca.gov/regulations/ccpa_updates.html  
+2 Assm. Jacqui Irwin, et. al, “Public Comment on ADMT Regulations,” https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:688f11b5 -
+83dc -48b3 -b066 -4a568b6e6b69  
+3 Congress.gov, “Public Law 116 -283—Jan. 1, 2021,” https://www.congress.gov/116/plaws/publ283/PLAW -116publ283.pdf  
+
+
+3 
+ | 1979 Milky Way, Verona, WI 53593 | (608) 271 -9000 | FAX (608) 271 -7237 | www.epic.com  
+It would be similarly helpful for the federal government to establish a risk stratification 
+of AI that other parties could adopt and follow. For example, AI that supports human 
+decision -making but leaves the human ultimately in control of any outcome is 
+fundamentally lower risk than completely automated decision -making. Similarly, AI that 
+is used to determine insurance premiums is higher risk than AI that makes shopping 
+recommendations. However, such a risk stratification must not conflate sector with use 
+case. Healthcare, for example, is of critical importance to the wellbeing of people and 
+society, but not all applications of AI within healthcare present the same risk. AI that 
+helps clinicians take notes during appointments so they can focus their attentio n on the 
+patient in front of them is lower risk than AI that develops complex treatment plans.  
+Ensure Executive Agencies Do Not Interfere with the Practice of Medicine  
+In one notable case where Congress has asserted itself on AI in healthcare, the Food and 
+Drug Administration (FDA) seems to be actively thwarting Congressional intent. As part 
+of the 21st Century Cures Act of 2016, Congress exempted clinical decision support 
+(CDS) software that meets certain cr iteria from regulation as a medical device. However, 
+in September 2022, FDA issued final guidance that narrows the exemption considerably. 
+For example, FDA asserts that if an advisory makes a single suggestion instead of 
+providing a list of options, it fai ls the exemption criterion requiring CDS to be “for the 
+purpose of supporting or providing recommendations,” relying on the argument that 
+the pluralized word “recommendations” is not inclusive of its singular form.  
+This questionable interpretation of statute threatens to sweep a tremendous number of 
+CDS tools into FDA’s oversight. Among just Epic’s U.S. customers using a specific CDS 
+feature known as OurPractice Advisories, there are more than 150,000 unique advisori es 
+in active use. Many advisories take the form of a “single suggested next step” because a 
+team of clinical leaders at the healthcare organization has concluded a clinician should 
+consider a specific action in that specific clinical situation. FDA has lim ited resources and 
+is unlikely to be prepared for this kind of volume of new “medical devices.”  
+In November 2024, members of Congress from both parties submitted a letter to FDA 
+indicating that “FDA’s guidance does not reflect its typical risk -based approach or 
+consider the significant clinical oversight under which these tools are configured.”4 In a 
+February 2025 article in JAMA Health Forum, Scott Gottlieb, former FDA commissioner, 
+argued that “the current regulatory posture of the FDA for classifying tools with… 
+4 Healthcare IT News, “Lawmakers ask CDRH to revisit its CDS guidance,” https://www.healthcareitnews.com/news/lawmakers -ask-
+cdrh-revisit -its-cds-guidance  
+
+
+4 
+ | 1979 Milky Way, Verona, WI 53593 | (608) 271 -9000 | FAX (608) 271 -7237 | www.epic.com  
+advanced analytical capabilities as medical devices could impede or even block their 
+integration into [electronic medical record] systems.”5 
+FDA provided some clarification via FAQs in December 2024, but did not resolve the 
+fundamental concerns about the CDS exemption. It would be appropriate for FDA to 
+completely rescind its CDS final guidance and rewrite it, adhering more closely to the 
+Congr essional intent of the 21st Century Cures Act and promoting safety in healthcare in 
+a way that does not stymie the integration of AI into this important sector.  
+Align Policy with the Current State of AI Capabilities  
+The significant leap forward in AI capabilities manifested by the introduction of ChatGPT 
+in late 2022 merits a reevaluation of AI regulations that had been in place before that 
+time. Certain regulations may no longer be as appropriate or relevant as they once were.  
+For example, the 2016 rule implementing section 1557 of the Patient Protection and 
+Affordable Care Act (ACA), which prohibits discrimination in health programs and 
+activities, included a requirement regarding meaningful access for individuals with 
+limited English proficiency that a covered entity “use a qualified [human] translator 
+when translating written content in paper or electronic form.” Such a requirement may 
+well have been appropriate in 2016, when the capabilities of AI were much more limited. 
+Toda y, however, large language models have been shown to perform translation, even 
+of complex and highly technical content, excellently.  
+Since 2016, several subsequent rules have revised the implementation of section 1557 of 
+the ACA, but the concept of using only humans for language translation has persisted 
+through each iteration. Most recently, the 2024 rule introduced 45 CFR § 92.201(c)( 3), 
+which stipulates that “if a covered entity uses machine translation when the underlying 
+text is critical to the rights, benefits, or meaningful access of an individual with limited 
+English proficiency, when accuracy is essential, or when the source doc uments or 
+materials contain complex, non -literal or technical language, the translation must be 
+reviewed by a qualified human translator.”6 
+While this revision represents clear progress in that it acknowledges the existence of 
+machine translation for the first time, the requirement prevents, in effect, any 
+widespread adoption of AI translation services. If a healthcare provider is going to hav e 
+to compensate a human translator anyway, there will be little justification for also 
+5 JAMA, “New FDA Policies Could Limit the Full Value of AI in Medicine,” https://jamanetwork.com/journals/jama -health -
+forum/fullarticle/2830189  
+6 Code of Federal Regulations, “45 CFR § 92.201(c)(3),” https://www.ecfr.gov/current/title -45/subtitle -A/subchapter -A/part -
+92/subpart -C/section -92.201  
+
+
+5 
+ | 1979 Milky Way, Verona, WI 53593 | (608) 271 -9000 | FAX (608) 271 -7237 | www.epic.com  
+investing in AI services to accomplish the same task. Finding a way to keep humans in 
+the loop without undermining the value proposition of AI translation would represent 
+meaningful progress. For example, it may now be more appropriate to require that 
+qualified human translators provide initial validation of machine translation tools but 
+then not necessarily be involved in each individual subsequent translation activity.  
+It is also worth noting that the concept of “translation” should not be limited to 
+converting text from one language to another. Another common barrier to access for 
+patients from all language backgrounds is clinical instructions filled with medical jargon  
+that a specific patient may not understand. Using AI to “translate” such text to an 
+appropriate reading level for the patient could significantly improve adherence, which 
+could in turn greatly contribute to overall population health.  
+Focus On and Provide Support for Local Validation of AI Features  
+Over the past few years, a key focus for AI policymakers has been on how to validate the 
+performance of AI. The training process used for modern AI introduces the potential for 
+bias and discrimination, and the probabilistic nature of AI’s output makes it particularly 
+tricky to pinpoint the future behavior of an AI feature with confidence.  
+In the healthcare space, groups like the Coalition for Health AI (CHAI) proposed a 
+nationwide network of “assurance labs” to perform premarket validation of AI tools. 
+While outsourcing this work to the private sector likely would be more efficient than a 
+centralized FDA premarket review process, any mandate of such a  structure would  
+represent a significant expansion of the scope of healthcare tools subject to premarket 
+approval. (Importantly, using AI for health does not inherently make it a medical device. 
+Designating something as a medical device reflects its intended use; AI, on the other 
+hand, is a technology that may be applied to accomplish  such a use. ) 
+Not only is premarket approval a framework that should be used only when truly 
+necessary (because it can add significant  delays to the time to market for innovative 
+applications of technology), but also it would not be particularly well -suited to the 
+specific challenges of validating AI. AI performance is sensitive to factors such as patient 
+acuity mix and even the workflow  into which it is integrated. For example, organizations 
+with dedicated remote monitoring teams for conditions such as sepsis or deterioration 
+may set the alert threshold on a predictive model much lower than those who can only 
+rely on frontline nurses man aging a large caseload of patients. While such adjustments 
+make perfect sense considering workflow, they fundamentally alter the “performance” of 
+the AI models on paper, shifting the proportion of false positives and false negatives.  
+
+
+6 
+ | 1979 Milky Way, Verona, WI 53593 | (608) 271 -9000 | FAX (608) 271 -7237 | www.epic.com  
+As a result, the exact same AI  product that functions well in an academic medical center 
+in New Haven, CT may not be appropriate for a critical access hospital in rural Iowa . 
+Furthermore, some AI models continue to learn and evolve over time, meaning that 
+premarket validation will always be out of date.  Thus, while baseline performance testing 
+by AI developers is always  important, ongoing post -deployment monitoring by 
+deployers  (e.g., healthcare delivery organizations)  may be even more important.  
+The challenge for post -deployment validation, in healthcare at least, is that small or rural  
+healthcare organizations often struggle to afford the necessary data science resources 
+and expertise to perform  effective monitoring. Yet because AI performance will vary 
+from organization to organization, post -deployment validation is not something that 
+can be outsourced in practice. Without appropriate support for “local validation” 
+activities, AI could widen, rather than close,  the digital divide in healthcare.  
+AI developers can help; in 2024, for example, Epic released an open -source tool called 
+the AI Trust and Assurance Suite that automates the most resource -intensive aspects of 
+post-deployment monitoring. The suite's real -time evaluations use the deployer's local 
+data and workflows and can monitor both Epic and third -party AI features, using the 
+deployer's choice of evaluation  methodologies.  
+However, e ven with access to the Suite , many lower -resourced healthcare organizations  
+say they don't have the time and staffing required to engage in local validation  and, 
+thus, to fully embrace AI. One opportunity for government investment in AI worth 
+considering would be a grant program for small and rural hospitals and clinics to enable 
+proper local validation and post -deployment monitoring of AI performance.  
+
+

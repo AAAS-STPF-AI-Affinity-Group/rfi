@@ -1,0 +1,257 @@
+Ensuring US Leadership and Security in AI through 
+Neuromorphic and Photonic Implementations of Artificial 
+Intelligence  
+Wade Tr appe  
+Mable Fok  
+Paul Prucnal  
+This doc ument is approved for public dissemination. The document contains no 
+business -proprietary or confidential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution.  
+Note: This document is being submitted by three individuals as a submission from 
+private citizen s. The views and positions presented in this document are those of the 
+authors alone, and do not represent the views or official positions of the respective employing institutions.  
+
+
+Introduction 
+The Office of Science and Technology Policy (OSTP) has issued a Request for 
+Information on the Development of an Artificial Intelligence (AI) Action Plan. We anticipate this 
+RFI will receive numerous submissions that explor e strategies to advanc e mainstream artificial 
+intelligence and machine learning  approaches  that promise to grow a national workforce 
+trained in AI, and that propose the deploy ment  of a wide array of infrastructure investments to 
+maintain the US’s leadership in AI. The purpose of our submission , which represents the view 
+of three private citizens, is to present two important problems  that might not be adequately 
+represented in other submissions, as well as two separate technologies that the authors of this 
+response believe deserve a place in the nation’s AI toolbox. Lastly, we pull these two 
+technologies together into a final opportunity for the AI Action Plan that aims to combine both 
+of their advantages.   
+The two concerns  that we believe need to be addressed are: 
+•The extremely large amount of computation and therefore energy needed for the
+most powerful forms of AI,
+•The national security risks associated with AI implementations reliant on electronic
+components, such as semiconductor -based computing.
+To address these two unique challenges, we believe that there are two distinct technologies 
+that the nation should pursue in parallel with advancing AI’s current technological trends. Specifically, we believe that neuromorphic computing, and implementations of AI primitives 
+and full y operational AI algorithms in photonic circuitry are cutting- edge technologies that the 
+US must support in the future.    
+This document will provide a brief overview of the two challenges and then identify the 
+opportunities that can arise from investing in neuromorphic computing and photonic AI/ML 
+implementations.  For both approaches , we will present recommendations on how the nation 
+can advance the development of these complementary technologies.   
+Computing , Energy  and National Security Risks  
+The abundance of data being collected and made available to the wide array of algorithms  
+that we will rely upon in our  daily living will increase rapidly, especially as we continue to deploy 
+more sensors and actuators in our world in an effort to improve how our nation operates . 
+Unfortunately, the sheer volume of data and increasingly prohibitive amount of computing 
+needed for training extremely  large- scale  AI/ML  algorithms will eventually  place signiﬁcant  stress 
+upon both the nation’s computational  infrastructure, as well as the nation’s power  grid. The US 
+has witnessed several noteworthy failures in its power  grid infrastructure. The 2003 blackout, 
+which hit the Northeast and Midwest regions , was attributed to software malfunctions and high 
+demand, placin g catastrophic stress on the nation’s aging electricity grid. Another set of 
+examples were the rolling blackouts in California in 2006 and 2020 , which  resulted from surges 
+in demand driven by high summer temperatures. Taken together, the power  grid failures that 
+the nation has experienced indicate that the US  needs to make every  effort to reduce the stress 
+
+
+that a projected surge in AI computations c ould place upon our power grid. Meanwhile, t he 
+nation must also invest in a next -generation power grid that can reliably meet the surging 
+electricity demand driven by growing consumer usage and the rapid deployment of nation-
+scale data and computational centers.  
+While a nationwide increase in computing could place significant stress upon our nation’s 
+power delivery infrastructure, and lead to increases in utility prices for the average American 
+citizen, there is a separate risk that the nation faces if we become entirely reliant on computing 
+based on conventional semiconductor electronics. Electronic components emit electromagnetic emanations that can be subject to various forms of eavesdropping and electronic espionage 
+directed against our nation’s computing and telecommunications infrastructure. As more of our 
+nation’s important decisions and analyses utilize AI algorithms, the corresponding communication and computational infrastructure must be protected from nation- state 
+adversaries that monitor the US’s innovation and business operations. Further, electronics -
+based computing is also fragile and susceptible to intentional use of electromagnetics that can disrupt and damage our computing investments. An adversarial application of high- power  
+electromagnetic emissions  (EMPs) has the potential to induce currents in circuitry that exceed 
+the tolerance levels of electronic components. This could result in the failure of our nation's 
+investments in high- performance computational infrastructure for artificial intelligence.  
+Opportunity-1: Invest in Neuromorphic AI 
+The predominant approaches to AI algorithms, such as large language models  and 
+convolutional neural networks , require enormous computing power. Eventually, in a future where 
+the computing requirements for conventional mainstream AI continue  to grow, there will be many 
+applications that cannot utilize computationally expensive, data -rich approaches to AI . This will 
+leave the US behind in developing the full spectrum of AI solutions that our nation requires . 
+Therefore, there is an urgent need to develop alternative versions of AI/ML that achieve significant improvements in algorithmic efficiency, dramatically reduce energy requirements, and 
+which could maintain US advancement across the full spectrum of data- driven AI applications . 
+One philosophical view for how advancements in AI development has progressed in the 
+past decade is that researchers have been focused on developing bigger and better algorithms 
+while throwing larger and faster computation resources at the problem. Although this has led to 
+many noteworthy successes, it also fails to leverage the evolutionary insights that nature provides in terms of how we could design better and naturally efficient  approaches to 
+implementing artificial intelligence and machine learning algorithms.  
+The human brain is a highly advanced “biological computer” that is also energy -efficient: it 
+is able to perform complex calculations while consuming less power than a conventional light 
+bulb. It achieves this through an optimized combination of sparse activation, parallel processing, 
+adaptability, and analog- style computation. These advantages have led to an alternate approach 
+to computing, known as neuromorphic  systems, which use hardware and algorithms that 
+emulate human neurons and their known advantages. Neuromorphic computation could lead to  
+a significant advancement in AI by making it more energy -efficient and suitable for solving 
+problems that require real -time intelligence. In short, neuromorphic computing offers  a huge 
+advantage for the US to invest in.  
+
+
+The current generation of neuromorphic chips, as illustrated by Intel’s Loihi and IBM’s 
+TrueNorth, are based on spiking neural networks, which only activate the neurons when needed. 
+This fact implies that unnecessary calculations are not performed, and would mean that AI based 
+on neuromorphic computing can be orders of magnitude more scalable. One approach to neuromorphic computing uses s pike-timing -dependent plasticity (STDP) , a biological learning 
+rule, which is a promising candidate for next -generation AI models because of its energy -
+efficiency  and its ability to support real -time learning in future AI implementations.  
+Recommendat ions for a National AI Action Plan:  
+•Launch Milestone- oriented National Challenges:  To support rapid development and
+breakthroughs in neuromorphic AI, we believe the nation should build upon the model of
+DARPA Grand Challenges and hold contests with specific high- stretch performance
+milestones  (e.g. energy efficiency or reduction in computation for a benchmark task). The
+prizes should incentivize taking bold risks for innovation.
+•Launch Prototyp e-oriented National Challenges:  A similar approach to the milestone
+challenges, but the focus here would be on giving a set of prototype goals, such as alifelike robot that uses neuromorphic computing to learn from its sensor data and
+demonstrates improved performance over time.
+•Prepare Adjacent Industries for Rapid Integration:  There are many application areas that
+could benefit from neuromorphic AI advances, and the associated industries must beprepared to quickly integrate. Having s trategies ready that encourage adoption, such as:
+oCreating t ax-incentives for adopting new neuromorphic  technologies ;
+oReduc ing licensing charges for initial product  market launch;
+oHosting industry -day events that facilitate the connection between vendors with
+problems and vendors with solutions
+would kick start industrial growth. 
+•Defense Integration Plan: There are many applications in the realm of national defense
+that could benefit from neuromorphic computing, such as advancing human- computer
+interfaces, robotics and human- assist augmentation. The nation should develop a
+separate action plan for how different AI technologies can be integrated into DoD and
+NASA applications.
+•Public -Private Think Tanks for AI:  To ensure that the nation has the best minds advancing
+neuromorphic computing approaches to AI, we would recommend the nation developing
+a “think tank” that is focused on supporting a broad array of approaches to AI, such as
+neuromorphic computing, privac y-preserving AI, and AI on quantum computing. The US
+needs to be ready to maintain research across the full spectrum of AI approaches to
+ensure it has a full repertoire for national competitiveness.
+Opportunity- 2: Invest in Photonic Implementations of AI  
+There are fundamental hurdles impeding the continued success of electronic -based 
+computing for large- scale AI. Electronic circuitry built upon semiconductor technology is energy 
+inefficient due to the inherent resistance- induced heat ing, architectural bottlenecks, and current 
+leakage in the chips. As a result, AI implementations reliant on electronics will always carry the baggage of energy inefficiency and heat production. Other issues, such as the increase in power 
+
+
+densities for nanometer scale electronics and quantum tunneling point to limits in what can be 
+accomplished through electronics, and will require expensive and energy -intense approaches to 
+cooling AI computational centers. We believe that the nation needs to strongly invest in alternative computing paradigms that can minimize the long- horizon burden upon our nation’s 
+energy infrastructure.  
+Computing based upon optical signals, or photonic computing, employs light signals as the 
+basis for computation and offers a more natural approach to reducing energy than is possible 
+with electronics. When transmitted through appropriate photonic materials, photons experience 
+almost no resistance and thereby produce significantly less heat and energy loss than 
+electronics.  This fact also implies that photonic computing, when fully developed, can operate 
+faster than electronics since photons have only weak interactions with their media, while 
+electronic signals inherently experience interference in semiconductor materials. Further, light -
+based computation can utilize multiple wavelengths to achieve natural levels of parallelism, 
+which contrasts with  the serial nature of digital electronics.  To summarize,  strictly in terms of 
+architectural advantages for computing,  photonic computing has the following advantages over 
+conventional electronics:  
+•Generates minimal heat,
+•Easier thermal maintenance,
+•Higher data rates,
+•Easily parallelized.
+Another significant advantage is that photonic implementations for computing would not suffer 
+from the national security risks associated with electromagnetic phenomena:   
+•Photonic circuits generate almost no electromagnetic emanations, which makes themideal for secure communications since they are essentially unsusceptible to Van Eckphreaking and other forms of electromagnetic eavesdropping.
+•Photonic circuits are built using dielectric materials, which makes them inherently lesssusceptible to inducing large current spikes that are associated with electromagneticpulses.
+Consequently, photonic circuits offer increased resilience to eavesdropping and denial of service threats, making them an ideal platform for building new and secure AI algorithms.   
+Recommendat ions for a National AI Action Plan:  
+•Support Research and Development in Miniaturization:  Photonic circuitry will benefit from
+advancements in miniaturization, and ultimately lead to reduced power requirements,lower manufacturing costs, and easier integration into applications.
+•Address National Photonic Supply Chain Constraints : Photonic materials depend on rare
+earth materials and have high- purity requirements, which has led to challenges in the US
+supply chain for photonics. The US must ensure it has a complete photonics supply chain
+that is robust to geopolitical constraints.
+•Invest in Creating a Photonic Ecosystem:  Unlike the semiconductor  industry, the photonic
+industry has  yet to achieve the benefit of economies of scale. Investments in regional
+photonic innovation hubs, as well as in a manufacturing sector in support of photonics ,
+would allow photonic AI implementations to move forward more easily .
+•Establish Software Industry for Photonic AI:  There is an urgent need to develop a
+software industry that can support the implementation of AI algorithms using photonic
+
+
+devices, much like the software industry supports AI implementation on semiconductor 
+computers.  
+•Host National Competition for Data Loading and Access:  One challenge facing AI
+implementations, and particularly on photonic circuitry, is the disparity between
+processing speed and importing data from memory registers. The government should
+invest in innovative photonic solutions like architectures that co-l ocate memory with
+photonics, and optical memory  technologies such as holographic data storage.
+Opportunity- 3: Photonic Neuromorphic AI 
+Neuromorphic approaches to implementing AI provide a technological path to achieving 
+reductions in computational requirements, making it more energy -efficient and suitable for 
+solving problems that require real -time intelligence. Photonic computing also provides a path to 
+achieving reduction in heat and energy loss, provides unique security benefits, supports parallelized algorithm implementation, and ultimately faster computations.  Pulling both 
+technologies together into a single, unified approach to AI offers unique advantages that should 
+be considered as part of the national AI Action Plan.  
+Neuromorphic photonic computing (NPC) explores both ultra- efficient brain- inspired 
+photonic neural networks and ultrafast photonic hardware for computationally demanding machine learning (ML) techniques in modern artificial intelligence (AI). In the past decade, NPC has made a successful transition from free- space optics and fiber optics and discrete optical 
+components to employing silicon -photonics -based integrated hardware. The community 
+developing NPC solutions is primed and ready to embrace further technology breakthroughs 
+and innovations in silicon photonic foundry platforms, photonic neural network microarchitectures, and more. It is expected that the further research and technology development of NPC in the next 5- 10 years will result in transformative impacts on computing 
+and solve many  challenging problems in important applications in robotics, edge computing, 
+physical system simulations, computer vision and avionics . 
+With silicon photonics, NPC leverages some of the ideal features of photonics, such as 
+parallelism with multiple wavelengths, ultra- low latency with time -of-flight processing, high 
+bandwidth with lightwave, and nonlinear dynamics to support scalable integration of complex 
+photonic neural networks. The fundamental computing node of an NPC network is the photonic 
+neuron. Each photonic neuron's key functions include independent weighting of multiple inputs, summation, and nonlinear transformation. These operations can be mapped and implemented 
+on a silicon photonic integrated circuit using microring resonators (MRRs). Wavelength division 
+multiplexing (WDM) enables lightwave signals at different wavelengths to share the same transmission medium (such as optical fiber or waveguide), and is a key commercial technology 
+used in tele- communication networks. In a WDM -compatible photonic neural network, each of 
+the input signal s (data) are mapped to different wavelengths for wavelength- dependent 
+weighting and parallel detection of multiple wavelengths for summation.  
+While developing photonic neural networks is an initial component, integrating these 
+optical neurons together into a fully working system requires that additional technological hurdles 
+are overcome.  Some of these challenges include:  
+•Neuromorphic AI algorithms implement real -valued calculations, which introduce
+complexity in implementation, as well as when storing such calculations in optical memory
+
+
+architectures.  
+•Algorithmic feedback, which is a foundational primitive to achieving adaptation in AI
+implementations, requires timing and synchronization to avoid instability in photonic
+implementations, thus requiring more careful engineering and design.
+•Networks of photonic neurons introduce quadratic scalability challenges,  leading to
+challenges in preventing crosstalk in physical layouts, as well as challenges inwavelength assignments for large neural networks.
+As a result, neuromorphic photonic circuits introduce additional technical challenges when 
+compared to either neuromorphic computing or photonic computing. These challenges, though, deserve to be pursued and overcome as part of the national AI Action Plan because the 
+advantages of AI implemented through neuromorphic photonic circuits would provide the US a 
+unique competitive edge in AI technologies.  
+Recommendat ions for a National AI Action Plan:  
+•Establish  Long- Horizon Federal Funding:  Neuromorphic photonic c omputing  and
+implementing AI on NPC represents a longer -term technology investment, and likely will
+require a decade- long investment by a funding agency, such as DARPA, to fully address
+technology hurdles.
+•Support US Graduate Students in NPC : The US must invest in developing an advanced
+and talented workforce that is trained in both photonics, computing, and artificial
+intelligence disciplines. To achieve this, the nation needs to expand the portfolio of Ph.D.
+fellowship programs that exist in AI, photonics, and neurocomputing.
+•Host National NPC Architecture Competition:  There is a specific need to develop the best
+photonic neural network microarchitectures  for the NPC field to utilize in making further
+advancements. To foster such innovation, the nation should hold a national competition
+specifically focused on photonic neural network microarchitectures, with suitable prizessuch as startup investments.
+•Improve  SBIR/STTR Program s: Currently, US SBIR/STTR funding programs have a flaw
+in how they are designed. M any innovative technologies and successful companies fail
+because of funding gaps that exist between program phases, causing the US to
+effectively lose its investments .  The design of the SBIR/STTR funding ecosystem should
+be improved to foster the success and survivability of companies that have achieved good
+performance for their technology  and hit target benchmarks . 
+•Encourage Venture Capital Investment in NPC:  Venture capital investments are a
+powerful tool that the US can use to spur innovation in high- risk and high- payoff
+technologies like NPC and AI. The nation should encourage venture capital investments
+through mechanisms by providing matching funds, or tax incentives in high- risk fields like
+neuromorphic photonic computing and AI.
+•Mechanisms to Encourage Technology Transfer:  Universities are often the home to
+emerging technologies, like NPC, and often those technology discoveries end there. The
+US needs to develop a suite of mechanisms that facilitate technology transfer and
+licensing from universities to startups and industries willing to take the risk for maturing
+technology development and bringing new technologies to the market.
+
+
+DISCLAIMER:    This document is  being submitted by three individuals as submission from 
+private citizen s. The views  and positions presented in this document are those of the authors  
+alone, and do not represent the views or  official positions of the respective employing institutions. 
+
+

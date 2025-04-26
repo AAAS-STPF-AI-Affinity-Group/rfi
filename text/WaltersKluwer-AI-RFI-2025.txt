@@ -1,0 +1,382 @@
+1 March 1 5, 2025  
+Comments from Wolters Kluwer on Development  
+of President Trump’s Artificial Intelligence Action Plan  
+Below are comments from Wolters Kluwer to the Networking and Information 
+Technology Research and Development National Coordination Office (NITRD NCO) of the 
+National Science Foundation and the White House Office of Science and Technology Policy  
+(OSTP)  in response to the recently released Request for Information  (FR Doc. 2025 -02305 ) on 
+the development of an Artificial Intelligence (AI) Action Plan. We appreciate the opportunity 
+to share our views . 
+As way of background, Wolters Kluwer is a leading global provider of clinical technology 
+and evidence -based solutions that assist  effective decision -making and outcomes across the 
+healthcare continuum. Key solutions include UpToDate®, UpToDate® Lexidrug™, UpToDate® 
+Patient Engagement, Medi -Span®, Sentri7®, Lippincott® Solutions, Ovid®, and Health 
+Language®. Wolters Kluwer had annual revenue in 202 4 of $6.4  billion.  
+This document is approved for public dissemination. The document contains no 
+business -proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution. 
+Our comments propose concrete policy actions the Trump Administration should 
+include in its AI Action Plan that will speed the development and adoption of generative AI -
+enabled (GenAI) health software used in clinical care. The specific policy actions we recommend 
+are summed up immediately below, followed by a detailed discussion of each.  
+AI Action Plan Policy Recommendations  Related to GenAI-enabled Health Software  
+1.Federal regulation of AI should be sector -specific, not one-size-fits-all.
+2.FDA regulation of AI should focus on device software functions that are “agentic,”  that
+is, capable of acting independently of the medical professional.
+3.HHS should seek public feedback in 2026 on the health care industry’s experience
+implementing the Decision Support Interventions criterion that took effect January 1 ,
+2025 .
+4.FDA’s September 2022 Final Guidance on Clinical Decision Support Software should be
+withdrawn and new Guidance issued that better aligns with Congress’ intent  to exempt
+low-risk CDS softwar e from FDA oversight .
+5.To facilitate the development  of AI health solutions, the AI Action Plan should include
+protections for identifiable health data not already protected by existing federal law .
+
+
+2 6.The AI Action Plan should maintain the current legal liability framework that governs the
+use of AI -enabled software in clinical care .
+7.The AI Action Plan should clarify that existing federal copyright protections for creators
+whose content is used to train AI models  remain in place and will be rigorously
+enforced.
+Discussion  
+1.Federal regulation of AI should be industry -specific, not one -size-fits-all
+New federal regulations governing the use of AI should be industry -specific , accounting  
+for the relative benefits and risks posed by AI use in each sector of the U .S. economy . The 
+European Union ’s new AI law is misguided in this respect, as it takes a one-size-fits-all 
+approach , disregarding the unique market dynamics that might differ from sector to sector. We 
+believe this will stifle development and adoption of AI solution s in Europe, specifically in 
+industries where a lighter regulatory approach may be advisable.  
+Ensuring a sector -by-sector approach to U.S. federal regulation is particularly important  
+for the use of AI in hea lth care , where there is significant potential for the technology to 
+improve patient outcomes and lower costs, but also concerns for patient safety if the software 
+does not function as designed. Federal regulations should therefore be carefully tailored to 
+ensure the benefits of improved diagnosis, more effective treatment and enhanced clinician 
+productivity, while properly managing the risks posed by AI. Safeguarding patient safety must 
+be the primary goal of any regulatory framewor k, but engendering trust among clinician users, 
+and preserving incentives for the private sector to invest in AI tools must also be key objectives.  
+2.FDA regulation of AI should focus on device software functions that are “agentic,”
+capable of acting indepe ndently of the medical professional
+Crafting a regulatory approach to AI -enabled health software depends not only on  
+striking the correct balance between protecting patients, rewarding innovation and 
+encouraging clinician adoption, it also must reflect the staff and resources available at federal 
+agencies to conduct proper oversight.   
+In several  public statements  and a n article published in late 2024 ,1 FDA leadership  
+expressed concerns about the Agency’s ability to field sufficient staff and resources to properly 
+review the expected wave of new AI -enabled device submissions , while also noting that 
+hospitals and health systems may need to take more responsibility for ensuring the accuracy 
+and safety of AI -enabled tools used in patient care . To optimize the use of FDA’s staff and 
+1 Haider J. Warraich, MD; Troy Tazbaz, BS; Robert M. Califf, MD FDA Perspective on the Regulation of Artificial 
+Intelligence in Health Care and Biomedicine Journal of the American Medical Association 
+doi.10.1001/jama.2024.21451 Published online October 15, 2 024 
+
+
+3 resources, we recommend the Agency  focus its active regulatory oversight on GenAI-enabled 
+device software functions that pose the highest risk to patient safety. In our view, these are 
+software functions that are “ agentic ,” meaning they can act  autonomously, making care 
+decisions and/ or acting without the need for human intervention.   
+Though the deployment of agentic functions can add significant value and efficiency to   
+the clinical workflow, freeing up trained human professionals to address more complex 
+patients, the y also pose significant threats to patient safety if the software does not perform as 
+designed. Focusing FDA staff and resources on GenAI-enabled functions that are agentic also 
+has the virtue of aligning with the Agency’s historical regulation of medical devices  that operate 
+independent of human intervention.  
+Remaining GenAI -enabled device software functions that are non -agentic, and thus 
+incapable of acting independently of human intervention, would still technically remain under 
+FDA’s regulatory authority, but be subject to enforcement discretion. FDA could provide 
+guidance that defines the terms of such discretion. For example, such device software function s 
+would only be granted enforcement discretion if their intended purpose was to merely assist 
+human decision -making. The software’s design would require a trained human intermediary to 
+make a clinical decision  based on  their experience and judg ment , with t he software itself 
+having no agentic capability.   
+Additional transparency requirements  could  also be tied to enforcement discretion. For 
+example, the developer would need to disclose their software’s GenAI -related source attribute 
+information similar to the disclosures for predictive decision support interventions  used with 
+ONC -certified technology ( see our next recommendation for more detail) . Developer 
+disclosures related to their risk identification and mitigation practices could also be required, 
+with the National Institute for Standards and Technology’s AI Risk Management Framework 
+(GenAI profile) serving as a model for such practices.   
+We appreciate that the FDA must act judiciously in granting enforcement discretion to 
+any subset of medical devices subject to the Agency’s regulatory oversight. We believe the 
+requirements outlined above related to non -agentic GenAI -enabled device software  functions 
+create sufficient safeguards to allow for safe, effective use of such solutions without the need 
+for active FDA oversight.     
+We also expect market forces, specifically the hospitals, health systems and physicians 
+who use these solutions at the point of care, will play an important complementary role in 
+ensuring patient safety. A survey  conducted in late 2024 by Wolters Kluwer found that 40% of 
+the U.S. physicians  polled  were now ready to use GenAI when interacting with patients at the 
+point -of-care. The findings reflect a rapid acceptance of the new technology more broadly, with 
+68% saying they have recently changed their views and are now more likely to think that GenAI 
+would be beneficial to healthcare.  
+
+
+ 
+ 
+4 
+ However, the survey also revealed that physicians will not blindly follow GenAI 
+recommendations and that they would be selective when evaluating and implementing  GenAI 
+tools. Bef ore relying on GenAI tools for assistance in clinic al decision -making, 91% of 
+respondents indicated they would need to know that GenAI -sourced materials were created by 
+doctors and medical experts . Similarly, 89% report ed that they would require v endors  to be 
+transparent about where information came from, who created it, and how it was sourced. If 
+these survey results are indicative of the wider provider community, and we believe they are, 
+clinicians will not use GenAI -enabled tools at the point of care unless they understand how such 
+solutions were developed and trust their output.    
+ 
+3. HHS should seek public feedback early in 2026 on the  health care  industry’s experience 
+implementing the Decision Support Interventions criterion that took effect January 1, 
+2025   
+ 
+HHS’s Office of the Assistant Secretary for Technology Policy (ASTP) finalized its Health  
+Data, Technology and Interoperability (HTI -1) rule in December 2023. In that rule, ASTP 
+finalized several changes to the ONC Health IT Certification program, including replacing the 
+then -current Clinical Decision Support  certification criterion with a new  Decision Support 
+Interventions  (DSI) criterion. The new criterion was designed to address the use of AI in certified 
+health systems and modules. To promote trust among medical professionals  and spur adoption 
+of AI tools  used at the point of care , the new criterion includes transparency (or “source  
+attribute”)  disclosures for DSI used in or with  certified technology. The final rule also made the 
+distinction between “evidence -based” and “predictive” DSI, with product examples illustrating 
+the difference. In ASTP’s view , GenAI solutions would likely meet the definition of a predictive 
+DSI if used with certified technology , thereby triggering additional disclosures related to risk 
+mitigation practices . The new DSI criterion took effect January 1, 2025.  
+ 
+We appreciate that the Trump Administration is actively searching for existing 
+regulations to re scind, thereby lightening the administrative and compliance burden on private 
+entities , a goal we generally support  in this context . Regarding the new DSI criterion, however, 
+the Administration may want to take a wait -and-see approach .  
+ 
+Compliance with t he DSI criterion is technically voluntary for developers, not a legal 
+requirement. Moreover , we consider its burden m anageable , merely requiring disclosures of 
+information related to the design, development, testing, validation and ongoing monitoring of 
+the software’s performance  and, in the case of Predi ctive DSIs, risk mitigation practices . Even in 
+the absence of the DSI criterion, s uch disclosures would almost certainly be requested (and 
+likely required to be made) by hospitals, health systems and clinics before they commit to 
+purchasing  and deploying DSI solutions. As the results of our recent physician survey reveal ( see 
+our previous section), clinicians will not use GenAI -enabled tools in patient care unless they 
+understand how such solutions were developed and trust their output .  
+ 
+ 
+
+
+5 Should the Trump Administration decide to leave the DSI criterion in place  for now , HHS 
+might consider issuing a Request for Information (RFI) at the 12 - or 18 -month mark of 
+implementation (i.e., January or July 2026) . The RFI could s eek public input on whether the 31 
+required source attributes are excessive and assess if the disclosed information effectively 
+fosters trust and adoption among clinician end users.  
+4.FDA’s September 2022 Final Guidance on Clinical Decisio n Support Software should be
+withdrawn and new Guidance issued that  better  aligns with Congress’ intent  to exempt
+low-risk CDS software from FDA oversight
+In December 2016, Congress passed the 21st Century Cures Act, which, among other  
+things, carved out  low-risk clinical decision support software from the definition of ‘medical 
+device,’ thereby exempting such software from FDA oversight.  Specifically, the statute added 
+section 520(o) to the Food , Drug and Cosmetic (FD&C) Act, which excludes certain software 
+functions from the device definition if  four  criteria are met:  
+1)The software function is not intended to acquire, process or analyze a medical image
+or a signal from an invitro diagnostic device or a pattern from a sig nal acquisition
+system;
+2)The software function is intended for the purpose of displaying, analyzing or printing
+medical information about a patient or other medical informa tion;
+3)The software function is intended for the purpose of supporting or providing
+recommendations to a health care professional about the prevention, diagnosis or
+treatment of a disease or condition;
+4)The software function is intended for the purpose  of enabling such health
+professional  to independently review the basis for such recommendations that such
+software presents so that it is not the intent that such health care professional rely
+primarily on any of such recommendations to make a clinical diagnosis or treatment
+decision regardi ng an individual patient .
+In September 2022, FDA issued final policy guidance on Clinical Decision Support  (CDS)  
+Software , which provided the Agency’s interpretation of the 21st Century Cures Act statutory 
+language noted above. While not ostensibly about artificial intelligence,  FDA’s guidance 
+include s product examples that use algorithms to generate clinical recommendations  and 
+therefore impact s the Agency’s approach to regulating AI.  
+In our view, FDA’s interpretation  did not adhere to the plain languag e of the 21st 
+Century Cures Act, choosing instead to d iscuss concepts such as the “time -critical nature ” of the 
+medical decision and “automation bias,” which FDA defined as the “propensity of humans to 
+over -rely on a suggestion from an automated system ”  
+In th e guidance, FDA noted that automation bias was more likely to occur if the  
+software provided a user with a “single, specific, selected output or solution rather than a list of 
+options or complete information for the user to consider.” FDA also said th e “time -critical 
+
+
+ 
+ 
+6 
+ nature ” of the medical decision might also increase the risk of automation bias “because there 
+is not sufficient time for the user to adequately consider other information.” Thus, in FDA’s 
+view, software that provides a specific output or directive and/or addresses a time -critical 
+decision would be interpreted as “directing the (health care professional) to take action and 
+substituting for their judgment,” and therefore likely subject to FDA regulation as a medical 
+device.  
+ 
+First,  it is im portant to note t hat neither “automation bias ,” nor the “time -critical  
+nature ” of the medical decision appear in the 21st Century Cures Act , either as statutory 
+language or even as concepts to be considered by FDA. To the contrary , as the language above 
+shows, the statute was quite clear in emphasizing that the “intended ” purpose or design of the 
+underlying software should be the primary factor to consider in each of the 4 criteria related to 
+product exemption.  
+ 
+Second, w hile we agree it is important for GenAI -enabled software to present clinicians  
+with recommendations incorporating all appropriate options, and to do so in a way that allows 
+clinicians to adequately consider all relevant information, we do not agree that Ge n-AI-enabled 
+software that presents only a single recommendation and/or supports time -critical medical 
+decisions necessarily increases the risk of automation bias.  
+ 
+There are many instances in clinical care whe n compelling scientific and medical  
+evidence indicates that there is only a single  selected output or solution that is correct for the 
+patient. For example, if a particular infection can be treated by multiple antibiotics, but a 
+patient is allergic to all but one, then it would be inappropriate to su ggest anything other than 
+the one antibiotic that is safe for that patient. Similarly, if one treatment has overwhelmingly 
+been shown to be the best approach for treating a particular condition, then suggesting 
+alternatives could lead to a patient receivin g suboptimal care. GenAI -enabled software should 
+be designed to provide a range of options for the clinician when appropriate, but if there is only 
+one best option dictated by the evidence and the patient’s situation, then only one should be 
+presented.  
+ 
+In addition, many CDS solutions assign confidence levels to the ir output, th ereby giving  
+the clinician additional reason to either accept or question a single recommendation. 
+Confidence in a medical recommendation is often communicated in medical practice guidelines 
+and elsewhere using well -defined methodology, such as GRADE. Note also that us ing 
+confidence levels with GenAI -enabled software  will require assurance that the output grade 
+reflect s the accumulated medical evidence and the conviction of the medical community about 
+an appropriate course of action, and not the software’s belief that i t found and incorporated 
+the appropriate content when making the recommendation.  
+ 
+FDA has recently spoken to the issue of regulating CDS software that issues a single  
+recommendation in its response to a Citizen’s Petition challenging its CDS Guidance .2 There, the 
+                                                            
+2 FDA’s January 17, 2025,  Response to the CDS Coalition, denying their Citizen’s Petition (Docket Number FDA -2023 -P-O422)  
+
+
+7 Agency argued that its decision to continue regulating such software is consistent with the 
+language in Section 520(o) of the FD &C Act because Congress used the plural,  
+“recommendation s,” in describing Criteri a 3 and 4 of the exempting language . Thus, any 
+software that may deliver a single recommendation would not be exempt from the Agency’s 
+oversight.  
+We strongly disagree  with this interpretation. A more accurate read is that Congress  
+understood that  CDS software is designed to provide many rec ommendation s over the course 
+of its lifecycle to many clinicians covering multiple patients , addressing thousands of care 
+events that require a corresponding number of clinical decisions. Most CDS output will provide 
+clinicians with multiple options, but in some clinical situations as we outlined above, there is 
+only one right recommendation. Even CDS software used as little as 3 times per day in a small 
+clinical practice could be classified as having issued “recommendation s,” even if on those 3 
+occasions the output was a single recommendation that represented the best evidence -based 
+option for the patient.     
+Regarding the time -sensitivity of medical decision -making, in practice, identifying such  
+decisions is not as clear as it might seem due to numerous factors, including the patient, their 
+presentation, and the setting in which treatment is being delivered. For example, the 
+management of a patient with gastrointestinal bleeding may be emerge nt if the patient is 
+severely bleeding and is in shock, whereas it may be less urgent if the patient had a single 
+episode of bleeding an hour earlier and is hemodynamically stable.  
+The ramifications of FDA’s overly narrow interpretation of Section 520(o)  have  led to  
+fewer CDS solutions being exempt from FDA oversight. New product innovations and features , 
+possibly including AI-enablement , could be (and likely already have been ) abandoned , thus 
+depriving providers and patients of enhanced functionality that could improve health outcomes 
+and lower costs .  
+Dr. Scott Gottleib, who served as Commissioner of FDA during President Trump’s first 
+term, recently raised similar concerns with FDA’s interpretation of Section 520(o) and how it 
+might stifle the use of  AI in CDS software . In an article  that appeared in the online version of the 
+Journal of the American Medical Association in early February ,3 Dr. Gottleib said :  
+“If these tools are classified as medical devices merely because they…possess analytical 
+capabilities that are so comprehensive and intelligent that clinicians are likely to accept 
+their analyses in full, then nearly any AI tool embedded in an EMR (electronic medical 
+record) could fall under regulation. The risk is that  EMR developers  may attempt to 
+circumvent regulatory uncertainty by omitting these features from their software. This 
+could deny health care clinicians access to AI tools that have the potential to transform 
+the productivity and safety of medical care. ” 
+3 JAMA Health Forum. 2025;6(2):  e250289. doi:10.1001/jamahealthforum.2025.0289  
+
+
+8 Dr. Gottleib went on to conclude that “(i)f these AI tools are designed to augment the  
+information available to clinicians and do not provide autonomous diagnoses or treatment 
+decisions, they should not be subject to premarket review ,” a point that  comports with 
+Congress’ intent to loosen oversight of low -risk CDS software  (and also lends support to o ur 
+second policy recommendation , above , that FDA focus its regulatory resources on GenAI-
+enabled software  that is “agentic,” capable of acting autonomou sly without human 
+intervention ).  
+We therefore urge the Trump Administration to include in its AI Action Plan a directive  
+to the FDA’s Center for Device and Radiological Health to review its FDA Final Guidance on 
+Clinical Decision Support Software with a view to ultimately rescinding it and issuing new 
+Guidance that more closely reflects Congress’ intent to exempt low -risk CDS software from FDA 
+regulation.  
+5.To facilitate the development  of AI health solutions, the AI Action Plan should include
+protections for identifiable health data  not already protected by existing federal law
+Identifiable p atient health data might be the most important resource for  
+successful  development  and advancement of AI -related health tools . Such data is critical  for 
+training, testing and validating the performance of new algorithms deployed in both back -office 
+administrative tasks or used at the patient’s bedside. But development of new AI -enabled 
+software also poses a risk to privacy if AI developers do not put sufficient safeguards in place to 
+protect such data.  
+Health care has an existing federal privacy statute, the  Health In surance Portability and  
+Accountability Act (HIPAA) , which sets standards  for safeguarding protected health information 
+(PHI) and places limits on the use and disclosure of such information without the patient’s 
+consent . HIPAA’s narrow scope leaves potential gaps in the protection of patient personal data, 
+particularly regarding the third -party use of AI to process patient personal data. Fo r example, 
+unless an AI developer is producing an AI solution for a specific HIPAA “covered entity”  (e.g., 
+hospital ) or “business associate ” (e.g., medical lab) , they would likely not be  subject to HIPAA 
+requirements to  protect PHI.  
+The Federal Trade Commission (FTC) recently clarified the Health Breach Notification  
+Rule’s  (HBRN) applicability to health apps and other technologies and entities not traditionally 
+covered by HIPAA and who engage in the processing of personal health records (PHR). The 
+HBRN requires notification of customers and the FTC following a breach of unsecured 
+personally identifiable health information but  does not specifically mandate the 
+implementation of safeguards to protect pa tient health data. Like HIPAA, HBNR has a limited 
+scope and applicability , which fails to mitigate t he risk of identifiable health data not being 
+safeguarded in the context of AI.   
+It is unlikely the Trump Administration  can act unilaterally to address th ese gaps without  
+the involvement of Congress. As such, we recommend the Administration’s AI Action Plan 
+
+
+ 
+ 
+9 
+ articulate the following principles : a) Individuals should maintain control of their health data , 
+including whether it is used in developing, training, testing and validating AI algorithms to be 
+used in health care  delivery . This would include the ability to opt -out; b) Developers of AI 
+solutions intended for broad commercial sale should be required to implement  privacy 
+protections for any identifiable, individual identifiable health data in their possession  or control; 
+and c) Clarify that the FTC will continue to actively enforce the Health Breach Notification Rule .        
+ 
+6. The Trump Administration should maintain the current legal liability framework th at 
+governs the use of AI -enabled software in clinical care  
+ 
+The development, deployment and use of AI tools in patient care should remain subject  
+to existing federal and state laws related to medical device liability, medical malpractice and 
+other relevant  civil liability .  
+ 
+There have  been suggestions made that clinicians should be granted a liability “safe 
+harbor ” when using AI at the point of care. We think this would be a mistake, particularly 
+because for the foreseeable future, many AI tools developed for bedside care will be designed 
+to merely assist the medical professional  make a clinical decision . This design assumes the 
+professional will use their experience and medical judgment to make the final decision 
+regarding patient care , relying on an AI -generated care recommendation as only one of many 
+data points for consideration. This is entirely appropriate as t rained medical professionals are 
+licensed to practice medicine by the states, but AI tools used by these professionals are not. 
+Giving protection from liability would also make clinicians more vulnerable to automation bias, 
+which is of great concern to FDA as discussed above in Recommendation 4.  
+ 
+While we fully encourage widespread adoption and use of AI -enabled tools  at the  point  
+of care , we also believe it important that clinicians maintain a health y skepticism of such tools,  
+continue to scrutinize the provenance of their source data , remain curious as to their 
+underlying rationale  and provide robust feedback on software performance . Such an approach 
+will optimize the use of such tools to improve decision -making, while improving the tools 
+themselves. On the other hand, a  liability safe harbor for clinicians would discourage such 
+practices and ultimately slow the adoption of safe and effective AI in health care .  
+ 
+7. The AI Action Plan should clarify that existing federal copyright protections for creators 
+whose content is used to train AI models remain in place and will be rigorously enforced.     
+ 
+To date , concerns expressed  about unauthorized use of copyrighted cont ent in training  
+large language models primarily pertain to the work s of authors, artists, musicians and actors . 
+But medical content creators such as  researchers, professional societies, and clinical decision 
+support developers would also be negatively impacted should AI developers ignore or violate 
+federal copyright laws by using protected materials  in the development of their products .  
+ 
+We strongly urge the AI Action Plan  to clarify to AI developers that their use o f 
+copyrighted materials can only be done with the holder’s permission, and that federal  
+
+
+10 copyright protections will be vigorously enforced. 
+We appreciate the opportunity to comment. If NITRD NCO or OSTP have questions or  
+would like to discuss our comments in more detail, please contact Bob Hussey at 
+ DSK9W7S144PROD  with NOTICES
+
+

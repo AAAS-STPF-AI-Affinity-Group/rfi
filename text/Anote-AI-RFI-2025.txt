@@ -1,0 +1,336 @@
+Anote - AI Action Plan 
+Submitted to: NSF
+Response Title: Anote - AI Action Plan 
+Date: March 14th, 2025  
+Name: Natan Vidra 
+Role: Founder / CEO 
+Company Name: Anote 
+UEI: FV9GVYUPCHJ8 
+CAGE Code: 9ZYX7 
+Location: 160 West 66th Street, Apartment 59B, New York, NY 10023 
+NAICS Code: 541715, 541511 
+Type of Business: We are a Small Business under NAICS Codes, Non-Traditional 
+Number of Employees: 10 
+Phone Number: 551 - 795 - 6549
+Email Address: 
+Developing an  AI Action Plan  
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution. 
+Page 1 of 12 
+
+
+Introduction 
+AI has been advancing rapidly, and is progressing at an exponential pace with models and 
+innovations such as GPT, SORA, Gemini, Claude and AlphaFold all coming out every few months. 
+Despite this, most people in America are strangers to this AI technology, and haven’t used 
+ChatGPT or any AI technology. For America to stay ahead in the AI race, we need to focus on 
+helping train and develop our AI workforce, and prevent American people from falling behind.  
+From a global perspective, America is directly competing with China in the AI race. America has 
+many incredible AI companies such as OpenAI’s GPT, xAI’s Grok and Anthropic’s Claude. China 
+has rece ntly made a lot of progress with models such as Alibaba’s Qwen, Deepseek’s R1 and 
+Manus’ General AI Agent. While America is still ahead in the AI race, there is significant risk of 
+our lead diminishing over time. One cause is the data, where China has access to larger 
+quantities of data to help train powerful machine learning models.  
+Today there is a data gap between the models being used to train LLMs like Anthropic’s Claude 
+and OpenAI’s GPT, and the amount of privately held data within the US government and various 
+agencies within the DOD. As a result, the performance of AI models for many defense related 
+use cases is quite limited. To account for this: 
+Recommendation 1: Different governmental agencies should leverage their own data to train 
+and fine-tune domain-specific large language models for government-related use cases. 
+To effectively do this, the government will need to aggregate, label and convert its own 
+structured and unstructured data into a format that can be used to train powerful models, and 
+then customize the models to be specific for a variety of use cases. There should be clear 
+evaluation metrics for each of these use cases, and the ability to measure a variety of models on 
+these evaluation metrics. From a technical infrastructure perspective, Anote has provided a lot 
+of guidance on best practices for this, and we have open sourced our human centered AI 
+methodology and code, documentation  and research for details here. 
+Page 2 of 12 
+
+
+Another pressing cause of this risk to losing the AI war is related to workforce development. 
+Many people within America still do not know much about artificial intelligence, so despite the 
+tremendous progress of AI technology, many people are getting left behind. People within the 
+workforce that know how to use AI are starting to replace those who don’t know how to use AI. 
+From a national perspective, within America our artificial intelligence technology brings a high 
+likelihood of the automation of both white collar and blue collar jobs. There is a significant risk 
+that 20 to 40% of jobs within America will be replaced in the next 5 to 10 years. Jobs such as 
+data entry clerks, insurance underwriters, financial analysts and medical transcriptionists are at 
+risk. While new job opportunities will arise from the advancement of AI, people within America 
+need to learn how to use AI to be able to effectively do these new jobs. 
+We want to help people stay ahead of the AI curve and have a say on where this technology 
+should be applied. We need to take immediate action to help members of AI communities 
+around the USA learn about how to use AI in practice in their everyday lives. To combat this 
+issue, we need to develop our workforce and train them with AI related skills.  
+There is a need for an AI Action Plan to help America stay ahead in the AI race, and to help US 
+Citizens not be left behind from the AI technological revolution. As a culmination of thousands 
+of interviews and hundreds of conversations with industry partners, our team developed an AI 
+Action Plan for the United States, focused on AI education and workforce development . This 
+document outlines our recommendations on AI education, workforce development and 
+accessibility to help shape an inclusive national AI Action Plan. 
+Page 3 of 12 
+
+
+AI Action Plan Overview 
+Our AI Action Plan focuses on workforce development, and consists of four critical components: 
+1. Aggregation and curation of AI related data: This consists of hubs for:
+a.AI job opportunities from industry partners
+b.AI trainings and educational resources for learning
+c.AI talent pool with interested community members
+2. Distribution and dissemination of AI content: This consists of hubs for:
+a.AI related events and meetups
+b.AI newsletter with up to date AI news
+c.AI social media outreach (linkedin / youtube)
+3. Collaborations and Partnerships between members: This consists of hubs for:
+a.AI related partnership opportunities on contracts
+b.AI consortium of researchers and industry partners
+c.AI data sharing of datasets, evaluation benchmarks, models and agents
+4.Engagement to bring the AI community together: This consists of hubs for:
+a.AI slack / whatsapp community for centralized AI communications
+b.AI open source projects that community members can contribute to
+c.AI members portal to find other community members to connect with
+This AI Action Plan should be implemented on a national level as well as a state / city (local) 
+level, with different sub-communities with local resources for specific areas of interest. For each 
+local sub-community, AI resource curation (news, events, venues, speakers, jobs, talent) should 
+be specifically curated for that local community. We propose the name of this plan to be the 
+Armor Institute, and to be an open project where all people can contribute. 
+Aggregation and curation of AI related data for Job Opportunities, Trainings and Talent Pool: 
+The proliferation of AI training initiatives – while positive – has led to a fragmented landscape. 
+Multiple government agencies run programs that support AI workforce development, but these 
+can operate in silos or lack a unified platform for stakeholders to navigate. There is a clear gap in 
+aggregating information and matching supply with demand. For instance, a community college 
+might develop an AI course, but local employers might not be aware of the talent pipeline being 
+created; conversely, tech companies have training resources that educators or workforce boards 
+might not easily find or incorporate. The absence of a central place for AI workforce 
+opportunities diminishes the potential synergy among programs. 
+Page 4 of 12 
+
+
+Recommendation 2: Create a centralized digital platform that aggregates AI workforce 
+resources – a one-stop portal where individuals, job seekers, employers, and educators can 
+find and share information on training programs, job openings, apprenticeships, mentorship 
+opportunities, and events across the country.  
+As far as job opportunities, having a platform that would allow a user to see, for instance, all AI 
+apprenticeship programs or entry-level AI job postings in one place, would be quite helpful. The 
+platform should integrate with existing resources (like AI.gov or WorkforceGPS) and incorporate 
+AI tools (e.g. personalized skill assessments and career navigation powered by AI). This also 
+should contain high quality jobs by strong industry and enterprise partners, and can contain 
+some of the AI related listings from AI job sources such as LinkedIn and Indeed as well. By 
+aggregating job opportunities, this platform can help match talent to opportunities at scale.  
+We recommend classifying the opportunities as training programs for early stage career 
+members, apprenticeship programs which will help place people in AI jobs, and mid-level / 
+senior level training for upskilling. Based on the category of training and job opportunities, 
+community members can be matched with the appropriate training and AI learning program for 
+their current stage of development. The Department of Labor should streamline the registered 
+apprenticeship process for AI and IT roles (simplifying standards and paperwork) to encourage 
+small and mid-sized companies to host apprentices. Mid-career and senior workers whose jobs 
+are changing due to AI could benefit from short courses or certificates, so a governmental AI 
+learning and AI Training grant could reimburse workers for approved AI courses would be 
+beneficial. In partnership with employers, such grants could be co-funded by companies that 
+identify roles for which they want to retrain staff rather than resorting to layoffs. 
+As far as trainings, we would recommend including the following AI resources to help 
+community members with different skill levels learn more about how to practically use AI: Name Website URL 
+MIT's Introduction to Deep 
+Learning https://introtodeeplearning.com/ 
+Deep Learning AI https://www.deeplearning.ai/  
+Hugging Face NLP course https://huggingface.co/learn/nlp-course/en/chapter1/1  
+Introduction to Computer 
+Science https://pll.harvard.edu/course/cs50-introduction-computer-s
+cience 
+Mindstone https://www.mindstone.com/ 
+Inspirit AI https://www.inspiritai.com/ 
+Page 5 of 12 
+
+
+As far as the talent pool, all talent should have access to specific job opportunities and training 
+resources. Organizations such as Breakthrough Tech help provide AI training opportunities to a 
+variety of college students, and organizations such as Inspirit AI are helpful for high school 
+students looking to learn more about AI. Companies like Daimlas AI help curate local AI 
+resources for each specific region, and non-profits like AI Blueprints is a great example of a local 
+AI resource curation hub in Boston. We think that a central community ecosystem in the USA 
+would be amazing, in an open model where people who want to learn can easily participate. 
+Distribution and dissemination of AI content with AI Events and an AI Newsletter 
+Even where AI training, job opportunities and programs exist, awareness and engagement can 
+fall short. Many job seekers and current workers are not aware of the AI training opportunities 
+available to them, or may not see AI skills as relevant to their career if they are outside the tech 
+sector. Similarly, industry-led programs (like corporate online academies or certifications) 
+sometimes struggle to attract the very populations most in need of upskilling (e.g., workers in 
+industries being disrupted by AI). Thus, there is an engagement gap not only at the individual 
+level, but at the employer level: many companies that could benefit from AI training programs 
+(to retrain their employees or hire new AI talent) are not yet plugged into the ecosystem of 
+workforce initiatives. This suggests a need for better outreach, user-friendly program design, 
+and incentives to broaden participation.  
+Recommendation 3: Encourage community-driven initiatives such as AI events and AI 
+newsletters to help engage the public in AI learning and career development.  
+AI may seem intimidating or irrelevant to many Americans; demystifying it requires meeting 
+people where they are. We recommend hosting AI learning events – from introductory 
+workshops to AI hackathons addressing local issues – to bring local communities together 
+around learning more about practical AI applications. Digital platforms could promote these 
+events widely, acting as a distributor of engagement opportunities so that a student in a small 
+town can easily find a virtual AI meetup or a nearby community college seminar. Community 
+colleges, given their integral role in local workforce development, should receive support to 
+become hubs for AI engagement. We recommend the following companies for AI events: Company Company URL 
+Mindstone https://www.mindstone.com/ 
+AI Camp https://www.aicamp.ai/  
+AI Tinkerers https://aitinkerers.org/p/welcome 
+MLOps https://mlops.community/  
+Page 6 of 12 
+
+
+Community 
+Gen AI Collective https://www.genaicollective.ai/  
+Cerebral Valley https://cerebralvalley.ai/  
+We propose a phased rollout to establish AI meetup chapters in new cities. In Phase 1, we 
+suggest focusing on launching 3–5 new city meetups (for example, Boston, Washington D.C., 
+and Chicago) where there is already substantial tech and academic presence to build upon. In 
+Phase 2, we suggest expanding to additional cities such as Miami, Austin, and others across the 
+South and West, including potentially West Coast locations.  Below you can find some 
+recommended cities to expand to in the USA, though we think this should also be largely 
+accessible to more rural areas and inner cities where these hubs don’t currently exist: City State Priority  Target Launch Date 
+New York NY Current Hub Active 
+Toronto CANADA Current Hub Active 
+Washington DC Phase 1 Q1 2025 
+Boston MA Phase 1 Q1 2025 
+Chicago IL Phase 2 Q1 2025 
+Miami FL Phase 2 Q2 2025 
+Atlanta GA Phase 2 Q2 2025 
+Austin TX Phase 2 Q2 2025 
+Los Angeles CA Phase 3 Q3 2025 
+San Diego CA Phase 3 Q3 2025 
+Seattle WA Phase 3 Q3 2025 
+Mountain 
+View CA Phase 4 Q4 2025 
+San Francisco CA Phase 4 Q4 2025 
+Berkeley CA Phase 4 Q4 2025 
+This approach allows you to pilot the meetup model in a variety of settings and refine our 
+playbook before nationwide expansion. For each new chapter, we recommend recruiting a local 
+AI Community Lead responsible for on-the-ground organizing. Once initial meetups are 
+successfully established and local momentum builds, we suggest chapters will operate on a 
+Page 7 of 12 
+
+
+regular monthly schedule with oversight and coordination from Anote’s central team (to share 
+resources, speaker opportunities, and lessons learned across cities). This systematic expansion 
+plan will enable us to maintain quality and consistency as we grow, while also tailoring each 
+city’s events to its local community interests. 
+Crucially, these community efforts should highlight inclusive participation. They should be 
+marketed to underrepresented demographics – for example, AI training programs for women 
+re-entering the workforce, AI literacy courses for older workers at community centers, and 
+collaborations with organizations serving people with disabilities to ensure content is accessible. 
+By infusing AI learning into the fabric of community life and online social learning, we normalize 
+the idea that AI skills are for everyone, not a niche group.  
+To execute on this distribution method, we recommend an AI Newsletter such as Digestible AI 
+to be disseminated to community members, with the purpose of breaking down complex AI 
+topics into clear, actionable AI insights that are accessible to both technical and non-technical 
+audiences. In addition, social media and online learning communities can be powerful. The 
+government could facilitate the creation of an AI Community of Practice Platform – an online 
+forum where learners, experts, and mentors interact, share projects, and answer questions.  
+Collaboration and AI Partnership Opportunities Between Community Members 
+Despite the multitude of programs underway, significant gaps exist in the current AI workforce 
+development landscape. These gaps relate to who can access opportunities, where programs 
+are deployed, how well efforts are coordinated, and alignment between training outcomes and 
+industry needs. The way we propose solving this is via aggregating many AI resources, and then 
+sharing these resources to help people engage at a large scale. Central to this plan involves 
+collaborations and partnerships with a variety of different industry and community members.  
+Recommendation 4: Expand AI Partnerships with Incentives for Industry Collaborations. We 
+propose sharing contract opportunities, and developing a consortium of industry members, 
+Page 8 of 12 
+
+
+enterprises, universities and governmental agencies, where groups will collaborate on a 
+variety of AI projects and initiatives:  
+While many companies are voluntarily investing in AI training, a formal public-private 
+partnership program can align these efforts with national workforce goals. We recommend 
+developing an AI consortium where different community members can meet each other and 
+collaborate on a variety of publicly available opportunities. We recommend sharing these 
+opportunities on a publicly accessible portal, where members can view them, meet each other 
+and partner in the most optimal ways. Name Link 
+Arpa H HSF https://sam.gov/opp/737bbcbfd8d34a1e939670aea686dc67/vie
+w 
+NSF Open Source https://new.nsf.gov/funding/opportunities/pose-pathways-enab
+le-open-source-ecosystems  
+Army A254-019 https://www.armysbir.army.mil/topics/generative-ai-enabled-ta
+ctical-network/ 
+NIH https://seed.nih.gov/small-business-funding/find-funding/sbir-st
+tr-funding-opportunities  
+Navy https://www.onr.navy.mil/work-with-us/small-business/long-ran
+ge-acquisition-forecast 
+Darpa HR0011SB20254-04 https://sam.gov/opp/ee08da7ccddd45daac2f24a8d09b0e2e/vie
+w 
+We suggest building a consortium of AI experts and stakeholders from institutes and companies 
+across America . The goal of this consortium would be to unite academia, industry, and the tech 
+community in a shared mission: developing the workforce’s AI skills through real-world projects 
+and knowledge-sharing forums. By bringing together AI researchers, practitioners, and 
+enthusiasts under one umbrella, we can ensure that American people and companies benefit 
+from the latest AI breakthroughs and industry best practices. Our team has created such a 
+consortium, with a variety of industry partners and research organizations, to help build local AI 
+hubs and collaborate on AI project initiatives across America. AI Sharing of Evaluation Datasets, Models and AI Agents 
+Bringing industry partners, researchers from universities, and members of the talent pool 
+together is the first step. However, there needs to be alignment on the datasets, models and 
+Page 9 of 12 
+
+
+tasks that community members will collaborate on. To improve alignment between education 
+and industry needs, the government should champion the development of open standards for 
+AI related projects, that way everyone can be aware of ways to contribute.  
+Recommendation 5: Foster Data Sharing and Alignment through Open Standards, by 
+developing open source datasets, models, agents and projects where anyone can contribute:  
+When it comes to evaluation datasets for benchmarks, industry standard models, and AI agents, 
+there should be open hubs where members of AI related communities in the USA can share 
+these resources in an open way to benefit fellow AI researchers. On the evaluation datasets and 
+benchmarks point, there could be a hub where people would share specific testing datasets 
+(filterable by task types). For each of these testing datasets, community members can submit AI 
+models to see how each industry standard model compares on that testing dataset. Our 
+company, Anote, has developed a model leaderboard for this capability, where community 
+members can share how models like GPT, Claude, Mistral, Llama and Grok compare on a variety 
+of benchmarks - we can help build an analogous portal but for certified AI models and 
+evaluation benchmarks pertinent for government use cases. 
+On the point of AI agents, one key problem is that while AI agents are becoming more and more 
+ubiquitous, it is difficult to productionalize AI agents, and it is hard to find and share the agents 
+that have been created. We recommend creating an analogous AI agent hub, where agents that 
+are particularly helpful for important defense use cases can be shared with other members of 
+the USA AI community. Our team at Anote has actually already developed a hub for agents for 
+traditional commercial use cases (email marketing, AI assisted coding, financial analysis, etc.), 
+and would be happy to help expand this to aid with American interests. 
+Page 10 of 12 
+
+
+We also believe that community members should be encouraged to collaborate on open 
+sourced AI initiatives, so long as they benefit American interests. We recommend organizations 
+such as the Linux Foundation, who have built incredible communities of developers to help 
+augment existing AI projects. Our team at Anote has released two open source projects – the 
+first on our MLOps Platform for labeling data, training models, making predictions and 
+evaluating the results of LLMs, and the second on an AI agent platform for collaborative, 
+intelligent autonomous multi agent AI systems.  
+We invite members to contribute to these projects, and think that it would be nice if community 
+members could meet each other via centralized communications. Perhaps there should be a 
+slack / whatsapp community, or an AI members portal to find other community members to 
+connect with. Regardless, to successfully foster data sharing and openness, figuring out a way to 
+connect people and have them engage in a collaborative capacity is a prerequisite. 
+For Anote, we have figured out a way to engage a vibrant AI community in the USA. Our Slack 
+community has grown to over 1,000 dedicated members who actively exchange ideas, 
+collaborate on projects, and support one another’s growth. Additionally, our partner Mindstone 
+connects more than 13,000 members, creating a dynamic ecosystem where expertise and 
+innovation meet. We hosted an AI Day Summit 2025, a landmark event that brought together 
+over 50 speakers and attracted thousands of attendees from across the country. The summit 
+showcased a diverse range of topics—from AI research to real-world applications. With all talks 
+recorded and posted online , the wealth of knowledge shared during the event remains 
+accessible to anyone interested in the future of AI. 
+Conclusion 
+In conclusion, Anote strongly supports the NSF’s efforts to develop a comprehensive AI Action 
+Plan that ensures no American is left behind in the age of AI. Our recommendations focus on 
+empowering people through education and community-building, which we believe are 
+fundamental to bridging the gap between rapid AI advancements and the public’s ability to 
+understand and leverage these tools. By scaling up initiatives like AI meetups, workshops, and Page 11 of 12 
+
+
+collaborative projects – and by providing the necessary support and partnerships – we can 
+foster an inclusive AI ecosystem where innovation is democratized. With strategic support, what 
+we have accomplished can be expanded nationwide, cultivating a generation of AI-literate 
+citizens and a workforce ready to drive AI-enabled growth in every sector. Anote is committed 
+to this mission of accessible AI for all, and we stand ready to collaborate with policymakers, 
+industry, and academia to implement the vision outlined in this response. Together, we can 
+shape an AI future that is inclusive, empowering, and beneficial to society as a whole. 
+Page 12 of 12 
+
+

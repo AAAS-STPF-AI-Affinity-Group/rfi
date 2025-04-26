@@ -1,0 +1,206 @@
+ 
+Goldilock Secure Limited  
+Unit 1, Science Centre  
+Wolverhampton Science Park  
+Wolverhampton WV10 9RU  
+United Kingdom  
+AI Action Plan  
+Attn: Faisal D'Souza  
+National Coordination O9ice  
+2415 Eisenhower Avenue  
+Alexandria, VA 22314  
+Email : ostp-ai-rfi@nitrd.gov  
+ 
+Re: Goldilock Response to White House AI Action Plan  
+ 
+OVERVIEW:  
+As AI systems become increasingly integrated into critical infrastructure, national 
+security, and commercial applications, ensuring cybersecurity resilience must be a top 
+priority. Traditional software -based cybersecurity approaches are insu9icient to cou nter 
+AI-speciﬁc threats, particularly the risks posed by agentic AI —autonomous systems 
+capable of making decisions, adapting behavior, and potentially evading human 
+oversight. To address this, the U.S. (and its Allies) must adopt a multi -layered 
+cybersecu rity strategy that includes physical network segmentation, continual 
+monitoring and assessment, and safeguards against emergent AI threats. Physical 
+network segmentation is essential for limiting the lateral movement of cyber threats, 
+preventing AI -driven attacks from spreading across interconnected systems that can 
+easily bypass software layers. Implementing strict access controls and zero -trust 
+architectures will further reduce vulnerabilities in AI environments. Additionally, 
+continuous monitoring and as sessment of AI models and their underlying 
+infrastructure, with the ability to physically disconnect, will be necessary to respond to 
+adversarial manipulations, data poisoning, and evolving cyber threats in real time.  
+ 
+ 
+Drive Adoption of Network Segmentation through Policy and Regulatory Options  
+Stephen Kines  
+“AI Cyber Kill Switches”: Fundamentally we need to protect all our systems that use AI 
+from rogue AI itself. That means harnessing core technology - such as Goldilock’s novel 
+approach - which is a physical remote trigger that is non -IP and thus can bypass a rogue 
+AI. 
+Recommendation  for AI Regulation : Develop policies and regulations for critical 
+national infrastructure (CNI) and other critical systems that harness AI requiring  a safety 
+valve that allows physical remote segmentation using non -IP (otherwise AI can defeat it) 
+– an AI cyber kill switch.  
+
+ 
+Goldilock Secure Limited  
+Unit 1, Science Centre  
+Wolverhampton Science Park  
+Wolverhampton WV10 9RU  
+United Kingdom  
+ 
+ 
+Continued Assessment and Monitoring & Execution  
+Dr Peter J. Lenk  
+Continued Assessment/Monitoring  - It is critical that an AI tool that takes the 
+designed deployment, and pushes it out to the systems, so that we are sure that what 
+we have designed is what is implemented; i.e., all white lists, security tokens, etc., are 
+automatically deployed to the d evices so that we can be sure that the deployed 
+conﬁguration is as it was designed.   Any  changes  are also conﬁguration managed by the 
+system, so that we know at all times  the actual situation.   
+Execution  - We are integrating through our API access various  AI enhanced  IDS 
+systems.   The needs for these include:  
+a. The ability to detect intrusions; early on.   With recent advances on the  attackers’ side, 
+this includes the detection of AI enhanced bots that can  morph to resist our 
+defences.   This likely means that our AI needs to be able  to learn and adapt as well, to 
+account for the changes in the attackers’ ability  and strategy;  
+b. The ability to assess the impact of the attack – what is threatened and what is  the 
+mission/operational impact of that threat; and  
+c. The ability to understand the laydown of the network being defended, the  defences 
+available (including Goldilock devices) and recommend courses of  action that the 
+defender can take (or can be autonomously executed by an AI).   
+ 
+Recommendation for AI Regulation  
+In [non -cyber] warfare, the idea of autonomous weapons systems, that are controlled 
+by an  AI, conjures up scenes of Terminator and Judgement Day and leaves people 
+feeling  uncomfortable.   However, not all potential adversaries will comply with whatever 
+regulations  the international community may agree to.   This may include rogue nations, 
+non -state  actors, our allies, etc.   When our weapons become autonomous will we really 
+think about  constraining their operation based on ethics or morals, when lives of our 
+soldiers or citizens  are at risk?   The best we might be able to do is have an “ethics dial” 
+on our weapons, with  Mother Theresa on one end of the scale and Attila the Hun on the 
+other, that makes us  consciously decide on how ethical we want to be, like “rules of 
+engagement (RoE)” that  we have now.   If we know our weapons will be more e9ective 
+with the AI turned on, will we  really decide to turn it o9 at the risk of our troops’ or 
+citizens’ lives?   I would liken this to  delaying developing an atomic weapon until we face 
+an adversary that is so armed; at that  point it is too late.   So we need to anticipate and 
+develop these autonomous weapons  systems in an unconstrained way, only delaying 
+the decision to use them until we are faced  with a particular adversary.   
+
+ 
+Goldilock Secure Limited  
+Unit 1, Science Centre  
+Wolverhampton Science Park  
+Wolverhampton WV10 9RU  
+United Kingdom  
+ 
+ 
+AI-Powered Network Diagram & Deployment Tool  
+Richard Bate, CTO  
+Goldilock is developing an internal AI -driven tool to help our sales and distribution 
+teams  articulate how  Goldilock’s  technology integrates into an end -user’s 
+infrastructure.  
+Key Functions  
+• Network Topology Generation  
+o The tool processes either a provided network diagram or a written  
+description of the user’s network topology.  
+o It then generates a working network diagram, which can be ﬁne -tuned 
+(e.g., adjusting labels, modifying nodes).  
+• Simulated Security Analysis & Deployment Planning  
+o The system runs hundreds to thousands of attack simulations on the  
+provided network topology.  
+o It identiﬁes the most strategic placements for Goldilock devices, factoring 
+in: 
+§ Upstream &amp; downstream impact of disconnecting critical 
+systems  
+§ Business continuity risks (both for remaining connected and 
+disconnected)  
+§ Security trade -o9s and additional recommendations  
+• Stakeholder -Speciﬁc Reports  
+o The tool outputs a structured, standardised report for di9erent 
+audiences, including:  
+§ Executive Leadership &  Board Members – High -level risk 
+summaries and business impact   
+§ IT & Security Teams – Technical deployment and security 
+recommendations  
+§ Compliance O9icers – Alignment with regulatory and security 
+frameworks  
+ 
+ 
+
+ 
+Goldilock Secure Limited  
+Unit 1, Science Centre  
+Wolverhampton Science Park  
+Wolverhampton WV10 9RU  
+United Kingdom  
+Strategic Value:  Since Goldilock introduces a new paradigm in cybersecurity 
+(FireBreak) —encouraging a radically di9erent approach to infrastructure defence —this 
+tool helps convey its value in a way that aligns with multiple stakeholders’ priorities and 
+concerns.  
+AI-Driven Security Operations Centre (SoC) Simulator  
+Building on the AI network simulator, we are developing an interactive simulation  
+platform that allows SoC analysts to experience and respond to evolving cyber threats 
+in a  
+controlled environment.  
+How It Works  
+• AI-Generated Attack Scenarios  
+o The adversary in the simulation is an AI model trained to behave like an 
+Advanced Persistent Threat (APT).  
+o It attempts lateral movement, asset discovery, and network exploitation, 
+responding dynamically to the user’s actions.  
+• Interactive Decision -Based Gameplay  
+o The simulation presents users with a mix of graphical and text -based 
+scenarios, akin to classic “choose your own adventure” games.  
+o Users must make strategic decisions while time progresses and threats 
+escalate.  
+o Consequences evolve based on actions taken, reﬂecting real -world 
+incident response pressures.  
+• Integration with Goldilock Technology  
+o Users can deploy Goldilock’s technology at any point during the 
+simulation, triggering network isolation or segmentation events.  
+o They must weigh the risks, impact, and procedural steps before taking 
+action.  
+ 
+ 
+AI vs. AI Mode:   
+The system can also simulate AI vs. AI engagements, where multiple threat models and 
+defensive AI strategies compete against each other. Running thousands to millions of 
+these simulations allows us to:  
+• Train better AI threat detection models  
+
+ 
+Goldilock Secure Limited  
+Unit 1, Science Centre  
+Wolverhampton Science Park  
+Wolverhampton WV10 9RU  
+United Kingdom  
+• Improve SoC analyst decision -making  
+• Reﬁne Goldilock’s deployment strategies for maximum security impact  
+Recommended AI Regulation:  
+There needs to be constant monitoring and reﬁnement of systems using the  very AI that 
+we also need to protect against to constantly improve the systems.  
+ 
+Conclusion:   
+To operationalize this AI cybersecurity, we recommend the following for consideration:  
+(1) Establish AI -speciﬁc cybersecurity standards that mandate physica l network 
+segmentation for AI training and deployment environments, ensuring isolation of 
+sensitive data and models.   
+(2) Develop a federal AI threat intelligence and monitoring center to assess, predict, and 
+respond to AI -driven cyber threats, including autonomous and adversarial AI behaviors.   
+(3) Require continuous red -teaming and stress -testing of AI systems, using adversarial 
+simulations to identify vulnerabilities and reinforce system integrity.   
+(4) Incentivize public -private partnerships to develop AI -driven cybersecurity tools 
+capable of detecting and neutralizing malicious AI activities in real time.   
+(5) Invest in research to counter agentic AI threats, focusing on fail -safes, alignment 
+mechanisms, and human -in-the-loop oversight for autonomous AI systems.   
+These proactive measures will ensure AI remains a force for progress while minimizing 
+risks to national security and critical systems.  
+  
+Submitted by:  
+Stephen Kines, co -founder/COO Goldilock  
+Dr Peter J Lenk, NATO Lead Goldilock  
+Richard Bate, CTO Goldilock  
+ 
+ 
+

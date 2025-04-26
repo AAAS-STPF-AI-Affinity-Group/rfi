@@ -1,0 +1,37 @@
+From: Ira Ham
+To: ostp-ai-rfi
+Subject: [External] AI Action Plan
+Date: Friday, March 14, 2025 3:11:40 PM
+CAUTION: This email originated from outside your organization. Exercise caution when opening
+attachments or clicking links, especially from unknown senders.
+Comment provided by Ira Ham   CISO, MediaAlpha.
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the governmentin developing the AI Action Plan and associated documents without attribution.
+***The current guidance on testing parameters for Artificial Intelligence (AI) remains vague.
+While efforts have been made to ensure that tests for AI systems exist, there is limited clarityon how many iterations of such tests are considered sufficient or appropriate.
+An illustrative reference is the MEASURE function within the NIST AI Risk Management
+Framework (AI RMF) Playbook (Ref: NIST AI RMF Playbook – MEASURE). TheMEASURE guidelines emphasize that "appropriate methods and metrics are identified andapplied." However, they do not specify what constitutes a "good" metric or measurement inpractical terms.
+This ambiguity creates a gap: for example, an organization may interpret a single test iteration
+as being equally valid as 1,000 iterations. In the absence of baseline expectations orbenchmarking guidance, such interpretations can lead to inconsistent validation of AI behaviorand performance.
+Although prescribing exact measurements or thresholds may not be feasible, additional
+guidance on the expected range or consistency of outcomes—such as statistical accuracy overa number of iterations, or acceptable variance margins—would be valuable. Providingfeedback mechanisms or example cases would help organizations determine whether the scopeand depth of their AI testing is sufficient to account for system variability and risk.
+Some suggested actions to correct this gap include:
+1. Establish Baseline Testing Thresholds by Use Case Risk Tiering
+Introduce tiered testing expectations based on the AI system's risk profile (e.g., low, medium,high impact). High-risk systems (e.g., healthcare, criminal justice) would be expected toundergo significantly more rigorous and repeated testing than low-risk systems (e.g., contentrecommendations). This follows principles already used in other regulatory contexts.
+2. Incorporate Confidence Interval Guidelines
+Define minimum statistical confidence levels for test results. For instance, testing shouldcontinue until performance metrics (e.g., accuracy, fairness, drift detection) reach a 95%confidence interval with less than X% variance across iterations. This moves the guidancefrom number of tests to quality and consistency of outcomes.
+
+
+3. Create Reference Benchmarks and Validation Sets
+Develop and publish standardized benchmark datasets and test cases for common AI domains(e.g., NLP, computer vision). By using these, organizations can compare performance metricsand testing volume against peer implementations.
+4. Define Testing Adequacy Through Convergence Criteria
+Set thresholds for when further testing provides diminishing returns. For example, if after Niterations the model’s performance variance is less than a defined epsilon (e.g., ±0.5%), testingcan be considered adequate. This gives a dynamic and adaptive stop condition.
+5. Require Reporting on Test Iteration Justification
+Organizations should be required to document and justify the number of test iterationsperformed, including rationale for stopping. This could be part of their AI assurance or riskmanagement documentation. The focus is less on mandating a number and more on makingthe reasoning transparent and reviewable.
+6. NIST-Led Industry Collaboration for Domain-Specific Testing Protocols
+NIST can lead cross-sector working groups to develop domain-specific testingrecommendations, including minimum test iteration ranges, acceptable variance limits, andtailored metrics. This collaborative model would ensure practicality while maintaining rigor.
+-- 
+mav.png Ira Ham
+Los Angeles | Phoenix | Seattle | Taipei | Tampa  
+
+

@@ -1,0 +1,346 @@
+AI Realism 
+A Response to the Request for Information on the Development of an AI Action Plan 
+ Aidan O’Gara 
+Introduction – Toward AI Realism 
+Thank you for the opportunity to provide input on the development of an AI Action Plan. My 
+name is Aidan O’Gara. I am a PhD student in AI at Oxford University. I’ve worked on AI for six 
+years, including conducting research with Dan Hendrycks, AI advisor to Elon Musk, and ran the 
+data science team at a fintech startup. I submit this response as a proud American citizen.  
+Artificial intelligence could lead society down two very different paths. In one future, AI brings 
+incremental progress—new technologies, improved productivity, and steady economic 
+growth—similar to past waves of innovation like the internet or electricity. In another future, AI 
+achieves capabilities that fundamentally transform our economy, military, and society in ways we 
+can scarcely imagine, potentially disrupting labor markets and geopolitical stability with the 
+speed and impact of an industrial revolution or even the advent of nuclear weapons. Given this uncertainty, neither blind optimism nor fearful pessimism serve America’s interests. 
+Instead, the United States needs a pragmatic strategy—AI Realism—which recognizes that 
+advanced AI is inevitable, and that the wisest course decisively enhances America’s leadership 
+while responsibly managing risks.  
+1.Accelerate American AI Development
+●Build Data Centers and Energy Capacity. Energy capacity is the single largest
+bottleneck constraining American AI progress and driving data centers offshore. We
+should establish "Special Compute Zones" on underutilized federal land designated for
+rapid construction of large-scale AI data centers. Grant these zones blanket exemptions
+from NEPA and other onerous regulatory reviews. Appoint a White House AI Data
+Center Czar to oversee rapid, coordinated deployment of necessary infrastructure.●Bring Back the Fabs. U.S. dependence on foreign chip manufacturing, especially in
+Taiwan, creates strategic vulnerability. Ensure Intel and TSMC build leading-node fabs
+in the US, and remove irrelevant social policy strictures from the CHIPS Act.
+●Deploy AI for Governmental Efficiency. Career bureaucracies suffer from inefficiency
+and opacity. AI can dramatically enhance transparency, accountability, and productivity
+across federal agencies. Accelerate AI adoption by accelerating FedRAMP and FAR
+approvals, and direct OMB to catalog federal workflows that could benefit from AI.
+●Prevent Regulatory Overreach. Overly broad or restrictive regulations could
+inadvertently cripple American AI innovation. Reject sweeping deepfake laws and
+expansive copyright claims that unduly burden AI developers. Instead, direct the U.S. AI
+
+
+Safety Institute (AISI) to establish explicit, achievable technical standards for managing 
+frontier AI risks. Compliance with these standards should provide legal clarity and shield 
+responsible developers from frivolous lawsuits. 
+2.Put America First in AI Diplomacy
+●Tighten Export Controls. Aggressively enforce export restrictions by fully funding the
+Bureau of Industry and Security (BIS) and closing loopholes in export control rules.
+●Secure AI Secrets. American investments in AI could be negated if adversaries easily
+steal our breakthroughs. To protect our intellectual property, offer to assist frontier AI
+labs with security, and direct NIST to develop cybersecurity standards for frontier AI.
+●Targeted Strategic Partnerships. Other countries must pull their weight on AI policy.
+The Netherlands, Singapore, and others must do more to enforce export controls. The UK
+AI Security Institute should offer technical assistance in model evaluations and standards
+development. Establish intelligence-sharing partnerships with capable and relevant allies.
+●Develop Diplomatic Off-Ramps. The United States must defeat China in the AI race.
+Yet both nations have an interest in avoiding mutual destruction. To this end, we should
+cement diplomatic agreements to keep AI out of nuclear command-and-control systems,
+and pressure China to rigorously test its frontier AI models for global security risks.
+3.Prepare for the Possibility of Superintelligence
+●Monitor AI National Security Risks. Advanced AI systems could rapidly attain
+capabilities beyond human control ("superintelligence"). Ensure the U.S. government has
+the in-house technical capacity to directly evaluate frontier models. Require frontier AI
+labs (e.g., OpenAI, Anthropic, DeepMind, Meta, xAI) to provide regular, mandatory
+disclosures on model capabilities, national security risks, and future development plans.●Whistleblower Hotline. Create a secure, confidential hotline enabling employees at
+frontier AI labs to disclose national security concerns to the government without fear of
+retaliation. This ensures government awareness without risking public leaks of IP secrets.
+●Superintelligence Scenario Planning Team. Conduct scenario planning exercises for
+the full range of possible outcomes from AI development, including possibilities such as
+widespread job loss, theft of model weights, and sudden intelligence explosions. Analyze
+policy options such as national AGI projects and classification of frontier AI models.
+Adopting these recommendations will ensure America leads the world into the era of AGI, 
+capturing immense opportunities while confidently preparing for all possible outcomes.  
+
+
+Part I: Accelerate American AI Development 
+Build Data Centers and Energy Capacity 
+Energy is the single biggest bottleneck on AI development in America. The energy consumption 
+of AI data centers nearly doubles each year.1 By 2028, it is projected to exceed the total energy 
+consumption of the state of California.2 But U.S. energy production has flatlined for 25 years, 
+even as China’s energy production has grown to eighteen times higher than ours.3  
+This stark contrast between stagnant supply and skyrocketing demand forces a decision. Can we 
+boost American energy production to meet the demands of AI? Or will we watch as yet another 
+critical domestic industry is offshored to the benefit of foreign regimes? 
+To ensure that frontier AI is built in America, the Trump administration should: 
+●Create Special Compute Zones4: geographic areas designated for rapid construction of
+large-scale AI training clusters, much like the Opportunity Zones of the first Trump
+administration.5 These zones would be located in underutilized federal lands—such as
+Bureau of Land Management sites across Nevada and Utah, or retired coal plants in states
+like Pennsylvania or West Virginia. Companies constructing data centers in these zones
+should commit to stringent cybersecurity standards.●Appoint an AI Data Center Czar to lead the White House Task Force on AI Datacenter
+Infrastructure.6 This individual would be empowered to coordinate efforts across DOE,
+DOD, Interior, and industry, and employ the Defense Production Act to streamline
+regulatory approvals, address supply-chain bottlenecks, and facilitate rapid deployment.
+●Revise the Biden Executive Order on AI Infrastructure7 to eliminate onerous
+environmental requirements. Drop the requirement that frontier AI data centers on
+federal land only use clean energy sources, and waive NEPA review for those projects by
+invoking the Defense Production Act’s “without regard” clause and NEPA’s emergency
+circumstances provision (40 C.F.R. § 1506.11).8
+8 Datta and Fist, “Compute in America.”  7 The White House. "Executive Order on Advancing United States Leadership in Artificial Intelligence 
+Infrastructure." January 2025.  6 Datta and Fist, “Compute in America.”  5 U.S. Department of the Treasury. "Treasury, IRS Announce First Round of Opportunity Zones Designations for 18 
+States." April 2018.  4 Arnab Datta, Tim Fist. "Compute in America: A Policy Playbook: How to Rapidly Build Gigawatt-Scale AI 
+Clusters in the United States." Institute for Progress, February 2025.  3 Tim Fist, Arnab Datta. "How to Build the Future of AI in the United States: Part Two of Compute in America." 
+Institute for Progress, October 2024.  2 Ibid.  1 Konstantin F. Pilz, Yusuf Mahmood, Lennart Heim. "AI's Power Requirements Under Exponential Growth." 
+RAND, January 2025.  
+
+
+Bring Back the Fabs 
+Onshoring AI chip manufacturing has been a priority for this administration, for good reason. 
+The island of Taiwan makes more than half of the world’s chips, including >90% of AI chips.9 
+Conflict in Taiwan could plunge the United States into a recession and set back our AI progress 
+by five years. For national and economic security purposes, we need to bring back the fabs.  
+While this topic is too complex to cover in full here, please consider the following priorities: 
+●Bring the best of TSMC to the US. The administration achieved tremendous success in
+securing $100B of planned investments in American chip manufacturing from TSMC.10
+But Taiwan insists the most advanced chips must only be manufactured on the island.11
+The Trump administration must ensure that leading node chips are manufactured in the
+US by leveraging our diplomatic, economic, and military ties with Taiwan.
+●Reinvigorate Intel. Support leading node Intel fabs in the United States, whether run by
+Intel’s current ownership structure or by spinning out Intel Foundry Services.
+●Save the CHIPS Act. Sen. Tommy Tuberville's CHIPS Improvement Act dismantles
+the DEI mandates built into the original CHIPS Act.12 Work with Congress to pass it, then
+to pass the STAR Act, which cements the 25% tax credit for R&D investments on chip
+manufacturing and design—without imposing extraneous diversity requirements.13
+Deploying AI for Governmental Efficiency 
+Career bureaucrats are isolated from democratic accountability by layers of middle managers and 
+reams of administrative rules. AI can help every aspect of government be more transparent, 
+accountable, and efficient.  DOGE’s effort to deploy large language models in federal agencies 
+should be accelerated.14 FedRAMP and the Federal Acquisition Regulation should be modified 
+to accelerate federal AI adoption. The Office of Management and Budget (OMB) should catalog 
+all federal workflows that could be accelerated with AI. 
+Prevent Regulatory Overreach 
+Overbearing rules from Congress, courts, state legislatures, or foreign regulators could pose a 
+severe threat to American AI development. Policymakers must prioritize addressing clear harms 
+without strangling American ingenuity through misguided legislation. 
+14 Matteo Wong. "DOGE’s Plans to Replace Humans With AI Are Already Under Way." The Atlantic, March 2025. 13 Select Committee on the CCP. "Semiconductor Technology Advancement and Research (STAR) Act." U.S. House 
+of Representatives, July 2024. Rep. Blake D. Moore. "H.R.9183 – STAR Act of 2024." 118th Congress 
+(2023–2024), introduced July 2024, U.S. House of Representatives. 12 Sen. Tommy Tuberville. "CHIPS Is Broken. I’m Fixing It." The American Conservative, June 2024. Sen. Tommy 
+Tuberville. "S.4568 - CHIPS Improvement Act." 118th Congress (2023–2024), June 2024, U.S. Congress. 11 Helen Davidson. "Taiwan vows most advanced tech will not go to US under $100bn Trump deal." The Guardian, 
+March 2025. 10 Reuters, David Shepardson and Steve Holland. "Trump and TSMC announce $100 billion plan to build five new 
+US factories." Reuters, March 2025. 9 Isabel Hilton. "Taiwan Makes the Majority of the World’s Computer Chips. Now It’s Running Out of Electricity." 
+WIRED, October 2024.  
+
+
+Specifically, the Trump administration should: 
+●Reject overly broad deepfake legislation  such as California's failed AB 3211, which
+would have solved the deepfake problem by making most modern AI systems illegal.15
+Instead, support legislation like the TAKE IT DOWN Act, supported by Melania Trump,
+Sen. Ted Cruz, and others.16 This bill would make it a crime to use AI to create
+pornographic images of another person without their consent, thus placing responsibility
+squarely on malicious individuals rather than unwitting AI developers.
+●Protect AI training data from sweeping copyright claims. Advanced AI models are
+trained on vast datasets that inevitably include copyrighted materials. Perhaps copyright
+owners should have the right to opt-out of training datasets, but AI developers should not
+be presumed guilty for training on datasets freely available on the internet.
+●Create AI standards to clarify tort liability. AI firms should not face ruinous legal
+consequences from minor misuse by end-users. The administration should direct the AI
+Safety Institute (AISI) to issue explicit, achievable standards for risk management in
+frontier AI development. Companies that demonstrably comply with these standards
+could then invoke adherence as a legal defense, effectively creating a safe harbor that
+incentivizes safety without inviting regulatory paralysis or frivolous litigation.
+Part II: Put America First in AI Diplomacy 
+Export Controls 
+The United States and China are engaged in direct strategic competition, in which economic and 
+military dominance increasingly depends on advanced AI capabilities enabled by leading node 
+semiconductors. The Trump administration should aggressively tighten export controls and 
+improve enforcement, including by banning exports of Nvidia’s H20 GPU,17 fully funding BIS,18 
+and requiring government-to-government agreements to protect against smuggling.19  
+19 Anton Shilov. "U.S. investigates whether DeepSeek smuggled Nvidia AI GPUs via Singapore." Tom's Hardware, 
+January 2025. 18 Samuel Hammond. "Supporting the Bureau of Industry and Security." Foundation for American Innovation, May 
+2024. Edward Graham. "Export control agency lacks funding and tech to manage its workload, official says." 
+Nextgov/FCW, March 2024. 17 Reuters, Fanny Potkin and Che Pan. "Exclusive: Nvidia's H20 chip orders jump as Chinese firms adopt 
+DeepSeek's AI models, sources say." Reuters, February 2025. 16 Sen. Ted Cruz. "S.4569 – TAKE IT DOWN Act." 118th Congress (2023–2024), introduced June 2024, U.S. 
+Congress. U.S. Senate Committee on Commerce, Science, & Transportation. "House Leaders Pledge to Advance 
+‘Take It Down’ Act at Sen. Cruz’s Bipartisan Roundtable with First Lady Melania Trump." March 2025. 15 Dean W. Ball. "California should rethink its broad and sloppily drafted deepfake bill." Understanding AI, July 
+2024. 
+
+
+Secure AI Secrets 
+America’s investments in advanced AI will amount to little if adversaries can freely steal our 
+innovations. The recent theft of AI trade secrets at Google underscores this risk: in 2024, Google 
+engineer Linwei Ding was indicted for transferring sensitive details about Google's AI data 
+centers and models to affiliated Chinese firms.20 Individual AI labs lack the expertise to defend 
+against advanced persistent threats, creating an opportunity for IC assistance.  
+Specifically, the Trump administration should: 
+●Offer voluntary assistance with security to AI labs. Establish communication channels
+between AI companies and the intelligence community to share information (including
+classified information) and expedite security clearances for key AI industry personnel.
+●Direct NIST to develop robust AI security standards  for protecting AI model weights
+and algorithmic secrets from theft by state and non-state actors, including through
+confidential computing methods that encrypt model data even during active processing.
+●Require stringent cybersecurity standards for federal AI procurement partners,
+enforcing compliance with existing frameworks from DOD, NIST, and others.21
+Penetration tests from the IC could be used to assess the effectiveness of these efforts.
+Targeted Strategic Partnerships 
+American AI will bring tremendous benefits to the world. Other countries must pull their weight, 
+such as by enforcing export controls, conducting technical analysis, and defending against 
+foreign espionage. The Trump administration should clearly identify critical actions required 
+from other countries and leverage American diplomatic and economic power to ensure these 
+strategic partners align with our AI interests. 
+Specifically, the administration should pursue the following goals with other countries: 
+1.Export control enforcement. Other countries have fallen short in enforcing AI export
+controls. The Netherlands, for example, has obscured official data on semiconductor
+equipment exported by ASML to China, and Singapore’s rapid emergence as Nvidia’s
+second-largest revenue source raises concerns about GPU smuggling into China.22 Failure
+to faithfully enforce export controls should reduce the number of AI chips that a country
+can buy, thus creating a strong incentive for countries to improve their enforcement.2.Technical evaluations and standards. The UK AI Security Institute (AISI) performs the
+same kind of evaluations and standards setting work at the US AI Safety Institute, and the
+22 Reuters, Toby Sterling. "Dutch government excludes most ASML sales to China from 'dual use' export data." 
+Reuters, January 2025. Kristina Partsinevelos. "Nvidia’s unofficial exports to China face scrutiny after arrest of 
+silicon smugglers in Singapore." CNBC, March 2025. 21 Datta and Fist, “Compute in America.”  20 U.S. Department of Justice. "Superseding Indictment Charges Chinese National in Relation to Alleged Plan to 
+Steal Proprietary AI Technology." February 2025. 
+
+
+two have collaborated on risk evaluations for frontier AI models.23 Yet the UK AISI has 
+more than 10x the budget of its American counterpart, counting more than 50 technical 
+staff and senior leaders from industry labs like OpenAI and Google DeepMind.24 To 
+benefit from this technical experience, the United States should partner with UK AISI 
+to jointly assess the risks of frontier AI models and develop technical standards.  
+3.Counterintelligence.  Foreign nations like the UAE and Malaysia are building large
+clusters of American GPUs. For the protection of those data centers and ours at home, the
+United States should establish intelligence sharing programs with key AI partners.
+Diplomatic Off-Ramps 
+At the height of the Cold War, following the Cuban Missile Crisis, the United States and Soviet 
+Union established a direct nuclear hotline—a rare acknowledgment that even ruthless adversaries 
+share an interest in avoiding mass destruction. Today, as the United States confronts China in a 
+must-win global competition, we should remain open to the possibility of narrow opportunities to 
+cooperate on reducing mutual risks of ruin with our greatest strategic adversary.  The Trump administration should therefore pursue the following specific, narrow goals: 
+●Keep AI out of nuclear command and control. The previous administration secured a
+commitment from China’s President Xi that AI would not be integrated into nuclear
+launch decisions.25 This commitment should be reaffirmed and rigorously verified.
+●Press China to evaluate AI models for global security risks. China has established an
+AI evaluations body, but their AI policy has prioritized ideological conformity ahead of
+genuine security concerns.26 Recent tests found that DeepSeek, China’s leading AI model,
+is highly vulnerable to adversarial attacks, posing dangers if misused by rogue actors.27
+No state has an interest in private actors developing weapons of mass destruction.
+Therefore, the United States should pressure China to test its AI models for such risks.
+Offensive Cyber Capabilities 
+To prevent reckless or hostile foreign actors from gaining a dangerous advantage in AI, America 
+must invest in offensive cyber capabilities. The United States should establish an extensive 
+intelligence capability to monitor the world’s most advanced AI research projects and data 
+centers. Beyond merely observing, the U.S. military and intelligence community must develop 
+27 Paul Kassianik and Amin Karbasi. "Evaluating Security Risk in DeepSeek and Other Frontier Reasoning Models." 
+Cisco Blogs, January 2025. 26 Caroline Meinhardt and Graham Webster. "What do we know about China’s new AI safety institute?" DigiChina, 
+February 2025. Matt Sheehan. "China’s AI Regulations and How They Get Made." Carnegie Endowment for 
+International Peace, July 2023. 25 Jarrett Renshaw and Trevor Hunnicutt. "Biden, Xi agree that humans, not AI, should control nuclear arms." 
+Reuters, November 2024. 24 Billy Perrigo. "Inside the U.K.’s Bold Experiment in AI Safety." TIME, January 2025. AI Security Institute. 
+"About." UK Government, Department for Science, Innovation, and Technology. 23 National Institute of Standards and Technology. "Pre-Deployment Evaluation of Anthropic’s Upgraded Claude 3.5 
+Sonnet." November 2024. 
+
+
+the technical means to discreetly sabotage or disrupt dangerous AI development efforts overseas. 
+Reducing uncertainty about foreign AI development can reduce the fog of war, and sabotage via 
+cyberattack is less escalatory than kinetic conflict, both reducing risks from conflict.  
+Part III: Prepare for the Possibility of Superintelligence 
+Here’s a quote from David Sacks, the White House AI and Crypto Czar: 
+I’m all in favor of accelerating technological progress, but there is something unsettling 
+about the way OpenAI explicitly declares its mission to be the creation of AGI. 
+AI is a wonderful tool for the betterment of humanity; AGI is a potential successor 
+species. 
+ To the extent the mission produces extra motivation for the team to ship good products, 
+it’s a positive. To the extent it might actually succeed, it’s a reason for concern. Since it’s 
+hard to assess the likelihood or risk of AGI, most investors just think about the former.28 
+This statement is indicative of the fact that when people talk about the future of AI, they’re often 
+picturing only one of two extremely different paths. Thus, disagreements about the risks and 
+required policy responses are often simply disagreements about the trajectory of AI capabilities.  
+In the first, AI is just another wonderful consumer technology. Much like the internet boom of 
+the 1990s, new companies will be founded, new products will be launched. Some jobs may be 
+lost, but others will emerge. America will continue to grow and thrive as it always has.  
+But another future, more radical and uncertain, is possible. To understand the potential 
+destabilizing force of theOpenAI explicitly aims to build AGI, which they define as “highly 
+autonomous systems that outperform humans at most economically valuable work.” Recent 
+statements from OpenAI suggest they might announce AGI before they have actually put most 
+people out of their jobs; therefore, it might be better to focus on “superintelligence.”  
+To understand the potential destabilizing power of superintelligence, consider the descriptions of 
+“Critical Risk Systems” in OpenAI’s Preparedness Framework.29 They include including AI 
+capable of creating biological threats comparable to a “novel CDC Class A biological agent,” 
+autonomously launching “end-to-end novel strategies for cyberattacks against hardened targets,” 
+or persuasion powerful enough to convince “almost anyone to take action on a belief that goes 
+against their natural interest.” We may never have such systems, but if we do, they would have 
+the potential to upend the global security order.  
+29 OpenAI. "Preparedness Framework." December 2023. 28 Zvi Mowshowitz. "AI #94: Not Now, Google." December 2024. 
+
+
+Whether this transformative scenario occurs during this administration depends on whether it is 
+technically feasible to create an "intelligence explosion,” wherein AI systems become capable of 
+rapidly accelerating their own development.30 Without an intelligence explosion, AI progress will 
+continue at its current pace for many years, bringing steady benefits to many industries. But an 
+intelligence explosion would mark a radical departure from the current trajectory, compressing 
+decades of technological advancement into a matter of years or even months.  
+Nobody knows what the future holds. Surely AI will bring tremendous benefits for society. But 
+we cannot rule out the possibility that a private company could build the equivalent of a nuclear 
+arsenal—quickly, quietly, and with little warning. The United States cannot afford to be surprised 
+by superintelligence, and under no circumstances can we afford to let China achieve this 
+capability first. Facing uncertainty, prudence demands that we prepare for all possible outcomes.  
+The Trump administration should therefore aim to: 
+●Gather timely and accurate information about the state of AI development.
+●Build in-house technical capacity to directly evaluate AI national security risks.
+●Conduct scenario planning exercises for extreme outcomes of AGI development.
+Monitor AI National Security Risks 
+OpenAI recently acknowledged that their models are “on the cusp of being able to meaningfully 
+help novices create known biological threats.”31 Yet, in their response to this RFI, they propose 
+merely voluntary and optional engagement with the government on monitoring these risks.32 
+Given the enormous benefits of AI and rapidly falling price of AI development, proliferation of 
+powerful AI capabilities cannot and should not be prevented. But from a national security 
+standpoint, it would be unacceptable for the U.S. government to be late to learn about new 
+dual-use capabilities in frontier AI systems.  To gather timely and reliable information on advanced AI capabilities, the administration should: 
+●Foster in-house technical capacity for model evaluations. This could be done by the
+U.S. AI Safety Institute, or established at another agency such as DOD or DOE. This
+team should conduct evaluations of both closed- and open-source models.
+●Build secure, classified data centers that allow the government to securely host
+proprietary model weights and evaluate their capabilities against classified threats. The
+Department of Energy already has relevant experience in this domain.
+32 Christopher Lehane. "Response to OSTP RFI on AI Action Plan." OpenAI, March 2025. 31 OpenAI. "Deep Research System Card." February 2025. 30 Leopold Aschenbrenner. "From AGI to Superintelligence: The Intelligence Explosion." Situational Awareness, 
+June 2024. 
+
+
+●Require regular reports from frontier AI labs (i.e. OpenAI, Anthropic, DeepMind,
+Meta, and xAI). They should detail the capabilities and risks of current models, including
+non-public models, and lay out plans for future AI development. Companies should also
+be required to immediately notify the federal government of theft of model weights or
+algorithmic secrets by rogue actors. These requirements should apply only to the largest
+labs, which spend billions on AI research; startups which fall below a size threshold as
+measured in dollars or computational power should be fully exempt.
+These disclosure requirements could be mandated under existing authorities of the Defense 
+Production Act, integrated as conditions for receiving government support such as energy 
+infrastructure assistance or defense procurement contracts, or established through direct binding 
+agreements. Given the stakes, relying on voluntary reporting by AI companies is unacceptable. 
+The federal government must have timely and accurate information about frontier AI systems.  
+Whistleblower Hotline 
+The Trump administration should establish a secure email hotline where employees of frontier 
+AI labs can privately share information relevant to national security without fear of retaliation. 
+Previously, OpenAI imposed contracts forbidding former employees from criticizing the 
+company—or even acknowledging the existence of this contractual clause—under threat of 
+losing their vested equity. We only know about this practice because Daniel Kokotajlo, a former 
+OpenAI researcher, refused to sign this non-disparagement agreement, under threat of losing 
+millions of dollars.33 While OpenAI claims to have fixed this specific problem, similar restrictive 
+practices may still be in place at frontier AI labs.  
+To stay reliably informed about critical developments in AI without risking public exposure of 
+sensitive trade secrets, the federal government should create a protected whistleblower channel 
+ensuring that AI lab employees can share critical information with the federal government.  
+Scenario Planning Team 
+The Trump administration should establish a dedicated AGI Preparedness Team tasked with 
+identifying, monitoring, and planning for specific AI-related national security threats.34 This 
+team could be staffed by members of the National Security Council, DHS, DOD, or elsewhere. 
+Drawing from best practices in pandemic preparedness and counterterrorism, they could plan for 
+specific identified threat scenarios, such as an AI-enabled bioterrorism attack, theft of advanced 
+AI systems by hostile actors, or rapid automation of AI R&D. If these threats materialize, 
+advance preparation would enable decisive action to successfully address the crisis.  
+34 Akash Wasil, Everett Smith, Corin Katzke, and Justin Bullock. "AI Emergency Preparedness: Examining the 
+federal government's ability to detect and respond to AI-related national security threats" July 2024. 33 Tharin Pillay. "Daniel Kokotajlo, Former Governance Researcher, OpenAI." TIME, September 2024. 
+
+

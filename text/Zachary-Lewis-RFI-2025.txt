@@ -1,0 +1,104 @@
+Submission to the Office of Science and Technology Policy (OSTP) and 
+NITRD NCO  
+Request for Information: Development of an Artificial Intelligence (AI) Action Plan  
+Submitted by: Zachary Lewis - Independent AI and Cybersecurity Researcher  
+Date: March 06, 2025  
+Introduction  
+As an independent researcher with expertise in AI systems and cybersecurity, I am submitting 
+this response to the RFI to propose a priority policy action for the AI Action Plan: the 
+development of a Resilient AI Security Model (RASM)  for consumer desktops and laptops. 
+This model leverages well -defined x86 -based hardware running the Windows operating system, 
+integrates a specialized system -on-chip (SoC) for real -time security, and pairs with a proactive 
+monitoring AI to ensure self -healing and resilience. Th is proposal aligns with the Executive 
+Order’s goals of sustaining U.S. AI dominance and fostering private sector innovation while 
+addressing national cybersecurity objectives.  
+Priority Action: Develop and Deploy a Resilient AI Security Model (RASM)  
+I recommend the inclusion of the following policy action in the AI Action Plan:  
+Fund and incentivize the creation of a Resilient AI Security Model (RASM) designed for 
+x86-based consumer desktops and laptops running Windows, featuring a hardware -
+limited AI with real -time attack surface monitoring, a dedicated SoC for security, and a 
+companion monitoring AI for proactive resilience.  
+Key Components of the Proposal  
+1.Hardware -Specific AI Design
+○The RASM will be engineered for x86 -based systems with known I/O and PCI
+internal components (e.g., standardized motherboards, GPUs, and storage
+devices). By limiting the AI’s scope to a well -defined hardware ecosystem, it can
+achieve deep integration and optimization, reducing complexity and enhancing
+reliability.
+○Rationale: A hardware -specific approach leverages the widespread use of x86
+architecture in consumer devices (desktops and laptops), ensuring broad
+applicability while enabling precise control over the system’s attack surface.
+2.Comprehensive Attack Surface Awareness
+○The AI will be trained to understand all attack surface points within the Windows
+OS and underlying hardware, including kernel -level processes, driver
+interactions, and firmware vulnerabilities.
+
+
+○It will monitor and respond to anomalies in real time at both the hardware and OS
+layers (e.g., unauthorized memory access, malicious driver injections, or
+hardware -level exploits).
+○Rationale: Windows dominates the consumer OS market, yet its complexity
+creates numerous vulnerabilities. An AI with full visibility into these layers can
+preemptively thwart attacks, strengthening national cybersecurity.
+3.System-on-Chip (SoC) for Security
+○A dedicated SoC will be integrated into x86 systems to run the RASM
+independently of the main CPU. This SoC will handle encryption, secure boot
+processes, and real -time threat detection, isolating security functions from
+potential OS compromises.
+○Rationale: By offloading security to a separate chip, the system remains
+protected even if the OS or primary hardware is breached, mirroring successful
+strategies in mobile devices (e.g., Apple’s T2 chip).
+4.Monitoring AI for Proactive Resilience
+○A secondary monitoring AI, hosted externally (e.g., in the cloud or on a separate
+device), will communicate with the SoC to analyze patterns, predict threats, and
+trigger self -healing actions (e.g., rolling back malicious changes, isolating
+compromised com ponents).
+○This companion AI will use aggregated data from deployed RASM systems to
+improve resilience across the ecosystem.
+○Rationale: Proactive self -healing reduces downtime and damage, while collective
+learning enhances the model’s effectiveness, supporting both individual users
+and national security.
+5.Consumer and National Cybersecurity Benefits
+○Targeted at consumer desktops and laptops, the RASM will protect millions of
+U.S. households and small businesses, which are frequent targets of
+cyberattacks.
+○It aligns with national cybersecurity objectives by reducing the attack surface of
+critical infrastructure endpoints, preventing consumer devices from becoming
+vectors in larger -scale attacks (e.g., botnets).
+○Rationale: Securing consumer endpoints strengthens the overall cybersecurity
+posture of the nation, a key component of U.S. AI leadership.
+Policy Recommendations  
+To implement this action, I propose the following steps:  
+1.Federal Funding and R&D Grants : Allocate resources to develop the RASM, including
+partnerships with x86 hardware manufacturers (e.g., Intel, AMD) and Microsoft for
+Windows integration.
+2.Private Sector Incentives : Offer tax credits or subsidies to companies producing
+RASM -enabled devices, encouraging rapid adoption in the consumer market.
+3.Regulatory Sandbox : Establish a testing environment where developers can deploy
+and refine the RASM without immediate regulatory burdens, fostering innovation.
+
+
+4.Standards Development : Collaborate with industry to define open standards for the
+SoC and AI communication protocols, ensuring interoperability and scalability.
+5.Public Awareness Campaign : Educate consumers on the benefits of RASM -enabled
+devices to drive demand and adoption.
+Why This Matters  
+This proposal advances U.S. AI dominance by pioneering a hardware -AI synergy that 
+competitors like China have yet to match in the consumer space. It avoids burdensome 
+regulation by embedding security into the design process, leaving manufacturers free to 
+innovate within a secure framework. Moreover, it directly supports national cybersecurity by 
+hardening consumer devices against exploitation, a critical need given the rise in state -
+sponsored and criminal cyberattacks.  
+Conclusion  
+The Resilient AI Security Model (RASM) offers a forward -thinking, practical solution to bolster 
+U.S. AI leadership and protect the nation’s digital ecosystem. By integrating hardware -specific 
+AI, a secure SoC, and proactive resilience into consumer devices , this action ensures 
+innovation thrives without compromising security. I urge OSTP and NITRD NCO to prioritize this 
+initiative in the AI Action Plan, leveraging America’s strengths in x86 hardware and software to 
+set a global standard for resilient AI sys tems.  
+Thank you for considering this submission. I am available to provide further details or 
+collaborate on implementation strategies.  
+Sincerely,  
+Zachary Lewis  
+
+

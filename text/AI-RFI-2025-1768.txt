@@ -1,0 +1,162 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-3w5z-rxj8
+Com m ents Due: March 15, 2025
+Subm ission Type: Web
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1768
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Charles Stei ner  
+Email: 
+General Comment
+I'm  an AI researcher, and I think there's not enough attention on the problem  that we could build powerful, im pactful AI, and then suffer
+grave consequences because we didn't properly understand how to build it correctly.
+Getting AI to do what you want is hard, particularly when "what you want" is com plicated and hard to specify. As AI does m ore
+com plicated real-world tasks for us, getting AI to do what you want (this is som etim es called "alignm ent," though unfortunately that word
+is used m ultiple ways) becom es a m ore and m ore valuable technical capability, both econom ically and strategically. Am erican com panies
+are currently the world leaders at it, and I want to see that continue.
+But there's m ore than just the hum an vs. hum an contest here. There's hum an vs. nature. If we were talking about bridges, it's like
+Am erican com panies can build bridges that stay up 25% of the tim e, while Chinese bridges stay up 15% of the tim e. We're winning the
+hum an vs. hum an contest, but it does us a fat lot of good if we can't actually build good bridges.
+Building AI that's sm art like hum ans are is going to be a huge deal - it's like m eeting an alien species. Because it's such a big deal, we don't
+want to m ake it go badly by building AI that doesn't do what we want. (Not out of m alice, but out of not knowing how to do better. Like
+trying to build a bridge but it falls down.)
+What roles do I think the governm ent can play in accelerating Am erican capabilities along this axis? (Taking it as understood that I'm
+neglecting other im portant axes of AI developm ent.)
+- Messaging m ay be m ore im portant than m oney. If the US governm ent clearly com m unicates that it takes accident risks from  AI
+seriously, and that we have to develop the technologies to surm ount this hum an vs. nature contest, but that if we do so we can reap great
+rewards, others will follow our lead.
+- A lot of people are going to answer this request for inform ation by asking the US governm ent to spend a lot of m oney on com pute
+infrastructure. That won't help here. The bottleneck on the technologies needed to get AI to do what we want is understanding, not
+com puter chips.
+To that end, one way to spend m oney on this problem  would be grant program s specifically for research into how to get AI to do what
+we want. In addition to direct work on im proving the alignm ent of m odern AI, indirect work is also needed to develop datasets and
+standards to evaluate progress, to build theoretical m odels of AI m otivations, and to build tools for im proving the alignm ent of future AI.
+- Another role m ight be incentivizing AI labs to m ake progress on this research. One m ethod could be brokering agreem ents between
+m ajor AI labs and the US governm ent in which the labs agree to do som e fraction of research into getting AI to do what we want.
+Another m ethod m ight be com petitions or prizes for certain research - trying to create a "race to the top" rather than a race to the bottom
+(phrase taken from  "Anthropic's Responsible Scaling Policy", anthropic.com , 2023), although governm ent research would be needed to
+develop the standards for such com petitions or prizes in the first place.
+
+
+I've included m y answers to what I think are som e sensible questions a reader of this com m ent m ight have in an attachm ent, because they
+ran over the character lim it.
+Attachments
+csteiner_com m ent_QA
+
+
+Q: Why is getting AI to do what you want hard?  
+A: Because the current standard approach - training AI on whether humans 
+approve or disapprove of its output (as in e.g. "Deepseek -V3 Technical 
+Report", DeepSeek -AI, 2024. "Training a Helpful and Harmless Assistant 
+with Reinforcement Learning from Human Feedback", Bai et al., 2022) - has 
+fundamental problems handling human error. Models trained in this way 
+will exploit flaws in human judgment to get greater approval (in fact 
+LLMs already do mild versions of this, as in "Towards Understanding 
+Sycophancy in Language Models", Sharma et al., 2023). There are more 
+sophisticated approaches (e.g. "RLAIF vs. RLHF: Scaling Reinforcement 
+Learning from Human Feedback with AI Feedback", Lee et al., 2023. 
+"Deliberative alignment: reasoning enables safer language models", Guan 
+et al. on openai.com, 2024. "Improving mathematical reasoning with 
+process supervision", Lightman et al. on openai.com, 2023), but they 
+still sometimes incentivize bad behavior (e.g. "Detecting misbehavior in 
+frontier reasoning models", Baker et al. on openai.com, 2025). Finding 
+better training methods is an open problem.  
+Q: It's all well and good to say AI should do "what we want," but what 
+who wants, specifically?  
+A: Current AI to which this question applies (primarily LLMs) are built 
+to follow common sense first, instructions from their creator 
+organization second, and instructions from a normal user third. If AI is 
+sufficiently useful and we continue with that current model, there may be 
+a power struggle among humans for who gets to give instructions to that 
+AI. Even those in current positions of power are individually unlikely to 
+win in such a struggle. It therefore may be of strategic, not just moral, 
+importance to build future AI to have a strong internal sense of morality 
+inherited from a large sample of humanity, which it priviliges above user 
+instructions, and to put other roadblocks in the path of aligning an AI 
+with one person in particular. This strategic argument doesn't go all the 
+way towards saying that we will end up building AI for the good of all 
+humankind. Nevertheless, I am an idealist and would prefer if we really 
+did build AI for the good of all humankind. The influence of the creator 
+organization should be confined to the abstract questions needed to say 
+what they mean by "the good of all humankind."  
+Q: Why is getting AI to do what you want economically and strategically 
+valuable?  
+A: In the short term, it means that AI chatbots, or AI code assistants, 
+or AI drivers, or AI factory optimizers will do good jobs by human 
+standards. If you compare an AI driver that drives nicely 100% of the 
+time, and an AI driver that drives nicely 95% of the time and confuses or 
+scares the passengers the other 5%, the second one is not 95% as the 
+first - it's much less. Improved AI alignment technology is valuable in 
+the short term because it unlocks human -AI interaction that requires high 
+reliability.  
+Q: Are we actually on track to build AI that's smart like humans are?  
+A: Yes. Not necessarily with the current generation of AI, but within a 
+couple of decades. The best time to prepare is now.  
+Q: How would things go badly if we build a smart AI using the current 
+approach to get it to do what we want?  
+
+
+A: It would learn to exploit systematic human errors to get reward (this 
+already happens in "Deep reinforcement learning from human preferences", 
+Christiano et al., 2017). One of the key things it will do is manipulate 
+humans, but it may also hack computers, establish failsafes that are hard 
+for humans to shut down, etc. In the worst case, this eventually leads to 
+what a survey of AI experts categorized as "extremely bad outcomes (e.g. 
+human extinction)." ("Thousands of AI Authors on the Future of AI", Grace 
+et al. 2024)  
+Q: Will another government or international corporation try to build 
+smart AI even if it doesn't do what they want? Or, put another way, "Will 
+trying to build smart AI properly make us lose a human vs. human 
+contest?"  
+A: Possibly. It's likely against their self -interest for reasons outlined 
+above, but there are three sorts of reasons it might be done anyway:  
+1. The consequences of building different sorts of AI are a
+technical question about which some AI experts are in disagreement 
+("Thousands of AI Authors on the Future of AI", Grace et al. 2024). By 
+chance, an actor may listen to particularly -unconcerned experts, and 
+honestly believe they are pursuing their direct self -interest. Confidence 
+may attract more investment money, leading to a selection bias among 
+corporate actors.  
+2. If a person or faction within a government or corporation can
+advance their interests by having it run an AI project, the 
+government/corporation may appear to act "irrationally" from the outside. 
+These interests need not be financial. E.g. if Chinese internal politics 
+heavily link AI to national pride, political careers may ride on 
+promoting the appearance of a strong AI program without due care for the 
+consequences.  
+3. A bad action may seem like the best option in context. If e.g.
+China fears that AI doing what Americans want is a threat to Chinese 
+sovereignty, they may tolerate a higher AI accident risk (note that this 
+overlaps with factor 2 - the government is an internal faction within the 
+Chinese people). Or uncontrolled AI may be treated like a WMD, with 
+actors attempting to possess it for deterrence or bargaining power.  
+Q: Will improving technology to get AI to do what we want have downsides? 
+What if corporations stop their own research because they can just use 
+public research? What if knowledge diffusion, including via stealing of 
+secrets, helps other parties catch up?  
+A: Yes, retaining some secrets seems necessary to maintain our global 
+lead, and allowing corporations to retain some secrets seems necessary to 
+incentivize private research. We should also be maintaining our global 
+lead in other ways (e.g. export controls, helping labs invest in 
+cybersecurity to prevent stealing of secrets), and incentivizing private 
+research in other ways (e.g. making agreements that include public 
+commitments).  
+Q: How is this related to policy recommendations often coded as "AI 
+Safety", but focused on AI being misused by malicious humans?  
+A: Most of them are irrelevant to this topic. This is not to say they're 
+necessarily wrong - if AI being used by malicious humans does turn out to 
+be a major problem, then we're going to have to make some hard choices 
+about e.g. open source AI. But the problem this comment focuses on is AI 
+
+
+failing to do what we want, without any humans needing to be malicious. 
+In this view, open source AI is primarily just a mild benefit to 
+researchers.  
+
+

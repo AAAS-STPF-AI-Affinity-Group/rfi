@@ -1,0 +1,142 @@
+ 
+Before the  
+Office of Science and Technology Policy 
+Washington, DC 
+ 
+In the Matter of      ) 
+       ) 
+Request for Information on the Development  )   FR Docket No. 2025-02305 
+       ) 
+of an Artificial Intelligence (AI) Action Plan   ) 
+ 
+ 
+ 
+Reply Comments of Neha Ayyalapu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 22, 2025  
+ 
+
+
+ 
+ 
+I am responding to the “Request for Information on the Development of an Artificial 
+Intelligence (AI) Action Plan” issued jointly by the OSTP, NSF, NITRD, and NCO. One issue 
+that must be addressed in AI policy development is the environmental costs associated with AI 
+due to the vast computational power required to develop and deploy these systems. Energy 
+demand for data centers in the United States has tripled in the last decade and is expected to 
+nearly triple by 2030. A significant portion of this energy consumption comes from the growing 
+demand for artificial intelligence tools, which is only expected to increase in the coming years. 
+Current U.S. policy emphasizes advancing our AI capabilities and expanding infrastructure to 
+keep pace with foreign competitors. While sustaining a competitive edge is important in today’s 
+technological landscape, it is equally important to ensure that these efforts do not come at the 
+expense of environmental sustainability. 
+I suggest two primary mechanisms for mitigating AI’s energy footprint while fostering 
+responsible innovation. First, the administration should establish structured incentives to 
+encourage the adoption of energy-efficient AI systems. Second, the government should 
+implement standardized reporting methods and requirements for AI-related energy consumption. 
+I expand on each of these below. 
+The first policy I propose is to offer tiered incentives for the use of more energy-efficient 
+AI systems. This approach specifically targets three aspects of AI systems: (1) the training and 
+deployment of the model itself, (2) the hardware involved in running AI models, and (3) the data 
+centers that serve as infrastructure. Each of these areas presents significant opportunities for 
+energy savings, and addressing them collectively will maximize impact. I briefly elaborate on the 
+progress and potential for further energy efficiency in each of these verticals, supported by 
+insights from computer science research.  
+
+
+ 
+ 
+The energy consumption of AI models is driven by two phases: training (the initial 
+development of the model) and inference (when the model is actively used). Efforts to reduce 
+energy consumption during training include Google’s GLaM, an LLM that outperformed GPT-3 
+despite using 2.8 times less energy,1 and techniques such as early stopping during 
+hyperparameter optimization, which can reduce training energy consumption by up to 80%.2 On 
+the inference side, there are new systems such as CLOVER, which optimizes workloads through 
+GPU resource partitioning and can reduce carbon emissions by up to 60% with minimal accuracy 
+loss.3 Advancements in hardware also play a significant role in reducing the energy footprint of 
+AI. For example, Google developed Tensor Processing Units (TPUs), hardware specialized for 
+neural networks that improved carbon efficiency threefold4 while also performing operations 
+over 15 times faster than some traditional CPUs and GPUs.5  
+Meanwhile, data centers, which serve as the backbone of AI infrastructure, present 
+another significant opportunity for reducing environmental impact. Some solutions leverage 
+power capping—dynamically adjusting power usage at a data center based on current workload 
+demands—to prevent unnecessary energy waste.6 Recently, researchers at the University of 
+Waterloo introduced an optimization to Linux network traffic processing, improving CPU cache 
+6 Chen, Huamin, and Sandro Mazziotta. "Introducing Climatik: Power capping AI applications for data center 
+sustainability." Red Hat Blog, 12 Nov. 2024 5 Sanmartín, Diego, and Vera Prohaska. “Exploration of TPUs for AI Applications” Proceedings of the Second 
+International Conference on Advances in Computing Research (ACR’24), vol. 956, 2024. 
+ 4  Patterson, David, and Parthasarathy Ranganathan. “Designing sustainable AI: A deep dive into TPU efficiency and 
+lifecycle emissions.” Google Cloud Blog, 5 Feb 2025. 
+ 3 Li, Baolin, et al. "Clover: Toward Sustainable AI with Carbon-Aware Machine Learning Inference Service." 
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 
+(SC 2023), 2023, pp. 20:1–20:15. 
+ 2 Foy, Kylie. "AI Models Are Devouring Energy. Tools to Reduce Consumption Are Here, If Data Centers Will 
+Adopt." MIT Lincoln Laboratory, 22 Sep. 2023. 
+ 1 Patterson, David, et al. "The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink." IEEE 
+Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 55, no. 7, 2022, pp. 18-28.  
+ 
+ 
+
+
+ 
+ 
+efficiency and potentially reducing data center energy consumption by up to 30%.7 All of these 
+advancements highlight the potential to reduce the environmental footprint of AI– a potential 
+that can be maximized through federal incentives and standards. 
+Thus, to accelerate progress and adoption of energy-efficient AI systems, I urge the 
+administration to implement incentives modeled after successful programs in other industries. 
+The government could introduce a tiered tax credit system for companies that develop or deploy 
+AI models, hardware, or data centers that meet defined energy and sustainability benchmarks, 
+with greater efficiency metrics corresponding to incrementally higher tax benefits. The federal 
+government could establish a tiered Green AI Certification (ranging from Bronze to Platinum) to 
+evaluate the environmental impact of AI systems, similar to the LEED rating system for 
+buildings. This certification could assess additional factors such as hardware lifecycle 
+sustainability and integration of renewable energy sources. Certified technologies could benefit 
+from advantages in federal procurement opportunities or streamlined approval processes. To 
+further drive innovation, the DOE and NSF could jointly administer a grant program to fund 
+research in energy-efficient AI technologies, prioritizing high-impact areas identified by experts. 
+While these are just a few proposals, any incentives implemented should promote incremental 
+improvements as well as cutting-edge work across AI models, hardware, and data centers. 
+While incentivizing energy-efficient AI is important, it is challenging to measure 
+progress without standardized metrics for performance and improvement. Although industry 
+transparency has improved, the energy demands of AI are still often hidden by companies and 
+invisible to users and policymakers. To address this, I introduce my second policy: the 7 Gooding, Matthew. "Changing Linux code could cut data center energy use by 30%, researchers claim." Data 
+Center Dynamics, 22 Jan. 2025. 
+ 
+
+
+ 
+ 
+establishment of mandatory energy disclosure requirements for data centers and the development 
+of energy transparency reporting guidelines for AI systems. 
+Following the European Union’s Energy Efficiency Directive,8 the U.S. should require 
+data centers to report key performance indicators such as power usage effectiveness, water usage 
+effectiveness, total energy consumption, and carbon emissions. Disclosure mandates would 
+encourage data centers to adopt best practices for sustainability. Making these metrics publicly 
+available would also enable policymakers, researchers, and consumers to better assess the 
+environmental impact of AI infrastructure, compare efficiency across facilities, and push for 
+improvements. 
+For AI models, I recommend that NIST and the DOE develop a standardized 
+methodology for measuring the energy and carbon costs of AI training and inference across 
+different model architectures and data center infrastructures. Once established, companies should 
+be encouraged or incentivized to report the energy and carbon costs associated with training and 
+operating their AI models. Public disclosure would increase market pressure for efficiency and 
+reward energy-conscious AI development while enabling consumers and policymakers to make 
+more informed decisions. 
+AI will continue to shape the future of the U.S. economy and society in the coming years, 
+but its expansion must be balanced with sustainability efforts. By combining targeted incentives 
+for energy efficiency with standardized reporting and transparency measures, the administration 
+can ensure that AI development and innovation align with environmental responsibility. 
+ 8 European Commission. Commission Delegated Regulation (EU) 2024/1364 of 14 March 2024 on the First Phase 
+of the Establishment of a Common Union Rating Scheme for Data Centres. Official Journal of the European Union, 
+L 1364, 17 May 2024, pp. 1–15. 
+ 
+
+

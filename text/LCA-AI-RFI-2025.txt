@@ -1,0 +1,158 @@
+ 1  
+ 
+ 
+ 
+COMMENTS OF THE LIBRARY COPYRIGHT ALLIANCE ON REMOVING 
+BARRIERS TO AMERICAN LEADERSHIP IN ARTIFICIAL INTELLIGENCE  
+ 
+ 
+ This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution . 
+ 
+ The Library Copyright Alliance (“LCA”) consists of the American Library Association 
+and the Association of Research Libraries. These two library associations represent over 100,000 
+libraries in the United States employing over 3 00,000 librarians and other personnel.  
+ 
+ LCA appreciates the opportunity to respond to the Networking and Information 
+Technology Research and Development Nation al Coordination Offic e, National Science 
+Foundation , request for input on the development of an A rtificial Intelligence  (“AI”) Action Plan 
+directed towards sustaining and enhancing America’s AI dominance. We believe the highest 
+priority action items relate  to two dimensions of ensuring that copyright law does not become a 
+barrier to the development of AI : 
+ 
+• First, the courts should treat the ingestion of content necessary to power many AI 
+activities as a fair use under 17 U.S.C. § 107. To that end, the Actio n Plan should call for 
+the Administration to file amicus  briefs in support of fair use in appropriate cases.  
+ 
+• Second, license terms purporting t o abridge the fair use rights of users should not be 
+enforced. This can be achieved under theories such as conflict preemption advocated by 
+the Administration in amicus  briefs in litigation . 
+ 
+ These issues are discussed below in greater detail.  
+ 
+I. Preserv ing Fair Use  
+ 
+ American leadership in AI is  attributable in large measure to the fair use  right, codified at 
+17 U.S.C. § 107. For more than two decades, both academic and commercial AI researchers have 
+swept up enormous amounts of content from disparate so urces, including the Internet, in the 
+course of developing AI processes. Most  of this content is protected by copyright, and the 
+amount of content needed for AI training is so vast that identifying all the rightsholders and 
+receiving their permission is a practical impossibility. Fortunately for U.S. AI researchers, a 
+
+
+ 2 series of appellate  fair use decisions starting in the early 1990s provided a legal basis for this 
+aggregation without the rightsholders’ authorization.1  
+ 
+ In contrast, t he UK Copyright, Desi gn, and Patent Act was amended only in 2014 to 
+permit the copying incidental to computational analysis, and then just for non -commercial 
+purposes. Copying for computational  analysis was allowed in the EU and Japan in 2019. This 
+mean t that the legal environment in the United States provided U.S.  AI researchers as much as a 
+two-decade lead time advantage  over competitors in Europe and Japan.  
+ 
+ To be sure, the U.S. appellate decisions referenced above  did not concern generative  AI; 
+but the rea soning of the courts in these cases weigh heavily in favor of a fair use finding in the 
+pending cases concerning generative AI. Nonetheless, some of the preliminary district court 
+decisions in the recent surge of AI cases2 suggest that the courts could ben efit from the 
+Administration’s views on the fair use nature of the copying incidental to the training of AI 
+models.3 In appropriate cases, the Administration should file amicus  briefs stressing the 
+enormous public benefits of AI to the United States, and h ow these benefits greatly outweigh the 
+speculative harm caused to copyright owners by the act of ingestion. The Supreme Court in 
+Google v. Oracle , 141 S. Ct. 1183, 1206 (2021), underscored that the fair use calculus  often  
+“must take into account the public  benefits the copying” under consideration is likely to produce. 
+The Administration must make clear to the courts the public benefit of continued American 
+leadership in AI.4 
+ 
+ In the unlikely event that the courts apply fair use so narrowly that the development of 
+generative AI is constrained, the Administration should urge Congress to enact legislation to 
+                                                
+1 Sega Enterprises Ltd. v. Accolade, Inc ., 977 F.2d 1510 (9th Cir. 1992)  and Sony Computer 
+Entertainment, Inc.  v. Connectix Corp. , 203 F.3d 596 (9th Cir.  2000 ) permitted  
+the copying of entire computer programs in the course of reverse engineering for the purpose of 
+extracting the information necessary to achiev e interoperability. Following these precedents, 
+Kelly v. Arriba Soft Corp ., 336 F.3d 811 (9th Cir. 2003) , Perfect 10, Inc., v. Amazon.com, Inc ., 
+508 F.3d 1146 (9th Cir. 2007) , A.V. ex rel. Vanderhye v. iParadigms, LLC , 562 F.3d 630 (4th 
+Cir. 2009) , Authors Guild, Inc. v. HathiTrust , 755 F.3d 87 (2d Cir. 2014) , and Authors Guild v. 
+Google, Inc ., 804 F.3d 202 (2d Cir. 2015) , all approved reproductions during the course of 
+various artificial intelligence  processes . 
+2 Ali Sternburg, Scholars Agree Opinion in Thomson -Reuters v. Ross Should be Disregarded , 
+Disruptiv e Competition (Feb. 28, 2025), https://project -disco.org/intellectual -property/scholars -
+agree -opinion -in-thomson -reuters -v-ross-should -be-disregarded/.  
+3 The Administration should, in appropriate cases, also file amicus  briefs arguing that the 
+removal of copyright management information during the AI training process does not violate 17 
+U.S.C. § 1202.  
+4 In general, the Administration should take a more favorable view toward fair use than previous 
+Administrations. In 2014 , the revenue from industries reliant on fair use was $5.6 trillion. The 
+value added by these industries to the U.S. economy was over $2.8 trillion. Computer & 
+Communications Industry Association, Fair Use in the U.S. Economy  (2017), 
+https://ccianet.org/wp -content/uploads/2017/06/Fair -Use-in-the-U.S.-Economy -2017.pdf . These 
+numbers are significantly larger now.  
+
+ 3 enable the advancement of this technology. As noted, o ther countries with sophisticated 
+technology sectors have enact ed provisions in their copyright laws that facilitate AI. The United 
+States must not place itself at a competitive disadvantage relative to other countries by hindering 
+the evolution of this important tool. But at this point, we should let the courts —with the 
+Administration’s guidance —apply fair use principles to the many different fact patterns 
+presented in the cases centering on ingestion.  
+ Although the ingestion of  works for AI training purposes generally is a fair use, the 
+copyright status of the AI’s outputs  must be considered separately . If an AI produces a work that 
+is substantially similar in protected expression to a work that was ingested by the AI, that new 
+work likely infringes the copyright in the original work.5   
+ 
+II. Limiting the Adverse I mpact of License Terms  
+ 
+ While the appellate  court decisions demonstrate that the ingestion of copyrighted 
+materials for the purpose of an AI process is a fair use, the terms of click -wrap6 and browse -
+wrap7 license terms imposed by database providers and website operators could prohibit the 
+ingestion of material.  With browsewrap licenses, there are serious questions whether there was 
+sufficient manifestation of assent to form a binding contra ct.8 Moreover, strong arguments can be 
+made that browsewrap and c lickwrap licenses inconsistent with th e fair use right are preempted 
+either by the C onstitution9 or 17 U.S.C. § 301(a).10  
+ 
+ Notwithstanding these arguments, there is contrary authority.11 When this issue arises 
+again in the courts, the Administration should  file amicus  briefs arguing that contractual 
+prohibitions on copying otherwise permitted by fair use are not enforceable .12 If the courts 
+ultimately get this issue wrong, and rule in favor of rightsholders unilaterally eviscerating fair 
+use via contract, the Administration should urge Congress to enact legislation making clear that 
+                                                
+5 www.librarycopyrightalliance.org/wp -content/u ploads/2023/06/AI -principles.pdf.  
+6 In a click -wrap license, the user must click on an “I agree” icon in order to access digital 
+material such as a database or a website.  
+7 In a browse -wrap license, a website’s terms of service declare that by using the website, the 
+user agrees to the website’s terms of service.  
+8 See Nguyen  v. Barnes & Noble , 763 F. 3d 1171 (9th Cir. 2014).  See generally  Jonathan Band 
+and Krista Cox, The Enforceability of License Restrictions on Ingestion for Artificial Intelligence 
+Training Purposes , available at  arl.org (April 2024).  
+9 See Vault Corp. v. Quaid Software Ltd , 847 F.2d 255 (5th Cir. 1988) ; X Corp. v. Bright Data 
+Ltd., (N.D. Cal. May 9, 2024) .  
+10 See Data General Corp. v. Grumman Sytems Support Corp. , 36 F.3d 1147 (1st Cir.  1994);  ML 
+Genius Holdings LLC v. Google LLC , No. 20 -3113 (2d Cir. Mar. 10, 2022); 1 Nimmer on 
+Copyright § 1.01[B][1][a][i] . 
+11 See Meyer v. Uber Technologies, Inc. , 868 F.3d 66 (2d Cir. 2017); Bowers v. Baystate Techs., 
+Inc., 320 F.3d 1317 (Fed. Cir. 2003) , cert. denied , 539 U.S. 928 (2003); Davidson & Assoc. v. 
+Jung , 422 F.3d 630 (8th Cir. 2005); ProCD, Inc. v. Zeidenber g, 86 F.3d 1447 (7th Cir. 1996).  
+12 This issue is different from bot exclusion headers, such as robot.txt, which website operators 
+can employ to prevent their sites from being crawled for AI training purposes. Most AI firms 
+respect these bot exclusion headers voluntarily.  
+
+4 exceptions a nd limitations provide d in the Copyright Act prevail over license terms inconsistent 
+with those exceptions. It shoul d be noted that for over thirty years, the Europea n Uni on has 
+include d contract preemption clauses i n its directives.13 It has recognize d that it woul d be 
+pointless t o require Member States t o adopt exceptions if private parties could simpl y override 
+them by contract. Significantly, Article 7(1) of the Digital Single Market (“ DSM ”) Directive 
+voids a ny contractual provision contrary t o Article 3, which permits text and data mining by 
+researc h organizations a nd cultural heritage institutions for scientific research. 
+III. Conclusion
+To sustai n and enhance America’s current AI dominance, U.S. courts must continue to 
+find the ingesti on of content neede d for AI processes t o be a fair use. To assist the courts 
+achievi ng this result, the AI Acti on Plan shoul d state that the Administrati on will file amicus 
+briefs i n appropriate cases explaini ng the public benefit of AI. Likewise, the AI Acti on Plan 
+shoul d aver that the Administrati on will file amicus briefs articulating the positi on that licenses 
+prohibiti ng ingestion for AI purposes shoul d not be permitte d to trump the fair use right.  
+Respectfull y submitted, 
+Jonatha n Band 
+LCA Counsel 
+March 14, 2025  
+13 See Jonathan Band,  Protecting User Rights Against Contract Override , PIJIP/TLS Research 
+Paper Series (May 2023) https://digitalcommons.wcl.american.edu/research/97.  
+

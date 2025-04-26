@@ -1,0 +1,214 @@
+Page 1 of 8 This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without 
+attribution.  
+Artificial Intelligence (AI) Action Plan  
+Executive Summary  
+The rapid advancement and adoption of artificial intelligence (AI) in the United 
+States and globally necessitate a critical examination of its current trajectory 
+and future development. Classical AI, built on perceptron -based neural 
+networks and powered by  energy-intensive GPU/SIMD processors, has driven 
+remarkable progress over the past decade but is now reaching its limits due to 
+unsustainable energy consumption and escalating costs. Examples such as 
+the $500 billion Stargate joint venture and the market disruption caused by 
+DeepSeek’s efficiency breakthrough highlight the financial and competitive 
+pressures facing classical AI. Beyond economics, the opacity of classical AI 
+systems raises significant concerns about transparency, trust, and potential 
+biases, affecting individual lives and national security. Meanwhile, the 
+concentration of AI power among a few major corporations threatens to limit 
+access and diversity in foundational AI models, risking monopolistic control 
+over a technology critical to the na tion’s future.  
+To address these challenges, the United States must invest in both sustaining 
+classical AI and pioneering its successor, such as neuromorphic computing, 
+which promises greater efficiency, reduced energy use, and transparent 
+decision-making. Additionally, c ommon-sense regulations are needed to 
+ensure AI transparency, protect against discrimination, and democratize 
+access to AI technologies. By learning from precedents like the EU’s GDPR 
+and historical interventions such as the AT&T breakup, the U.S. can main tain 
+its leadership in AI innovation while safeguarding its citizens and national 
+interests.  
+
+
+Page 2 of 8 Innovation in non -classical AI:  
+The AI industry is currently dominated by classical AI.   To be clear, classical AI 
+refers to systems that are centered around perceptron -based neural networks 
+(the model) and are accelerated by GPU/SIMD type processors.   While it is 
+undeniable that this classical AI has made incredible advances over the past 
+decade, it is also true the scale we are currently operating at is pushing 
+classical AI to a breaking point.   Chief amongst the problems posed by 
+classical AI is the tremendous energy consumption of these systems.   In fact, 
+two recent events underscore the pr oblem we face with classical AI systems…  
+1.The announcement of the Stargate joint venture.   While investment in AI
+infrastructure is in the national interest, the announced $500B
+expenditure by Stargate is primarily driven by the massive scale of the
+data centers needed to house classical AI system s.  The huge energy
+requirements and volumetric space required to accommodate classical
+AI is clearly evident in the scale of investment required to house these
+systems.   Adjusted for inflation, the cost of this AI infrastructure is 10X
+higher than the con struction costs of the Hoover Dam.
+2.A relatively obscure Chinese AI company, DeepSeek, announced a
+breakthrough in AI efficiency which resulted in a staggering $1T loss in
+the US/Euro tech markets.   This is a clear indicator that AI efficiency is
+front and center on the minds of the entire A I industry.   The exorbitant
+cost of classical AI is already painful today, and it will only continue to
+get worse as our foundational models continue to grow in size and AI
+continues on it’s blistering pace to embed itself in American society.
+
+
+Page 3 of 8 Although the two events discussed above discuss the financial costs of 
+classical AI, there is another ‘cost’ to classical AI that is just as 
+concerning.   Considering that the concepts associated with classical AI are 
+more than 50 years old, and that the en tire industry is compelled to discover a 
+new approach to AI, it follows that there is a competition amongst developed 
+nations to discover what comes next.   Just as the steam engine gave way to 
+the internal combustion engine, we can be certain that somewher e, some 
+group of researchers, private entity or government will break through the 
+barriers posed by classical AI.   Whoever achieves this will harvest not only an 
+economic benefit, but quite likely a military benefit as well.  
+Consider Intel Corporation and the technological advantage that was afforded 
+the United States by leading the world in the microprocessor 
+revolution.   Those benefits accrued for decades and are only now starting to 
+diffuse.   For AI, the stakes will be even  larger.   At this moment it is clear that 
+China is pushing hard in AI R&D.   They have already surpassed the US in the 
+important metric of producing published research focused on AI.   In fact, in 
+2017 China announced their ‘New Generation Artificial Intelli gence 
+Development Plan’ in which they seek to lead all nations in AI by 2030.   They 
+are well on their way.  
+In order for the US to maintain AI superiority, we must invest in both classical 
+AI systems as well as funding the research for what will inevitably replace 
+classical AI systems.   One of the more promising emerging technologies is 
+referred to as ‘nueromorp hic computing’.   Neuromorphic computing systems 
+leverage the most contemporary neuroscience to fully unlock the superior 
+processing and intelligence of the human brain.   The benefits include massive 
+reductions in energy use and implementation costs.   Additional benefits 
+include full model transparency so decisions so that human operators and 
+government regulators can have higher confidence in the use of AI throughout 
+American industry.  
+
+
+Page 4 of 8 There should be no doubt that the classical AI systems that are being adopted 
+across every corner of American industry will give way to something more 
+efficient and even more powerful.   The US must proactively make the 
+investments necessary to ensure we ar e the nation to discover the next engine 
+that will power the AI industry.  
+The need for AI Transparency:  
+AI is continuing to be rapidly adopted by nearly every industry in the US and 
+worldwide.   Consequently, more and more decisions that impact the lives of 
+citizens throughout the world is being relegated to AI systems that are hidden 
+and out of view of the p ublic.   The impact of decisions made by these classical 
+AI systems can be acutely personal, as in the approval or denial of a loan 
+application.   Consider too, the use of AI to develop a treatment plan for a life -
+threatening disease.   It is understandable t hat both patient and doctor would 
+want the very highest level of confidence in this type of AI system.   Beyond the 
+impact to individuals, the decisions made by AI systems can also have 
+implications to the national security of the United States.   For exampl e, 
+imagine an AI system controlling a fire control system for US Air Defense.   At 
+the critical moment of designating an unknown aircraft as ‘friend’ or ‘foe’ it is 
+vitally important to have confidence in the AI system that is making that 
+determination and the basis for its recommendation.   The wrong decision in 
+this type of scenario can have catastrophic consequences.  
+Unfortunately, the underlying mathematics of classical AI systems make it 
+very difficult, perhaps impossible to clearly understand the basis for any 
+recommendation that comes from AI systems.   Indeed, we have already seen 
+documented examples of unintended bias creeping into AI systems that can 
+cause damage to individual citizens.   The resulting lack of trust in AI threatens 
+to limit the further adoption of AI by certain industries, in spite of the 
+efficiencies that can be realized through the adoption of AI .   
+
+
+Page 5 of 8 Beyond the individual, lack of transparency in AI systems can lead to large 
+scale bias against entire groups of our population.   In other words, opacity in 
+AI systems can lead to widespread discrimination that is very hard to 
+detect.   The remedy to all of these problems is to provide common sense 
+regulation of AI that is used in applications that can impact individuals and 
+our national security.   The consequences of an AI system making the wrong 
+choice while sorting freshly harvested produce is one thing, b ut the 
+consequence of an AI system discriminating against a class of individuals is 
+quite another.   The US has created laws that prohibit discrimination, but what 
+happens when that discrimination is deeply embedded in a system that has 
+no way of being insp ected?  
+The European Union has already implemented important safeguards from AI 
+systems for its citizens.   The ‘Right to an Explanation’ clause of GPDR (General 
+Data Protection Regulation) stipulates that individuals have a right not to be 
+subject to a decision ba sed solely on automated processing.   According to 
+GPDR, if automated decision processing (AI) is used, affected individuals 
+have the right to obtain meaningful information about the logic 
+involved.   Unfortunately, the decision logic in classical AI systems  is difficult 
+to ascertain.   This leads to businesses avoiding the use of AI, not because it 
+provides the wrong decisions but rather because the decisions it provides 
+cannot be explained.  
+Until we move beyond classical AI and the opacity that surrounds it’s 
+decisions, common sense regulations must be put in place to protect 
+individuals.   In addition to appropriate regulations, investments in the 
+development of AI that exhibits full transpar ency in the decision process 
+should be undertaken.  
+Democratization of AI:  
+
+
+Page 6 of 8 AI systems are growing at an unprecedented scale.   As evidenced by the 
+recent Stargate announcement, investments of $500B will be made to house 
+the massive AI systems that are being designed for near -term use.   The 
+massive capital expenditures to power AI aren’t the only problem.   These 
+massive AI systems require equally massive amounts of information to train 
+the AI systems.   The sheer size of the capital investment and amount of data 
+needed to train these systems presents a significant barrier to entry in  the AI 
+market, especially at the highest end where foundational AI models rule the 
+day.   Already today we see the emergence of a highly concentrated group of 
+companies that can afford to operate at this scale.   This group includes 
+corporations like Google , Microsoft and Meta and a few others in the US and 
+abroad.   As we go forward, it is possible for this group of AI ‘power players’ to 
+further consolidate as the market shakes out and the most successful models 
+begin to achieve market dominance.  
+The US has long recognized and regulated the existence of monopolistic 
+enterprises.   This is especially true when those enterprises control critical 
+commodities or infrastructure that are of national importance.   This same 
+approach must be taken with AI.   Equal access and diversity of choices in 
+foundational AI models must be part of a plan for the US going 
+forward.   Furthermore, both users of these systems and the government 
+officials who will regulate these systems should have access to decision logic 
+or the underlying construction of the models.   This is particularly true for any 
+models that use post processing ‘tune’ decisions towards some perceived 
+ideal.  
+The break -up of AT& T serves as an example of how the US Government has 
+intervened to protect the delivery of critical services to the citizens of the 
+US.  In the case of AI, the stakes may be even higher.   Imagine the potential 
+implications if our most frequently used ‘sourc e of truth’ has deeply 
+embedded ulterior motives.   Already we see the potential for biased media to 
+
+
+Page 7 of 8 impact matters of national significance, like US elections.   Biases in AI 
+systems, whether intentional or not, can have long reaching impacts on the 
+US.  Here again, common sense regulations that work to democratize 
+(providing access to, choice of and insi ght to) the emerging realm of AI will be 
+in the best interest of the US and governments of developed nations.  
+Call to Action  
+The US can create opportunities to lead the world in cutting edge AI based on 
+neuromorphic comput ing by taking these three steps.  
+•Fund Research and Development: Allocate significant federal funding to
+accelerate research into neuromorphic computing, supporting
+universities, national labs, and private -sector partnerships to unlock its
+potential as the next -generation AI technology.
+•Incentivize Adoption: Establish grants, tax credits, or public -private
+initiatives to encourage industries to transition from energy -intensive
+classical AI to neuromorphic systems, reducing costs and
+environmental impact.
+•Move Neuromorphic  AI to The Edge : The American war figh ter deserves
+the best technolo gy available to achieve their mission goals.
+Neuromorphic computing provides unique capabilities in terms of
+SWAP (Size Weight and Power) , explainability, and  functionality.   Invest
+to projects to bring neuromorphic AI alternatives to the battlefield.
+Submitted by:  
+Rich Stuppy,  Advisor Natural Intelligence Systems , Concerned Ci tizen  
+Natural Intelligence Systems   
+2650 S Burgdorf W ay  
+Meridian, ID 83642  
+
+
+Page 8 of 8 Date: March 15, 2025  
+Paul Dluglosch,  CEO Natural Intelligence Systems  
+Natural Intelligence Systems   
+1120 S Rackham Way Suite 300  
+Meridian, ID 83642  
+Date: March 15, 2025  
+
+

@@ -1,0 +1,222 @@
+ 
+ 
+March  15, 2025 
+ 
+ 
+Submitted  via electronic  mail  (ostp -ai-rfi@nitrd.gov ) 
+AI Action  Plan 
+Attn: Faisal  D'Souza,  NCO 
+2415 Eisenhower  Avenue  
+Alexandria,  VA 22314  
+ 
+Re: Comments  on the OSTPʼs  Development  of an AI Action  Plan,  Document  No. 
+2025
+ 02305, from MX Technologies, Inc.  
+ 
+ 
+Introduction  
+MX Technologies,  Inc. ("MX")  appreciates  the opportunity  to contribute  to the 
+OSTP's  development  of an AI Action  Plan. At MX, our mission  is to empower  the 
+world  to be financially  strong.  We do this by helping  financial  institutions,  fintechs, 
+and businesses  understand  and do more  with consumer -permissioned  financial  
+data so that they can better  serve  their consumers.  For the past 13 years,  MX has 
+focused  on improving  customer  outcomes  by helping  these  organizations  to 
+reliably  connect  to financial  data,  generate  intelligence  that drives  growth  and 
+personalized  insights  for consumers,  and deliver  better  money  experiences  to 
+consumers.  
+As a pioneer company in the financial data and software space, we understand 
+how data access can fuel AI innovation in financial services — benefiting both 
+consumers and the economy. AI presents immense opportunities across the  
+financial services ecosystem. Depository institutions, loan providers, fintechs, and 
+payment platforms are already providing AI -powered services that benefit 
+consumers today. Overall, the future of AI in finance, including the automated  
+management  of financial  activities,  could  revolutionize  the way Americans 
+experience  and manage  their financial  lives.  We support  the OSTPʼs  efforts  and 
+appreciate  the chance  to provide  recommendations  focusing  on financial  data 
+access  and AIʼs role in financial  services,  emphasizing  innovation  while  mitigating 
+risks.  
+
+
+2 As you develop  your AI Action  Plan, we recommend  you consider  modernizing  
+financial  data regulations,  improving  coordination  between  regulatory  agencies  to 
+ensure  consistency,  and standardizing  risk assessment  and mitigation 
+frameworks.  These  areas  are critical  to providing  clear rules of the road for 
+companies  to safely  innovate  and serve  their customers  in the AI space,  while 
+protecting consumers from potential risks.  
+Data  Access  and AI Effectiveness  
+AI models  are only as effective  as the data used to train and operate  those  
+models.  But, many  AI models  — particularly  in financial  services  — can suffer 
+performance  challenges  due to incomplete  datasets.  For instance,  AI models  that 
+focus  on delivering  personalized  recommendations  to consumers  based  on their 
+spending  and financial  behaviors  may be limited  or inaccurate  if they only see part 
+of a consumerʼs  financial  history.  The average  consumer  has at least five or more 
+financial  accounts  with various  banks,  credit  unions,  and other  financial 
+providers.1 This fragmented  financial  experience  can leave  consumers  — and the 
+financial  providers  who serve  them  — with blindspots  that can negatively  impact 
+efforts  to improve  consumer  financial  wellbeing.  Without  connecting  those  various  
+accounts  and sources  of financial  data together,  organizations  canʼt effectively 
+deliver  the products  and services  that best meet consumer  needs.  
+Comprehensive access to permissioned consumer financial data (such as 
+checking  accounts,  credit,  and investment  history)  can help AI models  to better 
+understand  financial  behavior,  leading  to more  accurate  and consumer -centric 
+guidance  and outcomes.  Historically,  credit  bureaus  have used data like credit  
+utilization,  credit  history  length,  payment  history  and public  records  to determine  a 
+consumerʼs  creditworthiness.  Today,  AI models  have the opportunity  to better 
+assess  creditworthiness  through  the additional  use of alternative  data to create  a 
+more  accurate  picture  of creditworthiness.  For example,  the Consumer  Financial 
+Protection Bureau 
+ CFPB
+  highlighted that cashflow data, in addition to traditional 
+credit  scores,  can better  assess  a borrowerʼs  creditworthiness,  improving  access 
+to credit for underserved populations.2 
+AI models  that do not have access  to this type of alternative  data (such  as rent or 
+utility  payment  history)  may unfairly  assess  creditworthiness.3 Models  trained  only 
+on traditional  credit  history  may favor  applicants  from historically  credit -approved  
+1 MX Blog:  “Artificial  Intelligence:  How to Move  from Science  Project  to Value  Add for Banks”  
+2 CFPB  Explores  Impact  of Alternative  Data  on Credit  Access  for Consumers  Who Are Credit  Invisible  
+3 CFPB  Explores  Impact  of Alternative  Data  on Credit  Access  for Consumers  Who Are Credit  Invisible ; 
+see also Increasing  Access  to Affordable  Mainstream  Credit  Using  Alternative  Data. 
+
+
+3  groups, depriving those without sufficient credit history — despite their actual 
+repayment capability. Such AI models operate based on a limited view of 
+consumersʼ financial strength, relying on historical patterns rather than a holistic 
+understanding of an individualʼs ability to repay a loan.4 
+Limited  data can result  in self-fulfilling  prophecies  in AI predictions.  For example, 
+an AI model  facilitating  small -business  lending  might  use county -level 
+employment  trends  or regional  economic  indicators  as a proxy  for business  risk. 
+While  macro  data can be predictive,  relying  on it in isolation  can unfairly  penalize 
+healthy  businesses  in struggling  regions.  If lenders  withdraw  from these  regions 
+based  on biased  AI predictions,  the local economy  may worsen,  reinforcing  the 
+negative trends.  
+With more  comprehensive  data (such  as years  of transaction  data)  AI models  can 
+distinguish  traditionally  perceived  credit  concerns  from true default  risk. Research 
+shows  that fintech  lenders  using  alternative  data (like real-time cash flows  and 
+online  transaction  history)  are able to lend successfully  in areas  that traditional  
+models  deemed  too risky,  achieving  more  accurate  risk predictions  that lead to 
+both increased  credit  availability  and loan performance.5 
+Use of broader,  more  complete  datasets  — reflecting  individual  histories  and 
+behaviors  based  on permissioned  data — can break  these  cycles  and improve 
+outcomes  when  appropriate  guardrails  are in place.  Important  guardrails  for the 
+use of large datasets  should  consider  real-time monitoring  systems  to ensure  data 
+security  and privacy,  validation  frameworks  to ensure  data accuracy,  including 
+appropriate  levels  of human  review,  and ethical  guidelines  to both protect 
+consumers  from risks of bias and to ensure  that data is properly  permissioned  for 
+training and use.  
+AI, when  implemented  properly  and responsibly,  can enhance  economic  resilience  
+by providing  more  accurate,  context -sensitive  risk assessments.  Better  data 
+inputs  to AI models  can lead to increased  innovation  and reduced  risk of 
+inaccurate decisions.  
+Consumer -Centric  AI Development  
+MX advocates for AI models in finance that prioritize consumer well -being and 
+empowerment. AI models should be designed to improve financial health, helping  
+ 
+4 Brookings  Institute:  “Algorithmic  bias detection  and mitigation:  Best practices  and policies  to reduce  
+consumer harms”  
+5 See Congressional  Research  Service,  Alternative  Data  in Financial  Services.  
+
+
+4  individuals  save,  borrow,  and invest  more  efficiently  and effectively.  Future  policy 
+decisions  impacting  AI should  keep consumer  benefit  at their center.  For instance, 
+such decisions  should  enable  more  equitable  lending  decisions  based  on more 
+complete  data sets, including  data inputs  like consistent  on-time payments  or 
+seasonal income variations.  
+In practice,  we envision  that AI models  in financial  services  will evolve  from 
+todayʼs  basic insight  tools into proactive  financial  optimization  services.  Many 
+consumers  today  receive  automated  insights  from their financial  services 
+providers ( e.g., “You  spent  $300  on dining  out last monthˮ  or “You  could  save  $50 
+by refinancing this loan.ˮ), but AI models  with “read  accessˮ  to consumer  financial 
+data can make  these  kinds  of insights  even more  targeted  and impactful  for 
+consumers.  And, while  these  insights  are indeed  helpful,  the approaching  era of 
+“write  accessˮ  for AI models  in financial  services  is going  to be truly 
+transformative  for consumersʼ  financial  wellbeing.  The concept  of “self-driving  
+financeˮ is now emerging, where AI agents automatically manage routine financial 
+tasks and even make optimized decisions on behalf of consumers with their 
+consent and guidance.6 
+For example, an AI agent could automatically move money from a checking 
+account to a high -yield savings account whenever a surplus is detected, pay bills 
+at the optimal time to avoid fees, continuously shop for better insurance or loan  
+rates,  and seamlessly  switch  providers  for the consumerʼs  benefit.  AI model 
+access  to, and use of, complete  financial  datasets  for individuals  and businesses 
+becomes  even more  important  in this context.  If AI agents  are to take action  on 
+behalf  of consumers  or businesses,  it is essential  that the agent  has a 360-degree 
+view of the personʼs  or businessʼs  financial  situation  to ensure  the actions  it takes 
+are beneficial.  
+We are at a critical  moment  in time, where  AI models  are being  trained  by datasets 
+that may be incomplete, inherently biased, or based on only publicly available  
+data. This will impact  the long term efficacy  of these  models.  Having  ‘traceabilityʼ 
+built into model  assessment  — where  itʼs clear which  datasets  were used to train 
+models,  will be a layer of protection  and insight  for consumers,  businesses,  and 
+regulatory agencies alike.  
+Utilizing  proper  safeguards  and requiring  consumer  consent,  AI agents  can act 
+like a personalized  financial  advisor  or money  manager  that works  24/7 in the 
+ 
+6 Andreesen  Horowitz:  “Money  on Autopilot:  The future  of AI and Personal  Finance”  
+
+
+5 consumerʼs  interest,  significantly  reducing  the mental  load of financial  
+management. We believe this consumer -centric vision should inform the AI Action 
+Plan. 
+Policy  Recommendations  
+Policymakers  should  encourage  AI developments  that actively  improve  individual  
+financial  health  and promote  innovation,  not just those  that make  backend  
+processes  more  efficient.  
+●Modernize  Financial  Data  Regulations  for Secure  Data  Access : Support
+the recent rulemaking implementing Section 1033 of the Dodd -Frank Wall
+Street Reform and Consumer Protection Act of 2010, which allows
+consumers to share financial data with trusted third parties. Expand Rule
+1033ʼs definition and scope of "data providers" to include other "covered
+persons"  who possess  financial  data (such  as cryptocurrency,  investment,
+loan, and health  savings  data)  that consumers  need to access.  Strengthen
+privacy  and security  safeguards  and encourage  secure  data transfer
+protocols  like APIs.  Clarify  and expand  Rule 1033ʼs  definition  of "covered
+data"  to permit  the use of de-identified  data by authorized  third parties
+(subject,  of course,  to the continuing  prohibition  on selling  such data and
+the obligation  to maintain  adequate  data security)  to ensure  that
+consumer -beneficial AI innovation can continue.
+●Improve  Interagency  Collaboration  on Financial  Data  and AI Oversight :
+OSTP should facilitate coordination between agencies ( e.g., CFPB, FDIC,
+Federal Reserve, FTC
+  to ensure consistent standards on data sharing,
+model governance, and consumer protection. A formal task force could
+align policies to make sure regulations are not redundant or conflicting
+across departments.
+●Support  AI Risk Assessment  and Mitigation  Frameworks : Encourage  the
+adoption of voluntary best practices like the NIST AI Risk Management
+Framework to ensure fairness, transparency, and accountability in AI
+models.  Regulatory  frameworks  should  be risk-based  allowing  for continued
+flexibility  and innovation  while  addressing  high-risk AI applications  with
+appropriate scrutiny.
+Conclusion  
+MX believes  AI can revolutionize  financial  services  in a significant  and positive 
+way by offering  more  personalized,  integrated,  and efficient  solutions.  For AI to 
+reach  its full, beneficial  potential  in financial  services,  it must be empowered  by 
+
+
+6  rich, permissioned  data — and guided  by robust  policy  frameworks  that prioritize 
+innovation,  consumer  benefit,  and safety.  We encourage  OSTP  to incorporate  our 
+recommendations  into the AI Action  Plan to foster  innovation  while  ensuring 
+consumer  protections.  By modernizing  data regulations,  fostering  interagency  
+collaboration, and implementing AI governance frameworks, the U.S. can lead the 
+way in responsible AI deployment in financial services.  
+We look forward  to continued  engagement  with the OSTP  as the AI Action  Plan 
+develops.  Please  feel free to contact  us for further  discussion  or clarification.  
+Sincerely,  
+ 
+Jane Barratt  
+Chief Advocacy  Officer 
+MX Technologies  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document is approved for public dissemination. The document contains no 
+business -proprietary or confidential information. Document contents may be 
+reused by the government in developing the AI Action Plan and associated 
+documents without attribution.  
+
+

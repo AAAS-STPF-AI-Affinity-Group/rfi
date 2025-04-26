@@ -1,0 +1,150 @@
+17200 Laguna Canyon Road
+Irvine, CA 92618
+1www.alteryx.com  March 15, 2025 
+AI Action Plan  
+Attn: Faisal D'Souza, NCO 
+2415 Eisenhower Avenue, Alexandria, VA 22314 
+Re:  Comments on the Development of an Artificial Intelligence (AI) Action Plan  
+Introduction 
+Alteryx welcomes the opportunity to provide input to the Office of Science and 
+Technology Policy on the development of an Artificial Intelligence (AI) Action Plan.  
+Alteryx supports the development of policies, guidance, and standards that advance 
+responsible AI adoption and support the innovation of companies, like ours, that place 
+powerful, customized AI tools into the hands of enterprises and individuals to solve real-
+world problems and increase productivity.   
+Alteryx is a leading global provider of data science and analytics automation software 
+with headquarters in Irvine, California. The Alteryx AI Platform for Enterprise Analytics 
+delivers easy, end-to-end automation of data engineering, analytics, reporting, machine 
+learning, and data science processes, enabling enterprises everywhere to democratize 
+data analytics across their organizations for a broad range of use cases.   
+Alteryx develops and deploys sophisticated low-code/no-code analytics software, 
+including both desktop and cloud-based offerings, that make advanced analytics and 
+artificial intelligence/machine learning (AI/ML) generated insights available to workers in 
+diverse fields of business and government.  Alteryx is also committed to the safe and 
+responsible governance of AI, with all of our AI work governed by our Responsible AI 
+Principles ( https://www.alteryx.com/trust/ai-principles ).  Thus, as an integrator, user, and deployer of responsible AI systems, Alteryx has a significant interest in an AI Action Plan 
+to identify priority policy actions needed to sustain and enhance America's AI dominance, 
+and to ensure that unnecessarily burdensome requirements do not hamper private-sector 
+AI innovation.   
+As you work to develop the AI Action Plan, we encourage you to address priority policy 
+actions. First, unlocking AI innovation across economic sectors and diverse use cases 
+depends on building necessary AI infrastructure, beginning with the data layer. We 
+encourage near-term policy action to invest in getting the data layer right, including by 
+magnifying efforts within the government to address data challenges and by facilitating 
+such investments in the private sector as well.  Second, given the increasing complexity 
+of the AI ecosystem and the rapid evolution of the technology, it is critical that policies 
+accurately characterize roles of key stakeholders. Current understandings of roles and 
+responsibilities must be updated to reflect a more nuanced view of the AI value chain, or 
+else many companies – like ours – will suffer from mistargeted policies.   
+
+
+17200 Laguna Canyon Road
+Irvine, CA 92618
+2www.alteryx.com  Getting the Data Layer Right  
+To fully leverage the potential of AI to improve the efficiency and effectiveness of 
+government functions, organizations require sufficient infrastructure to support the 
+integration and operation of AI tools. One critical component of that infrastructure is the 
+data layer: the structured and high-quality data necessary to ensure that AI systems can 
+access accurate information, which directly impacts their performance and reliability. 
+Further, utilization of a quality data layer ensures that organizations have the ability to 
+responsibly manage, access, and share that data across stovepipes. Simply put, artificial 
+intelligence is only as good as the data it consumes.  
+Currently, many organizations – including in government – are rushing to adopt AI 
+without addressing underlying data challenges that will hamper their ability to get the 
+most out of the AI tools they introduce. Such challenges include data quality (data is of 
+poor quality and often unstructured); data access  (organizational barriers and well-
+intended policies prevent necessary access and sharing); and data literacy 
+(organizations often lack an understanding of the potential uses and value of the data 
+they have, or how to best use that data to build and support AI solutions).   
+The AI Action Plan must address the data layer to truly accelerate AI adoption and spur 
+American innovation. Specifically, the AI Action Plan should prioritize three initiatives to 
+get the data layer right: 
+(1)Invest in data infrastructure. The government must invest, first, in digitizing its
+data, given that enormous volumes of highly valuable data remain in paper form.
+Moreover, it must invest in technologies that enable the structuring, cleaning, and
+preparation of that data into usable forms. Agency Chief Data Officers (CDOs)
+must be empowered and resourced to identify and overcome data quality
+challenges across US government agencies.  Moreover, the government can help
+encourage private sector organizations to address data quality challenges by
+placing greater emphasis on the data layer in all relevant AI guidance, standards,
+and best practices it publishes.
+(2)Democratize data access.  More must be done across the government to
+advance data transparency and accessibility. Data-driven decision-making can
+happen at the speed of relevance only when data is democratized – when all
+workers are empowered to become data workers. The AI Action Plan should
+include an urgent push to establish appropriate policies and guardrails to enable
+responsible sharing of data inside the government, beginning with CDO-led
+agency reviews of policies and organizational structures posing obstacles to
+necessary data access.
+(3) Promote data literacy. As AI is mainstreamed in the government and across
+industry, the vast majority of workers will become data workers; these workers
+must be equipped with modern and continuous training—including learning
+through applied exercises and experimentation—to wrangle and automate data to
+
+
+17200 Laguna Canyon Road
+Irvine, CA 92618
+3www.alteryx.com  solve mission problems. The AI Action Plan should include a major AI literacy 
+push for government workers, based on a foundation of data literacy. Moreover, 
+AI literacy will be critical, not just for government workers, but also for workers 
+across industry. The AI Action Plan should also develop an ambitious AI and data 
+literacy initiative to provide awareness, education, and upskilling to a major 
+portion of the American workforce over the next five years – including through 
+sponsoring grants, public-private collaborations, and similar efforts.  
+These three priority actions will help the government build a durable foundation, both 
+internally and across industry, for the adoption, innovation, and transformative 
+application of artificial intelligence.   
+Defining Roles and Responsibilities in an Evolving AI Ecosystem 
+A second critical priority is to update policy frameworks to more accurately characterize 
+key roles and responsibilities across the AI ecosystem.  The AI ecosystem is best 
+understood as a value chain, with multiple organizations potentially contributing to the 
+development and refinement of an AI system that ultimately interacts with an end user.  
+Alteryx occupies a role in the center of this value chain, by training, modifying, and 
+integrating foundation models developed by other organizations into applications that 
+may be used directly by end users, or that may be further refined by other enterprise 
+customers.   
+To accurately reflect this value chain and to avoid confusion and mistargeted policy or 
+regulatory interventions, current AI policy must be redefined to include a broader set of 
+roles within the AI development chain ( e.g., model developers, integrators, application 
+developers, deployers) and delineate their specific obligations to end-users. Greater 
+specificity of roles and responsibilities will help align structural incentives across the 
+board. 
+Within the AI value chain, developers of foundation models clearly take actions that 
+fundamentally shape any AI system based on that model, and shape the capabilities and 
+risks associated with the model. However, AI application developers or actors who 
+otherwise integrate foundation models into broader systems often take measures – 
+including training the model with new data sets, adjusting model weights, prompt 
+engineering, incorporating privacy and security controls, and creating user interfaces – 
+that also impact the capabilities and risks associated with the model.  Before an AI 
+system is deployed to interact with an end user, there may be two, three, or more 
+organizations that modify the original model. US AI policy should explicitly recognize this 
+complexity and establish best practices that take it into account.  
+The AI Action Plan should prioritize a comprehensive review of AI policies to update 
+roles and responsibilities to include, at minimum, developers, integrators, and deployers. 
+Additional roles may also deserve consideration. The impact of this review will be to 
+avoid confusion or ambiguity within US AI policies that can lead to inappropriate 
+
+
+17200 Laguna Canyon Road
+Irvine, CA 92618
+4www.alteryx.com  mistargeting of policy or regulatory actions, undermining the ability of companies to 
+innovate and collaborate in this arena. Moreover, updating AI policies to more accurately 
+characterize the roles of key stakeholders will set an important paradigm that other 
+policymakers – particularly among US states – can look to, thus avoiding misguided 
+regulations that bog down innovation with compliance obligations that simply cannot be 
+met.  Prioritizing this action is essential if the United States is to reach its full potential in 
+AI innovation. 
+Conclusion  
+AI technologies offer tremendous potential benefits for our economy, security, 
+government, and society. The US government has a tremendous opportunity to lead the 
+development of policies that help government workers and private industry fully unlock its 
+potential.  Alteryx looks forward to working with you to define policies that will empower 
+American innovation and enable users – from governments to businesses to private 
+individuals – to access transformative solutions to real-world challenges.  We stand 
+ready for further discussions on the AI Action Plan and the priority policy actions we 
+recommend.  
+Sincerely, 
+Tommy Ross 
+Head of Global Public Policy | ALTERYX  
+
+

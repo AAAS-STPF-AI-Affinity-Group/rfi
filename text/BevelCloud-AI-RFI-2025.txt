@@ -1,0 +1,416 @@
+125 Lighth ouse Mall   
+Marina del Rey, CA 90292  
+Dr. Timothy Chou  
+Email:  
+This docum ent is approved for public dissemination.  The document contains no business -
+proprietary or confidential information.  Document contents may be reused by the 
+government in developing the AI  Action Plan and associated documents without  
+attribution.  
+March 1 2, 2025  
+Response to White House RFI 2025- 02305: Development of an 
+Artificial Intelligence (AI) Action Plan  
+Introduction  
+We fully support the administration’s commitment  to lead in AI as a fundamental win for 
+the US economy  and strategic position. We appreciate the opportunity to contribute to the 
+development of the AI Action Plan as outlined in the White House RFI 2025- 02305 . Our 
+response address es the AI policy topics below:  
+1. Hardware and Chips 2 
+2. Data Centers @ Point of Care 3 
+3. Networks 4 
+4. Resilient Systems /Availability Management 5 
+5. Model Development/Distributed Training/Proactive AI Applications in Medicine 6 
+6. Explainability and Assurance of AI Model Outputs 6 
+7. Application and Use (Distributed Inference) 7 
+8. Cybersecurity/Security Management 8 
+9. Data Privacy and Security/Privacy Management 9 
+10. Risks, Regulation, and Governance 10 
+11. National Security and Defense 11 
+12. International Collaboration Framework 12 
+13. Open Source Development 13 
+14. Innovation and Competition 14 
+
+
+One area w here we could leap ahead, save money and have a broad positive impact 
+across the population is healthcare . Creating real -time privacy preserving AI applications 
+is a cornerstone to reduce healthcare inequity, lower costs and improve outcomes for 
+everyone.   
+Healthcare has several characteristics, which  make it different from generic  or consumer 
+AI. Building accurate deep learning AI applications require large amounts of diverse data. 
+The traditional method, employed by ChatGPT is to move data from the source to a central site to train the AI applications. Centralized architectures, which have powered ChatGPT, will not work in medicine. The data sizes are much larger (ultrasounds are 1TB), security requirements much stricter and privacy requirements more stringent.  
+To meet these demands, there needs to be a large-scale (1,000,000 servers), distributed, 
+privacy- preserving, real -time, resilient AI cloud infrastructure that moves proactive AI 
+applications to the data at the point of care whether that’s a hospital, research lab, clinic, imaging center or ambulance in America. We at BevelCloud have taken a significant step in building this infrastructure having deployed distributed AI zones in 8 hospitals, identification of over 130 medical AI imaging applications in research labs and the support of 64 leaders in AI in medicine around the world.  
+This response emphasizes actionable strategies to sustain and enhance U.S. leadership in AI while addressing critical considerations such as data privacy, security, and distributed AI: inference and learning.  
+Priority Actions and Recommendations Organized by Specific Areas  
+1. Hardware and Chips
+The hardware and chip requirements for distributed AI infrastructure differ significantly 
+from those of centralized architectures. Today’s centralized AI systems rely on a small number of data centers with tightly controlled physical access. However, distributed servers deployed in hospitals, clinics, or ambulances face challenges in replicating this level of security due to their dynamic environments. In these settings, a distributed AI cloud infrastructure must prioritize robust security measures to protect compute and storage resources, compensating for the absence of strict physical controls. Additionally, server architectures must be capable of supporting real -time AI inference and local 
+execution of trained models, ensuring autonomy and operational continuity at the point of care without dependence on external servers.  
+•Promote research into energy -efficient, distributed AI chips (CPUs, GPUs, NPUs)
+specifically optimized for real -time AI inference and learning within healthcare
+environments. These chips should balance performance with energy efficiency tosuit diverse healthcare applications.
+
+
+•Design distributed AI infrastructure to support digital twins for all healthcare
+machines. This includes integrating imaging modalities such as CT, MRI, andultrasound, alongside devices like ECG machines, EEG systems, blood analyzers,gene sequencers, drug infusion pumps, glucose monitors, ventilators, and heartrate monitors.
+•Establish a universal standard for healthcare machines to maintain open,interoperable interfaces for all data outputs, fostering seamless integration with AIsystems.
+•Invest in research and development of distributed AI servers that can be embeddeddirectly into future healthcare devices. These include ultrasounds, genesequencers, and blood analyzers, enabling real -time AI applications at the point of
+care and reducing latency associated with centralized processing.
+•Ensure robust security features, such as full -disk encryption and trusted boot
+mechanisms, in distributed AI servers. These features will ensure tamper -proof
+operation and maintain the integrity of sensitive healthcare data, even in lessphysically secure environments.
+2. Data Centers @ Point of Care
+Bringing compute and storage capabilities into the point of care at hospitals, clinics, 
+imaging centers, and ambulances introduce unique technological challenges. Unlike centralized cloud services, distributed data centers in healthcare environments must address constraints like space, power, cooling, network security, and operational continuity while ensuring compliance with stringent healthcare data privacy regulations.  
+Space and environmental constraints: Hospitals and clinics are not designed to accommodate traditional data center infrastructure. Deploying compute and storage resources requires compact, energy -efficient systems that can be integrated seamlessly 
+into existing facilities without disrupting operations or patient care.  
+Network security risks: Establishing a digital perimeter for each hospital -based data center 
+is critical to prevent unauthorized access and protect sensitive patient data. Advanced network security measures, such as zero -trust architectures and encrypted 
+communications, must be implemented to safeguard distributed AI systems.  
+Interoperability with existing healthcare systems: Hospital data centers must integrate with diverse medical devices, many of which use legacy technologies. Creating standardized protocols and interfaces to ensure seamless interoperability is a significant technical 
+hurdle.  
+Intra-zone High -bandwidth communication: Distributed systems require robust, low -latency 
+communication between servers and devices. Private 5G networks offer a promising 
+solution, but scaling this technology to thousands of servers across multiple healthcare zones presents challenges in reliability and cost.  
+
+
+To address  these challenges:  
+•Fund innovations to miniaturize and optimize data center technology for
+deployment in constrained hospital environments. This includes compact, modularserver designs tailored for healthcare settings.
+•Support the development of secure distributed zones to establish strong digitalperimeters around hospital data centers, leveraging state -of-the-art encryption and
+network segmentation.
+•Collaborate with industry leaders to refine private 5G networks for distributed AI,enabling high- bandwidth, low -latency communication across hospital zones and
+healthcare devices.
+3. Networks
+Distributed AI infrastructure in healthcare depends on robust, secure networks that
+connect  data-generating machines to servers within the building (intra- zone) and enable
+communication with external systems (extra -zone). These networks must address cost,
+complexity, security, and performance challenges while meeting the unique needs of
+healthcare environments.
+Key Considerations  
+Reducing Deployment Costs and Complexity: Many hospitals lack advanced networks. 
+Plug-and-play modules, AI -based network management, and hybrid mesh systems can 
+simplify deployments without costly overhauls.  
+Ensuring Secure High- Bandwidth Networks: Real -time AI applications require low -latency, 
+high- throughput communication, especially for data- intensive devices like MRIs. 
+Technologies such as private 5G, fiber optics, or multi -gigabit Ethernet could address this 
+need while complying with HIPAA and GDPR.  
+Enhancing Cybersecurity: Distributed networks face threats like ransomware and man- in-
+the-middle attacks. Zero- trust architectures, real -time anomaly detection, hardware -based 
+root-of-trust, and AES -256 encryption should be implemented to safeguard sensitive data.  
+Maintaining Reliable Intra- Zone Communication: Redundant connections, failover 
+mechanisms, and time- sensitive networking (TSN) protocols ensure uninterrupted 
+communication between distributed servers and healthcare machines.  
+Integrating with Existing Infrastructure: Many facilities rely on legacy systems. Interoperability standards like HL7 FHIR and AI solutions adaptive to varying network quality can bridge gaps without requiring costly upgrades.  
+Recommendations  
+•Develop scalable, modular network kits for healthcare environments.
+•Support private 5G research tailored to hospitals and clinics.
+
+
+•Invest in secure -by-design frameworks with AI -driven management and threat
+detection.
+•Partner with network providers to create healthcare- specific solutions.
+•This approach ensures secure, high -performance networks for distributed AI,
+empowering real -time insights at the point of care.
+4.Resilient Systems /Availability Management
+A nationwide AI cloud infrastructure with over 1,000,000 servers requires autonomous, 
+resilient systems to ensure continuous availability. At this scale, centralized human management is impractical. Systems must autonomously detect and repair faults, mitigate security threats in real -time, and optimize performance through dynamic adjustments.  
+Key Challenges  
+Fault Detection & Self -Healing: AI -driven predictive analytics and anomaly detection 
+enable proactive maintenance by identifying hardware failures, network disruptions, and software malfunctions without human intervention. Self -healing mechanisms can resolve 
+issues before they impact system performance.  
+Real-Time Security Management: AI -powered intrusion detection, behavioral analysis, and 
+encryption ensure continuous monitoring and rapid response to security threats, safeguarding critical data and operations.  
+Performance Optimization: Reinforcement learning dynamically adjusts resources based on workload demands, improving system efficiency while balancing performance and energy consumption.  
+Monitoring & Instrumentation: Comprehensive telemetry is essential to track system health, detect anomalies, and enable advanced analytics. Key metrics include CPU/GPU utilization, memory usage, network latency, and security event logs.  
+Policy Recommendations  
+•Fund Research: Support AI -driven server management solutions to enhance fault
+detection, self -healing, and security response capabilities.
+•Standardize Instrumentation: Establish industry -wide telemetry protocols for
+seamless interoperability and improved monitoring across vendors.
+•Encourage Collaboration: Foster partnerships between government, academia, andindustry to develop scalable AI infrastructure, particularly for healthcare and other
+critical sectors.
+•Invest in Open Source: Promote open- source AI cloud frameworks to drive
+innovation, improve transparency, and reduce reliance on proprietary solutions.
+By addressing these challenges, AI -powered distributed systems can achieve the 
+reliability, security, and scalability necessary for nationwide deployment.  
+
+
+5.Model Development/Distributed Training/Proactive AI Applications in Medicine
+Our recommendation is to prioritize two critical classes of AI applications:
+•Triage AI Applications (Red/Green/Yellow): These applications aim to assess and
+prioritize patient needs in settings with limited expertise, such as rural counties,where 60% lack pediatric specialists.
+•Rare Disease AI Applications: These target cases where no human expert seesenough examples to gain expertise. For instance, Focal Cortical Dysplasia, acondition diagnosable via MRI, has only 25,000 cases annually in the U.S., leavingpediatric neuroradiologists without sufficient exposure.
+Efforts should focus on five key specializations: Emergency Medicine, Cardiology, Neuroradiology, Orthopedics, and Oncology.  
+The distributed AI cloud infrastructure must be optimized for privacy -preserving distributed 
+learning. While federated learning in consumer computing (e.g., Siri, Google Keyboard) provides a foundation, healthcare poses unique challenges, such as handling large datasets, tailoring aggregation strategies, and addressing the scarcity of labeled data.  
+Policy Recommendations  
+•Fund Research in Distributed, Swarm, Federated Learning:  Support AI model
+training across a distributed network of imaging devices and zones. Developtechniques to scale distributed, swam, federated learning for large datasets whilemaintaining efficiency, privacy, and security.
+•Explore Implications of Relaxed Constraints:  Investigate how relaxing traditional
+consumer federated learning constraints (e.g., power management, slowcommunication) impacts healthcare applications and whether new features arerequired.
+•Aggregation Strategies:  Examine if neural network weights should be aggregated
+within zones before global aggregation or whether split learning (training only partof a model locally) provides advantages in large- scale architectures.
+•Operational Frameworks:  Design scalable frameworks for federated learning in
+healthcare, addressing questions of aggregation strategy, zone -based optimization,
+and secure communications.
+6.Explainability and Assurance of AI Model Outputs
+Distributed, swarm, federated learning on real -time data brings the promise of continuous 
+learning. We recommend establishing a comprehensive framework to advance American leadership in explainable and assured AI systems while minimizing regulatory burden. This framework should leverage existing institutions and create targeted incentives for private sector innovation.  
+The federal government should establish a National AI Model Registry as a voluntary program offering liability protection and tax incentives for companies that meet defined 
+
+
+safety  standards in continuous learning systems. This approach will encourage 
+responsible innovation while avoiding mandatory requirements that could stifle 
+development.  
+To support American competitiveness, we recommend creating a network of regional AI testing centers providing standardized evaluation infrastructure for distributed, swarm, federated learning systems. These centers should offer subsidized access for small businesses and startups, ensuring that innovation isn't limited to large corporations. The centers would develop benchmark datasets representing U.S. demographic diversity and provide validated testing protocols for model assessment.  
+For critical sectors like healthcare, we recommend empowering existing regulators to oversee AI systems within their domains while establishing fast -track approval processes 
+for systems meeting pre- defined safety criteria. Increase funding for explainable AI 
+research, and CMS should create reimbursement pathways for validated AI diagnostic tools. This sector -specific approach ensures appropriate oversight while maintaining 
+America's competitive edge.  
+To protect American intellectual property while enabling innovation, we recommend streamlining export controls and establishing clear data sharing frameworks. Tax credits for investments in explainable AI research and development will further accelerate American leadership in this critical field.  
+Implementation should be phased over 24 months, allowing industry adaptation while maintaining momentum. This balanced approach will enhance America's AI capabilities while ensuring appropriate safeguards in critical applications, positioning the United States to lead the next wave of AI innovation.
+ 
+7.Application and Use (Distributed Inference)
+Real-time AI inference at the point of care has the potential to transform healthcare by 
+enabling immediate decision -making in critical scenarios such as emergency medicine, 
+imaging diagnostics, and remote patient monitoring. However, deploying AI applications in real-world clinical settings presents several technical and operational challenges that must 
+be addressed to ensure reliability, security, and efficiency.  
+Key Challenges  
+Latency and Computational Constraints:  AI inference must occur in milliseconds to support 
+real-time applications such as stroke detection in CT scans or arrhythmia detection in ECG 
+monitoring. Unlike centralized cloud- based inference, which benefits from large-scale 
+compute resources, distributed AI at the point of care must operate on resource-constrained hardware.  
+Model Optimization for Distributed AI:  We need to advance techniques such as model 
+quantization, pruning, and knowledge distillation to ensure AI models can run efficiently on distributed servers.  
+
+
+Securi ty and Compliance Risks:  Processing sensitive patient data locally requires rigorous 
+security measures, including full -disk encryption, secure boot mechanisms, and zero- trust 
+network architectures. Ensuring compliance with HIPAA and GDPR while enabling real -
+time inference is a major challenge.  
+System Reliability and Failover Mechanisms:  AI models must function reliably in real -world 
+hospital environments where network disruptions or hardware failures can occur. 
+Implementing failover strategies, such as local model redundancy and distributed, swarm, federated learning approaches, can help maintain continuous AI functionality.  
+Policy Recommendations  
+•Fund research in low -latency AI inference for distributed servers, including AI
+accelerators optimized for medical applications.
+•Support healthcare- specific AI hardware development to ensure efficient, energy -
+conscious inference in clinical settings.
+•Develop regulatory frameworks to ensure security, privacy, and compliance in real -
+time AI applications deployed at the point of care.
+•Encourage hospital -private sector collaboration to create robust AI deployment
+models that integrate seamlessly with existing hospital IT infrastructure.
+8.Cybersecurity/Security Management
+Real-time AI applications at the point of care require a secure, resilient infrastructure to 
+ensure reliable, immediate decision -making in hospitals, clinics, and ambulances. To 
+protect these mission- critical systems, we recommend the following security measures:  
+Implement Zero- Trust Architecture  
+•Microsegmentation to isolate distributed AI workloads and prevent unauthorizedaccess.
+•AI-powered behavioral analysis for real -time anomaly detection and automated
+threat response.
+•End-to-end encryption for all model updates and data transfers to protect sensitive
+patient data.
+Establish an AI Security Operations Center (AI -SOC)  
+•Real-time threat monitoring and automated mitigation tailored to healthcare AI.
+•Public -private threat intelligence sharing to detect and prevent AI -specific
+cyberattacks.
+•Centralized security patch validation and distribution for distributed AI systems.
+Standardize Security Requirements for Distributed Deployments  
+•Minimum security controls for real -time AI applications in clinical settings.
+
+
+• Automated vulnerability scanning and penetration testing for continuous risk 
+assessment. 
+• Rolling updates with zero -downtime strategies to maintain uninterrupted AI 
+inference.  
+• Recovery time objectives (RTO) under four hours to ensure rapid restoration of AI services. 
+Secure Distributed, Swarm, Federated Learning Operations  
+• Secure aggregation protocols to prevent unauthorized model access.  
+• Differential privacy techniques to protect sensitive patient data.  
+• Byzantine- resistant aggregation algorithms to prevent AI model manipulation.  
+• Model poisoning detection mechanisms to maintain AI decision integrity.  
+Security patches must be deployed within 72 hours, infrastructure upgrades completed 
+within 30 days, and security audits conducted quarterly. A phased 18 -month 
+implement ation plan will ensure seamless adoption while maintaining the availability of 
+real-time AI applications at the point of care.  
+9. Data Privacy and Security/Privacy Management  
+One of the fundamentals of privacy is purpose limitation. The distributed AI cloud 
+infrastructure needs to allow for fine- grained data sharing so that a machine owner should 
+be able to choose specific, distributed AI applications (with which to share data, as well as 
+which ones not to. ) Doing so will clearly define not only which data can be shared and with 
+whom, but also for which specific purpose(s). Privacy policies and standards are essential 
+for ensuring the privacy of individuals. However, they are often difficult to understand and implement. To strengthen privacy protection in distributed AI applications and infrastructure while fostering innovation, we recommend implementing the following framework:  
+Establish a nationwide Privacy -Preserving Distributed Computing Infrastructure  
+• Deploy standardized privacy -preserving computation tools  
+• Create certification programs for privacy -enhancing technologies  
+• Develop open -source privacy toolkits for AI developers  
+• Establish privacy metrics and benchmarks for distributed AI systems  
+Mandate Granular Privacy Controls  
+• Require purpose -specific data access controls  
+• Deploy automated PII detection and redaction tools  
+• Establish audit trails for all data access and sharing  
+  
+
+
+Strengt hen Medical Data Protection  
+•Enable automated image sanitization for all medical data sharing
+•Implement differential privacy for medical datasets
+•Require privacy impact assessments for healthcare AI applications
+•Create standardized APIs for secure health data exchange
+Enable Privacy -Preserving Innovation  
+•Fund research into practical distributed, swarm, federated learning
+•Create incentives for privacy -preserving AI development
+•Establish safe harbors for validated privacy -protection methods
+Implementation should prioritize practical solutions that maintain utility while protecting 
+privacy. We recommend a phased approach over 24 months, beginning with critical 
+healthcare applications and expanding to other sectors. Success metrics should include both privacy protection and system usability measures, ensuring that privacy enhancements don't impede legitimate AI innovation.  
+10. Risks, Regulation, and Governance
+Healthcare and life sciences data requires a unique form of governance. Contracts and 
+agreements with the distributed AI cloud infrastructure service provider will simplify the work and reduce the cost for any distributed AI application provider. These contracts and agreements include the Master Services Agreement (MSA); Business Associate Agreement (BAA – US only); Data Protection/Privacy Impact Assessment (DPIA/PIA); 
+Data Transfer Agreement (DTA – EU only) and the Security Addendum. To streamline 
+healthcare AI deployment while maintaining robus t data protection, we recommend:  
+Standardized Agreement Templates  
+•Create federal template versions of MSAs, BAAs, and Security Addenda specific tohealthcare AI
+•Develop pre -approved contract language for common healthcare AI use cases
+•Establish safe harbor provisions for organizations using approved templates
+•Include clear data locality and cross -border transfer requirements
+Unified Compliance Framework  
+•Harmonize HIPAA, HITECH, and state privacy requirements for AI applications
+•Create standardized Data Protection Impact Assessment templates
+•Establish clear governance requirements for distributed, swarm, federated learningin healthcare
+•Define minimum security controls for healthcare AI deployments
+
+
+Stream lined Authorization Process  
+•Implement a "sign- once" framework for multi -institution collaborations
+•Create expedited review pathways for pre -certified AI applications
+•Establish reciprocity agreements between healthcare institutions
+•Develop automated compliance verification tools
+Risk-Based Oversight  
+•Define tiered governance requirements based on data sensitivity
+•Establish clear liability frameworks for AI -assisted decisions
+•Create incident reporting and response protocols
+•Mandate regular third-party audits for high- risk application
+11.National Security and Defense
+To strengthen national security in healthcare AI deployment while maintaining American
+technological leadership, we recommend implementing the following framework:
+Secure Healthcare Infrastructure Protection  
+•Designate major healthcare AI systems as critical infrastructure
+•Establish CISA -led security standards for healthcare AI deployments
+•Create rapid response protocols for AI -related healthcare disruptions
+•Mandate cybersecurity assessments for healthcare AI systems in military and VA
+facilities
+•Develop contingency plans for AI system failures during national emergencies
+Defense- Healthcare AI Integration  
+•Create secure data sharing frameworks between DoD and civilian healthcaresystems
+•Establish joint testing protocols for AI systems used in both military and civilian care
+•Develop AI -powered early warning systems for biological threats
+•Implement secure telemedicine capabilities for remote military installations
+•Support AI research for combat casualty care and battlefield medicine
+Supply Chain Security  
+•Mandate domestic sourcing requirements for critical AI components
+•Establish vendor certification program s for healthcare AI providers
+
+
+•Create secure supply chains for AI hardware in defense -critical facilities
+•Implement continuous monitoring of AI system dependencies
+•Develop redundancy requirements for critical AI systems
+Workforce Development  
+•Create specialized training programs for military healthcare AI operators
+•Establish security clearance pathways for healthcare AI developers
+•Develop cross -training programs between defense and healthcare sectors
+•Support AI security research at military medical institutions
+•Create rapid certification programs for AI security specialists
+12. International Collaboration Framework
+Real-time AI applications at the point of care are crucial for transforming healthcare 
+delivery, particularly in emergencies or resource- limited settings. To support these 
+applications effectively, international collaboration is essential to establish secure data 
+sharing, develop common security standards, and address emerging cybersecurity threats. The framework should prioritize the following areas:  
+Secure Data Sharing Protocols with Allied Nations:  Establish standardized, secure data -
+sharing protocols with allied nations to support real -time AI applications in healthcare. 
+These protocols must ensure compliance with privacy regulations such as HIPAA and GDPR while enabling the seamless sharing of health data across borders. This will facilitate AI -driven real -time diagnostics and interventions, especially in critical care 
+situations where timely access to data is essential.  
+Develop Common Security Standards with NATO Partners:  Collaborate with NATO and 
+other international partners to develop common cybersecurity standards for healthcare AI, specifically focused on real -time applications at the point of care. These standards must 
+address securing patient data, protecting AI models from adversarial attacks, and ensuring uninterrupted availability to maintain the effectiveness of real -time decision -making in 
+healthcare.  
+Joint Threat Assessment and Response:  Create mechanisms for joint, real -time threat 
+assessments and response to cybersecurity breaches in healthcare AI systems. This includes intelligence- sharing and coordinated incident response protocols that enable swift 
+detection and mitigation of threats, ensuring that both civilian and military healthcare systems can continue to function securely.  
+Implement Export Controls for Critical AI Technologies:  Implement export controls for AI 
+technologies that enable real -time decision -making at the point of care. Regulating these 
+critical technologies will help ensure they are used ethically and responsibly, particularly in sensitive or high- risk environments.  
+
+
+Support International AI Security Research Partnerships:  Foster global research 
+partnerships focused on securing real -time healthcare AI applications. Areas of focus 
+should include distributed, swarm, federated learning, privacy -preserving AI, and secure 
+data transmission technologies.  
+13.Open Source Development
+Open- source development plays a critical role in advancing AI technologies, particularly in 
+healthcare. To promote innovation and ensure equitable access to AI tools, it is essential 
+to establish a federal repository of open- source AI tools tailored to healthcare needs. This 
+repository should include frameworks for diagnostics, anonymization, and privacy -
+preserving models, fostering a collaborative environment for healthcare stakeholders.  
+Federal Repository of Open- Source Tools:  Establishing a centralized federal repository for 
+open- source AI tools focused on healthcare would streamline access to essential 
+frameworks. This repository could house tools for diagnostic AI models, data anonymization techniques, and algorithms optimized for healthcare applications, promoting interoperability across systems and institutions.  
+Public -Private Collaborations:  Encouraging public -private partnerships is key to expanding 
+open- source contributions to distributed AI infrastructures. Collaborations between 
+government agencies, private companies, and academic institutions can provide the resources, expertise, and scalability needed to tackle complex challenges in healthcare AI.  
+Specific Technologies:  Several open- source projects already make significant 
+contributions to healthcare AI development:  
+•HP: Swarm Learning focused on de- centralizing the aggregation step
+•OpenFL: A Python 3 library that supports community -driven federated learning
+projects, developed by Intel Labs and designed to enable privacy -preserving AI
+across distributed healthcare systems.
+•Flower: An open- source research platform for federated learning that enables
+collaborative model training without sharing sensitive data.
+•FLARE (Federated Learning and AI for Robotics and Edge): A software stackdesigned to deploy AI models on edge devices, ideal for healthcare applicationsrequiring real -time data processing at the point of care.
+•Bitfount: operates on a hybrid model where it utilizes an extensible open-sourceSDK alongside its SaaS platform, allowing developers to interact with the systemthrough open source code while benefiting from the managed features of theBitfount service; essentially, it leverages the best aspects of both open source andSaaS, which they call “OpenSaaS. ”
+By supporting these open- source efforts, we can accelerate the development of secure, 
+efficient, and scalable AI systems in healthcare, while ensuring that these innovations remain accessible to all stakeholders.  
+
+
+14. Innovation and Competition
+Innovation in AI for healthcare and life sciences is hindered by the lack of a distributed AI 
+infrastructure. Research applications often produce impressive results in papers but fail in real-world settings.  Parnav Rajpur kar and Matthew Lungren’s survey, The Current and 
+Future State of AI Interpretation of Medical Images, highlights this issue
+1. AI algorithms in 
+radiology raise a critical question—will they work for all patients? Most models are tested only in their original training environment, and even FDA -approved systems rarely 
+undergo prospective or multi -site evaluations. The lack of real -world validation poses risks 
+to both patients and clinicians.  
+Studies show that radiologic AI models often perform worse when applied to patients different from those in their training datasets, a phenomenon known as dataset shift. Factors such as healthcare system variations, patient demographics, and clinical practices contribute to this decline. For example, AI models for brain tumor segmentation
+2 and chest 
+radiography3 perform poorly when tested on external hospital data. Similarly, a 
+retrospective study found that a commercial AI model for cervical spine fracture detection underperformed in real -world practice compared to FDA -reported results
+4. 
+Most AI models are trained on small datasets (1,000– 10,000 images), which is inadequate 
+for real -world deployment. A self -driving car trained in Palo Alto would likely fail in London. 
+AI research remains largely confined to academic papers, with little impact on clinical 
+practice—mirroring early barriers in pharmaceuticals before translational medicine 
+emerged.  
+A distributed AI infrastructure can bridge this gap with a three -step process 
+•Implement  AI models in a distributed system.
+•Deploying them across clinical sites to assess real -world performance.
+•Use distributed,  swarm,  federated learning to improve accuracy while maintaining
+privacy.
+This approach aligns with Executive Order 14179, promoting AI innovation while safeguarding privacy and security.  
+1 The Current and Future State of AI Interpretation of Medical Images, Pranav Rajpurkar, Ph.D., Matthew P. 
+Lungren, M.D., M.P.H., New England Journal of Medicine, May 24, 2023  
+2 Deep learning for segmentation of brain tumors: Impact of cross -institutional training and testing, Ehab A. 
+AlBadawy, Ashirbani Saha, Maciej A. Mazurowski,  Medical Physics, January 22, 2018  
+3 CheXternal: generalization of deep learning models for chest X -ray interpretation to photos of chest X -rays 
+and external clinical settings; Pranav Rajpurkar, Anirudh Joshi, Anuj Pareek, Andrew Y. Ng, Matthew P. 
+Lungren; CHIL '21: Proceedings of the Conference on Health, Inference, and Learning  
+4 Diagnostic Accuracy and Failure Mode Analysis of a Deep Learning Algorithm for the Detection of Cervical 
+Spine Fractures; A F Voter, M E Larson, J W Garrett , J -P J Yu, American Journal of Neuroradiology, August 
+2021  
+
+
+Conclus ion 
+The development of an AI Action Plan represents a critical opportunity to solidify the 
+United States’ leadership in AI. We are confident our recommendations, grounded in distributed AI requirements, will contribute significantly to this effort. We welcome further collaboration to advance these priorities.  
+
+

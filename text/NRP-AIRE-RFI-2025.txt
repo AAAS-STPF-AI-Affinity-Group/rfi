@@ -1,0 +1,136 @@
+A National Research Platform for AI Research &  Education (NRP AIRE) 
+ 
+Frank Wuerthwein  (Director, San Diego Supercomputer Center and PI of “Prototype NRP 
+(PNRP)”, UC San Diego), Louis Fox (President and CEO of CENIC), James Deaton (Vice 
+President of Network Services, Internet2), Tom DeFanti (Co- PI of PNRP, UC San Diego and 
+CENIC) , Derek Weitzel (Co- PI of PNRP, University of Nebraska -Lincoln)  
+ 
+Disclaimer: 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution.  
+ Vision of NRP 
+Connect every US- accredited institution of higher learning in to a world- class and secure 
+Research & Education infrastructure for the entire nation, both rural and urban, across all 50 
+states . An infrastructure to empower all institutions of higher learning to provide hands- on AI 
+education, and research, providing world- leading access  to all students.  
+ 
+In this white paper we show how the Federal Government with its AI Action Plan can fund 
+a necessary transformative change for college education nationwide that can be 
+sustained long term without ongoing Federal funding.  
+ 
+The Challenge the NRP Solves  
+Artificial Intelligence is primarily an experimental science [1] requiring expensive data and 
+compute infrastructure to equip class labs. The fast and revolutionary adoption of AI across all 
+STEM fields means compute and data access are an essential requirement for modern STEM 
+education. Unless we take bold action, AI education, and to a lesser extend STEM 
+education in general, will become a privilege of the elite because only elite campuses can 
+afford to build and support the cyberinfrastructure to do so.  
+ Based on a survey [ 2] designed  by San Diego State University ’s David Goldber g that received 
+~8,000 student responses, we project there is a near-term need to provide formal AI education 
+for up to half of the students enrolled in colleges across the USA. According to the Department 
+of Education, there are almost  3,900 accredited institutions of higher learning in the USA, of 
+which  less than 200 are “research -heavy” so- called R1:Doctoral Universities. There are about 
+20 million students enrolled in  these 3,900 institutions. Approximately half  of them are enrolled 
+in about a thousand community colleges , providing  training across a wide range of professions, 
+as well as offering an affordable entry path to a bachelor’s  degree program  via transfer s to 4-
+year colleges and universities . For example,  about half  of the incoming students at San Diego 
+State University , and one third at UC San Diego,  are transfer students from mostly local 
+community colleges. Motivating and e nabling programs that provide a smooth transition 
+between these 2-year and 4 -year institutions  is a desired outcome of our vision.  
+ 
+
+
+However,  our vision faces a major challenge: many of the colleges in the US, especially in ru ral 
+communities lack the expert staff to procure, deploy,  and securely operate the kind of advanced 
+computing infrastructure  necessary for AI education. Nor do these institutions have the staff to 
+train their educators how to use such infrastructure and incorporate it into their curricula . This is 
+a workforce challenge as well as a financial problem since many of these institutions serve  
+areas where the relevant talent does not exist and cannot competitively be recruited and then 
+retained given the  highly sought- after skills required, nor is it financially sensible to maintain 
+such staff at most of these colleges, as their size and budgets do not warrant it.  
+The NRP Socio- technical Solution 
+We developed technologies and processes that allow a small team of system administrators 
+and user support personnel to manage a national -scale infrastructure across thousands of 
+colleges. It is well known, and well-practiced by commercial cloud providers, that the human 
+effort to operate compute and data infrastructure scales much less than linear, likely  
+logarithmically , with the amount of equipment under management. We added to this the ability 
+to manage equipment irrespective of location. A college with an existing Science  DMZ [ 3] thus 
+may purchase equipment from a broad list we recommend, rack it up, connect power and 
+networking , and we take over management of the system from there. As a result, we eliminate 
+the critical recurring operational and security support  at each college, by centralizing and 
+automating operations, security, and user support in a scalable fashion (by critically maintaining 
+all nodes at the same software release levels, and constant monitoring for improper usage, 
+failed nodes, etc .). This not only reduces the total cost of ownership, but also improves 
+cybersecurity by bringing all colleges to the standard of the San Diego Supercomputer Center 
+(SDSC), a national scale facility at UC San Diego, and the Holland Computing Center at the University of Nebraska -Lincoln by  dint of us operating  the entire national -scale NRP cluster.  
+In addition, we have already adapted social network and AI techniques to provide scalable user 
+support to the community of educators on the NRP platform. We built a community of educators and researchers that actively share best practices in chat channels on a wide range of topics, supervised by our expert personnel. To further scale the support, we use the chat transcripts in 
+our chat channels to train AI chat bots to answer questions from the user community.  
+At present, our prototype includes hardware at 45 colleges, and 8 Research and Education Networks (REN s) across the USA and Internet2 [4] . Internet2 is the national network provider 
+that connects the RENs with each other . We have a strategy to scale this out to a thousand 
+colleges to provide  a million  students per year with AI Education Infrastructure as described 
+below.  
+The NRP Strategy to Scale out to the nation  
+Our strategy is to work with RENs like CENIC [ 5] and the Great Plains Network (GPN)  [6]. 
+CENIC is a 501(c)(3) with the mission to advance education and research across the state of 
+California by providing the world -class network essential for innovation, collaboration, and 
+economic growth. Its charter members include the California K -12 system, the California 
+Community Colleges  (CCC), the California State University System  (CSU), the University of 
+
+
+California System  (UC), Stanford, Caltech, USC, and the Naval Postgraduate School, and most 
+of the California Public Libraries. The 116- campus CCC system alone has more than 2 million 
+students enrolled, providing education to more than 10% of all college students in the USA [ 7]. 
+The GPN is a peer organization to CENIC that serves  many  Midwest states : South Dakota, 
+Nebraska, Kansas, Missouri, Oklahoma, Arkansas , as well as affiliated members in Wisconsin, 
+Iowa, and Minnesota. All the RENs in the USA coordina te with each other via t he Quilt [8] , a 
+national coalition of non-profit US regional research and education networks, and are all linked 
+with each other, and the general global internet by Internet2 .  
+ 
+As a collective  and in addition to their technical role, the RENs of the USA form a “social ” 
+network that connects a vast number of institutions of higher learning, both public and private, 
+encouraging collaborations via fiber, packets, and people . Based  on our existing work with 8 
+RENs, including CENIC and GPN, and Internet2, as well as attendance at the annual Quilt 
+meetings over many years, we know that most RENs are very keen to offer AI compute services 
+to their academic constituencies but, not being their core focus,  lack the staff expertise to do so.  
+ 
+A $25M investment over 5 years, followed by a steady state operations costs of $ 8M/year will 
+allow us to achieve our goal of a thousand colleges and a million students served per year. The 
+infrastructure operations costs would thus amount to only $8 per student per year, an amount negligible compared to the administrative costs of each college maintain ing its own 
+infrastructure including the costs to support and train the educators on such infrastructure. During the first 5 years, we would scale up our work force from 3.5 FTE today to 24 FTE needed 
+for 24x7 operations of NRP across our thousand colleges, and spend ~$10M for hardware that 
+we would  install at  strategically selected institutions across the USA. We have found that initial 
+hardware seeding  in campus Science DMZs  is exceptionally useful to stimulate future 
+investments, and generate excitement, especially at smaller institutions. We propose that the hardware funds would be exclusively earmarked for non- R1 institutions  and institutions in 
+EPSCoR states. The $10M in hardware purchases will allow us to install hardware in ~150 
+institutions , motivating the other 85 0 institutions to make their own hardware investments . Over 
+time, we expect all institutions to augment  their hardware to meet their student needs.  
+ After the initial 5 years, we would expect the NRP for AI Education to transition to a long-term 
+sustainable model of operations.  Internet2 and many of the RENs operate as 501(c)(3) 
+nonprofits and fund their operations mostly via membership fees. This business model seems natural to transition NRP to. A combination of some of the RENs and Internet2 might offer NRP 
+as a community cloud service to their communit ies, providing a complement to commercial 
+cloud services . We thus propose that t he Federal Government with its AI initiative fund a 
+necessary transformative change for college education nationwide that can be sustained without 
+ongoing Federal funding.   
+  While this transformative change is necessary for college education, it also expands the national 
+research capacity to a much wider range of academic institutions. This i n turn has positive 
+effects on local economies, especially in rural areas. The colleges we reach with NRP AIRE 
+tend to have faculty engaged with the needs of their local economies on workforce development 
+
+
+and applied research relevant to those local economies.  By encountering research 
+methodologies in college the workforce is much better prepared for the kind of continu ous 
+improvement processes often required from them in industry.  
+ 
+[1] https://link.springer.com/chapter/10.1007/978 -94-009-2699- 8_8, for example  
+[2] https://aisurvey.sdsu.edu/dashboard/ 
+[3] https://fasterdata.es.net/science -dmz/  
+[4] https://internet2.edu  
+[5] https://cenic.org  
+[6] https://www.greatplains.net  
+[7] https://www.cccco.edu 
+[8] https://www.thequilt.net/ 
+ 
+
+

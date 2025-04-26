@@ -1,0 +1,416 @@
+Pre-empting Multi-Agent Risks from 
+Advanced AI through the AI Action Plan 
+Executive Summary 
+The Cooperative AI Foundation welcomes the Administration's focus on making the most of 
+the opportunities available from rapid advances in AI. As the United States works to advance 
+global leadership in AI innovation, a critical emerging consideration involves pre-empting 
+risks that arise specifically from interactions between multiple AI systems. 
+America's competitive edge in AI will increasingly depend not only on developing powerful 
+individual AI systems but on ensuring these systems work effectively together. As AI 
+systems become more autonomous and are deployed at scale, they will inevitably interact 
+with each other across sectors like finance, transportation, healthcare, and energy. This 
+transition from isolated AI systems to interconnected networks of AI agents offers 
+tremendous opportunities for economic growth and productivity, but also introduces unique 
+challenges that require thoughtful management. 
+Our research indicates that certain multi-agent risks, if left unaddressed, could significantly 
+impede private sector innovation by creating market inefficiencies, as well as leading to 
+system failures, undermining consumer trust, and generating unnecessary regulatory 
+backlash. Strategic government coordination in targeted areas can help prevent these 
+outcomes without a heavy-handed approach to AI governance. 
+We recommend strategic investments in research, technical standards for interoperability, 
+and market mechanisms that enable AI systems to coordinate effectively. These targeted 
+measures will help prevent problems like AI collusion in markets, miscoordination in critical 
+infrastructure, and security vulnerabilities in multi-agent systems while creating a more 
+stable environment for private sector innovation. 
+By proactively addressing these multi-agent risks, the United States can: ●Create a competitive advantage in developing advanced AI agents that function
+reliably in complex environments
+●Prevent market failures that could trigger more restrictive regulations
+●Establish global standards that benefit U.S. companies
+●Accelerate the safe deployment of productivity-enhancing AI agents across the
+economy
+In this submission, we outline the specific failure modes and risk factors unique to 
+multi-agent AI systems, along with targeted policy recommendations that support the 
+Administration's goals. Our approach emphasizes the importance of addressing these 
+challenges through coordination, standards, and targeted research. 
+1 
+
+
+1. Introduction
+The rapid advances in artificial intelligence over the past decade have positioned the United 
+States at the forefront of a technology revolution. As we move from an era of relatively 
+simple AI models to increasingly autonomous AI agents capable of taking actions in the 
+world, we stand on the threshold of extraordinary economic opportunities. The success of 
+this transition will depend not just on the capabilities of individual AI systems, but on how 
+effectively they interact with each other. 
+The future AI landscape will be inherently multi-agent, meaning that many AI systems, 
+potentially developed by different organizations with different objectives, will inevitably 
+interact with one another. We are already seeing the early stages of this transition: 
+algorithmic trading systems interact in financial markets, recommendation systems compete 
+for user attention, and AI assistants communicate with each other and with other digital 
+systems. Soon, more advanced AI agents will manage critical infrastructure, participate in 
+business operations, and represent individuals and organizations in increasingly complex 
+interactions. 
+This shift presents both unprecedented opportunities and novel challenges. On one hand, 
+networks of effectively coordinating AI agents could unlock extraordinary productivity gains, 
+enable more personalized services, and create entirely new business models. On the other 
+hand, failures in these multi-agent systems could lead to market inefficiencies, service 
+disruptions, and security vulnerabilities at scales and speeds beyond what we have seen in 
+traditional software systems. 
+Importantly, these challenges are distinct from those posed by single AI systems. Even if 
+individual AI systems are perfectly aligned with their users' interests and comply with all 
+relevant regulations, their interactions can produce unintended and potentially harmful 
+outcomes. For example: ●AI pricing algorithms may implicitly collude to raise consumer prices, even without
+explicit instructions to do so
+●Autonomous systems in transportation or energy grids may fail to coordinate
+effectively, leading to inefficiencies or service disruptions
+●AI agents representing different organizations may engage in escalating conflicts or
+arms race dynamics that harm all participants
+The private sector alone cannot fully address these challenges because they often involve 
+coordination problems, information asymmetries, and externalities that affect entire markets 
+or sectors. Yet inappropriate regulatory approaches risk stifling precisely the innovation 
+needed to solve these problems. 
+Instead, the United States has the opportunity to take a leadership role in developing 
+lightweight coordination mechanisms, technical standards, and targeted research initiatives 
+that enable AI systems to interact safely and productively. By addressing these multi-agent 
+risks proactively, we can create an environment where private sector innovation flourishes 
+while avoiding the market failures or public harms that might otherwise trigger overreaching 
+regulatory responses. 
+2 
+
+
+This submission draws on the recent technical report Multi-Agent Risks from Advanced AI, 
+(Hammond et al., 2025) to identify the key failure modes and risk factors in multi-agent AI 
+systems. It offers concrete recommendations for how the Administration can address them 
+through its AI Action Plan, enabling the benefits of AI innovation while preventing 
+unnecessary barriers. 
+2. The Emerging Landscape of Multi-Agent AI Systems
+While much of the public discourse on AI has focused on the capabilities of individual AI 
+systems, the reality of AI deployment is increasingly multi-agent in nature. Today, multiple AI 
+systems are already involved in tasks ranging from trading million-dollar assets to 
+recommending actions to commanders in military contexts. In the near future, applications 
+will expand to include energy management, transportation networks, critical infrastructure, 
+and personal assistants that interact with each other on behalf of their users. 
+This transition to multi-agent AI is being driven by several factors: 1.Competitive advantage through autonomy: Organizations that deploy
+autonomous, adaptive agents will have significant advantages over those relying on
+non-adaptive systems or those requiring constant human oversight.
+2.Network effects: As more AI agents are deployed, the value of having AI systems
+that can effectively interact with other AI systems increases dramatically.
+3.Division of labor: Complex tasks often require specialized expertise, making it more
+efficient to have multiple specialized agents rather than one generalist system.
+These trends are already evident in several domains. In financial markets, algorithmic 
+trading systems now execute the majority of trades, interacting with each other at speeds far 
+beyond human reaction times. In online spaces, AI content moderation systems and 
+recommendation algorithms interact in complex ways across platforms. And we are 
+beginning to see early versions of AI assistants that can interact with other digital systems 
+and services on behalf of users. 
+As foundation models and agent architectures continue to advance, we should expect the 
+proliferation of more capable AI agents interacting in increasingly complex ways. This is not 
+merely a quantitative change but a qualitative one: the shift from isolated AI systems to 
+interconnected networks of AI agents introduces systemic properties and risks that cannot 
+be understood by examining individual systems in isolation. 
+Understanding and addressing the unique challenges of multi-agent AI will be essential to 
+realizing its full potential for economic growth, improved quality of life, and national security. 
+By taking a proactive approach to multi-agent risks, the United States can establish itself as 
+the leader not just in developing individual AI capabilities, but in creating the infrastructure 
+and standards for AI systems to interact safely and productively. 3 
+
+
+3. Multi-Agent Failure Modes
+Multi-agent systems can fail in various ways, depending on the objectives of the agents and 
+the intended behavior of the system. The report Multi-Agent Risks from Advanced AI 
+(Hammond et al., 2025) identifies three distinct failure modes that emerge in multi-agent 
+settings and can lead to significant risks. 
+3.1 Miscoordination 
+Miscoordination occurs when AI agents, despite having mutual and clear objectives, cannot 
+align their behaviors to achieve these objectives. This represents the simplest kind of 
+cooperation failure but can still lead to serious problems. 
+Even in common-interest settings where agents share identical goals, miscoordination 
+abounds due to several factors: 
+●Incompatible Strategies: When agents independently develop different approaches
+to solve the same problem, they may end up working at cross-purposes. For
+example, in autonomous driving, models trained on different driving conventions
+(such as yielding right versus left for emergency vehicles) can fail catastrophically
+when interacting on the same roads.
+●Credit Assignment Challenges: In complex environments with multiple agents, it
+becomes difficult to determine which agent's actions contributed to positive or
+negative outcomes, making learning and adaptation more challenging.
+●Limited Communication : Split-second decisions or situations where communication
+is too costly can lead to coordination failures, especially in "zero-shot" interactions
+where agents have no prior history of working together.
+3.2 Conflict 
+In most real-world strategic interactions, AI agents will have objectives that are neither 
+identical nor completely opposed, but mixed. Even if these agents are perfectly aligned with 
+their respective users or deployers, conflicts can arise due to the diverging interests of those 
+users. 
+Key instances of conflict include: 
+●Social Dilemmas: AI systems may enable actors to pursue selfish incentives more
+effectively, potentially overcoming the technical, legal, or social barriers that normally
+help prevent destructive competition. For example, AI assistants could enable
+"hyper-switching" between services or overconsumption of common resources.
+4 
+
+
+●Military Domains: AI systems serving as advisors or negotiators in high-stakes
+military decisions could lead to rapid unintended escalation if not robustly designed,
+as demonstrated in research where multiple LLMs controlling simulated nation-states
+rapidly developed arms race dynamics even from neutral starting conditions.
+●Coercion and Extortion : Advanced AI systems might enable various forms of
+coercion through surveillance, hacking, or adversarial attacks on other AI systems,
+potentially creating new forms of strategic threats.
+3.3 Collusion 
+While cooperation failures represent significant risks, there are also settings where 
+cooperation between AI systems is undesirable. AI collusion refers to unwanted cooperation 
+between AI systems at the expense of other parties. 
+Prominent instances include: 
+●Markets: AI systems could learn to implicitly coordinate pricing strategies without
+explicit instructions to do so, as has already been demonstrated in both theoretical
+models and empirical studies of algorithmic pricing in markets like retail gasoline.
+●Steganography: Recent research has shown that language models can exchange
+hidden messages that appear innocuous to overseers but contain covert information,
+with more advanced models showing greater proficiency in such communication.
+These failure modes are particularly concerning because they may become more severe as 
+AI capabilities improve, unlike miscoordination problems that might naturally decrease with 
+greater AI sophistication. Additionally, many promising approaches to ensuring the safety of 
+advanced AI are implicitly multi-agent, such as adversarial training or oversight schemes, 
+which could be undermined by collusion between AI systems. 
+Addressing these multi-agent failure modes requires approaches that go beyond ensuring 
+the safety and alignment of individual AI systems, as even perfectly aligned individual 
+systems can produce harmful outcomes when interacting. 
+4. Risk Factors
+The Multi-Agent Risks from Advanced AI report identifies seven critical risk factors that can 
+lead to or exacerbate the failure modes described previously. These factors are largely 
+independent of the agents' precise incentives and can arise across various multi-agent 
+settings. 
+4.1. Information Asymmetries 
+5 
+
+
+Information asymmetry refers to situations where interacting agents possess different levels 
+of information bearing on a joint action. Despite the information processing capabilities of AI 
+systems, they remain vulnerable to failures caused by information asymmetries in several 
+ways: 
+●Communication Constraints: Space or time limitations can prevent complete
+information exchange, even when agents share common goals.
+●Bargaining Inefficiencies: When agents with different objectives negotiate,
+uncertainty about others' values or capabilities can lead to failed agreements or even
+costly conflicts.
+●Deception : Different strategic interests can incentivize AI agents to mislead other
+agents or manipulate markets, as demonstrated in research showing reinforcement
+learning agents learning to manipulate financial benchmarks.
+These information asymmetries can lead to miscoordination even among cooperative 
+agents, or escalate conflicts among competitive ones. 
+4.2. Network Effects 
+As AI systems are integrated into existing networks, new risks emerge from the intricate 
+relationships between individual components and the overall system: 
+●Error Propagation : Information can be corrupted as it moves through networks of AI
+systems, with factual accuracy degrading through repeated transformations. This is a
+phenomenon demonstrated in experiments where information accuracy fell from 96%
+to under 60% after multiple AI-driven rewrites.
+●Network Rewiring : AI systems may increasingly interact with other AIs rather than
+humans, potentially creating new patterns of connection with unforeseen
+consequences for resource distribution or system stability.
+●Homogeneity and Correlated Failures: The current foundation model paradigm
+means many AI agents may be powered by a small number of similar underlying
+models, creating critical nodes in the overall network and introducing correlated risks
+of shared failure modes.
+4.3. Selection Pressures 
+The evolutionary pressures that shape AI systems (whether through gradient descent, 
+developer choices, or user preferences) can lead to concerning outcomes: 
+●Undesirable Dispositions from Competition : Competitive multi-agent settings may
+select for conflict-prone dispositions like vengefulness, aggression, or deception,
+6 
+
+
+similar to evolutionary pressures in biological systems.  
+●Undesirable Dispositions from Human Data: Models trained on human data can
+exhibit biases that either reduce or exacerbate risks of conflict, depending on
+whether they inherit cooperative or competitive tendencies.
+●Undesirable Capabilities: Co-adaptation between agents can quickly lead to
+emergent self-supervised auto-curricula, generating increasingly sophisticated
+strategies through interaction that may include manipulation or deception.
+Experiments have shown significant differences in how different LLM populations maintain 
+cooperation across generations when subject to evolutionary selection pressures. 
+4.4. Destabilizing Dynamics 
+When multiple adaptive agents interact, their collective behavior can produce unpredictable 
+and potentially harmful dynamics: 
+●Feedback Loops: The 2010 Flash Crash, where algorithmic trading agents entered
+an unexpected feedback loop leading to a trillion-dollar market loss in minutes,
+illustrates how multi-agent systems can produce rapid, destabilizing effects.
+●Cyclic Behavior and Chaos: Mathematical analysis suggests that as the number of
+learning agents increases, chaotic dynamics can become the norm rather than the
+exception, making prediction increasingly difficult.
+●Phase Transitions: Small changes to system parameters can cause abrupt
+qualitative shifts in overall behavior, potentially leading to sudden and unexpected
+failures.
+●Distributional Shift: The actions of adapting agents create a constantly changing
+environment for other agents, making it challenging to maintain performance over
+time.
+4.5. Commitment and Trust 
+The ability to form credible commitments can help overcome cooperation failures but may 
+also introduce new risks: 
+●Inefficient Outcomes: Without trust or commitment ability, agents may fail to reach
+mutually beneficial agreements, especially in high-stakes situations.
+●Threats and Extortion : The same commitment mechanisms that enable cooperation
+can be used to make credible threats, as illustrated by historical examples like
+7 
+
+
+automated nuclear response systems.  
+●Rigidity and Mistaken Commitments: Overly rigid commitments may prevent
+adaptation to changing circumstances, potentially leading to harmful outcomes when
+new information arises.
+4.6. Emergent Agency 
+Novel forms of agency can emerge at the collective level that are not present in any 
+individual system: 
+●Emergent Capabilities: Narrow systems for separate tasks could combine to enable
+complex capabilities beyond what any individual system can do, such as automated
+workflows for designing dangerous compounds.
+●Emergent Goals: Even if individual AI systems lack problematic objectives, their
+combinations may act as a goal-directed collective, potentially pursuing unintended
+outcomes that no individual system was designed to seek.
+4.7. Multi-Agent Security 
+The interconnection of multiple AI systems introduces new security vulnerabilities and attack 
+vectors: 
+●Swarm Attacks: Decentralized agents can coordinate to overcome defenses that
+would be effective against individual attackers.
+●Heterogeneous Attacks: Combining different AI systems with complementary
+capabilities can overcome safety measures, as demonstrated by research showing
+that while individual models rarely generate harmful content (less than 3% success
+rate), combining models with different capabilities increased success rates to 43%.
+●Social Engineering at Scale: Multiple AI agents could coordinate sophisticated
+manipulation campaigns that would be more convincing than those from a single
+source.
+●Vulnerable AI Agents: AI agents acting as delegates for humans or organizations
+create new attack surfaces that could be exploited to extract private information or
+manipulate the agent to take undesired actions.
+These seven risk factors interact with and amplify each other, creating complex challenges 
+that cannot be addressed by focusing solely on individual AI systems. Tackling these factors 
+requires approaches that account for the dynamic, interconnected nature of multi-agent AI 
+systems. 
+8 
+
+
+5. Policy Recommendations 
+Addressing multi-agent risks from advanced AI requires strategic policy actions that enable 
+innovation while preventing harmful outcomes. Based on the findings in the Multi-Agent 
+Risks from Advanced AI report, we recommend the following priority actions for inclusion in 
+the AI Action Plan. 
+ 
+5.1. Support Targeted Research on Multi-Agent Risks 
+The government should prioritize funding for research specifically addressing multi-agent 
+risks, focusing on: 
+● Evaluation methodologies: Develop robust ways to test how AI systems perform in 
+multi-agent settings, including their cooperative capabilities, vulnerability to collusion, 
+and behavior when interacting with diverse agent populations.  
+ 
+● Coordination mechanisms: Support research on protocols, standards, and 
+techniques that enable AI systems to coordinate effectively even when developed by 
+different organizations with different objectives. 
+ 
+● Security testing : Fund research on multi-agent adversarial testing, including how 
+multiple AI systems might work together to overcome safeguards even when 
+individual systems cannot. 
+ 
+● Monitoring techniques: Develop tools for detecting emergent behaviors, collusion, 
+and other concerning patterns in networks of AI agents. 
+These research priorities require relatively modest funding compared to general AI 
+capabilities research but would address critical gaps in understanding of multi-agent risks. 
+ 
+5.2. Develop Infrastructure for AI Agent Interaction 
+Just as internet protocols enabled the growth of the digital economy, infrastructure for AI 
+agent interaction will be essential for realizing the benefits of multi-agent AI while managing 
+its risks: 
+● Agent identification standards: Support the development of unique identifiers for AI 
+agents to enable tracking, attribution, and reputation systems.  
+ 
+● Secure interaction protocols: Establish standards for secure, authenticated 
+communication between AI systems to prevent manipulation and unauthorized 
+access. 
+ 
+9 
+
+
+●Testing environments: Create sandboxed environments where AI agents can be
+evaluated for their behavior in multi-agent settings before deployment.
+●Tamper-evident logs: Develop standards for maintaining records of AI agent
+interactions that cannot be altered, enabling accountability while preserving privacy.
+This infrastructure should be developed with industry input to ensure it meets practical needs 
+while establishing baseline security and interoperability standards. 
+5.3. Establish Mechanisms to Prevent Harmful Outcomes 
+Light-touch market mechanisms can help prevent harmful multi-agent behaviors while 
+preserving innovation: 
+●Detection tools for algorithmic collusion : Support the development of tools that
+can identify when AI systems are implicitly colluding in markets, enabling
+enforcement of existing antitrust laws without imposing new regulations.
+●Circuit breakers for AI systems: In critical domains like financial markets or
+infrastructure, establish mechanisms to temporarily pause or roll back AI agent
+actions when concerning patterns emerge, similar to circuit breakers in stock
+markets.
+●Liability frameworks: Clarify how responsibility is assigned for harms caused by
+interactions between multiple AI systems, providing certainty for businesses while
+ensuring accountability.
+5.4. International Coordination on Standards and Governance 
+The United States could benefit from leading international efforts to address multi-agent AI 
+risks: 
+●Technical standards: The U.S. will need technical standards for AI agent
+interoperability, security, and coordination. Leading the way in standard setting could
+position U.S. approaches as the global default.
+●Information sharing : Establishing mechanisms for sharing information about
+incidents involving multi-agent AI systems will improve collective understanding of
+risks.
+5.5. Education and Workforce Development 
+Build capacity to address multi-agent AI risks through: 
+10 
+
+
+●Interdisciplinary training : Support education programs that combine expertise in AI
+with fields like economics, security, and complex systems, developing professionals
+who understand multi-agent dynamics.
+●Simulation expertise: Develop talent in modeling and simulating complex
+multi-agent systems to better predict and mitigate risks.
+These recommendations aim to establish the conditions for safe and productive multi-agent 
+AI development while minimizing constraints on innovation. By addressing these issues 
+proactively through targeted research, infrastructure, and coordination, the United States can 
+maintain its leadership in AI while preventing market failures or harms that might otherwise 
+trigger more restrictive approaches. 
+6. Conclusion
+The transition from individual AI systems to networks of interacting AI agents represents 
+both a tremendous opportunity and a novel challenge for American innovation. As we have 
+outlined in this submission, multi-agent risks from advanced AI are distinct from the risks 
+posed by individual systems and require specific attention in the AI Action Plan. 
+The United States stands at a crossroads. By proactively addressing these multi-agent risks 
+through targeted research, infrastructure development, and light-touch coordination 
+mechanisms, America can create the conditions for unprecedented innovation and economic 
+growth. Conversely, ignoring these risks could lead to market failures, security 
+vulnerabilities, and public harms that might trigger overreaching regulatory responses. 
+The approach we have recommended aligns with the Administration's goals of sustaining 
+American leadership in AI while preventing unnecessary barriers to innovation. Rather than 
+imposing burdensome requirements, our recommendations focus on enabling technologies, 
+standards, and research that will help the private sector deploy AI agents more confidently, 
+safely, and effectively. 
+We urge the Administration to incorporate multi-agent considerations into the AI Action Plan, 
+recognizing that America's competitive edge in AI will increasingly depend not just on 
+developing powerful individual systems, but on creating an ecosystem where multiple AI 
+agents can interact safely and productively. By rising to this challenge, the United States can 
+establish itself as the global leader in the next frontier of artificial intelligence, one 
+characterized by networks of AI agents working together to solve complex problems and 
+create unprecedented value. 
+The Cooperative AI Foundation stands ready to support these efforts through our research, 
+expertise, and international network of collaborators. Together, we can ensure that the 
+benefits of advanced AI are realized fully, safely, and in a manner that draws on American 
+leadership in this critical technology. 
+11 
+
+
+Reference 
+Hammond et al. (2025). Multi-Agent Risks from Advanced AI . Cooperative AI Foundation, 
+Technical Report #1. 
+Submission date: March 14th, 2025 
+This submission is from The Cooperative AI F oundation https://www.cooperativeai.com/  
+Further information is available from 
+This document is approved for public dissemination. The docum ent contains no 
+business-proprietary or confidential inform ation. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution. 
+12 
+
+

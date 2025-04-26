@@ -1,0 +1,230 @@
+ The Future of Computational Intelligence in Surgical Decision-Making 
+ To:  Office of Science and Technology Policy (OSTP) 
+ From:  Meghan Dierks, MD, FACS [Fellow of the American College of Surgeons]; Chief AI 
+ Officer, HHS 
+ Date:  March 15, 2025 
+ Subject:  R&D and Investment Needs to Secure the Future of Computational Intelligence in 
+ Surgical Decision-Making 
+ Disclaimer - Release:  This document is approved for public dissemination. The document 
+ contains no business-proprietary or confidential information. Document contents may be 
+ reused by the government in developing the AI Action Plan and associated documents 
+ without attribution. 
+ Current Challenges and Limitations of AI in Surgical Settings 
+ The operating theater represents one of the most complex decision environments in 
+ contemporary healthcare delivery - particularly in the context of trauma surgery (e.g., 
+ battlefield) and re-operative surgery. Unlike many other procedural contexts (e.g., 
+ interventional cardiology working exclusively within a vascular lumen) where workflows, 
+ instrumentation, and anatomic relationships can be fully anticipated and mapped in advance, 
+ trauma and re-operative surgery demands continuous adaptation to unexpected findings, 
+ anatomical variations, and emergent complications. The necessity for continuous adaptation 
+ to emergent conditions - responding to unexpected findings, managing uncertainty, and 
+ adjusting to evolving tissue responses or technical execution errors - represents the 
+ fundamental challenge of surgical contingency planning and robotics advancement. This 
+ complex reality creates both unprecedented opportunities and distinctive hurdles for 
+ computational intelligence in the operating theater, substantially advancing current 
+ commercial robotics products whose platforms are limited to enhanced tool manipulation. 
+ Large Language Models (LLMs) trained on available clinical data offer promising capabilities 
+ for general medical knowledge retrieval and pattern recognition, but they face significant 
+ 1 
+
+
+ limitations in the surgical procedural context. The statistical nature of these models creates 
+ blind spots precisely where surgical decision-making requires the greatest precision: 
+ ● Clinical training data inherently underrepresents complications and rare events,
+ skewing model understanding toward common, successful cases. An extensive review
+ of operative reports and surgical morbidity and mortality case reviews by this author
+ over the past 35 years confirms the parsimony and under-representation of events
+ and observations in this corpus of training data, primarily driven by medical-legal
+ concerns.
+ ● Surgical complications emerge from complex causal chains with temporal dynamics
+ that current probabilistic models struggle to capture faithfully.
+ ● The tacit knowledge that experienced surgeons employ when navigating unexpected
+ scenarios remains inadequately documented and formalized in the published
+ literature that forms LLM training data.
+ These limitations create a fundamental mismatch between the statistical reasoning of 
+ current AI systems and the causal, constraint-based reasoning required for effective surgical 
+ contingency planning. 
+ The Computational Requirements for Embedded Real-Time Surgical 
+ Intelligence and the Case for Symbolic Reasoning as Critical Augmentation 
+ AI technology required to support real-time surgical decision-making or embedded 
+ intelligence in surgical robotics requires specialized computational architecture designed for 
+ both performance and reliability: 
+ ● Latency constraints  demand response times under 200ms for time-critical guidance
+ ● Contextual awareness  necessitates extensive context windows (50K-100K tokens) to
+ maintain the full procedural history
+ ● Parallel processing  of multiple potential contingency pathways simultaneously
+ ● Uncertainty quantification  with explicit representation of confidence in different
+ intervention options, requiring specialized inference optimization
+ 2 
+
+
+ ● Specialized management of complexity  with dynamic model pruning based on
+ procedure type and resource allocation algorithms that prioritize time-sensitive
+ inference during critical surgical phases (so-called critical path prioritization).
+ However, the core challenge extends beyond raw computational power to the fundamental 
+ reasoning architecture needed for surgical intelligence. Pure neural approaches to surgical 
+ intelligence (i.e., based exclusively on LLM/foundational models with fine-tuning on 
+ domain-specific data) face inherent limitations that will require hybrid approaches that 
+ symbolic reasoning systems. Symbolic systems can formally encode anatomical 
+ relationships, physiological parameters, procedural constraints, and human behavioral 
+ variations (e.g., models of risk tolerance) that must be satisfied regardless of statistical 
+ patterns. This provides essential guardrails for AI-generated contingency plans. Formal 
+ temporal logic frameworks can explicitly represent the evolution of surgical scenarios over 
+ time, including critical intervention windows and causal relationships between actions and 
+ outcomes. For example, when managing complex intra-abdominal trauma, multiple critical 
+ factors, including progressive blood loss, deteriorating metabolic parameters, declining core 
+ temperature, limited resource availability, and competing demands for resources in a mass 
+ casualty scenario, may necessitate the rapid formulation and execution of a sequentially 
+ staged approach. Such damage control strategies might involve temporary abdominal 
+ packing and closure, strategic pausing to assess survivability and potential disability 
+ outcomes, followed by definitive repair during a subsequent procedure when the patient has 
+ been physiologically stabilized. 
+ Symbolic methods enable formal verification of proposed interventions against explicit safety 
+ criteria, providing necessary assurance for high-stakes surgical decisions. The most 
+ promising path forward for innovation and R&D requires a hybrid neuro-symbolic 
+ architectures that combine the pattern recognition strengths of  LLMs with the precision and 
+ constraint satisfaction capabilities of symbolic systems. 
+ Cross-Domain Inspiration: Learning from Other Sectors 
+ 3 
+
+
+ Several non-medical domains have pioneered in embedded intelligence for high-stakes, 
+ real-time decision support; these may offer insights and blueprints for advancement in 
+ surgical applications. The aerospace industry has developed rigorous frameworks for 
+ human-AI collaboration in contexts where failures are catastrophic. These systems blend 
+ probabilistic reasoning with hard constraints and feature explicit anomaly detection that 
+ could be adapted to identify developing surgical complications. Chemical processing and 
+ other high-risk industrial facilities employ fault tolerance systems with formal verification 
+ methods and digital twin technology that could be repurposed to provide real-time 
+ simulation of alternative surgical approaches. Self-driving systems feature commercially 
+ viable edge-computing implementations for real-time scene understanding, deploying 
+ localized uncertainty quantification algorithms and safety envelope enforcement through 
+ symbolic guardrails that operate directly on in-vehicle neural systems without requiring 
+ cloud connectivity. 
+ Despite the transformative potential of surgical intelligence systems, a persistent barrier to 
+ advancement remains the misalignment of commercial incentives, where proven 
+ technologies from aerospace, autonomous vehicles, and industrial processing systems have 
+ not been applied to surgical contexts due to smaller markets, higher regulatory hurdles, and 
+ entrenched clinical workflows that discourage cross-domain technology transfer. 
+ What is Required to Advance AI-Surgical Intelligence R&D? 
+ Advancing this field requires strategic research priorities across multiple dimensions, 
+ including model development, infrastructure, and validation frameworks. The following 
+ summarizes recommended priorities: 
+ Technical Research Priorities 
+ 1. Development of causal inference models specifically designed to learn surgical
+ cause-effect relationships from limited data
+ 2. Creation of explainable hybrid systems that provide reasoning transparency during
+ critical decisions
+ 4 
+
+
+ 3. Advancement of few-shot learning frameworks for rare complications with minimal
+ training examples
+ 4. Application of  safety envelope enforcement  concept in a surgical context (e.g., explicit
+ anatomical no-go zones, computationally defined regions containing critical
+ structures that cannot be violated regardless of what the neural network component
+ might suggest, operating through real-time geometric constraint checking, where
+ each proposed instrument movement is verified against formalized anatomical safety
+ maps before execution).
+ Infrastructure Requirements 
+ 1. Establishment of modular architecture standards allowing component-wise validation
+ 2. Construction of comprehensive surgical knowledge graphs with formal representation
+ of procedural knowledge
+ 3. Development of multi-center federated learning systems to capture diverse patient
+ populations
+ Validation Approaches 
+ 1. Simulation-based certification protocols before clinical deployment
+ 2. Gradual autonomy frameworks similar to autonomous vehicle levels, establishing
+ clear progression paths for surgical AI capabilities
+ 3. Surgical digital twins for risk-free testing of embedded intelligence
+ Investing in the Development of Gradual Autonomy Frameworks for Surgical 
+ Intelligence 
+ Even with advances in model development and technical infrastructure, one should 
+ anticipate substantial regulatory and adoption hurdles. The implementation of AI in surgical 
+ settings requires a methodical, stepwise approach to ensure safety and clinical efficacy. To 
+ overcome such hurdles, there should be equal R&D investment into the development of 
+ novel validation frameworks.  Drawing inspiration from autonomous vehicle development, a 
+ 5 
+
+
+ gradual autonomy framework for surgical intelligence provides a structured pathway for 
+ research, validation, and clinical integration. 
+ Level 1: Enhanced Visualization and Awareness 
+ At this initial level, AI systems provide information augmentation without direct intervention 
+ recommendations: 
+ ● Real-time identification and labeling of anatomical structures
+ ● Detection of tissue boundaries and critical structures
+ ● Physiological monitoring with early warning indicators
+ ● Tracking of instrument positioning relative to critical structures
+ The surgeon maintains complete control, with the system providing enhanced situational 
+ awareness similar to advanced radar systems in aviation. 
+ Level 2: Decision Support with Surgeon Validation 
+ The second level introduces passive decision support capabilities: 
+ ● Suggestion of potential next steps in the procedural workflow
+ ● Identification of deviation from planned approach
+ ● Early warning of developing complications based on subtle indicators
+ ● Presentation of relevant case history or literature for emerging scenarios
+ All suggestions require explicit surgeon approval before implementation, maintaining a clear 
+ human-in-the-loop paradigm. 
+ Level 3: Procedural Assistance with Supervision 
+ At this level, systems can perform specific subtasks under direct supervision: 
+ ● Camera positioning and stability maintenance
+ ● Tissue retraction assistance
+ ● Dissection path suggestion with real-time adjustment
+ 6 
+
+
+ ● Suture placement guidance with tension monitoring
+ The fully-trained surgeon supervises all activities and can immediately override any system 
+ action. 
+ Level 4: Autonomous Execution of Defined Subtasks 
+ With sufficient validation, specific well-defined subtasks may be delegated: 
+ ● Standardized suturing of predetermined tissue planes
+ ● Precise tumor margin identification and marking
+ ● Optimal port placement based on patient-specific anatomy
+ ● Tissue perfusion assessment and mapping
+ The fully-trained initiates each subtask and maintains override capability throughout. 
+ Level 5: Contingency Management 
+ Advanced systems would incorporate the ability to: 
+ ● Automatically adjust to unexpected anatomical variations
+ ● Identify developing complications and initiate appropriate responses
+ ● Modify surgical approaches based on intraoperative findings
+ ● Continuously recalculate risk profiles as the procedure evolves
+ ● Incorporate meta-system events and states (e.g., mass casualty, resource reserves,
+ competing demands for resources) to adjust case-specific procedural plans
+ These capabilities would be implemented with extensive safeguards and validation protocols. 
+ A graduated approach ensures that surgical AI earns trust incrementally through 
+ demonstrated capability and reliability rather than attempting revolutionary but potentially 
+ unsafe paradigm shifts. 
+ The Path Forward 
+ 7 
+
+
+ The future of surgical intelligence lies not in replacing clinical judgment but in augmenting it 
+ with systems that blend the complementary strengths of neural and symbolic approaches. 
+ By learning from advances in aerospace, financial, and autonomous systems, we can develop 
+ hybrid architectures that maintain human surgical expertise as the final authority while 
+ providing increasingly sophisticated decision support. Achieving this vision, however, requires 
+ overcoming significant economic barriers that currently impede progress. The surgical 
+ technology market, while substantial, remains fragmented and risk-averse compared to 
+ consumer technology sectors. Despite proven concepts in adjacent fields, private sector 
+ investment has been insufficient to bridge the "valley of death" between promising research 
+ and clinically viable systems—particularly for technologies requiring lengthy regulatory 
+ pathways and hospital adoption cycles. This market failure represents a classic case for 
+ targeted federal investment through agencies like the National Science Foundation. NSF 
+ funding for high-risk, high-reward surgical AI concepts that lack immediate commercial 
+ viability but promise significant patient benefit would accelerate progress in ways that 
+ market forces alone cannot achieve. By supporting pre-competitive research in surgical 
+ intelligence, particularly in domains like symbolic reasoning, formal verification, and 
+ human-AI collaboration models, NSF and other federal R&D support can catalyze an 
+ ecosystem that eventually becomes self-sustaining through later-stage private investment. 
+ The most promising immediate direction combines the redundancy and verification systems 
+ from aerospace with the real-time decision capabilities from industrial processing systems, 
+ creating a new class of surgical intelligence that respects the unique contingency 
+ requirements of the operating theater while enhancing the surgeon's ability to navigate 
+ unexpected scenarios safely and effectively. With strategic federal support to overcome 
+ current market limitations, we can accelerate this integration and dramatically improve 
+ surgical outcomes across diverse healthcare environments worldwide. 
+ 8 
+
+

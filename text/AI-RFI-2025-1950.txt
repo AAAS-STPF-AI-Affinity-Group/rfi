@@ -1,0 +1,141 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8a-e038-k4zx
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1950
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Nam e: Trudie Effron
+Em ail:  
+General Comment
+See attached file(s)
+Attachments
+RFI - AI Action Plan
+
+
+1 RE: R equest for Information on the Development of an “AI Ac tion Plan ” 
+Submi(ed to: N etworking and Informa7on Technology Research and Development (NITRD) 
+Na7onal Coordina7on  Oﬃce (NCO), Na7onal Science Founda7on (
+Submi(ed By: Trudie Eﬀron, 
+Date: March 15, 2025 
+Statement of Interest: 
+As a third-year law student at the University of Akron School of Law studying Artificial 
+Intelligence Law and Policy, I appreciate the opportunity to provide input on the development of the AI Action Plan. My growing expertise in artificial intelligence law and policy informs this response with a focus on two key areas: the use of AI by government employees as a tool to perform their jobs, and its application in decision-making processes that directly impact the public.  
+General Comments: 
+Artificial intelligence ( AI) is a technological advancement that has created a new sphere of tools 
+and algorithmic models that can do specific tasks extraordinarily well based on the training of the AI tool and the intended purpose. The use of AI in public sector implementation by government actors and employees must be deeply understood and monitored by human oversight that deeply understands the risks before implementation specifically, concerning potential data breaches, data security, and issues with security clearances including, potential unauthorized access if top secret information is in the training data or entered in by government employees with clearance.  
+Before integrating AI into federal operations, robust security measures and policies must be in 
+place. These should address data security, privacy concerns, bias mitigation, cybersecurity vulnerabilities, and ethical and legal implications. The key is to implement regulation and safety procedures around the use of AI in the federal system to ensure the safe, effective, and 
+
+
+ 2 responsible use of AI to benefit the government and not inhibit its operations (to the point of 
+potential harm to the public).  
+Model Development and Training:  
+First, to better understand why we need to integrate security policies, a basic working understanding of AI is necessary. AI or artificial intelligence and especially generative AI, operates by training on vast amounts of data to recognize patterns, generate responses, and make predictions. The training process involves feeding large datasets – which can include text, images, or other structured information – into complex machine learning models. These models adjust their parameters over time to improve accuracy, a process known as deep learning. The deep learning process also includes human input to guide the AI model based on the preferences and goals of the tool. Those human inputs are key in guiding the models and include rigorous 
+fine tuning which can introduce bias based on the bias of the individuals and the data sets. Generative AI, such as Large Language Models (LLMs), use these trained patterns to generate human-like text, images, or other outputs based on user input. However, AI models can inherit biases from their training data, potentially leading to skewed or misleading results. Additionally, hallucinations (where AI generates incorrect or fabricated information) and data security risks (such as exposure of sensitive or proprietary information) pose challenges when deploying AI in critical government functions.  
+Importantly, understanding the effect of human bias in the training process, when humans are 
+involved at each step of the process, as is considered in the best practices section, and how that flaw can create generalizations/discriminations is key in the implementation. Government employees can also create bias in their individual uses as the AI retrains on the data inputted and as the AI system adjusts to their specific mannerisms. It is also possible that government 
+
+
+ 3 employees would provide sensitive information about the government or individual citizens 
+which could compromise security and create bias. The solution here is to ensure that government models have been trained on a vast array of data that is adequately representative of the public/country and ensure that employees have oversight over the outputs of the models. Artificial Intelligence should never be without human oversight.  
+The training process is key in promoting efficiency and safety for government implementation. 
+When deciding to use an existing AI system this must be taken into account as well since the users of AI systems are usually liable for the use of those models if something is potentially discriminatory, harmful, or brings in any level of liability based on the response received. The government would be liable for any potential training that they undertake and implement, but each agency would have the same level of liability for a model they began using but did not train themselves in-house.  
+Ensuring proper safeguards, transparency, and human oversight is essential to mitigate these 
+risks and ensure responsible AI implementation. These issues will be further discussed and explored in the coming paragraphs.   
+Potential Risks for Implement ing AI in Government Syste ms: 
+Data Security and Privacy 
+The potential for data security and privacy concerns arises from the use of AI and the 
+implementation alike. Government agencies collect and process vast amounts of personally identifiable information (PII), classified intelligence, and other sensitive data. The introduction of AI systems to manage and analyze this information increases the risk of unauthorized a ccess  
+to sensitive and classified information. AI models require extensive datasets for training and operation. If not properly managed, these datasets may contain sensitive information that could 
+
+
+ 4 be accessed by unauthorized entities, either through improper data handling or security 
+vulnerabilities within the system itself. AI systems also can retain data beyond what the user 
+recognizes or has knowledge of. AI systems can store data locally or retrain their systems on the data inputted by users.  
+There is also the potential issue of jailbreaking, which will be further understood later on, could 
+present issues with data security and privacy. Even the simplest of tactics in jailbreaking can influence an AI system to dump its instructions or even data it was trained on which could provide issues in terms of legality. These issues could be as simple as accidental data dumps, or go as far as breaching national security as a whole, if not properly prevented.  
+If generative AI systems are implemented, extensive training of government employees needs to 
+take place and the AI systems themselves would need to not train on data inputted by individual users. In addition, AI systems implemented in the government would benefit from being a closed circuit, meaning that each agency or security level would have AI dedicated to them specifically. This would decrease the likelihood of exposure of classified information to those who are not the intended recipient. AI also has some issues related to the understanding of those using it about how “black boxes” exist, those systems that use deep learning make it difficult to determine how they process and store sensitive information. It raises issues related to transparency and accountability.  
+Data Breaches 
+The implementation of AI in government systems significantly heightens the risk of large-scale 
+data breaches. Due to the vast amounts of sensitive information processed by AI, any security lapse could result in the unauthorized disclosure of classified materials, personally identifiable information (PII), or national security-related intelligence. A breach within an AI may be more 
+
+
+ 5 damaging than conventional cyber intrusions, as AI models can inadvertently memorize sensitive 
+data, making it susceptible to extraction by threat actors.  
+Moreover, AI systems rely on continuous data input and refinement, which creates multiple 
+access points for potential security vulnerabilities. If AI models are compromised, they may not only expose existing datasets but also generate misleading or manipulated outputs, leading to severe consequences for governmental decision-making processes. Threat actors could exploit AI-generated misinformation to disrupt national security operations, critical infrastructure, and intelligence efforts.  
+To mitigate these risks, government agencies must prioritize stringent cybersecurity frameworks, 
+implement end-to-end encryption, and establish access controls that limit data exposure. Regular audits, AI model explainability mechanisms, and the integration of ethical AI guidelines can further enhance security while maintaining transparency in governmental AI usage. Without these safeguards, AI implementation could become a significant liability rather than an asset to national security efforts.  
+Security Clearances  
+The introduction of AI into government systems raises specific concerns regarding security 
+clearances, particularly in the context of unauthorized access to classified information. AI-driven 
+data analysis may unintentionally compromise classified information or create vulnerabilities that allow individuals without proper clearance to access or infer sensitive information.  
+In terms of data aggregation risks, AI-powered systems collect and cross-reference extensive 
+datasets, increasing the risk of unauthorized profiling and privacy violations. If AI aggregates data from multiple sources – such as financial records, social media activity, and government 
+
+
+ 6 databases – it may create an overly invasive surveillance mechanism that exceeds the intended 
+scope of clearance evaluations. AI systems also store data locally and train off inputs from users, which could result in the breaking of security clearances and expose government secrets to unauthorized users. This could breach intended security clearances and put national security at risk.  
+AI models could be exploited by malicious actors, and threat actors, including nation-state 
+adversaries and insider threats, could manipulate AI systems to bypass security clearance controls, gaining access to restricted filed or classified networks. Generative AI can also often be easily manipulated by plain English prompts. AI systems can also be jailbroken by non-sophisticated actors, which puts even more at risk, which induces the need for high security. There is also the possibility of unauthorized AI queries exposing sensitive data. AI-powered chatbots or search functions within government databases could generate responses containing classified or sensitive information if access restrictions are not rigorously implemented. AI-
+powered social engineering risks also could leave security clearances at risk. Adversaries may use AI to analyze patterns in security clearance approvals, identifying vulnerabilities and exploiting gaps in verification procedures to gain unauthorized access.  
+Given these risks, government agencies must ensure that AI-driven security clearance processes 
+incorporate multi-layered authentication, rigorous access control mechanisms, and continuous 
+monitoring for anomalies. AI should complement, rather than replace human oversight in 
+security clearance determinations to prevent unauthorized exposure of sensitive government data.  
+Potential Benefits for Implementation  
+
+
+ 7 Despite risks, AI has the potential to enhance security and efficiency when implemented 
+properly. Properly regulated and securely implemented AI can enhance threat detection and response, automated data protection, streamline government services, and operate predictive security analytics.  
+AI-powered cybersecurity systems can analyze large volumes of network traffic in real-time to 
+detect anomalies and potential cyber threats. Machine learning algorithms can identify patterns of malicious activity and respond proactively to mitigate risks. AI can enforce security policies by identifying and automatically encrypting sensitive data, ensuring compliance with federal regulations, and reducing human error in data handling. AI-driven automation can enhance administrative efficiency by reducing bureaucratic bottlenecks, optimizing data management, and improving public service delivery. AI models can also analyze historical security breaches and predict potential vulnerabilities, allowing agencies to implement preemptive cybersecurity measures.  
+Proposed Best Practices /Policy  
+Implementation of AI would be a game changer in government efficiency and would pay off a 
+hundred-fold in the long term, as long as proper procedures are followed and best practices implemented. The first best practice would be overarching, the development of an AI system 
+internally for functionality would provide for the most protection of government information. An 
+internal system would need to be trained by engineers on a dataset that is most helpful for the functionality being achieved.  
+The first step would be figuring out what type of AI would help improve efficiency and 
+determining what the purpose is for each AI system. The next step would be finding (or curating) a data set that is vast enough to include information for the AI to train on that would work for the 
+
+
+ 8 intended purpose. The data set would need to be properly labeled and tagged and understood 
+deeply by engineers to ensure protections for potential copyright issues and transparency.  
+It is helpful to note that it would be best to train AI systems that are specified for agencies and 
+tasks within those agencies. Those AI systems would need to be protected from potential harm including security breaches, data privacy, and cybersecurity risks as described previously. Protecting from jailbreaking, model-based attacks, and hardware-based attacks by bad actors is of the utmost importance, especially for protecting national security.  
+The AI systems themselves would be best suited for doing specific tasks as set forth by needs in 
+the government so that training the systems would be particularized and cost-effective. If the system is not particularized it could be a huge waste of government resources since training AI chatbots and AI systems is expensive and requires tons of employees and engineers spending time to pick datasets, and train and develop algorithms.  
+In addition, best practices should include encryption standards including end-to-end encryption 
+for all data in transit and at rest; regular security audits including routine audits and penetration testing to identify; and compliance with legal frameworks as they develop including relevant privacy, AI, and other applicable legal frameworks.  
+For secure implementation there should be a dedicated AI security team to oversee AI security, 
+ethics, and compliance; the requirement of multi-factor authentication for all AI access points, and human oversight in decision-making to ensure that AI is being overseen by human operators, especially in national security applications.  
+Finally, best practices also include robust training protocols for government employees including 
+training them on how to use the systems and how to protect government data, personal 
+
+
+ 9 information, and especially classified information. Implementing AI securely requires multi-
+layered authentication, strict access control policies, and continuous security monitoring. Additionally, human oversight must remain a key component, ensuring that AI systems complement rather than replace, human decision-making. By adhering to these best practices, government agencies can leverage AI to enhance efficiency while safeguarding national security and data integrity.  
+Disclosure Statement: 
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution.  
+References:  
+https://jacobian.org/2024/oct/1/ethical-public-sector-ai/?utm_source=chatgpt.com#we-should-
+use-assistive-ai-in-the-public-sector 
+https://ovic.vic.gov.au/privacy/resources-for-organisations/artificial-intelligence-and-privacy-
+issues-and-challenges/?utm_source=chatgpt.com 
+https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained 
+https://www.bloomberg.com/graphics/2023-generative-ai-bias/ 
+https://hackread.com/europol-chatgpt-prompt-engineering-jailbreaking/ 
+https://arxiv.org/pdf/2305.13860 “Jailbreaking ChatGPT via Prompt Engineering Empirical 
+Study” 
+
+

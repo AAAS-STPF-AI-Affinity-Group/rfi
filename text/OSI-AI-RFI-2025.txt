@@ -1,0 +1,160 @@
+8605 Santa Monica Blvd PMB 63639 
+West Hollywood | CA | 90069-4109 | United States 
+opensource.org 
+March 15, 2025 
+Faisal D'Souza, Technical Coordinator  
+Networking and Information Technology Research and Development (NITRD) 
+National Coordination O ﬃce (NCO) 
+Re: Document No. 2025-02305 
+Dear Mr. D'Souza: 
+The Open Source Initiative (OSI) appreciates the opportunity to provide input on the 
+development of an Artiﬁcial Intelligence (AI) Action Plan. OSI is a nonpro ﬁt 
+organization created in 1998 to steward the Open Source De ﬁnition . The de ﬁnition 
+serves as a foundation to maintain the fundamental freedoms of Open Source on 
+which the modern software ecosystem is built. Our community represents a wide 
+range of stakeholders — from industry and academia to startups and foundations 
+— all working to promote the beneﬁts of Open Source Software and connect 
+practitioners to policymakers. We believe  Open Source can both strengthen 
+security and unleash innovation by ensuring the brightest minds can work together, 
+free of barriers. Most recently, OSI undertook the co-development of an Open 
+Source AI De ﬁnition  (OSAID), recognizing the need for clarity around what it means 
+for an AI system to be truly Open Source. We are pleased to contribute to the AI 
+Action Plan to ensure the innovations made possible by Open Source can be 
+leveraged to increase U.S. competitiveness and national security.  
+The Strengths of Open Source 
+Open Source Software underpins almost every aspect of technology we use. Recent 
+reports have found that 97 percent of applications contain Open Source Code1 and 
+1 Black Duck’s “Open Source Security and Risk Analysis” (OSSRA) report found at: 
+https://www.blackduck.com/resources/analyst-reports/open-source-security-risk-analysis/thankyou.html#U
+Xoverview 
+
+
+90 percent of companies use Open Source in some way.2 Open Source became 
+ubiquitous because developers, researchers, and business leaders recognized that 
+open collaboration is needed to scale the bene ﬁts of technological innovation, 
+including the Internet, because it  leads to higher quality, better reliability, greater 
+ﬂexibility, and lower costs. Today,  U.S. federal  agencies have also recognized the 
+immense bene ﬁts of Open Source Software, incorporating its use  into critical 
+infrastructure, including at the Department of Defense and research conducted by 
+the National Science Foundation.34   
+The Open Source De ﬁnition  that OSI maintains for the community removes barriers 
+to learning, using, sharing, and improving software systems. The core criteria of the 
+Open Source De ﬁnition have given innovators the freedom to build  and deploy  new 
+technologies faster than ever before while maintaining ﬂexibility and control in the 
+development process.  
+For example, Open Source is critical in key aspects of software development such 
+as security, cost, and time. When code is Open Source, more developers are able to 
+review and identify security vulnerabilities in a software program and then ﬁx them 
+— often in less time and at a lower cost than if  only a few developers had access to 
+the code. Many e ﬀorts, such as GitHub’s Secure  Open  Source Fund,5 aim to make 
+Open Source even more secure through investments in training and collaborations 
+across the software community. Further, researchers have not found evidence that 
+models with open weights are any more vulnerable to cybersecurity threats or 
+misuse than closed software.6  
+6 Kapoor, Sayash, et al. "On the societal impact of open foundation models." arXiv preprint 
+arXiv:2403.07918 (2024).  5 See OSI’s blog, “Improving Open Source security with the new GitHub Secure Open Source Fund” at: 
+https://opensource.org/blog/improving-open-source-security-with-the-new-github-secure-open-source-fun
+d 4 “NSF invests over $26 million in open-source projects” found at: 
+https://www.nsf.gov/funding/initiatives/pathways-enable-open-source-ecosystems/updates/nsf-invests-ove
+r-26m-open-source-projects3 “DoD Open Source Software FAQ”, Office of the DoD CIO, dated 2021-10-28, found at: 
+https://dodcio.defense.gov/open-source-software-faq/#frequently-asked-questions-regarding-opensource-
+software-oss-and-the-department-of-defense-dod 2 Github’s 2022 Octoverse Report found at: https://octoverse.github.com/2022/ 
+2 
+
+
+The freedoms of the Open Source De ﬁnition that built the Internet will be 
+imperative  to maintain America’s technological competitiveness in the age of AI and 
+beyond.  
+The Open Source AI De ﬁnition 
+In 2022, OSI realized that the traditional de ﬁnition of Open Source was not 
+suﬃcient when applied to complex AI systems i.e., you need  more  than just access 
+to the source code to understand how these systems work. Everyone — from 
+developers and policymakers to researchers and consumers — needed a common 
+understanding of “Open Source AI.” The organization began co-developing the ﬁrst 
+version of the Open Source AI De ﬁnition , or OSAID, and released it in October 2024 
+with more than 20 organizational endorsements . The de ﬁnition is a foundation on 
+which additional parameters can be built to address a variety of use cases in the 
+public and private sectors. OSI recognizes the deﬁnition may evolve as  discussions  
+continue around AI systems.  
+The De ﬁnition: What is Open Source AI? 
+An Open Source AI is an AI system made available under terms and in a way that 
+grants the freedoms to: 
+●Use the system for any purpose and without having to ask for permission.
+●Study how the system works and inspect its components.
+●Modify the system for any purpose, including to change its output.
+●Share the system for others to use with or without modi ﬁcations, for any
+purpose.
+The preferred form of making modi ﬁcations to a machine-learning system must 
+include all the elements  below: 
+●Data Information : Preferably the original data, or if it is not legally possible,
+suﬃciently detailed information about the data used to train  the system  so
+that a skilled person can build a substantially equivalent system. Data
+Information shall be made available under OSI-approved terms.
+●Code: The complete source code used to train and run the system. The code
+shall represent the full speci ﬁcation of how the data was processed and
+3 
+
+
+ﬁltered, and how the training was done. Code  shall be made available under 
+OSI-approved licenses. 
+●Parameters: The model parameters, such as weights or other con ﬁguration
+settings. Parameters shall be made available under OSI-approved  terms.
+Data Commons in Open Source AI 
+In addition to the OSAID, OSI is working to promote data governance as a critical 
+component of Open Source AI. OSI released a white paper , “Data Governance in 
+Open Source AI: Enabling Responsible and Systematic Access” in partnership with 
+Open Futures, a think tank developing new approaches to the open Internet. In the 
+white paper, we suggest adopting a data commons approach that recognizes the 
+various complexities of data sharing and envisions an Open Source AI ecosystem 
+that can include both open and restricted datasets. For example, sharing the 
+dataset used to train an AI system allows others to interrogate it and address 
+biases and inaccuracies. However, there are many instances where an underlying 
+dataset may be restricted or only available through tiered-access for valid reasons 
+such as protecting patient privacy, respecting indigenous knowledge, or adhering to 
+intellectual property laws. Open Source AI models with these diﬀerent types of 
+datasets play an important role in  society and should be  governed by a data 
+commons that encourages transparency while respecting the nuances of each. 
+Open Source is Imperative in an AI Action Plan 
+At a time when AI is evolving rapidly, the U.S. government’s AI Action Plan should 
+include Open Source AI as a foundation to ensure as many minds as possible — 
+from startups and researchers to major tech ﬁrms — are working to ﬁnd the next 
+innovation. Driving collaboration through Open Source can bolster  the 
+competitiveness of US companies on the world stage. Competitiveness is enhanced 
+because the freedoms of Open Source AI mean frictionless sharing and developing 
+across projects so that the best ideas are not siloed, but rather debated and built 
+upon. The value of Open Source was highlighted in a 2024 paper where researchers 
+found that, without Open Source Software, companies would need to spend an 
+4 
+
+
+estimated 3.5 times more or nearly $9 trillion to build the software that powers 
+their businesses.7 
+Since the dawn of the Internet, Open Source has been recognized as a building 
+block to develop and scale technology. To this end, we recommend that the AI 
+Action Plan encourage the development and use of Open Source AI models in both 
+the public and private sectors to speed discovery and application of AI in ways that 
+beneﬁt public wellbeing. We also invite the U.S. government  to work with  us and 
+our partners to further unify the tech community around a de ﬁnition of Open 
+Source AI. A common understanding will  remove  confusion and enable more 
+innovation.  
+OSI appreciates the opportunity to provide input on the U.S. government’s AI  Action  
+Plan and welcomes engagement with our community on the issues of Open Source 
+and Open Source AI.  
+Sincerely,  
+Open Source Initiative  
+Contact:  Katie Steen-James, Senior U.S. Policy Manager  (
+Endorsing Organization 
+Apereo Foundation  
+9450 SW Gemini Dr PMB 98572 
+Beaverton, OR 97008-7105 
+www.apereo.org   
+Contact:  Patrick Masson, Executive Director (
+This document is approved for public dissemination. The document contains no 
+business-proprietary or con ﬁdential information. Document contents may be reused by 
+the government in developing the AI Action Plan  and associated  documents without 
+attribution. 
+7 Hoffmann, Manuel, Frank Nagle, and Yanuo Zhou. "The Value of Open Source Software." Harvard 
+Business School Working Paper, No. 24-038, January 2024. 
+5 
+
+

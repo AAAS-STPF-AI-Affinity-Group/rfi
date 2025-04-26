@@ -1,0 +1,445 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-b2zh-0vn8
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1488
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Coalition for Health AI (CHAI)
+General Comment
+Please see attached file for the Coalition for Health AI (CHAI)'s response.
+Attachments
+CHAI AI Action Plan_Final
+
+
+About the Coalition for Health AI 
+The Coalition for Health AI (CHAI) is an industry-led, non-profit public-private partnership that believes 
+in the potential of Artificial Intelligence (AI) to advance the practice of medicine. 
+We bring together the broad spectrum of interdisciplinary stakeholders in the US health ecosystem to 
+drive the development and appropriate use of Responsible AI in health. We create consensus among 
+innovators, clinicians, health systems, payors, and expert stakeholders across the sector. 
+Our 4,000 members come from nearly 3,000 organizations, along with hundreds of individual experts and 
+stakeholders actively participating in workgroups, bringing diverse perspectives to our community. 
+●Health Systems: Our community includes over 200 health system members, spanning regional
+providers like MedStar Health, Mercy, and Providence, as well as leading academic medical
+centers such as Duke Health, Mayo Clinic, and Stanford Medicine.●Professional Advocacy and Specialty Groups: Core to our work is building on foundational
+knowledge and standards that ensure quality in health care. We have a strategic partnership with
+the National Health Council who help ensure patient and community advocacy groups lead our
+workgroups, and we have the President and CEO of the National Association of Community
+Health Centers on our board. Organizations like the American Society of Clinical Oncology,
+College of American Pathologists, National Council for Mental Wellbeing, HL7, the Patrick J.
+McGovern Foundation, and The SCAN Foundation are among more than 100 philanthropic,
+professional advocacy, medical specialty, and standards organizations that have joined the CHAI
+community.●Healthcare Industry: We’re thankful to have membership from leaders in the health industry
+from CVS and UnitedHealth Group to OCHIN and Solventum.
+●Startups: 75% of members are from industry, of which 24% are startups with fewer than 50
+employees. These startups are creating solutions used across healthcare. They include Abridge,
+Aidoc, Ambience Healthcare, Affineon, Bayesian Health, Bend Health, Healthvana, Innovaccer,
+and Suki.●Tech Infrastructure Providers: We are grateful for the broad participation of the AI frontier
+model and infrastructure providers, including OpenAI, Oracle, AWS, Google, Anthropic.
+Board of Directors  
+●Chair: John Halamka, M.D., M.S., President, Mayo Clinic Platform
+●Secretary and Treasurer: Michael Pencina, Ph.D., Chief Data Scientist, Duke Health;
+Professor of Biostatistics & Bioinformatics and Director of Duke AI Health, Duke University●Suchi Saria, Ph.D., Endowed Chair & AI Professor, Johns Hopkins; Founder & President,
+Bayesian Health; Advisor, National Academy of Medicine AI Code of Conduct●Nigam Shah, MBBS, Ph.D., Chief Data Scientist, Stanford Health Care; Professor of Medicine
+and Biomedical Data Science, Stanford University School of Medicine●Eric Horvitz, M.D., Ph.D., Chief Scientific Officer, Microsoft; member, President's Council of
+Advisors on Science and Technology (PCAST)●Morgan Cheatham, Vice President, Bessemer Venture Partners; Medical Trainee, Brown
+University●Jennifer Goldsack, OLY, CEO, Digital Medicine Society (DiMe)
+●Kyu Rhee MD, MPP , President and CEO of  National Association of Community Health
+Centres (NACHC)
+AI Action Plan  |  Coalition for Health AI  |  Page 1 
+
+
+Our AI Action Plan 
+Methodology 
+CHAI is the nation’s leader at bringing together diverse perspectives to forge actionable, 
+consensus-driven solutions in health AI. Our strength lies in translating high-level principles into practical 
+tools that work and are adopted across the ecosystem. 
+In December 2022, we published our Blueprint for Trustworthy AI, developed through extensive 
+stakeholder collaboration to define foundational principles for responsible AI in healthcare. We then 
+refined this work with the Responsible AI Guide and Checklist, published in June 2024, bringing 
+together hundreds of experts to create a structured playbook for AI development and deployment - 
+offering concrete guidance on ethics, quality assurance, and evaluation.  
+Having defined principles of fairness, transparency, usefulness, security, privacy, and safety in these 
+playbooks and guidelines, CHAI then created, with similar consensus-building, its Applied Model Card. 
+This is a practical tool that balances the needs of our vendor community (for example, protecting their 
+intellectual property) and health systems (for example, their liability for technology used in their health 
+system) to produce an approach that has been widely adopted and is easy to use. For example, 36 leading 
+health systems and AI solution providers, have publicly pledged the rapid adoption of the Applied Model 
+Card. Often compared to a nutrition label for algorithms, CHAI has established the Applied Model 
+Card as a trusted standard for AI transparency, procurement, and governance and is freely available on 
+GitHub, complete with a fillable template, instructions, an example, and supporting resources. It’s a 
+testament to CHAI’s ability to turn broad agreement into something tangible, scalable, and impactful. 
+Similarly, we have developed this AI Action Plan alongside 150 of our founding partners and members. It 
+reflects that there is, in fact, broad agreement across stakeholders on the core principles of responsible AI 
+in healthcare. Our technology industry and health system members resoundingly align on key priorities, 
+including the need for transparency, preferred routes for AI assurance, trust-building mechanisms, 
+disclosure of failures, and proactive bias mitigation. CHAI continues to lead in transforming these 
+shared priorities into practical, scalable solutions that we put forward today. 
+More detail on respondents and our survey findings are in Appendix 2.  
+AI Action Plan  |  Coalition for Health AI  |  Page 2 
+
+
+Our Vision: Leading the Future of AI in Healthcare to Foster Human Flourishing 
+We are in a transformative era of technology, poised to redefine healthcare and unlock new opportunities 
+for human flourishing. 
+AI, especially frontier models in Generative AI, offers an unprecedented opportunity to advance health, 
+empower individuals, and drive well-being across physical, mental, and social dimensions.  
+We envision a future where America is the global leader in deploying AI in healthcare, ensuring that AI is 
+embedded in every health system (regardless of resources), and benefits every American. Over the next 
+four years, we want to see notable and tangible progress made in addressing healthcare’s most persistent 
+challenges - access, cost, and quality - driven by AI. Our goal is for everyone to be using AI confidently, 
+because the AI-enabled solutions in healthcare are not only widely available but also high-quality, safe, 
+easy-to-use and effective. We envision AI enabling America, its businesses and its entire population to 
+truly flourish. 
+To realize this vision, we set out a plan to: ●Accelerate AI Innovation – Investing in infrastructure that ensures the development of safe,
+effective, and reliable AI solutions capable of addressing healthcare’s greatest challenges.
+●Promote Responsible AI – Embedding external and local evaluation, monitoring, and
+transparency reporting into AI governance to drive responsible, and high-quality AI deployment.
+●Democratize Access to Data – Upholding free-market principles to foster secure, robust, and
+widely accessible data while incentivizing ethical, patient-centric data sharing and protection.
+●Strengthen U.S. Leadership in AI – Advancing public-private partnerships that unite
+government, industry, and research institutions to unlock cutting-edge AI advancements while
+upholding quality, safety, and reliability.
+●Cultivate World-Class Health AI Talent – Empowering the people behind healthcare’s most
+critical decisions to harness AI’s potential safely and effectively. Just as past medical revolutions
+required new skills, the AI era demands a workforce fluent in its capabilities, limitations, and
+ethical considerations.
+AI Action Plan  |  Coalition for Health AI  |  Page 3 
+
+
+ 
+CHAI’s AI Action Plan: Enabling Responsible & Scalable AI in Healthcare 
+ 
+1. Accelerate AI Innovation by building National Health AI Innovation and Solution Infrastructure 
+The health AI market is expanding rapidly, yet adoption remains slow; of 1,016 FDA-approved AI 
+products, only around 2% have been adopted.1 A key challenge is ensuring AI performs reliably in 
+real-world clinical settings, where models can subtly degrade over time or fail to generalize beyond lab 
+conditions. Health systems have historically struggled to distinguish effective AI from unproven or 
+low-quality solutions, making standardized evaluation critical for broader adoption.  
+A National AI Innovation and Solution infrastructure is essential to address these challenges. While some 
+health systems may have the capacity to assess AI performance internally, many will need independent, 
+standardized evaluation resources. Our survey of 150 CHAI members confirmed that standardized AI 
+performance benchmarking is the top priority, by a long way, across all stakeholder groups, including 
+startups. Health customers want standards to compare apples with apples, and industry want standards to 
+perform against.  
+AI applications vary widely in risk. High-risk applications, such as models used in diagnosis or direct 
+patient care, should be subject to stronger oversight, while lower-risk AI, such as administrative tools that 
+indirectly impact patient safety and care, should require fewer reporting requirements. Unlike the EU’s 
+blanket classification of most health AI as high-risk that will likely stifle innovation, a nuanced, 
+risk-based framework would allow models to be de-risked through mitigations like human oversight, 
+increasing adoption without unnecessary regulatory burden. This is widely agreed upon in our 
+community, with 94% of our survey respondents supporting a tiered AI risk classification framework. 
+Just as risk mitigation in health AI should use a tiered approach, so should monitoring. Some domains of 
+healthcare are inherently high-risk, and identifying when AI has failed - and when harm could have been 
+prevented is challenging, but imperative. A model used nationwide might benefit thousands while 
+harming others in ways too subtle to detect at individual sites. Mandatory post-market monitoring was 
+identified as the top accountability priority by 72% of our survey’s respondents, further justifying 
+real-world performance tracking. A national framework for AI monitoring and post-market surveillance 
+would provide the scale and visibility needed to detect systemic failures and improve safety. 
+Ultimately, standardized evaluation and a tiered assurance framework would enhance trust in AI, allowing 
+health systems to deploy proven solutions with confidence, helping innovators demonstrate success while 
+preventing harm from ineffective models. To achieve this, CHAI urges the Administration to establish a 
+federated AI quality assurance network, leveraging public-private partnerships to provide data access, 
+tools, benchmarks, and real-world monitoring to evaluate AI performance, safety, and impact. ● Develop AI Assurance Resources for Trust & Transparency  
+1 Dr Keith Dreyer, CDSO Mass General Brigham, testimony to FDA Digital Health Advisory Committee 
+AI Action Plan  |  Coalition for Health AI  |  Page 4 
+
+
+○Establish a federated AI quality assurance network leveraging public-private partnerships
+to provide testing frameworks, benchmark datasets, and performance metrics.
+○Enable AI validation against standardized evaluation frameworks before deployment in
+clinical settings.
+○Enable AI model performance disclosures detailing training data, limitations, and risks
+where it is relevant to safety.
+○Establish a national framework for real-world monitoring & AI pre- and post-market
+surveillance to ensure reliability and prevent unintended harm.
+●Develop AI Safety & Risk Stratification
+○Implement tiered risk classification of AI solutions based on their impact on patient care,
+and level of human oversight.
+○Establish robust risk mitigation mechanisms to address emerging safety issues.
+2. Promoting Responsible AI by Strengthening AI Governance & Liability Protections
+Healthcare has historically operated within a clear, well-established legal framework; one that was not 
+designed for AI. Trying to fit all AI into the current state of regulation forces providers and health systems 
+to take on incalculable legal risks, especially pertaining to clinical AI solutions, leading to stagnated 
+adoption. 
+AI has the potential to vastly improve diagnostic speed and accuracy, outperforming human experts in 
+areas such as radiology while dramatically reducing the administrative time and cost involved in care 
+delivery: 
+-Performance Gains: 40% improvement in high-skilled task performance 2
+-Time Savings: 30% reduction in time to complete documentation 3
+-Productivity Improvements: 25% increase in patient encounters from using AI tools in clinic 4
+-Lower Costs: 20x cheaper cost per support interaction 5
+As AI advances, the risk paradox grows more complex: holding clinicians accountable for a failure in 
+AI-driven pattern recognition that goes far beyond human ability and explainability seems at odds with 
+fostering broad-scale innovation. Yet, currently it is assumed that providers and health systems shoulder 
+the legal burden of AI liability, despite neither developing nor testing how these models operate. 
+5AI: The Coming Revolution. Coatue. Published November 16, 2023. https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023 4Bali E. Primary Care Costs Explained. Carbonhealth.com. Published June 5, 2023. Accessed March 14, 
+2025.https://carbonhealth.com/blog-post/introducing-hands-free-charting-ai-enabled-note-taking-for-more-personal-visits 3Oscar Health. AI Use Case: Messaging Encounter Documentation - Oscar Tech - Medium. Medium. Published January 23, 2024. Accessed March 14, 
+2025. https://medium.com/oscar-tech/ai-use-case-messaging-encounter-documentation-5f47380e000f 2Dell’Acqua F, McFowland E, Mollick E, et al. Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on 
+Knowledge Worker Productivity and Quality. Social Science Research Network. 2023;(24-013). doi:https://doi.org/10.2139/ssrn.4573321 
+AI Action Plan  |  Coalition for Health AI  |  Page 5 
+
+
+Our survey findings show that respondents strongly prefer real-world oversight mechanisms over 
+pre-deployment validation alone. Our community also resoundingly (92%) support mandatory fairness 
+and bias disclosure, which suggests assurance frameworks should explicitly include demographic fairness 
+evaluations. Ensuring that AI decisions remain explainable and auditable is critical for both patient trust 
+and legal clarity.  
+Without a regulatory framework that contemplates AI and its rapid transformation, health providers will 
+remain hesitant to adopt the AI solutions that stand to make the greatest impact and enable even the 
+smallest rural hospital to have access to specialized insights. This Administration has the opportunity to  
+establish clear accountability structures that balances liability protections for both developers and 
+implementers of AI solutions.  ●Define AI Liability & Accountability Mechanisms
+○Clarify accountability structures for AI developers, healthcare institutions and providers,
+and users.
+○Develop clear protocols for AI failure reporting, liability claims, and enforcement
+mechanisms.
+○Ensure AI solutions are fair by enabling access to testing to better understand variability
+in performance in AI tools, and mitigate accordingly.
+○Ensure model performance is documented and standardized, including considerations on:
+limitations, and decision-making processes to ensure accountability and informed
+decision-making.
+3. Democratize Access to Data by Ensuring Secure, Interoperable, and Fair AI Data Ecosystems
+Data powers the AI revolution, and building effective health AI requires access to vast amounts of patient 
+data, safely and securely, and with adequate privacy controls in place.  
+Advances in privacy-preserving data methods, such as Federated Learning and Confidential Compute, 
+offer potential solutions, allowing AI to be trained on health system data without risking patient 
+information leakage and unnecessary disclosure..  
+Federated learning - a decentralized AI training approach - has significant stakeholder support, with 71% 
+of survey respondents endorsing it as a viable method for privacy-sensitive healthcare AI. However, 74% 
+expressed concerns about the lack of standardization across healthcare systems, underscoring the need for 
+clear, industry-wide frameworks for interoperability. Similarly, more than two-thirds of respondents 
+emphasized the need for stronger ethical AI data-sharing guidelines, reinforcing the importance of 
+ensuring the current regulatory approach contemplates the importance of enabling better use of data for 
+appropriate purposes.. 
+AI Action Plan  |  Coalition for Health AI  |  Page 6 
+
+
+The nuclear industry was stalled for decades due to a few high-profile disasters - health AI faces the same 
+risk if cybersecurity and privacy aren’t prioritized. A handful of breaches could erode public trust, 
+derailing AI adoption in healthcare for years. Robust privacy protections are critical to ensuring AI’s 
+future. 
+●Establish federated & privacy-preserving AI data infrastructure
+○Support decentralized data-sharing models that protect patient privacy while enabling AI
+innovation.
+○Build upon TEFCA, FHIR, USCDI+, and other efforts to ensure data standardization
+continues to prioritize easier facilitation of data sharing and insight generation.
+○Establish or promote privacy preserving guidelines for primary and secondary health data
+use.
+●Enhance AI Cybersecurity & Digital Trust
+○Enable health systems to use privacy-preserving technologies to better leverage internal
+data.
+○Develop cross-border cloud and cyber harmonization strategies to align AI policies with
+international best practices.
+4. Strengthen US Leadership by Aligning AI Investment with Healthcare Transformation Goals
+AI is a means, not an end - a tool to make healthcare higher-quality, more affordable, and accessible. To 
+maximize its impact, investment must be aligned with healthcare’s most pressing challenges. 
+Governmental guidance and leadership is critical to ensuring that developers and implementers of AI 
+solutions have the confidence and guidance necessary to ensure continued investment and deployment of 
+AI at a rapid pace. .   
+The HITECH Act revolutionized healthcare with the deployment of EHRs, but also by linking investment 
+to the most valuable transformations via Meaningful Use. This directed innovation toward real system 
+needs. Similarly, healthcare delivery providers find themselves hesitant to experiment because 
+differentiation of AI products is unclear and return on investment has not been demonstrated in many 
+cases. 
+This Administration can accelerate AI adoption by defining key areas of opportunity and backing them 
+with investment - ensuring AI delivers real, transformative value where it’s needed most. ●Create clear federal AI priorities
+AI Action Plan  |  Coalition for Health AI  |  Page 7 
+
+
+○Fund infrastructure advancements for healthcare delivery providers to ensure that they are
+ready for rapid adoption of AI solutions that improve access, quality, and cost-efficiency
+in healthcare.
+○Direct AI investment toward high-priority clinical areas, such as chronic disease
+management and rural healthcare access.
+●Integrate AI into value-based care models
+○Align AI adoption with CMS reimbursement structures that incentivize safe, effective,
+and fair AI use.
+○Establish economic incentives for responsible AI deployment.
+○Support AI-driven care coordination and predictive analytics to enhance value-based care
+and alternative payment models.
+5. Cultivate World-Class Health AI Talent by Building AI Literacy & Workforce Readiness
+AI can transform healthcare, but people remain the most valuable asset. Maximizing AI’s potential means 
+helping healthcare workers adapt - from administrators streamlining appointments to physicians using AI 
+for early disease detection. 
+To work effectively with AI, clinicians must understand its strengths and weaknesses. AI models can fail 
+in specific scenarios, such as data shifts or population changes, making AI literacy essential for safe and 
+confident adoption. We have big gaps in training clinicians to use AI tools effectively. We know that 
+clinicians can over-rely on the technology, so knowing when to use it and to what extent is critical. For 
+example, in a study of 50 physicians’ diagnostic reasoning, physicians using GPT4 scored 76.3, 
+physicians using conventional resources scored 73.7, but GPT4 alone scored 92.1.6 AI literacy is 
+foundational to responsible adoption, and there is near-universal agreement (90% of survey respondents) 
+that investing in workforce training is essential for safe and effective AI integration.  
+As trust grows, AI in healthcare will become as unremarkable as Electronic Health Records - a routine 
+part of care. However, patients must trust that AI serves their interests, not hidden agendas. While they 
+don’t need to understand AI’s technical details, they should know when AI is used in their care - 
+especially in critical decisions like prior authorization. ●Launch AI Training & Upskilling Programs
+○Develop AI literacy programs for healthcare providers, with a primary focus on the
+nursing workforce, to ensure proper AI integration into clinical practice.
+6Goh E, Gallo R, Hom J, et al. Influence of a Large Language Model on Diagnostic Reasoning: A Randomized Clinical Vignette Study. medRxiv (Cold 
+Spring Harbor Laboratory).doi:https://doi.org/10.1101/2024.03.12.24303785 
+AI Action Plan  |  Coalition for Health AI  |  Page 8 
+
+
+○Expand training opportunities for AI developers, regulators, and policymakers in
+healthcare AI evaluation.
+●Empower Patients & Providers with AI Education
+○Foster trust in AI through public education campaigns.
+○Create AI explainability resources for clinicians and patients to enhance transparency.
+Appendix 1: Definitions 
+-"Artificial intelligence" means a machine-based system that can, for a given set of human-defined
+objectives, make predictions, recommendations, or decisions influencing real or virtual
+environments;
+-“Quality Assurance resources” means a set of tools, frameworks, methodologies, and guidelines
+that support the training, validation, testing and evaluation of Health AI performance, ensuring it
+meets specified standards for accuracy, clinical utility, reliability, safety, and ethical
+considerations.-“Quality assurance network” means a coordinated system of organizations, institutions, and
+regulatory bodies that collaborate to establish, maintain, and improve the evaluation, monitoring,
+and validation of Health AI systems, ensuring their ongoing compliance with safety, efficacy, and
+ethical standards.-“Responsible AI” means the design, development, deployment, and governance of artificial
+intelligence systems in a manner that prioritizes fairness, transparency, accountability, reliability,
+and the minimization of harm, particularly in high-stakes domains such as healthcare.
+-“Human flourishing” means the holistic well-being of individuals and communities,
+encompassing physical health, mental well-being, social connection, and the ability to pursue
+meaningful lives, which can be enhanced or undermined by the responsible deployment of Health
+AI.-“Post-market surveillance” means the continuous monitoring, assessment, and regulation of
+Health AI systems after deployment, ensuring that they maintain safety, accuracy, and
+effectiveness over time, while identifying and mitigating risks that may emerge in real-world
+clinical settings.
+-“Federated learning” is a decentralized approach to training machine learning models. It doesn’t
+require an exchange of data from client devices to global servers. Instead, the raw data on edge
+devices is used to train the model locally, increasing data privacy.-“Confidential compute” is a security and privacy-enhancing computational technique focused on
+protecting data in use. Confidential computing can be used in conjunction with storage and
+network encryption, which protect data at rest and data in transit respectively.
+AI Action Plan  |  Coalition for Health AI  |  Page 9 
+
+
+Appendix 2: CHAI Survey Responses 
+We received 150 respondents from senior stakeholders across our ecosystem: 
+-40% Health Systems
+-36% Tech Industry (Enterprise: 13%; Small to medium enterprise 10%; Startup 13%)
+-19% Academic and/or Research Institutions
+-13% Professional Services
+-7% Associations or Foundations
+-3% Government (State or Federal)
+-3% Health Insurer
+Examples of respondents in each category are below: 
+-Health Systems
+-Providence, Duke, Stanford, Northwell, Mayo Clinic, UC Davis, The Permanente
+Medical Group, Ochsner, Community Health Network, UMass Memorial, RUSH, Sutter
+Health, Emory, University of Kentucky Healthcare, John Hopkins, Mount Sinai, Mass
+General Brigham-Tech Industry
+-Medtronic; Samsung, Bayer, Hyro, Atropos Health, Lyric AI, Lifelink Systems, Affineon
+Health, Veradigm LLC, NTT Data, Globant, Evidentli, Cognome, Healthvana
+-Academic and/or Research Institutions
+-Johns Hopkins University; Creighton; SSM Health; Mayo Clinic; Drexel University;
+Emory Pediatric Institute; University of California, Elsevier
+-Professional Services
+-NCQA, Health Information Alliance, Slalom, C4i, Global Solutions Group, Wolters
+Kluwer, Ascent Strategy Group, FINN Partners, Metis Consulting Services,
+-Associations or Foundations
+-Civitas Networks for Health, Massachusetts Health Data Consortium, American
+Speech–Language–Hearing Association, The SCAN Foundation, DiMe, National Assoc.
+for Behavioral Healthcare, American Nurses Association,  National Alliance against
+Disparities in Patient Health, American Psychiatric Association-Government (State or Federal)
+-FDA, V A
+-Health Insurer:
+-Optum; CVS; Blue Cross Blue Shield (MN), SCAN Health Plan
+Executive Summary: 
+  Across stakeholders, there is broad agreement on foundational principles for responsible AI in healthcare. 
+Both healthcare systems and the technology industry align on key priorities, including the need for 
+AI Action Plan  |  Coalition for Health AI  |  Page 10 
+
+
+transparency, preferred routes for AI assurance, trust-building mechanisms, disclosure of failures, and 
+proactive bias mitigation. 
+However, a notable point of divergence arises around AI risk classification. While most stakeholders 
+support a tiered framework to differentiate AI risks, the technology sector does not agree on a tiered 
+classification of risk framework.  
+When it comes to AI data governance, there was low agreement across the groups. Health systems, the 
+technology industry and academic research institutes (72% of respondents) agreed on mandatory 
+post-market monitoring as the priority for accountability.  
+Interestingly, government respondents (though only 5 respondents) were less supportive of 
+transparency measures compared to other organizational groups. 
+On the issue of AI literacy, there is widespread agreement on the necessity of training for healthcare 
+providers.  
+Summary of results: 
+Quality Assurance Resources  
+-Standardized AI performance benchmarks are the top priority for CHAI members when it
+comes to AI assurance resource development, significantly leading other categories. This was
+consistent across all subgroups.
+-The survey results indicate a strong consensus among CHAI members that transparency in AI
+systems is critical for responsible adoption in healthcare. ~90% of respondents rated key
+transparency measures as somewhat important or very important, with particularly high
+support for public disclosures of AI model limitations and risks (111 respondents rating it very
+important) and real-world bias testing & demographic fairness evaluations (95 rating it very
+important).-94% agree with a tiered AI risk classification framework, indicating strong enthusiasm for a
+risk-based oversight model rather than a one-size-fits-all regulatory approach.
+-When asked for further quality assurance resource development, themes emerged around:
+-Data Quality & Governance – tools to track data provenance to ensure auditability, and
+frameworks for standardized data quality assessment.
+-AI Testing & Evaluation Resources – open-access benchmarking datasets, independent
+third-party verification, and sector-specific AI assurance labs to ensure continuous
+validation and generalizability.
+Fairness & Bias Mitigation – clear fairness guidelines, demographic testing for
+wide-ranging clinical populations, and mechanisms to prevent AI-driven healthcare
+inequities.
+-Regulatory & Policy Guidance – AI policy toolkits, liability frameworks, and AI
+incident reporting systems akin to adverse event tracking in pharma.
+AI Action Plan  |  Coalition for Health AI  |  Page 11 
+
+
+-Continuous Monitoring & Post-Deployment Oversight – real-world monitoring of AI
+performance, structured reporting of failures, and AI readiness criteria for safe clinical
+adoption.
+-Security & Privacy Protections – AI-specific cybersecurity protocols, multi-factor
+authentication, controlled data access, and privacy safeguards to protect both individuals
+and businesses.
+-Education & Stakeholder Collaboration – AI literacy programs, clinician engagement
+in AI development, and clear guidance on AI implementation and limitations.
+-Ethical AI Use & Human Oversight – clear guidelines for when AI should and should
+not be used, ensuring human-in-the-loop oversight in critical decisions, and setting
+usability and governance ethical standards.
+-Transparency & Explainability – clear, contextual AI decision explanations,
+standardized dataset descriptions, public access to evaluation benchmarks, and AI
+labeling requirements.
+Fairness and Bias Mitigation  
+-There is consensus (92%) that supports mandatory disclosure, with a split between requiring it for
+all AI models (55%) vs. only high-risk AI (45%). V oluntary disclosure is largely rejected (2%).
+-92% of respondents agree that prioritizing fairness and bias mitigation in AI across diverse
+populations is important. This suggests AI assurance frameworks should include strong bias
+evaluation methods and fairness criteria, as well as inclusion of fairness in transparency efforts
+(e.g. model card).
+Federated Learning: where AI models are trained on decentralized data rather than centralized patient 
+data.  
+-Federated learning is widely supported (71%), making it a viable direction for AI model
+training in privacy-sensitive domains like healthcare. The 26% neutral group presents an
+opportunity to educate stakeholders on how federated learning works, its trade-offs, and potential
+industry adoption.-However, 74% of respondents cited lack of standardization across different healthcare
+systems as their top concern with federated learning. Stakeholders need clear guidelines and
+industry-wide frameworks to harmonize data formats, protocols, and governance practices
+AI Governance 
+-The responses suggest a preference for ongoing, real-world oversight and clear accountability
+structures rather than just pre-deployment validation. This reinforces the need for a multi-layered
+governance approach that combines regulatory reporting, liability frameworks, and direct user
+feedback to ensure AI safety and effectiveness.
+-Over two thirds of respondents said standardized guidelines for ethical AI data-sharing was
+the most critical priority. Over half (53%) opted for stronger patient data access & consent
+controls, highlighting the importance of individual agency and trust in AI governance.
+Workforce 
+AI Action Plan  |  Coalition for Health AI  |  Page 12 
+
+
+-90% of respondents support either significant or moderate AI training investment, making
+workforce development a non-negotiable element of responsible AI integration.
+AI Action Plan  |  Coalition for Health AI  |  Page 13 
+
+

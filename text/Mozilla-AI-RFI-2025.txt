@@ -1,0 +1,904 @@
+Mozilla’s Response to the O ﬃce of Science and Technology Policy 
+Request for Information on the Development of an Arti ﬁcial 
+Intelligence (AI) Action Plan 
+About Mozilla 
+Mozilla’s mission is to ensure the internet is a global public resource, open and accessible 
+to all. An internet that truly puts people ﬁrst, where individuals can shape their own 
+experience and are empowered, safe, and independent. 
+Founded as a community open source project in 1998, Mozilla consists of several 
+organizations. Most notable is the non-pro ﬁt Mozilla Foundation and its wholly owned 
+subsidiary, the Mozilla Corporation, which leads our market-based work, including the 
+development of the open-source Firefox web browser and Gecko, one of only three major 
+browser engines. They work in close concert with each other and a global community of 
+tens of thousands of volunteers under the single banner: Mozilla. 
+For the past ﬁve years, Mozilla has been committed to advancing trustworthy AI. Mozilla 
+published a paper in early 2024, Accelerating Progress Toward Trustworthy AI, that 
+outlines how Mozilla and its allies are advancing openness, competition, and 
+accountability in AI. Mozilla is putting its resources behind these priorities as well: Mozilla 
+is investing $30M in research and development on trustworthy AI via Mozilla.ai, as well as 
+$35M in responsible tech startups — including investments in notable startups like 
+Hugging Face — through Mozilla Ventures and the Mozilla Builders accelerator program. 
+On the frontlines of modern AI practices, Mozilla freely provides an open-source, 
+large-language model (LLM) AI model deployment system for local use and empowers 
+more people to enhance the safety of models online through the 0Din bug bounty 
+program . In addition, Mozilla supports organizations engaged in arti ﬁcial intelligence 
+research, including the Open Source Initiative’s work on deﬁning Open Source AI , and 
+through the e ﬀorts of the Columbia Convening which brought together a broad set of 
+stakeholders to talk about Openness and AI. 
+1 
+
+
+As an independent and mission-driven organization, Mozilla is committed to working with 
+regulators to develop e ﬀective policies that ensure that innovation and growth in AI serve 
+the public interest. In the past, Mozilla has provided comments on critical topics like the 
+Department of Energy’s RFI on the Frontiers in AI for Science, Security, and Technology 
+(FASST), NTIA’s consultation on openness in AI models, and NIST’s Request for Comments 
+related to Managing Misuse Risk for Dual-Use Foundation Models.  
+Executive Summary 
+For the future of AI to bene ﬁt all Americans, we must ensure that its bene ﬁts are shared 
+widely while working to mitigate evidence-based risks. 
+The modern web was founded on the ideal of openness and built on an architecture that 
+enabled broad access and participation. However, the open architecture that de ﬁned the 
+outset of the web has been eroded, with the internet increasingly dominated by a few big 
+platforms and proprietary systems and technologies. At the dawn of the AI age, these 
+same dominant tech companies are positioned to hegemonize the next phase of the 
+internet by controlling major AI systems. In order to have a dynamic internet economy 
+and AI ecosystem that oﬀers real accountability and choice, the principles of the modern 
+web – focused on openness, access, and participation – must be protected. The AI era 
+cannot be dominated by big tech companies, which could both threaten the pace of 
+innovation and run roughshod over individual rights, like privacy. Mozilla has long been a 
+proponent of strong federal privacy legislation, and creating clear guidelines and certainty 
+for consumers and businesses related to privacy will be critical to enabling the growth of 
+the AI industry. 
+Well-designed regulation is needed to make AI more trustworthy and to mitigate risk. AI 
+policy should center on openness, competition, and accountability as the backbone of 
+responsible regulation. Leadership in AI requires investments in the tools and resources 
+necessary to build Public AI infrastructure. Well managed government-led or facilitated 
+investment into Public AI, including investment into fundamental research and AI 
+infrastructure like the National AI Research Resource (NAIRR), can also help to facilitate a 
+more level playing ﬁeld, and create choice for consumers and small businesses. 
+Promoting open approaches in AI has the potential not just to create technology that 
+beneﬁts individuals, but also to make AI systems safer and more transparent. Open 
+approaches and public investment can spur increased research and development, create 
+2 
+
+
+products that are more a ﬀordable, safer, and less vulnerable to cyberattacks, and help to 
+catalyze investment and job creation.  
+To meet America’s goals of leading in AI, policymakers should avoid heavy-handed levers 
+like export controls on open-source AI models. Instead, the new administration should 
+build on the recommendations of NTIA and the Bipartisan House Task Force Report on AI 
+to support the open-source AI ecosystem while continuing to collect information for 
+future data-driven assessments. The enactment of broad export controls on open-source 
+AI models would stymie innovation and hurt the ability of the U.S. to remain competitive 
+in the global AI market. 
+Policy Recommendations to Advance American AI 
+Increase Government Use of, and Support for, Open-Source AI: The federal government 
+procures billions of dollars of software every year. However, much of it is closed-source, 
+proprietary, and expensive. If the administration eases the ability to procure and use 
+open-source software (ex. via OPM rulemaking) across agencies, it could result in 
+signiﬁcant time and cost savings for government IT projects. As federal agencies 
+increasingly procure AI-enabled technology, using open-source AI models and software 
+will help to increase government e ﬃciency while strengthening the open-source 
+ecosystem. Such an approach facilitates the development of a more competitive AI 
+ecosystem, unlocking AI for everyone. 
+The federal government should also continue to implement policies on government use of 
+AI that were signed by President Trump in his ﬁrst term in o ﬃce. That includes 
+continuing to implement Executive Order 13960 and the AI in Government Act of 2020, 
+the latter which led to OMB Management Memorandum M-24-10 that has key provisions 
+on testing AI systems that are vital for trustworthy AI. Continued transparency via the 
+annual AI use case inventories, initiated by the ﬁrst Trump Administration, is vital for 
+decreasing duplication and increasing coordination in AI across the federal government. 
+Develop & Fund Public AI Infrastructure: Public AI infrastructure takes a range of forms, but 
+one concrete proposal is the National AI Research Resource (NAIRR). By supporting the 
+creation and funding of the NAIRR, Congress and the administration could kickstart the 
+development of Public AI, giving researchers and smaller universities access to AI tools and compute resources, enabling innovation and a more level playing ﬁeld. In addition, 
+3 
+
+
+ 
+supporting
+ 
+projects
+ 
+like
+ 
+the
+ 
+Department
+ 
+of
+ 
+Energy’s
+ 
+proposed
+ 
+Frontiers
+ 
+in
+ 
+Artiﬁcial
+ 
+Intelligence
+ 
+for
+ 
+Science,
+ 
+Security
+ 
+and
+ 
+Technology
+ 
+(FASST)
+ 
+initiative
+ 
+will
+ 
+be
+ 
+critical
+ 
+in
+ 
+not
+ 
+only
+ 
+pushing
+ 
+the
+ 
+scientiﬁc
+ 
+frontier
+ 
+forward,
+ 
+but
+ 
+in
+ 
+creating
+ 
+Public
+ 
+AI
+ 
+infrastructure
+ 
+that
+ 
+beneﬁts
+ 
+the
+ 
+American
+ 
+people.
+ 
+ 
+ 
+Update
+ 
+Antitrust
+ 
+Legislation:
+ 
+No
+ 
+company
+ 
+should
+ 
+be
+ 
+punished
+ 
+for
+ 
+their
+ 
+success
+ 
+or
+ 
+building
+ 
+products
+ 
+that
+ 
+people
+ 
+prefer.
+ 
+However,
+ 
+policymakers
+ 
+must
+ 
+address
+ 
+anti-competitive
+ 
+business
+ 
+practices
+ 
+that
+ 
+impede
+ 
+innovation
+ 
+and
+ 
+limit
+ 
+consumer
+ 
+choice.
+ 
+In
+ 
+order
+ 
+to
+ 
+eﬀectively
+ 
+tackle
+ 
+the
+ 
+root
+ 
+causes
+ 
+of
+ 
+anti-competitive
+ 
+behavior
+ 
+in
+ 
+the
+ 
+tech
+ 
+industry,
+ 
+Congress
+ 
+must
+ 
+pass
+ 
+antitrust
+ 
+legislation
+ 
+which
+ 
+addresses
+ 
+harmful
+ 
+self-preferencing
+ 
+practices
+ 
+and
+ 
+provides
+ 
+necessary
+ 
+resources,
+ 
+expertise,
+ 
+and
+ 
+authorities
+ 
+to
+ 
+relevant
+ 
+regulatory
+ 
+agencies.
+ 
+Without
+ 
+appropriate
+ 
+competition
+ 
+enforcement,
+ 
+the
+ 
+AI
+ 
+industry
+ 
+is
+ 
+likely
+ 
+to
+ 
+be
+ 
+eventually
+ 
+held
+ 
+back
+ 
+as
+ 
+dominant
+ 
+players
+ 
+use
+ 
+monopoly
+ 
+power
+ 
+—
+ 
+for
+ 
+example
+ 
+by
+ 
+leveraging
+ 
+powerful
+ 
+market
+ 
+positions
+ 
+in
+ 
+other
+ 
+verticals
+ 
+—
+ 
+instead
+ 
+of
+ 
+innovation
+ 
+to
+ 
+maintain
+ 
+their
+ 
+leadership.
+ 
+ 
+Foster
+ 
+Competition
+ 
+Across
+ 
+the
+ 
+Browser,
+ 
+Browser
+ 
+Engine,
+ 
+and
+ 
+AI
+ 
+Ecosystem:
+ 
+Independent
+ 
+browser
+ 
+and
+ 
+browser
+ 
+engine
+ 
+developers,
+ 
+like
+ 
+Mozilla,
+ 
+have
+ 
+a
+ 
+long
+ 
+history
+ 
+of
+ 
+innovating
+ 
+and
+ 
+using
+ 
+their
+ 
+technologies
+ 
+to
+ 
+promote
+ 
+competition.
+ 
+In
+ 
+AI,
+ 
+like
+ 
+in
+ 
+the
+ 
+browser
+ 
+market,
+ 
+fostering
+ 
+open
+ 
+source
+ 
+alternatives
+ 
+can
+ 
+help
+ 
+drive
+ 
+interoperability,
+ 
+innovation
+ 
+and
+ 
+competition.
+ 
+This
+ 
+is
+ 
+especially
+ 
+critical
+ 
+given
+ 
+the
+ 
+emergence
+ 
+of
+ 
+AI
+ 
+agents
+ 
+which
+ 
+could
+ 
+herald
+ 
+a
+ 
+new
+ 
+model
+ 
+for
+ 
+how
+ 
+the
+ 
+web
+ 
+is
+ 
+used,
+ 
+but
+ 
+still
+ 
+depend
+ 
+on
+ 
+browser
+ 
+engines
+ 
+to
+ 
+eﬀectively
+ 
+function.
+ 
+Without
+ 
+eﬀective
+ 
+competition
+ 
+across
+ 
+the
+ 
+tech
+ 
+stack,
+ 
+the
+ 
+emerging
+ 
+ﬁeld
+ 
+of
+ 
+AI
+ 
+could
+ 
+be
+ 
+stymied
+ 
+for
+ 
+a
+ 
+host
+ 
+of
+ 
+diﬀerent
+ 
+and
+ 
+diﬃcult
+ 
+to
+ 
+predict
+ 
+reasons.
+ 
+Any
+ 
+federal
+ 
+action
+ 
+with
+ 
+the
+ 
+potential
+ 
+to
+ 
+reduce
+ 
+competition
+ 
+should
+ 
+take
+ 
+into
+ 
+account
+ 
+unintended
+ 
+downstream
+ 
+consequences
+ 
+on
+ 
+America’s
+ 
+overall
+ 
+security
+ 
+and
+ 
+innovation
+ 
+ecosystem.
+ 
+ 
+ 
+Provide
+ 
+Access
+ 
+to
+ 
+AI-Related
+ 
+Resource
+ 
+Consumption
+ 
+Data:
+ 
+At
+ 
+its
+ 
+current
+ 
+growth
+ 
+trajectory,
+ 
+AI
+ 
+could
+ 
+end
+ 
+up
+ 
+consuming
+ 
+tremendous
+ 
+amounts
+ 
+of
+ 
+energy
+ 
+and
+ 
+natural
+ 
+resources
+ 
+in
+ 
+the
+ 
+near
+ 
+future.
+ 
+In
+ 
+order
+ 
+to
+ 
+more
+ 
+eﬀectively
+ 
+understand
+ 
+the
+ 
+needs
+ 
+of
+ 
+the
+ 
+industry
+ 
+and
+ 
+work
+ 
+to
+ 
+bring
+ 
+more
+ 
+clean
+ 
+energy
+ 
+online
+ 
+the
+ 
+government
+ 
+should
+ 
+work
+ 
+with
+ 
+the
+ 
+AI
+ 
+industry
+ 
+(from
+ 
+semiconductor
+ 
+developers
+ 
+to
+ 
+cloud
+ 
+providers
+ 
+to
+ 
+model
+ 
+deployers)
+ 
+to
+ 
+provide
+ 
+open
+ 
+access
+ 
+to
+ 
+resource
+ 
+consumption
+ 
+data
+ 
+and
+ 
+increase
+ 
+industry
+ 
+transparency.
+ 
+This
+ 
+would
+ 
+help
+ 
+to
+ 
+stabilize
+ 
+grids
+ 
+and
+ 
+potentially
+ 
+lead
+ 
+to
+ 
+lower
+ 
+prices
+ 
+for
+ 
+consumers
+ 
+by
+ 
+driving
+ 
+eﬃciency
+ 
+in
+ 
+4
+ 
+
+
+AI training and use. By collecting adequate data on AI resource demands, industry can 
+better prepare and invest in new energy and related infrastructure, helping to expedite the 
+rollout of new infrastructure and keeping America at the bleeding edge of AI development. 
+Clarify the Federal Position on Open-Source AI Export Controls: In their July 2024 report 
+related to the use of open models, NTIA emphasized that based on the data available today, 
+the government should take no current action to restrict open foundation models. 
+However, discussions linger over the use of export controls to limit the dissemination of 
+open AI models. This creates uncertainty for the open-source community, technical 
+researchers driving progress in AI, and the many startups that leverage such software to 
+bring products to market cheaper and faster than large tech companies. By aﬃrming a 
+federal position on open-source AI export controls to re ﬂect those of NTIA, and 
+emphasizing the bene ﬁts of open models, the administration can spur further 
+advancement in the ﬁeld. This will in turn help advance national objectives as American 
+open-source powered AI exports spread around the world. It may also prevent vendor 
+lock-in for AI deployers and drive supplier diversity, including in the national security 
+context. This is a view echoed broadly by industry decision makers: in the February 2025 
+McKinsey report, which was created as part of a research collaboration with the Mozilla 
+Foundation and the Patrick J. McGovern Foundation, “Open source in the age of AI,” “60 
+percent of decision makers reported lower implementation costs with open source AI 
+compared with similar proprietary tools.” The report went on to say that “Overall, 76 
+percent of respondents expected their organization to increase use of open source AI 
+technologies over the next several years. This may be in part because open source has been 
+part of a vibrant software ecosystem in many categories of enterprise software, as well as 
+a foundational resource for developer communities, for decades.” 
+Growing the AI Talent Ecosystem: Without leading experts and practitioners in AI, America 
+will face grave di ﬃculties competing with larger countries and coalitions which may have 
+a numerical advantage in the number of researchers and computer scientists they 
+produce. America must invest in community colleges, rural and public universities, 
+apprenticeship and retraining programs, and beyond to develop and grow the domestic AI 
+talent ecosystem. This will not only help America compete, but provide pathways to good 
+jobs and advance the goal of creating AI that will not replace humans as elucidated by Vice 
+President Vance at the 2025 Paris AI Action Summit. The administration should look to 
+examples of innovative partnerships between the public and private sector that create 
+5 
+
+
+unique education pathways and a pipeline of qualiﬁed workers like Dakota State 
+University’s partnership with ArmyCyber. 
+Conclusion
+Ensuring that AI development remains open, competitive, and accountable is crucial for 
+fostering innovation and safeguarding public interests. As an organization that both 
+builds AI products and advocates for policies that promote trustworthy AI, we believe that 
+it is critical to create policies that emphasize government support for open-source AI, 
+investment in public AI infrastructure, and the establishment of clear regulatory 
+frameworks that enhance transparency while preventing monopolistic control. By taking a 
+leadership role in global AI standards, supporting AI talent development, and addressing 
+energy consumption concerns, the U.S. can create a competitive and innovative AI 
+ecosystem. We look forward to working with you and appreciate the willingness to consult 
+with the broader public on the administration’s developing strategy on AI. 
+Mozilla 
+Contact: Joel Burke
+Disclaimer: This document is approved for public dissemination. The document contains 
+no business-proprietary or conﬁdential information. Document contents may be reused by 
+the government in developing the AI Action Plan and associated documents without 
+attribution. 
+6 
+
+

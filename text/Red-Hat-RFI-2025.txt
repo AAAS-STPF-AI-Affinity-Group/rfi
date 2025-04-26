@@ -1,0 +1,794 @@
+National Science Foundation 
+Networking and Information Technology Research and 
+Development (NITRD)  
+National Coordination Office (NCO)  
+Development of an Artificial Intelligence (AI) Action Plan 
+Request for Information: 2025-02305 (90 FR 9088) 
+Due Date: March 15, 2025 | 11:59 p.m. (ET) 
+Submitted To: Email: ostp-ai-rfi@nitrd.gov  
+Submitted By: Company Name: Red Hat, Inc. 
+Address: 1600 International Drive, Suite 800, 
+McLean, Virginia 22102 
+Red Hat Point of Contact:  Dustin Nguyen, Account Executive 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the AI Action Plan and associated 
+documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+Red Hat AI in the Market: Products, Benefits, and 
+Operationalization 
+Executive Summary  
+As part of the Office of Science and Technology Policy (OSTP) directive from Executive Order 
+14179 the government requires information on how to best move forward on the highest priority 
+policy actions in the new AI Action Plan. After careful analysis of your request, Red Hat 
+understands the information you require as falling into three primary categories: acquisition, 
+security and management. OSTP needs to acquire the solution, its hardware, chips, datacenters, 
+energy consumption - which creates a clear path to procurement. Capabilities for cybersecurity, 
+national security and defense, intellectual property, data privacy and security throughout the 
+lifecycle of artificial intelligence (AI) system development and deployment (to include security 
+against AI model attacks), open source development, risks, explainability and assurance of AI 
+model outputs, export controls are all components of a secure solution. Finally, it is essential to 
+manage the solution by educating the workforce, fostering international collaboration, and 
+establishing governance models for development, innovation, competition, and regulation. 
+Building a robust, secure, and sustainable AI infrastructure is crucial to driving innovation that 
+aligns with the needs of a decentralized government, even in edge environments. 
+ 
+To advance America’s AI leadership, Red Hat recommends an AI Action Plan that is based on a 
+Red Hat platform-centric approach.  Our approach leverages the Red Hat AI product portfolio, 
+which we describe with a summarization of benefits that the National Science Foundation (NSF) 
+will realize with Red Hat AI solutions on an open architecture. Then, we move into an alignment 
+of NSFs relevant AI policy topics organized in “acquire”, “secure” and “manage” focus areas of 
+the future plan. 
+ 
+As organizations begin implementing AI on-premises, the first step is often to assess whether 
+their data centers are prepared. Upgrading IT infrastructure involves ensuring sufficient power 
+and cooling, preparing the network to handle large data volumes, optimizing and expanding 
+capacity, and implementing security measures while enabling scalability. 
+ 
+It’s helpful to consider how automation plays a role in several key areas: ➢  Providing reliable, 100% uptime for AI workloads 
+➢  Ensuring networks, storage, data, and applications are seamlessly integrated and fully 
+optimized 
+➢  Establishing teams and processes to manage load balancers, GPUs, and the flow of data 
+to and from the edge 
+All of these elements of the infrastructure are critical to a successful AI implementation and 
+ongoing strategy. Ansible Automation Platform plays a critical role in establishing a solid 
+foundation for AI implementations by simplifying the deployment, configuration, and 
+March 15, 2025 | Red Hat, Inc.                 1 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+management of AI infrastructure components. We’ll share specific examples spanning 
+orchestration, operationalization, and infrastructure optimization. 
+ 
+We understand the criticality of cross operating platform solutions and the challenge to manage 
+fiscal responsibility for tax payors. Red Hat helps our customers make sure they deliver the AI 
+where their data is, and where they want it to be located, whether on-premises, in the cloud, or 
+out at the edge - essentially across hybrid platforms for enabling federal surveillance.   
+ 
+Our products are not constrained by the “moats” of AI providers. These moats—proprietary 
+hardware, models, exclusive datasets, and sheer scale—can make competing or achieving 
+comparable results difficult. 
+ 
+Red Hat’s AI stack is built on open, secure, and supported software, allowing customers to 
+flexibly navigate these moats. Our open-source approach ensures compatibility with various 
+hardware accelerators, from market leader NVIDIA to NPUs (Neural Processing Units) and even 
+legacy consumer GPUs. Red Hat’s platform runs across most, if not all, hardware stacks while 
+seamlessly integrating with various software solutions, including but not limited to—vector 
+databases, developer toolchains, open models from sources like Hugging Face, or compliance 
+frameworks and more. 
+ 
+Regardless of the underlying hardware, the federal government can deploy and run any 
+open-source AI model using Red Hat’s AI solutions. 
+ 
+The capability that RedHat AI inference can bring to customers: ➢  Red Hat’s recent acquisition of Neural Magic enables the integration of advanced 
+software-accelerated AI inference, reducing the dependency on proprietary accelerators 
+and models.  This helps with cost-optimization, increased compatibility, and transparency 
+into the open-source tool stack. 
+➢  Cost-effective, scalable AI solutions that enable organizations to quickly deploy 
+high-performance AI models on standard CPU infrastructure using Red Hat's 
+open-source platform for seamless integration, automation, and security, while reducing 
+the need for expensive GPUs and minimizing infrastructure overhead. 
+➢  By maintaining data sovereignty (ownership of your data), reducing reliance on 
+proprietary hardware and software, and utilizing open-source platforms, an enhanced 
+security posture can be achieved while having efficient and high-performance AI 
+inference capabilities on trusted open-source platforms, ensuring compliance across 
+hybrid and edge environments. 
+➢  Access to a vast ecosystem of certifications, partners, and integrations supported on and 
+with the Red Hat stack. 
+A “do it yourself” (DIY) approach is isolated and inconsistent. It's usually more costly, more 
+complex, and less efficient. Planning, from the platform-up, provides a trusted, comprehensive, 
+and consistent solution, giving more minutes back to the federal agency’s mission.  Trusted by 
+March 15, 2025 | Red Hat, Inc.                 2 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+more than 90% of the Fortune 500 today1 Red Hat is helping businesses unlock new healthcare 
+cures, enabling a future of autonomous vehicles, and opening paths to bring new banking 
+services to market faster with constant innovation. In Figure 1, we end with a high level diagram 
+of Red Hat’s open hybrid cloud platform centric approach, as we move into the AI market 
+challenges discussion. 
+AI Market Challenges and Operationalization 
+Organizations today face significant challenges in operationalizing AI. According to 2023 
+Gartner research, half of organizations require 7-12 months to operationalize an AI model from 
+concept to limited production, with more than a quarter taking over a year to fully realize their 
+AI initiatives.2 This delay stems from multiple factors that impact implementation timelines and 
+effectiveness. 
+ 
+Balancing innovation with cost management during AI implementation, as well as access to 
+compute and GPUs has shown to be a primary challenge. Skills shortages present another major 
+obstacle to modernizing applications with AI capabilities, as specialized expertise is difficult to 
+source and retain. Enterprise AI deployments require scalable, flexible, and consistent 
+platforms that reduce complexity while integrating with existing systems, yet building this 
+infrastructure is often time-consuming and resource-intensive.  
+ 
+Data sovereignty and privacy concerns significantly impact how organizations can leverage 
+data for AI implementations, creating compliance challenges that must be addressed. 
+Organizations must build robust IT infrastructure to support AI/ machine learning (ML) 
+experiments and implementations, while supporting rapid iteration, requiring significant 
+investment in both hardware and expertise. Traditional approaches to model fine-tuning require 
+specialized data science knowledge that is often in short supply, making it difficult to customize 
+models for specific business needs. 
+ 
+Large proprietary models in the generative AI space present particular challenges, as they are 
+expensive to run and difficult to train and tune for specific use cases. Organizations struggle to 
+align these models to business requirements due to complex training processes and high costs. 
+Successfully implementing AI requires clear ethics guidelines, compliance frameworks, and 
+monitoring tools to prevent unintended consequences, adding another layer of complexity to 
+already challenging projects. 
+Red Hat AI Product Portfolio Overview 
+Red Hat provides a comprehensive AI solution stack designed to address organizational needs 
+across different AI maturity levels. This integrated portfolio enables a clear progression from 
+initial exploration to production-scale implementation, while maintaining enterprise standards 
+throughout the journey. 
+ 2 https://www.redhat.com/rhdc/managed-files/cl-gartner-pulse-survey-infographic-analyst-material-313472-202305-en.pdf 1 https://www.redhat.com/en/about/company 
+March 15, 2025 | Red Hat, Inc.                 3 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+At the foundation level, Red Hat Enterprise Linux AI serves as a platform for initial AI 
+deployments and entry-level use cases. Building on this foundation, Red Hat OpenShift AI 
+delivers an end-to-end MLOps platform for enterprise-scale AI/ML model development and 
+deployment. For model customization, InstructLab offers alignment and enhancement 
+capabilities that make it possible to tailor large language models to specific domains. At the core 
+of these solutions are Granite Language Models, which provide open source, Apache 2.0 
+licensed language and code models that are fully indemnified by Red Hat. 
+ 
+Unlike proprietary solutions, Red Hat's approach combines open source flexibility with 
+enterprise-grade reliability, security, and support. Red Hat AI technologies build upon our 
+established enterprise Linux and container platforms to ensure stability and compatibility, while 
+integrating with and complementing existing investments in Red Hat technologies. The solutions 
+include 24x7 enterprise support via a flexible subscription model and benefit from Red Hat's 
+partner ecosystem, to enhance the core offerings with more capabilities and integration options. 
+ 
+Red Hat AI solutions support integration with popular open source AI frameworks and tools to 
+maximize flexibility, while our product roadmap ensures continuous evolution of AI capabilities 
+to address emerging requirements. These technologies benefit from community innovation and 
+enterprise-focused development approaches, creating a balance between cutting-edge features 
+and production stability. Perhaps most importantly, Red Hat AI solutions are designed to work 
+seamlessly in hybrid environments spanning on-premises, public cloud, and edge deployments, 
+providing the flexibility organizations need to address varying requirements. 
+Red Hat Enterprise Linux AI  
+Red Hat Enterprise Linux AI integrates enterprise-ready versions of InstructLab, Granite 
+language models, and a bootable image of Red Hat Enterprise Linux into a comprehensive 
+foundation for AI implementation. This integrated solution delivers pre-configured drivers for 
+GPU acceleration and hardware optimization to accelerate deployment and time-to-value. The 
+included Granite language models (7b) and code models (3b, 8b, 20b, 34b) provide cost and 
+performance-optimized AI capabilities that serve as the core of enterprise AI applications. 
+ 
+Red Hat Enterprise Linux AI includes InstructLab model alignment tooling that enables efficient 
+contribution of domain-specific knowledge to AI models, making customization accessible to a 
+broader range of stakeholders. Full enterprise support and indemnification for running 
+open-source large language models (LLMs), in production environments provides the confidence 
+organizations need to deploy these models in business-critical applications. Red Hat Enterprise 
+Linux AI serves as an ideal entry point for organizations beginning their AI journey with first 
+proof-of-concept implementations, particularly for Retrieval-Augmented Generation (RAG) use 
+cases that require cost-effective alternatives to expensive proprietary models. 
+ 
+By simplifying deployment across hybrid infrastructure environments through a complete, 
+integrated solution stack, Red Hat Enterprise Linux AI helps organizations accelerate the process 
+of going from proof-of-concept to production server-based deployments. The solution provides 
+all necessary tools for training, tuning, and deploying models where data resides, anywhere 
+across the hybrid cloud. Red Hat Enterprise Linux AI forms a foundation model platform for March 15, 2025 | Red Hat, Inc.                 4 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+bringing open source-licensed generative AI models into the enterprise, lowering costs and 
+removing barriers to testing and experimentation with generative AI technologies. 
+ 
+When organizations are ready to scale their AI initiatives, Red Hat Enterprise Linux AI provides 
+an on-ramp to Red Hat OpenShift AI while maintaining the same tools and approaches. This 
+continuity allows teams to leverage existing knowledge as they move to more sophisticated 
+implementations. Red Hat Enterprise Linux AI streamlines the alignment of generative models to 
+business requirements through accessible tooling, enabling organizations to realize value from 
+AI more quickly while maintaining enterprise standards. 
+Red Hat OpenShift AI  
+Red Hat OpenShift AI delivers a comprehensive MLOps and LLMOps platform built on the 
+OpenShift container orchestration system. This enterprise-scale solution provides self-service 
+Jupyter notebooks and data science tools that empower data scientists and developers to work 
+efficiently with their preferred tools. Red Hat OpenShift AI offers GPU-accelerated computing 
+with automatic scaling capabilities to optimize resource utilization, a critical factor in managing 
+the high costs associated with AI infrastructure. 
+ 
+Through streamlined operations, Red Hat OpenShift AI simplifies AI deployment at enterprise 
+scale across multiple environments while facilitating multi-team collaboration across data 
+science, engineering, and operations teams through a consistent user experience. The platform 
+delivers hybrid cloud flexibility that allows deployment across on-premises, cloud, and edge 
+environments to meet varying requirements. Red Hat OpenShift AI’s automatic scaling 
+capabilities represent a significant advantage, enabling GPU resources to scale down to zero 
+when not in use, to improve cost efficiency, while supporting techniques like GPU sharding and 
+co-location of various models within GPUs for maximized resource utilization. 
+ 
+Red Hat OpenShift AI helps organizations realize AI value while encouraging innovation and 
+balancing costs, addressing one of the key challenges in AI adoption. The platform enables 
+organizations to build, train, deploy, and monitor AI/ML workloads in on-premise data centers or 
+close to where data is located, allowing businesses to evolve their AI strategy by moving 
+operations to the cloud and edge when required. By integrating both open source communities 
+and Red Hat's AI partner ecosystem, Red Hat OpenShift AI increases flexibility and freedom of 
+choice when selecting AI/ML technologies. 
+ 
+The solution reduces the complexities of building and delivering models and AI-enabled 
+applications that are accurate, reliable, and trustworthy. This comprehensive approach includes 
+intensive computation power such as GPUs and streamlined operations to simplify AI solution 
+delivery consistently and at scale across hybrid environments, including support for air-gapped 
+and disconnected deployments in regulated industries. 
+InstructLab and Granite Language Models 
+InstructLab democratizes model customization by making it accessible to stakeholders beyond 
+data scientists, addressing a significant barrier to AI adoption. The approach employs 
+taxonomy-driven data curation using a hierarchical structure that organizes skills and knowledge March 15, 2025 | Red Hat, Inc.                 5 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+areas, providing a structured framework for model enhancement. InstructLab's accessible 
+contribution format uses simple human-readable data serialization format files, in 
+question-and-answer pair format that domain experts without data science backgrounds can 
+contribute to, enabling broader participation in model development. 
+ 
+The platform uses large-scale synthetic data generation through Skills Synthetic Data Generator 
+(Skills-SDG) and Knowledge-SDG to efficiently expand training datasets. Skills-SDG uses 
+prompt templates for instruction generation, evaluation, response generation, and final pair 
+evaluation, while Knowledge-SDG generates instruction data for domains not covered by the 
+teacher model using external knowledge sources. Our approach reduces a need for large amounts 
+of manually annotated data, making model customization more efficient and cost-effective. 
+ 
+InstructLab implements a multi-phase training process with knowledge tuning to integrate 
+factual information and skills tuning to enhance application capabilities. This multiphase 
+approach helps maintain stability and prevents catastrophic forgetting through a replay buffer, 
+ensuring that models retain previously learned capabilities while adding new ones. The result - 
+continuous improvement without degradation often seen in traditional fine-tuning approaches. 
+ 
+Granite language models form the core AI capability  within Red Hat's AI solutions, with the 
+Granite 7b English language model and Granite 3b, 8b, 20b, and 34b code models addressing 
+various use cases. These models are released under Apache 2.0 licensing, providing full 
+transparency regarding datasets used for training. Red Hat provides complete enterprise 
+indemnification for Granite models, assuming legal responsibility for the models' outputs and 
+providing organizations with confidence in their deployment. The Granite models deliver 
+optimized performance as cost-effective alternatives to larger proprietary models, enabling 
+organizations to implement AI solutions with predictable costs and performance characteristics. 
+Benefits of Red Hat's AI Solutions 
+Red Hat's AI solutions deliver significant benefits through simplified adoption, reduced 
+complexity in building and delivering AI-enabled applications, and integration of open source 
+communities with Red Hat's AI partner ecosystem. This integrated approach provides maximum 
+flexibility and innovation while increasing freedom of choice in AI/ML technologies without 
+sacrificing enterprise support standards. The solutions deliver operational consistency through a 
+unified user experience across data science, engineering, development, and operations roles, 
+enabling effective collaboration across functions. 
+ 
+Self-service access to collaboration workflows and computing resources accelerates development 
+cycles by removing bottlenecks between teams. Streamlined operations simplify delivery of AI 
+solutions consistently and at scale, while integrated data science workflows within existing 
+DevOps pipelines reduce friction between development and operations. Red Hat's solutions 
+allow organizations to build, train, and deploy AI workloads where data is located to address 
+regulatory requirements, providing flexibility to evolve AI strategy by seamlessly moving 
+between on-premises, cloud, and edge environments as needs change. 
+ March 15, 2025 | Red Hat, Inc.                 6 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+For highly sensitive or regulated workloads, Red Hat supports air-gapped and disconnected 
+environments with the same tools and capabilities available in connected deployments. Solutions 
+accelerate time-to-market by removing common implementation barriers, while the enterprise 
+subscription model provides customers with proven 24x7 support for AI initiatives. Red Hat's 
+open-source approach avoids vendor lock-in while ensuring enterprise-grade reliability and 
+security, so organizations balance innovation with cost management via resource optimization. 
+ 
+Perhaps most importantly, Red Hat's multi-level product portfolio allows NSF to start small and 
+scale as AI initiatives mature, providing a clear growth path without requiring extensive 
+reimplementation as needs evolve. This approach aligns with how organizations typically adopt 
+AI, starting with focused use cases and expanding as they gain experience and confidence. 
+Open Radio Access Network 
+AI is well suited to benefit from the deployment flexibility of the distributed nature of service 
+provider networks as well as helping to drive their operational efficiencies. Open source is 
+working to help create bite-sized AI models, which can help lower cost and compute 
+requirements while powering up an organization's existing applications and processes. And by 
+leveraging these smaller AI models in the radio access network (RAN), core and more, service 
+providers will be able to tackle a growing number of business and operational challenges. 
+ 
+By way of example:  Red Hat, Inc., the world's leading provider of open source solutions, and 
+SoftBank Corp. (“SoftBank”) today [March 3, 2025] announced the implementation of Artificial 
+Intelligence Radio Access Network (AI-RAN) to optimize power consumption and networking 
+performance using Red Hat OpenShift, the industry’s leading hybrid cloud application platform 
+powered by Kubernetes. With this collaboration, Red Hat and SoftBank are addressing many of 
+the long-standing RAN implementation challenges that service providers often face, such as 
+balancing user demands with energy costs, resource availability and managing deterministic and 
+distributed workloads.3   
+Acquire  
+Hardware and Computational Efficiency 
+Red Hat's AI solutions are designed to optimize hardware utilization across the AI lifecycle, 
+from development through production deployment. The platform provides optimized drivers and 
+configurations for leading GPU manufacturers including NVIDIA, AMD, and Intel, ensuring 
+maximum performance from specialized AI acceleration hardware. This hardware optimization 
+extends beyond GPUs to include support for emerging AI-specific chips and specialized 
+processors that accelerate specific AI workloads. 
+ 
+OpenShift AI addresses the critical challenge of GPU resource management through intelligent 
+scheduling and automatic scaling capabilities. The platform can automatically scale GPU 
+resources up as demand increases and down to zero when not in use, significantly improving 
+utilization rates and cost efficiency. Advanced techniques like GPU sharing, model co-location, 
+and resource partitioning further enhance efficiency by allowing multiple workloads to share 
+expensive computational resources without interference. 3 https://www.redhat.com/en/about/press-releases/red-hat-and-softbank-corp-implement-ai-ran-optimize-network-performance-and-sustainability 
+March 15, 2025 | Red Hat, Inc.                 7 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+ 
+For data center efficiency, Red Hat's solutions employ sophisticated workload placement 
+strategies that consider factors like power consumption, cooling requirements, and overall data 
+center utilization. Integration with data center management tools enables power-aware 
+scheduling that can adjust computational intensity based on overall energy consumption patterns 
+or time-of-day pricing models. The platform provides detailed monitoring of resource utilization 
+and energy consumption, enabling organizations to identify optimization opportunities and track 
+efficiency improvements over time. 
+ 
+Red Hat's AI infrastructure solutions incorporate leading practices for model optimization, 
+including model quantization, pruning, and compression techniques that reduce computational 
+requirements without significant performance degradation. Support for optimized inference 
+engines like ONNX Runtime and TensorRT enables deployment of models tuned for production 
+efficiency rather than development flexibility. These optimization capabilities are particularly 
+important for edge deployments where power and computational resources may be constrained. 
+ 
+The demand for multi-vendor networks built on open principles is surging, fuelled by ongoing 
+investment and predictions of surging growth. Open RAN – which hinges on interoperable 
+interfaces and the disaggregation of hardware and software – has become a crucial avenue for 
+meeting this demand.  Ericsson, in collaboration with Dell Technologies  and Red Hat, has been 
+developing O2 interface definitions and capabilities. This interface facilitates communication 
+between the Service Management and Orchestration (SMO) Framework and the O-Cloud 
+Infrastructure Management Framework. For additional information regarding our partnerships: 
+https://www.redhat.com/en/products/ai 
+AI Standards, Interoperability, and Procurement 
+Red Hat actively participates in and contributes to emerging AI standards initiatives, ensuring 
+that its solutions remain compatible with evolving industry frameworks. The company's AI 
+platforms support major interoperability standards like ONNX for model exchange, MLflow for 
+experiment tracking, and Kubeflow for workflow orchestration. This standards-based approach 
+enables integration with diverse toolsets and prevents vendor lock-in, providing organizations 
+with flexibility as their AI strategies evolve. 
+ 
+For government procurement and compliance requirements, Red Hat offers solutions that align 
+with frameworks like FedRAMP, NIST AI Risk Management, and emerging AI-specific 
+certification programs. Our AI platforms can be configured to meet specific government security 
+requirements, including those for classified environments and sensitive applications. 
+Documentation and validation processes support compliance verification and audit requirements. 
+ 
+Red Hat's AI solutions are designed with interoperability as a core principle, supporting 
+integration with existing enterprise systems and specialized AI tools from multiple vendors. The 
+platform provides standard APIs and interfaces that enable connection to data sources, model 
+repositories, and operational systems without requiring custom development. This 
+interoperability extends to support for multiple AI frameworks and libraries, enabling 
+organizations to use the most appropriate tools for specific use cases. 
+ March 15, 2025 | Red Hat, Inc.                 8 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+For procurement teams, Red Hat offers flexible licensing models that align with both traditional 
+enterprise procurement processes and emerging consumption-based approaches. The subscription 
+model provides predictable costs while ensuring access to the latest capabilities and security 
+updates. Specialized licensing options support air-gapped environments, government 
+applications, and educational institutions with specific requirements. 
+ 
+Red Hat's commitment to open standards and interoperability ensures that investments in AI 
+infrastructure and applications remain viable as technologies evolve. The platform's modular 
+architecture allows components to be updated or replaced individually as requirements change, 
+protecting overall investment while enabling adoption of emerging capabilities. This approach is 
+particularly valuable for long-term government projects where sustainability and maintainability 
+are critical considerations. 
+Implementation Path and Maturity Model 
+Red Hat provides a clear progression path for organizations at different AI maturity levels, 
+allowing them to start where they are and evolve as their capabilities and requirements grow. 
+Organizations can begin with Red Hat Enterprise Linux AI for first RAG use cases, single-server 
+deployments, and initial proofs of concept that build board-level visibility into AI initiatives. Red 
+Hat Enterprise Linux AI is particularly well-positioned as the entry point for organizations 
+experimenting with proprietary models but need more cost-effective solutions for production. 
+ 
+As deployments grow, Red Hat OpenShift AI enables scaling from individual servers to clusters 
+with optimized resource management, facilitating team collaboration across larger projects with 
+varied deployment requirements. Organizations with advanced needs can integrate with partner 
+solutions like Watsonx for complex multi-model orchestration, creating a complete ecosystem 
+for enterprise AI. This maturity model allows starting with accessible entry points while 
+providing a clear growth path for expanding AI initiatives, with organizations leveraging Red 
+Hat's expertise for guidance through each stage of the implementation journey. 
+ 
+Red Hat's solution progression allows organizations to start with one success point and gradually 
+expand to multiple models and use cases without major reimplementation. The transition from 
+Red Hat Enterprise Linux AI to OpenShift AI represents a natural evolution as organizations 
+scale their AI implementations, supporting both horizontal scaling (more models) and vertical 
+scaling (more complex models). This approach aligns with typical enterprise AI adoption 
+patterns, from experimentation to enterprise-wide deployment, with the Red Hat solution stack 
+evolving alongside NSF's capabilities and requirements to ensure continued alignment. 
+ 
+The progression path helps organizations avoid common pitfalls in scaling AI from 
+proof-of-concept to production, providing a tested approach that reduces risk and accelerates 
+value realization. This structured yet flexible path enables organizations to grow their AI 
+capabilities at a pace that matches their business needs and readiness, without creating technical 
+debt or implementation barriers as they scale. 
+Future-Proofing AI Investments with Red Hat 
+Red Hat's approach to AI helps organizations future-proof their investments through several key 
+strategies. The open-source foundation provides access to the latest innovations from both March 15, 2025 | Red Hat, Inc.                 9 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+community and commercial development, ensuring solutions remain current with evolving best 
+practices. The modular architecture allows components to evolve independently as technology 
+advances, preventing wholesale replacements as individual technologies mature. Red Hat's 
+subscription model ensures continuous updates and improvements without disruptive version 
+changes, providing a stable yet evolving platform. 
+ 
+Organizations can adapt their Red Hat AI implementations as business requirements evolve 
+without major reimplementation, protecting initial investments while enabling growth. The 
+hybrid cloud approach ensures flexibility to adapt deployment models as organizational needs 
+change, preventing lock-in to specific infrastructure choices. Standardized APIs and interfaces 
+support integration with emerging technologies, allowing organizations to incorporate new 
+capabilities as they become available. 
+ 
+Red Hat's commitment to upstream open-source projects ensures alignment with industry-wide 
+innovation, while consistent tools and approaches enable scaling from proof-of-concept to 
+enterprise-wide deployment. Regular driver updates maintain compatibility with evolving 
+hardware acceleration technologies, allow organizations to take advantage of performance 
+improvements without application changes. The partner ecosystem provides access to 
+complementary technologies to enhance AI investments, extending capabilities beyond Red Hat's 
+core offerings. 
+ 
+Standards-based implementation ensures long-term compatibility and interoperability, while Red 
+Hat's regular release cadence provides predictable enhancement paths for AI capabilities. 
+Organizations can protect their AI investments through Red Hat's transparent roadmap and 
+commitment to backward compatibility. The community-driven approach ensures diverse input 
+into future development directions, creating solutions that address a broad range of requirements 
+rather than focusing on narrow use cases. 
+ 
+Through these approaches, Red Hat helps organizations build AI solutions that can evolve 
+alongside business needs and technology advancements, providing a foundation that supports 
+both current requirements and future growth. This long-term perspective is particularly valuable 
+in AI, where the technology landscape continues to evolve rapidly and organizations need 
+solutions that can adapt without requiring complete reimplementation. 
+Secure 
+Cybersecurity and AI Model Protection 
+Red Hat's AI solutions incorporate comprehensive security capabilities that protect models, data, 
+and infrastructure throughout the AI lifecycle. The platform builds on Red Hat's established 
+security framework, with features specifically designed to address AI-related threats and 
+vulnerabilities. Security is implemented at multiple levels, from the underlying infrastructure 
+through model deployment and monitoring. 
+ 
+At the infrastructure level, Red Hat provides hardened operating system configurations 
+optimized for AI workloads, with regular security updates and vulnerability management. Secure 
+container environments isolate workloads and enforce least-privilege access controls, preventing March 15, 2025 | Red Hat, Inc.                 10 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+unauthorized access to models and data. Integration with enterprise identity and access 
+management systems enables fine-grained control over who can access and modify AI assets. 
+ 
+For model security, Red Hat implements protections against common attack vectors like model 
+poisoning, prompt injection, and adversarial examples. The platform includes capabilities for 
+input validation and sanitization that help prevent manipulation of model behavior through 
+carefully crafted inputs. Monitoring tools detect unusual patterns that might indicate attempted 
+attacks, enabling rapid response to potential security incidents. 
+ 
+Data security is addressed through comprehensive data lifecycle management capabilities that 
+protect sensitive information during training, validation, and inference. The platform supports 
+data encryption both at rest and in transit, with configurable policies for data handling based on 
+sensitivity classification. Integration with enterprise data governance frameworks ensures 
+consistent application of security policies across all data used in AI processes. 
+ 
+Red Hat's solutions enable organizations to implement defense-in-depth strategies for AI 
+systems, with multiple layers of protection against various types of attacks. The platform 
+supports implementation of security best practices like model versioning, controlled 
+deployments, and comprehensive audit trails that document all interactions with models and data. 
+These security capabilities are particularly important for applications in national security, 
+defense, and critical infrastructure, where protection against sophisticated attacks is essential. 
+Intellectual Property and Innovation Protection 
+Red Hat's approach to AI intellectual property balances open innovation with appropriate 
+protections for both the company and its customers. The open source licensing of Granite models 
+under Apache 2.0 provides clear rights and responsibilities for model usage, modification, and 
+distribution. This transparent licensing reduces legal uncertainty while enabling broad adoption 
+and community enhancement. 
+ 
+For organizations concerned about intellectual property risks when using AI models, Red Hat 
+provides comprehensive indemnification that protects against claims of infringement. This 
+protection covers both the models themselves and outputs generated by the models when used 
+within specified parameters. The indemnification extends to patent, copyright, and trade secret 
+claims, giving organizations confidence to deploy these models in production environments. 
+ 
+Red Hat's AI platforms include features for protecting organizational intellectual property during 
+model training and use. Data lineage tracking documents what information is used in model 
+development, while access controls prevent unauthorized exposure of sensitive data or 
+proprietary knowledge. Organizations can implement policies that govern what information can 
+be used for model training and how models can be deployed, ensuring alignment with overall 
+intellectual property strategy. 
+ 
+For innovation protection, Red Hat provides mechanisms for organizations to safeguard their 
+enhancements and customizations to AI models. While the base models are open source, 
+proprietary extensions, custom training data, and specialized applications can be protected as March 15, 2025 | Red Hat, Inc.                 11 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+needed. The platform supports hybrid approaches that combine open source foundations with 
+proprietary elements where appropriate for business strategy. 
+ 
+Red Hat actively engages with evolving intellectual property frameworks for AI, ensuring that its 
+solutions adapt to changing legal interpretations and precedents. The company's legal expertise 
+in open source licensing provides valuable guidance for navigating the complex intersection of 
+AI and intellectual property law. This forward-looking approach helps organizations implement 
+AI with appropriate intellectual property management while minimizing legal risk. 
+Red Hat AI Technology Details 
+Red Hat's AI technologies provide a complete stack of capabilities designed to address the full 
+lifecycle of AI implementation. RHEL AI is a foundation model platform that simplifies bringing 
+open-source licensed generative AI models into enterprise environments, unlocking the power of 
+efficient models with full enterprise support. The solution streamlines alignment of generative 
+models to specific business requirements through accessible tooling, enabling organizations to 
+train and deploy AI anywhere in hybrid environments to address diverse needs. OpenShift AI 
+functions as an end-to-end MLOps platform for developing, training, and serving models at 
+scale, providing self-service access to collaboration workflows and computational resources to 
+accelerate development. The platform delivers consistent user experiences across technical roles 
+to facilitate more effective teamwork, with automatic scaling capabilities that optimize GPU 
+resource utilization. As load increases on models, OpenShift AI scales resources up to meet 
+demand, then scales down to zero when not used to optimize expensive GPU resources. 
+ 
+InstructLab significantly reduces the need for large amounts of manually annotated data through 
+synthetic data generation, with an accessible YAML format that makes it possible for subject 
+matter experts to contribute domain knowledge without technical expertise. Granite models 
+provide enterprise-grade, open-source language and code capabilities with full transparency and 
+indemnification, giving NSF confidence in AI implementations. RHEL AI includes these highly 
+performant, collaboratively developed models from the InstructLab community, with extended 
+model lifecycle and model IP indemnification to ensure confidence in model outputs. The open 
+approach avoids vendor lock-in while providing the reliability and support that enterprise 
+organizations require, creating a balance between innovation and production stability that is often 
+difficult to achieve with other approaches. 
+Manage 
+Open Source Model Development and Governance 
+Red Hat's approach to AI is fundamentally built on open source principles, from the operating 
+system foundation through the application layer. The company's AI solutions leverage and 
+contribute to leading open source AI projects, ensuring that innovations benefit the broader 
+community while maintaining enterprise-grade reliability. This commitment to open source 
+extends to Red Hat's Granite language models, which are released under Apache 2.0 licensing 
+with full transparency regarding training data and methodologies. 
+ 
+The open source approach provides significant advantages for model governance and assurance. 
+Transparent model development processes enable comprehensive review and validation, while March 15, 2025 | Red Hat, Inc.                 12 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+community scrutiny helps identify potential issues before they impact production systems. Red 
+Hat's InstructLab methodology combines the innovation advantages of open source with 
+structured governance processes that ensure model quality and reliability. The taxonomy-driven 
+approach to model enhancement provides a clear framework for documenting model capabilities 
+and limitations, supporting responsible deployment. 
+ 
+Red Hat actively participates in and contributes to open source AI governance initiatives, helping 
+to establish best practices and standards for responsible AI development. The company's AI 
+solutions incorporate these governance principles through features like model cards that 
+document model characteristics, intended use cases, and known limitations. Comprehensive 
+lineage tracking maintains records of data sources, training methodologies, and validation 
+procedures to support audit requirements and regulatory compliance. 
+ 
+For organizations developing their own models, Red Hat provides tools and frameworks that 
+support responsible development practices without requiring specialized governance expertise. 
+Templates for documenting model characteristics, validation processes, and deployment 
+constraints make it easier to incorporate governance into the development workflow. Integration 
+with common CI/CD pipelines enables automated validation against governance requirements 
+during the build and deployment process, ensuring consistent application of policies. Case Study: 
+Army, Project Linchpin  
+AI Explainability, Ethics, and Regulatory Compliance 
+Red Hat recognizes that explainability and assurance are critical requirements for enterprise AI 
+adoption, particularly in regulated industries. The company's AI platforms incorporate 
+capabilities for model interpretation and explanation that help organizations understand how 
+models arrive at specific outputs. These explainability features are particularly important for 
+addressing regulatory requirements in sectors like financial services, healthcare, and government. 
+For large language models, Red Hat provides tools to analyze model behaviors and identify 
+potential biases or problematic patterns. InstructLab's structured approach to model enhancement 
+includes evaluation phases that assess model outputs against defined criteria for accuracy, 
+fairness, and appropriateness. The platform supports integration with third-party evaluation 
+frameworks that provide additional validation against industry-specific requirements. 
+ 
+Red Hat's AI solutions incorporate comprehensive monitoring capabilities that track model 
+performance, drift, and potential issues in production environments. These monitoring tools help 
+organizations identify when models are operating outside their intended parameters or when 
+inputs vary significantly from training data. Automated alerting capabilities notify appropriate 
+teams when potential issues arise, enabling proactive management of AI systems. 
+ 
+The platform supports implementation of ethics guidelines and responsible AI principles through 
+configurable guardrails and validation processes. Organizations can define and enforce policies 
+regarding data usage, model deployment, and application constraints through centralized 
+governance controls. These capabilities are particularly important for government applications, 
+where adherence to specific ethics guidelines and regulations may be mandatory. 
+Red Hat's solutions are designed to adapt to evolving regulatory requirements across 
+jurisdictions, with flexible deployment options that support compliance with data sovereignty March 15, 2025 | Red Hat, Inc.                 13 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+and privacy regulations. The platform enables isolation of sensitive data and processing where 
+required, while maintaining consistent management across environments. Regular updates ensure 
+compatibility with emerging standards and regulations, providing organizations with confidence 
+that their AI deployments will remain compliant as requirements evolve. 
+Workforce Development and Education 
+Red Hat recognizes that addressing AI skills gaps requires comprehensive education and 
+workforce development strategies. The company provides extensive training and certification 
+programs that help organizations build internal AI capabilities across technical and business 
+roles. These education resources range from introductory concepts to advanced implementation 
+techniques, supporting skills development at all levels. 
+ 
+For technical teams, Red Hat offers specialized training on AI infrastructure, model 
+development, and operational management. These programs combine theoretical knowledge with 
+hands-on experience using Red Hat's AI platforms, ensuring that participants develop practical 
+skills that can be immediately applied. Certification pathways provide recognized validation of 
+AI expertise, helping organizations identify qualified personnel for critical roles. 
+ 
+Red Hat supports broader workforce adaptation to AI through educational resources focused on 
+responsible implementation and governance. These materials help business leaders, policy 
+makers, and functional specialists understand AI capabilities, limitations, and implications 
+without requiring deep technical knowledge. Customized education programs address the 
+specific needs of different roles involved in AI initiatives, from executive sponsors to domain 
+experts contributing to model development. 
+ 
+Through partnerships with educational institutions, Red Hat contributes to developing the next 
+generation of AI practitioners. The company provides academic access to its AI platforms, 
+curriculum materials, and technical expertise to support AI education in universities and 
+technical schools. Internship and apprenticeship programs offer practical experience to emerging 
+talent, helping bridge the gap between academic knowledge and industry requirements. 
+Red Hat's commitment to open source means much of its educational material is freely available 
+to the broader community, supporting wider AI skills development. Red Hat actively participates 
+in industry initiatives to establish skill standards and career pathways for AI roles, helping to 
+create a more structured approach to workforce development in this rapidly evolving field. 
+International Collaboration and Responsible AI Development 
+Red Hat's global presence and open source foundation enable international collaboration on AI 
+development and implementation. The company participates in multinational AI research 
+initiatives, standards development, and policy frameworks that advance responsible AI practices 
+across borders. This international engagement ensures that Red Hat's AI solutions incorporate 
+diverse perspectives and address requirements across regions and regulatory environments. 
+ 
+The open nature of Red Hat's AI platforms facilitates collaboration between organizations, 
+researchers, and developers worldwide. Shared models, methodologies, and best practices 
+accelerate innovation while improving quality through diverse input and validation. International March 15, 2025 | Red Hat, Inc.                 14 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+collaboration is particularly valuable for addressing global challenges that require coordinated AI 
+application, from climate change to public health. 
+Red Hat supports responsible AI development through incorporation of emerging global 
+frameworks and principles into its platforms and practices. The company's solutions enable 
+implementation of features like privacy-by-design, fairness validation, and appropriate human 
+oversight that align with international guidelines for ethical AI development. These capabilities 
+help organizations implement AI in ways that respect human rights, privacy, and cultural 
+considerations across global operations. 
+ 
+For organizations working across multiple jurisdictions, Red Hat provides flexibility to adapt 
+deployments to local requirements while maintaining consistent management and governance. 
+The platform supports configuration of data handling, model deployment, and monitoring 
+practices based on regional regulations and cultural expectations. This adaptability is particularly 
+important for multinational enterprises and international agencies that must navigate complex 
+compliance landscapes. 
+ 
+Red Hat actively engages with international policy development for AI governance, contributing 
+technical expertise and implementation perspective to emerging frameworks. The company's 
+practical experience with enterprise AI deployment informs realistic approaches to governance 
+that balance innovation with appropriate controls. This engagement helps ensure that regulatory 
+frameworks are technically feasible and effectively address legitimate concerns without 
+unnecessarily constraining beneficial applications. 
+AI Customers 
+ 
+Figure 1. AI/ML customers 
+ March 15, 2025 | Red Hat, Inc.                 15 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+
+ 
+ NSF NITRD NCO Development of an Artificial 
+Intelligence (AI) Action Plan RFI 
+ 
+➢ U.S. Army, Project Linchpin 
+➢ Improving patient outcomes with Guidehouse, Red Hat, and AI 
+➢ Banco Galicia incorporates new business clients in a matter of minutes with the intelligent NLP 
+platform 
+March 15, 2025 | Red Hat, Inc.                 16 
+ 
+This document is approved for public dissemination. The document contains no business-proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated documents without attribution. 
+
+

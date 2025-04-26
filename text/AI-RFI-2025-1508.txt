@@ -1,0 +1,378 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 14, 2025
+Status: 
+Tracking No. m 89-c3t0-d6o2
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-1508
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Em ail:  
+Organization:  Coalition for Content Provenance and Authenticity
+General Comment
+Good day. Thank you for the opportunity to respond to the Office of Science and Technology Policy’s (OSTP) request for input on the
+Adm inistration’s developm ent of an Artificial Intelligence Action Plan. On behalf of the Coalition for Content Provenance and Authenticity
+(C2PA), please find the attached subm ission. Should you have any questions, please be in touch at the contact inform ation listed below.
+Thank you.
+Attachments
+C2PA AI Action Plan RFI Response_Final
+-
+
+This document is approvedforpublic disseminati on. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the Al Actio17 Plan and associated 
+documents without attribution. 
+548 Market St 
+PMB 57274 
+San Francisco, California 94104 
+Friday, March 14, 2025 
+VIA ELECTRONIC FJLJNG 
+AI Action Plan 
+Attn: Faisal D1Souza, NCO 
+415 Eisenhower A venue 
+Alexandria , VA 22314 
+Dear Mr. D'Souza 
+The Coalition for Content Provenance and Authenticity (C2PA) appreciates the opportunity to 
+respond to the Office of Science and Technology Policy's (OSTP) request for input on the 
+Administration 's development of an Artificial Intelligenc e (AI) Action Plan ("Plan"). 
+With the digital transformation of information sharing, the ability to establish the provenance (or 
+source and history) of images, audio, video, and documents is critical. Today's capabilities­
+powered by AI and machine learning-have dramatically increased the ease, speed, and quality 
+of alterations . Bad actors may exploit manipulated or entirely fabricated media to carry out cyber 
+threats, commit crimes, exfiltrate sensitive economic data and intellectua l property or undermine 
+our national security. The Coalition for Content Provenance and Authenticity (C2PA), an open 
+standards organization created by members of the Content Authenticity Initiative (CA[), Project 
+Origin, and others through the Joint Development Foundation under the Linux Foundation, is 
+collectively building an open technical standard to provide provenance and attribution for all 
+forms of digital media to combat these, and many other, types of challenges. 
+The C2P A open technical standard can serve as a critical pillar in the Administration 1 s efforts to 
+enhance America's global Al dominance , promote human flourishing, economic 
+competitiveness, and strengthen our national security. To that end, we offer the following 
+background on the C2PA and Content Credentials, suggest possible use cases for the standard 
+that are currently unexplored, including in the government, and provide several concrete actions 
+the Administration should consider. Lastly, we provide examples of how private industry is 
+leveraging th is technology. 
+
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+information , Document contents may be reused by the government in developing the Al Action Plan and associated 
+documents without attribution . 
+The C2PA -Building an Industry-led Global Standard 
+The C2PA is an industry-led, cross-sector coalition of technology companies and medja 
+organizations that are developing an open technical standard for disclosing and verifying the 
+origin and/or history of digital content. Established in 2021, the C2PA has over two hundred 
+members, and is guided by a steering committee consisting of Adobe, Amazon, BBC, Google, 
+Intel, Meta, Microsoft, OpenAI, Publicis Groupe, Sony and Tmepic. The C2PA open 
+specification. outlines how to establish digital content provenance using a technology called 
+Content Credentials. Covering both technical details and normatlve guidelines , the standard aims 
+to facilitate worldwide, opt-in adoption of digital provenance methods by cultivating a robust 
+ecosystem of applications that support digital provenance for a diverse range of users and 
+organizations while ensuring necessary security measures are met. Because the C2PA standard is 
+openly available, anyone-including governments and their service providers-can use this 
+standard to incorporate digital provenance information into their products and processes. 
+The C2PA standard is regularly updated based on new technologies, feedback from the 
+community , and its needs, and is currently on version 2.1. The C2PA is currently fast-tracking its 
+standard to become an Internationa l Standards Organization (ISO) standard. The C2PA expects 
+ISO to approve the standard for publication by mid 2025. 
+Further, the C2PA' s architecture is built to allow transparency across internet scale .. Several 
+unique tenets undergird the C2PA specification that make scale possible. We would like to 
+'highlight four critical aspects: 
+• Interoperability: The specification is written so that it can be adopted by any platfonn, 
+OEM, or device. Any compliant mechanism can read, display, and add information to the 
+provenance chain. This creates aJ1 interoperable provenance model for digital content that 
+can move around the internet, with the content in real-time. 
+• Tamper Evidence: Files signed with the C2PA specification become tamper-evident , 
+helping content consumers know if unauthorized changes were made after signing 
+occurred. 
+• Multiple File Formats: The specification can be applied to dozens of file formats 
+ranging from image formats such as JPEG and PNG, to audio and video formats such as 
+MP3 and MP4, as well as documents and text files. Also, provenance can be applied to 
+machine learning files for data, models, and applications. 
+• Voluntary: For files captured with cameras, the addition of Content Credentials (the 
+cryptographically bound metadata about the file's origin and history) is optional and can 
+be added as creators decide. However , generative Al platforms are increasingly using 
+2 
+
+This document is approved for public dissemination. The document contains no business-proprieta,y or confidential 
+in.formation. Document contents may be reused by the government in developing the A I Action Plan and associated 
+documents without attribution. 
+Content Credentials as a default setting on all generative outputs to disclose that their 
+product/model created a given piece of media. 
+Other critical features such as a provenance chain for edits, the ability to adapt to newer 
+generative technologies, stability, and scalability are the reasons why the C2PA open standard 
+has grown in popularity with private industry and is soon to be a global ISO standard. 
+-7 
+Mitn.feufD-._ 
+AGII\Cmim,.ft-st. /' // 
+/ ong••• 
+Figure 1-This image shows how all these various elements come together to represent the C2PA architecture. 
+Content Credentials 
+The C2PA's Content Credentials are cryptographically secured metadata that enable individual 
+creators, organizations, or even governments to embed information about themselves directly 
+into media. They are designed to ensure the provenance and authenticity of digital content 
+through verifiable claims using the same cryptographic technology that secures the Web, a 
+crucial distinction for maintaining trust and transparency in the digital ecosystem. Additionally, 
+Content Credentials can be incorporated either during media creation on hardware, like on 
+phones or cameras, or when exporting through software. These credentia ls attach essential 
+3 
+
+This document is approved/or public dissemination. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the AI Action Plan and associated 
+documents without attribution. 
+metadata. to a media file, allowing for the traoking of its origins, any subsequent modifications , 
+and the tools or processes used in its production or alteration. Designed for global accessibility , 
+Content Credentials include offline features-such as copying certificates to a secure enclave. 
+The C2PA technical specification outlines the structure of these credentials and details the 
+assertions regarding a media item's provenance. 
+To strengthen Content Credentials against tampering or removing their metadata , a digital 
+watermark and fingerprint can be embedded into the digital media. This approach adds extra 
+layers of preservation and recovery, resulting in what are known as Durable Content Credentials. 
+Combined into a single approach, embedded metadata, watermarking , and fingerprinting form a 
+unified solution that is robust enough to ensure that reliable provenance information is available 
+no matter where a piece of content goes. This single, harmonized approach is the essence of 
+Durable Content Credentials, and because it is the most comprehensive means of enabling 
+transparency in content, we are seeing companies accelerate the adoption and integration of 
+Content Credentials into their products, some which we detail below. 
+Content Credentials 
+lssuod by Adobe Inc. o~ Ocl 4, 2023 
+Thl5 Image combines multlpCe pieces of 
+c:on1ent. Al lee!St one waii: generated with 
+anf',I tool 
+Produced by Benoit lemolne 
+Penguins seen i" tho des~rt. 
+App or davlc:9 uHd Adobe Photo:iticp 
+Al tool •Nd Adobe Firefly 
+Addltional hlatory Yo, 
+Fig. 2 -This image shows how embedded Content Credentials appear to users. 
+4 
+
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+informati on. Document contents may be reused by the government in developing the Al Action Plan and associated 
+documents without attribution. 
+The C2PA & Content Credentials -Use Cases 
+The rapid reliance on digital content, combined with the explosive growth of synthetic media, 
+has created new vulnerabilities , opening the door to fraud, image deception , and inaccurate 
+decision making. This not only impacts consumers who depend on private enterprises for reliable 
+products and services but also threatens American economic competitiveness by undermining the 
+integrity of business operations in a global market. 
+Ultimately, private industry must adopt holistic and comprehensive cybersecurity and 
+operational strategies to safeguard both their consumers and operations from these evolving 
+threats. Emerging strategies for verifying digital content authenticity remain largely 
+underexplored and unfamiliar to many enterprises , critical industries and governments. 
+Emerging technologies like image authentication , Content Credentials, and synthetic media 
+detection are essential tools that should be actively explored and integrated (individually and in 
+unison) by both the private sector and government as critical components of a robust defense 
+framework. Below, we offer several use-cases for Content Credentials across the private sector 
+and government. 
+Strengthen American innovation and economic growth: The United States can position itself 
+at the forefront of artificial intelligence and drive innovation and economic growth by 
+championing the use of open technical standards like the one from the C2PA. The C2PA not 
+only fuels innovation and enhances competitiveness but it also provides a robust framework for 
+safeguarding our trade secrets. Ensuring that digital assets carry content provenance metadata, 
+like Content Credentials , can help protect them from theft and unauthorized replication. 
+Moreover, the use of the C2PA standard to authenticate business and government information 
+becomes a critical shield against adversaries , who might otherwise exploit or steal sensitive 
+research and development data, thereby preserving the integrity of corporate and government 
+innovations. This also extends to defending business and organizational reputations , as the C2PA 
+framework helps prevent the misuse of synthetic media to fabricate damaging narratives about 
+businesses, executives , government officials or entire industries. Globally, the establishment of a 
+U.S.-led Content Credentials-based verification system can facilitate secure e-commerce and 
+strengthen digital trade channels, and reinforce economic alliances and trade agreements , 
+ultimately reducing the economic risks posed by adversarial states. 
+Enhance business security and mitigate costly fraud: The increased reliance on digital 
+operations by businesses and enterprises today elevates their risk of fraud, unauthorized use, 
+intellectual property theft, data manipulation , cyber-attacks , and other threats if they cannot 
+ensure the accuracy and provenance of their data. Provenance and Content Credentials work 
+5 
+
+Tfzis document is approved for public dissemination. The document contains no business-proprieta,y or confidential 
+information. Document c ontents may be reused b;1 the government in developing the Al Action Plan and associated 
+documents without attribution. 
+hand-in-hand with cybersecurity frameworks to ensure that digital content is not tampered with. 
+Companies dealing with sensitive data, such as financial institutions , healthcare providers, or law 
+firms, can maintain clear digital audit trails for compliance and legal validation. Additionally , 
+Content Credentials help mitigate fraud, including financial sector fraud, by verifying the 
+authenticity of digital assets and transactions , reducing the risk of manipulated financial 
+documents or unauthorized modificatjons. They can also serve as a critical defense against 
+phishing campaigns by authenticating media embedded in phishing emails, enabling recipients to 
+verify the legitimacy of images, videos, or documents before engaging with malicious content. 
+With governments worldwide increasingly legislating new requirements for digital transparency , 
+AI governance, and cybersecurity, the C2PA offers a proactive , industry-led solution to support 
+compliance with these emerging regulations. 
+Protect national security: Adding provenance , transparency and image authenticity into 
+business operations and processes will have positive impacts for innovation and national 
+security. For example, the adoption of image authenticity and Content Credentials in CISA­
+designated critical industries-such as energy, telecommunications, financial services, and 
+healthcare-strengthens American national security by protecting against cyber threats, 
+deceptive media, and fraud. While Content Credentials can be used in crime scene photography 
+and evidence collection, the same capability is also highly useful for national security and law 
+enforcement forensics purposes. Moreover , Content Credentials can help establish the 
+authenticity of scientific reports and images by helping prevent the manipulation of scier.itific 
+data and research findings, which is crucial for national security-related research and 
+development. Similarly , government and commercial imagery providers can implement Content 
+Credentials for satellite imagery, providing a chain of provenance with their analysis, which is 
+particularly important for intelligence applications that rely on accurate and verifiable imagery. 
+Lastly, providing a means to verify the origin and editing history of digital content, Content 
+Credentials can help combat the spread of foreign malign disinformation campaigns that may 
+threaten national security. This is especially important in an era where AI-generated content is 
+becoming increasLngly sophisticated and prevalent. 
+Recently, the Department of Defense (DoD) started leveraging the C2PA standard and using 
+Content Credentia .ls for images on DVIDS, a public website for U.S. military digital media 
+content. Having Content Credentials attached to its content helps DoD verify the authenticity of 
+the images it captures and uses during important information gathering. In addition, the Content 
+Credentials provide an important level of transparency in the content that the DoD shares 
+externally -helping to build trust with the public. 
+6 
+
+This document is approved for public dissemination . The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the Al Action Plan and associated 
+documents without attribution. 
+4 du ■ds HOME FEATURES CONTENT STORIES 
+Symphony in the sky (Image 4 of SJ 
+Content Credentials 
+lss ed t,y DVIDS on Sep 11, 2024 
+VIRIN: 240825-F-UT533-1001 
+Da.te Created: Aug 25, 2024 
+City: Offutt Air Force Base. 
+-State: Nebraska 
+Country: United States 
+Released Kris Pierce 55th Wlng 
+OFFUTT AIR FORCE BASE, NEBRASKA, UNITED STATES 
+08.25.2024 
+Photo by Chad Watkins :\\ 
+55th Wing Q. i-\ D Subscribe 
+■■■ 
+Figure 3 -The Department of Defense's implementation of Content Credentials allows anyone to click the "CR 
+icon" on images on DV/DS' website to get important context about the image including when and where it was 
+captured. 
+Drive government and private sector efficiencies: Image provenance and transparency are 
+critical economic drivers that can directly contribute to GDP growth and unlock incredible 
+opportunities for innovation in the Al world. The C2PA's open, interoperable standard allows 
+different industries and technology providers to integrate provenance into their ecosystems, 
+7 
+
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the Al Action Plan and associated 
+documents without attribution. 
+helping businesses maintain credibility in their communications and digital assets, which in turn 
+bolsters consumer confidence and increases economic opportunity. 
+Recommendations 
+We provide the following recommendations for your consideration: 
+Champion the use and adoption of C2PA's standard for content provenance and 
+authenticity: The most beneficial approach and way to scale transparent digital content online is 
+through the widespread adoption of Content Credentials by technology builders, content creators, 
+and platforms. The OSTP and NIST' s identification of and recognition of the C2PA 's open 
+standard will help increase adoption, scale the benefits of its adoption and enable the U.S. to 
+shape the international standards debate around content provenance. To that end, the 
+Administration should consider adoption of the C2P A standard for use in securing the 
+government's digital media content. 
+Establish U.S. leadership by promoting an industry-led standard for the use of content 
+provenance technologies: The Administra tion should promote a U.S. industry-led standard, like 
+the C2PA, as the international standard on global content provenance frameworks. By focusing 
+on driving adoption, best practices, information sharing amongst government agencies and our 
+allies, the Administration can sustain and enhance America's Al dominance. 
+Conclusion 
+The C2PA technical standard, being industry-led, internationally recognized , and increasingly 
+prevalent across companies and their products, uniquely positions the U.S. government to 
+demonstrate global leadership by driving its adoption. Shaping standards is crucial for 
+determining leadership in AI and other technological fields, and the U.S. government is uniquely 
+positioned to lead by championing the work already undertaken by private industry in the C2PA, 
+many of which are U.S.-headquarter ed companies . 
+In the world of content provenance and authenticity, the C2P A technical standard is one of the 
+most compelling technical innovations to emerge. With American leadership , the C2P A can 
+become a leading provenance standard worldwide. 
+8 
+
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the Al Action Plan and associated 
+documents without attribution. 
+Appendix I 
+The C2PA & Content Credentials -Indush)' Leading the Way with Adoption 
+As generative AI continues to reshape the digital landscape, the need for transparency and trust 
+in digital content has become increasingly critical. In response, major technology companies 
+have been integrating Content Credentials into their platfo1ms and products. From Al-generated 
+images and videos to enterprise -level content management systems, these implementations 
+represent a significant step toward enhancing digital content provenance. The following section 
+highlights the adoption of Content Credentials by key industry leaders, showcasing their 
+commitment to fostering greater transparency and authenticity in the evolving digital ecosystem. 
+Adobe: Adobe played a significant role in co-founding the C2PA, along with Truepic, 
+Microsoft , Arm, Intel and the BBC, and since then, has been actively integrating Content 
+Credentials into its products. For example, in Creative Cloud, consumers have access to Content 
+Credentials in popular apps like Photoshop and Lightroom , where they can securely attach 
+information such as names, dates, edits made and tools used. Other Adobe products including 
+Illustrator , Express, Stock, Behance also support Content Credentials and Adobe is continuing to 
+roll out capabilities across additional apps. For Adobe's generative AI model Firefly, Content 
+Credentials are applied to select Firefly-powered features across Adobe apps to indicate the use 
+of generative A I. Most recently, Adobe released a new free web app, Adobe Content 
+Authenticity, designed to help creators protect and receive attribution for their work with Content 
+Credentials. 
+Amazon: On September 12, 2024, Amazon announced it was ioining the C2PA as a Steering 
+Committee member. Amazon attaches Content Credentials to the visual assets produced using 
+the company 's generative AI models Nova Canvas and Titan Image Generator vl and v2, which 
+allows enterprise customers to create and edit images in a range of visual styles. Amazon is also 
+working to incorporate Content Credentials in A WS Elemental MediaConvert, a file-based video 
+processing service that transcodes content for broadcast and multi-screen delivery at scale. This 
+implementation will allow its customers -such as news organizations and sports broadcasters -
+to communicate the provenance of the media they are sharing, allowing their distribution 
+partners and news aggregators to verify the content's authenticity before posting it on their 
+platforms. 
+Google: On February 8, 2024, Google, which also includes YouTube , joined the C1PA, marking 
+a significant moment for bringing greater transparency to digital content. Google's C2PA 
+membership is helping drive broader awareness of Content Credentials and furthering Content 
+9 
+
+This document is approved for public dissemination. The document contains no business-propri etary or corifidential 
+information. Document contents may be reused by the government in developing the Al Action Plan and associated 
+documents without attribution. 
+Credentials adoption across the technology ecosystem , including in video. Last Fall, Google 
+announced plans to expand their use of Content Credentials in Search, Ads. and YouTube -with 
+more to come in 2025. 
+Linkedln: On May 15, 2024, Linkedln adopted the C2PA standard to enhance the 
+transparency and authenticity of digital media on its platform. Linkedln will begin displaying the 
+"Cr" icon on irnages and videos that contain Content Credentials in the coming months. By 
+clicking the icon, users will be able to view the origin of the media, including the source and 
+history of the content~ and whether it was created or edited by AL Linkedln is phasing its 
+implementation on the platform and will soon include "Cr" display on ads. 
+Meta: On February 6, 2024, Meta announced it would ingest Content Credentials on Facebook, 
+Instagram and Threads to assist with its initiative to increase transparency 
+online by labeling AI-generated content. Meta's integration of Content Credentials helps 
+users on Facebook , lnstagram, and Threads to identify AI-generated or edited images. Meta 
+joined the C2PA as a Steering Committee member in September of 2024. 
+Microsoft: Microsoft is actively integrating Content Credentials across its platforms to enhance 
+transparency and trust in digital content. One of Microsoft's implementations of Content 
+Credentials is within its Azure Text to Speech Avatar service. This feature attaches a manifest to 
+generated avatar videos, indicating that the content was produced by Microsoft's service and 
+providing a timestamp of creation. Microsoft has integrated Content Credentials into AI­
+generated images created with Bing Image Creator, Microsoft Designer, Azure OpenAI DALL­
+E, and Paint. Microsoft also has implementations to enable downstream display of Content 
+Credentials. Microsoft released a browser extension that can validate C2PA assets. Our 
+professional networking platform, Linkedln , ingests provenance information based on the C2P A 
+standard and displays associated provenance information for media in a user's feed. 
+OpenAI: OpenAI's joining of the C2PA steering committee on May 7, 2024, builds on 
+OpenAI's existing C2PA integration for DALL-E 3, which was announced in February of2024. 
+Earlier in 2024, OpenAI began including Content Credentials in images generated and 
+edited by DALL-E 3, the company's latest text-to-image model, in ChatGPT and the OpenAI 
+APL In addition, the company also rolled out Sora, their new text-to-video generation model, in 
+December 2024, announcing that Sora-generated videos come with C2PA metadata. which will 
+identify a video as coming from Sora to provide transparency , and can be used to verify origin. 
+OpenAl's membership and implementation of Content Credentials serves as a strong 
+endorsement for the C2PA standard and advancing the collective mission to help restore trust in 
+the digital ecosystem. 
+10 
+
+This document is approved for public dissemination. The document contains no business-proprietary or confidential 
+information. Document contents may be reused by the government in developing the Al Action Plan and associated 
+documents without attribution. 
+Truepic: Truepic has taken a leading role in advancing the C2PA standard, becoming the first to 
+support and integrate the C2PA specification into enterprise workflows through its Vision 
+platform. As a founding member, Truepic offers enterprise-grade solutions that provide end-to­
+end content authentication and digital verifications for the world's leading businesses. By 
+verifying data and embedding C2PA standards directly at the moment of capture, Truepic 
+ensures authenticity immediately which allows enterprise to thrive in the AI era. Truepic's 
+implementation of image and data verification aligning to the C2P A standard highlight the 
+operational efficiency and innovations for business and government through authenticity and 
+transparency. 
+11 
+

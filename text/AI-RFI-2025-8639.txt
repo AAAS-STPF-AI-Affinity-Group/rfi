@@ -1,0 +1,716 @@
+PUBLIC SUBMISSIONAs of: March 21, 2025
+Received: March 15, 2025
+Status: 
+Tracking No. m 8b-2iw1-m m 7a
+Com m ents Due: March 15, 2025
+Subm ission Type: API
+Docket: NSF_FRDOC_0001
+Recently Posted NSF Rules and Notices.
+Com m ent On: NSF_FRDOC_0001-3479
+Request for Inform ation: Developm ent of an Artificial Intelligence Action Plan
+Docum ent: NSF_FRDOC_0001-DRAFT-8639
+Com m ent on FR Doc # 2025-02305
+Submitter Information
+Name: Ron Bodkin  
+General Comment
+Please see attached m y response to the RFI on the Developm ent of an AI Action Plan.
+Attachments
+Ron Bodkin Response to Request for Inform ation_ Developm ent of an Artificial Intelligence (AI) Action Plan
+Ron Bodkin Input on NSF AI Action Plan
+
+
+Response to Request for Information: 
+Development of an Artificial Intelligence 
+(AI) Action Plan 
+Respondent Information 
+Name: Ron Bodkin  
+Title: Founder and CEO  
+Organization: ChainML 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution.
+Introduction 
+As the Founder and CEO of ChainML, which develops Theoriq - an Artificial Intelligence (AI) 
+agent swarm protocol enabling the agentic economy, I am pleased to submit this response to 
+the Request for Information regarding the Development of an Artificial Intelligence Action Plan. I 
+bring perspectives from multiple leadership roles across the AI ecosystem: previously serving as 
+VP of AI Engineering and CIO at Vector Institute where I grew the technology team to 30 people 
+and supported 500 researchers with computing infrastructure and engineering; leading Applied 
+AI and Responsible AI efforts in the Google Cloud CTO office where I spearheaded 
+collaborative innovation efforts with strategic customers and Google AI research and product 
+teams; founding CEO of enterprise AI/ML startup Think Big Analytics (acquired by Teradata); VP 
+Engineering at Quantcast leading data science and engineering teams applying AI for real-time 
+advertising; and Co-Founder and CTO of C-Bridge Internet Solutions. My educational 
+background includes an honors B.S. in Math and Computer Science from McGill University and 
+a Master's in Computer Science from MIT. 
+This response focuses on the critical importance of prioritizing AI alignment and control 
+research as a foundational element of the AI Action Plan. This recommendation directly 
+supports the stated goals of sustaining and enhancing America's AI dominance while avoiding 
+unnecessarily burdensome regulations. Rather than restricting private sector innovation, 
+investment in alignment research will accelerate it by building the technical foundations that 
+enable safe, reliable, and trustworthy AI systems at scale. 
+Defining AI Alignment and Cooperative AI Research 
+
+
+AI alignment research focuses on ensuring that AI systems reliably pursue the goals and values 
+intended by their creators, even as they become more capable and potentially autonomous. 
+This includes developing techniques to make AI systems interpretable, robust to distribution 
+shifts, resistant to adversarial manipulation, and aligned with human preferences and values [1]. 
+Cooperative AI, a related research area, focuses on developing AI systems that can effectively 
+cooperate with humans and other AI systems, addressing challenges like coordination, 
+communication, and negotiation in mixed human-AI environments [2]. As AI agents are 
+increasingly deployed in the economy, the dynamics of AI interactions and mechanisms to 
+ensure effective collaboration and avoid perverse incentives will be of great importance. 
+Together, these research directions form a crucial foundation for ensuring that increasingly 
+powerful AI systems remain beneficial, controllable, and safe. 
+AI Alignment and Cooperative AI Research: A Strategic 
+Priority for U.S. Leadership 
+National Security and Innovation Leadership 
+AI alignment and cooperative AI research represent critical infrastructure for maintaining U.S. 
+leadership in artificial intelligence. As AI systems become more capable and autonomous, 
+ensuring they reliably pursue intended goals becomes increasingly important. Alignment failures 
+in critical systems could create significant national security vulnerabilities as well as limit 
+economic opportunity from scaling deployment. Conversely, strong alignment capabilities create 
+competitive advantages for US AI systems in global markets. 
+Of particular importance is research into tamper-resistant training methods that allow for the 
+safe release of powerful open-source models even in the face of fine-tuning by adversaries. 
+Such methods can mitigate risks of abuse—such as CBRN (Chemical, Biological, Radiological, 
+Nuclear) attacks [3] or use by adversaries for military applications—while still enabling the 
+vibrant research ecosystem that has been instrumental to American AI leadership. This balance 
+represents a nuanced approach that promotes innovation while addressing legitimate security 
+concerns. 
+This approach aligns with existing NSF initiatives such as the National AI Research Institutes 
+program, which has already established centers focused on trustworthy AI to ensure systems 
+are "safe, secure, fair, transparent and accountable." By strengthening our focus on alignment 
+and cooperative AI, we can build upon this foundation to ensure the United States leads not 
+only in AI capabilities but also in AI safety—a strategic necessity in the global AI landscape 
+where other nations are rapidly advancing their own AI governance frameworks. 
+As noted by several RFI respondents, including Anthropic, advanced AI systems with 
+capabilities exceeding human experts in most disciplines are likely to emerge within a decade. 
+Rather than imposing preemptive restrictions that could hamper innovation, as some have 
+
+
+suggested, investing in alignment and cooperative AI research provides the scientific foundation 
+needed to develop these systems responsibly while maintaining American leadership. 
+Economic Competitiveness 
+Reliability, trustworthiness, and accuracy are not merely desirable features of AI systems—they 
+are prerequisites for scaled investment and enterprise adoption. Organizations will only commit 
+significant resources to AI implementation when they can trust systems to perform reliably 
+across diverse operating conditions. Alignment research directly addresses these requirements 
+by developing techniques to ensure AI systems behave as intended even as they become more 
+capable and autonomous. 
+The concept of "defensive acceleration" is critical here: investing in differentiated AI capabilities 
+like superior alignment is not merely defensive but represents a strategic advantage. U.S. 
+leadership in AI alignment research will create cascading competitive advantages throughout 
+the AI supply chain, as systems with superior reliability and alignment characteristics will be 
+required for many applications. 
+Perhaps most significantly, science itself will be massively accelerated with reliable AI systems. 
+AI can dramatically increase the pace of scientific discovery when researchers can trust its 
+outputs and analysis, justifying a significant reallocation of NSF budget funds from other 
+priorities to AI alignment and cooperation. This represents an investment multiplier effect, as 
+improvements in AI alignment will accelerate progress across virtually all scientific domains. 
+This economic imperative is reinforced by international developments. The European Union has 
+positioned "excellence and trust" as twin pillars of its AI strategy [4]. Similarly, China has 
+emphasized creating AI that is "safe, reliable, controllable and equitable" in its national strategy 
+[5]. For the United States to maintain economic competitiveness in AI, exceeding these 
+investments in alignment and cooperative AI is essential—not only to create better AI systems 
+but also to shape global norms and standards that align with American values and interests. 
+This approach addresses concerns raised by industry stakeholders about maintaining American 
+competitiveness and fostering innovation. Unlike restrictive regulations that could hamper 
+progress, investing in alignment research enhances the usability, reliability, and trustworthiness 
+of AI systems—qualities that will accelerate adoption and economic benefits. As many industry 
+groups have emphasized, America's AI leadership depends on creating an environment where 
+innovation flourishes. By funding fundamental research in alignment and cooperative AI, we 
+create the technical foundation for both innovation and safety, addressing legitimate concerns 
+without imposing unnecessary burdens on developers. 
+Public Good Research Justification 
+Market incentives alone are likely to underinvest in alignment research for several reasons: 1.The benefits are widely distributed across the entire AI ecosystem
+
+
+2.Commercial timelines may prioritize short-term capabilities over long-term safety
+3.The most critical alignment challenges affect advanced systems that are still in
+development
+This classic public goods problem justifies government funding of foundational alignment 
+research. We already have strong evidence that such investments yield tremendous returns. 
+Several key results from AI alignment research have proven crucial to unlocking economic value 
+and U.S. leadership: 
+●Reinforcement Learning from Human Feedback (RLHF): Building on rich
+antecedents in the academic research, RLHF [6] has become the industry standard for
+aligning large language models with human preferences, enabling systems like ChatGPT
+that have created billions of dollars in economic value.●Constitutional AI: Research into automated AI alignment techniques like Constitutional
+AI [7] has enabled more reliable and useful AI assistants like Claude, providing robust
+frameworks for encoding human values and preventing harmful outputs.●Mechanistic Interpretability: Advances in understanding model internals have
+improved debugging, enhanced security, and enabled more targeted model
+improvements. Specific breakthroughs include circuit analysis in models [8], identification
+of factual knowledge in language models [9], and techniques for detecting hidden
+capabilities or deceptive behavior in models [10].●Cooperative AI: Research on multi-agent systems that can effectively collaborate with
+humans and other AI systems, addressing challenges in areas like communication
+protocols and alignment of incentives [11]
+These examples demonstrate how alignment research directly enhances capabilities rather than 
+constraining them. They represent cases where the technical foundations laid by public 
+research enabled dramatic commercial innovations. 
+Research Priority Areas 
+To maintain U.S. leadership in AI alignment and cooperative AI, I recommend prioritizing the 
+following research areas: 
+1.Advanced Interpretability and Explainability: Developing techniques to understand
+the internal functioning of increasingly complex AI systems, enabling more effective
+oversight and targeted improvements. This aligns with what NSF has identified as
+"critically important to further advance our understanding of AI, including aspects of
+transparency, security, and control" [12].2.Scalable Oversight Methods: Creating techniques that allow meaningful human
+oversight of AI systems as they become more complex and operate at greater speeds.
+This addresses the fundamental challenge of ensuring AI remains under human control,
+a concern shared globally.
+
+
+3.Robustness Against Adversarial Attacks: Strengthening AI systems against both
+intentional manipulation and unintentional distribution shifts, a key component of the
+science of understanding AI that enables us to anticipate and prevent failures.
+4.Long-term Alignment Challenges: Research addressing the technical challenges of
+ensuring increasingly capable systems remain aligned with human values and intentions,
+ensuring that as AI models become more autonomous, their objectives and behaviors
+remain consistent with the ethical, factual, and safety expectations set by humans.5.Tamper-Resistant Training: Developing methods that ensure advanced AI systems
+cannot be easily modified to remove safety constraints while still enabling valuable
+research with open models. For example, Circuit Breakers [13] is an innovative
+technique to make open weight systems resistant to fine-tuning attacks.6.Cooperative AI Systems: Designing AI that can work effectively in teams with humans
+and other AI systems, follow our instructions in spirit, negotiate and resolve conflicts, and
+generally behave as reliable partners to humanity and work well together to further our
+ends while mitigating negative externalities. This emerging discipline focuses on AI that
+can engage in collaborative problem-solving rather than purely competitive or black-box
+behaviors.
+Policy Recommendations 
+Funding Mechanisms 
+1.Dedicated AI Alignment and Cooperative AI Research Program: Establish a
+dedicated program within NSF specifically for AI alignment and cooperative AI research,
+with a significant budget allocation (recommended minimum: $2 billion annually). This
+represents an appropriate scale of investment given the foundational importance of this
+research to AI progress and safety.2.Multi-Agency Coordination: Create an interagency working group to coordinate
+alignment and cooperative AI research across NSF, DARPA, DOE, and other relevant
+agencies.3.Public-Private Matching Grants: Implement matching grant programs where
+government funding is paired with private sector contributions, incentivizing industry
+investment in alignment and cooperative AI research.4.Diverse Research Ecosystem: Ensure funding is distributed across leading
+universities, independent research organizations (such as non-profits focused on AI
+safety), and open-source development communities. This diversity of approaches is
+crucial for tackling the multi-faceted challenges of alignment.
+Research Infrastructure 
+1.National Research Computing Infrastructure: Significantly expand investment in the
+National Artificial Intelligence Research Resource (NAIRR) program, prioritizing access
+for alignment and cooperative AI research during the pilot phase and accelerating its
+
+
+scaling. Given the compute-intensive nature of modern AI research, dedicated 
+computing allocations are essential for experiments requiring large-scale models [14] 
+2.Data Resources for Evaluation: Develop standardized benchmark datasets and
+evaluation frameworks for assessing progress in alignment and cooperative AI research,
+in collaboration with the US AI Safety Institute.3.Coordination with AI Safety Institute: Establish formal feedback channels between the
+U.S. AI Safety Institute and research funding agencies to ensure that industry learnings
+about emerging risks and challenges directly inform research priorities.
+Education and Workforce Development 
+1.AI Alignment Curriculum Development: Fund the development of educational
+materials on AI alignment and cooperative AI for undergraduate and graduate programs.
+2.Fellowships and Scholarships: Create dedicated fellowship programs for students
+pursuing research in AI alignment and cooperative AI.
+3.Industry-Academic Rotations: Facilitate researcher exchanges between industry and
+academia to cross-pollinate ideas and approaches.
+Complementary to Broader AI Policy Priorities 
+It is important to recognize that investment in AI alignment and cooperative AI research should 
+complement, not replace, other important policy priorities. Many RFI respondents have rightfully 
+highlighted concerns about algorithmic bias, privacy, labor displacement, and other immediate 
+impacts of AI systems. These issues deserve serious attention and should be addressed 
+through appropriate policy mechanisms. 
+The research agenda proposed here is complementary with efforts to address these concerns. 
+Improved interpretability techniques, for example, can help detect and mitigate bias in AI 
+systems. Better cooperative AI approaches can enable more equitable human-AI collaboration 
+that preserves human agency and enhances worker productivity rather than displacing jobs. 
+And as suggested by several respondents, including advocates for near-term AI ethics, 
+addressing both current and future risks is essential for fostering public trust in AI technologies. 
+Furthermore, the technical foundations developed through alignment and cooperative AI 
+research will provide the tools and insights needed for effective governance as AI systems 
+continue to advance. Rather than implementing premature regulatory measures based on 
+incomplete understanding of AI systems, this research-first approach creates the knowledge 
+base that can inform targeted, effective policy interventions when necessary. 
+In reviewing the diverse perspectives submitted to this RFI, I recognize that stakeholders have 
+proposed a wide range of approaches to AI governance. Some emphasize immediate regulatory 
+interventions, including mandatory "off-switches" or strict controls on frontier AI development. 
+Others caution against overemphasizing speculative risks and advocate for light-touch 
+frameworks that prioritize innovation and competitiveness. Industry associations have largely 
+
+
+favored voluntary standards and self-regulation, while civil society organizations often prioritize 
+addressing current harms like algorithmic bias and privacy concerns. 
+This response acknowledges these varying perspectives while advocating for a balanced 
+approach: targeted government investment in AI alignment and cooperative AI research 
+represents a prudent middle path. Rather than imposing heavy-handed regulation that could 
+stifle innovation or dismissing legitimate concerns about increasingly capable AI systems, 
+building US research capacity to understand and control AI is the right focus for government 
+investment now. 
+By strengthening our scientific understanding of AI systems and developing techniques to 
+ensure their reliability, we create the foundation for both innovation and safety. This approach 
+addresses concerns raised by companies like Anthropic in their response to this RFI about the 
+development timeline for powerful AI systems, without resorting to the more restrictive measures 
+suggested by organizations like the Future of Life Institute in their response, where there is not 
+yet evidence of near term risks that warrant such restrictions. 
+I also support expanding investment in the AI Safety Institute and NIST more broadly to build 
+skills in government, to support sensitive AI considerations that impact national security, and to 
+provide measurement and coordination. I believe that these efforts are important and deserving 
+of more funding but there is a major and critical cap in funding AI research for alignment and 
+coordination that should be a top priority for the NSF AI Action Plan. 
+International Context and Strategic Implications 
+The United States is not alone in recognizing the importance of AI safety, alignment, and 
+interpretability. Both allies and competitors are making substantial investments in these areas: 
+The European Union  has positioned "excellence and trust" as twin pillars of its AI strategy, 
+finalizing a comprehensive AI Act that imposes strict safety and transparency requirements on 
+high-risk AI applications [4]. European research consortia are actively advancing explainable AI 
+methods, bias reduction, and validation techniques under the banner of "Trustworthy AI." 
+Meanwhile, China has announced bold plans to be the global leader in AI by 2030, emphasizing 
+building AI that is "safe, reliable, and controllable" [5]. This has led to significant 
+government-backed research in AI robustness and new regulations on algorithmic transparency 
+and generative AI oversight. China's Global AI Governance Initiative and AI Safety Governance 
+Framework mirror Western principles, calling for safety, transparency, and accountability in AI 
+development. 
+For the United States to maintain technological leadership and shape global norms, we must not 
+only match but exceed these international efforts. By leveraging our strengths—world-class 
+universities, thriving private-sector AI labs, and institutions like NSF—we can lead in AI 
+alignment and cooperative AI while establishing standards that reflect democratic values. 
+
+
+Conclusion: Building Bridges Through Research 
+Investment 
+Investment in AI alignment and cooperative AI research represents a strategic opportunity to 
+enhance U.S. leadership in artificial intelligence while addressing legitimate safety concerns 
+without imposing burdensome regulations. By creating the technical foundations for reliable, 
+trustworthy AI systems, such research will accelerate rather than constrain innovation. 
+The recent examples of RLHF, constitutional AI, mechanistic interpretability, and cooperative AI 
+demonstrate how this research directly contributes to capabilities and economic value. A 
+significant allocation of resources to this area—on the order of billions of dollars annually 
+through both direct funding and computing resources—would yield tremendous returns through 
+both direct advances in AI technology and indirect acceleration of scientific progress across 
+domains. 
+Building upon existing NSF initiatives like the National AI Research Institutes, NAIRR, and 
+coordination with the AI Safety Institute, we can establish a comprehensive national strategy for 
+AI alignment and cooperative AI research. This approach will not only protect our society from 
+AI-related risks but also position the United States to lead by example—demonstrating that 
+cutting-edge AI innovation can go hand-in-hand with robust safety measures. 
+This research-focused approach addresses concerns from across the spectrum of perspectives 
+represented in RFI responses. For those concerned about potential risks from advanced AI 
+systems, it provides concrete mechanisms to understand and mitigate those risks. For industry 
+stakeholders prioritizing innovation and competitiveness, it builds the foundation for more 
+capable, reliable AI that can be deployed with confidence. And for those focused on near-term 
+impacts, it develops tools that can help address current challenges while preparing for future 
+advances. 
+The United States has an opportunity to lead the world in establishing not just the most 
+advanced AI capabilities, but also the most reliable, trustworthy, and beneficial systems. This 
+leadership position will create cascading advantages throughout our economy and society while 
+fostering international partnerships that advance AI for human flourishing. 
+I appreciate the opportunity to provide this input to the AI Action Plan and would welcome 
+further discussion on these recommendations. 
+Respectfully submitted, Ron Bodkin  
+Founder and CEO, ChainML 
+
+
+References 
+[1] Ji, J., Qiu, T., Chen, B., Zhang, B., Lou, H., Wang, K., ... & Gao, W. (2023). Ai alignment: A 
+comprehensive survey. arXiv preprint arXiv:2310.19852.  
+[2] Dafoe A, Bachrach Y, Hadfield G, Horvitz E, Larson K, Graepel T (2021). Cooperative AI: 
+machines must learn to find common ground. Nature; 593(7857):33-36. 
+[3] Department of Homeland Security. (2024). Department of Homeland Security Report on 
+Reducing the Risks at the Intersection of Artificial Intelligence and Chemical, Biological, 
+Radiological, and Nuclear Threats. 
+https://www.dhs.gov/sites/default/files/2024-06/24_0620_cwmd-dhs-cbrn-ai-eo-report-04262024
+-public-release.pdf   
+[4] European Commission. (2024). European approach to artificial intelligence. 
+https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence 
+ 
+[5] Ministry of Foreign Affairs The People’s Republic of China (2023) Global AI Governance 
+Initiative https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11332389.html  
+ 
+[6] Ziegler, D. M., Stiennon, N., Wu, J., Brown, T. B., Radford, A., Amodei, D., ... & Irving, G. 
+(2019). Fine-tuning language models from human preferences. arXiv preprint arXiv:1909.08593. 
+ 
+[7] Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., Chen, A., Goldie, A., 
+Mirhoseini, A., McKinnon, C., Chen, C., Olsson, C., Olah, C., Hernandez, D., Drain, D., Ganguli, 
+D., Li, D., Tran-Johnson, E., Perez, E., ... & Irving, G. (2022). Constitutional AI: Harmlessness 
+from AI Feedback. arXiv preprint arXiv:2212.08073. 
+ 
+[8] Olah, C., Cammarata, N., Schubert, L., Goh, G., Petrov, M., & Carter, S. (2020). Zoom in: An 
+introduction to circuits. Distill, 5(3), e00024. 
+ 
+[9] Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2022). Locating and editing factual 
+knowledge in GPT. arXiv preprint arXiv:2202.05262. 
+ [10] Zou, A., Phan, L., Chen, S., Campbell, J., Guo, P., Ren, R., ... & Hendrycks, D. (2023). 
+Representation engineering: A top-down approach to ai transparency. arXiv preprint 
+arXiv:2310.01405. 
+ 
+[11] Carroll, M., Shah, R., Ho, M. K., Griffiths, T., Seshia, S., Abbeel, P., & Dragan, A. (2019). On 
+the utility of learning about humans for human-AI coordination. Advances in Neural Information 
+Processing Systems, 32. 
+ 
+[12] National Science Foundation (2023). NSF 23-610: National Artificial Intelligence (AI) 
+Research Institutes Program Solicitation. 
+
+
+ 
+[13] Zou, A., Phan, L., Wang, J., Duenas, D., Lin, M., Andriushchenko, M., ... & Hendrycks, D. 
+(2024). Improving alignment and robustness with circuit breakers. The Thirty-eighth Annual 
+Conference on Neural Information Processing Systems. 
+ 
+[14] National Science Foundation (2024). National Artificial Intelligence Research Resource 
+Pilot. https://www.nsf.gov/focus-areas/artificial-intelligence/nairr 
+ 
+ 
+
+
+Response to Request for Information: 
+Development of an Artificial Intelligence 
+(AI) Action Plan 
+Respondent Information 
+Name: Ron Bodkin  
+Title: Founder and CEO  
+Organization: ChainML 
+This document is approved for public dissemination. The document contains no 
+business-proprietary or confidential information. Document contents may be reused by the 
+government in developing the AI Action Plan and associated documents without attribution.
+Introduction 
+As the Founder and CEO of ChainML, which develops Theoriq - an Artificial Intelligence (AI) 
+agent swarm protocol enabling the agentic economy, I am pleased to submit this response to 
+the Request for Information regarding the Development of an Artificial Intelligence Action Plan. I 
+bring perspectives from multiple leadership roles across the AI ecosystem: previously serving as 
+VP of AI Engineering and CIO at Vector Institute where I grew the technology team to 30 people 
+and supported 500 researchers with computing infrastructure and engineering; leading Applied 
+AI and Responsible AI efforts in the Google Cloud CTO office where I spearheaded 
+collaborative innovation efforts with strategic customers and Google AI research and product 
+teams; founding CEO of enterprise AI/ML startup Think Big Analytics (acquired by Teradata); VP 
+Engineering at Quantcast leading data science and engineering teams applying AI for real-time 
+advertising; and Co-Founder and CTO of C-Bridge Internet Solutions. My educational 
+background includes an honors B.S. in Math and Computer Science from McGill University and 
+a Master's in Computer Science from MIT. 
+This response focuses on the critical importance of prioritizing AI alignment and control 
+research as a foundational element of the AI Action Plan. This recommendation directly 
+supports the stated goals of sustaining and enhancing America's AI dominance while avoiding 
+unnecessarily burdensome regulations. Rather than restricting private sector innovation, 
+investment in alignment research will accelerate it by building the technical foundations that 
+enable safe, reliable, and trustworthy AI systems at scale. 
+Defining AI Alignment and Cooperative AI Research 1 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+AI alignment research focuses on ensuring that AI systems reliably pursue the goals and values 
+intended by their creators, even as they become more capable and potentially autonomous. 
+This includes developing techniques to make AI systems interpretable, robust to distribution 
+shifts, resistant to adversarial manipulation, and aligned with human preferences and values [1]. 
+Cooperative AI, a related research area, focuses on developing AI systems that can effectively 
+cooperate with humans and other AI systems, addressing challenges like coordination, 
+communication, and negotiation in mixed human-AI environments [2]. As AI agents are 
+increasingly deployed in the economy, the dynamics of AI interactions and mechanisms to 
+ensure effective collaboration and avoid perverse incentives will be of great importance. 
+Together, these research directions form a crucial foundation for ensuring that increasingly 
+powerful AI systems remain beneficial, controllable, and safe. 
+AI Alignment and Cooperative AI Research: A Strategic 
+Priority for U.S. Leadership 
+National Security and Innovation Leadership 
+AI alignment and cooperative AI research represent critical infrastructure for maintaining U.S. 
+leadership in artificial intelligence. As AI systems become more capable and autonomous, 
+ensuring they reliably pursue intended goals becomes increasingly important. Alignment failures 
+in critical systems could create significant national security vulnerabilities as well as limit 
+economic opportunity from scaling deployment. Conversely, strong alignment capabilities create 
+competitive advantages for US AI systems in global markets. 
+Of particular importance is research into tamper-resistant training methods that allow for the 
+safe release of powerful open-source models even in the face of fine-tuning by adversaries. 
+Such methods can mitigate risks of abuse—such as CBRN (Chemical, Biological, Radiological, 
+Nuclear) attacks [3] or use by adversaries for military applications—while still enabling the 
+vibrant research ecosystem that has been instrumental to American AI leadership. This balance 
+represents a nuanced approach that promotes innovation while addressing legitimate security 
+concerns. 
+This approach aligns with existing NSF initiatives such as the National AI Research Institutes 
+program, which has already established centers focused on trustworthy AI to ensure systems 
+are "safe, secure, fair, transparent and accountable." By strengthening our focus on alignment 
+and cooperative AI, we can build upon this foundation to ensure the United States leads not 
+only in AI capabilities but also in AI safety—a strategic necessity in the global AI landscape 
+where other nations are rapidly advancing their own AI governance frameworks. 
+As noted by several RFI respondents, including Anthropic, advanced AI systems with 
+capabilities exceeding human experts in most disciplines are likely to emerge within a decade. 
+Rather than imposing preemptive restrictions that could hamper innovation, as some have 2 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+suggested, investing in alignment and cooperative AI research provides the scientific foundation 
+needed to develop these systems responsibly while maintaining American leadership. 
+Economic Competitiveness 
+Reliability, trustworthiness, and accuracy are not merely desirable features of AI systems—they 
+are prerequisites for scaled investment and enterprise adoption. Organizations will only commit 
+significant resources to AI implementation when they can trust systems to perform reliably 
+across diverse operating conditions. Alignment research directly addresses these requirements 
+by developing techniques to ensure AI systems behave as intended even as they become more 
+capable and autonomous. 
+The concept of "defensive acceleration" is critical here: investing in differentiated AI capabilities 
+like superior alignment is not merely defensive but represents a strategic advantage. U.S. 
+leadership in AI alignment research will create cascading competitive advantages throughout 
+the AI supply chain, as systems with superior reliability and alignment characteristics will be 
+required for many applications. 
+Perhaps most significantly, science itself will be massively accelerated with reliable AI systems. 
+AI can dramatically increase the pace of scientific discovery when researchers can trust its 
+outputs and analysis, justifying a significant reallocation of NSF budget funds from other 
+priorities to AI alignment and cooperation. This represents an investment multiplier effect, as 
+improvements in AI alignment will accelerate progress across virtually all scientific domains. 
+This economic imperative is reinforced by international developments. The European Union has 
+positioned "excellence and trust" as twin pillars of its AI strategy [4]. Similarly, China has 
+emphasized creating AI that is "safe, reliable, controllable and equitable" in its national strategy 
+[5]. For the United States to maintain economic competitiveness in AI, exceeding these 
+investments in alignment and cooperative AI is essential—not only to create better AI systems 
+but also to shape global norms and standards that align with American values and interests. 
+This approach addresses concerns raised by industry stakeholders about maintaining American 
+competitiveness and fostering innovation. Unlike restrictive regulations that could hamper 
+progress, investing in alignment research enhances the usability, reliability, and trustworthiness 
+of AI systems—qualities that will accelerate adoption and economic benefits. As many industry 
+groups have emphasized, America's AI leadership depends on creating an environment where 
+innovation flourishes. By funding fundamental research in alignment and cooperative AI, we 
+create the technical foundation for both innovation and safety, addressing legitimate concerns 
+without imposing unnecessary burdens on developers. 
+Public Good Research Justification 
+Market incentives alone are likely to underinvest in alignment research for several reasons: 1. The benefits are widely distributed across the entire AI ecosystem 
+3 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+2. Commercial timelines may prioritize short-term capabilities over long-term safety 
+3. The most critical alignment challenges affect advanced systems that are still in 
+development 
+This classic public goods problem justifies government funding of foundational alignment 
+research. We already have strong evidence that such investments yield tremendous returns. 
+Several key results from AI alignment research have proven crucial to unlocking economic value 
+and U.S. leadership: 
+● Reinforcement Learning from Human Feedback (RLHF): Building on rich 
+antecedents in the academic research, RLHF [6] has become the industry standard for 
+aligning large language models with human preferences, enabling systems like ChatGPT 
+that have created billions of dollars in economic value. ● Constitutional AI: Research into automated AI alignment techniques like Constitutional 
+AI [7] has enabled more reliable and useful AI assistants like Claude, providing robust 
+frameworks for encoding human values and preventing harmful outputs. ● Mechanistic Interpretability: Advances in understanding model internals have 
+improved debugging, enhanced security, and enabled more targeted model 
+improvements. Specific breakthroughs include circuit analysis in models [8], identification 
+of factual knowledge in language models [9], and techniques for detecting hidden 
+capabilities or deceptive behavior in models [10]. ● Cooperative AI: Research on multi-agent systems that can effectively collaborate with 
+humans and other AI systems, addressing challenges in areas like communication 
+protocols and alignment of incentives [11] 
+These examples demonstrate how alignment research directly enhances capabilities rather than 
+constraining them. They represent cases where the technical foundations laid by public 
+research enabled dramatic commercial innovations. 
+Research Priority Areas 
+To maintain U.S. leadership in AI alignment and cooperative AI, I recommend prioritizing the 
+following research areas: 
+1. Advanced Interpretability and Explainability: Developing techniques to understand 
+the internal functioning of increasingly complex AI systems, enabling more effective 
+oversight and targeted improvements. This aligns with what NSF has identified as 
+"critically important to further advance our understanding of AI, including aspects of 
+transparency, security, and control" [12]. 2. Scalable Oversight Methods: Creating techniques that allow meaningful human 
+oversight of AI systems as they become more complex and operate at greater speeds. 
+This addresses the fundamental challenge of ensuring AI remains under human control, 
+a concern shared globally. 
+4 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+3. Robustness Against Adversarial Attacks: Strengthening AI systems against both 
+intentional manipulation and unintentional distribution shifts, a key component of the 
+science of understanding AI that enables us to anticipate and prevent failures. 
+4. Long-term Alignment Challenges: Research addressing the technical challenges of 
+ensuring increasingly capable systems remain aligned with human values and intentions, 
+ensuring that as AI models become more autonomous, their objectives and behaviors 
+remain consistent with the ethical, factual, and safety expectations set by humans. 5. Tamper-Resistant Training: Developing methods that ensure advanced AI systems 
+cannot be easily modified to remove safety constraints while still enabling valuable 
+research with open models. For example, Circuit Breakers [13] is an innovative 
+technique to make open weight systems resistant to fine-tuning attacks. 6. Cooperative AI Systems: Designing AI that can work effectively in teams with humans 
+and other AI systems, follow our instructions in spirit, negotiate and resolve conflicts, and 
+generally behave as reliable partners to humanity and work well together to further our 
+ends while mitigating negative externalities. This emerging discipline focuses on AI that 
+can engage in collaborative problem-solving rather than purely competitive or black-box 
+behaviors. 
+Policy Recommendations 
+Funding Mechanisms 
+1. Dedicated AI Alignment and Cooperative AI Research Program: Establish a 
+dedicated program within NSF specifically for AI alignment and cooperative AI research, 
+with a significant budget allocation (recommended minimum: $2 billion annually). This 
+represents an appropriate scale of investment given the foundational importance of this 
+research to AI progress and safety. 2. Multi-Agency Coordination: Create an interagency working group to coordinate 
+alignment and cooperative AI research across NSF, DARPA, DOE, and other relevant 
+agencies. 3. Public-Private Matching Grants: Implement matching grant programs where 
+government funding is paired with private sector contributions, incentivizing industry 
+investment in alignment and cooperative AI research. 4. Diverse Research Ecosystem: Ensure funding is distributed across leading 
+universities, independent research organizations (such as non-profits focused on AI 
+safety), and open-source development communities. This diversity of approaches is 
+crucial for tackling the multi-faceted challenges of alignment. 
+Research Infrastructure 
+1. National Research Computing Infrastructure: Significantly expand investment in the 
+National Artificial Intelligence Research Resource (NAIRR) program, prioritizing access 
+for alignment and cooperative AI research during the pilot phase and accelerating its 
+5 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+scaling. Given the compute-intensive nature of modern AI research, dedicated 
+computing allocations are essential for experiments requiring large-scale models [14] 
+2.Data Resources for Evaluation: Develop standardized benchmark datasets and
+evaluation frameworks for assessing progress in alignment and cooperative AI research,
+in collaboration with the US AI Safety Institute.3.Coordination with AI Safety Institute: Establish formal feedback channels between the
+U.S. AI Safety Institute and research funding agencies to ensure that industry learnings
+about emerging risks and challenges directly inform research priorities.
+Education and Workforce Development 
+1.AI Alignment Curriculum Development: Fund the development of educational
+materials on AI alignment and cooperative AI for undergraduate and graduate programs.
+2.Fellowships and Scholarships: Create dedicated fellowship programs for students
+pursuing research in AI alignment and cooperative AI.
+3.Industry-Academic Rotations: Facilitate researcher exchanges between industry and
+academia to cross-pollinate ideas and approaches.
+Complementary to Broader AI Policy Priorities 
+It is important to recognize that investment in AI alignment and cooperative AI research should 
+complement, not replace, other important policy priorities. Many RFI respondents have rightfully 
+highlighted concerns about algorithmic bias, privacy, labor displacement, and other immediate 
+impacts of AI systems. These issues deserve serious attention and should be addressed 
+through appropriate policy mechanisms. 
+The research agenda proposed here is complementary with efforts to address these concerns. 
+Improved interpretability techniques, for example, can help detect and mitigate bias in AI 
+systems. Better cooperative AI approaches can enable more equitable human-AI collaboration 
+that preserves human agency and enhances worker productivity rather than displacing jobs. 
+And as suggested by several respondents, including advocates for near-term AI ethics, 
+addressing both current and future risks is essential for fostering public trust in AI technologies. 
+Furthermore, the technical foundations developed through alignment and cooperative AI 
+research will provide the tools and insights needed for effective governance as AI systems 
+continue to advance. Rather than implementing premature regulatory measures based on 
+incomplete understanding of AI systems, this research-first approach creates the knowledge 
+base that can inform targeted, effective policy interventions when necessary. 
+In reviewing the diverse perspectives submitted to this RFI, I recognize that stakeholders have 
+proposed a wide range of approaches to AI governance. Some emphasize immediate regulatory 
+interventions, including mandatory "off-switches" or strict controls on frontier AI development. 
+Others caution against overemphasizing speculative risks and advocate for light-touch 
+frameworks that prioritize innovation and competitiveness. Industry associations have largely 6 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+favored voluntary standards and self-regulation, while civil society organizations often prioritize 
+addressing current harms like algorithmic bias and privacy concerns. 
+This response acknowledges these varying perspectives while advocating for a balanced 
+approach: targeted government investment in AI alignment and cooperative AI research 
+represents a prudent middle path. Rather than imposing heavy-handed regulation that could 
+stifle innovation or dismissing legitimate concerns about increasingly capable AI systems, 
+building US research capacity to understand and control AI is the right focus for government 
+investment now. 
+By strengthening our scientific understanding of AI systems and developing techniques to 
+ensure their reliability, we create the foundation for both innovation and safety. This approach 
+addresses concerns raised by companies like Anthropic in their response to this RFI about the 
+development timeline for powerful AI systems, without resorting to the more restrictive measures 
+suggested by organizations like the Future of Life Institute in their response, where there is not 
+yet evidence of near term risks that warrant such restrictions. 
+I also support expanding investment in the AI Safety Institute and NIST more broadly to build 
+skills in government, to support sensitive AI considerations that impact national security, and to 
+provide measurement and coordination. I believe that these efforts are important and deserving 
+of more funding but there is a major and critical cap in funding AI research for alignment and 
+coordination that should be a top priority for the NSF AI Action Plan. 
+International Context and Strategic Implications 
+The United States is not alone in recognizing the importance of AI safety, alignment, and 
+interpretability. Both allies and competitors are making substantial investments in these areas: 
+The European Union  has positioned "excellence and trust" as twin pillars of its AI strategy, 
+finalizing a comprehensive AI Act that imposes strict safety and transparency requirements on 
+high-risk AI applications [4]. European research consortia are actively advancing explainable AI 
+methods, bias reduction, and validation techniques under the banner of "Trustworthy AI." 
+Meanwhile, China has announced bold plans to be the global leader in AI by 2030, emphasizing 
+building AI that is "safe, reliable, and controllable" [5]. This has led to significant 
+government-backed research in AI robustness and new regulations on algorithmic transparency 
+and generative AI oversight. China's Global AI Governance Initiative and AI Safety Governance 
+Framework mirror Western principles, calling for safety, transparency, and accountability in AI 
+development. 
+For the United States to maintain technological leadership and shape global norms, we must not 
+only match but exceed these international efforts. By leveraging our strengths—world-class 
+universities, thriving private-sector AI labs, and institutions like NSF—we can lead in AI 
+alignment and cooperative AI while establishing standards that reflect democratic values. 7 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+Conclusion: Building Bridges Through Research 
+Investment 
+Investment in AI alignment and cooperative AI research represents a strategic opportunity to 
+enhance U.S. leadership in artificial intelligence while addressing legitimate safety concerns 
+without imposing burdensome regulations. By creating the technical foundations for reliable, 
+trustworthy AI systems, such research will accelerate rather than constrain innovation. 
+The recent examples of RLHF, constitutional AI, mechanistic interpretability, and cooperative AI 
+demonstrate how this research directly contributes to capabilities and economic value. A 
+significant allocation of resources to this area—on the order of billions of dollars annually 
+through both direct funding and computing resources—would yield tremendous returns through 
+both direct advances in AI technology and indirect acceleration of scientific progress across 
+domains. 
+Building upon existing NSF initiatives like the National AI Research Institutes, NAIRR, and 
+coordination with the AI Safety Institute, we can establish a comprehensive national strategy for 
+AI alignment and cooperative AI research. This approach will not only protect our society from 
+AI-related risks but also position the United States to lead by example—demonstrating that 
+cutting-edge AI innovation can go hand-in-hand with robust safety measures. 
+This research-focused approach addresses concerns from across the spectrum of perspectives 
+represented in RFI responses. For those concerned about potential risks from advanced AI 
+systems, it provides concrete mechanisms to understand and mitigate those risks. For industry 
+stakeholders prioritizing innovation and competitiveness, it builds the foundation for more 
+capable, reliable AI that can be deployed with confidence. And for those focused on near-term 
+impacts, it develops tools that can help address current challenges while preparing for future 
+advances. 
+The United States has an opportunity to lead the world in establishing not just the most 
+advanced AI capabilities, but also the most reliable, trustworthy, and beneficial systems. This 
+leadership position will create cascading advantages throughout our economy and society while 
+fostering international partnerships that advance AI for human flourishing. 
+I appreciate the opportunity to provide this input to the AI Action Plan and would welcome 
+further discussion on these recommendations. 
+Respectfully submitted, Ron Bodkin  
+Founder and CEO, ChainML 
+8 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+References 
+[1] Ji, J., Qiu, T., Chen, B., Zhang, B., Lou, H., Wang, K., ... & Gao, W. (2023). Ai alignment: A 
+comprehensive survey. arXiv preprint arXiv:2310.19852.  
+[2] Dafoe A, Bachrach Y, Hadfield G, Horvitz E, Larson K, Graepel T (2021). Cooperative AI: 
+machines must learn to find common ground. Nature; 593(7857):33-36. 
+[3] Department of Homeland Security. (2024). Department of Homeland Security Report on 
+Reducing the Risks at the Intersection of Artificial Intelligence and Chemical, Biological, 
+Radiological, and Nuclear Threats. 
+https://www.dhs.gov/sites/default/files/2024-06/24_0620_cwmd-dhs-cbrn-ai-eo-report-04262024
+-public-release.pdf   
+[4] European Commission. (2024). European approach to artificial intelligence. 
+https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence 
+ 
+[5] Ministry of Foreign Affairs The People’s Republic of China (2023) Global AI Governance 
+Initiative https://www.fmprc.gov.cn/eng/xw/zyxw/202405/t20240530_11332389.html  
+ 
+[6] Ziegler, D. M., Stiennon, N., Wu, J., Brown, T. B., Radford, A., Amodei, D., ... & Irving, G. 
+(2019). Fine-tuning language models from human preferences. arXiv preprint arXiv:1909.08593. 
+ 
+[7] Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., Chen, A., Goldie, A., 
+Mirhoseini, A., McKinnon, C., Chen, C., Olsson, C., Olah, C., Hernandez, D., Drain, D., Ganguli, 
+D., Li, D., Tran-Johnson, E., Perez, E., ... & Irving, G. (2022). Constitutional AI: Harmlessness 
+from AI Feedback. arXiv preprint arXiv:2212.08073. 
+ 
+[8] Olah, C., Cammarata, N., Schubert, L., Goh, G., Petrov, M., & Carter, S. (2020). Zoom in: An 
+introduction to circuits. Distill, 5(3), e00024. 
+ 
+[9] Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2022). Locating and editing factual 
+knowledge in GPT. arXiv preprint arXiv:2202.05262. 
+ [10] Zou, A., Phan, L., Chen, S., Campbell, J., Guo, P., Ren, R., ... & Hendrycks, D. (2023). 
+Representation engineering: A top-down approach to ai transparency. arXiv preprint 
+arXiv:2310.01405. 
+ 
+[11] Carroll, M., Shah, R., Ho, M. K., Griffiths, T., Seshia, S., Abbeel, P., & Dragan, A. (2019). On 
+the utility of learning about humans for human-AI coordination. Advances in Neural Information 
+Processing Systems, 32. 
+ 
+[12] National Science Foundation (2023). NSF 23-610: National Artificial Intelligence (AI) 
+Research Institutes Program Solicitation. 
+9 
+
+
+Ron Bodkin Input on NSF AI Action Plan 
+ 
+[13] Zou, A., Phan, L., Wang, J., Duenas, D., Lin, M., Andriushchenko, M., ... & Hendrycks, D. 
+(2024). Improving alignment and robustness with circuit breakers. The Thirty-eighth Annual 
+Conference on Neural Information Processing Systems. 
+ 
+[14] National Science Foundation (2024). National Artificial Intelligence Research Resource 
+Pilot. https://www.nsf.gov/focus-areas/artificial-intelligence/nairr 
+ 
+ 
+10 
+
+

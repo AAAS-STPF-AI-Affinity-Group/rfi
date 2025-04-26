@@ -1,0 +1,523 @@
+1 Before the  
+National Science Foundation  
+Alexandria, VA  
+and the  
+Office of Science and Technology Policy  
+Washington, DC  
+In re  
+REQUEST FOR INFORMATION ON THE 
+DEVELOPMENT OF AN ARTIFICIAL 
+INTELLIGENCE (AI) ACTION PLAN  F.R. Doc. 2025 -02305  
+COMMENTS OF  
+COMPUTER & COMMUNICATIONS INDUSTRY ASSOCIATION  
+The Computer & Communications Industry Association (CCIA)1 submit s the following 
+comments in response to the National Science Foundation ’s February 6, 2025 , Request for 
+Comments  on behalf of the Office of Science and Technology Policy .2   
+CCIA is an international, not -for-profit trade association representing a broad cross 
+section of communications and technology firms. For more than 50 years, CCIA has promoted 
+open markets, open systems, and open networks . CCIA members employ more than 1.6 million 
+workers, invest more than $100 billion in research and development, and contribute trillions of 
+dollars in productivity to the global economy .  
+CCIA members are at the forefront of research and development in technological fields 
+such as artificial intelligence (AI) and machine learning, semiconductor manufacturing , and 
+other computer -related inventions . Many of the key innovations in modern artificial intelligence 
+have stemmed from research done by CCIA members, including the original development of 
+transformer models by Google and the development and open -sourcing of frameworks for deep 
+learning such as Meta’s PyTorch and Google’s TensorFlow . A regulatory environment that 
+enables continued development of these innovations is essential to the continued development of 
+artificial intelligence in the United States.  
+I.Summary
+Policy at the federal level is critical to ensuring that the U.S. continues to lead the world 
+in AI technology . In order to facilitate U.S. leadership, it is critical to take action in a number of 
+arenas ranging from energy policy to export controls to privacy . Key steps that the federal 
+government can take include:  
+1 A list of CCIA members is available online at https://www.ccianet.org/about/members.  
+2 Request for Information on the Development of an Artificial Intelligence (AI) Action Plan, 90 F ed. Reg. 9088 
+(Feb. 6, 2025) . 
+
+
+2 •Ensuring access to sufficient AI infrastructure, including data centers, energy,
+skilled workforce , and hardware.
+•Adopting balanced export control and trade policies that ensure national security
+without overly restricting access to foreign markets.
+•Creating a unified approach to AI policy national ly employing a  risk-based
+approach .
+•Assuring data access, including by strongly supporting fair use in the U.S. and
+similar text and data mining exce ptions around the world.
+•Avoiding the abuse of patents to restrict AI development.
+•Preserving a role for  open source AI models in the ecosystem.
+•Protecting the privacy of Americans without stifling AI development.
+These basic actions, described in more detail below, would help to ensure that the U.S. continues 
+to lead the world in the development and use of artificial intelligence.  
+II.Developing AI Infrastructure
+To foster advancements in artificial intelligence (AI) within the United States, it is 
+essential to implement  federal policies that provide the needed access to infrastructure  and 
+workforce development. These  measures will create an ecosystem conducive to innovation, 
+ensuring that AI technologies can thrive while  maintaining security and fairness.  
+A. Energy access
+The growth of AI heavily depends on reliable energy supplies, particularly for data  
+centers that require substantial electricity  supply  to power advanced computing infrastructure .3 
+Enhancing federal authority over transmission infrastructure will help to reliably support the 
+efficient operation of AI technologies . By granting  greater power to agencies to site and permit 
+interstate  transmission lines, the U.S. would  ensure a reliable energy supply for critical AI 
+infrastructure such as data centers . Streamlining approval processes and , where necessary,  
+utilizing eminent domain can facilitate faster deployment of  these critical facilities . A potential 
+home for this authority would be  the Federal Energy Regulatory Commission (FERC) .4 
+It is also crucial that the federal government prevent states from  hinder ing access to the 
+necessary inputs for data centers . To maintain a uniform legal regime across the country , federal 
+policies must prevent states from enacting  inconsistent or  discriminatory measures that  impose 
+regulatory burdens on data centers. Similarly, e nsuring equal access to economic  incentives will 
+safeguard against undue compliance costs and regulatory barriers to entry , fostering a 
+competitive environment where AI technologies can  flourish without unnecessary obstacles.  
+3 See, e.g. , EPRI, Powering  Intelligence: Analyzing Artificial Intelligence and Data Center Energy Consumption  
+(May 28, 2024), https://www.epri.com/research/products/000000003002028905 .  
+4 See, e.g. , Jay Obernolte, Comments of Congressman Jay Obernolte  Re: Docket Nos. EL25 -20, ER24 -2172, and 
+ER24 -2888 et al  (Dec. 5, 2024), https://elibrary.ferc.gov/eLibrary/docinfo?accession_number=20241209 -4000 .  
+
+
+3 Finally, investment in domestic nuclear power is likely to prove essential to energy 
+access for data centers .5 Domestic nuclear po wer, ranging from traditional large -scale power 
+plants to innovative new technologies such as small modular reactors, offers a reliable and low-
+carbon  energy source vital for data centers. By providing streamlined regulatory processes, tax 
+incentives, and loan  guarantees, the Administration could  encourage the development of this 
+critical energy option, supporting both environmental goals  and AI infrastructure needs . Further, 
+streamlined and consistent regulatory frameworks also make it easier for companies to comply 
+with regulatory requirements, thereby helping to achieve the intended regulatory outcomes.  
+B. Workforce development
+Energy alone cannot operate a data center or develop AI . A skilled workforce is 
+fundamental to sustaining AI advancements . While educational options for AI development are 
+sufficiently well -supported, with computer science programs across the country offering courses 
+of study in artificial intelligence technology, the same is not necessarily true for necessary 
+supporting roles  such as manufacturing and data center technician s. In order to maintain 
+American leadership in AI, we must also invest in world -class training programs for these 
+critical roles.6 
+To provide the necessary pool of trained technicians, a number of strategies are available . 
+Partnerships between educators and industry can help to align curricula with real -world 
+demands, ensuring that students gain relevant skills and providing a pathway to a career . In 
+parallel, in vesting in community colleges and vocational schools  will expand access to training 
+programs for individuals from a variety of backgrounds, building a broader workforce and 
+providing benefits across the entirety of the country . Providing additional financial assistance 
+targeted at these career paths  will also incentivize entry into these jobs while reducing the burden 
+on those who come out of these programs .  
+Additionally, s upport for retraining initiatives can help to mitigate any disruptions to the 
+labor market stemming from increasing use of artificial intelligence . As AI adoption grows, 
+some jobs may be automated . But a t the same time, new opportunities will emerge in fields such 
+as data center operations, AI system maintenance, and cybersecurity . By offering retraining 
+programs tailored to these roles, we can ensure that Americans are not left behind by automation 
+but instead can move into new roles . This approach both supports workforce development and 
+helps those whose lives might be disrupted by the growth of these new technologies.  
+C. Security considerations
+When establishing security requirements for international data centers, it is important to 
+maintain the FedRAMP  moderate level as generally sufficient. This approach balances security 
+with operational efficiency, allowing businesses to  adhere to standards without unnecessary 
+complexity when operating abroad . While it may be appropriate to designate specific countries 
+which require additional security standards due to local conditions , such as geopolitical 
+instability or heightened cyber -crime threats , any such designation should be clear and specific to 
+avoid unnecessary compliance burdens.  
+5 See, e.g. , FTI Consulting, The Powe rful Duo of Nuclear and Data Center s (Feb. 27, 2025), 
+https://www.fticonsulting.com/insights/articles/powerful -duo-nuclear -data-centers .  
+6 See, e.g. , IT Modernization  Centers of Excellence, AI Guide for Government Ch. 4  (2025) , 
+https://coe.gsa.gov/coe/ai -guide -for-government/developing -ai-workforce/index.html . 
+
+
+ 4 In addition, n ew background -check requirements for cloud service provider ( CSP) 
+employees should be designed to avoid undue burdens and costs while  respecting existing multi -
+layered technical controls. This balanced approach ensures data security without  deterring skilled 
+workers, maintaining both security and workforce integrity . Employing risk -based assessments 
+and proportional safeguards for CSP employees will ensure the integrity of AI systems while 
+simultaneously fostering innovation and competition in the market.  
+III. Protecting American Competitiveness Abroad  
+In the rapidly developing landscape of artificial intelligence, it is imperative that the 
+United States adopt a strategic approach to export controls and trade policy . A well -crafted trade 
+policy will allow U.S. companies to access and compete in foreign markets, benefiting American  
+economic and geopolitical interest s while restricting adversary access to critical technologies.  
+A. Maintaining and refining export control policies  
+The U.S. must ensure that its export control policies are robust , adaptive, and effective in 
+preventing adversaries from accessing critical AI technologies , while balancing this with the 
+need to support U.S. companies in their ability to innovate and compete in foreign markets . 
+These policies should be continuously updated to reflect technological advancements and applied 
+consistently across all relevant sectors.  
+One critical need is to modernize the Bureau of Industry and Security . The Bureau needs 
+to be provided with sufficient resources , potentially including utilizing AI systems,  to 
+successfully process licenses, monitor the supply chain and counter attempts to violate export 
+controls . At the same time, a careful implementation of such modernization is needed to avoid 
+creating undue burdens on U.S. businesses . In particular, the processes for obtaining export 
+licenses require streamlining to limit regulatory burden on U.S. exporters . A risk -based approach 
+may be useful in this streamlining , calibrating the level of scrutiny on a given export license 
+request to the level of risk export of the product creates .  
+B. Limit foreign overregulation and non -tariff trade barriers  
+The U.S. must actively engage with foreign governments to oppose excessive restrictions 
+on AI development and innovation. U.S. firms, representing leading capabilities in foundational 
+models, basic research, advanced computing, and end -use tools, are at si gnificant risk of 
+discriminatory treatment. This includes challenging requirements  that hind er innovation and U.S. 
+exports . Such requireme nts can include  excessive pre-deployment testing of AI models, 
+restrictions on cross -border data flows, data localization requirements, forced disclosure of 
+source code and algorithms, unbalanced copyright policy, country -specific technical standards 
+that stifle model deployment, a nd discriminatory treatment of service suppliers . 
+For example, restricting the ability to transfer data between countries restricts the ability 
+of companies to develop and deploy AI services globally. This harms the ability of companies 
+that power the most prominent AI models from creating technologies that work in and reach  new 
+markets, while also undermining the ability of smaller businesses and startups that rely on these 
+companies to build innovative applications and services on top of those AI models to grow to 
+
+
+5 new markets.7 Fostering international dialogue to ensure that regulations are not overly 
+burdensome is essential to American international competitiveness . 
+Further, AI is increasingly integrated and embedded into a broader set of U.S. digital 
+services  in areas such as online search; recommendation algorithms for social media, online 
+streaming, and e -commerce suppliers; and customer service, marketing, and translation, 
+enhancements, to name just a few. The overall state of foreign trade barriers blocking 
+companies’ ability to introduce new AI services, a trend that is already visible in the European 
+Union,8 is becoming more prevalent as AI is built into these other legacy online services.  
+Most urgently, engagement with allies such as the EU  and South Korea  is crucial to 
+shaping beneficial AI policies globally. Via collaborative engagement on issues like the EU’s AI 
+Act, proposed revisions to the ir Digital Markets Act and/or Digital Services Act, and Korea’s 
+Basic AI Law,  the U.S. can help prevent regulations that unduly harm American businesses and 
+establish unified international technical standards that promote innovation and the 
+competitiveness of American industry abroad . 
+Longer -term, engagement with foreign partners to reach strong, enforceable 
+commitments that promote the cross -border trade of services reliant on AI would ensure U.S. 
+companies can develop and export digital services and products reliably to key markets.  
+Finally, foreign reciprocity in market access is essential . For example, if U.S. companies 
+face restrictions on their access to Chinese markets, similar barriers should not be lifted to 
+provide access to U.S. markets to Chinese AI companies . While absolute parity may be 
+impossible, fair market access must be available  at the very least . 
+C. Ensure that restrictions on export are transparent
+Any designations that may affect or restrict the sale of AI technology to foreign countries 
+or entities must be guided by transparent criteria, with clear timelines for when enforcement will 
+begin and clear requirements for compliance . This transparency is essential for businesses to be 
+able to successfully meet their compliance obligations, safeguarding the national interest while 
+ensuring fairness and predictability . In particular, it is essential that any modifications to export 
+controls be preceded by significant public and industry consultation , as well as appropriate 
+Congressional oversight . Input from industry can ensure that export controls are not overly 
+burdensome while still effectively providing export controls that avoid the provision of critical 
+technologies to adversaries.  
+IV.Ensuring Uniform National AI Policy
+AI presents huge potential to transform the national economy . State legislatures across 
+the country are currently developing a wide array of AI -related legislation . While there may be 
+unique local concerns in some areas, the vast majority of AI policy would be best served by a 
+7 https://ccianet.org/wp -content/uploads/2024/12/CCIA -Comments -on-AI-Competitiveness -for-the-Presidents -
+Export -Council.pdf .  
+8 https://www.cnbc.com/2024/06/21/apple -ai-europe -dma-macos.html ; 
+https://www.theverge.com/2024/7/18/24201041/meta -multimodal -llama -ai-model -launch -eu-regulations ; 
+https://www.euronews.com/next/2024/12/10/openai -releases -ai-video -creator -sora-but-it-wont -be-coming -to-
+europe -yet. 
+
+
+6 unified national policy  that provides clear determination of the responsibilities of the various 
+actors in the AI value chain . This may include sector -specific regulation, as appropriate.  
+A. State laws regulating AI should be preempted where federal laws exist
+Generally, federal legislation should preempt state laws concerning the development and 
+deployment of frontier AI models. This preemption should fully preempt state law in these areas, 
+ensuring a unified federal approach . Such an approach ensures consistency and facilitates 
+compliance for businesses operating across multiple states, preventing a fragmented regulatory 
+landscape that could harm consumers, hinder innovation , and create unnecessary obstacles for 
+industry growth.  
+However, while full preemption is generally preferable, states will still have a role to 
+play. In particular, state legislatures are ideally suited to address specific gaps or unique local 
+concerns that may not be not adequately covered by federal regulations . By starting from a 
+presumption of preemption and permitting states to operate to fill gaps  where necessar y, this 
+approach will ensure national uniformity in managing frontier AI while accommodating state -
+specific needs.  
+B. Federal agencies should clarify the application of existing law to AI
+Federal agencies are encouraged to clarify how existing laws apply to AI technologies . 
+As CCIA has noted repeatedly in the past, most issues with AI can be handled by existing law .9 
+If AI is abused to harm consumers , it does not require a specific AI consumer p rotection law—
+existing laws such as the FTC ’s Section 5 authorities are sufficient . And if a harm is not 
+currently illegal, the correct approach is to legislate to render the harm illegal regardless of who 
+performs the action . Only where there is a risk or harm that is unique to AI systems and not 
+present in the human or non -AI software equivalent is legislation required .10 
+In order to emphasize this point, federal agencies should review the laws they implement 
+or enforce and provide guidance to stakeholders on how existing law applies to AI . Agencies 
+should conduct thorough assessments to determine if  existing laws sufficiently address risks 
+associated with AI and consider targeted updates or interpretations as  necessary . By doing so, we  
+can avoid the creation of duplicative , inconsistent, and cumbersome new regulations. Leveraging 
+current legal frameworks ensures  efficient oversight without stifling innovation. This approach 
+not only streamlines regulatory processes but also provides clarity for developers and  deployers, 
+facilitating the compliance necessary to protect consumers a nd fostering a predictable 
+environment for AI development.  
+C. A sectoral approach should be employed where appropriate
+As discussed above, many aspects of AI regulation are already addressed by existing law . 
+And many other aspects of AI regulation can be applied evenly across all industrial sectors . 
+However, even though many aspects of AI are common across all sectors, in some areas a 
+sectoral approach might be needed . For example, sectoral regulations in specific industries where 
+AI applications pose unique risks and requirements  is essential . Industries such as healthcare,  
+finance, and transportation  have unique risks and requirements that require sectoral regulation . 
+9 See, e.g. , CCIA, Understanding AI: A Guide to Sensible Governance  (June 26, 2023), 
+https://ccianet.org/library/understanding -ai-guide -to-sensible -governance/ . 
+10 Id. at 2. 
+
+
+7 At the same time, those sectoral regulations may be unnecessary or actively harmful in other 
+sectors, imposing a need to limit their applicability outside of the appropriate sector.  
+To support this strategy,  the establishment of a center of technical expertise is proposed. 
+This center would provide specialized knowledge  and resources for each sector, ensuring that 
+regulations are effective without imposing unnecessary burdens. By  working closely with 
+relevant agencies, this center can facilitate tailored oversight that addresses the distinct  needs of 
+different industries, promoting both safety and innovation . CCIA has previously  suggested , and 
+continues to  suggest , that such a center should be housed within the National Ins titute of 
+Standards and Technolog y (NIST) .11 NIST has significant technical expertise and the experience 
+working across many sectors that such a center requires.  They have also already developed 
+significant expertise in AI through programs such as the NIST AI Risk Management Framework.  
+At the same time, while they have extensive ex perience in coordinating technological stand ards, 
+they may lack sector -specific experience  and such a center may require new budgetary resources . 
+D. Clarifying the roles and responsibilities of various actors in the AI value chain
+In discussing AI, it is critical to carefully define the various participants in the value 
+chain and their associated responsibilities . The developer that trains a model is not necessarily 
+the same entity that operates and deploys it . The developer might also not be the entity that 
+assembles the training data; in some circumstances, a third party will be the entity that does that . 
+The operator of an AI system may not be the deployer, but may instead be a third -party compute 
+provider who is acting as a service provider to the deployer . And in some circumstances, 
+responsibility will lie with the end  user.  
+Given this complex value chain, it is essential to clearly define the roles and 
+responsibilities of all actors in the AI value chain, assigning them to the actor best placed to 
+address the concern. The developer of an AI technology will often not be the entity best suited to 
+limiting abuses at the end -user level . Instead, regulation should ensure that developers of AI 
+technology can focus on creating models, while deployers handle integrating these models into 
+applications. Operators may focus on providing efficient and accessible systems for deployers to 
+take adva ntage of, while dataset assembly entities may focus on providing datasets that provide 
+high-quality data, including sets that may be tuned to particular needs . Establishing standards for 
+transparency, liability, and compliance at each stage ensures accountability and addresses 
+potential overlaps or ambiguities between the various actors. This clarity prevents disputes and 
+gaps in accountability, ensuring that res ponsibilities are well -defined and understood across the 
+AI ecosystem.  It also reduces the potential for inconsistent legislation and conflicting obligations 
+on a worldwide scale; legal fr ameworks in other nations have recognized the value in clearly 
+defining roles and have done so.  
+V.Maintaining Necessary Data Access for AI Development
+One critical input to artificial intelligence development is data access . Especially 
+important to a robust data access policy are balanced copyright rules,  reasonable transparency 
+measures, and a regulated ability to use personal data  to deliver services that are needed and 
+wanted by consumers and businesses alike . These types of data access policies  are essential 
+components in driving AI success.  
+11 Id. at 8. 
+
+
+8 A. Balanced copyright policy is essential to AI success
+While copyright can provide a reward for creativity, an overbroad conception of 
+copyright and its over -enforcement is fatal to creativity . Balanced copyright laws, including fair 
+use12 and text -and-data mining (TDM) exceptions, provide a legal framework  that supports  
+innovation , free speech, the public interest,  and the rights of content creators  alike .13 Because, 
+under the Copyright Act , all works of authorship are  copyrighted at the moment of fixation,14 it 
+is crucial to provide the safety valves of fair use and TDM exceptions in order to enable learning 
+and communication .15 This is no less true for AI than for human learners . These rules enable AI 
+systems to learn from  existing knowledge, thereby accelerating scientific discoveries and societal 
+progress. For instance, AI  applications can sift through vast libraries of scientific papers to 
+identify patterns or generate hypotheses, as  seen in drug discovery efforts where AI analyzes 
+thousands of studies alongside  backgro und data to find potential candidate  compounds .16 
+Even assuming that AI training on copyrighted data is the type of use that qualifies as 
+covered by the limited set of rights copyright provides, a question which remains unsettled, 
+CCIA believes that it is still a fair use under existing caselaw to engage in such training . A wide 
+range of cases currently making their way through the courts will establish the rules and 
+boundaries for AI training . However, given that this issue is likely to remain unsettled for some 
+time as it is appealed through the courts, it could be beneficial for the Administration to work 
+with Congress to clearly establish  that using data for AI training is a fair use via legislation.  
+Availability of data access  via fair use  also limits barriers to entry by removing the 
+requirement to negotiate with data holders during model development and experimentation . This 
+is not to say that data holders have no ability to extract value from their data, even if training on 
+it is a fair use . For example, a range of data licensing deals have been signed by AI companies . 
+While these deals include a copyright license component, the key value add of data holders is in 
+the provision of data in a high -quality structured fashion . Rather than being forced to scrape the 
+Web or OCR copies of newspapers or books, negotiation allows AI developers to obtain the 
+needed data in a more useful form . This benefits both the AI developer and the data holder, who 
+receives compensation for their work in providing the data . A strong fair use regime thus protects 
+artists, rightsholders, and AI innovators by restraining the overuse and abuse of copyright to 
+block new art and innovation alike . 
+The Administration can best support AI by actively advocating for the se exceptions, both 
+at home and abroad in the form of fair use or TDM exceptions. This advocacy can include  
+regulatory policy work , direct engagement in foreign jurisdictions,  and amicus support in the 
+courts . 
+12 17 U.S.C. § 10 7. 
+13 See, e.g. , CCIA, Fair Use  in the U.S. Economy: 2017  (June 9, 2017), https://ccianet.org/research/reports/fair -use-
+in-the-u-s-economy -2017 -edition/ .  
+14 17 U.S.C. § 102.  
+15 See, e.g. , Stewart v. Abend , 495 U.S. 207 (1990)  (fair use “permits courts to avoid rigid application of the 
+copyright statute when, on occasion, it would stifle the very creativity which that law is designed to foster. ”) 
+16 See, e.g. , Derek Low e, Snake Antivenoms, Computed , In The Pipeline (Jan. 16, 2025), 
+https://www.science.org/content/blog -post/snake -antivenoms -computed .  
+
+
+9 B. Transparency to build trust
+Appropriate t ransparency is crucial for fostering trust in AI technologies. Mechanisms 
+like watermarking synthetic content  help users discern between real and generated material, 
+enhancing accountability. However, transparency must be  implemented thoughtfully. Standards 
+should avoid being overly burdensome, protecting free speech and trade secrets while ensuring  
+usability. This balance is vital to encourage innovation without compromising security or 
+functionality.  
+While watermarking techniques can usefully address some aspects of transparen cy, there 
+are other  concerns it is less suited to  address , especially regarding text generation where 
+watermarking is more difficult or even impossible . To accommodate  some of these other 
+concerns, other approaches are needed . For example, a ppropriate documentation of training 
+practices and outcomes can help enhance trust and transparency. To the extent disclosure 
+requirements are imposed, they should remain at a relatively high level . A high -level 
+requirement allow s individual companies with better understanding of their compan y’s specific 
+technology to tailor their disclosure to  balance between interests such as avoid ing the disclosure  
+of competitive information like the specific contents of a training data set  and providing 
+sufficient information for the public to understand what general forms of information were used 
+and how that information was  used.  
+Transparency requirements may also benefit from a sector -specific regulatory approach . 
+Safety -critical applications, such as automotive or medical AI uses, may require a higher level of 
+transparency and documentation in order to build public trust . Regardless of the sector, however, 
+it is critical that collaboration among stakeholders —AI developers, policymakers, ethicists, and 
+users —be a part of the development process . Existing attempts at transparency regulation often 
+suffer from a lack of understanding of the technology and the law alike, such as laws that 
+propose to require documentation of the presence and owner of every piece of copyrighted 
+material used in training . Since, as noted above, every piece of information is copyrighted at the 
+time of fixation, this amounts to a requirement to document the copyright owner of every single 
+piece of content scraped from the public Internet, an impossible task . 
+By taking advantage of the knowledge various stakeholders can bring to the table, a 
+balanced regulatory approach to transparency will protect the rapid pace of innovation in AI that 
+American ingenuity has delivered while enhancing public trust in the techn ology.  
+C. Personal data and model training
+AI models, particularly large language models (LLMs), rely heavily on diverse datasets 
+that often include personal  information. This data is essential for understanding context and 
+nuances in language  usage  by different types of entities ranging from individuals to small 
+businesses to large corporations , enabling tasks such as sentiment analysis. For example, 
+correctly referencing names in historical events ensures accurate and detailed  outputs, which 
+would be hindered without access to such data.  
+While some types of personal data can present privacy concerns, as addressed below, 
+removing or masking personal data from training datasets can impair a model ’s ability to 
+understand language  effectively  and deliver services the public expects . This underscores the 
+need for balanced approaches that respect privacy while maintaining model  quality. Retraining 
+
+
+10 models to exclude such data is resource -intensive and impractical on short timelines,  
+highlighting the necessity of flexible solutions.  
+VI.Avoiding Foreign Abuse of Patents Against AI
+While significant attention has been given to the implications of copyright for AI 
+competitiveness, less attention has been given to the problem of patent abuse against American 
+AI companies . As a rapidly developing area of technology, patents can be extremely important to 
+AI technology . They can also prove fatal to startups when abused.17  More than half of all U.S. 
+patents issue to foreign entities, including China, and many of those patents cover AI technology . 
+Some of these patents contain true innovation, but many are likely to prove invalid if asserted . 
+One Chinese patent expert even characterized 90% of Chinese patents as “trash.”18  However, 
+proving invalidity in district court cases is an incredibly expensive proposition , one which can 
+take years , meaning that even those “trash” patents can be weaponized against American AI 
+companies . Even worse, during district court litigation the foreign entity can engage in discovery 
+to obtain sensitive technical information from the American innovator.  
+This is particularly concerning given the history of Chinese entities turning to patent 
+litigation when excluded from the U.S. market . This is not an imaginary concern . After Huawei 
+was excluded from the U.S. market in 2019, it turned to patent litigation.19  Huawei filed lawsuits 
+against American companies like Verizon20 seeking $1 billion in damages.21  Ultimately, 
+Verizon settled under undisclosed terms . The Huawei assertion campaign is a concerning model 
+for what is likely to happen to U.S. companies if and when foreign adversary companies with AI 
+patents begin assertion campaigns . Beyond direct assertion, there is significant abuse of the U.S. 
+patent system by undisclosed foreign funders —many believed to be Chinese —who pay for third 
+parties to assert patents against American innovators with the aim of reaping a windfall benefit in 
+damages.22 
+There are two primary defenses against this type of abuse . The first is the Patent Trial and 
+Appeal Board (PTAB) . This component of the U.S. Patent and Trademark Office is staffed by 
+technically and legally trained administrative patent judges (APJs), who review the validity of 
+patents when challenged . These challenges are an order of magnitude less expensive than district 
+court litigation; they are also at least as, if not more, accurate in determining invalidity than lay 
+judges and juries without the technical background of APJs . They also primarily benefit 
+American companies, with nearly two thirds of petitions brought by U.S. companies.23  In 
+contrast, in any given year between 65% and 80% of patents challenged at the PTAB are owned 
+by foreign entities.24  The PTAB provides an effective forum for American companies, including 
+AI companies, to defend themselves, and the Administration should reject efforts to weaken the 
+17 https://www.kickstarter.com/projects/aiforeveryone/mycroft -mark -ii-the-open -voice -assistant/posts/3729060 .  
+18 https://www.cigionline.org/articles/what -do-chinas -high-patent -numbers -really -mean/ .  
+19 https://www.reuters.com/article/idUSKCN1SL2QX/ .  
+20 https://www.wsj.com/articles/huawei -settles -two-patent -lawsuits -it-filed-against -verizon -11626105146 .  
+21 https://www.techdirt.com/2019/06/17/huawei -now-using -patent -claims -to-demand -1-billion -verizon -as-us-tries-
+to-c  
+22 https://issa.house.gov/media/press -releases/issa -introduces -legislation -reforming -third -party -financed -civil-
+litigation .  
+23 https://www.unifiedpatents.com/insights/2019/12/11/new -study -suggests -that-us-companies -have -received -the-
+greatest -benefit -from -post-aia-proceedings .  
+24 Id. 
+
+
+11 PTAB both by regulation and legislatively . It should also reject efforts to reimpose the Fintiv  
+rule that restricts American companies’ ability to access the PTAB.  
+The second defense is high -quality patent examination . U.S. patent examiners have a 
+difficult job, having an average of only 19 hours to assess whether to grant a patent . This, in turn, 
+leads to numerous low -quality patents issuing from the Patent Office . Providing examiners with 
+more resources would help to ensure that they can detect low -quality patents that might be 
+abused to harm American AI innovation before those patents issue, weeding out the patents 
+likely to ultimately prove invalid and thereby increasing the value of granted patent rights .  
+The combination of an initial high -quality examination and the availability of review via 
+the PTAB will help to ensure that innovation in artificial intelligence is rewarded, while 
+preventing abuse of our patent system against those innovators.  
+VII.Open-Source AI Serves Critical Functions
+CCIA members have activ ely developed both open -source and closed -source models . 
+Other C CIA memb ers have integrated open -source and/or closed -source models into their 
+commercial operations. Both open - and closed -source approaches have benefits and 
+disadvantages and both will be part of a well -functioning AI ecosystem. Industry experience with 
+operating system s, in which closed -source operating  systems such as Microsoft Windows  
+function alongside open -source op tions such as Linux  and mixed open/closed approaches such as 
+Apple macOS , is illustrative here —each option serves dist inct functions and they co -exist in the 
+market to the advantage of every computer user.25  
+Artificial intelligence is no different.  Open -source models can help to increase 
+competition , including  by bringing d own the cost  of experimenting with AI technology for small 
+and medi um enterprises. Closed -source models can provide benefits such as enhanced support 
+and the  availability of simpler scaling options . Prior work, including a detailed report from 
+NTIA,26 has outlined  a number of other benefits and risks for open -source AI, including 
+benefiting cybersecurity defense  by enhancing attack detection and mitigation ,27 research and 
+development through wider access and fine -tuning of models  to particular research agenda s,28 
+and avoiding AI monocultures .29 CCIA supports NTIA ’s recommendation of continuing to 
+gather information regarding the risks and ben efits of open -source models .30 
+Beyond concrete benefits such as th ose described above , open -source AI also helps to 
+ensure that American values are enshrined in the global  AI ecosystem. If the U.S. were to restrict 
+open -source models, it would not deter adversaries from developing their own models.  It would 
+be highly beneficial to the free world if neutral foreign nations who seek to ad opt artificial 
+25 While Windows is characterized here as closed source, it incorporates si gnificant open -source components.  
+Similarly, although Linux itself is open -source, a number of closed -source pro grams can be integrated into it to 
+provide enhanced functionality , particularly with respect to hardware sup port. 
+26 NTIA, Dual -Use Foundation Models with Widely Available Model Weights  (July 2024), 
+https://www.ntia.gov/sites/default/files/publications/ntia -ai-open -model -report.pdf .  
+27 Id. at 17.  
+28 Id. at 28.  
+29 Id. at 32.  
+30 Id. at 3. 
+
+
+12 intelligence technologies adopt models that reflect democra tic values  rather than being forced to 
+adopt models that inherit the values of adversary nations.31 
+Neither open -source nor closed -source models can , standing alone, fulfill the 
+transformati ve promise  of artificial intelligence . Neither, standing alone, can mitigate all 
+potential AI risks . It is critical that any r egulatory actions maintain the ability to  develop both 
+open - and close d-source models . 
+VIII.Protecting Pr ivacy Without Blocking Development
+Much like transparency, a balanced and effective privacy regime is key to building AI 
+trust. But a single privacy regime that applies to all parties in the AI ecosystem without 
+recognizing the disparate roles that entities may play is likely to prove both ineffective in 
+protecting privacy and in ensuring AI innovation . Generative AI technologies operate in two 
+distinct phases —the development and training of the AI model and the building and operation of 
+applications that use the AI model . Only the building and operation of applications is directly 
+user-facing . These two phases have distinct uses for data, privacy implications, risk levels, and 
+opportunities to create and implement safeguards.  
+Generally, privacy controls will be more effective on the application or output side . This 
+side carrie s both a greater risk of harm —for example, personal data disclosure —and a greater 
+ability to implement safeguards . Personal data leakage or hallucinations about a non -public 
+living person can often happen through interaction with a product  but rarely happen during 
+model development and training . Detecting and correcting such harms is also significantly more 
+practical at the product or output stage  than during training . 
+In particular, the application layer provides opportunities to protect against inappropriate, 
+offensive, harmful, or otherwise privacy -destroying content . This can range from legal 
+mechanisms, such as usage policies and enforcement against those who violate them, to 
+technological mechanisms that provide limits on how the AI application interacts with personal 
+data. Fine-tuning can also help to reduce the incidence of improper outputs . Finally, screening 
+mechanisms that examine the output of the AI application, such as filters and classifiers, can help 
+to avoid improper output. These mechanisms may themselves be AI applications.  
+In developing AI privacy regulation, it is critical for the administration to bear in mind 
+the differences between the two major phases of generative AI development . Applying a single 
+universal regime to both phases is likely to both fail to protect the privacy of American citizens 
+and to harm the development of AI technology in the United States.  
+IX.Conclusion
+CCIA appreciates the opportunity to comment on these critical issues and would be 
+happy to assist the NSF and OSTP with any further requests for information.  
+31 Id. at 23.  
+
+
+13 Respectfully submitted,  
+Joshua Landau   
+Senior Counsel, Innovation Policy  
+Computer & Communications Industry Association  
+25 Massachusetts Ave NW  
+Suite 300C  
+Washington, DC 2000 1 
+This document is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in 
+developing the AI Action Plan and associated documents without attribution . 
+
+

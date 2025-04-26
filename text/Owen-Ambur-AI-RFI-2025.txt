@@ -1,0 +1,31 @@
+From:
+To:Cc:Subject:Date:Owen Ambur
+ostp-ai-rfi
+[External] AI Action Plan
+Tuesday, February 25, 2025 10:10:43 PM
+Consistent with the good practice set forth in the OPEN Government Data Act , which 
+President Trump signed into law six years ago, as well as section 10  of the GPRA 
+Modernization Act more explicitly, the AI action plan should be published in open,  
+standard, machine-readable format, like Strategy Markup Language (StratML, ISO  
+17469-1 and formerly ANSI/AIIM 22:2017).
+Likewise, the developers of AI systems potentially affecting members of the public  
+should be expected, if not required, to publish in such format the performance plans  
+and reports for their applications.
+Doing so will enable other AI systems to help stakeholders and organizations  
+representing their interests become aware of those impacts and respond  
+appropriately in support of their own interests, without imposing undue regulatory  
+burdens on anyone.
+Disclaimer:  This document is approved for public dissemination. It contains no  
+business-proprietary or confidential information. It contents may be reused by the  
+government in developing the AI Action Plan and associated documents without  
+attribution.
+Likewise, the schemas for StratML Part 1, Strategic Plans, and Part 2, Performance  
+Plans & Reports, are freely available for public use:
+https://stratml.us/references/StrategicPlanISOVersion20140401.xsd  
+https://stratml.us/references/PerformancePlanOrReport20160216.xsd
+It would be good if the schema for StratML Part 2 were used to enable semi-
+automated ingestion of agency performance reports into the Performance.gov site,  
+including reports explicitly addressing their usages of AI systems.
+Owen Ambur
+
+

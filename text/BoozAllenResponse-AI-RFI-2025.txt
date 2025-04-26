@@ -1,0 +1,270 @@
+In Respons e to: Request for Information on the Development of an Artificial Intelligence (AI) 
+Action Plan  
+Document Citation: 90 FR 9088  
+Document Number: 2025- 02305  
+Submitted By: Booz Allen Hamilton1 
+Submission Date:  March 15, 2025  
+Booz Allen Response to the AI Action Plan  RFI 
+Introduction  
+Booz Allen  Hamilton (Booz Allen)  is pleased to submit our response to the Request for 
+Information on the Development of an Artificial Intelligence (AI) Action Plan issued by the 
+National Science Foundatio n (NSF)  on behalf of the  Office of Science and Technology Policy 
+(OSTP) . Booz Allen is an advanced technology leader and strongly support s the Administration’s 
+efforts to advance AI innovation,  strengthen national security, and enhance U.S. global 
+leadership in this critical technology.  We value the opportunity to provide our 
+recommendations and are eager to engage further  with the Administration to develop an AI 
+Action Plan that solidifies  the United States' position as  the leader in AI  and help s secure a 
+brighter future for all Americans  
+In an era where AI is rapidl y transforming every aspect of our lives, the United States faces 
+unprecedented opportunities  and challenges . Booz Allen is working every day to speed 
+outcomes by delivering  AI solutions and other technologies to our nation’s highest priority 
+missions. As a leading  AI provider for the Federal Government, Booz Allen is committed to 
+maintaining our nation’s leadership position in an increasingly technical environment  by 
+assembling and creating novel solutions using AI and other cutting -edge technologies . This 
+document outlines our thoughts on priority policy areas to maintain American AI  dominance , 
+focusing our recommendations  on five key areas:  
+•National Security and D efense
+•Fraud, Waste, Abuse, and Improper Payments
+•Addressing Critical Technology N eeds for Efficient Benefits and Entitlements P rocessing
+•Common Challenges: Access to Commercial AI Tools and Data Sharing
+•Security Against AI Model Attacks
+1 The document contains no business -proprietary or confidential information. Document 
+contents may be reused by the government in developing the AI Action Plan and associated 
+documents without attribution. 
+
+
+National Security and Defense  
+In the current environment, the competition between global powers necessitates the rapid 
+integration of AI technology within all aspects of the U.S. national security infrastructure.  Booz 
+Allen is rapidly advancing trusted AI solutions and technologies for key national security missions.  We recommend three key focus areas , detailed below,  to harness the 
+transformative power of AI on U.S. national security capabilities : (1) Continuing  Investments 
+in Foundational Data and Data Engineering ; (2) Prioritizing AI with Proven Mission Impact ; 
+and (3) Solving the Last Mile Deployment Challenges .  
+Continuing I nvestments in Foundational Data and Data Engineering 
+The promise of AI will not be realized unless n ational security and defense agencies  have  a 
+foundation of high -quality data . Advancing s trategic Department of D efense ( DoD ) priorities 
+like Joint All -Domain Command and Control (JADC2), m issile defense, and a clean  audit will 
+require continued and more substantial investments in organizing and engineering the data across enterprise and mission applications.  Data must be treated as a strategic product to 
+ensur e the success and advancement of AI . Without data,  AI systems cannot achieve the 
+pattern detection, predictive accuracy, and actionable insight delivery that make them transformational. Additionally, as  AI adoption expands, data is increasingly generated across an 
+array of platforms, sensors, and edge environments , necessitating a shift in how agencies 
+secure, process, and transport mission -critical data. Without a secure and intelligent data 
+management strategy , AI adoption will be hindered . Below are select high -priority areas we 
+recommend for consideration:  
+•Investing in a robust national security data infrastructure  – Data investments must
+match the scale of compute infrastructure investments; otherwise, we risk limiting AI’spotential to drive mission outcomes and sustain  global competitiveness .
+•Improving  access to data stores  – Government- owned, commercially -licensed,
+sensitive, and classified data stores  for model training and validation  are imperative . By
+breaking down data stovepipes and facilitating broader access to restricted datasets,
+private industry can tailor existing capabilities more effectively for DoD and Intelligence
+Community (I C) missions.
+•Hard ening Data Security at Scale  – As AI systems become more dependent on diverse
+and distributed systems, robust security measure must evolve in in parallel. Agencies
+should look to implement end- to-end encryption, zero -trust architectures, and dynamic,
+role-based access control s that intelligently adapt to real- time mission demands . By
+leveraging autonomous credentialing systems that continuously validate userpermissions, organizations can ensure secure access to classified, sensitive, andoperationally critical data without creating unnecessary bottlenecks —all while
+maintaining stringent security protocols.
+•Optimize Data Flow for Edge AI – AI models operating in tactical and distributed
+environments  must balance real -time responsiveness with secure, efficient data
+transmission . Agencies should invest in intelligent , secure backhaul solutions  that
+selectively transmit high -priority insights while pre -processing raw data at the edge  to
+reduce volume and alleviate central data pipeline congestion. Adaptive data filtering
+
+
+and compression  at edge nodes can ensure only the most relevant and actionable 
+information reaches centralized systems, enabling faster, more informed decision -
+making  without compromising security or operational continuity.  
+Prioritiz ing AI with Proven Mission Impact (Topic Area: Model Development)  
+The DoD and IC  should focus  AI efforts in high impact  areas with a proven return on investment  
+(ROI) (e.g. , cyber, intelligence analysis, command and control) and prioritize creating 
+operationalized AI systems of record to cultivate and scale the benefits of  AI. Below are  select 
+high -priority areas we recommend for consideration:   
+•Intelligence Analysis and Reporting  – Generative AI is already providing analysts with
+transformative scale and accelerating outcomes, and this human -machine teaming  will
+profoundly alter intelligence gathering and synthesis in the coming years . We
+recommend the IC significantly  increase their investment and commitment to brin ging
+generative AI and large language models (LLMs) to the intelligence analysis and
+reporting functions , with an emphasis on “grounded” AI that produces traceable, facts -
+based judgments.
+•Cyber Defense – T he growing volume, surface area, and complexity of cyber threats
+necessitate leveraging AI -driven algorithms for network monitoring, malware detection,
+and other critical areas to enhance threat detection. Proven initiatives, such as Army
+Cyber Command and its Panoptic Junction pilot, should be scaled to deploy enterprise AIcapabilities, enabling rapid adaptation to sophisticated attacks and the prototyping ofattacker/defender models in synthetic environments.
+•Command and Control (C2) Decision Support – Given the scale, speed, and complexity
+of information, rapidly integrating dual -use technologies into C2 decision support will be
+critical to the future of national security. The government should harness thesetechnologies to accelerate and enhance the Do D’s C2 processes.
+ To achieve this, DoD
+must expand and accelerate experimentation efforts like the DoD’s Global InformationDominance Experiment (GIDE) series to drive faster, more informed decision -making
+through advanced technology adoption.
+•Modernizing Legacy Software to Accelerate AI Deployment –  Outdated and
+fragmented software systems pose a significant threat to the speed and scale of AIadoption across the DoD, creating bottlenecks in integration, testing, and deployment.
+Many critical mission systems remain tied to legacy architectures, making  it difficult to
+rapidly incorporate AI -driven capabilities. The government should increasingly look to
+deploy AI-powered tools that can accelerate code conversion, automate modernization
+efforts, and streamline software development lifecycles —reducing the time required to
+transition legacy systems to AI -compatible architectures.
+•AI-Enabled Operations and Administrative Transformation – The DoD, as the world’s
+largest organization, is burdened by manual and repetitive processes, such as policy
+review and development, security classification review, and program administration.These tasks consume significant time and resources, reducing  capacity for mission -
+critical operations. AI -powered knowledge assistants can augment government and
+contractor staff by automating routine workflows, synthesizing vast information
+
+
+sources, and accelerating decision -making  to provide more capacity to warfighting 
+functions.  
+Solving t he Last Mile Deployment Challenges (Topic: Explainability and Assurance of AI Model 
+Outputs)   
+New technologies have always posed  challenge s for  the Test & Evaluation (T&E) community, 
+but AI and autonomy introduce an unprecedented level of complexity, adaptability, and 
+unpredictability. Integrating  these capabilities into national security at speed requires more 
+than just breakthroughs in algorithms and models —it demands next -generation AI 
+infrastructure for testing, validation, and rapid deployment. Without these foundational 
+capabilities, AI development will outpace the government’s ability to integrate and 
+operationalize these systems, delaying critical battlefield advantages and slowing innovation.  
+Accelerating AI into operational environments requires ensuring that emerging capabilities can be validated, deployed, and refined at the speed of mission need. The U.S. must rethink the T&E system to match the speed, complexity, and adaptability of AI -driven technologies. 
+Traditional validation methods —built for static, hardware -based systems —are inadequate for 
+AI and autonomous systems that learn, adapt, and operate in unpredictable environments. A modernized T&E approach must enable continuous experimentation, real -time performance 
+assessment, and iterative refinement, ensuring AI -enabled capabilities can be tested, validated, 
+and deployed with confidence at mission speed.  To achieve this, Booz Allen recommends:   
+•Strengthening AI T &E Guidance and Resourcing  – DoD and Congress should collaborate
+to provide T&E entities with increased guidance, direction, and funding to support the
+next wave of AI -enabled and autonomous systems that will require rigorous validation
+before operational deployment.
+•Expanding Smart T&E Approaches Through SIPET  – The Strategic Initiatives, Policy, and
+Emerging Technologies (SIPET) Directorate within the Office of the Director, Operational
+Test and Evaluation ( DOT&E ) should be prioritized and resourced to close the gap
+between AI experimentation and deployment. Innovative, mission -driven T&E
+methodologies are critical to solving last -mile challenges, ensuring AI is trusted, reliable,
+and combat- ready.
+•Establishing AI Prototyping and Experimentation Environments  – The DoD and IC
+should deploy and host secure AI prototyping environments that provide industry
+partners with robust computational infrastructure, access to common data, andresearch and deve lopment ( R&D ) networks to accelerate the co -development of AI -
+driven capabilities. These environments must include modeling and simulationcapabilities, synthetic data, and validated physics -based models to enable realistic,
+mission -relevant AI testing before field dep loyment.
+By building  AI infrastructure that supports the full lifecycle of testing, validation, deployment, 
+and adaptation, the U.S. can accelerate the integration of AI and autonomy into national security —enabling faster fielding, continuous learning, and a decisi ve advantage in AI -powered  
+warfare.   
+
+
+Fraud, W aste, Abuse, and Improper Payments 
+AI offers  a transformational opportunity to combat Fraud, Waste, Abuse, and Improper 
+Payments (FWAIP) —which cost taxpayers billions annually, d rain mission -critical resources, and 
+erode  public trust. These challenges fall into two categories: fraud, involving deliberate 
+exploitation of government programs, and waste, abuse, and improper payments, which stem 
+from inefficiencies rather than criminal intent.  
+Fraud schemes —including identity theft, financial fraud, cyber -enabled scams, and 
+procurement fraud —evolve rapidly as bad actors exploit regulatory loopholes and fragmented 
+enforcement mechanisms. Traditional fraud detection, which relies on structured tra nsactional 
+data and post- payment “pay -and-chase” models, is reactive, inefficient, and unable to counter 
+modern fraud tactics. Meanwhile, improper payments result from process inefficiencies, misallocations, and administrative errors —driven by complex regu lations and disjointed 
+compliance frameworks. These systemic flaws slow program effectiveness and undermine 
+public confidence.  
+Reform efforts have failed to adequately address FWAIP. Fraud demands agile detection 
+mechanisms to counteract evolving threats, while improper payments require intelligent automation and data -driven decision -making to minimize errors before they occur. AI is well 
+suited for these challenges and provides a proactive, intelligence -driven solution, enabling real-
+time fraud detection, automation of compliance monitoring, and enhanced financial oversight. By integrating machine learning, behavioral analytics, and agent -based simulations, agencies 
+can prevent fraud before payments are made, optimize financial management, and improve 
+regulatory enforcement. To modernize fraud prevention and financial oversight, Booz Allen 
+recommends:   
+•Intelligence -Led Fraud Prevention – AI should be deployed pre -payment to prevent
+fraud and improper payments before disbursement. Real -time anomaly detection,
+network -based fraud analysis, and behavioral AI models can replace outdated "pay -and-
+chase" methods.
+•Continuous Red Teaming and Adversarial Testing  – AI-powered red teaming must be
+routinely deployed to stress -test fraud detection systems, identify weaknesses, and
+recalibrate AI defenses against evolving threats.
+•Interoperability and Cross -Agency Data Sharing – Fraudsters exploit gaps between
+agencies, taking advantage of limited data sharing and information asymmetry. Today,
+known fraudsters or fraud trends remain undetected because agencies do notconsistently share intelligence. The government should m andate real -time, secure data-
+sharing frameworks that eliminate silos, enable coordinated fraud prevention, and
+ensure AI -driven detection models have the most comprehensive fraud intelligence
+available.
+•Data Security and Privacy- First AI Development – The government should look to
+harness technology like federated learning, homomorphic encryption, and differential
+privacy to protect sensitive personal information while enabling robust fraud detection.
+
+
+• Adversarial AI for Emerging Fraud Vectors – Fraud is evolving rapidly as bad actors 
+exploit new AI -powered tools like deepfakes and LLMs to commit fraud at 
+unprecedented scale, speed, and sophistication. These technologies enable synthetic 
+identities, automated scams, and identity crimes that are increasingly difficult to detect —and the threat is only accelerating. The government must move  swiftly to 
+integrate advanced AI -driven fraud detection, including adversarial AI techniques to 
+counter these emerging risks .  
+ 
+By aligning an intelligence -led approach, adopting data security and privacy -first principles, 
+expanding datasets, using state -of-the-art methodologies and technologies, mandating data 
+interoperability, and enacting dynamic regulation guidance, the Administration can empower 
+federal agencies to transition from reactive, fragmented detection methods  to proactive and 
+unified FWAIP prevention, offering a clear path to safeguarding public funds while upholding 
+public trust.   
+ Addressing Critical Technology Needs for E fficient Benefits and Entitlements P rocessing  
+Many federal agencies oversee essential benefit and entitlement programs such as Social Security, Medicare, veterans’ benefits, and unemployment assistance, ensuring millions of Americans receive the support they need for financial security, healthcare, an d necessities in 
+times of need. However, the current beneficiary determination processes are slow, paper -
+intensive, and difficult for both citizens and federal employees to navigate, leading to backlogs, errors, fraud, and inefficiencies. AI can transform benefits administration by automating 
+application processing, reducing administrative burdens, and improving citizen engagement. A combination of machine learning, agentic AI, and  LLMs— trained on specific policies and 
+regulations —can accelerate processing times, enhance accuracy, and make benefits more 
+secure, accessible, and responsive to citizens' needs. Recommendations for AI -Driven Benefits 
+Modernization include:  
+• AI-Enabled Processing to Reduce Administrative Burdens  – AI can streamline document 
+processing, claims verification, and case adjudication by automating manual workflows that slow benefit distribution. A combination of machine learning, agentic AI, and LLMs— trained on specific policies and regulations —can enhance accuracy, compliance, 
+and operational efficiency, ensuring timely and consistent processing.  
+• AI-Driven Claims Prioritization and Workflow Optimization  – AI-powered triage 
+systems can prioritize cases based on complexity, urgency, and risk factors, ensuring critical claims move through the system faster, while maintaining accuracy and 
+compliance. This optimizes case distribution for human reviewers and reduces bottlenecks in high- volume processing environments.  
+• AI-Augmented Regulatory Compliance and Policy Alignment  – AI models trained on 
+agency- specific regulations and policy updates can assist in ensuring compliance with 
+evolving requirements. By embedding AI into benefits processing workflows, agencies can automate policy adherence checks, reducing manual review b urdens and the risk of 
+compliance errors.  
+
+
+By integrating AI -driven automation, workflow optimization, and regulatory compliance tools, 
+federal agencies can enhance efficiency, reduce errors, and improve the timeliness of benefits 
+processing. Transitioning from paper -intensive, resource -heavy proce sses to AI -enabled 
+solutions will strengthen program integrity, financial accountability, and public confidence in the essential services that millions of Americans rely on.  
+Common Challenges: Access to Commercial AI Tools and Data Sharing  
+Through our work across the federal government, we have identified c ommon  challenges that 
+hinder the full potential of AI -driven success and efficiency gains. We recommend that the 
+Administration address the following two barriers in the AI Action Plan : 
+•Limited Access to Commercial AI Tools  on Government Networks  – Agencies are
+currently restricted to FedRAMP High GovCloud -approved solutions and what is
+permitted within Government Cloud, limiting access to cutting -edge commercial AI tools
+that require extensive time to obtain an Authority to Operate (ATO). Expanding accessto secure, proven, industry -leading AI solutions would enable faster innovation,
+improved solutions, and better cost efficiency.
+•Limited Real -Time Interagency and Cross -Government Data Sharing  – Data silos within
+agencies —both physical and digital —create inefficiencies, preventing AI from delivering
+optimal results. Many agencies rely solely on their own data, outdated batch files, or, insome cases, no data at all when making critical decision s. Strengthening real -time data
+sharing and interagency cooperation would improve AI accuracy, enhance decision -
+making, and reduce inefficiencies across the federal government.
+Security Against AI Model Attacks  
+America’s AI leadership depends not only on developing cutting -edge technology , but also on 
+ensuring its security against adversarial threats. AI models deployed in national security, border protection, and financial systems remain vulnerable to manipulation, deception, and exploitation. From computer vision models used in defense systems to facial recognition for border security, AI intrinsically lacks built -in resilience to withstand attacks. LLMs , such as 
+ChatGPT and DeepSeek -R1, can be jailbroken or manipulated into producing incorrect 
+responses and misclassified predictions.  
+Computer vision models are particularly susceptible to adversarial attacks, where small perturbations ("noise") introduced into images, videos, or input data can cause misclassifications with serious consequences. This can lead to criminals bypassing borde r 
+security, incorrect targeting in weapons systems, or adversaries exploiting financial data to facilitate fraud, waste, and abuse. Hostile actors actively probe AI models using misinformation, data poisoning, and adversarial techniques to subvert U.S. defense, intelligence, and critical infrastructure systems.  
+To defend U.S. AI systems from adversarial threats, Booz Allen recommends that the Administration integrate AI security requirements into future acquisitions while reviewing existing procurements to ensure robust protections are in place. Specifically, we propose:  
+
+
+•Mandating Performance and Vulnerability Assessments for Foreign AI Models  – The
+U.S. must analyze and test foreign AI models —such as DeepSeek -R1 and other LLMs —to
+validate performance claims, assess vulnerabilities, and mitigate risks. AI red teaming
+and adversarial testing should be required to probe for baseline harms, susceptibility to
+jailbreak techniques, and manipulation risks. Understanding how foreign AI modelsbehave, respond, and potentially mislead users is critical to maintaining technologicalsuperiority and protecting U.S. interests.
+•Hardening Computer Vision Models That Impact Public Safety  – AI-powered object
+detection and facial recognition models are widely used by law enforcement, defense,and government agencies, yet their open -source architectures may expose them to
+exploitation by adversaries. Attackers can spoof these models, causingmisidentifications or system failures. AI security requirements should manda te
+adversarial robustness testing, model resilience enhancements, and secure deployment
+protocols to prevent malicious tampering and ensure reliable AI decision -making in
+high -stakes environments.
+•Red Teaming Critical AI Infrastructure and National Security Systems  – The U.S. must
+implement comprehensive AI r ed teaming to stress -test AI models across critical
+infrastructure, national security, a nd defense  applications . Red t eaming can simulate
+adversarial attacks, identify vulnerabilities, and refine AI defenses before they can be
+exploited. This approach ensures AI systems are resilient against sophisticated threats.
+•Leveraging Differential Privacy to Safeguard  American Data – The U.S. should adopt
+differential privacy to protect  sensitive data from AI -enabled threats. Personally
+Identifiable Information (PII) and Public Health Information (PHI) remain prime targetsfor adversarial exploitation, and legacy privacy measures are no longer sufficient againstmodern AI -driven attacks.  Differential privacy enables secure access to U.S. government
+AI systems while preventing adversaries from extracting sensitive information. It alsoallows multiple government users to access AI models without bureaucratic hurdles,increasing efficiency and accelerating AI adoption while maintaining strong privacyprotections.
+By integrating AI security into acquisition frameworks, mandating adversarial testing, and safeguarding sensitive data, the U.S. can fortify its AI leadership while ensuring its models remain secure, resilient, and resistant to exploitation by adversaries.  
+
+

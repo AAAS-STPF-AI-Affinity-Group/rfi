@@ -1,0 +1,292 @@
+March 14, 2025 
+Mr. Ki rk Dohne 
+Acting Director  
+National Information Technology Research and Development National Coordinating Office 
+National Science Foundation  2415 Eisenhower Avenue  
+Alexandria, V A 22314  
+RE: Re quest for Information – AI Action Plan  
+This doc ument is approved for public dissemination. The document contains no business -
+proprietary or confidential information. Document contents may be reused by the government in developing the AI Action Plan and associated documents without attribution.  
+Dear A cting Director Dohne, 
+IPC, t he global electronics association, appreciates the opportunity to submit comments to 
+inform the development of a national Artificial Intelligence (AI) Action Plan as directed by President Trump in Executive Order 14179.  
+IPC is  a U.S. -headquartered, global trade association serving all segments of the $2 trillion 
+electronics industry. IPC represents over 3,200 members worldwide, including more than 1,400 based in the United States. Approximately 80% of IPC members are small-and medium- sized businesses, but some are large household names. Together these companies employ more than 2 million Americans and span the entire electronics supply chain from design to raw materials to finished products and everything in between.  
+Artific ial Intelligence (AI) is  a critical technology with the potential to drive powerful impacts 
+around the world. We welcome and encourage the development of a coordinated federal approach to AI to promote human flourishing, economic competitiveness, and national security. As you develop an action plan for U.S. policy on AI, we urge you to consider the hardware dependencies that underly any development, deployment, or sustainment of AI.   
+
+
+AI Depends on Advanced Electronics Hardware  
+The development, training, and deployment of AI models require massive computational power, 
+data storage, and high-speed processing. AI- based data centers rely on high -performance 
+computing (HPC) systems, which include: 
+•Advanced microprocessors such AI-based CPU/GPU components.
+•High Bandwidth Memory (HBM) and storage solutions.
+•Advanced chiplet packaging including heterogeneous integration of components for AI
+hardware
+•High -density PCBs and PCBAs, which provide the interconnectivity needed to integrate
+these components into functional AI systems .Advanced electronic packaging  serves as
+the backbone of AI infrastructure, enabling the integration of complex chips, memory,
+and networking hardware at the component and system level. The PCB assembly process(PCBA) ensures that AI systems operate efficiently, reliably, and at the necessary speeds
+for AI workloads.
+AI-Based Data Centers  
+AI leadership is a critical factor in global economic and national security competition. The 
+construction and maintenance of AI- based data centers is a critical capability for the U.S. to 
+continue AI leadership. Data centers provide the necessary computing power and infrastructure needed to train and run complex AI models. Analysts describe a 'race' to build AI data centers, with projected growth estimates ranging from 33% annually to 165% by 2030. Experts last year suggested that 40% of all data center demand will come from the United States alone.   The high-end electronics hardware that is used to construct and maintain the data centers should 
+be considered critical requirements. Unfortunately, due to industrial base gaps in domestic electronics manufacturing, assured access to this hardware is also a critical vulnerability.    
+Through this comment, IPC intends to draw your attention to the critical hardware necessary for leadership in AI, the applications that depend upon it, and the current supply chain for these components. Finally, we offer recommendations for shoring up the vulnerabilities that exist 
+within the industrial base.  
+Growing Importance of High Performance Computing and AI  
+Enterprises are increasingly turning to generative artificial intelligence (gen AI) to drive 
+operational efficiencies, accelerate business decisions and foster growth. The convergence of both HPC and AI is one of the key factors for enterprises to remain competitive in the future. Products within this segment include highly advanced computing systems – enterprise class mainframes, servers, mass storage, and supercomputers. Configuration models include cloud-based architectures and traditional on -premise ins tallations (also known as ‘server farms’). These 
+HPC systems are the backbone to numerous critical infrastructures including banking, stock exchanges, retail commerce, and mobile communications, etc.  
+
+
+The HP C market, encompassing both on-premise and cloud-based installations, was valued at 
+over $30 billion in North America as of 2020. With the size and growth of the HPC market, it is 
+important to ensure supply continuity of this segment. When the HPC market is added to the electronics portion of defense, aerospace, and space market, the overall market size is on the order of $70-90B within North America. The size of these combined segments justifies strengthened capability and capacity to enable a resili ent and assured advanced packaging supply 
+chain  
+Critical Applications Requiring AI-based Servers  
+AI-based servers are essential for a wide range of applications across various industries due to 
+their ability to process large datasets, perform complex computations, and enable advanced machine learning and deep learning models. Some of the key applications requiring AI- based 
+servers include:  
+Financ e 
+•Fraud Detection: AI analyzes transaction patterns to detect fraudulent activities in real
+time.
+•Algorithmic Trading: AI algorithms process large volumes of financial data to make high- frequency trading decisions.
+Automotive  
+•Autonomous Vehicles: AI servers are used to process sensor data from cameras, LIDAR,and radar to enable self -driving capabilities.
+•Predictive Maintenance: AI predicts when vehicle components are likely to fail,
+improving maintenance schedules and reducing downtime.
+Healthcare 
+•Medical Imaging: AI is used for analyzing medical images (e.g., X- rays, MRIs) to detect
+diseases like cancer, and for automating image analysis to improve diagnostic accuracy.
+•Predictive Analytics: AI -based servers process patient data to predict disease outbreaks,
+patient readmissions, and treatment outcomes.
+Retail  
+•Recommendation Systems: AI analyzes customer data to provide personalized productrecommendations, enhancing the shopping experience.
+•Inventory Management: AI optimizes inventory levels by predicting demand and
+automating restocking processes.
+Manufacturing 
+•Quality Control: AI systems inspect products for defects using computer vision.
+
+
+•Robotic s: AI controls robotic systems for tasks such as assembly, welding, and
+packaging.
+Telecommunications  
+•Network Optimization: AI analyzes network traffic to optimize performance and predict
+outages.
+•Customer Service: AI -powered chatbots handle customer inquiries and provide support.
+Entert ainment  
+•Content Recommendation: Streaming services use AI to recommend movies and shows
+based on user preferences.
+•Content Creation: AI assists in creating music, videos, and other forms of digital content.
+Energy  
+•Grid Management: AI optimizes the distribution of electricity and predicts energy
+demand.
+•Renewable Energy: AI improves the efficiency of renewable energy sources like wind
+and solar by optimizing operations.
+Cybersecurity 
+•Threat Detection: AI analyzes network traffic and user behavior to identify and respond
+to security threats.
+•Incident Response: AI automates the response to detected threats, reducing response
+times and mitigating damage.
+Natural Language Processing (NLP) 
+•Language Translation: AI systems translate text and speech between languages.
+•Sentiment Analysis: AI analyzes text data to determine sentiment, useful for market
+research and customer feedback analysis.
+These applications leverage the high computational power, data processing capabilities, and 
+machine learning models provided by AI- based servers to deliver advanced functionalities and 
+improve efficiency across various domains (MIT Technology Review) (AMD). 
+
+
+Supply Chain for AI Compute Technologies  
+Servers, edge workstations, solutions and services are all needed for AI adoption and innovation. 
+Generative AI is expected to bring in new types of computing infrastructure and associated hardware. The electronics components and manufacturing capabilities that enable this technology include CPUs/GPUs, HBM and other analog and mixed signal components designs, electronic design automation ( EDA) tools, advanced packaging, assembly manufacturing, test, 
+printed circuit boards, board assembly and final system assembly.  
+The Uni ted States was once a leader in both design and manufacturing of hardware. Today, a 
+closer look at the supply chain for the above listed technologies, will uncover grave vulnerabilities in need of attention.  
+Desig n 
+Complex CPU/GPUs, high bandwidth memory devices, high speed digital/analog devices, advanced package designs (including heterogeneous assembly and integration methods), high density (HDI) and ultra-high density (UHDI) printed circuit board (PCB) designs and printed circuit board assemblies (PCBA) are all essential for the realization of the AI server and storage hardware. Component, modules/ subsystem, system level designs with electrical, thermal and thermo/mechanical co -designs and design optimization bec ome more critical. Thermal 
+management and advanced electronics cooling techniques need to be developed. Associated with these designs – model generation, simulation methodologies development, and optimization techniques need to be developed and applied. EDA  tool development goes hand in hand with 
+these design requirements and challenges. 
+Materia ls  
+Materials development, supply sourcing, and material test/characterization techniques are needed to support the manufacturing of components (active and passive), advanced packaging component assembly, high density interconnect printed circuit boards (HDI PCB) and component assembly to printed circuit boards (PCBA). A robust materials supply chain infrastructure is essential to develop the AI server and storage hardware electronics. Materials for electronics use are a matter of constant research, development , and innovation which is triggered 
+by the need for higher power on smaller spaces, heat dissipation and cooling due to power losses, higher frequencies, signal integrity and electromagnetic interference, advanced packaging and heterogeneous integration, functional plastics and plastronics, additive technologies, and optical and quantum materials. 
+Assem bly Processes  
+Component- level assembly processes for new AI -based processors using heterogeneous 
+integration approaches and chiplet- based architectures require significant changes at integrated 
+device manufacturers (IDMs) and outsourced semiconductor assembly and test m anufacturers 
+(OSAT). Changes include the assembly integration of co-packaged optics/fiber alignment, hybrid bonding, bumping, fabrication/integration of new large body (120-150mm), panel- based 
+substrate materials (e.g., glass, high power substrate materials), and application of advanced 
+
+
+therm al interface materials (TIMs) and innovative cooling techniques. In addition – electrical, 
+optical, circuit continuity, and burn-in test processes/protocols require innovation due to the 
+increased number of active chips (integrated compute/memory) contained within AI processor component packages. 
+Once hi gh-performance computing (HPC) AI processor components are built they are then 
+assembled along with a variety of other electronic and mechanical components onto a PCB which connects them to the rest of the system. This process of integrating individual components onto a printed circuit board is called printed circuit board assembly (PCBA). When one or more PCBAs are connected this is called system -level assembly. The entire process is referred to as 
+system -level packaging. AI processor system- level a ssembly changes for these process steps 
+include increased PCB wiring densities / routing complexity / stack-ups / flatness, solder paste printing of 10,000+ I/O deposits, large body component placement equipment capabilities, uniform SMT oven reflow, AOI/ AXI inspection, along with increased TIM application and heat sink assembly. Increased active liquid cooling approaches are needed in addition to conventional air-cooled methods.  
+Asse mbly of advanced AI components to HDI PCBs needs new PCBA processes, equipment, 
+and test techniques that are qualified to ensure high quality and high reliability AI hardware systems to customers.  
+Current State of the Supply Chain  
+As stated within the intent section of the report, several areas are identified that are critical and, therefore, require significant government attention and investment to enable a stronger, more resilient domestic supply chain for next generation AI serve data centers from design to manufacture. Focus and investment is needed in the following areas:  
+•IC-substr ate design and fabrication
+•AI component- level assembly and test
+•HBM chip assembly manufacturing
+•PCB design / HDI fabrication
+•PCBA assembly and test
+
+
+The fol lowing chart shows the supply chain capabilities by global region for three critical 
+technology areas.  
+AI-based CPU/GPU 
+components  United States  Asia  Canada  Mexico  Europe  
+Chip design  very high  medium  none  medium  medium  
+Substrate  design/fabrication  very low  high none  none  low 
+AI component -level assembly 
+and test low high low low Low 
+HBM memory components  United States  Asia  Canada  Mexico  Europe  
+Chip design  high very high  none  none  very low  
+AI component -level assembly 
+and test low very high  none  low low 
+AI server/ storage systems  United States  Asia Canada  Mexico  Europe  
+Overall system architecture and 
+design  very high  medium  very low  very low  medium  
+Integration of AI -based 
+CPU/GPU components  very high  medium  very low  very low  high 
+PCB design/ HDI fabrication  low very high  low low very low  
+PCBA design  medium  high low medium  low 
+PCBA assembly and test  medium  very high  medium  high medium  
+Sub-and final system assembly 
+and test  medium  high low high medium  
+AI-base d data centers/systems are owned by market leading OEMs (e.g., HP Enterprise, IBM, 
+Dell), with concept designs and architectures developed within the United States. Other leading 
+server OEMs globally include Fujitsu (Japan), Inspur, and Lenovo (both China), among others. 
+AI-base d CPU/GPU Chip Design  
+While CPU/GPUs for AI applications are designed in the United States, they are also dependent on Asia for state-of-the-art (SOTA) semiconductor chip fabrication. Companies within the United States in recent years have worked to increase domestic capabiliti es (e.g., US Intel fabs 
+AI-based server chips.)  
+Substra te Fabrication  
+The US is dependent on Asia for SOTA IC- substrate fabrication. (e.g., Unimicron, Ibiden, 
+SEMCO, Kyocera, Shinko). This is an important point – state of the art chip designs require SOTA IC -substrates and package assembly. Initial investments through the CHIPS Act and 
+Defense Production Act Purchases are helping to improve the situation with some US- based 
+PCB suppliers working to produce IC-substrates (e.g., Calumet, Green Source) but greater capabilities and capacities are needed.  
+
+
+AI Co mponent -Level Assembly and Test  
+AI component- level manufacturing in the United States is well established with many small- and 
+medium-sized domestic OSATs in operation. Advanced packaging capabilities, automation, and 
+know-how within many companies will need to be increased. Recent announcements from IBM, AMKOR, and ASE will significantly strengthen North American assembly capabilities.  
+High B andwidth Memory Chip Design  
+A similar dependance on high bandwidth memory in Asia is also prevalent. However, the recent announcement from SK Hynix, expanding HBM memory production in Indiana with Purdue, will strengthen HBM production capabilities in the United States.  
+AI Serv er / Storage Systems  
+For AI systems, US- based OEMs own overall system architecture with the ability to select and 
+integrate selected AI -based components. This is what differentiates market leading systems from 
+the rest of the market. PCB/HDI fabrication that is needed to integ rate AI components into the 
+larger system have limited design capability with minimal and shrinking PCB fabrication capability within the United States. The erosion of the domestic PCB fabrication industry has been identified in multiple U.S. government studies a significant risk to economic and national security, including a March 2023 Presidential Determination identifying PCB manufacturing as a critical industrial base shortfall that would severely impair national defense capabilities.  
+•2023 Pres idential Determination 2023-06 on Printed Circuit Boards and Advanced
+Packaging Production Capability
+•2023 Depart ment of Commerce, Bureau of Industry and Security Office of Technology
+Evaluation: Assessment of the Status of Electronics Industrial Base in the United States
+•2023 House Se lect Committee on Strategic Competition between the United States and
+the Chinese Communist Party, “Reset, Prevent, Build: a strategy to win America’ s
+economic competition with the Chinese Communist Party”
+•2022 Depart ments of Commerce and Homeland Security Assessment of the Critical Supply
+Chains Supporting the U.S. Information and Communications Technology Industry
+•2018 EO  13806 As sessment: “Assessing and Strengthening the Manufacturing & Defense
+Industrial Base and Supply Chain Resiliency of the United States”
+•2017 Depart ment of Commerce, Bureau of Industry and Security Office of Technology
+Evaluation: U.S. Bare Printed Circuit Board Industry Assessment
+
+
+Exampl es of PCB fabricators capable of producing server grade PCBs include e.g., Summit 
+Interconnect, TTM, Sanmina, Calumet, Green Source, among others. Note this is not an 
+exhaustive listing.  
+AI se rver printed circuit board assembly (PCBA) has some strength across North America, 
+particularly in Mexico. It is important to note a steady decline in US- based PCBA has occurred 
+over the past twenty years and needs investment and attention to bolster complex integrated system (CIS) assemblies found within many AI-based hardware products. Canada with a favorable exchange rate would be another good option for lower cost PCBA assembly of advanced AI server systems. 
+Final s ystem assembly (FSA) is still largely conducted at OEM hub locations within the United 
+States that bring all sub -systems together and build final functional systems for shipment to 
+customers. In addition, FSA is also conducted at EMS manufacturers (e.g., Flex, Jabil, Celestica) following PCBA assembly and shipped directly to customers. In both cases, FSA is strong in the US and is strengthening in Mexico in combination but improvements in PCBA capability and capacity is needed.  
+
+
+Policy Recommendations to Improve US -based AI Data Center Resiliency  
+To secure U.S. leadership in AI, the United States must address serious gaps in its supply chain 
+for critical hardware components. The following actions are recommended: 
+1)Recogn ize electronics manufacturing as a critical component of economic and national
+security policy, and implement a strategy to revitalize all industry segments.
+2) Improve  domestic sources of state-of- the-art substrate fabrication
+3) Improve  PCB/HDI fabrication capability – the PCB industry within the U.S. needs
+significant attention. Some proposed policies would stimulate investment in capability
+and expanded capacity
+a.Incent ives like the 25% credit for sourcing U.S. made printed circuit boards as
+proposed in the Protecting Circuit Boards and Substrates Act (H.R.3249 in the118
+th Congress)
+b. A product ion-based incentive similar to 45X for PCBs and PCB assemblies
+c.Expansi on of investment credits like the 48D advanced manufacturing investment
+d. Ensure  full funding of the Defense Production Act Purchases (DPAP) allocation
+for printed circuit board manufacturing to address the Presidential Determination.
+4) Encoura ge and incentivize more PBCA manufacturing within the United States and
+leverage Mexico as a low -cost manufacturing location.
+5) Util ize robotics, automation, data analytics adoption for higher productivity/efficiency
+PCB fabrication and PCBA manufacturing domestically
+6) Obtai n demand signals from DOD and DOC to encourage sourcing domestic components
+– needed to build sustainable business models.
+
+
+Summary of Key Technologies 
+There are three important areas in need of support to enable AI server data centers including (1) 
+AI-based CPU/GPU components, (2) HBM memory components, and (3) AI server/storage 
+systems. Within these areas several key technology areas must be supported to enable 
+domestically manufactured AI data centers: design, materials, assembly processes, reliabi lity, 
+and qualification / metrology tools. Current state analysis identifies several areas that are critical, requiring meaningful government attention and investments/incentives to enable a stronger, more resilient AI server supply chain. 
+•IC-substr ate design and fabrication
+•AI com ponent assembly and test
+•HBM c hip assembly manufacturing
+•PCB de sign / HDI fabrication
+•PCBA  assembly and test
+
+
+Summary of Supply Chain Capabilities 
+1.AI-based data centers/systems are owned by market leading OEMs (HP Enterprise, IBM,
+Dell), with concept designs and architectures largely developed within the United States.
+2.While C PU/GPUs for AI applications are designed in the United States, they are also
+dependent on Asia for state-of-the-art (SOTA) semiconductor chip fabrication.
+Companies within the United States in recent years have worked to increase domesticcapabilities (e.g., US Intel fabs can produce AI-based server chips.)
+3.The US  is dependent on Asia for SOTA IC-substrate fabrication. (e.g., Unimicron, Ibiden,
+SEMCO, Kyocera, Shinko) This is an important point – state of the art chip designs
+require SOTA IC substrates and package assembly. Recent announcements via the US
+CHIPS Act are helping to improve the situation with some US -based PCB suppliers
+working to produce IC-substrates (e.g., Calumet, Green Source), but more advancedcapabilities and capacities are needed.
+4.AI com ponent- level manufacturing in the United States is well established with many
+small- and medium-sized domestic OSATs in operation. Advanced packagingcapabilities, automation, and know-how within many companies will need to beincreased. Recent annou ncements from IBM, AMKOR, and ASE will significantly
+strengthen North American assembly capabilities.
+5.For A I systems, US-based OEMs own overall system architecture with the ability to
+select and integrate selected AI -based components. This is what differentiates market
+leading systems from the rest of the market.
+6.PCB/ HDI fabrication that is needed to integrate AI components into the larger system
+have limited design capability with minimal and shrinking PCB fabrication capability
+within the United States. Examples of PCB fabricators capable of producing server grade
+PCBs include e.g., Calumet, Green Source, Sanmina, Summit Interconnect, and TTMamong others. Note, this is not an exhaustive listing.
+7.AI se rver printed circuit board assembly (PCBA) has some strength across North
+America, particularly in Mexico. It is important to note a steady decline in US -based
+PCBA has occurred over the past twenty years and needs investment and attention tobolster complex integrated system (CIS) assemblies found within many AI- based
+
+
+hardwa re products. Canada with a favorable exchange rate would be another good option 
+for lower cost PCBA assembly of advanced AI server systems.  
+8.Final s ystem assembly (FSA) is still largely conducted at OEM hub locations within the
+United States that bring all sub -systems together and build final functional systems for
+shipment to customers. In addition, FSA is also conducted at EMS manufacturers (e.g.,
+Flex, Jabil, Celestica) following PCBA assembly and shipped directly to customers. Inboth cases, FSA is strong in the US, and is strengthening in Mexico in combination butimprovements in PCBA capability and capacity is .
+IPC a ppreciates the opportunity to provide input on the development of a national AI Action 
+Plan. To maintain a leadership position in the global AI competition, the United States must 
+address gaps in its supply chain for the advanced electronics hardware outlined above. As the global electronics association serving members across the entire supply cha in from silicon -to-
+systems, in every sector of the economy we welcome the opportunity to answer any follow-up questions or provide additional information throughout the action plan development process. Please feel free to contact Senior Director of North American Government Relations at 
+ or 
+Sincer ely, 
+Richa rd Cappetto  
+Senior Director Government Relations, North America 
+
+
