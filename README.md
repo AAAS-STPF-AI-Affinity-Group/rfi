@@ -51,3 +51,42 @@ python code/main.py --analyze --top_n 5 # Analyze only first 5 files
 
 ## Work in Progress
 - **enum_example.py**: Script demonstrating how to constrain LLM responses to a predefined set of values (e.g., submitter types). This approach has the model return only allowed values from an enumeration.
+
+## Test Cases
+To begin with, we are using the following test cases:
+
+- AI-RFI-2025-2555
+  - This is a public comment submitted by Glenn Parham in his personal capacity.
+  - It focuses on government efficiency with sections on Talent & Workforce, Acquisition & Adoption, Authorization & Compliance, Infrastructure, Data Ownership & IP, and Security Research.
+  - It is a bit tricky in that the final section is given as "security" in the summary, but it is actually labeled "R&D" in the text as it is security research. 
+- OpenAI-RFI-2025
+  - This is a public comment submitted by OpenAI in their capacity as a company.
+  - It focuses on federal preemption of state AI regulations, export control strategy, building infrastructure, weakening copyright protections, and government adoption of AI.
+  - It is a bit tricky in that the final section is given as "security" in the summary, but it is actually labeled "R&D" in the text as it is security research. 
+- ASCAP-AI-RFI-2025-1
+  - This is a public comment submitted by the American Society of Composers, Authors and Publishers
+  - It deals almost exclusively with copyright and has an opposing viewpoint to OpenAI
+- DS4Everyone-AI-RFI-2025
+  - Data Science 4 Everyone is an academic group focused on Data Science education
+  - Their submission specifically calls on NSF to create a national Digital Frontier Teaching Corps and Teacher College Innovation Grants
+
+## Test Questions
+For each of the test cases, we will ask the following questions:
+
+1. On a 1-5 scale, where 1 is "very worried" and 5 is "very enthusiastic", how would you rate the submission's sentiment towards AI adoption?
+2. Tag the repository with whether it deals with the following:
+  - Data Privacy and Security
+  - Ethical AI Frameworks and Bias Mitigation
+  - Workforce Development and Education
+  - Need for Computing Infrastructure
+  - Specific Regulatory Approaches (e.g., sector-specific vs. broad)
+  - International Collaboration and Standards
+  - Research and Development Funding Priorities
+  - Impact on Small Businesses
+  - National Security Implications
+  - Intellectual Property Issues
+  - Increasing Government Efficiency
+3. If there are any topics not given in #2, identify them and add them to the list
+4. For each topic cluster, summarize key arguments, proposals, and concerns raised within that theme across all relevant responses.
+5. Provide 5 keywords that best encapsulate the submission's main ideas.
+6. Identify and extract actionable policy suggestions mentioned in the text. E.g. "Implement mandatory model audits" or "Fund AI literacy programs"
