@@ -225,7 +225,7 @@
             </div>
             
             <footer class="mt-8 text-center text-gray-500 text-sm">
-                <p>Generated on 2025-04-27 12:41:04</p>
+                <p>Generated on 2025-04-27 12:54:42</p>
             </footer>
         </div>
 
@@ -603,7 +603,7 @@
                             }
                             
                             // Handle scalar fields
-                            return filter.values.includes(String(itemValue));
+                            return filter.values.some(value => String(itemValue) === String(value));
                         }
                         
                         return true;
