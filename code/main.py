@@ -6,12 +6,11 @@ import shutil
 from pathlib import Path
 import PyPDF2
 from dotenv import load_dotenv
-import datetime
+from datetime import datetime
 import json
 import jinja2
 import pandas as pd
 from tqdm import tqdm
-from google import genai
 
 load_dotenv()
 
@@ -131,7 +130,15 @@ class Analyzer:
 For each text you receive, please extract the following fields:
 
 - summary: A short paragraph summarizing the main points.
-- submitter_type: The type of submitter (e.g., individual, company, advocacy group, etc.). If unclear, guess based on context.
+- submitter_type: The type of submitter, chosen ONLY from the following list:
+  - Academia
+  - Individual
+  - Industry/professional/scientific association
+  - Non-federal government
+  - Non-profit
+  - Private sector
+  If unclear, guess based on context.
+- agencies: A list of any U.S. federal agencies, departments, or offices mentioned in the submission. Write out each name fully in standardized format, followed by its abbreviation in parentheses if commonly known (e.g., "Food and Drug Administration (FDA)"). If an abbreviation is not commonly used, omit it. If no agencies are mentioned, return an empty list.
 - interesting_quotes: A list of up to 3 interesting direct quotes from the text.
 - sentiment_rating: On a 1-5 scale, rate the submission's sentiment towards AI adoption, where:
   - 1 = very worried
@@ -215,7 +222,7 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model
     if top_n:
         txt_files = txt_files[:top_n]
 
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_filename = os.path.join(processed_data_dir, f"analyzed_{timestamp}.json")
 
     if os.path.exists(output_filename):
@@ -259,132 +266,16 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model
 
     return output_filename
 
-
-
 def make_html(json_file_path, output_dir):
-    """Generate a flexible HTML report from analyzed data."""
+    """Generate HTML reports from analyzed data with pagination, better filtering, and GitHub Pages support.
+    
+    Creates two files:
+    1. A timestamped report with all data embedded
+    2. An index.html file that loads data externally for GitHub Pages
+    """
+
     create_directory(output_dir)
     
-    print(f"Reading analysis from: {json_file_path}")
-    with open(json_file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    # Flatten data into a list of dicts
-    records = []
-    for filename, analysis in data.items():
-        record = {'filename': filename}
-        record.update(analysis)
-        records.append(record)
-
-    df = pd.DataFrame(records)
-
-    fields = df.columns.tolist()  # <- auto detect the fields
-
-    json_data = df.to_json(orient='records')
-
-    # Simple HTML template with dynamic fields
-    template_str = '''
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Public Comments Analysis</title>
-        <script src="https://cdn.tailwindcss.com"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
-    </head>
-    <body class="bg-gray-100 p-6">
-        <div class="container mx-auto">
-            <h1 class="text-3xl font-bold mb-6 text-center">Public Comments Analysis</h1>
-
-            <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-4 rounded">
-                Download CSV
-            </button>
-
-            <div class="overflow-x-auto">
-                <table id="dataTable" class="min-w-full bg-white">
-                    <thead>
-                        <tr>
-                            {% for field in fields %}
-                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">{{ field }}</th>
-                            {% endfor %}
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <!-- Rows injected by JavaScript -->
-                    </tbody>
-                </table>
-            </div>
-        </div>
-
-        <script>
-            const analysisData = {{ json_data|safe }};
-            const fields = {{ fields|tojson }};
-
-            document.addEventListener('DOMContentLoaded', function() {
-                populateTable(analysisData);
-
-                document.getElementById('downloadCsv').addEventListener('click', downloadCsv);
-            });
-
-            function populateTable(data) {
-                const tbody = document.querySelector('#dataTable tbody');
-                tbody.innerHTML = '';
-
-                data.forEach(item => {
-                    const row = document.createElement('tr');
-                    row.className = 'hover:bg-gray-50';
-                    row.innerHTML = fields.map(field =>
-                        `<td class="py-2 px-4 border-b">${item[field] !== undefined ? item[field] : ''}</td>`
-                    ).join('');
-                    tbody.appendChild(row);
-                });
-            }
-
-            function downloadCsv() {
-                const csv = Papa.unparse(analysisData);
-                const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-                const url = URL.createObjectURL(blob);
-                const link = document.createElement('a');
-                link.setAttribute('href', url);
-                link.setAttribute('download', 'public_comments_analysis.csv');
-                link.style.visibility = 'hidden';
-                document.body.appendChild(link);
-                link.click();
-                document.body.removeChild(link);
-            }
-        </script>
-    </body>
-    </html>
-    '''
-
-    env = jinja2.Environment()
-    env.filters['tojson'] = lambda obj: json.dumps(obj)
-    template = env.from_string(template_str)
-
-    html_content = template.render(
-        json_data=json_data,
-        fields=fields
-    )
-
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    html_file_path = os.path.join(output_dir, f"report_{timestamp}.html")
-    with open(html_file_path, 'w', encoding='utf-8') as f:
-        f.write(html_content)
-
-    print(f"HTML report generated: {html_file_path}")
-    return html_file_path
-
-def make_html(json_file_path, output_dir):
-    """Generate a flexible HTML report from analyzed data, with per-column search and submitter chart."""
-    import os
-    import json
-    import pandas as pd
-    import jinja2
-    from datetime import datetime
-
-    create_directory(output_dir)
-
     print(f"Reading analysis from: {json_file_path}")
     with open(json_file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -397,10 +288,46 @@ def make_html(json_file_path, output_dir):
         records.append(record)
 
     df = pd.DataFrame(records)
+    
+    # Identify enumerated fields (fields where we want checkboxes instead of text search)
+    enumerated_fields = [
+        'submitter_type', 
+        'sentiment_rating',
+        'main_topics'
+    ]
+    
+    # Get unique values for each enumerated field
+    enumerated_values = {}
+    for field in enumerated_fields:
+        if field in df.columns:
+            # For list fields like main_topics, flatten the lists to get all unique values
+            if df[field].dtype == 'object' and isinstance(df[field].iloc[0], list):
+                all_values = []
+                for item_list in df[field].dropna():
+                    if isinstance(item_list, list):
+                        all_values.extend(item_list)
+                    else:
+                        all_values.append(item_list)
+                unique_values = sorted(list(set(all_values)))
+            else:
+                unique_values = sorted(df[field].dropna().unique().tolist())
+            enumerated_values[field] = unique_values
+    
     fields = df.columns.tolist()
     json_data = df.to_json(orient='records')
     submitter_counts = df['submitter_type'].value_counts().to_dict()
-
+    
+    # First, create the timestamped HTML with embedded data
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    embedded_file_path = os.path.join(output_dir, f"report_{timestamp}.html")
+    
+    # Save the data as a separate JSON file for GitHub Pages
+    data_file_path = os.path.join(output_dir, "data.json")
+    with open(data_file_path, 'w', encoding='utf-8') as f:
+        f.write(json_data)
+    print(f"JSON data file generated: {data_file_path}")
+    
+    # Template for both versions (embedded and index.html)
     template_str = '''
     <!DOCTYPE html>
     <html lang="en">
@@ -411,33 +338,104 @@ def make_html(json_file_path, output_dir):
         <script src="https://cdn.tailwindcss.com"></script>
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+        <style>
+            .filter-panel {
+                max-height: 200px;
+                overflow-y: auto;
+            }
+        </style>
     </head>
     <body class="bg-gray-100 p-6">
         <div class="container mx-auto">
             <h1 class="text-3xl font-bold mb-6 text-center">Public Comments Analysis</h1>
-
-            <!-- Submitter Types Chart -->
-            <div class="bg-white p-6 rounded-lg shadow mb-8">
-                <h2 class="text-xl font-semibold mb-4">Submitter Types</h2>
-                <canvas id="submitterChart"></canvas>
+            
+            <!-- Stats Overview -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+                <div class="bg-white p-6 rounded-lg shadow">
+                    <h2 class="text-xl font-semibold mb-4">Total Submissions</h2>
+                    <p class="text-4xl font-bold text-blue-600" id="totalSubmissions">...</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow md:col-span-2">
+                    <h2 class="text-xl font-semibold mb-4">Submitter Types</h2>
+                    <canvas id="submitterChart"></canvas>
+                </div>
             </div>
 
-            <!-- Data Table with per-column search -->
+            <!-- Filters -->
+            <div class="bg-white p-6 rounded-lg shadow mb-8">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-semibold">Filters</h2>
+                    <button id="clearFilters" class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded">
+                        Clear All Filters
+                    </button>
+                </div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <!-- Enumerated filters - generated dynamically -->
+                    {% for field, values in enumerated_values.items() %}
+                    <div class="filter-group">
+                        <h3 class="font-semibold mb-2">{{ field }}</h3>
+                        <div class="filter-panel bg-gray-50 p-3 rounded">
+                            {% for value in values %}
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="{{ field }}_{{ loop.index }}" class="filter-checkbox mr-2" 
+                                       data-field="{{ field }}" data-value="{{ value }}">
+                                <label for="{{ field }}_{{ loop.index }}" class="text-sm">{{ value }}</label>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                    
+                    <!-- Text search fields - for non-enumerated fields -->
+                    {% for field in fields %}
+                        {% if field not in enumerated_values.keys() %}
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">{{ field }}</h3>
+                            <input type="text" data-field="{{ field }}" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Data Table -->
             <div class="bg-white p-6 rounded-lg shadow">
                 <div class="flex justify-between items-center mb-4">
                     <h2 class="text-xl font-semibold">Data Table</h2>
-                    <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                        Download CSV
-                    </button>
+                    <div class="flex space-x-2">
+                        <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                            Download Filtered CSV
+                        </button>
+                    </div>
                 </div>
+                
+                <!-- Pagination controls - top -->
+                <div class="flex justify-between items-center mb-4">
+                    <div>
+                        <span>Show</span>
+                        <select id="rowsPerPage" class="mx-2 p-1 border rounded">
+                            <option value="10">10</option>
+                            <option value="25">25</option>
+                            <option value="50" selected>50</option>
+                            <option value="100">100</option>
+                        </select>
+                        <span>entries</span>
+                    </div>
+                    <div class="pagination-controls">
+                        <button id="prevPage" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-l disabled:opacity-50">Prev</button>
+                        <span id="pageInfo" class="bg-gray-100 px-4 py-1">Page 1 of 1</span>
+                        <button id="nextPage" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-r disabled:opacity-50">Next</button>
+                    </div>
+                </div>
+                
                 <div class="overflow-x-auto">
                     <table id="dataTable" class="min-w-full bg-white">
                         <thead>
                             <tr>
                                 {% for field in fields %}
                                 <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
-                                    {{ field }}<br>
-                                    <input type="text" data-field="{{ field }}" class="columnSearch mt-1 p-1 border rounded w-full text-xs" placeholder="Search...">
+                                    {{ field }}
                                 </th>
                                 {% endfor %}
                             </tr>
@@ -447,22 +445,86 @@ def make_html(json_file_path, output_dir):
                         </tbody>
                     </table>
                 </div>
+                
+                <!-- Pagination controls - bottom -->
+                <div class="flex justify-between items-center mt-4">
+                    <div id="tableInfo" class="text-sm text-gray-600">Showing 0 to 0 of 0 entries</div>
+                    <div class="pagination-controls">
+                        <button id="prevPageBottom" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-l disabled:opacity-50">Prev</button>
+                        <span id="pageInfoBottom" class="bg-gray-100 px-4 py-1">Page 1 of 1</span>
+                        <button id="nextPageBottom" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-r disabled:opacity-50">Next</button>
+                    </div>
+                </div>
             </div>
         </div>
 
         <script>
+            {% if is_embedded %}
+            // Embedded version - data included in the page
             const analysisData = {{ json_data|safe }};
+            {% else %}
+            // GitHub Pages version - load data from external file
+            let analysisData = [];
+            fetch('data.json')
+                .then(response => response.json())
+                .then(data => {
+                    analysisData = data;
+                    initializeApp();
+                })
+                .catch(error => {
+                    console.error('Error loading data:', error);
+                    document.querySelector('#dataTable tbody').innerHTML = 
+                        '<tr><td colspan="' + fields.length + '" class="py-4 text-center text-red-500">Error loading data. Please try again.</td></tr>';
+                });
+            {% endif %}
+            
             const submitterCounts = {{ submitter_counts|tojson }};
             const fields = {{ fields|tojson }};
-
-            document.addEventListener('DOMContentLoaded', function() {
-                populateTable(analysisData);
-
-                // Set up per-column search
+            const enumeratedFields = {{ enumerated_fields|tojson }};
+            
+            // Pagination state
+            let currentPage = 1;
+            let rowsPerPage = 50;
+            let filteredData = [];
+            
+            {% if is_embedded %}
+            // For embedded version, initialize immediately
+            document.addEventListener('DOMContentLoaded', initializeApp);
+            {% endif %}
+            
+            function initializeApp() {
+                // Initialize filteredData with all data
+                filteredData = [...analysisData];
+                
+                // Display stats
+                document.getElementById('totalSubmissions').textContent = analysisData.length;
+                
+                // Apply initial filtering and display
+                applyFiltersAndUpdateTable();
+                
+                // Set up event listeners
                 document.querySelectorAll('.columnSearch').forEach(input => {
-                    input.addEventListener('input', filterTable);
+                    input.addEventListener('input', applyFiltersAndUpdateTable);
                 });
-
+                
+                document.querySelectorAll('.filter-checkbox').forEach(checkbox => {
+                    checkbox.addEventListener('change', applyFiltersAndUpdateTable);
+                });
+                
+                document.getElementById('clearFilters').addEventListener('click', clearAllFilters);
+                document.getElementById('downloadCsv').addEventListener('click', downloadFilteredCsv);
+                document.getElementById('rowsPerPage').addEventListener('change', function() {
+                    rowsPerPage = parseInt(this.value);
+                    currentPage = 1; // Reset to first page
+                    applyFiltersAndUpdateTable();
+                });
+                
+                // Pagination controls
+                document.getElementById('prevPage').addEventListener('click', () => changePage(-1));
+                document.getElementById('nextPage').addEventListener('click', () => changePage(1));
+                document.getElementById('prevPageBottom').addEventListener('click', () => changePage(-1));
+                document.getElementById('nextPageBottom').addEventListener('click', () => changePage(1));
+                
                 // Submitter Type Bar Chart
                 const submitterCtx = document.getElementById('submitterChart').getContext('2d');
                 new Chart(submitterCtx, {
@@ -486,48 +548,177 @@ def make_html(json_file_path, output_dir):
                         }
                     }
                 });
-
-                document.getElementById('downloadCsv').addEventListener('click', downloadCsv);
-            });
-
-            function filterTable() {
-                const filters = {};
+            }
+            
+            function clearAllFilters() {
+                // Clear all text search inputs
+                document.querySelectorAll('.columnSearch').forEach(input => {
+                    input.value = '';
+                });
+                
+                // Uncheck all checkboxes
+                document.querySelectorAll('.filter-checkbox').forEach(checkbox => {
+                    checkbox.checked = false;
+                });
+                
+                // Reset pagination
+                currentPage = 1;
+                
+                // Reapply filters (which will now show all data)
+                applyFiltersAndUpdateTable();
+            }
+            
+            function applyFiltersAndUpdateTable() {
+                // Get text search filters
+                const textFilters = {};
                 document.querySelectorAll('.columnSearch').forEach(input => {
                     const field = input.dataset.field;
                     const value = input.value.trim().toLowerCase();
-                    if (value) filters[field] = value;
+                    if (value) textFilters[field] = value;
                 });
-
-                const filteredData = analysisData.filter(item => {
-                    return Object.entries(filters).every(([field, searchValue]) => {
-                        return (String(item[field] || '').toLowerCase().includes(searchValue));
+                
+                // Get checkbox filters grouped by field
+                const checkboxFilters = {};
+                document.querySelectorAll('.filter-checkbox:checked').forEach(checkbox => {
+                    const field = checkbox.dataset.field;
+                    const value = checkbox.dataset.value;
+                    
+                    if (!checkboxFilters[field]) {
+                        checkboxFilters[field] = [];
+                    }
+                    checkboxFilters[field].push(value);
+                });
+                
+                // Apply all filters
+                filteredData = analysisData.filter(item => {
+                    // Check text filters
+                    const textFilterPassed = Object.entries(textFilters).every(([field, searchValue]) => {
+                        const itemValue = item[field];
+                        if (itemValue === null || itemValue === undefined) return false;
+                        return String(itemValue).toLowerCase().includes(searchValue);
+                    });
+                    
+                    if (!textFilterPassed) return false;
+                    
+                    // Check checkbox filters
+                    return Object.entries(checkboxFilters).every(([field, values]) => {
+                        if (values.length === 0) return true; // No filter selected
+                        
+                        const itemValue = item[field];
+                        
+                        // Handle array fields (like main_topics)
+                        if (Array.isArray(itemValue)) {
+                            return values.some(value => itemValue.includes(value));
+                        }
+                        
+                        // Handle scalar fields
+                        return values.includes(String(itemValue));
                     });
                 });
-
-                populateTable(filteredData);
+                
+                // Update pagination info
+                updatePaginationControls();
+                
+                // Display the filtered and paginated data
+                displayPagedData();
             }
-
-            function populateTable(data) {
+            
+            function updatePaginationControls() {
+                const totalPages = Math.max(1, Math.ceil(filteredData.length / rowsPerPage));
+                
+                // Ensure current page is valid
+                if (currentPage > totalPages) {
+                    currentPage = totalPages;
+                }
+                
+                // Update page info displays
+                document.getElementById('pageInfo').textContent = `Page ${currentPage} of ${totalPages}`;
+                document.getElementById('pageInfoBottom').textContent = `Page ${currentPage} of ${totalPages}`;
+                
+                // Update table info
+                const start = (currentPage - 1) * rowsPerPage + 1;
+                const end = Math.min(start + rowsPerPage - 1, filteredData.length);
+                document.getElementById('tableInfo').textContent = 
+                    `Showing ${filteredData.length > 0 ? start : 0} to ${end} of ${filteredData.length} entries`;
+                
+                // Enable/disable prev/next buttons
+                const prevButtons = [document.getElementById('prevPage'), document.getElementById('prevPageBottom')];
+                const nextButtons = [document.getElementById('nextPage'), document.getElementById('nextPageBottom')];
+                
+                prevButtons.forEach(btn => {
+                    btn.disabled = currentPage === 1;
+                    btn.classList.toggle('opacity-50', currentPage === 1);
+                });
+                
+                nextButtons.forEach(btn => {
+                    btn.disabled = currentPage === totalPages;
+                    btn.classList.toggle('opacity-50', currentPage === totalPages);
+                });
+            }
+            
+            function changePage(direction) {
+                const totalPages = Math.ceil(filteredData.length / rowsPerPage);
+                const newPage = currentPage + direction;
+                
+                if (newPage >= 1 && newPage <= totalPages) {
+                    currentPage = newPage;
+                    displayPagedData();
+                    updatePaginationControls();
+                    
+                    // Scroll to top of table
+                    document.getElementById('dataTable').scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+            
+            function displayPagedData() {
                 const tbody = document.querySelector('#dataTable tbody');
                 tbody.innerHTML = '';
-
-                data.forEach(item => {
+                
+                if (filteredData.length === 0) {
+                    const noDataRow = document.createElement('tr');
+                    noDataRow.innerHTML = `<td colspan="${fields.length}" class="py-4 text-center">No matching records found</td>`;
+                    tbody.appendChild(noDataRow);
+                    return;
+                }
+                
+                const start = (currentPage - 1) * rowsPerPage;
+                const pagedData = filteredData.slice(start, start + rowsPerPage);
+                
+                pagedData.forEach(item => {
                     const row = document.createElement('tr');
                     row.className = 'hover:bg-gray-50';
-                    row.innerHTML = fields.map(field =>
-                        `<td class="py-2 px-4 border-b">${item[field] !== undefined ? item[field] : ''}</td>`
-                    ).join('');
+                    
+                    fields.forEach(field => {
+                        const cell = document.createElement('td');
+                        cell.className = 'py-2 px-4 border-b';
+                        
+                        let content = item[field];
+                        
+                        // Format array values
+                        if (Array.isArray(content)) {
+                            content = content.join(', ');
+                        }
+                        
+                        // Handle null/undefined values
+                        cell.innerHTML = (content !== undefined && content !== null) ? content : '';
+                        
+                        row.appendChild(cell);
+                    });
+                    
                     tbody.appendChild(row);
                 });
             }
-
-            function downloadCsv() {
-                const csv = Papa.unparse(analysisData);
+            
+            function downloadFilteredCsv() {
+                // Use only currently filtered data
+                const csv = Papa.unparse(filteredData);
                 const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
                 const url = URL.createObjectURL(blob);
+                const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+                
                 const link = document.createElement('a');
                 link.setAttribute('href', url);
-                link.setAttribute('download', 'public_comments_analysis.csv');
+                link.setAttribute('download', `public_comments_analysis_${timestamp}.csv`);
                 link.style.visibility = 'hidden';
                 document.body.appendChild(link);
                 link.click();
@@ -540,22 +731,39 @@ def make_html(json_file_path, output_dir):
 
     env = jinja2.Environment()
     env.filters['tojson'] = lambda obj: json.dumps(obj)
-    template = env.from_string(template_str)
-
-    html_content = template.render(
+    
+    # Create the embedded version (with data included in the HTML)
+    embedded_template = env.from_string(template_str)
+    embedded_html = embedded_template.render(
         json_data=json_data,
         submitter_counts=submitter_counts,
-        fields=fields
+        fields=fields,
+        enumerated_fields=enumerated_fields,
+        enumerated_values=enumerated_values,
+        is_embedded=True
     )
-
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    html_file_path = os.path.join(output_dir, f"report_{timestamp}.html")
-    with open(html_file_path, 'w', encoding='utf-8') as f:
-        f.write(html_content)
-
-    print(f"HTML report generated: {html_file_path}")
-    return html_file_path
-
+    
+    with open(embedded_file_path, 'w', encoding='utf-8') as f:
+        f.write(embedded_html)
+    print(f"Timestamped HTML report generated: {embedded_file_path}")
+    
+    # Create the index.html version (loads data externally)
+    index_html_path = os.path.join(output_dir, "index.html")
+    index_template = env.from_string(template_str)
+    index_html = index_template.render(
+        json_data="[]",  # Empty array, will load data from data.json
+        submitter_counts=submitter_counts,
+        fields=fields,
+        enumerated_fields=enumerated_fields,
+        enumerated_values=enumerated_values,
+        is_embedded=False
+    )
+    
+    with open(index_html_path, 'w', encoding='utf-8') as f:
+        f.write(index_html)
+    print(f"Index.html generated for GitHub Pages: {index_html_path}")
+    
+    return embedded_file_path
 
 def main():
     """Main function to parse arguments and run the script."""
@@ -565,6 +773,7 @@ def main():
     parser.add_argument('--analyze', action='store_true', help='Analyze extracted text files')
     parser.add_argument('--top_n', type=int, default=None, help='Analyze only the top N .txt files')
     parser.add_argument('--make_html', action='store_true', help='Generate HTML report from analysis')
+    parser.add_argument('--make_github_pages', action='store_true', help='Generate HTML report optimized for GitHub Pages')
     parser.add_argument('--json_file', type=str, help='Path to JSON file for HTML generation (if not using --analyze)')
     parser.add_argument('--model', type=str, default='gpt-4o-mini', choices=['gpt-4o-mini', 'gemini-2.5-flash-preview-04-17', 'gpt-4.1-mini'], help='Specify the AI model to use for analysis')
     args = parser.parse_args()
@@ -574,6 +783,7 @@ def main():
     text_dir = os.path.join(repo_dir, 'text')
     processed_data_dir = os.path.join(repo_dir, 'processed_data')
     html_output_dir = os.path.join(repo_dir, 'html_reports')
+    github_pages_dir = os.path.join(repo_dir, 'docs')  # GitHub Pages uses the 'docs' folder by default
     
     create_directory(raw_data_dir)
     
@@ -586,37 +796,42 @@ def main():
         process_pdfs(raw_data_dir, text_dir)
 
     # If no flags like --download_only or --process_only or --analyze are given, do download+process by default
-    if not args.download_only and not args.process_only and not args.analyze and not args.make_html:
+    if not args.download_only and not args.process_only and not args.analyze and not args.make_html and not args.make_github_pages:
         download_and_extract(raw_data_dir)
         process_pdfs(raw_data_dir, text_dir)
 
     if args.analyze:
         json_file_path = analyze_texts(text_dir, processed_data_dir, top_n=args.top_n, model=args.model)
-        
-    if args.make_html:
-        # If json_file is specified, use that, otherwise use the one from analyze_texts
+    
+    # Find the most recent JSON file if none specified
+    if (args.make_html or args.make_github_pages) and not json_file_path:
         if args.json_file:
             json_file_path = args.json_file
-        elif json_file_path is None:
-            # Find the most recent JSON file if none specified
-            if os.path.exists(processed_data_dir):
-                json_files = [f for f in os.listdir(processed_data_dir) if f.lower().endswith('.json')]
-                if json_files:
-                    json_files.sort(reverse=True)  # Sort by name descending (usually includes timestamp)
-                    json_file_path = os.path.join(processed_data_dir, json_files[0])
-                    print(f"Using most recent JSON file: {json_file_path}")
-                else:
-                    print("No JSON files found in processed_data directory. Please run --analyze first or specify a JSON file with --json_file.")
-                    return
+        elif os.path.exists(processed_data_dir):
+            json_files = [f for f in os.listdir(processed_data_dir) if f.lower().endswith('.json')]
+            if json_files:
+                json_files.sort(reverse=True)  # Sort by name descending (usually includes timestamp)
+                json_file_path = os.path.join(processed_data_dir, json_files[0])
+                print(f"Using most recent JSON file: {json_file_path}")
             else:
-                print(f"Directory {processed_data_dir} does not exist. Please run --analyze first or specify a JSON file with --json_file.")
+                print("No JSON files found in processed_data directory. Please run --analyze first or specify a JSON file with --json_file.")
                 return
+        else:
+            print(f"Directory {processed_data_dir} does not exist. Please run --analyze first or specify a JSON file with --json_file.")
+            return
         
         if not os.path.exists(json_file_path):
             print(f"JSON file not found: {json_file_path}")
             return
-            
+    
+    if args.make_html:
+        # Use original HTML generation for reports (embedded data)
         make_html(json_file_path, html_output_dir)
+            
+    if args.make_github_pages:
+        # Use our new version for GitHub Pages
+        create_directory(github_pages_dir)
+        make_html(json_file_path, github_pages_dir)  # This will now create both timestamped and index.html files
 
 
 if __name__ == "__main__":

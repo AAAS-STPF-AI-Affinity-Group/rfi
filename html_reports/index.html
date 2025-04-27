@@ -1,0 +1,647 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Public Comments Analysis</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+        <style>
+            .filter-panel {
+                max-height: 200px;
+                overflow-y: auto;
+            }
+        </style>
+    </head>
+    <body class="bg-gray-100 p-6">
+        <div class="container mx-auto">
+            <h1 class="text-3xl font-bold mb-6 text-center">Public Comments Analysis</h1>
+            
+            <!-- Stats Overview -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+                <div class="bg-white p-6 rounded-lg shadow">
+                    <h2 class="text-xl font-semibold mb-4">Total Submissions</h2>
+                    <p class="text-4xl font-bold text-blue-600" id="totalSubmissions">...</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow md:col-span-2">
+                    <h2 class="text-xl font-semibold mb-4">Submitter Types</h2>
+                    <canvas id="submitterChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Filters -->
+            <div class="bg-white p-6 rounded-lg shadow mb-8">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-semibold">Filters</h2>
+                    <button id="clearFilters" class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded">
+                        Clear All Filters
+                    </button>
+                </div>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <!-- Enumerated filters - generated dynamically -->
+                    
+                    <div class="filter-group">
+                        <h3 class="font-semibold mb-2">submitter_type</h3>
+                        <div class="filter-panel bg-gray-50 p-3 rounded">
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="submitter_type_1" class="filter-checkbox mr-2" 
+                                       data-field="submitter_type" data-value="Academia">
+                                <label for="submitter_type_1" class="text-sm">Academia</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="submitter_type_2" class="filter-checkbox mr-2" 
+                                       data-field="submitter_type" data-value="Industry/professional/scientific association">
+                                <label for="submitter_type_2" class="text-sm">Industry/professional/scientific association</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="submitter_type_3" class="filter-checkbox mr-2" 
+                                       data-field="submitter_type" data-value="Non-profit">
+                                <label for="submitter_type_3" class="text-sm">Non-profit</label>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <h3 class="font-semibold mb-2">sentiment_rating</h3>
+                        <div class="filter-panel bg-gray-50 p-3 rounded">
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="sentiment_rating_1" class="filter-checkbox mr-2" 
+                                       data-field="sentiment_rating" data-value="2">
+                                <label for="sentiment_rating_1" class="text-sm">2</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="sentiment_rating_2" class="filter-checkbox mr-2" 
+                                       data-field="sentiment_rating" data-value="4">
+                                <label for="sentiment_rating_2" class="text-sm">4</label>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <h3 class="font-semibold mb-2">main_topics</h3>
+                        <div class="filter-panel bg-gray-50 p-3 rounded">
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_1" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Application and Use in the Private Sector">
+                                <label for="main_topics_1" class="text-sm">Application and Use in the Private Sector</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_2" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Application and Use in the Public Sector">
+                                <label for="main_topics_2" class="text-sm">Application and Use in the Public Sector</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_3" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Cybersecurity">
+                                <label for="main_topics_3" class="text-sm">Cybersecurity</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_4" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Data Privacy and Security">
+                                <label for="main_topics_4" class="text-sm">Data Privacy and Security</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_5" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Data Readiness and Integration">
+                                <label for="main_topics_5" class="text-sm">Data Readiness and Integration</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_6" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Education and Workforce Development">
+                                <label for="main_topics_6" class="text-sm">Education and Workforce Development</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_7" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Ethical AI Frameworks and Bias Mitigation">
+                                <label for="main_topics_7" class="text-sm">Ethical AI Frameworks and Bias Mitigation</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_8" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Explainability and Assurance of AI Model Outputs">
+                                <label for="main_topics_8" class="text-sm">Explainability and Assurance of AI Model Outputs</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_9" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Innovation and Competition">
+                                <label for="main_topics_9" class="text-sm">Innovation and Competition</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_10" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="International Collaboration">
+                                <label for="main_topics_10" class="text-sm">International Collaboration</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_11" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Job Displacement">
+                                <label for="main_topics_11" class="text-sm">Job Displacement</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_12" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Model Development">
+                                <label for="main_topics_12" class="text-sm">Model Development</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_13" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="National Security and Defense">
+                                <label for="main_topics_13" class="text-sm">National Security and Defense</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_14" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Procurement">
+                                <label for="main_topics_14" class="text-sm">Procurement</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_15" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Regulatory Approaches">
+                                <label for="main_topics_15" class="text-sm">Regulatory Approaches</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_16" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Research and Development Funding Priorities">
+                                <label for="main_topics_16" class="text-sm">Research and Development Funding Priorities</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_17" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Social Impacts">
+                                <label for="main_topics_17" class="text-sm">Social Impacts</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_18" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Specific Regulatory Approaches (e.g., sector-specific vs. broad)">
+                                <label for="main_topics_18" class="text-sm">Specific Regulatory Approaches (e.g., sector-specific vs. broad)</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_19" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Technical and Safety Standards">
+                                <label for="main_topics_19" class="text-sm">Technical and Safety Standards</label>
+                            </div>
+                            
+                            <div class="flex items-center mb-1">
+                                <input type="checkbox" id="main_topics_20" class="filter-checkbox mr-2" 
+                                       data-field="main_topics" data-value="Workforce Development and Education">
+                                <label for="main_topics_20" class="text-sm">Workforce Development and Education</label>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                    <!-- Text search fields - for non-enumerated fields -->
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">filename</h3>
+                            <input type="text" data-field="filename" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">summary</h3>
+                            <input type="text" data-field="summary" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                        
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">agencies</h3>
+                            <input type="text" data-field="agencies" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">interesting_quotes</h3>
+                            <input type="text" data-field="interesting_quotes" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                        
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">sentiment_rationale</h3>
+                            <input type="text" data-field="sentiment_rationale" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                        
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">additional_themes</h3>
+                            <input type="text" data-field="additional_themes" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">keywords</h3>
+                            <input type="text" data-field="keywords" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                        
+                        <div class="filter-group">
+                            <h3 class="font-semibold mb-2">policy_suggestions</h3>
+                            <input type="text" data-field="policy_suggestions" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
+                        </div>
+                        
+                    
+                </div>
+            </div>
+
+            <!-- Data Table -->
+            <div class="bg-white p-6 rounded-lg shadow">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-semibold">Data Table</h2>
+                    <div class="flex space-x-2">
+                        <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                            Download Filtered CSV
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Pagination controls - top -->
+                <div class="flex justify-between items-center mb-4">
+                    <div>
+                        <span>Show</span>
+                        <select id="rowsPerPage" class="mx-2 p-1 border rounded">
+                            <option value="10">10</option>
+                            <option value="25">25</option>
+                            <option value="50" selected>50</option>
+                            <option value="100">100</option>
+                        </select>
+                        <span>entries</span>
+                    </div>
+                    <div class="pagination-controls">
+                        <button id="prevPage" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-l disabled:opacity-50">Prev</button>
+                        <span id="pageInfo" class="bg-gray-100 px-4 py-1">Page 1 of 1</span>
+                        <button id="nextPage" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-r disabled:opacity-50">Next</button>
+                    </div>
+                </div>
+                
+                <div class="overflow-x-auto">
+                    <table id="dataTable" class="min-w-full bg-white">
+                        <thead>
+                            <tr>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    filename
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    summary
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    submitter_type
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    agencies
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    interesting_quotes
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    sentiment_rating
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    sentiment_rationale
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    main_topics
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    additional_themes
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    keywords
+                                </th>
+                                
+                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+                                    policy_suggestions
+                                </th>
+                                
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Rows injected by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+                
+                <!-- Pagination controls - bottom -->
+                <div class="flex justify-between items-center mt-4">
+                    <div id="tableInfo" class="text-sm text-gray-600">Showing 0 to 0 of 0 entries</div>
+                    <div class="pagination-controls">
+                        <button id="prevPageBottom" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-l disabled:opacity-50">Prev</button>
+                        <span id="pageInfoBottom" class="bg-gray-100 px-4 py-1">Page 1 of 1</span>
+                        <button id="nextPageBottom" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-r disabled:opacity-50">Next</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            
+            // GitHub Pages version - load data from external file
+            let analysisData = [];
+            fetch('data.json')
+                .then(response => response.json())
+                .then(data => {
+                    analysisData = data;
+                    initializeApp();
+                })
+                .catch(error => {
+                    console.error('Error loading data:', error);
+                    document.querySelector('#dataTable tbody').innerHTML = 
+                        '<tr><td colspan="' + fields.length + '" class="py-4 text-center text-red-500">Error loading data. Please try again.</td></tr>';
+                });
+            
+            
+            const submitterCounts = {"Industry/professional/scientific association": 14, "Non-profit": 5, "Academia": 1};
+            const fields = ["filename", "summary", "submitter_type", "agencies", "interesting_quotes", "sentiment_rating", "sentiment_rationale", "main_topics", "additional_themes", "keywords", "policy_suggestions"];
+            const enumeratedFields = ["submitter_type", "sentiment_rating", "main_topics"];
+            
+            // Pagination state
+            let currentPage = 1;
+            let rowsPerPage = 50;
+            let filteredData = [];
+            
+            
+            
+            function initializeApp() {
+                // Initialize filteredData with all data
+                filteredData = [...analysisData];
+                
+                // Display stats
+                document.getElementById('totalSubmissions').textContent = analysisData.length;
+                
+                // Apply initial filtering and display
+                applyFiltersAndUpdateTable();
+                
+                // Set up event listeners
+                document.querySelectorAll('.columnSearch').forEach(input => {
+                    input.addEventListener('input', applyFiltersAndUpdateTable);
+                });
+                
+                document.querySelectorAll('.filter-checkbox').forEach(checkbox => {
+                    checkbox.addEventListener('change', applyFiltersAndUpdateTable);
+                });
+                
+                document.getElementById('clearFilters').addEventListener('click', clearAllFilters);
+                document.getElementById('downloadCsv').addEventListener('click', downloadFilteredCsv);
+                document.getElementById('rowsPerPage').addEventListener('change', function() {
+                    rowsPerPage = parseInt(this.value);
+                    currentPage = 1; // Reset to first page
+                    applyFiltersAndUpdateTable();
+                });
+                
+                // Pagination controls
+                document.getElementById('prevPage').addEventListener('click', () => changePage(-1));
+                document.getElementById('nextPage').addEventListener('click', () => changePage(1));
+                document.getElementById('prevPageBottom').addEventListener('click', () => changePage(-1));
+                document.getElementById('nextPageBottom').addEventListener('click', () => changePage(1));
+                
+                // Submitter Type Bar Chart
+                const submitterCtx = document.getElementById('submitterChart').getContext('2d');
+                new Chart(submitterCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: Object.keys(submitterCounts),
+                        datasets: [{
+                            label: 'Number of Submissions',
+                            data: Object.values(submitterCounts),
+                            backgroundColor: '#4299E1'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: { legend: { display: false } },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                ticks: { precision: 0 }
+                            }
+                        }
+                    }
+                });
+            }
+            
+            function clearAllFilters() {
+                // Clear all text search inputs
+                document.querySelectorAll('.columnSearch').forEach(input => {
+                    input.value = '';
+                });
+                
+                // Uncheck all checkboxes
+                document.querySelectorAll('.filter-checkbox').forEach(checkbox => {
+                    checkbox.checked = false;
+                });
+                
+                // Reset pagination
+                currentPage = 1;
+                
+                // Reapply filters (which will now show all data)
+                applyFiltersAndUpdateTable();
+            }
+            
+            function applyFiltersAndUpdateTable() {
+                // Get text search filters
+                const textFilters = {};
+                document.querySelectorAll('.columnSearch').forEach(input => {
+                    const field = input.dataset.field;
+                    const value = input.value.trim().toLowerCase();
+                    if (value) textFilters[field] = value;
+                });
+                
+                // Get checkbox filters grouped by field
+                const checkboxFilters = {};
+                document.querySelectorAll('.filter-checkbox:checked').forEach(checkbox => {
+                    const field = checkbox.dataset.field;
+                    const value = checkbox.dataset.value;
+                    
+                    if (!checkboxFilters[field]) {
+                        checkboxFilters[field] = [];
+                    }
+                    checkboxFilters[field].push(value);
+                });
+                
+                // Apply all filters
+                filteredData = analysisData.filter(item => {
+                    // Check text filters
+                    const textFilterPassed = Object.entries(textFilters).every(([field, searchValue]) => {
+                        const itemValue = item[field];
+                        if (itemValue === null || itemValue === undefined) return false;
+                        return String(itemValue).toLowerCase().includes(searchValue);
+                    });
+                    
+                    if (!textFilterPassed) return false;
+                    
+                    // Check checkbox filters
+                    return Object.entries(checkboxFilters).every(([field, values]) => {
+                        if (values.length === 0) return true; // No filter selected
+                        
+                        const itemValue = item[field];
+                        
+                        // Handle array fields (like main_topics)
+                        if (Array.isArray(itemValue)) {
+                            return values.some(value => itemValue.includes(value));
+                        }
+                        
+                        // Handle scalar fields
+                        return values.includes(String(itemValue));
+                    });
+                });
+                
+                // Update pagination info
+                updatePaginationControls();
+                
+                // Display the filtered and paginated data
+                displayPagedData();
+            }
+            
+            function updatePaginationControls() {
+                const totalPages = Math.max(1, Math.ceil(filteredData.length / rowsPerPage));
+                
+                // Ensure current page is valid
+                if (currentPage > totalPages) {
+                    currentPage = totalPages;
+                }
+                
+                // Update page info displays
+                document.getElementById('pageInfo').textContent = `Page ${currentPage} of ${totalPages}`;
+                document.getElementById('pageInfoBottom').textContent = `Page ${currentPage} of ${totalPages}`;
+                
+                // Update table info
+                const start = (currentPage - 1) * rowsPerPage + 1;
+                const end = Math.min(start + rowsPerPage - 1, filteredData.length);
+                document.getElementById('tableInfo').textContent = 
+                    `Showing ${filteredData.length > 0 ? start : 0} to ${end} of ${filteredData.length} entries`;
+                
+                // Enable/disable prev/next buttons
+                const prevButtons = [document.getElementById('prevPage'), document.getElementById('prevPageBottom')];
+                const nextButtons = [document.getElementById('nextPage'), document.getElementById('nextPageBottom')];
+                
+                prevButtons.forEach(btn => {
+                    btn.disabled = currentPage === 1;
+                    btn.classList.toggle('opacity-50', currentPage === 1);
+                });
+                
+                nextButtons.forEach(btn => {
+                    btn.disabled = currentPage === totalPages;
+                    btn.classList.toggle('opacity-50', currentPage === totalPages);
+                });
+            }
+            
+            function changePage(direction) {
+                const totalPages = Math.ceil(filteredData.length / rowsPerPage);
+                const newPage = currentPage + direction;
+                
+                if (newPage >= 1 && newPage <= totalPages) {
+                    currentPage = newPage;
+                    displayPagedData();
+                    updatePaginationControls();
+                    
+                    // Scroll to top of table
+                    document.getElementById('dataTable').scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+            
+            function displayPagedData() {
+                const tbody = document.querySelector('#dataTable tbody');
+                tbody.innerHTML = '';
+                
+                if (filteredData.length === 0) {
+                    const noDataRow = document.createElement('tr');
+                    noDataRow.innerHTML = `<td colspan="${fields.length}" class="py-4 text-center">No matching records found</td>`;
+                    tbody.appendChild(noDataRow);
+                    return;
+                }
+                
+                const start = (currentPage - 1) * rowsPerPage;
+                const pagedData = filteredData.slice(start, start + rowsPerPage);
+                
+                pagedData.forEach(item => {
+                    const row = document.createElement('tr');
+                    row.className = 'hover:bg-gray-50';
+                    
+                    fields.forEach(field => {
+                        const cell = document.createElement('td');
+                        cell.className = 'py-2 px-4 border-b';
+                        
+                        let content = item[field];
+                        
+                        // Format array values
+                        if (Array.isArray(content)) {
+                            content = content.join(', ');
+                        }
+                        
+                        // Handle null/undefined values
+                        cell.innerHTML = (content !== undefined && content !== null) ? content : '';
+                        
+                        row.appendChild(cell);
+                    });
+                    
+                    tbody.appendChild(row);
+                });
+            }
+            
+            function downloadFilteredCsv() {
+                // Use only currently filtered data
+                const csv = Papa.unparse(filteredData);
+                const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+                const url = URL.createObjectURL(blob);
+                const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+                
+                const link = document.createElement('a');
+                link.setAttribute('href', url);
+                link.setAttribute('download', `public_comments_analysis_${timestamp}.csv`);
+                link.style.visibility = 'hidden';
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            }
+        </script>
+    </body>
+    </html>
+    
