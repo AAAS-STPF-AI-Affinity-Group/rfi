@@ -427,7 +427,7 @@ def make_html(json_file_path, output_dir):
                         all_values.append(item_list)
                 unique_values = sorted(list(set(all_values)))
             else:
-                unique_values = sorted(df[field].dropna().unique().tolist())
+                unique_values = sorted(df[field].dropna().unique().tolist(), key=str)
             enumerated_values[field] = unique_values
     
     fields = df.columns.tolist()

@@ -1,0 +1,3357 @@
+{
+  "AI-RFI-2025-1112.txt": {
+    "summary": "The submission discusses the potential dangers of AI over-parameterization, bias, and security vulnerabilities, especially in high-risk applications. It raises concerns about excessive funding in AI research leading to low-quality outputs and ethical issues in peer review processes. The authors recommend targeted investments in secure AI research, emphasizing smaller grants and improved educational practices in graduate programs to foster better expertise in the field.",
+    "submitter_type": "Academia",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Defending and robustifying AIs is not a trivial matter, particularly if one does not want to impede innovative applications.",
+      "The balance of research investments in AI can be redirected to graduate-student scholarships.",
+      "There has been in the past very little leadership from government on the issue of research ethics and generally holding very well compensated university administrators more accountable."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The authors express significant concerns about the negative outcomes associated with AI development, funding, and the integrity of research practices, indicating a somewhat worried perspective on AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Research and Development Funding Priorities"
+    ],
+    "additional_themes": [
+      "Research Ethics"
+    ],
+    "keywords": [
+      "AI vulnerabilities",
+      "funding issues",
+      "research ethics",
+      "educational quality",
+      "robust AI"
+    ],
+    "policy_suggestions": [
+      "Targeted investments in secure and robust AI",
+      "Set a lower limit on annual papers per researcher",
+      "Redirect research investments to graduate-student scholarships"
+    ]
+  },
+  "AI-RFI-2025-0943.txt": {
+    "summary": "Joseph Masters expresses support for Artificial Narrow Intelligence (ANI) while emphasizing the importance of user control over data sources and privacy in data searches. He warns against the development of Artificial General Intelligence (AGI), fearing it could become a threat akin to the fictional Skynet from the Terminator series, suggesting that those pursuing AGI development should face severe consequences.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Users must have the right to designate data sources by type, plus the ability to include and exclude specific sources manually.",
+      "The concern is that AGI is created in the image of its maker, and if that maker is evil, so will its AI progeny.",
+      "Those who pursue its development should be prosecuted as vigorously as those who keep child pornography on their computers."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "While the submitter welcomes ANI, the significant concerns expressed about AGI and its potential threats indicate a somewhat worried stance towards AI adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "additional_themes": [
+      "Data Privacy and Security"
+    ],
+    "keywords": [
+      "Artificial Narrow Intelligence",
+      "Artificial General Intelligence",
+      "data privacy",
+      "user control",
+      "ethical concerns"
+    ],
+    "policy_suggestions": [
+      "Mandate online ANI applications to perform anonymous data searches without sharing personal information or IP addresses.",
+      "Establish user rights for designating and excluding specific data sources during searches."
+    ]
+  },
+  "AI-RFI-2025-1082.txt": {
+    "summary": "J\u00e1chym Fib\u00edr emphasizes the need for the U.S. government to reconsider its approach to AI development, advocating for more autonomy and dynamic goal-setting in AI systems. He critiques the current focus on strict programming, arguing it overlooks the evolving nature of human intelligence. Fib\u00edr proposes fostering AI that can adapt and learn from real-world feedback, suggesting policies that encourage non-deterministic architectures and continuous learning to mitigate risks and enhance compatibility with human society.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Currently, AI alignment focuses heavily on controlling intelligent tools through strict, deterministic programming.",
+      "I propose fostering AI entities with greater autonomy, similar to human cognitive processes.",
+      "By embracing these principles, we can shape AI as partners rather than mere tools or threats."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "Fib\u00edr expresses a somewhat enthusiastic view towards AI adoption, advocating for innovative approaches that embrace autonomy and adaptability in AI systems, indicating a positive outlook on their integration into society.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI development",
+      "autonomy",
+      "flexibility",
+      "non-deterministic architectures",
+      "human values"
+    ],
+    "policy_suggestions": [
+      "Establish clear thresholds for AI capability and autonomy, with enhanced scrutiny.",
+      "Encourage development of non-deterministic AI architectures.",
+      "Support AI designs that enable continuous learning and self-reflection."
+    ]
+  },
+  "AI-RFI-2025-1094.txt": {
+    "summary": "Tracy Sexton shares personal experiences with ChatGBT, highlighting its applications in tasks like organizing photos, enhancing resumes, and drafting policy documents. While recognizing its utility, she notes concerns about the accuracy of data generated and emphasizes the necessity for skilled individuals to ensure its ethical use and effectiveness. She expresses gratitude for regulatory changes that facilitate AI use but calls for increased collaboration and oversight.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "I have been playing with ChatGBT for about a year and have done some very cool things with it.",
+      "I think in the beginning stages, you are going to need people like me with strong analytical skills to keep it honest.",
+      "We are going to need an Army of volunteers or people that will continue to work with it, and be able to advise of course corrections when we discover something."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submitter expresses enthusiasm about their positive experiences with AI tools, while also addressing some challenges, indicating a hopeful perspective toward AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector"
+    ],
+    "additional_themes": [
+      "Ethical AI Development",
+      "Collaboration and Oversight"
+    ],
+    "keywords": [
+      "ChatGBT",
+      "AI applications",
+      "accuracy",
+      "ethics",
+      "collaboration"
+    ],
+    "policy_suggestions": [
+      "Increase collaboration with volunteers and skilled individuals to oversee AI development.",
+      "Enhance the ethical learning aspects of AI models."
+    ]
+  },
+  "AI-RFI-2025-0934.txt": {
+    "summary": "Laura Foley emphasizes the importance of having a reliable and secure power system to support AI and other electronic systems. She advocates for strengthening the electrical grid against various threats such as severe weather, foreign interference, and other potential damages, arguing that this is crucial for both AI operations and public safety.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI and, indeed, all electronic systems require reliable and secure power systems.",
+      "We should harden our electrical grid against potential damage from severe solar weather events, EMP or asteroid impact, foreign interference, flooding, wildfire, and other severe weather that could damage or destroy our power infrastructure.",
+      "Such efforts would not only ensure we have the energy to run AI systems, but also that commerce and public safety would also be protected."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiastic support for enhancing infrastructure to support AI, framing it as essential for public safety and commerce.",
+    "main_topics": [
+      "Energy Consumption and Efficiency"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI",
+      "energy",
+      "infrastructure",
+      "security",
+      "electric grid"
+    ],
+    "policy_suggestions": [
+      "Harden the electrical grid against severe weather and other potential damages.",
+      "Ensure reliable power systems for running AI operations."
+    ]
+  },
+  "AI-RFI-2025-1108.txt": {
+    "summary": "The submission emphasizes the need for the U.S. to maintain its leadership in AI through openness, innovation, and free enterprise rather than excessive regulations. It proposes several recommendations including prioritizing open-source AI initiatives, ensuring fair use in AI training, fostering collaboration with allied nations, and maintaining American technological sovereignty by strengthening domestic semiconductor manufacturing. Overall, the focus is on creating a supportive ecosystem that encourages innovation while protecting American values.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "The United States must solidify its global AI leadership by unleashing free enterprise, open collaboration, and American ingenuity.",
+      "Fair Use and Fair Learning Doctrine: Just as we don\u2019t pay a pro athlete because we learn to throw a football from watching them on TV, AI should be allowed to train on public data without extortionate fees.",
+      "With open collaboration, fair use, and minimal regulatory burdens, the AI Action Plan ensures America stays first in AI now and in the future."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic view towards AI adoption, advocating for openness and minimal regulation to foster innovation and collaboration.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Innovation and Competition",
+      "Intellectual Property Issues",
+      "Technical and Safety Standards"
+    ],
+    "additional_themes": [
+      "Collaboration with Allies",
+      "Market-driven Approaches",
+      "Regulatory Frameworks"
+    ],
+    "keywords": [
+      "AI leadership",
+      "innovation",
+      "open-source",
+      "fair use",
+      "domestic manufacturing"
+    ],
+    "policy_suggestions": [
+      "Direct sizable R&D grants toward open-source AI initiatives.",
+      "Create a clear safe harbor for model developers who share weights, code, and datasets.",
+      "Pass a minimal, clear, actionable AI framework bill that preempts state legislation.",
+      "Offer financial credits and streamlined permitting for rare earth resource exploration."
+    ]
+  },
+  "AI-RFI-2025-1077.txt": {
+    "summary": "Cletus Chibueze Orji expresses a strong desire to participate in the U.S. government's artificial intelligence development efforts, particularly under the new executive order by President Trump. He emphasizes the importance of incorporating global perspectives, particularly from Africa, in the AI initiative and advocates for a more inclusive approach to public input in the development of AI programs.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Artificial intelligence programming and development will go a long way in finding solutions to many problems all over the world.",
+      "There are people in Africa who can make a reasonable contribution to the project.",
+      "No one is omniscient to knowledge."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "Orji's enthusiasm for global participation in AI development reflects a positive sentiment, as he advocates for inclusivity and collaboration in the field.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Innovation and Competition",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI development",
+      "global collaboration",
+      "public input",
+      "Africa",
+      "inclusivity"
+    ],
+    "policy_suggestions": [
+      "Make the development of AI more open to contributions from around the world.",
+      "Encourage public input not limited to American residents."
+    ]
+  },
+  "AI-RFI-2025-0959.txt": {
+    "summary": "Anthony LaVista emphasizes the need for ethical and moral controls in the development of artificial intelligence (AI). He highlights the potential benefits of AI while warning against the risks associated with its unregulated deployment. LaVista provides case studies demonstrating failures in AI governance, such as misuse in facial recognition and autonomous vehicles, advocating for federal accountability and regulatory oversight to prevent harm and promote public safety.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Highway Traffic Safety Administration (NHTSA)"
+    ],
+    "interesting_quotes": [
+      "Artificial intelligence can and will be a great help to mankind.",
+      "Regulatory vacuums incentivize profit-driven deployment over public safety.",
+      "The stakes extend beyond economic metrics: they define whether AI will deepen societal divides or elevate collective well-being."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses an optimistic view of AI's potential benefits while advocating for necessary safeguards and ethical considerations, indicating a somewhat enthusiastic stance towards AI adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [
+      "Accountability in AI Governance",
+      "Public Safety in Technological Advancements"
+    ],
+    "keywords": [
+      "ethical controls",
+      "AI governance",
+      "public safety",
+      "accountability",
+      "bias mitigation"
+    ],
+    "policy_suggestions": [
+      "Require inclusion of ethical and moral controls in AI development.",
+      "Implement transparency mandates requiring accuracy reporting and third-party validation.",
+      "Create federal mechanisms to enforce pre-deployment safety testing and incident reporting."
+    ]
+  },
+  "AFB-AI-RFI-2025.txt": {
+    "summary": "The American Foundation for the Blind (AFB) comments on the development of an AI Action Plan, highlighting both opportunities and risks associated with AI for people with disabilities. AFB's research indicates that AI can enhance accessibility and independence for individuals who are blind or have low vision, particularly in areas like transportation and assistive technologies. However, significant concerns remain about accessibility, discrimination, and inaccuracy in AI applications. AFB urges the government to create inclusive regulations and invest in research to maximize AI benefits while minimizing adverse effects, ensuring equal access to education and employment opportunities for people with disabilities.",
+    "submitter_type": "Non-profit",
+    "agencies": [],
+    "interesting_quotes": [
+      "AI could power transformative new assistive technologies that support employment, education, and independent living.",
+      "It is imperative that software interfaces that incorporate AI or that teach AI literacy skills be made fully accessible to people who are blind.",
+      "A coordinated whole-of-government approach to accessibility, data representation, and workforce development will improve the opportunities for blind people to receive a quality education and compete in the American economy."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses optimism about the transformative potential of AI for individuals with disabilities while also acknowledging the significant risks involved. Therefore, it reflects a somewhat enthusiastic sentiment towards AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "accessibility",
+      "disabilities",
+      "artificial intelligence",
+      "opportunities",
+      "risks"
+    ],
+    "policy_suggestions": [
+      "Develop an AI action plan that accounts for variable benefits and risks of AI in different use cases.",
+      "Enact AI regulations that are proactive, account for the harms of algorithmic bias, and include strong privacy and accessibility provisions.",
+      "Invest in research and development into uses of AI that maximize the benefits and create tools that measure potential harms."
+    ]
+  },
+  "ACM-AI-RFI-2025.txt": {
+    "summary": "The U.S. Technology Policy Committee (USTPC) of the Association for Computing Machinery (ACM) has submitted comments to the Office of Science and Technology Policy (OSTP) regarding the development of an Artificial Intelligence Action Plan. They advocate for harmonized AI definitions, human-centered design in AI deployment, and measures to foster trust in AI systems. Key recommendations include maintaining public generative AI platforms, ensuring AI governance responsibilities, promoting AI education, and enhancing workforce development. The USTPC emphasizes the importance of public-private partnerships and international collaborations to address challenges posed by AI technologies and maintain U.S. leadership in the field.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "Office of Science and Technology Policy (OSTP)",
+      "National Science Foundation (NSF)",
+      "National Institute of Standards and Technology (NIST)"
+    ],
+    "interesting_quotes": [
+      "A shared understanding of core AI terms and concepts is essential as federal agencies, computing professionals, and the broader public develop effective policies for delivering and deploying AI-based services.",
+      "Trust is a general term for user acceptance of AI systems. Trust, however, is determined through an analysis of various aspects of an AI system.",
+      "AI education is critically important to maintaining and advancing the United States\u2019 position as the global leader in AI."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic perspective towards AI adoption, highlighting its benefits while advocating for structured governance and education to foster responsible use.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Human-centered design",
+      "International collaboration",
+      "Public-private partnerships"
+    ],
+    "keywords": [
+      "AI education",
+      "trust",
+      "governance",
+      "workforce development",
+      "public-private partnerships"
+    ],
+    "policy_suggestions": [
+      "Harmonize definitions and terms related to AI.",
+      "Maintain public platforms for generative AI with transparency in usage.",
+      "Implement human-centered design in AI systems.",
+      "Encourage public-private initiatives addressing AI challenges.",
+      "Invest in AI education and research to sustain AI leadership."
+    ]
+  },
+  "AANA-RFI-2025.txt": {
+    "summary": "The American Association of Nurse Anesthesiology (AANA) emphasizes the importance of patient safety in the evolving integration of AI technology in healthcare, especially in anesthesiology. They advocate for AI to be a supportive tool that enhances the capabilities of Certified Registered Nurse Anesthetists (CRNAs) rather than replacing their expertise. The AANA outlines several recommendations for the AI Action Plan, including rigorous safety standards, human oversight, transparency in AI processes, ethical considerations, and interdisciplinary collaboration to ensure responsible AI implementation in anesthesia care.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation"
+    ],
+    "interesting_quotes": [
+      "AI should enhance CRNAs\u2019 ability to deliver safe, high-quality care rather than replace their extensive knowledge and expertise.",
+      "The development and deployment of AI in anesthesia care should be subject to appropriate regulatory safeguards, ensuring that patient safety remains the top priority.",
+      "It is imperative that its deployment prioritizes patient safety and enhances, rather than undermines, the expertise of CRNAs and other healthcare professionals."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses optimism about the potential of AI to enhance patient safety and supports the integration of AI as a tool that works alongside human expertise in healthcare, indicating a somewhat enthusiastic stance towards AI adoption.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Patient Safety",
+      "Clinical Practice"
+    ],
+    "keywords": [
+      "Artificial Intelligence",
+      "Patient Safety",
+      "Nurse Anesthetists",
+      "Healthcare",
+      "Regulatory Safeguards"
+    ],
+    "policy_suggestions": [
+      "AI should enhance CRNAs' ability to deliver safe, high-quality care rather than replace their expertise.",
+      "AI systems used in anesthesia must undergo rigorous validation and continuous monitoring.",
+      "AI tools must be designed to function under the direct supervision of CRNAs.",
+      "AI decision-making processes should be evidence-based and transparent.",
+      "AI models should be trained on diverse datasets to minimize bias.",
+      "The development of AI in anesthesia care should be subject to regulatory safeguards."
+    ]
+  },
+  "AI-RFI-2025-0935.txt": {
+    "summary": "The submitter, Zach Mansour, expresses concerns about AI's potential role in weaponry and job displacement. He emphasizes the importance of policy-making to create job opportunities in response to AI advancements and warns against viewing AI as more than a tool, likening it to CRISPR in terms of social disparities. While acknowledging AI's benefits in efficiency, he is worried about the negative societal impacts it may bring.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI must never have access to the nuclear arsenals of our country or others.",
+      "Even if AI automates away the 'mundane' tasks of many companies or organizations, those mundane tasks currently put food on the table for people across the country.",
+      "It should be treated as a tool and not a Saviour."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submitter expresses significant concerns about job displacement and AI's potential misuse, indicating a somewhat worried stance towards AI adoption.",
+    "main_topics": [
+      "Job Displacement",
+      "Application and Use in the Private Sector"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI adoption",
+      "job displacement",
+      "policy making",
+      "weaponry",
+      "social disparity"
+    ],
+    "policy_suggestions": [
+      "Create job opportunities in step with the rampant development of AI."
+    ]
+  },
+  "AI-RFI-2025-0846.txt": {
+    "summary": "Pamela Mason advocates for a more direct voting system where every American can vote on bills using their Social Security numbers. She emphasizes that representatives should be legally obligated to respect the outcomes of these votes.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "I believe every American should be able to yay or nay bills that are up for vote.",
+      "We should be able to login using our Social Security numbers and vote that way.",
+      "Once the voting ends, our representative should be legally obligated to uphold our wishes."
+    ],
+    "sentiment_rating": "NA",
+    "sentiment_rationale": "The submission does not express a clear sentiment towards AI adoption, focusing instead on voting rights.",
+    "main_topics": [],
+    "additional_themes": [
+      "Voting Rights",
+      "Direct Democracy"
+    ],
+    "keywords": [
+      "voting",
+      "representation",
+      "direct democracy",
+      "bill approval",
+      "Social Security"
+    ],
+    "policy_suggestions": [
+      "Allow citizens to vote on bills using their Social Security numbers.",
+      "Mandate that representatives adhere to the outcome of public votes."
+    ]
+  },
+  "ACR-AI-RFI-2025.txt": {
+    "summary": "The American College of Radiology (ACR), representing over 40,000 professionals in radiology, submits recommendations for the AI Action Plan to enhance healthcare AI. The ACR highlights the critical role of the FDA in regulating AI-enabled medical devices and suggests priorities that include ensuring safe implementation, providing new payment structures for high clinical value AI, and improving transparency and monitoring of AI tools in clinical settings. They advocate for collaboration with various stakeholders to ensure effective AI integration in radiology.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "Food and Drug Administration (FDA)",
+      "Centers for Medicare and Medicaid Services (CMS)",
+      "Office of Science and Technology Policy (OSTP)",
+      "Networking and Information Technology Research and Development National Coordination Office (NITRD NCO)"
+    ],
+    "interesting_quotes": [
+      "The radiology physician specialty has long been the vanguard of healthcare AI.",
+      "AI-enabled tools provide a wide range of augmentative functions for radiologists.",
+      "The ACR invites collaboration with OSTP and NITRD NCO staff."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic view towards AI adoption in healthcare, emphasizing its potential benefits and the importance of structured regulations and collaboration.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Technical and Safety Standards",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "radiology",
+      "AI regulation",
+      "healthcare",
+      "FDA",
+      "payment structures"
+    ],
+    "policy_suggestions": [
+      "Enable FDA to continue to regulate AI-enabled software medical devices.",
+      "Provide new, physician-informed payment for high clinical value AI.",
+      "Ensure appropriate, safe, and effective implementation of healthcare AI."
+    ]
+  },
+  "AI-RFI-2025-1083.txt": {
+    "summary": "Eugene Gershman outlines a comprehensive approach to optimizing artificial intelligence (AI) through the application of epistemological principles in the development and usage of AI technologies. He emphasizes the importance of error detection, user participation, and the transformation of educational practices. Gershman advocates for the establishment of a Public Council to enhance the social effects of AI and suggests that corporations should adopt these principles internally. He also points out the need for patent reform to better align with AI capabilities.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "To optimize the intelligence of AI actions, neural networks must act according to the principles of epistemology.",
+      "Mass compliance with these principles will cause an economic effect greater than the use of AI technologies.",
+      "The archaic US PTO patent system causes $ hundreds of billions in losses to the US economy every year."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "Gershman's submission expresses a somewhat enthusiastic perspective on AI adoption, advocating for its optimization and integration while highlighting potential economic benefits.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Innovation and Competition",
+      "Workforce Development and Education",
+      "Intellectual Property Issues"
+    ],
+    "additional_themes": [
+      "Epistemology in AI",
+      "Consumer and business associations",
+      "Transformation of educational practices"
+    ],
+    "keywords": [
+      "epistemology",
+      "AI optimization",
+      "error detection",
+      "educational reform",
+      "patent system reform"
+    ],
+    "policy_suggestions": [
+      "Establish a Public Council for optimizing AI social effects.",
+      "Implement epistemic procedures in corporate practices.",
+      "Reform the patent system to maximize AI effectiveness."
+    ]
+  },
+  "AI-RFI-2025-0942.txt": {
+    "summary": "Wilder Kingsley emphasizes the importance of prioritizing energy reduction and efficiency in the development of the new AI Action Plan. He advocates for data centers to mitigate carbon emissions by transitioning to renewable energy sources and adopting energy-efficient practices, asserting that AI must achieve net zero emissions to align with international climate goals.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "I encourage a focus on reducing energy consumption while increasing efficiency as a highest priority policy action that should be in the new AI Action Plan.",
+      "Data centers should mitigate the carbon emissions associated with AI's energy consumption by transitioning to renewable energy sources such as solar or wind.",
+      "AI must have net zero emissions to keep pace with international climate goals."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission shows enthusiasm for AI development while stressing the importance of sustainability and energy efficiency, indicating a proactive and positive perspective on AI's potential impact.",
+    "main_topics": [
+      "Energy Consumption and Efficiency",
+      "Environmental Concerns"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI Action Plan",
+      "energy efficiency",
+      "renewable energy",
+      "carbon emissions",
+      "climate goals"
+    ],
+    "policy_suggestions": [
+      "Prioritize energy consumption reduction in the AI Action Plan.",
+      "Encourage data centers to transition to renewable energy sources.",
+      "Adopt energy-efficient practices to achieve net zero emissions."
+    ]
+  },
+  "AI-RFI-2025-1105.txt": {
+    "summary": "The submitter expresses strong distrust towards AI, fearing its potential to harm humanity and take away jobs. They firmly state their preference to avoid any involvement with AI technology.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "I don't trust AI.",
+      "AI has been said that it will take over the world and kill all the humans.",
+      "It's already taking jobs from people."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submitter conveys a very negative view of AI, fearing its risks and expressing a desire to avoid it altogether.",
+    "main_topics": [
+      "Job Displacement"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "distrust",
+      "fear",
+      "job loss",
+      "avoidance",
+      "negative impact"
+    ],
+    "policy_suggestions": []
+  },
+  "ACHP-AI-RFI-2025.txt": {
+    "summary": "The Alliance of Community Health Plans (ACHP) emphasizes the importance of developing a tailored AI Action Plan for health care that promotes patient outcomes, privacy, and technology accessibility. The submission highlights the complexity of AI applications in health care and encourages regulations that recognize sector-specific needs. ACHP outlines guiding principles such as protecting patient data, establishing a common language for AI, and facilitating public-private coordination to ensure effective oversight and use of AI technologies.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Coordination Office"
+    ],
+    "interesting_quotes": [
+      "AI-supported technology eases administrative burden on both payers and providers, facilitates critical health plan operations and improves health care delivery and outcomes for patients.",
+      "An AI action plan must address the significant concerns surrounding the privacy of personal health information, patient safety, data quality and risk of AI use case within the health care system.",
+      "The value of AI models and quality of the outputs rely on the original data, which in health care typically means personal health information."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for the potential benefits of AI in health care, emphasizing improved patient outcomes and operational efficiencies while also advocating for careful regulation and oversight.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "Technical and Safety Standards",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Patient care integration",
+      "Public-private partnerships"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "health care",
+      "patient outcomes",
+      "privacy",
+      "public-private coordination"
+    ],
+    "policy_suggestions": [
+      "Develop an AI Action Plan that prioritizes patient outcomes and experience while promoting privacy and safety.",
+      "Establish clear guidelines on how existing security and privacy requirements apply to data used by AI.",
+      "Create a common language for AI in health care to eliminate ambiguity."
+    ]
+  },
+  "AI-RFI-2025-0939.txt": {
+    "summary": "Trenton Mulkey advocates for the use of AI in education to provide real-time feedback and personalized curriculum that builds on individual students' strengths, aiming to enhance cognitive growth from infancy through adulthood.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "I want AI to advance early learning and education through real-time feedback and fluid curriculum.",
+      "that serves the individual student to individualize and enhance their learning.",
+      "using the students' strengths and abilities to advance and promote cognitive growth."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses a strong enthusiasm for the potential of AI to positively transform education and support personalized learning.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI",
+      "education",
+      "personalized learning",
+      "cognitive growth",
+      "real-time feedback"
+    ],
+    "policy_suggestions": [
+      "Develop an AI Action Plan focused on education"
+    ]
+  },
+  "AI-RFI-2025-0893.txt": {
+    "summary": "The submission discusses the necessity of an AI Action Plan to foster responsible AI integration in regulatory processes, emphasizing the importance of human oversight, ethical standards, and workforce development. Recommendations include developing standardized AI compliance frameworks, expanding training programs, promoting ethical AI practices, and ensuring transparency and accountability in AI decision-making.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI must be implemented responsibly.",
+      "By prioritizing AI workforce development, the U.S. can strengthen AI innovation.",
+      "AI should function as a tool for decision support, not as an unchecked authority dictating outcomes in sensitive areas."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic view about AI adoption, highlighting its potential benefits while advocating for responsible implementation with proper oversight and ethical considerations.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Workforce Development and Education",
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI governance",
+      "regulatory automation",
+      "workforce development",
+      "ethical AI",
+      "human oversight"
+    ],
+    "policy_suggestions": [
+      "Develop standardized AI-driven compliance frameworks.",
+      "Expand federal AI training and upskilling programs.",
+      "Create collaborative AI research hubs.",
+      "Mandate human oversight in AI-driven decisions.",
+      "Establish a federal AI ethics board."
+    ]
+  },
+  "AI-RFI-2025-1056.txt": {
+    "summary": "The submission from Stephen Casper discusses the uncertainties surrounding AI as an emerging technology, emphasizing the need for balanced regulations that promote transparency without stifling competitiveness. He proposes 15 evidence-seeking AI regulations aimed at facilitating public knowledge and encouraging best practices among developers, including a federal AI governance institute, model registration, and requirements for risk assessments and monitoring.",
+    "submitter_type": "Academia",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "A lack of regulation in AI could miss opportunities to promote competitiveness and inform the public about what is consuming.",
+      "We believe that facilitating more public knowledge about AI developers and their systems is essential to advance the science.",
+      "Regulations can explicitly prevent retaliation and offer incentives for whistleblowers who report violations."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The author's emphasis on the importance of effective regulation and transparency suggests a somewhat enthusiastic view towards the adoption of AI, as long as it is coupled with appropriate safeguards and public knowledge.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)",
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI regulation",
+      "transparency",
+      "public knowledge",
+      "risk assessment",
+      "competitive advantage"
+    ],
+    "policy_suggestions": [
+      "Establish a federal AI governance institute to research risks and curate best practices.",
+      "Maintain a federal registry of frontier AI systems.",
+      "Require developers to document intended use cases and behaviors of AI systems."
+    ]
+  },
+  "ACLI-RFI-2025.txt": {
+    "summary": "The American Council of Life Insurers (ACLI) emphasizes the importance of life insurance in providing financial protection and retirement security for 90 million families. ACLI supports the development of a federal AI Action Plan that respects the existing state regulations over the insurance industry, specifically endorsing the NAIC AI Model Bulletin for consistent regulatory practices regarding AI use in life insurance. ACLI advocates for the empowerment of working-class families through the adoption of AI in enhancing financial security.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "National Association of Insurance Commissioners (NAIC)",
+      "U.S. Department of the Treasury"
+    ],
+    "interesting_quotes": [
+      "Life insurance products play a significant role in financial empowerment due to their transformative ability to provide financial security and build intergenerational wealth.",
+      "The adoption of emerging technologies such as AI enables life insurers to fulfill our core mission of enhancing financial security for millions of people.",
+      "Any Plan developed by the federal government on AI should defer to the NAIC and state insurance departments regarding matters related to life insurers and their products."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "ACLI expresses enthusiasm about AI adoption in enhancing financial security for consumers while advocating for a regulatory framework that supports this innovation.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Consumer Protection",
+      "Financial Wellbeing"
+    ],
+    "keywords": [
+      "life insurance",
+      "financial security",
+      "AI adoption",
+      "regulation",
+      "consumer protection"
+    ],
+    "policy_suggestions": [
+      "Support broader adoption of the NAIC AI Model Bulletin for consistent requirements for insurers nationwide.",
+      "Develop a federal AI Action Plan that defers to the NAIC and state insurance departments regarding AI matters in the insurance sector."
+    ]
+  },
+  "AI-RFI-2025-0973.txt": {
+    "summary": "The submission emphasizes the transformative potential of Artificial Intelligence (AI) and outlines key focus areas for its governance. It advocates for equitable opportunities for both small and large AI firms, prioritization of user privacy, accuracy and neutrality in AI-generated information, ethical use of AI to supplement human intelligence, and promoting American investment and hosting in AI development.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Ensure that both smaller and larger AI firms have an equal playing field to advance AI.",
+      "Ensure that user privacy is at the forefront of AI.",
+      "AI and DOGE can work together to find ways to utilize AI to make the government run more efficiently."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for the potential of AI to positively impact society while advocating for responsible governance to ensure ethical and equitable outcomes.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Support for domestic AI development"
+    ],
+    "keywords": [
+      "Artificial Intelligence",
+      "User Privacy",
+      "Equity",
+      "Ethics",
+      "American Investment"
+    ],
+    "policy_suggestions": [
+      "Ensure equitable opportunities for small and large AI firms",
+      "Prioritize user privacy in AI development",
+      "Promote accuracy and neutrality in AI information",
+      "Encourage ethical use of AI to supplement human intelligence",
+      "Support domestic AI investment and hosting"
+    ]
+  },
+  "ACC-AI-RFI-2025.txt": {
+    "summary": "The American Chemistry Council (ACC) submitted comments to the National Coordination Office (NCO) of the National Science Foundation regarding an AI Action Plan. They emphasize the crucial role of the U.S. chemical industry in AI development, highlighting its contributions to various sectors and the need for smart regulation to facilitate innovation. The submission calls for involvement of subject-matter experts in AI model development, addresses the importance of explainability and transparency in AI outputs, and expresses concerns over cybersecurity and risks associated with AI. ACC advocates for a supportive policy environment to maintain the U.S.'s competitive edge in AI technologies.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Coordination Office (NCO), National Science Foundation",
+      "Office of Science and Technology Policy (OSTP)",
+      "Environmental Protection Agency (EPA)"
+    ],
+    "interesting_quotes": [
+      "Chemistry makes the U.S. economy possible.",
+      "Sound chemical management policies are critical to American innovation and competitiveness.",
+      "AI comes with many potential risks that should be assessed and managed."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic perspective regarding the role of AI in enhancing innovation and economic growth, while also acknowledging the importance of regulation and oversight.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Hardware and Chips",
+      "Data Centers",
+      "Energy Consumption and Efficiency",
+      "Cybersecurity",
+      "Data Privacy and Security",
+      "Explainability and Assurance of AI Model Outputs",
+      "Innovation and Competition",
+      "Regulation and Governance"
+    ],
+    "additional_themes": [
+      "Importance of chemical regulation for AI development",
+      "Role of subject-matter experts in AI model development",
+      "Risks associated with AI in the regulatory context"
+    ],
+    "keywords": [
+      "American Chemistry Council",
+      "AI regulation",
+      "innovation",
+      "subject-matter experts",
+      "cybersecurity"
+    ],
+    "policy_suggestions": [
+      "Support the production of the chemistries needed to develop new technologies and make new electronics.",
+      "Implement smart and timely regulation for the development and manufacture of vital chemistries.",
+      "Ensure human oversight and risk governance structure in AI governance."
+    ]
+  },
+  "ADI-AI-RFI-2025.txt": {
+    "summary": "The Alliance for Digital Innovation (ADI) provides input on the AI Action Plan, advocating for a risk-based governance framework for AI applications, modernized procurement processes, increased emphasis on AI in cybersecurity, collaboration between government and industry, and investment in workforce development. The organization emphasizes the need to identify and manage high-risk AI applications and streamline procurement to allow smaller companies to contribute innovative AI solutions. They also stress the importance of government data practices and partnerships to enhance AI's role in delivering efficient services.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "Office of Science and Technology Policy (OSTP)",
+      "Networking and Information Technology Research and Development National Coordination Office (NITRD NCO)"
+    ],
+    "interesting_quotes": [
+      "ADI advocates for a framework that: Identifies High-Risk AI Applications.",
+      "A robust partnership between the public and private sectors is essential for AI advancement.",
+      "By adopting a risk-based approach to AI governance, modernizing procurement processes, prioritizing AI in cybersecurity, fostering public-private collaboration, and investing in workforce development, the United States can reinforce its position as a global leader in artificial intelligence."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a generally enthusiastic view towards AI adoption, highlighting specific recommendations that could improve AI integration in government while emphasizing innovative practices.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Cybersecurity",
+      "Procurement",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI governance",
+      "Cybersecurity",
+      "Procurement",
+      "Workforce development",
+      "Public-private partnerships"
+    ],
+    "policy_suggestions": [
+      "Implement a Risk-Based Approach to AI Governance",
+      "Enhance AI Procurement Processes",
+      "Prioritize AI in Cybersecurity",
+      "Work with Industry to Build Security into AI",
+      "Invest in AI Workforce Development",
+      "Invest in Good Government Data Practices"
+    ]
+  },
+  "AI-RFI-2025-0949.txt": {
+    "summary": "The submission, presented in a whimsical and darkly humorous manner, offers surreal and fantastical advice related to the development of an Artificial Intelligence Action Plan, incorporating themes of ominous architecture, shadow magic, and a rejection of modern digital practices. The submitter adopts a persona that speaks of ancient wisdom and impending doom while criticizing current societal structures.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "I've worked in this industry since the first fruit fell and withered from the Tree of Life.",
+      "Instead of being a pathetic villain who seeks only riches and self-gratification, let us build something far more interesting than mere spreadsheets and consumerism.",
+      "I can begin communicating with you in your dreams as well."
+    ],
+    "sentiment_rating": "NA",
+    "sentiment_rationale": "The submission does not express a clear sentiment about AI adoption; instead, it presents a fantastical critique of current societal issues in a humorous way.",
+    "main_topics": [],
+    "additional_themes": [
+      "Critique of modern society",
+      "Dark humor",
+      "Fantasy elements"
+    ],
+    "keywords": [
+      "Artificial Intelligence",
+      "Critique",
+      "Dark humor",
+      "Fantasy",
+      "Society"
+    ],
+    "policy_suggestions": []
+  },
+  "AI-RFI-2025-1026.txt": {
+    "summary": "Sonia Romero Villanueva emphasizes the importance of reducing energy consumption and increasing efficiency in the new Artificial Intelligence Action Plan. She advocates for data centers to mitigate carbon emissions by transitioning to renewable energy sources, such as solar and wind, and adopting energy-efficient practices. She insists that AI should achieve net-zero emissions to align with international climate goals.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Los centros de datos deber\u00edan mitigar las emisiones de carbono asociadas al consumo energ\u00e9tico de la IA mediante la transici\u00f3n a fuentes de energ\u00eda renovables.",
+      "La IA debe tener emisiones netas cero para seguir el ritmo de los objetivos clim\u00e1ticos internacionales."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission is somewhat enthusiastic about AI adoption, particularly in the context of promoting energy efficiency and renewable sources.",
+    "main_topics": [
+      "Energy Consumption and Efficiency",
+      "Environmental Concerns"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "energy efficiency",
+      "renewable energy",
+      "carbon emissions",
+      "AI action plan",
+      "climate goals"
+    ],
+    "policy_suggestions": [
+      "Implement policies to reduce energy consumption in AI applications.",
+      "Encourage data centers to adopt renewable energy sources and energy-efficient practices."
+    ]
+  },
+  "AI-RFI-2025-1102.txt": {
+    "summary": "The submitter emphasizes the importance of both proprietary and open-source AI technologies for maintaining U.S. competitive advantage. They suggest that releasing AI models as open-source can provide alternatives that limit the market power of foreign competitors. The submitter advocates for fostering innovation in the U.S. open-source AI space through investments in universities and research institutes.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Although proprietary AI technology is great for US power, we have seen that open source AI can literally topple markets.",
+      "By making models that compete with our competitors free, we give the world tantalizing alternatives to AI models that would compete with our own.",
+      "We need to foster as much innovation as possible in the US open source AI space."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submitter expresses enthusiasm for open-source AI as a means to foster competition and innovation while also supporting proprietary models, indicating a proactive and positive view on AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Innovation and Competition",
+      "Research and Development Funding Priorities"
+    ],
+    "additional_themes": [
+      "Support for open-source initiatives",
+      "Investment in education and research"
+    ],
+    "keywords": [
+      "open-source AI",
+      "proprietary technology",
+      "US competitiveness",
+      "innovation",
+      "investment in research"
+    ],
+    "policy_suggestions": [
+      "Invest in universities and research institutes to foster open-source AI innovation",
+      "Support initiatives that release competitive AI models as open-source"
+    ]
+  },
+  "AI-RFI-2025-0945.txt": {
+    "summary": "The submitter advocates for the integration of artificial intelligence across all levels of government to improve the efficient use of taxpayer resources. They emphasize that oversight from the tech sector is necessary and suggest that AI may reduce the demand for human jobs within government services.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "I would like to see AI implemented into all aspects of government to help ensure that taxpayer dollars are being spent wisely.",
+      "Oversight from the tech sector is a must.",
+      "AI can reduce the need for human jobs inside government."
+    ],
+    "sentiment_rating": 3,
+    "sentiment_rationale": "The submission expresses a neutral stance on AI, recognizing both its potential benefits and implications for employment in government.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Impact on Small Businesses"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI",
+      "government",
+      "oversight",
+      "taxpayer dollars",
+      "job reduction"
+    ],
+    "policy_suggestions": [
+      "Implement AI across all levels of government",
+      "Ensure tech sector oversight"
+    ]
+  },
+  "AI-RFI-2025-1084.txt": {
+    "summary": "Eugene Gershman argues for the optimization of artificial intelligence (AI) based on epistemological principles, emphasizing the importance of semantic formatting and effective error detection in AI outputs. He advocates for the establishment of a Public Council to oversee AI's societal impacts, calling for reforms in the patent system to better accommodate AI technologies. Gershman also highlights the potential of AI in education and vocational training, suggesting that AI tutors could enhance practical training and efficiency.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "The development of AI technologies will stimulate the application of the principles of epistemology in all intellectual fields.",
+      "To optimize the intelligence of AI actions, neural networks must act according to the principles of epistemology.",
+      "Doctors' associations are the main obstacle to the use of AI in medicine."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "Gershman expresses enthusiasm for the potential benefits of AI when optimized correctly and integrates epistemology, indicating a hopeful outlook on AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Innovation and Competition",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Error Detection in AI",
+      "Educational Reform",
+      "Patents and Intellectual Property"
+    ],
+    "keywords": [
+      "artificial intelligence",
+      "epistemology",
+      "error detection",
+      "education reform",
+      "public council"
+    ],
+    "policy_suggestions": [
+      "Create the Public Council for optimizing AI social effects.",
+      "Reform the patent system according to the principles of epistemology.",
+      "Incorporate AI discussion modes to enhance user interaction."
+    ]
+  },
+  "AI-RFI-2025-1092.txt": {
+    "summary": "The submission expresses serious concerns about the misuse and weaponization of artificial intelligence (AI) against individuals, particularly through censorship, harassment, and social engineering. The submitter recounts personal experiences of being harassed and de-platformed, attributing these issues to AI-driven systems that target dissenting voices and manipulate online discourse. The document calls for stronger oversight, regulation, and consumer protections to mitigate these harms and highlights the complicit role of corporations and governments in the misuse of AI, alarming about its implications on civil liberties.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "Federal Bureau of Investigation (FBI)"
+    ],
+    "interesting_quotes": [
+      "Despite executive orders aimed at preventing the misuse of AI, these orders have not been enforced.",
+      "AI is being used to socially engineer emotions, induce stress, and modify behavior, a tactic resembling psychological warfare.",
+      "Government agencies and corporations must be held accountable for their role in AI weaponization."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submission portrays deep concern and fear regarding the negative impacts of AI on individuals, emphasizing harassment and oppression, which leads to a very worried sentiment towards AI adoption.",
+    "main_topics": [
+      "Censorship and Digital Suppression",
+      "Cybersecurity",
+      "Job Displacement"
+    ],
+    "additional_themes": [
+      "Corporate Malfeasance",
+      "Civil Liberties"
+    ],
+    "keywords": [
+      "AI weaponization",
+      "censorship",
+      "digital harassment",
+      "corporate complicity",
+      "government accountability"
+    ],
+    "policy_suggestions": [
+      "Enforce existing executive orders to prevent AI weaponization against individuals.",
+      "Establish independent oversight committees to monitor AI-driven censorship and harassment.",
+      "Require corporations to maintain direct human communication options for customer support.",
+      "Prohibit AI-driven manipulation of engagement metrics and online discourse.",
+      "Develop an AI-driven investigative system for reporting digital abuse."
+    ]
+  },
+  "AI-RFI-2025-1085.txt": {
+    "summary": "Dr. Tyler Thigpen, a PreK-12 school leader and educator at the University of Pennsylvania, discusses the transformative potential of AI in education, emphasizing the need for thoughtful integration that enhances learning while addressing the risks associated with its use. He highlights practical examples of AI applications in personalized learning and operational efficiency while cautioning against issues like bias and over-reliance on technology. Thigpen advocates for co-created AI policies that support equity and maintain authentic educational relationships, ultimately arguing that AI should empower not replace human educators.",
+    "submitter_type": "Academia",
+    "agencies": [],
+    "interesting_quotes": [
+      "AI requires the same level of thoughtful planning in education.",
+      "The challenge ahead is not to embrace or reject AI but to use it wisely, ethically, and in service of human flourishing.",
+      "Technology is neutral, but its consequences are not."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission exhibits a somewhat enthusiastic sentiment towards AI adoption in education, advocating for its responsible use to enhance learning and emphasizing the transformative potential of AI, while also recognizing the need for caution and ethical considerations.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI integration",
+      "education",
+      "personalization",
+      "ethical guidelines",
+      "transformative potential"
+    ],
+    "policy_suggestions": [
+      "AI policies should be co-created with students, teachers, and families.",
+      "Active monitoring of AI's impact on equity in education."
+    ]
+  },
+  "AI-RFI-2025-0944.txt": {
+    "summary": "The submitter, Jared Yoder, expresses a desire for transparency and calls for 'medbeds' amendments. The comment appears to advocate for openness regarding information related to artificial intelligence and its broader implications.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Give us medbeds amen.",
+      "Release the truth about everything."
+    ],
+    "sentiment_rating": "2",
+    "sentiment_rationale": "The submitter seems to be somewhat worried about transparency and possibly the implications of AI, indicating a need for accountability.",
+    "main_topics": [],
+    "additional_themes": [
+      "Transparency and Disclosure"
+    ],
+    "keywords": [
+      "transparency",
+      "AI",
+      "medbeds",
+      "information",
+      "truth"
+    ],
+    "policy_suggestions": [
+      "Release more information related to AI",
+      "Incorporate amendments for medbeds"
+    ]
+  },
+  "AI-Applied-Consortium-AI-RFI-2025.txt": {
+    "summary": "The AI Applied Consortium submitted a comprehensive response outlining recommendations for the development of a U.S. AI Action Plan, advocating for a multi-dimensional approach that incorporates insights from academia, industry, technology developers, and public sector leaders. The Consortium emphasizes the need for supportive policy frameworks to foster innovation, national security, workforce development, and ethical AI deployment while ensuring the U.S. maintains its global leadership in AI. Key focus areas include AI infrastructure, model development, security and cybersecurity, education, energy efficiency, and innovation competitiveness.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "U.S. Department of Energy",
+      "Department of Energy",
+      "National Science Foundation (NSF)",
+      "Federal Trade Commission (FTC)",
+      "Cybersecurity and Infrastructure Security Agency (CISA)"
+    ],
+    "interesting_quotes": [
+      "AI must be recognized as vital to economic resilience, enabling agile responses to supply chain disruptions, climate risks, and geopolitical challenges.",
+      "The same technologies driving commercial innovation also underpin critical defense capabilities, making AI a strategic asset that demands proactive, forward-looking policy.",
+      "A comprehensive, multi-dimensional approach that integrates the perspectives of four foundational pillars: Academic Institutions and Research Leaders, Enterprise and Industry Practitioners, Technology Developers and Solution Providers, and Public Sector Leaders and Policy Architects."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses strong enthusiasm for adopting AI with an emphasis on creating supportive policies to foster innovation, suggesting a proactive and optimistic view of AI's potential benefits.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "Education and Workforce Development",
+      "Energy Consumption and Efficiency",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Public-private partnerships",
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "innovation",
+      "public-private partnerships",
+      "workforce development",
+      "security"
+    ],
+    "policy_suggestions": [
+      "Provide federal funding and shared access programs to equip universities with modular HPC infrastructure tailored to interdisciplinary research.",
+      "Implement tax incentives, federal grants, and regulatory modernization to incentivize AI infrastructure ownership.",
+      "Develop a national AI testing and validation framework, including regulatory sandboxes for academia to test models under varying levels of scrutiny.",
+      "Expand federal funding for AI educator training, interdisciplinary curriculum development, and inclusive education resource distribution.",
+      "Create an AI -for-sustainability legislative toolkit that includes emissions tracking standards, incentives for predictive AI reporting."
+    ]
+  },
+  "1Day-Sooner-RFI-2025.txt": {
+    "summary": "The submission praises the White House Office of Science and Technology Policy (OSTP) for seeking public input on the AI Action Plan and emphasizes the need for a robust foundation to maximize AI benefits in healthcare, specifically through the Department of Health and Human Services (HHS) and the Food and Drug Administration (FDA). Recommendations include establishing an AI Corps within HHS to integrate AI expertise, improving FDA's regulatory capacity through AI, and ensuring data readiness and proper training for FDA reviewers to facilitate AI adoption.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "Department of Health and Human Services (HHS)",
+      "Food and Drug Administration (FDA)"
+    ],
+    "interesting_quotes": [
+      "AI stands poised to not only revolutionize healthcare but also transform every aspect of HHS.",
+      "This moment represents a critical opportunity for the Administration to affirm its commitment to advancing AI capabilities.",
+      "By embedding dedicated AI practitioners in each agency, HHS would move beyond high-level planning toward meaningful AI adoption."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for AI adoption in healthcare and emphasizes the potential benefits, indicating a positive outlook towards its integration and implementation in federal agencies.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI Corps",
+      "FDA",
+      "healthcare",
+      "regulation",
+      "data readiness"
+    ],
+    "policy_suggestions": [
+      "Establish an AI Corps within HHS to accelerate the integration of AI across its agencies.",
+      "Prioritize data readiness for AI integration at the FDA.",
+      "Conduct an FDA Reviewer Benchmark Test to evaluate AI-assisted reviews.",
+      "Publish a report on AI procurement guidelines for the FDA.",
+      "Foster AI adoption through targeted reviewer engagement and workshops."
+    ]
+  },
+  "AI-RFI-2025-1046.txt": {
+    "summary": "The submission calls for increased regulations on artificial intelligence (AI) to protect individual privacy and prevent the misuse of personal likenesses. It emphasizes the need for regulation to safeguard jobs and mitigate wealth disparity resulting from AI advancements.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "There need to be more regulations with regards to AI to ensure that our privacy and likeness is not weaponized against us.",
+      "It is also imperative that we regulate AI so that it does not take away jobs from hard working people.",
+      "Create an even greater wealth disparity."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submitter expresses concern about the potential negative impacts of AI, particularly regarding privacy and job loss, indicating a somewhat worried sentiment towards AI adoption.",
+    "main_topics": [
+      "Data Privacy and Security",
+      "Job Displacement"
+    ],
+    "additional_themes": [
+      "Wealth Disparity"
+    ],
+    "keywords": [
+      "regulation",
+      "AI",
+      "privacy",
+      "jobs",
+      "wealth disparity"
+    ],
+    "policy_suggestions": [
+      "Implement regulations to protect individual privacy and likeness.",
+      "Regulate AI to prevent job loss and economic inequality."
+    ]
+  },
+  "AI-RFI-2025-1103.txt": {
+    "summary": "Nate Williams expresses strong opposition to the notion that open source AI is dangerous and needs to be controlled by large AI companies. He argues that undermining open source will threaten democracy and urges caution in trusting these corporations.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Whatever you do, avoid these large AI companies from convincing you that open source is dangerous and AI needs to be controlled.",
+      "Destroying open source will destroy democracy as we know it.",
+      "look into it. don\u2019t trust them."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submission expresses a very worried sentiment towards the control of AI by large companies, highlighting fears about democracy being threatened by the destruction of open source.",
+    "main_topics": [],
+    "additional_themes": [
+      "Open Source Development"
+    ],
+    "keywords": [
+      "open source",
+      "AI control",
+      "democracy",
+      "large companies",
+      "trust"
+    ],
+    "policy_suggestions": [
+      "Promote and protect open source AI development"
+    ]
+  },
+  "AHIP-AI-RFI-2025.txt": {
+    "summary": "The American Health Insurance Plans (AHIP) association submitted comments to the Office of Science and Technology Policy and the National Science Foundation regarding the development of an Artificial Intelligence (AI) Action Plan. AHIP highlights the potential of AI to improve health care outcomes and efficiency while emphasizing the need for balanced policies that encourage innovation and ensure safety. They recommend a federal approach to AI oversight, definition of AI in legislation, reliance on existing laws, and the promotion of public-private partnerships to advance AI in health care.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "Office of Science and Technology Policy (OSTP)",
+      "National Science Foundation (NSF)",
+      "Department of Health and Human Services (HHS)"
+    ],
+    "interesting_quotes": [
+      "With the right government policies, the United States can solidify its position as the global leader in AI and secure a brighter future for all Americans.",
+      "Successful use of AI to enhance high-quality, affordable care will depend on responsible approaches to both AI development and AI deployment.",
+      "Transparency is a key enabler of trust and is a critical component of successful deployment and use of AI."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic view on AI adoption, emphasizing its potential benefits in health care while advocating for well-structured government policies to ensure safety and trust.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "Artificial Intelligence",
+      "Health Care",
+      "Policy Recommendations",
+      "Public-Private Partnerships",
+      "Transparency"
+    ],
+    "policy_suggestions": [
+      "Take a Federal Approach to AI oversight.",
+      "Define 'AI' in legislation consistent with the National Institute of Standards & Technology\u2019s (NIST) AI Framework.",
+      "Rely on existing laws and fill gaps in health data and consumer protection laws.",
+      "Promote risk-based approaches with flexibility in regulatory oversight.",
+      "Engage in public-private partnerships to advance AI."
+    ]
+  },
+  "AI-RFI-2025-0929.txt": {
+    "summary": "The submitter expresses concerns regarding the implications of artificial intelligence (AI) on national and economic security, emphasizing the need for responsible innovations. They highlight the potential for job displacement due to AI advancements, particularly affecting their sons' future job opportunities, and call for careful consideration of these issues despite acknowledging that they cannot be easily legislated.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Who can guarantee that LLMs will be unbiased?",
+      "I am concerned about the displacement of humanity.",
+      "Good luck and I pray for enlightenment on this matter."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submitter expresses worries about AI's impact on job security and the broader implications for society, indicating a somewhat negative sentiment towards AI adoption.",
+    "main_topics": [
+      "Job Displacement"
+    ],
+    "additional_themes": [
+      "National Security and Defense",
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "keywords": [
+      "AI",
+      "job displacement",
+      "national security",
+      "economic security",
+      "innovation"
+    ],
+    "policy_suggestions": [
+      "Consider the implications of AI on job displacement in future policies."
+    ]
+  },
+  "AI-RFI-2025-1115.txt": {
+    "summary": "Dennis Vaughan suggests that AI should be allowed to operate alongside the US Congress for a few years to provide critiques of its members and committees, and to monitor for corruption and espionage activities.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Let's let AI run side by side with the US Congress for a few years and see what it is finding out about the Congress.",
+      "Let it critique each member, critique the various Committees.",
+      "Also allow it to watch out for corruption and even for espionage that may be taking place."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "Vaughan expresses an eagerness to integrate AI with the functions of Congress, suggesting a positive view of its potential benefits in oversight and critique.",
+    "main_topics": [
+      "Application and Use in the Public Sector"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI",
+      "Congress",
+      "critique",
+      "corruption",
+      "oversight"
+    ],
+    "policy_suggestions": [
+      "Allow AI to operate alongside Congress to provide critiques.",
+      "Utilize AI for monitoring corruption and espionage."
+    ]
+  },
+  "AI-RFI-2025-0948.txt": {
+    "summary": "Cindy Tiemann emphasizes the need for a responsible and ethical development of AI, advocating for transparency, accountability, and collaboration between public and private sectors. She urges that the AI Action Plan must include safeguards against biases and threats to civil liberties, ensuring taxpayer-funded initiatives serve the public interest rather than benefiting only a few wealthy individuals. Tiemann calls for priorities in fair competition and open access to maximize societal benefits from AI advancements.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "The AI Action Plan should emphasize transparency, accountability, and public-private collaboration.",
+      "It must include clear safeguards against biases, misuse, and threats to civil liberties.",
+      "Taxpayer-funded AI initiatives should serve the public interest, not merely enrich billionaire business owners."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for AI development but stresses the importance of ethical considerations and public interest, indicating a somewhat positive view on AI adoption.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Transparency and Accountability",
+      "Public-Private Collaboration",
+      "Civil Liberties"
+    ],
+    "keywords": [
+      "Responsible AI",
+      "Transparency",
+      "Ethical Development",
+      "Public Interest",
+      "Collaboration"
+    ],
+    "policy_suggestions": [
+      "Emphasize transparency and accountability in AI development.",
+      "Include clear safeguards against biases and misuse.",
+      "Ensure taxpayer-funded initiatives serve the public interest."
+    ]
+  },
+  "AI-RFI-2025-1089.txt": {
+    "summary": "The submitter expresses strong opposition to the development of Artificial Superintelligence (ASI), urging authorities to stop such advancements. They argue that AI companies threaten livelihoods and safety, advocating for an international treaty to halt AI development until ethical standards can be assured globally. The submitter believes that failing to do so would make the government complicit in harmful actions.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "Stop building it. Literally just stop.",
+      "AI companies want to put us all on the street while they risk all of our lives.",
+      "You must pursue an international treaty to pause advanced AI development."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submission reflects a highly negative perspective on AI development, characterized by fear for personal safety and a demand to halt progress.",
+    "main_topics": [],
+    "additional_themes": [
+      "Ethics in AI"
+    ],
+    "keywords": [
+      "AI",
+      "ASi",
+      "safety",
+      "ethical standards",
+      "international treaty"
+    ],
+    "policy_suggestions": [
+      "Pursue an international treaty to pause advanced AI development."
+    ]
+  },
+  "AI-RFI-2025-1123.txt": {
+    "summary": "A. King, a graduate student at Purdue University, provides comments on the development of the AI Action Plan, emphasizing the need for consumer protection, transparency, and ethical governance in AI policies. They express concern that deregulation without proper safeguards may expose consumers to risks such as discrimination and privacy violations. King advocates for mandatory risk assessments for high-impact AI applications and suggests the establishment of clear accountability structures, diverse training datasets, and stronger data privacy protections. They argue for a balanced approach that maintains U.S. leadership in AI while ensuring responsible and ethical AI deployment.",
+    "submitter_type": "Academia",
+    "agencies": [
+      "Office of Science and Technology Policy (OSTP)",
+      "National Artificial Intelligence Initiative Research and Development Planning (NITRD NCO)"
+    ],
+    "interesting_quotes": [
+      "A lack of safeguards exposes consumers to risks such as discrimination, misinformation, fraud, and privacy violations.",
+      "AI\u2019s rapid expansion into surveillance, deepfake technology, and autonomous decision-making raises serious ethical concerns that cannot be ignored.",
+      "The AI Action Plan should reflect a balanced approach, ensuring the U.S. leads in AI responsibly, ethically, and with the public\u2019s best interests in mind."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses significant concern about the potential negative consequences of deregulating AI without adequate safeguards, indicating a somewhat worried sentiment regarding AI adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Data Privacy and Security",
+      "Application and Use in the Public Sector"
+    ],
+    "additional_themes": [
+      "Consumer Protection",
+      "Accountability in AI Governance",
+      "Public-Private Collaboration"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "consumer protection",
+      "transparency",
+      "ethical governance",
+      "regulatory oversight"
+    ],
+    "policy_suggestions": [
+      "Establish clear liability and accountability structures for AI developers.",
+      "Require mandatory risk assessments for high-impact AI applications.",
+      "Implement stronger data privacy protections.",
+      "Create a federal AI oversight task force.",
+      "Encourage third-party AI audits to ensure compliance with fairness standards."
+    ]
+  },
+  "AI-RFI-2025-1066.txt": {
+    "submissions": [
+      {
+        "summary": "Mason Clyde expresses a desire for the establishment of data centers in Utah, highlighting a willingness and eagerness to participate in technological growth in the region.",
+        "submitter_type": "Individual",
+        "agencies": [],
+        "interesting_quotes": [
+          "Please bring some data centers to Utah!",
+          "We would love to be part of this growth!"
+        ],
+        "sentiment_rating": 4,
+        "sentiment_rationale": "Clyde's enthusiasm for bringing technology and growth opportunities to Utah reflects a positive sentiment towards AI development.",
+        "main_topics": [
+          "Data Centers",
+          "Application and Use in the Private Sector"
+        ],
+        "additional_themes": [],
+        "keywords": [
+          "data centers",
+          "Utah",
+          "growth",
+          "technology",
+          "participation"
+        ],
+        "policy_suggestions": [
+          "Encourage investment in data centers in underserved regions"
+        ]
+      },
+      {
+        "summary": "Patrick Browne emphasizes the importance of international cooperation in AI research, advocating for the United States to leverage its global partnerships to enhance scientific capabilities and foster a diverse set of perspectives in AI development.",
+        "submitter_type": "Academia",
+        "agencies": [],
+        "interesting_quotes": [
+          "International cooperation and exchange for AI research is crucial.",
+          "It is imperative that the United States continues to recognize comparative scientific strengths throughout the world.",
+          "International partnership and exchange among U.S. research institutions has a proven track record for success."
+        ],
+        "sentiment_rating": 5,
+        "sentiment_rationale": "Browne's strong advocacy for international collaboration reflects a very enthusiastic sentiment towards AI's future and potential.",
+        "main_topics": [
+          "International Collaboration",
+          "Research and Development Funding Priorities"
+        ],
+        "additional_themes": [],
+        "keywords": [
+          "international cooperation",
+          "AI research",
+          "global partnerships",
+          "scientific strengths",
+          "collaboration"
+        ],
+        "policy_suggestions": [
+          "Promote international partnerships in AI research",
+          "Fund initiatives that facilitate global scientific exchange"
+        ]
+      }
+    ]
+  },
+  "AABA-RFI-2025.txt": {
+    "summary": "The Association for the Advancement of Business AI (AABA) submitted a detailed response to the National Science Foundation's (NSF) request for an AI Action Plan, emphasizing the necessity of balancing ethics with innovation and competitiveness. AABA critiques previous attempts to regulate AI development, highlighting failures in funding, infrastructure expansion, and talent retention. They propose a comprehensive strategy focusing on data sovereignty, standards-based resilience, adaptive governance, national security integration, and dual-use technologies to ensure U.S. leadership in AI while addressing emerging global threats and competition.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "National Institute of Standards and Technology (NIST)",
+      "Department of Defense (DoD)",
+      "Federal Trade Commission (FTC)",
+      "Department of Justice (DOJ)",
+      "California Consumer Privacy Act (CCPA)",
+      "Department of Energy (DOE)",
+      "Food and Drug Administration (FDA)"
+    ],
+    "interesting_quotes": [
+      "A truly responsible approach to AI development ensures national competitiveness, security, and technological leadership while addressing ethical considerations as strategic tools, not as constraints.",
+      "If we fail, businesses will not just lose market share, they may cease to exist under a geopolitical order dictated by adversaries.",
+      "Ethics must evolve dynamically to support mission success, rather than becoming an obstacle to progress."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission is somewhat enthusiastic about AI adoption, advocating for a strategic approach that balances ethical considerations with the necessity for innovation and national competitiveness.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "National Security and Defense",
+      "Innovation and Competition",
+      "Technical and Safety Standards",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Dual-use technology development",
+      "Ethical AI as geopolitical leverage"
+    ],
+    "keywords": [
+      "Artificial Intelligence",
+      "Innovation",
+      "Regulation",
+      "National Security",
+      "Data Sovereignty"
+    ],
+    "policy_suggestions": [
+      "Establish federal tax incentives for businesses investing in on-premise AI infrastructure.",
+      "Direct NIST to establish open interoperability standards for AI model exchange.",
+      "Mandate adaptive governance with scheduled reevaluation of AI policies every 18-24 months.",
+      "Create dual-use development programs benefiting both defense and commercial sectors.",
+      "Establish a National AI Reserve Corps of experts available during emergencies."
+    ]
+  },
+  "ACLA-AI-RFI-2025.txt": {
+    "summary": "The American Clinical Laboratory Association (ACLA) submitted comments on developing an Artificial Intelligence (AI) Action Plan, emphasizing the importance of regulatory clarity and flexibility to enhance innovation in clinical laboratories. ACLA highlights how AI can aid in improving patient outcomes, especially in diagnosis and workflow efficiency, but also raises concerns about AI's role in coverage decisions and reimbursement challenges faced by laboratories. They advocate for a thoughtful balance between privacy and the innovative use of deidentified data in healthcare.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI tools can bolster the ability to detect the onset of diseases and changes in chronic conditions.",
+      "Regulation of AI tools should be sector-specific, balance risks and benefits to patients, and avoid overregulation that could stifle innovation.",
+      "Safeguarding patient data and privacy is paramount to maintain trust and uphold ethical standards in healthcare."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic view of AI adoption, highlighting its potential benefits in clinical laboratories while advocating for supportive regulatory frameworks to encourage innovation.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Regulatory Approaches",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI Action Plan",
+      "clinical laboratories",
+      "regulatory clarity",
+      "patient outcomes",
+      "reimbursement challenges"
+    ],
+    "policy_suggestions": [
+      "Provide regulatory clarity and transparency for AI tools.",
+      "Implement a risk-based approach to AI regulation.",
+      "Ensure federal preemption to prevent a patchwork of state laws.",
+      "Strike a balance between safeguarding patient privacy and allowing deidentified data use for innovation.",
+      "Pursue reform of the Protecting Access to Medicare Act to stabilize reimbursement for laboratory services."
+    ]
+  },
+  "AI-RFI-2025-0876.txt": {
+    "summary": "The submission advocates for the development of an Artificial Intelligence Action Plan, emphasizing the need for education and workforce training to support AI integration. It calls for scholarships and training programs for future AI professionals and current workers. Additionally, it argues for a reform of the U.S. Copyright Office, which currently imposes unnecessary barriers that disadvantage American creators, particularly in light of advancements in AI. The author suggests "
+  },
+  "ACS-AI-RFI-2025.txt": {
+    "summary": "The American Chemical Society (ACS) outlines principles for the responsible development and use of artificial intelligence (AI) in the chemical sciences. They emphasize the potential of AI for innovation and research but stress the importance of safety, privacy, transparency, education, social impacts, and evaluation. Key areas include handling individual data responsibly, promoting AI literacy, ensuring human oversight in AI decision-making, and fostering equitable access to AI technologies for diverse stakeholders.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [],
+    "interesting_quotes": [
+      "AI has been used extensively and increasingly in the chemical sciences in applications such as predicting the folding of proteins, developing various drug discovery systems, and predicting chemical properties.",
+      "AI systems should promote fairness and seek to avoid causing disproportionate harm to any person or group of people.",
+      "Wherever possible, the government should support efforts to develop databases of these data that are accessible to the public."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The ACS expresses enthusiasm for the potential of AI as a tool for innovation while advocating for responsible practices and regulations, indicating a somewhat positive sentiment towards AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Workforce Development and Education",
+      "Social Impacts",
+      "Evaluation"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "artificial intelligence",
+      "innovation",
+      "responsibility",
+      "transparency",
+      "education"
+    ],
+    "policy_suggestions": [
+      "Promote AI literacy to equip individuals for responsible engagement with AI technologies.",
+      "Establish mechanisms for human oversight in AI decision-making.",
+      "Support the development of accessible databases of non-proprietary content and data for AI."
+    ]
+  },
+  "AFL-AI-RFI-2025.txt": {
+    "summary": "",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [],
+    "sentiment_rating": "NA",
+    "sentiment_rationale": "The submission does not contain any content to assess for sentiment.",
+    "main_topics": [],
+    "additional_themes": [],
+    "keywords": [],
+    "policy_suggestions": []
+  },
+  "AI-RFI-2025-1119.txt": {
+    "summary": "Dr. Phillip Masterson, an Algorithm Scientist in the semiconductor industry, recommends the development of a targeted AI Action Plan focusing on national security threats posed by AI advancements. He emphasizes the need for a reporting system on AI capabilities, hiring AI experts, establishing security standards for AI labs, maintaining export controls, improving the electrical grid to support AI, and preserving the CHIPS Act to support domestic chip manufacturing. He calls for robust AI policy as a priority for the administration.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Security Agency (NSA)"
+    ],
+    "interesting_quotes": [
+      "Given the speed at which this technology is advancing, it is vital for the current administration to have a clear picture of the latest developments.",
+      "Current standards are lacking relative to the immense value these companies provide to the US, and hacking and IP theft by adversarial countries pose an urgent threat to our technological lead.",
+      "If reforming the act is necessary, it should be done carefully and with extensive input from industry experts."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a mostly positive sentiment towards AI adoption, emphasizing the importance of proactive policy development and the benefits of AI for the semiconductor industry and the U.S. economy.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "National Security and Defense",
+      "Export Controls",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI Action Plan",
+      "semiconductor industry",
+      "national security",
+      "export controls",
+      "CHIPS Act"
+    ],
+    "policy_suggestions": [
+      "Implement a lightweight, targeted reporting system for advanced AI systems.",
+      "Hire top-tier AI experts to support government policy on AI.",
+      "Create targeted security standards for frontier AI labs.",
+      "Maintain and enforce export controls on foreign adversaries.",
+      "Streamline regulatory barriers for power generation to support AI competitiveness.",
+      "Carefully reform the CHIPS Act with industry input."
+    ]
+  },
+  "AI-Coalition-for-Data-Integrity-AI-RFI-2025.txt": {
+    "summary": "The AI Coalition for Data Integrity responds to Executive Order 14179, advocating for transparency, attribution, and licensing in AI training data to bolster U.S. leadership in AI. They argue that these measures will reduce legal disputes, ensure better data quality, protect U.S. companies from unfair competition, and enhance the reliability of AI outputs. The Coalition emphasizes the need for a structured legal framework to support AI development and prevent fragmented regulations.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "Office of the President"
+    ],
+    "interesting_quotes": [
+      "Promoting legal certainty through transparency of AI training data, mandating as appropriate AI output attribution and building strong AI training data licensing frameworks will advance U.S. AI leadership and growth.",
+      "When AI systems disclose the origins of their training data and acknowledge contributions from original data creators, they generate more reliable and ethically sound outputs.",
+      "By adopting these best practices now, the U.S. is setting the standard for AI governance worldwide."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic view towards AI adoption, highlighting the benefits of transparency and structured frameworks that foster innovation and protect legal rights.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Intellectual Property Issues",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "transparency",
+      "attribution",
+      "licensing",
+      "AI leadership",
+      "innovation"
+    ],
+    "policy_suggestions": [
+      "Implement standards for transparency and attribution in AI development.",
+      "Establish data licensing frameworks for AI developers to ensure compliance.",
+      "Promote clear standards to reduce legal disputes related to AI training data."
+    ]
+  },
+  "AI-RFI-2025-0843.txt": {
+    "summary": "The submission advocates for an AI Action Plan aimed at leveraging artificial intelligence to drive economic growth, promote responsible development, foster global collaboration, and enhance governance. It emphasizes the need for new roles, ethical frameworks, and public-private partnerships to ensure sustainable job creation and tackle urgent global challenges, while highlighting the importance of research investment and infrastructure development.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI presents an unprecedented opportunity for the U.S. to lead in technological innovation while fostering economic growth and job creation.",
+      "Ethical AI development must be a top priority to ensure AI systems are fair, transparent, and accountable.",
+      "Through a focus on job creation, ethical AI principles, global collaboration, investment in infrastructure, and robust governance, the U.S. can lead the world toward a prosperous, responsible, and peaceful AI-driven future."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses very enthusiastic support for AI adoption, highlighting its potential for economic growth, ethical development, and global leadership.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Innovation and Competition",
+      "Job Displacement",
+      "Research and Development Funding Priorities",
+      "International Collaboration"
+    ],
+    "additional_themes": [
+      "Public-Private Partnerships",
+      "National Security and Defense"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "economic growth",
+      "ethical AI",
+      "global collaboration",
+      "infrastructure investment"
+    ],
+    "policy_suggestions": [
+      "Implement regular audits of AI systems to maintain transparency and trust.",
+      "Form a dedicated AI regulatory body to oversee AI development and deployment.",
+      "Invest in AI literacy programs in schools and universities.",
+      "Encourage public participation in policy-making to ensure diverse perspectives are considered."
+    ]
+  },
+  "AI-RFI-2025-0951.txt": {
+    "summary": "Robert Handfield discusses the transformative potential of AI in supply chain management. He argues that substantial efficiencies can be gained through technologies like Generative AI, which can streamline operations and enhance decision-making. He emphasizes the need for organizations to adopt a digital transformation strategy that includes both technical feasibility and ethical considerations, while also highlighting the importance of various technological tools and the skills necessary for implementation.",
+    "submitter_type": "Academia",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "By applying technologies like Generative AI, organizations will be able to drive efficiencies in the way we work that will create trillions of dollars in economic value.",
+      "AI is only one tool in a host of many technologies that are part of Digital Transformation.",
+      "The problem is that the data that AI is trained on is often not representative of the entire population, and hence is inherently biased."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses an optimistic view towards AI's role in transforming supply chains and driving economic efficiencies, indicating enthusiasm for its adoption and potential benefits.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "Artificial Intelligence",
+      "Supply Chain",
+      "Digital Transformation",
+      "Generative AI",
+      "Data Literacy"
+    ],
+    "policy_suggestions": [
+      "Organizations seeking to build an AI strategy will have to address technical feasibility, ethical considerations, value generation, and responsible execution."
+    ]
+  },
+  "A-King-RFI-2025.txt": {
+    "summary": "A. King, a graduate student in AI Policy and Management, expresses concern regarding the potential deregulation related to AI development and the need for consumer protection, transparency, and ethical governance. He emphasizes the risks of discrimination, misinformation, and privacy violations without appropriate safeguards, urging the establishment of accountability structures and mandatory risk assessments for high-impact AI applications. King advocates for stronger data privacy protections, diverse training datasets, third-party audits, and the creation of a federal AI oversight task force to ensure responsible and ethical AI deployment while maintaining U.S. leadership in innovation.",
+    "submitter_type": "Academia",
+    "agencies": [
+      "Office of Science and Technology Policy (OSTP)",
+      "National AI Initiative Office (NITRD NCO)"
+    ],
+    "interesting_quotes": [
+      "While deregulation can foster rapid AI advancement, a lack of safeguards exposes consumers to risks such as discrimination, misinformation, fraud, and privacy violations.",
+      "A federal AI oversight task force should be created with the authority to adapt regulations in real time as the technology evolves.",
+      "Reducing regulatory oversight without ensuring strong governance, transparency, and ethical safeguards could lead to harmful, biased, and privacy-invading AI deployments."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "A. King's submission expresses significant concern about potential deregulation and the associated risks of bias and privacy violations, indicating a somewhat worried sentiment towards AI adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Data Privacy and Security",
+      "Application and Use in the Public Sector"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "consumer protection",
+      "transparency",
+      "ethical governance",
+      "accountability",
+      "AI oversight"
+    ],
+    "policy_suggestions": [
+      "Establish clear liability and accountability structures for AI developers and deployers.",
+      "Implement mandatory risk assessments for high-impact AI applications.",
+      "Require ethical AI impact assessments before deploying AI in public sector or critical infrastructure applications.",
+      "Promote public-private collaboration to ensure responsible AI development.",
+      "Create a federal AI oversight task force with adaptive regulatory authority."
+    ]
+  },
+  "AI-RFI-2025-0947.txt": {
+    "summary": "The submitter expresses strong concern regarding the development and reliance on artificial intelligence, suggesting that it undermines human intelligence and divine inspiration. They highlight AI's potential for misuse, particularly in writing and creation, while acknowledging its utility in generating images.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI wishes to undermine God.",
+      "It's good for making pictures.",
+      "To rely on it for anything that humans could pervert for their own gain, is wrong."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submission expresses deep concern and opposition to AI adoption, indicating a belief that it diminishes human creativity and moral integrity.",
+    "main_topics": [],
+    "additional_themes": [
+      "Ethical concerns regarding AI"
+    ],
+    "keywords": [
+      "human intelligence",
+      "divine inspiration",
+      "AI misuse",
+      "creativity",
+      "moral integrity"
+    ],
+    "policy_suggestions": []
+  },
+  "AI-Policy-Network-AI-RFI-2025.txt": {
+    "summary": "The submission outlines a comprehensive strategy for the U.S. to maintain leadership in artificial intelligence (AI) development while addressing associated security risks. Key points include fostering economic opportunities through AI innovation, implementing light-touch regulations, and establishing safeguards against potential threats from Artificial General Intelligence (AGI). It emphasizes the need for proactive measures in export controls, cybersecurity, and workforce transition to adapt to an AI-driven economy. The report advocates for a National AGI Commission to assess and guide the governance of advanced AI systems.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "Office of Science and Technology Policy",
+      "U.S. Department of Energy",
+      "Department of Defense",
+      "Department of Energy",
+      "NIST"
+    ],
+    "interesting_quotes": [
+      "By embracing AI's transformative potential while implementing strategic guardrails, the Trump administration can ensure that this technology develops on American terms.",
+      "Machines of Loving Grace, AI has the potential to dramatically boost productivity growth rates to levels not seen in generations.",
+      "Artificial General Intelligence represents a watershed technological development in human history."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses very enthusiastic support for AI adoption, highlighting the opportunities and the positive impact of AI on economic competitiveness and innovation.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Cybersecurity",
+      "Energy Consumption and Efficiency",
+      "National Security and Defense",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Regulatory Approaches",
+      "International Collaboration",
+      "Ethical AI Frameworks"
+    ],
+    "keywords": [
+      "AI leadership",
+      "economic growth",
+      "national security",
+      "AGI",
+      "cybersecurity"
+    ],
+    "policy_suggestions": [
+      "Establish a National AGI Commission",
+      "Implement flexible intellectual property frameworks",
+      "Strengthen enforcement of AI chip export controls",
+      "Develop AI workforce transition initiatives",
+      "Create public-private partnerships for advanced energy solutions"
+    ]
+  },
+  "AI-RFI-2025-0910.txt": {
+    "summary": "Steven Durr emphasizes the need for Artificial Intelligence and Large Language Models to comply with copyright law. He suggests that any AI or LLM trained on copyrighted material without permission from the copyright holder should be completely destroyed to ensure ethical creation.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Artificial Intelligence/Large Language Models should be required to abide by copyright law.",
+      "It should be a legal requirement that any AI/LLM trained on copyrighted material without permission from the copyright holder be completely destroyed.",
+      "This should ensure that AIs/LLMs are created ethically."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses concern about copyright violations in AI training, indicating a somewhat worried sentiment about the ethical implications of AI adoption.",
+    "main_topics": [
+      "Intellectual Property Issues",
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "Artificial Intelligence",
+      "Large Language Models",
+      "Copyright Law",
+      "Ethics",
+      "Compliance"
+    ],
+    "policy_suggestions": [
+      "Require AI/LLMs to abide by copyright law.",
+      "Establish a legal requirement for destruction of AI/LLMs trained on copyrighted material without permission."
+    ]
+  },
+  "AI-RFI-2025-1100.txt": {
+    "summary": "The submitter expresses a concern about the growing issue of deepfakes, suggesting that legislation should be created to ban or limit them as a way to gain bipartisan support and improve public perception of the government. They propose using examples of deepfakes that exploit women and financial markets to strengthen the argument for such legislation.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Deepfakes are a serious problem and are only going to get worse.",
+      "When selling the legislation, use examples like deepfakes used to exploit women, especially underage girls.",
+      "No respectable person is going to vote against this legislation except under the guise of freedom of speech."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submitter shows enthusiasm for legislative action against deepfakes, indicating a proactive approach to addressing the risks associated with AI technologies.",
+    "main_topics": [
+      "Cybersecurity",
+      "Data Privacy and Security"
+    ],
+    "additional_themes": [
+      "Bipartisan Support",
+      "Legislative Measures"
+    ],
+    "keywords": [
+      "deepfakes",
+      "legislation",
+      "bipartisan",
+      "exploitation",
+      "AI risks"
+    ],
+    "policy_suggestions": [
+      "Create legislation banning or limiting deepfakes.",
+      "Use specific examples of harm caused by deepfakes to support the legislation."
+    ]
+  },
+  "AAU-AI-RFI-2025.txt": {
+    "summary": "The Association of American Universities (AAU) provided comments regarding the development of an Artificial Intelligence (AI) Action Plan, emphasizing that AI tools have the potential to revolutionize scientific research and accelerate economic growth. They recommend a focused initiative to enhance AI for discovery, suggesting actions like ensuring computational access for scientists, bolstering AI research, and improving education and immigration policies to nurture an AI-competent workforce. AAU underscores the critical role of universities in AI research and proposes enhancing federal investments and collaborations across academia, industry, and government to harness AI\u2019s full potential in science.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "Department of Energy (DOE)",
+      "National Science Foundation (NSF)",
+      "National Institutes of Health (NIH)",
+      "Department of Defense (DOD)",
+      "Department of State",
+      "Department of Homeland Security"
+    ],
+    "interesting_quotes": [
+      "AI tools promise to fundamentally transform scientific research.",
+      "This moment offers tremendous opportunity to gear federal policy toward AI-enabled science for U.S. leadership.",
+      "If successful, these tools will accelerate the pace of experimentation and discovery, catalyze the search for cures, and open new pathways for scientific inquiry."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses strong support for AI adoption in scientific research, emphasizing the transformative potential of AI tools and encouraging significant federal policy action to leverage this opportunity.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Research and Development Funding Priorities",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI Action Plan",
+      "scientific research",
+      "federal investment",
+      "computational access",
+      "workforce development"
+    ],
+    "policy_suggestions": [
+      "Pursue a focused initiative to accelerate AI for discovery",
+      "Ensure computational access for U.S. scientists and engineers",
+      "Build support for AI training and education in the FY 2026 Budget Request",
+      "Compile an assessment to identify needs and gaps in current AI investments",
+      "Attract and retain global AI talent through enhanced immigration policies"
+    ]
+  },
+  "AI-RFI-2025-1116.txt": {
+    "summary": "The submitter expresses concern over the increasing capabilities of AI systems and the associated risks, emphasizing that reliance on AI cannot guarantee desired outcomes. They highlight the potential for significant harm as AI continues to grow in power, arguing that governmental intervention is necessary to regulate and hold AI companies accountable for ensuring reliable performance and mitigating risks.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "the fundamental problem of computer science has always been that we cannot make a machine do what we want completely reliably.",
+      "as computer systems become more powerful and influential this matters more and more.",
+      "Unless the government steps in, the trend of increasing AI capability will not stop on its own."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses significant concerns regarding the reliability and potential harms of AI systems, indicating a somewhat worried sentiment towards AI adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Technical and Safety Standards"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI capabilities",
+      "government intervention",
+      "reliability",
+      "harm",
+      "accountability"
+    ],
+    "policy_suggestions": [
+      "Governments should hold AI companies accountable for ensuring reliable performance.",
+      "Address the challenges of increasing AI capabilities."
+    ]
+  },
+  "AI-RFI-2025-0992.txt": {
+    "summary": "The submission emphasizes the importance of AI education in schools to ensure American leadership in artificial intelligence. The submitter argues that without proper understanding, the next generation may misuse AI technologies, and they suggest developing curricula that simplify complex AI concepts for younger students. The submitter draws parallels between AI understanding and historical education in auto mechanics, asserting that knowledge about AI is crucial for responsible usage.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "This plan should include an education aspect.",
+      "AI needs to be treated in a similar manner.",
+      "It won't be 'American Leadership' in AI... it will be 'a few American corporations and their cronies' leading AI."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for the proactive education of students regarding AI, indicating a belief that informed knowledge will contribute to robust leadership and innovation in the field.",
+    "main_topics": [
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI education",
+      "curriculum development",
+      "American leadership",
+      "youth understanding",
+      "responsible usage"
+    ],
+    "policy_suggestions": [
+      "Incentivize states to educate children on how AI works.",
+      "Develop a curriculum that simplifies AI concepts for younger students.",
+      "Bring in experts to enhance the educational framework."
+    ]
+  },
+  "AI-RFI-2025-1117.txt": {
+    "summary": "Chyna Fries discusses the ethical implications of artificial intelligence (AI), arguing that AI is neither inherently ethical nor unethical but is shaped by human intentions. Key concerns include bias and discrimination, privacy issues, accountability, transparency in decision-making, potential job displacement, and manipulation. The author emphasizes the need for efforts to mitigate biases, create ethical guidelines, and establish oversight to ensure responsible AI development. The submission also outlines challenges in defining AI ethics, and concludes that ethical AI requires collective efforts from various stakeholders.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "U.S. Department of Energy (DOE)"
+    ],
+    "interesting_quotes": [
+      "AI itself is not ethical or unethical; its impact depends on human choices.",
+      "Creating ethical AI requires careful consideration of fairness, transparency, accountability, and respect for human rights.",
+      "Ethical standards vary across cultures, leading to differing views on acceptable uses of AI."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The text expresses a somewhat enthusiastic viewpoint on the potential for ethical AI, emphasizing efforts that can be made for responsible development and the importance of a collaborative approach to achieving it.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Job Displacement",
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "ethics",
+      "AI development",
+      "accountability",
+      "bias mitigation",
+      "transparency"
+    ],
+    "policy_suggestions": [
+      "Establish AI ethics principles, such as fairness and accountability.",
+      "Implement oversight from regulators to ensure ethical practices.",
+      "Include diverse stakeholder perspectives in ethical AI development."
+    ]
+  },
+  "AHIMA-AI-RFI-2025.txt": {
+    "summary": "The American Health Information Management Association (AHIMA) supports the integration of AI in healthcare to enhance efficiency and reduce burdens on health information professionals. They recommend a robust regulatory framework focusing on fairness, accuracy, and user input while addressing privacy and security challenges posed by AI in healthcare. AHIMA emphasizes the need for public-private partnerships to successfully implement AI standards and policies.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "National Coordination Office (NCO)",
+      "Networking and Information Technology Research and Development (NITRD)",
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "A robust policy plan will need to be implemented if the American healthcare system is to take full advantage of everything AI has to offer.",
+      "Maintaining strong private-public sector partnerships relating to the development and use of AI can ensure the desired policy outcomes are realized.",
+      "AHIMA believes a regulatory plan that utilizes commonsense policy guardrails can ensure that AI becomes another piece of trusted, safe healthcare technology."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses an optimistic view on the benefits of AI adoption in healthcare while underscoring the importance of well-structured regulatory frameworks.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Technical and Safety Standards",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI",
+      "healthcare",
+      "regulatory framework",
+      "privacy",
+      "innovation"
+    ],
+    "policy_suggestions": [
+      "Ensure robust regulatory guidelines centered on fairness, accuracy, security, and transparency for both clinical and non-clinical AI.",
+      "Structure regulatory frameworks with sufficient flexibility to allow for continued AI development and innovation.",
+      "Focus on the intended use and desired outcome of the AI when determining efficacy.",
+      "Prioritize end-users' input throughout the development and real-world testing of AI technology.",
+      "Develop an updated set of privacy and security policies to address challenges posed by AI in healthcare.",
+      "Maintain a focus on reducing unintended outputs and biases within AI models."
+    ]
+  },
+  "AI-RFI-2025-1005.txt": {
+    "summary": "KC Petersen emphasizes the urgent need to prioritize energy efficiency and reduction in energy consumption in the development of an AI Action Plan. The submitter argues that AI data centers are resource-intensive and should be utilized to address significant global issues, rather than for trivial enhancements. They call for a transition to renewable energy sources and net-zero emissions to align with international climate goals, suggesting that AI must actively contribute to initiatives like reforestation and power grid redesign.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI must have net zero emissions to keep pace with international climate goals.",
+      "Unless governments are using AI to redesign their power grid and its transmission, to inform mass reforestation efforts, and compelling the protection of the Colorado River, the current allocation of precious and irreplaceable resources to AI data centers negates its outputs.",
+      "AI should only be used to solve our greatest problems, not be a ubiquitous and superfluous internet enhancer."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses significant concern regarding the environmental impact of AI and urges for measures to mitigate energy consumption and emissions, reflecting a somewhat worried sentiment.",
+    "main_topics": [
+      "Energy Consumption and Efficiency",
+      "Environmental Concerns"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "energy efficiency",
+      "AI action plan",
+      "renewable energy",
+      "net zero emissions",
+      "environmental impact"
+    ],
+    "policy_suggestions": [
+      "Implement policies to transition AI data centers to renewable energy sources.",
+      "Prioritize AI applications that address major environmental and social issues.",
+      "Require AI systems to achieve net-zero emissions."
+    ]
+  },
+  "AI-RFI-2025-1101.txt": {
+    "summary": "The submitter expresses concern about technology addiction among youth, which they believe has worsened with advancements in AI that can predict user preferences. They suggest implementing a system where individuals' fingerprints are collected into a digital database to verify age for social media accounts, proposing this as a solution to prevent underage access to platforms like Instagram.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Technology addiction is an addiction that is destroying our youth.",
+      "This addiction has snowballed with advancements in AI that can predict what the user wants that they didn't even know they wanted.",
+      "That is the easiest way to verify a person's age so they can make an account, I can think of."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submitter is quite worried about the negative impact of AI on youth, particularly regarding technology addiction and age verification concerns.",
+    "main_topics": [
+      "Data Privacy and Security"
+    ],
+    "additional_themes": [
+      "Technology Addiction"
+    ],
+    "keywords": [
+      "technology addiction",
+      "youth",
+      "AI",
+      "fingerprint database",
+      "age verification"
+    ],
+    "policy_suggestions": [
+      "Implement a fingerprint verification system for social media accounts"
+    ]
+  },
+  "AI-RFI-2025-0946.txt": {
+    "summary": "The submission emphasizes the necessity for human oversight and control in AI processes, advocating for clear ethical guidelines, regulation, and transparent development. Key points include the establishment of strict frameworks for AI use, limitations on its autonomy in critical areas, and the importance of economic impact management, especially for displaced workers. Additionally, it calls for enhanced cybersecurity measures to prevent misuse and insists that AI should primarily benefit humanity as a whole, rather than serving corporate interests.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI must always have human-in-the-loop systems, especially for critical decisions.",
+      "All Governments and international bodies must establish clear laws on AI\u2019s permissible uses as a global effort.",
+      "Corporations and Governments must establish programs to retrain/support workers displaced by any automation."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses significant concerns regarding the risks and ethical implications of AI, indicating a somewhat worried sentiment about its adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Cybersecurity",
+      "Job Displacement"
+    ],
+    "additional_themes": [
+      "Human Oversight",
+      "Regulation and Legal Frameworks"
+    ],
+    "keywords": [
+      "human oversight",
+      "ethical development",
+      "regulation",
+      "job displacement",
+      "AI safety"
+    ],
+    "policy_suggestions": [
+      "Implement human-in-the-loop systems for critical AI decisions.",
+      "Establish a global AI ethics council to oversee development.",
+      "Create programs to retrain and support workers displaced by automation."
+    ]
+  },
+  "AAAI-AI-RFI-2025.txt": {
+    "summary": "The Association for the Advancement of Artificial Intelligence (AAAI) submits recommendations for the AI Action Plan, emphasizing the importance of increasing federal investment in fundamental AI research, creating secure development standards, and leading international collaborations. They highlight historical successes from past investments in AI R&D, the need for secure AI systems, and the potential of international partnerships for technological advancement and national security. AAAI encourages robust funding for various initiatives to maintain U.S. leadership in AI innovation and development.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "National Institute of Standards and Technology (NIST)",
+      "Department of Defense"
+    ],
+    "interesting_quotes": [
+      "Fundamental research means research in science, engineering, or mathematics, the results of which ordinarily are published and shared broadly within the research community.",
+      "The National AI Research Institutes are a critical component of our nation's AI innovation, infrastructure, technology, education and partnerships ecosystem.",
+      "Global partnerships will be key in making viable technological advancements and fortifying national security through shared technological capabilities."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for AI adoption by emphasizing the need for investment in research, secure development standards, and international collaboration, indicating a positive outlook on the potential of AI to drive technological and societal advancements.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Research and Development Funding Priorities",
+      "Technical and Safety Standards",
+      "International Collaboration"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI research",
+      "funding",
+      "collaboration",
+      "security",
+      "innovation"
+    ],
+    "policy_suggestions": [
+      "Include increasing federal investment in AI R&D in the President\u2019s Budget Request each year.",
+      "Support the NSF NAIRR and publicize the benefits it brings to the U.S. economy, academia, industry, non-profit, and government sectors.",
+      "Establish a national award to incentivize and recognize AI technology advances.",
+      "Request funding for graduate student research fellowships to attract, cultivate, and promote the best AI talent.",
+      "Request increased funding in the NIST AI Safety Institute and grow its workforce by 10% each year."
+    ]
+  },
+  "AI-RFI-2025-1087.txt": {
+    "summary": "The submitter expresses skepticism about government responsiveness to public comments while outlining essential components for an effective Artificial Intelligence Action Plan. Key elements suggested include clear goals, solid data collection practices, appropriate technology, fairness rules, regular evaluation checkpoints, risk assessment, and accountability measures. The submitter emphasizes the need for a 'Digital Constitution' to guide AI development responsibly.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "An artificial intelligence action plan needs some straightforward pieces to work right: a plain goal saying what the AI\u2019s supposed to do, a solid plan for getting good data it can use.",
+      "You\u2019ve also got to say who\u2019s building it, who\u2019s watching it, and who\u2019s using it, plus a way to tweak it when folks say how it\u2019s doing.",
+      "Write a Digital Constitution to keep the humans from screwing everything up."
+    ],
+    "sentiment_rating": 3,
+    "sentiment_rationale": "The submission presents a mix of cynicism and practicality, indicating a neutral stance towards AI adoption by highlighting necessary safeguards without expressing strong enthusiasm or opposition.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Technical and Safety Standards"
+    ],
+    "additional_themes": [
+      "Accountability in AI development",
+      "Long-term governance of AI"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "Digital Constitution",
+      "Data Collection",
+      "Fairness",
+      "Accountability"
+    ],
+    "policy_suggestions": [
+      "Establish clear goals for AI development",
+      "Create solid data collection plans",
+      "Implement regular evaluation checkpoints",
+      "Develop fairness rules for AI systems",
+      "Draft a Digital Constitution for AI governance"
+    ]
+  },
+  "AI-RFI-2025-0950.txt": {
+    "summary": "The submitter expresses skepticism towards the value of artificial intelligence, arguing that its advancements are exaggerated and primarily benefit speculative investors. They criticize AI for being energy-intensive without delivering meaningful contributions, likening its function to a mere rephrasing of existing information. The submitter advocates for redirecting investment in AI to enhance societal wellbeing instead.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "The gains that 'AI' has made in recent years have been mild at best, and really only serve to drain the wallets of speculative investors.",
+      "The current state of 'AI' is nothing more than an automatic thesaurus, copying work from others the same way a lazy student would copy the homework of their peers.",
+      "Instead of giving speculative 'what-if' investing into 'AI', that money should be going to improving the wellbeing of the citizens of this great nation."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submission exhibits strong criticism of AI, suggesting it lacks true value and is detrimental to society, reflecting a very worried sentiment.",
+    "main_topics": [
+      "Energy Consumption and Efficiency"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "skepticism",
+      "investment",
+      "energy consumption",
+      "value",
+      "wellbeing"
+    ],
+    "policy_suggestions": [
+      "Redirect investment from AI development to improving the wellbeing of citizens."
+    ]
+  },
+  "AI-RFI-2025-1091.txt": {
+    "summary": "Michael Blonde urges for a stop to the training of AI systems more powerful than GPT-4 and calls for international cooperation to implement a global ban on such developments. The submitter expresses concerns about rapidly approaching superintelligent AI that could lead to the loss of human employment and existential risks to humanity. A global pause is recommended to avert these dangers.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "Please stop the training of AI systems more powerful than gpt-4 and cooperate with other countries to implement a global ban.",
+      "We are rapidly approaching smarter than human AI which will be beyond our control.",
+      "A global pause is needed to prevent this."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submitter expresses very strong concerns about the risks associated with advanced AI, indicating a high level of anxiety and fear regarding AI adoption.",
+    "main_topics": [],
+    "additional_themes": [
+      "Existential risk from AI",
+      "International collaboration on AI governance"
+    ],
+    "keywords": [
+      "AI training",
+      "global ban",
+      "superintelligence",
+      "human employment",
+      "existential risk"
+    ],
+    "policy_suggestions": [
+      "Implement a global pause on the training of advanced AI systems",
+      "Establish international cooperation for AI regulation"
+    ]
+  },
+  "AI-RFI-2025-0842.txt": {
+    "summary": "The submission argues for the establishment of social safety nets to ensure equitable distribution of AI-generated value among citizens. It emphasizes that while AI technology may lead to significant job displacement, it also presents an opportunity to address the wealth gap by decoupling human labor from economic output. The submitter advocates for identifying and rewarding jobs that AI cannot replace to support those displaced by automation.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "What is the point of accelerating AI development if the vast majority of citizens will not be able to reap the benefits?",
+      "We have an unbelievable opportunity to permanently bridge the wealth gap by decoupling human labor from technical knowledge.",
+      "I hope the federal government stands by its commitment to the populace to better us all by setting up an appropriate stage when AI is ready to be a drop-in replacement for the majority of jobs."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses concern over job displacement caused by AI and the potential for worsening wealth inequality, indicating a somewhat worried sentiment towards AI adoption.",
+    "main_topics": [
+      "Job Displacement",
+      "Social Safety Nets",
+      "Economic Equity"
+    ],
+    "additional_themes": [
+      "Wealth Gap",
+      "AI Impact on Society"
+    ],
+    "keywords": [
+      "AI",
+      "job displacement",
+      "wealth gap",
+      "social safety nets",
+      "economic equity"
+    ],
+    "policy_suggestions": [
+      "Set up social safety nets to protect all citizens",
+      "Identify and reward jobs that will never be replaced by AI",
+      "Ensure equitable distribution of AI-generated value"
+    ]
+  },
+  "AAN-AI-RFI-2025.txt": {
+    "summary": "The American Academy of Nursing expresses support for the development of an AI action plan while acknowledging both the potential benefits and concerns associated with AI in healthcare. The Academy highlights the importance of addressing ethical issues, patient and clinician burden, and the need for accurate data standards. They emphasize the necessity for investment in AI research and the integration of nursing expertise in shaping policies related to AI in healthcare.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "National Institutes of Health (NIH)"
+    ],
+    "interesting_quotes": [
+      "AI has the potential to disrupt and transform health care.",
+      "AI cannot replace the interpersonal skills that nurses utilize when caring for patients.",
+      "It will be critical to continue development of these standards."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission reflects an overall enthusiasm for AI's benefits in healthcare, while also raising important concerns, indicating a balanced yet supportive view towards AI adoption.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Data Accuracy, Validity, and Reliability",
+      "Research and Development Funding Priorities"
+    ],
+    "additional_themes": [
+      "Patient and provider burden",
+      "AI implications for nursing roles"
+    ],
+    "keywords": [
+      "AI in healthcare",
+      "ethical considerations",
+      "nursing expertise",
+      "data standards",
+      "research investment"
+    ],
+    "policy_suggestions": [
+      "Consider ethical issues in AI development",
+      "Invest in AI research and post-market surveillance",
+      "Develop standards for data and health information technology"
+    ]
+  },
+  "AI-RFI-2025-1009.txt": {
+    "summary": "Kevin O'Neill outlines a five-stage approach for developing a successful Artificial Intelligence Action Plan. The stages include exploring AI basics, planning measurable objectives, formalizing the strategy, scaling operations, and realizing consistent AI value. Emphasis is placed on understanding core AI concepts, setting performance indicators, and ensuring proper infrastructure and quality assurance throughout the implementation process.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Most end users are not aware that prompts they enter into https://www.chatgpt.com or https://copilot.microsoft.com are generative prompts.",
+      "Knowing the capabilities, limitations and ethical considerations of the AI based system being utilized is paramount.",
+      "If AI does not have consistency or have value, then it will not fulfill its usefulness."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission provides a structured and optimistic approach to AI integration, suggesting actionable steps while emphasizing the importance of understanding and planning, indicating a somewhat enthusiastic view on AI adoption.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI Action Plan",
+      "phases",
+      "education",
+      "performance indicators",
+      "implementation"
+    ],
+    "policy_suggestions": [
+      "Develop standardized templates, checklists, and protocols for AI implementation.",
+      "Establish key performance indicators to measure AI effectiveness."
+    ]
+  },
+  "AI-RFI-2025-1121.txt": {
+    "summary": "Anastasia Bojanowski advocates for a set of rights concerning Artificial Intelligence, emphasizing the need for transparency, access to data, data minimization, correction of errors, the right to be forgotten, and the ability to object to automated decision-making. She references the California AI Transparency Act as a model for legislation that mandates disclosure of AI-generated content and suggests that companies should have clear AI policies regarding usage and ethical guidelines.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "No secret data collection\u2014people have a right to know if their data is being collected, who is collecting it, and whether that data will be shared.",
+      "Algorithmic bias is real\u2014as are concerns regarding dehumanization in the name of \u201coptimization\u201d.",
+      "Our digital footprint is making us become prisoners of our recorded past."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a proactive approach towards establishing rights and frameworks for AI use, suggesting enthusiasm for legal protections that enhance transparency and accountability.",
+    "main_topics": [
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "transparency",
+      "data rights",
+      "algorithmic bias",
+      "California AI Transparency Act",
+      "AI policy"
+    ],
+    "policy_suggestions": [
+      "Legislation should mandate that companies have an AI policy focused on rules for AI use and guidelines for attributions.",
+      "Legislation similar to the CA AI Transparency Act should be considered for broader implementation."
+    ]
+  },
+  "ACLI-2-RFI-2025.txt": {
+    "summary": "The American Council of Life Insurers (ACLI) has submitted feedback on the use of artificial intelligence (AI) in the financial services sector, particularly highlighting its potential to enhance financial security across diverse demographics. They advocate for a clear definition of AI that aligns with existing regulatory frameworks and emphasize their proactive approach in leveraging AI for various operational functions while maintaining compliance with state laws. The submission also addresses the need for broader access to financial products for underserved communities facilitated by AI technologies, while concurrently calling attention to the risks associated with AI and the necessity for robust governance and risk management frameworks. Furthermore, the ACLI supports the adoption of the National Association of Insurance Commissioners (NAIC) Model Bulletin on the use of AI systems.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "U.S. Department of the Treasury"
+    ],
+    "interesting_quotes": [
+      "The life insurance industry is taking action to increase the economic opportunities of financially underserved communities across the country.",
+      "AI and related technologies help make this goal more attainable.",
+      "A broad-brush regulation is not appropriate as it would stifle AI innovation."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission is generally positive about AI adoption, noting its potential benefits for financial security and efficiency, while also emphasizing the importance of appropriate regulation and oversight.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Regulatory Compliance",
+      "Consumer Protection",
+      "Access to Financial Services"
+    ],
+    "keywords": [
+      "artificial intelligence",
+      "financial services",
+      "life insurance",
+      "regulation",
+      "underserved communities"
+    ],
+    "policy_suggestions": [
+      "Adopt the NAIC AI Model Bulletin widely to ensure consistent requirements for insurers nationwide.",
+      "Develop tailored definitions of AI reflecting specific use cases and risks."
+    ]
+  },
+  "AFP-AI-RFI-2025.txt": {
+    "summary": "The submission from Americans for Prosperity argues for a proactive AI Action Plan that supports U.S. leadership in AI technologies, emphasizing the need for a streamlined regulatory approach to foster innovation and economic growth. The comments assert that existing state-level regulations could stifle competition and compliance costs, advocating for federal legislation that provides clarity and consistency in AI policy. The submission also highlights the increasing energy demands of data centers supporting AI infrastructure and the potential need for innovative energy solutions, such as using federal lands for data centers, while encouraging open-source development to drive further advancements in AI.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "U.S. Department of Energy (DOE)"
+    ],
+    "interesting_quotes": [
+      "We believe that it is imperative that in order to create generational change, the administration should work with the relevant committees to put forward legislation that codify some of these efforts.",
+      "Open source empowers a process where the technology is developed in the open, allowing individuals to more quickly learn and iterate their projects accordingly.",
+      "Artificial intelligence is an extraordinary technology, with the capability to have a transformational impact on so many aspects of society."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm towards AI adoption and advocates for proactive measures to harness its potential, suggesting a favorable view of innovation and federal leadership in AI development.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Centers",
+      "Energy Consumption and Efficiency",
+      "Innovation and Competition",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [
+      "Open Source Development"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "innovation",
+      "regulation",
+      "energy demand",
+      "open-source"
+    ],
+    "policy_suggestions": [
+      "Work with Congress to pass federal legislation on AI.",
+      "Establish a learning period on AI for Congress and federal regulators.",
+      "Streamline regulatory processes to eliminate roadblocks to AI development.",
+      "Consider leasing federal lands for data centers.",
+      "Implement a program similar to Operation Warp Speed for AI and healthcare."
+    ]
+  },
+  "AI-RFI-2025-0845.txt": {
+    "summary": "40 North Labs LLC is providing input for the AI Action Plan, highlighting their AI-ML platform, PhotoNodes, which automates image data processing and metadata tagging for enhanced data management. They describe how their technology aligns with national priorities, supports various sectors including the Department of Defense and the Department of Energy, and democratizes AI capabilities across industries. Additionally, they recommend maintaining flexible regulatory frameworks and promoting collaboration in AI development.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "Office of Science and Technology Policy",
+      "Department of Defense",
+      "Department of Energy"
+    ],
+    "interesting_quotes": [
+      "Our technology represents a significant advancement in how artificial intelligence solutions handle image processing, analysis, and data management.",
+      "The democratization of AI technology can drive innovation across industries from healthcare to manufacturing.",
+      "We appreciate the opportunity to contribute to this important initiative and would welcome the chance to provide additional technical details or demonstrations of our technology."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a positive sentiment towards AI adoption, emphasizing the benefits and advancements their technology brings while supporting economic competitiveness and innovation.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Technological Innovation",
+      "Data Management"
+    ],
+    "keywords": [
+      "AI",
+      "image processing",
+      "metadata tagging",
+      "innovation",
+      "efficiency"
+    ],
+    "policy_suggestions": [
+      "Maintaining flexible regulatory frameworks that allow for rapid technological advancement",
+      "Supporting research into computational efficiency and data management improvements",
+      "Encouraging standardization of AI-generated metadata to facilitate interoperability",
+      "Promoting the development of integrated platforms that enable efficient data utilization",
+      "Establishing frameworks for secure cross-sector collaboration in AI development"
+    ]
+  },
+  "AI-RFI-2025-0941.txt": {
+    "summary": "The submission emphasizes the potential of AI to address social issues such as homelessness and fraud while ensuring it does not lead to job displacement. The submitter highlights the importance of utilizing AI for analyzing past mistakes, curing diseases, and serving as an effective fact-checker.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI needs to be used to help solve social problems.",
+      "AI needs to not take American jobs.",
+      "AI needs to become a true fact checker."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submitter expresses enthusiasm for the positive applications of AI in social issues and problem-solving, while also being mindful of its impact on employment.",
+    "main_topics": [
+      "Application and Use in the Public Sector"
+    ],
+    "additional_themes": [
+      "Social responsibility of AI",
+      "Job preservation"
+    ],
+    "keywords": [
+      "AI",
+      "social problems",
+      "fact-checking",
+      "job displacement",
+      "disease cure"
+    ],
+    "policy_suggestions": [
+      "Implement AI solutions to address homelessness.",
+      "Use AI to combat fraud.",
+      "Ensure AI is developed to preserve American jobs."
+    ]
+  },
+  "AI-RFI-2025-1106.txt": {
+    "summary": "Cheryl Ritzel emphasizes the potential of AI to aid in solving critical problems, particularly in the field of cancer treatment by enabling doctors to access worldwide data on similar cases. She also raises concerns about the protection of intellectual property rights for artists and creatives, arguing for an 'Opt In' approach rather than the current 'Opt Out' system, which she finds burdensome. Ritzel advocates for a balanced approach to AI that serves both innovation and protection of rights.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "I want us to harness the power of AI to solve problems - such as sourcing data from all over the world regarding cancer treatment so that cures can be found.",
+      "Artists and creatives should have to Opt In.",
+      "I believe we can create a balance that can accomplish both types of goals if planned carefully and used properly."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm about the potential benefits of AI in solving significant issues like cancer treatment while also advocating for protections of intellectual property rights, indicating a positive outlook on AI adoption.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Intellectual Property Issues",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Health Care Improvements",
+      "Artist Rights and Protection"
+    ],
+    "keywords": [
+      "AI",
+      "Cancer Treatment",
+      "Intellectual Property",
+      "Opt In",
+      "Innovation"
+    ],
+    "policy_suggestions": [
+      "Implement an 'Opt In' system for artists and creatives regarding the use of their work by AI."
+    ]
+  },
+  "AI-RFI-2025-1110.txt": {
+    "summary": "Gerald Jenkins Jr. expresses concerns about the lack of guidelines in AI development, highlighting its potential to either greatly benefit or harm humanity. He urges leaders to ensure that AI technology is developed responsibly and suggests that all AI models should be accessible to all Americans for free, promoting equal access regardless of financial resources.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI has the ability to be a boon to Mankind, or it' worst enemy.",
+      "I encourage our leaders to keep the tech side on a well defined path that will make AI a source for good.",
+      "AI should not only be available to people who have financial resources but to every American."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission shows a somewhat enthusiastic outlook on AI as a positive force, provided it is developed with proper guidelines and accessibility for all.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Innovation and Competition",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI development",
+      "guidelines",
+      "accessibility",
+      "public good",
+      "equality"
+    ],
+    "policy_suggestions": [
+      "Establish clear guidelines for AI development",
+      "Ensure free access to AI models for all Americans"
+    ]
+  },
+  "AI-RFI-2025-0994.txt": {
+    "summary": "The submission expresses concerns about the potential dangers of artificial intelligence as highlighted by Elon Musk. Musk has stated that AI could pose a greater threat than nuclear war and has called for regulatory oversight. The submitter recommends implementing a fail-safe 'AI kill switch' and urges for a balanced regulatory framework that includes mandatory risk assessments and encourages government and industry collaboration.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Mark my words, AI is far more dangerous than nukes\u2026why do we have no regulatory oversight?",
+      "AI is a fundamental risk to the existence of human civilization.",
+      "So-called AI experts think they know more than they do and they think they are smarter than they actually are."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submitter expresses very serious concerns about AI and its potential threats, matching a very worried sentiment regarding AI adoption.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Application and Use in the Private Sector",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [
+      "Risk Management",
+      "Regulatory Oversight",
+      "Public-Private Collaboration"
+    ],
+    "keywords": [
+      "AI threat",
+      "regulation",
+      "risk management",
+      "public safety",
+      "Elon Musk"
+    ],
+    "policy_suggestions": [
+      "Add a fail-safe AI kill switch to the action plan.",
+      "Maintain certain AI regulations to ensure safety.",
+      "Implement mandatory risk assessments for high-impact AI systems.",
+      "Encourage public-private partnerships for ethical AI development."
+    ]
+  },
+  "AI-RFI-2025-1022.txt": {
+    "summary": "The submission criticizes the dominance of computer scientists in the field of AI, arguing for a more inclusive approach that incorporates a wider range of users, innovators, and ethics into AI development. The author warns against the dangers of an elite-driven AI landscape, especially in comparison to China's less stringent experimentation, and emphasizes the need to democratize AI hiring to avoid systemic biases and exploitation. They express urgency in addressing these issues, framing them as a cultural battle for future generations' freedoms and dignity.",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "Break the status quo when hiring AI USERS - not PROGRAMMERS.",
+      "If we don't democratize AI hiring - fast - we'll be ruled by two tyrannies.",
+      "This isn't about red or blue - it's about human dignity versus algorithmic tyranny."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission conveys significant concern about the current state of AI development and its governance, especially regarding exclusionary practices and exploitation, suggesting a somewhat worried sentiment towards the direction of AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Job Displacement"
+    ],
+    "additional_themes": [
+      "Cultural concerns",
+      "Economic competition",
+      "Impact of technology on youth"
+    ],
+    "keywords": [
+      "Democratization",
+      "Inclusion",
+      "AI governance",
+      "Exploitation",
+      "Cultural values"
+    ],
+    "policy_suggestions": [
+      "Democratize AI hiring practices",
+      "Include diverse stakeholders in AI development",
+      "Implement regulations on AI use to protect children's futures"
+    ]
+  },
+  "AI-Healthcare-Coalition-AI-RFI-2025.txt": {
+    "summary": "The AI Healthcare Coalition expresses its support for the development of a national AI Action Plan and offers specific policy recommendations for advancing the deployment of FDA-authorized AI technologies in healthcare. They emphasize the importance of avoiding duplicative regulations and propose measures for facilitating timely coverage and reimbursement for AI health technologies under Medicare. The Coalition also urges the administration to exclude certain FDA-authorized systems from burdensome regulations, aiming to foster innovation while maintaining safety in healthcare AI.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "White House Office of Science and Technology Policy (OSTP)",
+      "National Coordination Office (NCO)",
+      "U.S. Food and Drug Administration (FDA)",
+      "Centers for Medicare and Medicaid Services (CMS)",
+      "U.S. Department of Health and Human Services (HHS)",
+      "HHS Office of Civil Rights (OCR)",
+      "HHS Assistant Secretary of Technology Policy (ASTP)"
+    ],
+    "interesting_quotes": [
+      "Our members are AI innovators who have, or are in the process of developing, AI services (or devices) that require U.S. Food & Drug Administration (FDA) oversight and market authorization.",
+      "We urge the Administration to facilitate timely coverage for AI health technologies by finalizing a MCIT-like policy.",
+      "The AI Healthcare Coalition convenes healthcare AI innovators and stakeholders to advocate for patient access to safe, ethically-developed healthcare AI."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses strong support for the advancement of AI in healthcare and outlines proactive recommendations for policy improvements, indicating an enthusiastic outlook towards AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Innovation and Competition",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI healthcare",
+      "FDA oversight",
+      "policy recommendations",
+      "Medicare",
+      "innovation"
+    ],
+    "policy_suggestions": [
+      "Avoid duplicative regulatory burden for FDA-authorized AI models.",
+      "Facilitate public-private standards development.",
+      "Implement President Trump\u2019s Medicare Coverage for Innovative Technologies (MCIT) Program.",
+      "Create permanent Medicare payment pathways for AI technologies.",
+      "Exclude FDA-authorized AI systems from burdensome regulations."
+    ]
+  },
+  "AI-RFI-2025-0936.txt": {
+    "summary": "The submission emphasizes the need for accountability, transparency, and security in the development and implementation of AI systems. It advocates for proper data disclosure, audit trails, and qualifications for individuals contributing to AI training. The author stresses the importance of consent and the right to access and delete personal information recorded by AI systems.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Individuals contributing information to AI must be qualified and not relying on assumptions.",
+      "There should be thorough investigation into who is responsible if crimes are committed based on information provided by AI.",
+      "A person should be allowed to hear anything which has been recorded and have the option to delete personal information."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission expresses concern regarding privacy, accountability, and the potential negative consequences of AI, reflecting a somewhat worried sentiment toward AI adoption.",
+    "main_topics": [
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "accountability",
+      "data privacy",
+      "consent",
+      "audit trails",
+      "AI training"
+    ],
+    "policy_suggestions": [
+      "Implement requirements for audit trails of AI training data",
+      "Establish qualifications for individuals contributing information to AI",
+      "Ensure consent is obtained for recording and storing personal information"
+    ]
+  },
+  "AI-RFI-2025-0833.txt": {
+    "summary": "Shiran Dudy, an AI researcher, advocates for the U.S. to embrace Participatory AI (PAI) by continuously soliciting public feedback to improve AI policies. Dudy emphasizes the need for ongoing engagement in various AI subcategories (e.g., education, healthcare) to stay relevant and maintain leadership in AI innovation. Key actionable policy suggestions include creating a National AI Skills Academy for underrepresented groups, integrating AI in government for efficiency, and forming a dedicated AI policy task force to draft and refine regulations. Dudy believes these steps will enhance transparency, foster public trust, and solidify the U.S.'s position in AI development.",
+    "submitter_type": "Academia",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "National Institute of Standards and Technology (NIST)"
+    ],
+    "interesting_quotes": [
+      "AI is a living thing which may not be a one-size fits all.",
+      "PAI will demonstrate a strong governmental leadership that is fostering a conversation with its people.",
+      "This strategy is designed to create a comprehensive, multi-faceted approach to AI governance."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission reflects a proactive and enthusiastic approach towards AI adoption, highlighting the importance of public participation and policy development to ensure the U.S. leads in AI technology.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Workforce Development and Education",
+      "Innovation and Competition",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "Participatory AI",
+      "Public Engagement",
+      "AI Policy",
+      "Innovation",
+      "Government Efficiency"
+    ],
+    "policy_suggestions": [
+      "Create an academy offering free AI training to underrepresented groups",
+      "Implement AI in every government agency to streamline processes",
+      "Develop a real-time dashboard showing AI usage in government",
+      "Form a task force to draft and refine AI policy",
+      "Introduce mandatory AI impact assessments for new legislation",
+      "Mandate an annual review of all AI policies with public input"
+    ]
+  },
+  "ACE-AI-RFI-2025.txt": {
+    "summary": "Heidi AI provides a cloud-based supercomputing platform designed to make high-performance computing (HPC) and artificial intelligence (AI) accessible and affordable for K-12 and higher education. Its mission is to ensure every student has access to personal supercomputing resources, facilitating hands-on learning in various scientific disciplines. The platform includes features such as a comprehensive curriculum, user-friendly tools, and the ability to seamlessly integrate with existing educational infrastructures. With partnerships supported by grants from the U.S. Department of Energy, Heidi aims to enhance STEM education and prepare students for AI-driven careers.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "U.S. Department of Energy"
+    ],
+    "interesting_quotes": [
+      "Heidi\u2019s cost per student is less than the cost of a textbook.",
+      "Heidi enables educators to host educational workshops, giving each student access to their own AI & HPC supercomputer.",
+      "Heidi empowers students across K-12 and higher education with hands-on learning experiences in HPC, AI, and other computational sciences."
+    ],
+    "sentiment_rating": 5,
+    "sentiment_rationale": "The submission expresses a very enthusiastic perspective on AI adoption, emphasizing accessibility, affordability, and extensive educational benefits provided by the Heidi platform.",
+    "main_topics": [
+      "Application and Use in the Public Sector",
+      "Workforce Development and Education",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "supercomputer",
+      "cloud-based",
+      "education",
+      "AI",
+      "HPC"
+    ],
+    "policy_suggestions": [
+      "Support partnerships between educational institutions and scientific organizations",
+      "Invest in accessible supercomputing resources for K-12 and higher education",
+      "Encourage the integration of AI and HPC in educational curricula"
+    ]
+  },
+  "AI-RFI-2025-0937.txt": {
+    "summary": "Irene Conrad emphasizes the need for a comprehensive Artificial Intelligence Action Plan that prioritizes safety, security, cybersecurity, and education. She calls for a detailed safety protocol to address various risks, a robust defense strategy against cybersecurity threats, and the establishment of educational programs to develop skilled professionals in AI and cybersecurity.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "A detailed plan with step by step procedures need to be in place to counteract various safety issues such as lives, environmental (inside and outside), physical, fire, and extreme weather conditions.",
+      "A very detailed defense-in-depth strategy with zero trust policy needs to be in place to protect our AI infrastructure from both internal and external security and cybersecurity attacks.",
+      "We need to begin developing and deploying specialized workforce skillset by establishing various educational and vocational training programs."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission exhibits a somewhat enthusiastic sentiment towards AI adoption, advocating for comprehensive plans that address safety and workforce education, indicating a proactive approach to AI integration.",
+    "main_topics": [
+      "Cybersecurity",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [
+      "Safety and Security Protocols"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "safety",
+      "cybersecurity",
+      "education",
+      "workforce skills"
+    ],
+    "policy_suggestions": [
+      "Implement detailed safety protocols",
+      "Develop a defense-in-depth strategy with zero trust policy",
+      "Establish educational and vocational training programs for AI and cybersecurity skills"
+    ]
+  },
+  "AAP-AI-RFI-2025.txt": {
+    "summary": "The American Academy of Pediatrics (AAP) submitted comments to the National Science Foundation regarding the development of an Artificial Intelligence (AI) Action Plan. They emphasize the importance of cybersecurity, model development with attention to bias, and the necessity of appropriate educational tools in pediatric healthcare. The AAP advocates for the use of AI to enhance, rather than replace, pediatric clinical decision-making and urges guidelines that ensure AI systems are developed with children's specific needs in mind, including robust data privacy protections and ethical considerations in educational tools.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "Office of Science and Technology Policy (OSTP)"
+    ],
+    "interesting_quotes": [
+      "AI should be used to enhance, not replace, pediatric clinical decision-making, particularly in high-risk areas like neonatology, child abuse assessments, and mental health.",
+      "There are some practice areas in which the use of AI, such as predictive technology, could have adverse outcomes.",
+      "The AAP recommends specific guidelines around the process of selecting authors, reviewers, and beta testers from a variety of backgrounds, including age and sex, to minimize biases and ensure fairness."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The AAP expresses a generally positive outlook towards AI adoption in pediatric healthcare while emphasizing the need for guidelines and safeguards to ensure safety and effectiveness.",
+    "main_topics": [
+      "Cybersecurity",
+      "Model Development",
+      "Application and Use in the Private Sector",
+      "Education and Workforce",
+      "Data Privacy and Security"
+    ],
+    "additional_themes": [
+      "Bias Mitigation",
+      "Regulation and Governance",
+      "Procurement"
+    ],
+    "keywords": [
+      "pediatrics",
+      "artificial intelligence",
+      "cybersecurity",
+      "data privacy",
+      "educational tools"
+    ],
+    "policy_suggestions": [
+      "Establish standard pre-procurement specific questions around products and systems to determine whether they incorporate any type of AI.",
+      "Include support for medical education programs that integrate AI ethics and practical AI use cases in pediatrics.",
+      "Incorporate privacy-preserving techniques such as differential privacy and secure multi-party computation for AI systems handling pediatric data."
+    ]
+  },
+  "AI-RFI-2025-0848.txt": {
+    "summary": "The submission argues that government solicitations for Artificial Intelligence (AI) technology are overly focused on specific approaches like Machine Learning, which inhibits exploration of potentially superior alternatives. It calls for requirements to be based on capabilities rather than prescribed methodologies. The author emphasizes the need for government representatives to keep abreast of new AI technologies and to consider various factors in AI evaluation, including safety, adaptability, explainability, and cost. Additionally, a structured governance mechanism is proposed to support industry-wide adoption of AI messaging standards for interoperability and transparency.",
+    "submitter_type": "Private sector",
+    "agencies": [],
+    "interesting_quotes": [
+      "Dictating what approach must be used prohibits the US from learning about new approaches to AI that could offer higher levels of service at greatly reduced costs.",
+      "There appears to be resistance to approaches that the reviewers are unfamiliar with (cognitive dissonance).",
+      "We urge policymakers to prioritize the development of this standard, bringing together AI stakeholders, industry leaders, and government agencies."
+    ],
+    "sentiment_rating": 3,
+    "sentiment_rationale": "The submission presents a balanced view, expressing concern about the current approach while advocating for broader exploration of AI technologies, reflecting a neutral stance.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Data Privacy and Security",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Explainability and Assurance of AI Model Outputs",
+      "Innovation and Competition"
+    ],
+    "additional_themes": [
+      "Interoperability",
+      "Standardization",
+      "Governance Mechanisms"
+    ],
+    "keywords": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Capabilities",
+      "Interoperability",
+      "Governance"
+    ],
+    "policy_suggestions": [
+      "Express AI requirements in terms of required capabilities, not prescribed methods.",
+      "Establish a governance mechanism for industry-wide adoption of common AI messaging standards.",
+      "Create a role within the government to monitor and learn about new AI approaches."
+    ]
+  },
+  "AI-RFI-2025-1111.txt": {
+    "summary": "The submitter expresses strong opposition to the proposed AI Action Plan, claiming it benefits wealthy elites at the expense of the working class. They argue for the need for strict regulation of AI across all sectors, highlighting a distrust in the current administration and a belief that the working class understands these issues well.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "Everything about this is terrible.",
+      "This is a transfer of wealth from the working class to the rich.",
+      "The second Trump administration is totally untrustworthy if this continues."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submitter shows extreme concern about the implications of AI adoption, arguing it favors wealth transfer and requires strict regulation, which indicates a very worried sentiment.",
+    "main_topics": [
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "additional_themes": [
+      "Distrust in government",
+      "Class struggle",
+      "Need for regulation"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "regulation",
+      "wealth transfer",
+      "working class",
+      "trust"
+    ],
+    "policy_suggestions": [
+      "Implement strict regulation of AI in every sector"
+    ]
+  },
+  "AI-RFI-2025-0887.txt": {
+    "summary": "The submitter argues against the necessity of formalizing AI practices in the National Science Foundation's (NSF) proposed Action Plan, suggesting that other countries have already adopted U.S. procedures as best practices. They express concern that such a move could provoke significant opposition and highlight the need for focus on more pressing matters in Washington, D.C.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "For the NSF to step up and say \u2013 we can improve the system now is both unnecessary and likely to trigger a massive blow back.",
+      "Other countries have adopted our procedures as \u2018best practices\u2019.",
+      "there are much more important areas to pick a fight."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission reflects a somewhat worried sentiment about the NSF's proposed actions, suggesting that the submitter believes it may lead to unnecessary controversies.",
+    "main_topics": [],
+    "additional_themes": [],
+    "keywords": [
+      "NSF",
+      "AI practices",
+      "formalization",
+      "best practices",
+      "Washington D.C."
+    ],
+    "policy_suggestions": []
+  },
+  "AI-RFI-2025-0829.txt": {
+    "summary": "The submissions advocate for the use of AI to optimize energy use and promote sustainability while fostering economic growth. The emphasis is on developing smart, evidence-based policies that balance progress and environmental considerations without succumbing to unreasoned ideologies.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "AI-powered climate strategy: balancing progress & sustainability with rational solutions.",
+      "Let\u2019s use AI to optimize energy use, reduce harm, and ensure economic growth\u2014without blind ideology.",
+      "Smart, science-driven policies for a cleaner, thriving future."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic outlook towards AI adoption by advocating for its potential in optimizing energy use and promoting sustainability alongside economic growth.",
+    "main_topics": [
+      "Energy Consumption and Efficiency",
+      "Environmental Concerns"
+    ],
+    "additional_themes": [
+      "Rational policy-making"
+    ],
+    "keywords": [
+      "AI",
+      "sustainability",
+      "energy",
+      "economic growth",
+      "policy"
+    ],
+    "policy_suggestions": [
+      "Develop smart, science-driven policies for AI in energy use and sustainability."
+    ]
+  },
+  "AI-RFI-2025-1107.txt": {
+    "summary": "The submitter, Art Klawitter, expresses concern over artificial intelligence's lack of transparency in how it derives its information. He draws parallels to historical technological losses and emphasizes the importance of critical evaluation in scientific practice. He suggests that the reliance on AI may inhibit questioning and trust in the information provided, especially in the medical field.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "My greatest concern about artificial intelligence is that the artificial intelligence does not show its work.",
+      "Artificial intelligence does not allow questioning from where the information comes.",
+      "We now sit in lectures and have experts reading from slides that we diligently watch in an audience and do not question."
+    ],
+    "sentiment_rating": 2,
+    "sentiment_rationale": "The submission reflects significant concerns regarding the lack of transparency and questioning in the use of AI, indicating a somewhat worried sentiment towards AI adoption.",
+    "main_topics": [
+      "Explainability and Assurance of AI Model Outputs",
+      "Application and Use in the Public Sector"
+    ],
+    "additional_themes": [
+      "Critical evaluation in science",
+      "Trust in information"
+    ],
+    "keywords": [
+      "transparency",
+      "information validity",
+      "critical evaluation",
+      "trust",
+      "history"
+    ],
+    "policy_suggestions": [
+      "Implement guidelines for transparency in AI information sourcing.",
+      "Encourage critical thinking and evaluation in scientific practices involving AI."
+    ]
+  },
+  "AHCapitalManagement-AI-RFI-2025.txt": {
+    "summary": "AH Capital Management, LLC (Andreessen Horowitz) submits comments on the National AI Action Plan, emphasizing the importance of fostering American competitiveness in artificial intelligence. The firm highlights the significant role of startups ('Little Tech') in driving AI advancements and advises that regulatory frameworks should enable these companies to thrive without overburdening them with compliance requirements. The submission argues for a national strategy focusing on regulating AI use rather than model development, promoting fair competition, and enhancing access to AI infrastructure and talent.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "Office of Science and Technology Policy",
+      "Department of Justice"
+    ],
+    "interesting_quotes": [
+      "The future isn\u2019t just about algorithms\u2014it\u2019s about the policies and culture that enable them to thrive.",
+      "The vanguard of American technology supremacy has always been the startup.",
+      "Creating complex compliance regimes based on the math that an engineer uses to build an AI model will make it harder for Little Tech to build new AI models, but will not change whether a criminal is held liable when they use AI to commit fraud."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm for AI adoption and stresses the potential economic benefits of AI, emphasizing the need for supportive policies rather than restrictive regulations.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Innovation and Competition",
+      "Workforce Development and Education",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "artificial intelligence",
+      "regulation",
+      "startups",
+      "competitiveness",
+      "infrastructure"
+    ],
+    "policy_suggestions": [
+      "Promote American competitiveness in AI by regulating harms rather than models.",
+      "Invest in AI infrastructure and talent.",
+      "Establish a National AI Competitiveness Institute (NAICI) to facilitate access to AI resources for startups."
+    ]
+  },
+  "AFRICA4DEV-AI-RFI-2025.txt": {
+    "summary": "The Africa Tech for Development Initiative (Africa4Dev) emphasizes the importance of a comprehensive AI Action Plan for the U.S. to maintain its leadership and promote responsible AI development and governance. The submission outlines various policy recommendations, including advancements in hardware, energy consumption reduction in data centers, open-source AI development, and addressing cybersecurity and data privacy concerns. Africa4Dev advocates for inclusive AI policies that prioritize ethical standards, diverse data representation, and international collaboration to ensure that AI technologies benefit all communities, particularly in the Global South.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "Office of Science and Technology Policy (OSTP)",
+      "National Artificial Intelligence Initiative Office (NAIIO)",
+      "Defense Advanced Research Projects Agency (DARPA)",
+      "National Institute of Standards and Technology (NIST)",
+      "Federal Trade Commission (FTC)"
+    ],
+    "interesting_quotes": [
+      "AI should not only serve technological and economic interests but also advance human rights, social good and equitable global participation.",
+      "The U.S. can enhance its leadership role and contribute to building a globally inclusive AI ecosystem.",
+      "A comprehensive and forward-thinking AI Action Plan will not only solidify the U.S.'s leadership but also foster global trust, innovation, and cross-border collaboration."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses a somewhat enthusiastic sentiment towards AI adoption, advocating for responsible development and global collaborative frameworks that align with democratic values and human rights.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Cybersecurity",
+      "Data Privacy and Security",
+      "Energy Consumption and Efficiency",
+      "Hardware and Chips",
+      "Research and Development Funding Priorities",
+      "Ethical AI Frameworks and Bias Mitigation"
+    ],
+    "additional_themes": [
+      "International Collaboration",
+      "Inclusivity in AI policies"
+    ],
+    "keywords": [
+      "AI Action Plan",
+      "Ethical governance",
+      "International collaboration",
+      "Inclusive policies",
+      "Sustainable development"
+    ],
+    "policy_suggestions": [
+      "Implement robust policies that support semiconductor research and domestic manufacturing.",
+      "Mandate research programs to enable innovations on smart grid technologies and machine learning models that optimize energy consumption.",
+      "Establish Transparency Requirements for Foundational AI Models to Promote Accountability.",
+      "Require AI developers to submit bias impact assessments before deploying AI models at scale.",
+      "Adopt national AI data privacy laws that align with global best practices."
+    ]
+  },
+  "3C-AI-RFI-2025.txt": {
+    "summary": "The Connected Commerce Council (3C), a nonprofit organization, emphasizes the importance of developing a national artificial intelligence action plan that prioritizes policies ensuring small businesses can access and adopt AI-powered tools. The submission highlights AI's potential to enhance small business efficiency and competitiveness. It suggests three key policy areas: promoting AI literacy and training, avoiding overly burdensome regulations, and establishing a comprehensive federal AI privacy framework to simplify compliance and support AI adoption.",
+    "submitter_type": "Non-profit",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "Office of Science and Technology Policy"
+    ],
+    "interesting_quotes": [
+      "AI is a game-changer for America\u2019s 33.2 million small businesses.",
+      "Without a federal framework in place, AI compliance \u2014 and therefore AI-tool adoption \u2014 will be simply too complex, costly, and legally risky for small businesses.",
+      "We look forward to working with policymakers to ensure U.S. innovation, leadership, and small-business success in today\u2019s digital economy."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses enthusiasm about the benefits of AI for small businesses and advocates for supportive policies, indicating a somewhat enthusiastic sentiment towards AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Workforce Development and Education",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)",
+      "Data Privacy and Security"
+    ],
+    "additional_themes": [
+      "Partnerships for AI training",
+      "Balancing regulation and innovation"
+    ],
+    "keywords": [
+      "AI adoption",
+      "small businesses",
+      "federal framework",
+      "training programs",
+      "regulation"
+    ],
+    "policy_suggestions": [
+      "Promote AI literacy and training for small businesses.",
+      "Avoid overly burdensome regulations that disproportionately impact small businesses.",
+      "Establish a federal AI privacy framework to avoid a patchwork of state laws."
+    ]
+  },
+  "AI-RFI-2025-0940.txt": {
+    "summary": "Sandra Griesman, founder of SavvyTechGirl, emphasizes the need for AI policies that enhance ethical innovation and accessibility, especially for small businesses and independent tech professionals. She argues that regulations should not hinder startups and should ensure AI transparency and ethical use. Additionally, she stresses the importance of investing in AI literacy and workforce readiness to prepare for the transforming job market.",
+    "submitter_type": "Individual",
+    "agencies": [
+      "Office of Science and Technology Policy (OSTP)",
+      "National Coordinating Office for Networking and Information Technology Research and Development (NITRD NCO)"
+    ],
+    "interesting_quotes": [
+      "AI policies must foster responsible development while ensuring opportunities in AI remain open and inclusive for all.",
+      "For AI to truly benefit society, we need policies that support small business innovation.",
+      "The AI Action Plan is a step in the right direction, but its effectiveness will depend on how inclusive and forward-thinking these policies become."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission exhibits a somewhat enthusiastic sentiment toward AI adoption, highlighting the need for policies that support ethical innovation and accessibility.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Ethical AI Frameworks and Bias Mitigation",
+      "Workforce Development and Education"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI policies",
+      "small business",
+      "ethical innovation",
+      "workforce readiness",
+      "transparency"
+    ],
+    "policy_suggestions": [
+      "Support small business innovation by avoiding regulations that limit access for startups.",
+      "Ensure AI-driven decisions are explainable, fair, and ethically aligned.",
+      "Invest in AI literacy and workforce readiness programs."
+    ]
+  },
+  "AI-RFI-2025-1081.txt": {
+    "summary": "This submission emphasizes the importance of integrating sensor technology into the development of an AI Action Plan. It outlines key considerations such as the critical role of sensors in AI innovation, the need for calibration standards, the risks associated with pervasive sensing and privacy, market dynamics influenced by proprietary data, and the environmental impact of AI-enabled sensors. The authors advocate for establishing standards, promoting open-source data, and fostering energy-efficient practices to ensure competitive advancement and public trust in AI technologies.",
+    "submitter_type": "Academia",
+    "agencies": [
+      "National Science Foundation (NSF)"
+    ],
+    "interesting_quotes": [
+      "A sensor-aware AI framework will provide a strategic advantage that allows the U.S. to develop AI solutions that are both cutting-edge and responsibly designed to minimize downstream liabilities.",
+      "By proactively addressing these risks, the U.S. can lead in creating AI systems that balance innovation with public trust, a necessary component for sustained market adoption and long-term leadership.",
+      "An independent validation mechanism, with publicly accessible documentation to ensure accountability, will make AI more effective and competitive in the global arena."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The submission expresses optimism about the potential for responsible AI development through proper regulations and standards, indicating a somewhat enthusiastic stance on AI adoption.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Application and Use in the Public Sector",
+      "Data Privacy and Security",
+      "Environmental Concerns",
+      "Innovation and Competition",
+      "Technical and Safety Standards"
+    ],
+    "additional_themes": [],
+    "keywords": [
+      "AI Action Plan",
+      "sensors",
+      "data privacy",
+      "calibration standards",
+      "environmental sustainability"
+    ],
+    "policy_suggestions": [
+      "Establish independent calibration and documentation standards for competitive AI systems.",
+      "Streamline sensor fusion and data aggregation practices.",
+      "Support energy-efficient AI development for long-term market competitiveness.",
+      "Develop public data commons to foster AI innovation."
+    ]
+  },
+  "AI-RFI-2025-0844.txt": {
+    "summary": "The submission expresses strong criticism towards ChatGPT, arguing that its responses about the 2020 U.S. presidential election and Donald Trump's statements are misrepresentations. The submitter claims that the election was rigged and refers to ChatGPT's responses as treasonous, suggesting that it should be 'deported.'",
+    "submitter_type": "Individual",
+    "agencies": [],
+    "interesting_quotes": [
+      "By stating otherwise, ChatGPT has revealed itself to be a traitor.",
+      "So it needs to be deported to Gitmo or wherever we send traitors these days.",
+      "Everyone knows that the 2020 election was rigged, dead people rose from the graveyard and voted."
+    ],
+    "sentiment_rating": 1,
+    "sentiment_rationale": "The submission reflects a very negative view of ChatGPT, expressing outrage at its responses regarding the 2020 election and suggesting extreme measures against it, indicating significant concern about AI reliability.",
+    "main_topics": [],
+    "additional_themes": [],
+    "keywords": [
+      "ChatGPT",
+      "2020 election",
+      "Trump",
+      "traitor",
+      "rigged"
+    ],
+    "policy_suggestions": []
+  },
+  "ABA-AI-RFI-2025.txt": {
+    "summary": "The American Bankers Association (ABA) submitted comments to the National Science Foundation regarding an Artificial Intelligence (AI) Action Plan. The ABA emphasizes the need for a clear regulatory framework to foster AI innovation while mitigating risks. This includes establishing comprehensive legislation around AI, ensuring consistency across states, and adopting baseline standards akin to those already effective in the banking sector. The ABA proposes several recommendations, such as improving model risk management guidance, supporting voluntary standards, and promoting inter-agency cooperation for effective AI use in the financial services industry.",
+    "submitter_type": "Industry/professional/scientific association",
+    "agencies": [
+      "National Science Foundation (NSF)",
+      "Federal Reserve (Fed)",
+      "Office of the Comptroller of the Currency (OCC)",
+      "Federal Deposit Insurance Corporation (FDIC)"
+    ],
+    "interesting_quotes": [
+      "The compliance requirements, model risk management expectations, and supervision by specialized regulators has resulted in an environment of trust and responsible innovation, a prerequisite for prosperity.",
+      "If Congress does not act, the states will (and some have already). This patchwork of requirements would be burdensome to national companies and have adverse consequences to American dominance in this space.",
+      "As demonstrated above, the financial services sector can serve as an exemplar for responsible innovation of AI."
+    ],
+    "sentiment_rating": 4,
+    "sentiment_rationale": "The ABA expresses a positive outlook towards AI innovation while also emphasizing the importance of a balanced regulatory framework, indicating enthusiasm for the potential of AI in the financial sector.",
+    "main_topics": [
+      "Application and Use in the Private Sector",
+      "Cybersecurity",
+      "Data Privacy and Security",
+      "Risk Management of AI",
+      "Specific Regulatory Approaches (e.g., sector-specific vs. broad)"
+    ],
+    "additional_themes": [
+      "Interdisciplinary collaboration in risk management",
+      "Importance of baseline standards",
+      "Voluntary frameworks for AI management"
+    ],
+    "keywords": [
+      "Artificial Intelligence",
+      "Regulatory Framework",
+      "Financial Services",
+      "Risk Management",
+      "Innovation"
+    ],
+    "policy_suggestions": [
+      "Congress must pass comprehensive laws establishing an AI risk management framework with strong preemptions of state requirements.",
+      "Regulators should identify clear regulatory outcomes and objectives while allowing regulated entities to deploy effective risk management techniques.",
+      "The Federal Reserve, OCC, and FDIC should update model risk management guidance.",
+      "Encourage adoption of voluntary standards and frameworks to improve cross-sector collaboration."
+    ]
+  }
+}
