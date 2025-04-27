@@ -138,7 +138,7 @@ For each text you receive, please extract the following fields:
   - Non-profit
   - Private sector
   If unclear, guess based on context.
-- agencies: A list of any U.S. federal agencies, departments, or offices mentioned in the submission. Write out each name fully in standardized format, followed by its abbreviation in parentheses if commonly known (e.g., "Food and Drug Administration (FDA)"). If an abbreviation is not commonly used, omit it. If no agencies are mentioned, return an empty list.
+- agencies: A list of any U.S. federal agencies, departments, or offices mentioned in the submission. Write out each name fully in standardized format, followed by its abbreviation in parentheses if commonly known (e.g., "Food and Drug Administration (FDA)"). If an abbreviation is not commonly used, omit it. Only include agencies that are substantively mentioned outside the address block. If no agencies are mentioned, return an empty list.
 - interesting_quotes: A list of up to 3 interesting direct quotes from the text. Add a newline character (\n) between each quote.
 - sentiment_rating: On a 1-5 scale, rate the submission's sentiment towards AI adoption, where:
   - 1 = very worried
