@@ -1059,7 +1059,7 @@ def make_html(json_file_path, output_dir):
                             }
                             
                             // Handle scalar fields
-                            return filter.values.includes(String(itemValue));
+                            return filter.values.some(value => String(itemValue) === String(value));
                         }
                         
                         return true;
