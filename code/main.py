@@ -267,12 +267,26 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model
     return output_filename
 
 def make_html(json_file_path, output_dir):
-    """Generate HTML reports from analyzed data with pagination, better filtering, and GitHub Pages support.
+    """Generate HTML reports from analyzed data with pagination, filtering, and GitHub Pages support.
     
     Creates two files:
     1. A timestamped report with all data embedded
     2. An index.html file that loads data externally for GitHub Pages
     """
+    import os
+    import json
+    import pandas as pd
+    from datetime import datetime
+    import jinja2
+    
+    def create_directory(directory_path):
+        """Create a directory if it doesn't exist."""
+        if not os.path.exists(directory_path):
+            os.makedirs(directory_path)
+            print(f"Created directory: {directory_path}")
+        else:
+            print(f"Directory already exists: {directory_path}")
+        return directory_path
 
     create_directory(output_dir)
     
@@ -317,6 +331,9 @@ def make_html(json_file_path, output_dir):
     json_data = df.to_json(orient='records')
     submitter_counts = df['submitter_type'].value_counts().to_dict()
     
+    # Define which columns to show initially
+    initial_columns = ['filename', 'summary', 'submitter_type', 'main_topics']
+    
     # First, create the timestamped HTML with embedded data
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     embedded_file_path = os.path.join(output_dir, f"report_{timestamp}.html")
@@ -336,75 +353,162 @@ def make_html(json_file_path, output_dir):
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Public Comments Analysis</title>
         <script src="https://cdn.tailwindcss.com"></script>
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
         <style>
             .filter-panel {
-                max-height: 200px;
+                max-height: 300px;
                 overflow-y: auto;
+            }
+            :root {
+                --primary: #4F46E5;
+                --primary-hover: #4338CA;
+                --secondary: #F59E0B;
+                --light: #F3F4F6;
+                --dark: #1F2937;
+                --success: #10B981;
+                --danger: #EF4444;
+            }
+            .btn-primary {
+                background-color: var(--primary);
+                color: white;
+                transition: all 0.2s;
+            }
+            .btn-primary:hover {
+                background-color: var(--primary-hover);
+            }
+            .btn-secondary {
+                background-color: var(--secondary);
+                color: white;
+                transition: all 0.2s;
+            }
+            .btn-secondary:hover {
+                background-color: #D97706;
+            }
+            .card {
+                border-radius: 0.5rem;
+                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+                transition: all 0.3s;
+            }
+            .card:hover {
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            }
+            .table-header {
+                background-color: var(--dark);
+                color: white;
+            }
+            .table-row:nth-child(even) {
+                background-color: var(--light);
+            }
+            .pagination-btn {
+                background-color: var(--light);
+                border: 1px solid #D1D5DB;
+                padding: 0.5rem 1rem;
+                transition: all 0.2s;
+            }
+            .pagination-btn:hover:not(:disabled) {
+                background-color: #D1D5DB;
+            }
+            .pagination-btn:disabled {
+                opacity: 0.5;
+                cursor: not-allowed;
+            }
+            .pagination-info {
+                background-color: white;
+                border: 1px solid #D1D5DB;
+                padding: 0.5rem 1rem;
+            }
+            .dropdown-menu {
+                position: absolute;
+                background-color: white;
+                border: 1px solid #D1D5DB;
+                border-radius: 0.25rem;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                padding: 0.5rem;
+                z-index: 10;
+                max-height: 300px;
+                overflow-y: auto;
+                display: none;
+            }
+            .dropdown-menu.show {
+                display: block;
+            }
+            .column-filter {
+                padding: 4px;
+                margin-top: 4px;
+                width: 100%;
+                font-size: 0.75rem;
+                border: 1px solid #D1D5DB;
+                border-radius: 0.25rem;
+            }
+            .filter-dropdown {
+                position: absolute;
+                background: white;
+                border: 1px solid #D1D5DB;
+                border-radius: 0.25rem;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+                z-index: 20;
+                display: none;
+                width: 250px;
+                max-height: 300px;
+                overflow-y: auto;
+                padding: 0.5rem;
+            }
+            .filter-toggle {
+                cursor: pointer;
+                margin-left: 4px;
+                display: inline-block;
+            }
+            .filter-toggle:hover {
+                color: var(--primary);
+            }
+            .th-container {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
             }
         </style>
     </head>
     <body class="bg-gray-100 p-6">
         <div class="container mx-auto">
-            <h1 class="text-3xl font-bold mb-6 text-center">Public Comments Analysis</h1>
+            <h1 class="text-3xl font-bold mb-8 text-center text-indigo-700">Public Comments Analysis: AI Action Plan</h1>
             
-            <!-- Stats Overview -->
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-                <div class="bg-white p-6 rounded-lg shadow">
-                    <h2 class="text-xl font-semibold mb-4">Total Submissions</h2>
-                    <p class="text-4xl font-bold text-blue-600" id="totalSubmissions">...</p>
-                </div>
-                <div class="bg-white p-6 rounded-lg shadow md:col-span-2">
-                    <h2 class="text-xl font-semibold mb-4">Submitter Types</h2>
-                    <canvas id="submitterChart"></canvas>
-                </div>
-            </div>
-
-            <!-- Filters -->
-            <div class="bg-white p-6 rounded-lg shadow mb-8">
-                <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-xl font-semibold">Filters</h2>
-                    <button id="clearFilters" class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded">
-                        Clear All Filters
-                    </button>
+            <!-- Total Submissions Info -->
+            <div class="bg-white p-6 rounded-lg shadow mb-8 card">
+                <div class="flex justify-between items-center">
+                    <h2 class="text-xl font-semibold text-gray-800">Total Submissions</h2>
+                    <p class="text-2xl font-bold text-indigo-600" id="totalSubmissions">...</p>
                 </div>
                 
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                    <!-- Enumerated filters - generated dynamically -->
-                    {% for field, values in enumerated_values.items() %}
-                    <div class="filter-group">
-                        <h3 class="font-semibold mb-2">{{ field }}</h3>
-                        <div class="filter-panel bg-gray-50 p-3 rounded">
-                            {% for value in values %}
-                            <div class="flex items-center mb-1">
-                                <input type="checkbox" id="{{ field }}_{{ loop.index }}" class="filter-checkbox mr-2" 
-                                       data-field="{{ field }}" data-value="{{ value }}">
-                                <label for="{{ field }}_{{ loop.index }}" class="text-sm">{{ value }}</label>
-                            </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                    {% endfor %}
-                    
-                    <!-- Text search fields - for non-enumerated fields -->
-                    {% for field in fields %}
-                        {% if field not in enumerated_values.keys() %}
-                        <div class="filter-group">
-                            <h3 class="font-semibold mb-2">{{ field }}</h3>
-                            <input type="text" data-field="{{ field }}" class="columnSearch p-2 border rounded w-full" placeholder="Search...">
-                        </div>
-                        {% endif %}
-                    {% endfor %}
+                <!-- Main control buttons -->
+                <div class="flex justify-end mt-4">
+                    <button id="clearFilters" class="btn-secondary py-2 px-4 rounded mr-2">
+                        Clear All Filters
+                    </button>
                 </div>
             </div>
 
             <!-- Data Table -->
-            <div class="bg-white p-6 rounded-lg shadow">
-                <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-xl font-semibold">Data Table</h2>
+            <div class="bg-white p-6 rounded-lg shadow card">
+                <div class="flex justify-between items-center mb-6">
+                    <h2 class="text-xl font-semibold text-gray-800">Data Table</h2>
                     <div class="flex space-x-2">
-                        <button id="downloadCsv" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        <!-- Column selector dropdown -->
+                        <div class="relative" id="columnSelectorContainer">
+                            <button id="columnSelector" class="btn-primary py-2 px-4 rounded flex items-center">
+                                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                                </svg>
+                                Show/Hide Columns
+                            </button>
+                            <div id="columnMenu" class="dropdown-menu">
+                                <!-- Column checkboxes will be added here by JavaScript -->
+                            </div>
+                        </div>
+                        
+                        <button id="downloadCsv" class="btn-primary py-2 px-4 rounded flex items-center">
+                            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+                            </svg>
                             Download Filtered CSV
                         </button>
                     </div>
@@ -412,33 +516,35 @@ def make_html(json_file_path, output_dir):
                 
                 <!-- Pagination controls - top -->
                 <div class="flex justify-between items-center mb-4">
-                    <div>
-                        <span>Show</span>
-                        <select id="rowsPerPage" class="mx-2 p-1 border rounded">
+                    <div class="flex items-center">
+                        <span class="text-gray-700 mr-2">Show</span>
+                        <select id="rowsPerPage" class="p-2 border border-gray-300 rounded focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
                             <option value="10">10</option>
                             <option value="25">25</option>
                             <option value="50" selected>50</option>
                             <option value="100">100</option>
                         </select>
-                        <span>entries</span>
+                        <span class="text-gray-700 ml-2">entries</span>
                     </div>
-                    <div class="pagination-controls">
-                        <button id="prevPage" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-l disabled:opacity-50">Prev</button>
-                        <span id="pageInfo" class="bg-gray-100 px-4 py-1">Page 1 of 1</span>
-                        <button id="nextPage" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-r disabled:opacity-50">Next</button>
+                    <div class="flex">
+                        <button id="prevPage" class="pagination-btn rounded-l">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                            </svg>
+                        </button>
+                        <span id="pageInfo" class="pagination-info">Page 1 of 1</span>
+                        <button id="nextPage" class="pagination-btn rounded-r">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </button>
                     </div>
                 </div>
                 
                 <div class="overflow-x-auto">
-                    <table id="dataTable" class="min-w-full bg-white">
-                        <thead>
-                            <tr>
-                                {% for field in fields %}
-                                <th class="py-2 px-4 border-b bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
-                                    {{ field }}
-                                </th>
-                                {% endfor %}
-                            </tr>
+                    <table id="dataTable" class="min-w-full bg-white border border-gray-200">
+                        <thead id="tableHeader">
+                            <!-- Column headers will be added by JavaScript -->
                         </thead>
                         <tbody>
                             <!-- Rows injected by JavaScript -->
@@ -447,13 +553,37 @@ def make_html(json_file_path, output_dir):
                 </div>
                 
                 <!-- Pagination controls - bottom -->
-                <div class="flex justify-between items-center mt-4">
+                <div class="flex justify-between items-center mt-6">
                     <div id="tableInfo" class="text-sm text-gray-600">Showing 0 to 0 of 0 entries</div>
-                    <div class="pagination-controls">
-                        <button id="prevPageBottom" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-l disabled:opacity-50">Prev</button>
-                        <span id="pageInfoBottom" class="bg-gray-100 px-4 py-1">Page 1 of 1</span>
-                        <button id="nextPageBottom" class="bg-gray-200 hover:bg-gray-300 px-3 py-1 rounded-r disabled:opacity-50">Next</button>
+                    <div class="flex">
+                        <button id="prevPageBottom" class="pagination-btn rounded-l">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                            </svg>
+                        </button>
+                        <span id="pageInfoBottom" class="pagination-info">Page 1 of 1</span>
+                        <button id="nextPageBottom" class="pagination-btn rounded-r">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </button>
                     </div>
+                </div>
+            </div>
+            
+            <footer class="mt-8 text-center text-gray-500 text-sm">
+                <p>Generated on {{ timestamp }}</p>
+            </footer>
+        </div>
+
+        <!-- Filter dropdown template - will be cloned for each column -->
+        <div id="filterDropdownTemplate" class="filter-dropdown" style="display: none;">
+            <div class="filter-panel">
+                <!-- For enumerated fields (checkboxes) -->
+                <div class="enumerated-options"></div>
+                <!-- For text search -->
+                <div class="text-search">
+                    <input type="text" class="column-filter" placeholder="Search...">
                 </div>
             </div>
         </div>
@@ -478,14 +608,20 @@ def make_html(json_file_path, output_dir):
                 });
             {% endif %}
             
-            const submitterCounts = {{ submitter_counts|tojson }};
             const fields = {{ fields|tojson }};
             const enumeratedFields = {{ enumerated_fields|tojson }};
+            const enumeratedValues = {{ enumerated_values|tojson }};
+            const initialColumns = {{ initial_columns|tojson }};
             
             // Pagination state
             let currentPage = 1;
             let rowsPerPage = 50;
             let filteredData = [];
+            let visibleColumns = [...initialColumns]; // Start with initial columns
+            
+            // Filter state
+            let activeFilters = {};
+            let activeFilterDropdown = null;
             
             {% if is_embedded %}
             // For embedded version, initialize immediately
@@ -499,18 +635,14 @@ def make_html(json_file_path, output_dir):
                 // Display stats
                 document.getElementById('totalSubmissions').textContent = analysisData.length;
                 
+                // Set up column selector
+                setupColumnSelector();
+                
                 // Apply initial filtering and display
+                updateTableHeaders();
                 applyFiltersAndUpdateTable();
                 
                 // Set up event listeners
-                document.querySelectorAll('.columnSearch').forEach(input => {
-                    input.addEventListener('input', applyFiltersAndUpdateTable);
-                });
-                
-                document.querySelectorAll('.filter-checkbox').forEach(checkbox => {
-                    checkbox.addEventListener('change', applyFiltersAndUpdateTable);
-                });
-                
                 document.getElementById('clearFilters').addEventListener('click', clearAllFilters);
                 document.getElementById('downloadCsv').addEventListener('click', downloadFilteredCsv);
                 document.getElementById('rowsPerPage').addEventListener('change', function() {
@@ -519,100 +651,315 @@ def make_html(json_file_path, output_dir):
                     applyFiltersAndUpdateTable();
                 });
                 
+                // Column selector toggle
+                document.getElementById('columnSelector').addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    document.getElementById('columnMenu').classList.toggle('show');
+                });
+                
+                // Close dropdown when clicking outside
+                document.addEventListener('click', function(e) {
+                    if (!document.getElementById('columnSelectorContainer').contains(e.target)) {
+                        document.getElementById('columnMenu').classList.remove('show');
+                    }
+                    
+                    // Close any active filter dropdown if clicking outside
+                    if (activeFilterDropdown && !activeFilterDropdown.contains(e.target) && 
+                        !e.target.classList.contains('filter-toggle')) {
+                        activeFilterDropdown.style.display = 'none';
+                        activeFilterDropdown = null;
+                    }
+                });
+                
                 // Pagination controls
                 document.getElementById('prevPage').addEventListener('click', () => changePage(-1));
                 document.getElementById('nextPage').addEventListener('click', () => changePage(1));
                 document.getElementById('prevPageBottom').addEventListener('click', () => changePage(-1));
                 document.getElementById('nextPageBottom').addEventListener('click', () => changePage(1));
+            }
+            
+            function setupColumnSelector() {
+                const columnMenu = document.getElementById('columnMenu');
+                columnMenu.innerHTML = '';
                 
-                // Submitter Type Bar Chart
-                const submitterCtx = document.getElementById('submitterChart').getContext('2d');
-                new Chart(submitterCtx, {
-                    type: 'bar',
-                    data: {
-                        labels: Object.keys(submitterCounts),
-                        datasets: [{
-                            label: 'Number of Submissions',
-                            data: Object.values(submitterCounts),
-                            backgroundColor: '#4299E1'
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        plugins: { legend: { display: false } },
-                        scales: {
-                            y: {
-                                beginAtZero: true,
-                                ticks: { precision: 0 }
-                            }
+                // "Select All" option
+                const selectAllDiv = document.createElement('div');
+                selectAllDiv.className = 'flex items-center mb-2 pb-2 border-b border-gray-200';
+                
+                const selectAllCheckbox = document.createElement('input');
+                selectAllCheckbox.type = 'checkbox';
+                selectAllCheckbox.id = 'select-all-columns';
+                selectAllCheckbox.className = 'mr-2 h-4 w-4 text-indigo-600';
+                selectAllCheckbox.checked = visibleColumns.length === fields.length;
+                
+                selectAllCheckbox.addEventListener('change', function() {
+                    const isChecked = this.checked;
+                    
+                    // Update all checkboxes
+                    document.querySelectorAll('.column-checkbox').forEach(checkbox => {
+                        checkbox.checked = isChecked;
+                    });
+                    
+                    // Update visibleColumns
+                    visibleColumns = isChecked ? [...fields] : [];
+                    
+                    // Redraw the table
+                    updateTableHeaders();
+                    displayPagedData();
+                });
+                
+                const selectAllLabel = document.createElement('label');
+                selectAllLabel.htmlFor = 'select-all-columns';
+                selectAllLabel.textContent = 'Select All';
+                selectAllLabel.className = 'font-semibold text-sm text-gray-700';
+                
+                selectAllDiv.appendChild(selectAllCheckbox);
+                selectAllDiv.appendChild(selectAllLabel);
+                columnMenu.appendChild(selectAllDiv);
+                
+                // Add individual column options
+                fields.forEach(field => {
+                    const div = document.createElement('div');
+                    div.className = 'flex items-center mb-2';
+                    
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.id = `column-${field}`;
+                    checkbox.className = 'column-checkbox mr-2 h-4 w-4 text-indigo-600';
+                    checkbox.dataset.column = field;
+                    checkbox.checked = visibleColumns.includes(field);
+                    
+                    checkbox.addEventListener('change', function() {
+                        const column = this.dataset.column;
+                        
+                        if (this.checked && !visibleColumns.includes(column)) {
+                            visibleColumns.push(column);
+                        } else if (!this.checked && visibleColumns.includes(column)) {
+                            visibleColumns = visibleColumns.filter(col => col !== column);
                         }
-                    }
+                        
+                        // Update "Select All" checkbox
+                        document.getElementById('select-all-columns').checked = 
+                            visibleColumns.length === fields.length;
+                        
+                        // Redraw the table
+                        updateTableHeaders();
+                        displayPagedData();
+                    });
+                    
+                    const label = document.createElement('label');
+                    label.htmlFor = `column-${field}`;
+                    label.textContent = field;
+                    label.className = 'text-sm text-gray-700';
+                    
+                    div.appendChild(checkbox);
+                    div.appendChild(label);
+                    columnMenu.appendChild(div);
                 });
             }
             
-            function clearAllFilters() {
-                // Clear all text search inputs
-                document.querySelectorAll('.columnSearch').forEach(input => {
-                    input.value = '';
+            function updateTableHeaders() {
+                const tableHeader = document.getElementById('tableHeader');
+                tableHeader.innerHTML = '';
+                
+                const headerRow = document.createElement('tr');
+                
+                visibleColumns.forEach(field => {
+                    const th = document.createElement('th');
+                    th.className = 'py-3 px-4 border-b text-left text-xs font-semibold uppercase tracking-wider table-header';
+                    
+                    const thContainer = document.createElement('div');
+                    thContainer.className = 'th-container';
+                    
+                    const fieldTitle = document.createElement('span');
+                    fieldTitle.textContent = field;
+                    thContainer.appendChild(fieldTitle);
+                    
+                    // Add filter toggle
+                    const filterToggle = document.createElement('span');
+                    filterToggle.className = 'filter-toggle';
+                    filterToggle.innerHTML = `
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
+                        </svg>
+                    `;
+                    
+                    filterToggle.addEventListener('click', function(e) {
+                        e.stopPropagation();
+                        showFilterDropdown(field, e.target);
+                    });
+                    
+                    thContainer.appendChild(filterToggle);
+                    th.appendChild(thContainer);
+                    headerRow.appendChild(th);
                 });
                 
-                // Uncheck all checkboxes
-                document.querySelectorAll('.filter-checkbox').forEach(checkbox => {
-                    checkbox.checked = false;
-                });
+                tableHeader.appendChild(headerRow);
+            }
+            
+            function showFilterDropdown(field, element) {
+                // Close any currently open dropdown
+                if (activeFilterDropdown) {
+                    activeFilterDropdown.style.display = 'none';
+                }
+                
+                // Clone the dropdown template
+                const dropdown = document.getElementById('filterDropdownTemplate').cloneNode(true);
+                dropdown.id = `filterDropdown-${field}`;
+                dropdown.dataset.field = field;
+                
+                // Position the dropdown
+                const rect = element.getBoundingClientRect();
+                dropdown.style.top = `${rect.bottom + window.scrollY}px`;
+                dropdown.style.left = `${rect.left + window.scrollX - 200}px`; // Offset to align better
+                
+                // Set up content based on field type
+                const isEnumerated = enumeratedFields.includes(field);
+                const enumeratedOptionsContainer = dropdown.querySelector('.enumerated-options');
+                const textSearchContainer = dropdown.querySelector('.text-search');
+                
+                if (isEnumerated) {
+                    // Set up enumerated options (checkboxes)
+                    enumeratedOptionsContainer.innerHTML = '';
+                    const values = enumeratedValues[field] || [];
+                    
+                    values.forEach((value, index) => {
+                        const div = document.createElement('div');
+                        div.className = 'flex items-center mb-2';
+                        
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.id = `${field}-value-${index}`;
+                        checkbox.className = 'filter-checkbox mr-2 h-4 w-4 text-indigo-600';
+                        checkbox.dataset.field = field;
+                        checkbox.dataset.value = value;
+                        
+                        // Check if this filter is active
+                        if (activeFilters[field] && 
+                            activeFilters[field].type === 'enumerated' && 
+                            activeFilters[field].values.includes(value)) {
+                            checkbox.checked = true;
+                        }
+                        
+                        checkbox.addEventListener('change', function() {
+                            updateEnumeratedFilter(field, value, this.checked);
+                        });
+                        
+                        const label = document.createElement('label');
+                        label.htmlFor = `${field}-value-${index}`;
+                        label.textContent = value;
+                        label.className = 'text-sm text-gray-700';
+                        
+                        div.appendChild(checkbox);
+                        div.appendChild(label);
+                        enumeratedOptionsContainer.appendChild(div);
+                    });
+                    
+                    textSearchContainer.style.display = 'none';
+                } else {
+                    // Set up text search
+                    enumeratedOptionsContainer.style.display = 'none';
+                    const input = textSearchContainer.querySelector('input');
+                    input.dataset.field = field;
+                    
+                    // Set current value if there's an active filter
+                    if (activeFilters[field] && activeFilters[field].type === 'text') {
+                        input.value = activeFilters[field].value;
+                    }
+                    
+                    input.addEventListener('input', function() {
+                        updateTextFilter(field, this.value);
+                    });
+                }
+                
+                // Add to document and show
+                document.body.appendChild(dropdown);
+                dropdown.style.display = 'block';
+                activeFilterDropdown = dropdown;
+            }
+            
+            function updateEnumeratedFilter(field, value, isChecked) {
+                // Initialize filter if needed
+                if (!activeFilters[field]) {
+                    activeFilters[field] = { type: 'enumerated', values: [] };
+                }
+                
+                // Add or remove the value
+                if (isChecked && !activeFilters[field].values.includes(value)) {
+                    activeFilters[field].values.push(value);
+                } else if (!isChecked && activeFilters[field].values.includes(value)) {
+                    activeFilters[field].values = activeFilters[field].values.filter(v => v !== value);
+                }
+                
+                // Remove filter if no values are selected
+                if (activeFilters[field].values.length === 0) {
+                    delete activeFilters[field];
+                }
+                
+                // Apply filters
+                applyFiltersAndUpdateTable();
+            }
+            
+            function updateTextFilter(field, value) {
+                if (value.trim() === '') {
+                    // Remove filter if empty
+                    if (activeFilters[field]) {
+                        delete activeFilters[field];
+                    }
+                } else {
+                    // Set or update filter
+                    activeFilters[field] = { type: 'text', value: value.trim().toLowerCase() };
+                }
+                
+                // Apply filters
+                applyFiltersAndUpdateTable();
+            }
+            
+            function clearAllFilters() {
+                // Clear all active filters
+                activeFilters = {};
                 
                 // Reset pagination
                 currentPage = 1;
                 
                 // Reapply filters (which will now show all data)
                 applyFiltersAndUpdateTable();
+                
+                // Close any active filter dropdown
+                if (activeFilterDropdown) {
+                    activeFilterDropdown.style.display = 'none';
+                    activeFilterDropdown = null;
+                }
             }
             
             function applyFiltersAndUpdateTable() {
-                // Get text search filters
-                const textFilters = {};
-                document.querySelectorAll('.columnSearch').forEach(input => {
-                    const field = input.dataset.field;
-                    const value = input.value.trim().toLowerCase();
-                    if (value) textFilters[field] = value;
-                });
-                
-                // Get checkbox filters grouped by field
-                const checkboxFilters = {};
-                document.querySelectorAll('.filter-checkbox:checked').forEach(checkbox => {
-                    const field = checkbox.dataset.field;
-                    const value = checkbox.dataset.value;
-                    
-                    if (!checkboxFilters[field]) {
-                        checkboxFilters[field] = [];
-                    }
-                    checkboxFilters[field].push(value);
-                });
-                
                 // Apply all filters
                 filteredData = analysisData.filter(item => {
-                    // Check text filters
-                    const textFilterPassed = Object.entries(textFilters).every(([field, searchValue]) => {
-                        const itemValue = item[field];
-                        if (itemValue === null || itemValue === undefined) return false;
-                        return String(itemValue).toLowerCase().includes(searchValue);
-                    });
-                    
-                    if (!textFilterPassed) return false;
-                    
-                    // Check checkbox filters
-                    return Object.entries(checkboxFilters).every(([field, values]) => {
-                        if (values.length === 0) return true; // No filter selected
-                        
+                    // Check all active filters
+                    return Object.entries(activeFilters).every(([field, filter]) => {
                         const itemValue = item[field];
                         
-                        // Handle array fields (like main_topics)
-                        if (Array.isArray(itemValue)) {
-                            return values.some(value => itemValue.includes(value));
+                        if (itemValue === null || itemValue === undefined) {
+                            return false;
                         }
                         
-                        // Handle scalar fields
-                        return values.includes(String(itemValue));
+                        if (filter.type === 'text') {
+                            // Text filter
+                            return String(itemValue).toLowerCase().includes(filter.value);
+                        } else if (filter.type === 'enumerated') {
+                            // Enumerated filter (checkbox)
+                            if (filter.values.length === 0) return true; // No filter selected
+                            
+                            // Handle array fields (like main_topics)
+                            if (Array.isArray(itemValue)) {
+                                return filter.values.some(value => itemValue.includes(value));
+                            }
+                            
+                            // Handle scalar fields
+                            return filter.values.includes(String(itemValue));
+                        }
+                        
+                        return true;
                     });
                 });
                 
@@ -676,7 +1023,7 @@ def make_html(json_file_path, output_dir):
                 
                 if (filteredData.length === 0) {
                     const noDataRow = document.createElement('tr');
-                    noDataRow.innerHTML = `<td colspan="${fields.length}" class="py-4 text-center">No matching records found</td>`;
+                    noDataRow.innerHTML = `<td colspan="${visibleColumns.length}" class="py-4 text-center">No matching records found</td>`;
                     tbody.appendChild(noDataRow);
                     return;
                 }
@@ -684,13 +1031,13 @@ def make_html(json_file_path, output_dir):
                 const start = (currentPage - 1) * rowsPerPage;
                 const pagedData = filteredData.slice(start, start + rowsPerPage);
                 
-                pagedData.forEach(item => {
+                pagedData.forEach((item, index) => {
                     const row = document.createElement('tr');
-                    row.className = 'hover:bg-gray-50';
+                    row.className = 'table-row hover:bg-gray-100 transition-colors';
                     
-                    fields.forEach(field => {
+                    visibleColumns.forEach(field => {
                         const cell = document.createElement('td');
-                        cell.className = 'py-2 px-4 border-b';
+                        cell.className = 'py-3 px-4 border-b';
                         
                         let content = item[field];
                         
@@ -710,8 +1057,21 @@ def make_html(json_file_path, output_dir):
             }
             
             function downloadFilteredCsv() {
-                // Use only currently filtered data
-                const csv = Papa.unparse(filteredData);
+                // Use only currently filtered data and visible columns
+                const dataToExport = filteredData.map(item => {
+                    const exportItem = {};
+                    visibleColumns.forEach(field => {
+                        let value = item[field];
+                        // Convert arrays to comma-separated strings for CSV
+                        if (Array.isArray(value)) {
+                            value = value.join(', ');
+                        }
+                        exportItem[field] = value;
+                    });
+                    return exportItem;
+                });
+                
+                const csv = Papa.unparse(dataToExport);
                 const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
                 const url = URL.createObjectURL(blob);
                 const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
@@ -740,7 +1100,9 @@ def make_html(json_file_path, output_dir):
         fields=fields,
         enumerated_fields=enumerated_fields,
         enumerated_values=enumerated_values,
-        is_embedded=True
+        initial_columns=initial_columns,
+        is_embedded=True,
+        timestamp=datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     )
     
     with open(embedded_file_path, 'w', encoding='utf-8') as f:
@@ -756,7 +1118,9 @@ def make_html(json_file_path, output_dir):
         fields=fields,
         enumerated_fields=enumerated_fields,
         enumerated_values=enumerated_values,
-        is_embedded=False
+        initial_columns=initial_columns,
+        is_embedded=False,
+        timestamp=datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     )
     
     with open(index_html_path, 'w', encoding='utf-8') as f:
