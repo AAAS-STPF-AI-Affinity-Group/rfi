@@ -98,6 +98,8 @@ Each comment is evaluated for:
 - Summarized key arguments
 - Keywords
 - Actionable policy suggestions
+- Agencies mentioned
+- Interesting quotes
 
 ---
 
