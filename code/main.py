@@ -213,57 +213,160 @@ Return ONLY a JSON object matching this structure."""
         return result    
 
 def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model="gpt-4o-mini"):
-    """Analyze text files and save structured results incrementally with progress bar. Automatically generates HTML."""
+    """
+    Analyze text files and save structured results incrementally with robust error handling.
+    Creates a temp folder for intermediate results and aggregates at the end.
+    
+    Args:
+        text_dir: Directory containing text files to analyze
+        processed_data_dir: Directory to save processed results
+        top_n: Optional limit on number of files to process
+        batch_size: Number of files to process before saving interim results
+        model: Model to use for analysis
+    
+    Returns:
+        Path to the final aggregated results file
+    """
+    import os
+    import json
+    import time
+    import shutil
+    from datetime import datetime
+    from tqdm import tqdm
+    
+    # Create main output directory if it doesn't exist
     create_directory(processed_data_dir)
     
+    # Create a timestamped temp folder for incremental results
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    temp_dir_name = f"temp_analysis_{timestamp}"
+    temp_dir = os.path.join(processed_data_dir, temp_dir_name)
+    
+    # Check if there's an existing temp directory to resume from
+    existing_temp_dirs = [d for d in os.listdir(processed_data_dir) 
+                          if os.path.isdir(os.path.join(processed_data_dir, d)) 
+                          and d.startswith("temp_analysis_")]
+    
+    # Use the most recent temp directory if it exists
+    if existing_temp_dirs:
+        existing_temp_dirs.sort(reverse=True)  # Most recent first
+        temp_dir = os.path.join(processed_data_dir, existing_temp_dirs[0])
+        print(f"Found existing temp directory: {temp_dir}. Will resume processing from there.")
+    else:
+        # Create a new temp directory
+        create_directory(temp_dir)
+        print(f"Created temp directory for incremental results: {temp_dir}")
+    
+    # Initialize analyzer
     analyzer = Analyzer(model=model)
+    
+    # Get text files to process
     txt_files = [f for f in os.listdir(text_dir) if f.lower().endswith('.txt')]
     txt_files.sort()
     if top_n:
         txt_files = txt_files[:top_n]
-
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_filename = os.path.join(processed_data_dir, f"analyzed_{timestamp}.json")
-
-    if os.path.exists(output_filename):
-        with open(output_filename, 'r', encoding='utf-8') as f:
-            results = json.load(f)
-        print(f"Resuming from existing file with {len(results)} items.")
-    else:
-        results = {}
-
-    with tqdm(total=len(txt_files), desc="Analyzing texts") as pbar:
-        for idx, txt_file in enumerate(txt_files):
-            if txt_file in results:
+    
+    # Determine which files have already been processed
+    processed_files = set()
+    for filename in os.listdir(temp_dir):
+        if filename.endswith('.json'):
+            processed_files.add(filename.replace('.json', '.txt'))
+    
+    # Filter out already processed files
+    files_to_process = [f for f in txt_files if f not in processed_files]
+    print(f"Found {len(files_to_process)} files to process out of {len(txt_files)} total files.")
+    
+    # Process files in batches with progress tracking
+    with tqdm(total=len(files_to_process), desc="Analyzing texts") as pbar:
+        for i, txt_file in enumerate(files_to_process):
+            file_path = os.path.join(text_dir, txt_file)
+            
+            # Skip if the file doesn't exist
+            if not os.path.exists(file_path):
+                print(f"Warning: File {file_path} does not exist. Skipping.")
                 pbar.update(1)
                 continue
-
-            file_path = os.path.join(text_dir, txt_file)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                text = f.read()
-
+            
+            # Read the text file
             try:
-                analysis = analyzer.analyze(text)
-                results[txt_file] = analysis
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    text = f.read()
             except Exception as e:
-                print(f"Failed to analyze {txt_file}: {e}")
-
-            if (idx + 1) % batch_size == 0 or idx == len(txt_files) - 1:
-                with open(output_filename, 'w', encoding='utf-8') as f:
-                    json.dump(results, f, indent=2)
-                print(f"Saved progress after {idx+1} files.")
-
+                print(f"Error reading file {file_path}: {e}")
+                pbar.update(1)
+                continue
+            
+            # Analyze the text
+            max_retries = 3
+            retry_delay = 10  # seconds
+            
+            for attempt in range(max_retries):
+                try:
+                    analysis = analyzer.analyze(text)
+                    
+                    # Save individual result to temp directory
+                    result_filename = os.path.splitext(txt_file)[0] + '.json'
+                    result_path = os.path.join(temp_dir, result_filename)
+                    
+                    with open(result_path, 'w', encoding='utf-8') as f:
+                        json.dump(analysis, f, indent=2)
+                    
+                    break  # Success, exit retry loop
+                    
+                except Exception as e:
+                    if attempt < max_retries - 1:
+                        print(f"Error analyzing {txt_file} (attempt {attempt+1}/{max_retries}): {e}")
+                        print(f"Retrying in {retry_delay} seconds...")
+                        time.sleep(retry_delay)
+                        retry_delay *= 2  # Exponential backoff
+                    else:
+                        print(f"Failed to analyze {txt_file} after {max_retries} attempts: {e}")
+            
             pbar.update(1)
-
+            
+            # Optional: Add a small delay between API calls to avoid rate limits
+            time.sleep(0.5)
+    
+    # Aggregate results from temp directory
+    results = {}
+    print("Aggregating results from individual files...")
+    
+    for filename in os.listdir(temp_dir):
+        if filename.endswith('.json'):
+            try:
+                file_path = os.path.join(temp_dir, filename)
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    result = json.load(f)
+                
+                # Use the original txt filename as the key
+                txt_filename = os.path.splitext(filename)[0] + '.txt'
+                results[txt_filename] = result
+                
+            except Exception as e:
+                print(f"Error reading result file {filename}: {e}")
+    
+    # Save aggregated results to timestamped file
+    final_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_filename = os.path.join(processed_data_dir, f"analyzed_{final_timestamp}.json")
+    
+    with open(output_filename, 'w', encoding='utf-8') as f:
+        json.dump(results, f, indent=2)
+    
     print(f"Analysis complete. Final results saved to {output_filename}")
-
+    print(f"Processed {len(results)} files successfully.")
+    
+    try:
+        shutil.rmtree(temp_dir)
+        print(f"Removed temp directory: {temp_dir}")
+    except Exception as e:
+        print(f"Warning: Could not remove temp directory {temp_dir}: {e}")
+    
     # === AUTO GENERATE HTML REPORT ===
     repo_dir = os.getcwd()
     html_output_dir = os.path.join(repo_dir, 'html_reports')
     create_directory(html_output_dir)
     make_html(output_filename, html_output_dir)
-    # === === ===
-
+    
     return output_filename
 
 def make_html(json_file_path, output_dir):
@@ -1130,10 +1233,10 @@ def make_html(json_file_path, output_dir):
     create_directory(github_pages_dir)
 
     # Copy index.html and data.json to docs/
-    shutil.copy(index_html_path, os.path.join(github_pages_dir, 'index.html'))
-    shutil.copy(data_file_path, os.path.join(github_pages_dir, 'data.json'))
+    shutil.move(index_html_path, os.path.join(github_pages_dir, 'index.html'))
+    shutil.move(data_file_path, os.path.join(github_pages_dir, 'data.json'))
 
-    print(f"Copied index.html and data.json to GitHub Pages folder: {github_pages_dir}")
+    print(f"Moved index.html and data.json to GitHub Pages folder: {github_pages_dir}")
     
     return embedded_file_path
 
