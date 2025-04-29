@@ -211,6 +211,7 @@ Return ONLY a JSON object matching this structure."""
             )
             result = response.text
         return result    
+    
 
 def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model="gpt-4o-mini"):
     """
@@ -345,6 +346,9 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model
             except Exception as e:
                 print(f"Error reading result file {filename}: {e}")
     
+    # Flatten any nested submissions
+    results = flatten_submissions(results)
+    
     # Save aggregated results to timestamped file
     final_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_filename = os.path.join(processed_data_dir, f"analyzed_{final_timestamp}.json")
@@ -368,6 +372,32 @@ def analyze_texts(text_dir, processed_data_dir, top_n=None, batch_size=10, model
     make_html(output_filename, html_output_dir)
     
     return output_filename
+
+def flatten_submissions(analysis_data):
+    """
+    Flattens nested submissions in the analysis data.
+    
+    Args:
+        analysis_data: Dictionary mapping filenames to analysis results
+        
+    Returns:
+        Flattened dictionary with separate entries for each submission
+    """
+    flattened_data = {}
+    
+    for filename, result in analysis_data.items():
+        # Check if this entry has nested submissions
+        if result.get('submissions') and isinstance(result['submissions'], list) and len(result['submissions']) > 0:
+            # Create separate entries for each submission
+            for i, submission in enumerate(result['submissions']):
+                # Create a new filename with an index
+                submission_filename = os.path.splitext(filename)[0] + f'_submission_{i+1}.txt'
+                flattened_data[submission_filename] = submission
+        else:
+            # Keep regular entries as they are
+            flattened_data[filename] = result
+    
+    return flattened_data
 
 def make_html(json_file_path, output_dir):
     """Generate HTML reports from analyzed data with pagination, filtering, and GitHub Pages support.
